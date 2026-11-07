@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e604af6445278a6e9824770096ff1bcc72085750be7e46528a57630e9586faf5
+machine_hash: 3b8b857830d784af2812f8814486aaa22d9415c1e14e71f1879e8b1cb3dc2f2e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -59,8 +59,8 @@ record:
   title: 5 Account and Access changes in v2026.10.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
-  a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/Devin/2026-10-16-saml-single-logout-on-sign-out|SAML Single Logout on
+  Sign-out]]'
 - '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
   app]]'
 - '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
@@ -116,7 +116,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.4
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account and Access changes in v0.12.3]]
-- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-the-dashboard-handles-reconnects-and-long-chat-histories-with-fewer-interruption|The Dashboard handles reconnects and long chat histories with fewer interruptions…]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a|Custom Providers : Numeric provider API keys are now kept exactly as written…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

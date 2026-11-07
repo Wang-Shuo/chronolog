@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ceec5042b52a17af3e28103a156fc020376a258b29192bbdd21814b2e39bae31
+machine_hash: 5400ca2639628b9351f16ad42bc3c68bf02343364422c2f0cfd82e5d1a644ade
 product: claude-code
 product_name: Claude Code
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep your workspace's AI processing in the EU]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety and Privacy changes in v2.1.290]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-select-all-findings-of-a-severity|Select All Findings of a Severity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

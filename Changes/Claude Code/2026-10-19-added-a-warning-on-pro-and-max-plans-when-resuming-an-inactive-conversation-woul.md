@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 6fda621aa72747dd521a54040bb2197c0ae079621fb2e422bcc434c41b6dd944
+machine_hash: 61a630a31ce1c421543270e9316a6262795d75baff13efec5450246442cf2ffc
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-review-the-conversation-before-publishing-the-link-exposes-existing-and-future-u|Review the conversation before publishing]]
-- Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands): adopt the shared known-bug contract]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-teams-admin-alerts|Teams Admin Alerts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e665a8e30bbb86ac88b6d6ac7bf5bb7cee9d6483563e537fa6afabb46a4bf38f
+machine_hash: 6a44acad986f191372f57286e4911fe1c652fccdb19f84dc3da0951afac1fc38
 product: openhands
 product_name: OpenHands
 record:
@@ -54,10 +54,10 @@ record:
   title: 'ci: bump agent-canvas chart image tag on release'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
-  Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
 - '[[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and
   Data changes in v1.14.0]]'
+- '[[Changes/Raycast/2026-08-19-file-search-file-detail-previews-now-show-document-thumbnails-pdfs-keynote-pages|File
+  Search : File detail previews now show document thumbnails…]]'
 - '[[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283
   Document secure devcontainer DNS exfiltration risk @copyberry]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'

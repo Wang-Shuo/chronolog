@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: b9258a73936685d1283b3ac3a2ae41d58f844c143d4251c9492c36742b139302
+machine_hash: 6e59de81f82deb11814635198514be465da53d7a7b3d79862a5a19c97193ca4b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support changes in v0.42.0]]
-- Later: 2026-05-12 · Ollama · [[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx: refined model push behavior]]
+- Later: 2026-05-12 · Krea · [[Changes/Krea/2026-05-12-krea-2-is-here|Krea 2 is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

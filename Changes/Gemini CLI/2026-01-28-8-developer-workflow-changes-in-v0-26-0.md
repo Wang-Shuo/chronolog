@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9ad24305602a3d6ef640a5a45f634d060c14dfc979a47e89427cbc767736110
+machine_hash: 7e8772f77611548cfcdb76846d4ca1c426b06837651068fbdd959637b1f755a4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 8 Developer Workflow changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
-  Developer Workflow changes in v0.0.396]]'
+- '[[Changes/Raycast/2026-01-27-2-developer-workflow-changes-in-raycast-windows-0-43|2
+  Developer Workflow changes in Raycast windows 0.43]]'
 - '[[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects
   : connected to your actual app, with code, environment variables…]]'
 - '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 170e5f995a0992b57bc7b725689f080492f19a5d5f6d5bcb4d1165b38bcdecd9
+machine_hash: e2220e009298922eeebdc344e2925e0eb565cb6f7977db2931f863abb7ce2b68
 product: notion
 product_name: Notion
 record:
@@ -45,12 +45,11 @@ record:
   title: Code blocks on public Notion pages now include a Copy button to copy everything…
   type: change
 related_changes:
-- "[[Changes/Notion/2020-11-19-add-captions-to-code-blocks|Add captions to code blocks
-  \U0001F4BE]]"
-- '[[Changes/Notion/2021-03-10-improved-slash-command-support-for-japanese-keyboards|Improved
-  slash command support for Japanese keyboards]]'
-- '[[Changes/Notion/2021-12-23-create-flowcharts-diagrams-in-code-blocks|Create flowcharts
-  & diagrams in code blocks]]'
+- '[[Changes/Raycast/2022-01-12-api|API]]'
+- '[[Changes/Raycast/2022-02-23-linear-extension-introduced-search-projects-command|Linear
+  Extension : Introduced Search Projects command]]'
+- '[[Changes/Raycast/2022-03-24-confetti-celebrate-all-your-computer-accomplishments-with-our-brand-new-confetti|Confetti:
+  Celebrate all your computer accomplishments with our brand new confetti…]]'
 source_release: '[[Releases/Notion/notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862|notion-2022-04-14-https-www-notion-com-releases-2022-04-14-5dc68862]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-create-flowcharts-diagrams-in-code-blocks|Create flowcharts & diagrams in code blocks]]
-- Later: 2022-08-25 · Notion · [[Changes/Notion/2022-08-25-drag-a-value-from-one-cell-to-fill-other-cells|Drag a value from one cell to fill other cells]]
+- Earlier: 2022-03-24 · Raycast · [[Changes/Raycast/2022-03-24-confetti-celebrate-all-your-computer-accomplishments-with-our-brand-new-confetti|Confetti: Celebrate all your computer accomplishments with our brand new confetti…]]
+- Later: 2022-05-04 · Raycast · [[Changes/Raycast/2022-05-04-added-a-new-action-to-annotate-images-with-cleanshot-x-in-the-search-screenshots|Added a new action to annotate images with CleanShot X in the Search Screenshots…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

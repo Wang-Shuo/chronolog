@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efe296d529f086a041b72f1eb2857b61fb9b6f1b57c89e9ed2a74a07467a18c5
+machine_hash: 2cc751c93aaac6be78cf663f19e9a740f66ecfe4d61b1c5c239f30f6709edfce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 10 Collaboration changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two
-  AI hosts share a real studio scene, reacting to each other rather than appearing…]]'
+- '[[Changes/Devin/2026-07-31-this-release-also-includes-many-smaller-fixes-and-improvements-including-slack-a|This
+  release also includes many smaller fixes and improvements, including Slack…]]'
 - '[[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn
   feedback into tickets for your engineering team]]'
 - '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop the two bundles of the combined rollout package from invalidating each other's…]]
-- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins can choose whether new avatars are public or private by default]]
+- Later: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-figma-live-embeds-in-link-previews|Figma Live Embeds in Link Previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

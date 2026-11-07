@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee204c0cc2222ffcea9d3ff3ac3d022c91e65b11dec7ccc9f1cbb161d492184b
+machine_hash: 108a086df70054c391a234a15c0d41a810424f4824dac4f63523598da96c7cc8
 product: opencode
 product_name: OpenCode
 record:
@@ -60,12 +60,12 @@ record:
   title: 10 Developer Workflow changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-2-developer-workflow-changes-in-v1-3-3|2 Developer
-  Workflow changes in v1.3.3]]'
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
 - '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
   Workflow changes in v0.8.12]]'
+- '[[Changes/Raycast/2026-03-27-3-developer-workflow-changes-in-raycast-macos-0-51|3
+  Developer Workflow changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-keep-your-workspace-tidy-with-custom-window-management-commands-to-resize-and-po|Keep
+  your workspace tidy with custom window management commands to resize…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -120,7 +120,7 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer Workflow changes in v0.8.12]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-keep-your-workspace-tidy-with-custom-window-management-commands-to-resize-and-po|Keep your workspace tidy with custom window management commands to resize…]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2 Developer Workflow changes in v1.0.13]]
 <!-- chronolog:end -->
 

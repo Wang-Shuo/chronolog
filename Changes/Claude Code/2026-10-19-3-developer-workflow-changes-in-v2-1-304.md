@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cf3ec19059bb8ae653dc3e16874945efc02bdfbcc2f0ca5083722330d18a64d
+machine_hash: 0fac6dd94211e2674dd735c7c14e81675c648e76d28eccae2b5293a134760d70
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-2-developer-workflow-changes-in-v2026-10-5|2 Developer Workflow changes in v2026.10.5]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2 Developer Workflow changes in v1.0.100]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-ci-status-for-commits-branches-and-tags|CI Status for Commits, Branches and Tags]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

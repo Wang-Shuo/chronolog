@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c57a0219674d98df1be01d969890e1a993bbbb18fd6de18a3c057166c74f7ef0
+machine_hash: ca3904b4775f7df6ca7227c8d2e53567d559f865629ca42f9eedc7988701213e
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,9 @@ record:
   title: 2 Agent Mode changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]'
-- '[[Changes/Cursor/2025-12-18-linux-sandboxing-for-agents|Linux sandboxing for agents]]'
 - '[[Changes/Cursor/2025-12-18-service-accounts|Service accounts]]'
+- '[[Changes/Devin/2025-12-19-new-agent-upgrade|New Agent Upgrade]]'
+- '[[Changes/Devin/2025-12-19-computer-use-setting-update|Computer Use Setting Update]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-service-accounts|Service accounts]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-computer-use-setting-update|Computer Use Setting Update]]
 - Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send the model and CLI version with the user agent]]
 <!-- chronolog:end -->
 

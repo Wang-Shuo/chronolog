@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8bc73e6d9b6e2714c5ce984cb750fcd304f8020b8507d1508f1e4608345ce105
+machine_hash: 8d9724cdb1b5e5c35df5aea99355272c7e9b798c760fb314aace9603b90298e8
 product: opencode
 product_name: OpenCode
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-23 · Cline · [[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model from free tier]]
-- Later: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory path uses consistent muted text color with git branch and model display]]
+- Later: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-ai-more-reliable-model-for-chat-summary-titles|AI: More reliable model for chat summary titles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

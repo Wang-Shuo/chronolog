@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 440a4e1a1ece0272ac243f756094e6217281fa32154caa2c67655e7d5aa9d4f8
+machine_hash: 28db054dcab7f84062203882c8210c864272e6a44d2d9f8bdf8b9c85c7f72606
 product: v0
 product_name: v0
 record:
@@ -46,12 +46,10 @@ record:
   title: Personal accounts are now team workspaces
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
-  changes in v2026.9.7]]'
-- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
-  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
-- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
-  every video with an AI content watermark]]'
+- '[[Changes/Devin/2026-10-02-microsoft-teams-polish|Microsoft Teams Polish]]'
+- '[[Changes/Devin/2026-10-02-microsoft-teams-access-settings-are-enforced|Microsoft
+  Teams Access Settings Are Enforced]]'
+- '[[Changes/Devin/2026-10-05-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 source_release: '[[Releases/v0/v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73|v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73]]'
 source_type: v0_changelog
 theme: collaboration
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-01 · Synthesia · [[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label every video with an AI content watermark]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-microsoft-teams-improvements|Microsoft Teams Improvements]]
 - Later: 2026-10-07 · Claude · [[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly API credits for Max and Team plans]]
 <!-- chronolog:end -->
 

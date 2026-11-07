@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 729dbbc6c283a6afd19f41392b5ad68fa37822cb8bf7aa4e55215f3724b7a7b2
+machine_hash: d2f997ee5f1d5be0e5acb5c6019c0899056b5f1675905a1925c52c187522fd07
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 ## Nearby in Model Support
 
 - Earlier: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New media generation model selection in Settings]]
-- Later: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models with Qwen3's architecture including MoE now run in Ollama's new engine]]
+- Later: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-4-model-support-changes-in-lm-studio-0-3-27|4 Model Support changes in LM Studio 0.3.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

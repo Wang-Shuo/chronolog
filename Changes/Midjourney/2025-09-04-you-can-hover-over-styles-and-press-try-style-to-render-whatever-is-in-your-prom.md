@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7969f478174585ade4b52d5243bb165265daed49ab05542e2df8440700f902da
+machine_hash: 1d834e06a5cbc369f6499e7326f4ba80bc8813497bf257bb1abb80ffa6bf314d
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,9 +47,9 @@ record:
   title: You can hover over styles and press 'Try Style…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-08-29-everyone-can-manually-control-this-setting-in-the-labs-section-the-settings-menu|Everyone
-  can manually control this setting in the Labs section the Settings menu]]'
 - '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
+- '[[Changes/Raycast/2025-09-03-quick-ai-improved-rendering-of-partial-response-while-it-is-streaming-in-especia|Quick
+  AI: Improved rendering of partial response while it is streaming…]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499|midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499]]'

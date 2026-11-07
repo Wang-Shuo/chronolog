@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e799c31e555eaea790c374385cf4b91d2274014509c323c07e932d0161fc1465
+machine_hash: 5e22dda23b8775c8f189c600108c01cb9b5982de23dabfd1e2f84b819473fcd8
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,11 @@ record:
   title: Feature to generate commit message for staged changes, with unstaged as fallback
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]'
 - '[[Changes/Cursor/2025-09-12-5-developer-workflow-changes-in-1-6|5 Developer Workflow
   changes in 1.6]]'
 - '[[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]'
+- '[[Changes/Raycast/2025-09-12-ai-use-askai-as-fallback-command-in-search|AI: Use
+  AskAI as fallback command in search]]'
 source_release: '[[Releases/Cline/cline-2025-09-13-v3-28-3-github-246924106-4aceb5fb|cline-2025-09-13-v3-28-3-github-246924106-4aceb5fb]]'
 source_type: github_releases
 theme: developer-workflow
@@ -74,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]
+- Earlier: 2025-09-12 · Raycast · [[Changes/Raycast/2025-09-12-ai-use-askai-as-fallback-command-in-search|AI: Use AskAI as fallback command in search]]
 - Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-2-developer-workflow-changes-in-rust-v0-36-0|2 Developer Workflow changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 

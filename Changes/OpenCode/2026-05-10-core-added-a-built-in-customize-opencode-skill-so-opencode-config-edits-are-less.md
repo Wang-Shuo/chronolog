@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 709510dcfc40b175181d90367e364f39671fc7e5f2d3a733ae045fe9cf91aeb1
+machine_hash: eadfcf2e709457b622803f2df16374b81892e7f747a6415a2cce11ad7ba7959b
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
     less…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
-  Editor Experience changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-quick-ai-gets-a-major-refresh-in-this-release-bringing-it-closer-to-the-ai-chat|Quick
+  AI gets a major refresh in this release, bringing it closer to the AI Chat…]]'
 - '[[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor
   Experience changes in v0.9.3]]'
 - "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️

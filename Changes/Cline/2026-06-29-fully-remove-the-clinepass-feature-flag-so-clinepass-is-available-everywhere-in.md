@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2816ef4a266a913891971101fb7b6da2e56f2a9b22f09afd38efd39be1d43c52
+machine_hash: 93efce436b2c8799f09daa7901b443c304154300c9a4fb1188e3a8acf07f6397
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,8 @@ record:
     in the UI
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep
-  the web session sidebar from re-rendering on every streaming token to improve…]]'
+- '[[Changes/LM Studio/2026-06-26-2-interface-experience-changes-in-lm-studio-0-4-17|2
+  Interface Experience changes in LM Studio 0.4.17]]'
 - '[[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search
   the template and design system pickers]]'
 - '[[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2

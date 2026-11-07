@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee2d09ac05c011b3d01837684eaa0eed31b2b400230e8a6428b1d1dcc122c3b3
+machine_hash: efe0d3688c4708a3bbfaa2e23aa751d9e3fda98d370663c579845869a1893587
 product: dify
 product_name: Dify
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Files and Data changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and
-  Data changes in v1.14.0]]'
+- '[[Changes/Raycast/2026-08-19-file-search-file-detail-previews-now-show-document-thumbnails-pdfs-keynote-pages|File
+  Search : File detail previews now show document thumbnails…]]'
 - '[[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283
   Document secure devcontainer DNS exfiltration risk @copyberry]]'
 - '[[Changes/OpenHands/2026-08-21-ci-bump-agent-canvas-chart-image-tag-on-release-by-aivong-openhands-in-https-git|ci:

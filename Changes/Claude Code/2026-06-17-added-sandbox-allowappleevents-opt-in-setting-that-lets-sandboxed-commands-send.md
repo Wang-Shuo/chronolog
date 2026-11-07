@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22c661d9dd706403fc778a8a4260af5569356098174c2f3254008343a3f31877
+machine_hash: 9f1711dacee5aec68f801d852a2c13c92ab443e28ee84184592015b33c69712a
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490 Remove TUI legacy Windows sandbox dependency @etraut-openai]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-devin-review-security-findings|Devin Review: Security Findings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

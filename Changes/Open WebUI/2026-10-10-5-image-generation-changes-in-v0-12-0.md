@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3edc4509bab73f47bc40da85d344ccde2345079dcb19d3e19f986391a2daeea3
+machine_hash: 3506ac0aacea82988cc2cde04eb4dadd74a92e7b92cd1d97793daa55390927bf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,8 @@ record:
   title: 5 Image Generation changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
+- '[[Changes/AnythingLLM/2026-10-01-2-image-generation-changes-in-v1-17-0|2 Image
+  Generation changes in v1.17.0]]'
 - '[[Changes/Runway/2026-10-02-ideogram-4-5-is-now-supported-in-runway-mcp-bringing-its-image-generation-capabi|Ideogram
   4.5]]'
 - '[[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We''re

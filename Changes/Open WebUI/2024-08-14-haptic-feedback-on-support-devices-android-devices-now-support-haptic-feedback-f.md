@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3fe997e26edb5ee8551397c9d7b5b0cca7aee3eb6df8d8cb124f55be5cbf0b8c
+machine_hash: 9af1f96693ed9ae9a8e985ac1a29543c6779151b3753240d52810f8e4b731c24
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten Tracks on Web and Desktop preview]]
-- Later: 2024-08-26 · Gemini · [[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual and convenient help from Gemini]]
+- Later: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-send-screen-to-ai-chat-addressed-issue-where-the-attachment-would-not-load-in-ma|Send Screen to AI Chat : Addressed issue where the attachment would not load in macOS 14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

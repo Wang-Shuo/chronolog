@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cf56c2ed86eebd2d3f72b819eefec6b76d3cb3e56204ccba450c62fb323607f8
+machine_hash: 842478f19abbb8d1e9f0ba59c06e63c650edc4d4e3002e53290a5c1f52503dca
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Organize project files into collections
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
-  Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-command-palette-open-devin-review-from-a-pr-link|Command
+  Palette: Open Devin Review from a PR Link]]'
 - '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
   Experience changes in v2026.9.5]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-20-2026-09-20-6151474c|lovable-2026-09-20-2026-09-20-6151474c]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor Experience changes in v2026.9.5]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor Experience changes in v0.11.4]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-npx-devin-review-cli-retired|npx devin-review CLI Retired]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

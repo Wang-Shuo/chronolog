@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82081cdbdc97f7cea96c6292b1a8168249dbc8efae8364167dcb845f753c6c20
+machine_hash: afb1a3ef10b069e155ded740f41344b4fa10a29459690495fa38b187a1ebe180
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: '#27920 Handle standalone image generation failures as terminal items @won-openai'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-image-generation-with-non-standard-response-headers-image-generation-now-works-w|\U0001F58C️
-  Image generation with non-standard response headers. Image generation now…]]"
 - '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
   Generation changes in rust-v0.137.0]]'
 - '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
   Generation changes in rust-v0.138.0]]'
+- '[[Changes/Recraft/2026-06-12-we-ve-added-three-new-image-generation-models-to-recraft-available-to-paid-subsc|Recraft
+  adds three new image generation models to Recraft]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: image-generation
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image Generation changes in rust-v0.138.0]]
+- Earlier: 2026-06-12 · Recraft · [[Changes/Recraft/2026-06-12-we-ve-added-three-new-image-generation-models-to-recraft-available-to-paid-subsc|Recraft adds three new image generation models to Recraft]]
 - Later: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black Forest Lab's FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3ff3c2401606843f1634da4c6fd9e8de743ce232f2fc078337eabe57128c772
+machine_hash: da69980632fd33d73d0ab14c50c5b78eca19966d04d0f54f3e5e8606d2346418
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
     user experience
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
-  Copilot++: We''ve made Copilot++ ~2x faster!]]'
 - '[[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv
   3 A new version of sv1 with better performance and more ''vibey'' than sv2]]'
 - '[[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv
   4 A new version of sv2 that with improved performance (this is default)]]'
+- '[[Changes/Superwhisper/2024-03-22-realtime-view-performance-improvements|Realtime
+  view performance improvements]]'
 source_release: '[[Releases/Dify/dify-2024-04-09-0-6-1-github-150402892-7b8c560b|dify-2024-04-09-0-6-1-github-150402892-7b8c560b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv 4 A new version of sv2 that with improved performance (this is default)]]
+- Earlier: 2024-03-22 · Superwhisper · [[Changes/Superwhisper/2024-03-22-realtime-view-performance-improvements|Realtime view performance improvements]]
 - Later: 2024-04-10 · Ollama · [[Changes/Ollama/2024-04-10-3-reliability-and-performance-changes-in-v0-1-32|3 Reliability and Performance changes in v0.1.32]]
 <!-- chronolog:end -->
 

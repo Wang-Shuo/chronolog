@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 84510279161c89a8d838485cf613d02abcacaf1c1578a07dec0f1b5d73215056
+machine_hash: a9246a18c676bb1c8a105c28a98e7caf1b91208780696cd1b29b45c61a16e0e8
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,10 +56,10 @@ record:
     offers…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
-  sessions Changed the cloud environment dialog to open network access, setup…]]'
 - '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
   changes in 1.18.0]]'
+- '[[Changes/Krea/2026-10-23-bounding-boxes-for-krea-3-edits-in-the-api|Bounding boxes
+  for Krea 3 edits in the API]]'
 - '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
   time network responses and order them by completion]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands): time network responses and order them by completion]]
-- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A suspiciously truncated configuration no longer replaces the healthy recovery copy…]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-bounding-boxes-and-regional-edits-work-with-krea-3-ultra|Bounding boxes and regional edits work with Krea 3 Ultra]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

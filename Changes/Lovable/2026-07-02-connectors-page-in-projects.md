@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 88b7a6450bee0b32dd1c917861847596d07a58c0adc0d5e2be473ea221d31a8f
+machine_hash: af51164f8cf8115feeddc78925653ca019401c8a72c366b45d60590375a9c576
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Connectors page in projects
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins
-  can now provide slash commands via a commands field in their manifest…]]'
+- '[[Changes/Krea/2026-07-01-choose-a-workspace-when-connecting-to-mcp|Choose a workspace
+  when connecting to MCP]]'
 - '[[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new
   MCP connections for Custom Agents]]'
 - '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-integrations|Integrations]]
+- Later: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-mcp-support-to-ai-presets|AI : MCP support to AI Presets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

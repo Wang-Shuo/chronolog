@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 00b573fadb253cb54729e72e1e48c36929e823f408f71bcd15982e2273561b46
+machine_hash: ad7c53e0f46cbd13f95a346ceb24f0154562641625bfad8ceb2db87659cfbdda
 product: runway
 product_name: Runway
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]
-- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore tool calling for custom OpenAI-Compatible models whose stored capability…]]
+- Later: 2026-08-20 · Superwhisper · [[Changes/Superwhisper/2026-08-20-improvements-fixes|Improvements & Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

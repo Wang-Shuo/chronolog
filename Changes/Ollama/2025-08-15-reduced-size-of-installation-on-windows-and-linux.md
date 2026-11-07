@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2bec089e1fbc00eab035cfc3854aa0cdd59f453498bc389cda9901bda7ad06bd
+machine_hash: cce91dea2049ecb4be94d8634446f1f0b58cb07343ce6da2ccd79ac00b5a79d9
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Reduced size of installation on Windows and Linux
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source
-  link) fixes two things for Windows]]'
 - '[[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile
   and Desktop changes in v0.6.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
   and Desktop changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-mobile-sync-support-by-timothycarambat-in-https-github-com-mintplex-labs-anythin|Mobile
+  sync support]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-15-v0-11-5-github-240119297-f3d0a0be|ollama-2025-08-15-v0-11-5-github-240119297-f3d0a0be]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile and Desktop changes in v0.1.21]]
+- Earlier: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-mobile-sync-support-by-timothycarambat-in-https-github-com-mintplex-labs-anythin|Mobile sync support]]
 - Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-notion-mail-is-now-on-ios|Notion Mail is now on iOS]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0617ed5109ec882275d2f8c8091298a0f315d3a178ed99b53e2e364ef6a4c6a5
+machine_hash: 72c12e93330972e60b32d9a2fba02c52da6c775c763b944ebdba13bf40c3189d
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat(web): locate workflow nodes by node_id in the workflow editor'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor
-  Experience changes in rust-v0.145.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
-  Tab in /settings footer to switch scope tabs]]'
+- '[[Changes/Recraft/2026-07-23-you-can-now-edit-vectors-directly-in-recraft-studio-without-exporting-them-to-an|Edit
+  vectors directly in Recraft Studio, without exporting them to another tool]]'
+- '[[Changes/Devin/2026-07-24-this-release-also-includes-many-smaller-fixes-and-improvements-including-faster|This
+  release also includes many smaller fixes and improvements, including faster…]]'
 - '[[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor
   Experience changes in v0.11.0]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'

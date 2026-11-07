@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0e31d0552f5f9259ea64d74f8aeb26c016b7467ea49cf8b67e5a2d6eff324c4a
+machine_hash: c795f30aba6ee95a13282f9fa66bc05d5198453302d63c329a2f58e71325f9ca
 product: descript
 product_name: Descript
 record:
@@ -48,8 +48,8 @@ record:
   title: Descript API in open beta
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
-  Workflow changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General
+  : "Send Feedback" tray command now opens the feedback window directly]]'
 - '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
   Workflow changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added

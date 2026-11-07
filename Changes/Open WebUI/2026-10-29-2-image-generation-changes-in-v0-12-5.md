@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65d30abd0bdfaac6ef76d6e71d76f9884a9b432a23bf4ba16d70773f89dbdccf
+machine_hash: 39a6dd2d0a82a26380f57d154b05e1d191d8df3bcbe8b1eb12b5640da018adc7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,7 @@ record:
   title: 2 Image Generation changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image
-  Generation changes in rust-v0.164.0]]'
+- '[[Changes/Krea/2026-10-24-chatgpt-image-retired|ChatGPT Image retired]]'
 - "[[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|\U0001F58C️
   Images settings save. Admins can now save Images settings while Image…]]"
 - '[[Changes/Codex CLI/2026-10-29-3-image-generation-changes-in-rust-v0-166-0|3 Image

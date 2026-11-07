@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a186e09e8df52af72a2333d58881ac4a54cf8ef5a5a90884dcf56193c2a8383
+machine_hash: 7ba67b3facc3992e1b9b5c5b73b8f58359f9790702a8b8fcdf94d8b5a9b4c07b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,8 +106,8 @@ record:
   title: 33 Apps and Integrations changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
-  can use your connected service account while building]]'
+- '[[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2
+  Apps and Integrations changes in Raycast windows 0.71]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
   Apple Messages from Codex and ChatGPT Work]]'
 - '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6

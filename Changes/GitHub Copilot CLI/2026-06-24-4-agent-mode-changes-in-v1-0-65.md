@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ec399bdacb390c9d07ff996af36ce7325bd99b48362a43c7b9c840c9953d3c2
+machine_hash: deac0372a23a1cf343e1f3ba03617816de022048feb9a153cc4205715d416924
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.65
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent Mode changes in v1.0.64]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode changes in v2.1.193]]
+- Later: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-2-agent-mode-changes-in-v1-15-0|2 Agent Mode changes in v1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

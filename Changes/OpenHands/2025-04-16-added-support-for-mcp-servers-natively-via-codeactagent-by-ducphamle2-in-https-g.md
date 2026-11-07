@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ccfc19b2807990ac635c08ffb789ed162213c3e1d7f0b6b09e59b93bb192fd38
+machine_hash: b7f40021a6ae64cb5446879d69342173808ad2d10ca82549899991e83b3ac560
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
-- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations matching]]
+- Later: 2025-04-17 · Devin · [[Changes/Devin/2025-04-17-we-now-support-jira-in-addition-to-linear-the-best-workflow|We now support Jira, in addition to Linear!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d49a3faf634b096d2e1bccecf6a168787b3f1fef1f6275a2307a724ecf4ed58
+machine_hash: 48400b9d2efc0d383ba9ca71052349094181fdcae8eb3afa50fe2632a6a38078
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     cache…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core):
-  cap JIT context upward traversal at git root]]'
+- '[[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-feature-called-intelligent-tool-selection-https-docs-anythin|AnythingLLM
+  adds a new feature called Intelligent Tool…]]'
 - '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
   Window changes in v2.1.91]]'
 - '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'

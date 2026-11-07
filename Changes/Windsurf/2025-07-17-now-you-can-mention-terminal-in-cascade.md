@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c300865714d5a4c42d562f0d604cd9b66b8c003b7268e3513d1fea229b66f95
+machine_hash: ae0d4bf293e9d46b01d51afacd56a7592829ba152a8962902fc34d02ba20a150
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,8 +40,8 @@ record:
   title: Now you can @-mention terminal in Cascade
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-2-developer-workflow-changes-in-v3-18-15|2 Developer
-  Workflow changes in v3.18.15]]'
+- '[[Changes/AnythingLLM/2025-07-16-sticky-code-block-header-by-shatfield4-in-https-github-com-mintplex-labs-anythin|Sticky
+  code block header]]'
 - '[[Changes/OpenHands/2025-07-16-4-developer-workflow-changes-in-0-49-0|4 Developer
   Workflow changes in 0.49.0]]'
 - '[[Changes/Cline/2025-07-17-refactoring-terminal-process-logic-and-edge-cases-for-simplicity-by-arafatkatze|Refactoring

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 541663a0366c313c3bfe040977538691bfda726e1ce54ded748e94234c751b56
+machine_hash: cc6b736eec595ee7ea8259d1469d73e6cc0e52c1edf3e7dfed5af304d5c33384
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: All tasks are faster and more reliable
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
-  Reliability and Performance changes in rust-v0.140.0]]'
+- '[[Changes/AnythingLLM/2026-06-16-4-reliability-and-performance-changes-in-v1-14-1|4
+  Reliability and Performance changes in v1.14.1]]'
 - '[[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves
   open-source SOTA performance on coding and long-horizon task benchmarks…]]'
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With

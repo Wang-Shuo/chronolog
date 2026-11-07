@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1891002f9a4eb2710ba0d876b8dcfafd60af90ae94226270919f4d9f904d4dd7
+machine_hash: 2404050c2f2fb4b7fc66cfadc740ca071b0b4873d9c95ad844986694d06bd250
 product: opencode
 product_name: OpenCode
 record:
@@ -90,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.3.3
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive pages for better search & AI results]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
+- Later: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-re-styled-keyboard-shortcut-inputs-for-a-cleaner-look|Re-styled keyboard shortcut inputs for a cleaner look]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

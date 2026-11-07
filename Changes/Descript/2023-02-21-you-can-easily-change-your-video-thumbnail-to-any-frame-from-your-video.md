@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbdadb16044115a5d07f28ed8e80bb77cdecaa1777b5645ca98868a9ccd98125
+machine_hash: e614eddf9677502076bc180d7396746de171fd53c128d992f5e6fc2569d7c90d
 product: descript
 product_name: Descript
 record:
@@ -43,8 +43,8 @@ record:
   title: You can easily change your video thumbnail to any frame from your video
   type: change
 related_changes:
-- '[[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video
-  timeline dragging]]'
+- '[[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar:
+  You can now join Cal.com video meetings right from Raycast]]'
 - '[[Changes/Descript/2023-02-21-updated-the-icons-for-buttons-to-open-the-share-page-and-unpublish-the-video|Updated
   the icons for buttons to open the share page and unpublish the video]]'
 - '[[Changes/Descript/2023-02-21-we-now-make-the-first-frame-of-your-video-the-default-thumbnail|We
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video timeline dragging]]
-- Later: 2023-03-09 · Synthesia · [[Changes/Synthesia/2023-03-09-now-with-just-one-click-you-can-easily-edit-your-videos-we-re-also-introducing-v|The EDIT Button is here!]]
+- Earlier: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar: You can now join Cal.com video meetings right from Raycast]]
+- Later: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2 Multimodal Input changes in Raycast macos-v1 1.48.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

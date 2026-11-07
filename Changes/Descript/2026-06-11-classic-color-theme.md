@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9459d8b87aa7ba545d40b54f900c8409058e0fce3fdde7eabafe63b1866fc3fe
+machine_hash: 100870b0f44b71f52431f60a67ac278caa23479a5c656539c180d7036c32ad75
 product: descript
 product_name: Descript
 record:
@@ -45,11 +45,11 @@ record:
   title: Classic color theme
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
-  the Mission Control sharing status of synced sessions in the /session info view]]'
-- '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
-  collaborative workspaces]]'
 - '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Superwhisper/2026-06-09-added-stat-share-card-feature|Added Stat share
+  card feature]]'
+- '[[Changes/Devin/2026-06-10-sent-from-slack-teams-linear-indicator|"Sent from Slack/Teams/Linear"
+  Indicator]]'
 source_release: '[[Releases/Descript/descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b|descript-2026-06-11-6a2b3bab1b3cd1eee09fe520-f254003b]]'
 source_type: canny_changelog
 theme: collaboration
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]
+- Earlier: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-sent-from-slack-teams-linear-indicator|"Sent from Slack/Teams/Linear" Indicator]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245 image: add shared data URL preparation utilities @fjord-oai]]
 <!-- chronolog:end -->
 

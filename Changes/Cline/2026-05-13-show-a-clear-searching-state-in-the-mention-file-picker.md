@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85d45f8483042a2c855bdc730d597429d669d5258f39dfe44cf6e2a8fc11342e
+machine_hash: 59714d1effa2d15e8e319fae304acd291520a47c7d7287bb1da0480c940bcad1
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Show a clear "Searching..." state in the @-mention file picker
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface
-  Experience changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
   add behavioral eval for file creation and write_file tool selection]]'
+- '[[Changes/Raycast/2026-05-12-extensions-improved-affordance-of-tag-picker-component|Extensions
+  : Improved affordance of tag picker component]]'
 - '[[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface
   Experience changes in v2.1.141]]'
 source_release: '[[Releases/Cline/cline-2026-05-13-v3-83-0-github-322019752-5cd466dd|cline-2026-05-13-v3-83-0-github-322019752-5cd466dd]]'

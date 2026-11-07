@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9f106cdffbd0b800d9f309e95e99ba05b6da788d3d0b87e260fa2f3141ded3b
+machine_hash: f9e87f5695634eef6c2e7dacb232fa40d526895391945a9319f0c06e30341d09
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -59,8 +59,8 @@ record:
   title: 4 Safety and Privacy changes in ElevenLabs updates — 2026-11-02
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
-  and Privacy changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-new-security-connections-sonarqube-linear-and-vanta|New
+  Security Connections: SonarQube, Linear and Vanta]]'
 - '[[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core
   Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]'
 - '[[Changes/Lovable/2026-11-01-download-an-sbom-for-your-project|Download an SBOM

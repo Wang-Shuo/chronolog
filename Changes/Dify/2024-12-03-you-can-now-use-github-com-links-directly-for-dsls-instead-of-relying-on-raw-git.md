@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c24a8c2f461a4c4fe3c74f038bca1746389907f6398dba44f2ebfec8d897b533
+machine_hash: bb0e001057618da00af51386a0ac1c78b35bed7b0ef46e07c4a11cd4f14627e8
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: Use `github.com` links directly for DSLs instead of relying on `raw.githubusercontent.com`
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|\U0001F6E0️
-  Functions Moved to Admin Panel]]"
 - '[[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat:
   add a minimal separator between pinned apps and unpinned apps in the explore page]]'
+- '[[Changes/AnythingLLM/2024-11-26-5-apps-and-integrations-changes-in-v1-3-0|5 Apps
+  and Integrations changes in v1.3.0]]'
 - '[[Changes/Gemini/2024-12-02-expanding-workspace-extensions-to-more-languages-keep-and-tasks|Expanding
   Workspace extensions to more languages: Keep and Tasks]]'
 source_release: '[[Releases/Dify/dify-2024-12-03-0-13-0-github-188658250-1aa233f6|dify-2024-12-03-0-13-0-github-188658250-1aa233f6]]'

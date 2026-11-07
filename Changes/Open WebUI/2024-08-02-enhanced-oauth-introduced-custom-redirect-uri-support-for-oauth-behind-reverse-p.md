@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: db19f2769e6e866c02a1d215215dfb6cb09a27193792f768e94750736d762c3f
+machine_hash: 9e2ab30748ae97252efb0ee492bbb3b5e5d79faab7af3fad381fca52beec128a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,12 @@ record:
   title: "**\U0001F512 Enhanced OAuth**"
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]'
 - '[[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action):
   move docker login above Set up QEMU in build-push action workflow]]'
 - "[[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|\U0001F6E0️
   Custom Environment for OpenID Claims]]"
+- '[[Changes/AnythingLLM/2024-07-26-4-account-and-access-changes-in-v1-0-0|4 Account
+  and Access changes in v1.0.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: account-access
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|🛠️ Custom Environment for OpenID Claims]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-4-account-and-access-changes-in-v1-0-0|4 Account and Access changes in v1.0.0]]
 - Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-oauth-email-claim-customization-introduced-an-oauth-email-claim-variable-to-allo|🌀 OAuth Email Claim Customization]]
 <!-- chronolog:end -->
 

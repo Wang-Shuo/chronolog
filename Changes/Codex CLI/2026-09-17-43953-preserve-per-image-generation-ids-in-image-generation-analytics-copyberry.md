@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f934345e8c75733a59f6602aaec5de48f0d1f7341c6601e21500e26cfa5da11
+machine_hash: a25ab2263b20cd3e3e520f89cadfd9535e0c356a73f9ff9415e73b9435ef9339
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#43953 Preserve per-image generation IDs in image generation analytics @copyberry'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
-  Images 2.5 brings sharper details, more precise editing, and faster image…]]'
 - '[[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation
   changes in v2026.9.4]]'
+- '[[Changes/Recraft/2026-09-11-openai-s-fastest-image-generation-and-editing-model-is-available-in-recraft-stud|New
+  Model: ChatGPT Images 2.5]]'
 - '[[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT
   Image 2.5 Flare and Sunburst for your app''s AI features]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d11b99d528868f94623885cc8e738d21417cdfaef8c469364aad2288e8208c95
+machine_hash: b6756b760ad723ae607059697d2c9503912933d9becf6e15e4c9fa5e62935eaf
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,8 +55,7 @@ record:
     they first…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
-  team and MDM hooks support to CLI with more efficient execution]]'
+- '[[Changes/Devin/2026-01-22-sessions-api-enhancements|Sessions API Enhancements]]'
 - '[[Changes/Codex CLI/2026-01-25-5-collaboration-changes-in-rust-v0-90-0|5 Collaboration
   changes in rust-v0.90.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration

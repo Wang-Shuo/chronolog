@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0312031afaf6b46c0713c6ce311952f82ad4c7fb1490bf89310209414360c62
+machine_hash: 293568074008bc039b714f7f316099528547946444ed246fb4007a277ba93e2d
 product: notion
 product_name: Notion
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2020-06-23 · Notion · [[Changes/Notion/2020-06-23-navigating-databases-is-much-faster-thanks-to-improved-caching|Navigating databases is much faster, thanks to improved caching]]
-- Later: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-we-ve-now-increased-the-maximum-playback-speed-from-2x-to-3x|Increased playback speed]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-jira-extension|Jira Extension]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

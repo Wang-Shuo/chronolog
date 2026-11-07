@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eed1e56c80f8779ee7b7deae9a58e4ed4a932629e1d850a27395256db2385393
+machine_hash: aadf29b99efee14a79a9e3f8bd0f981be7c0ea49894b30d9d2e420ee9b4da9c8
 product: descript
 product_name: Descript
 record:
@@ -54,9 +54,10 @@ record:
   title: Auto-detect transcription language
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-27-build-notifications|Build notifications]]'
 - "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
   Audio Input Echo Cancellation]]"
+- '[[Changes/Devin/2025-01-08-talk-to-devin-in-slack-devin-can-now-respond-to-audio-messages|Talk
+  to Devin in Slack - Devin can now respond to audio messages]]'
 - '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
   changes in v0.71.0]]'
 source_release: '[[Releases/Descript/descript-2025-01-28-67996a6a784b54ba407fc85a-9d4f49f2|descript-2025-01-28-67996a6a784b54ba407fc85a-9d4f49f2]]'
@@ -88,7 +89,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio changes in v0.71.0]]
-- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You can hear a before and after sample below]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-audio-file-validations-by-shatfield4-in-https-github-com-mintplex-labs-anything|Audio file validations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

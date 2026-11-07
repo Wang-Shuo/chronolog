@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bf2fdb39fdb1115da659d08975671831bf3f8af7c0e73c639c979809323170df
+machine_hash: f3bc55969a75e7c692c66af864d447551fd00c910873ca27f41d8fe2e5c3914a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration changes in v0.3.0]]
-- Later: 2025-09-12 · Manus · [[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing Manus collaboration]]
+- Later: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-api-v2-knowledge-sharing|API v2 knowledge sharing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

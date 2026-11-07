@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0624ddf25af66e04bfc7787be3081fa6e3d14255fff39f71a8097d7cee999958
+machine_hash: 2f15a37e73d96e4e298e7d2567d3f6bfba818e0a1623f7cceb1d67529f45e165
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,8 +48,8 @@ record:
     bar…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown
-  Rendering Fixes]]'
+- '[[Changes/Raycast/2025-06-11-apps-can-also-be-minimised-with-the-hotkey|Apps can
+  also be minimised with the hotkey]]'
 - '[[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation
   Panel Optimization]]'
 - '[[Changes/Midjourney/2025-06-16-basic-instructions|Basic Instructions]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-basic-instructions|Basic Instructions]]
-- Later: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We are also letting you animate images uploaded from outside of Midjourney]]
+- Later: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-notes-added-keyboard-shortcut-for-creating-a-link-l|Notes: Added keyboard shortcut for creating a link ⌘L]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

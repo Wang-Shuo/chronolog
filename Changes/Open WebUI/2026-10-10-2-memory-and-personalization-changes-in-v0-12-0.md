@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92814e1c409a587ba7b9d30aff01668312b608d40aeb16d12194950e08fc24d0
+machine_hash: c33239a600571a5c5e101e39aadbd7126a344398ad0d1ea5056f412f2ec7aee6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,11 +52,12 @@ record:
   title: 2 Memory and Personalization changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
-  Remove legacy personality template metadata @rhan-oai]]'
-- '[[Changes/Midjourney/2026-10-08-organization-improvements|ORGANIZATION IMPROVEMENTS]]'
-- '[[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2
-  Memory and Personalization changes in v2026.9.9]]'
+- '[[Changes/Raycast/2026-10-09-file-search-improved-cpu-and-memory-utilization-file-search-should-now-use-rough|File
+  Search : Improved CPU and memory utilization]]'
+- '[[Changes/Raycast/2026-10-09-we-made-more-memory-and-performance-improvements-ai-chat-notes-and-settings-now|We
+  made more memory and performance improvements]]'
+- '[[Changes/Raycast/2026-10-09-2-memory-and-personalization-changes-in-raycast-macos-2-7|2
+  Memory and Personalization changes in Raycast macos 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: memory
@@ -107,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2 Memory and Personalization changes in v2026.9.9]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-memory-and-personalization-changes-in-raycast-macos-2-7|2 Memory and Personalization changes in Raycast macos 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13 Memory and Personalization changes in v2026.10.1]]
 <!-- chronolog:end -->
 

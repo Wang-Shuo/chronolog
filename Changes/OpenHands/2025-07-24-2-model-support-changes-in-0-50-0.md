@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5275739e3984e02efe48510afad5d1e951136f5847cff31244f0309c5761fa6d
+machine_hash: 6a678ce7bd8169a6579af8cf83e024f25567b5ef6789ebbe3de149e6884e4134
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in 0.50.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
-  plan act model settings]]'
+- '[[Changes/LM Studio/2025-07-22-added-think-toggle-button-into-chat-input-for-models-that-support-turning-thinki|Added
+  "Think" toggle button into chat input for models that support turning thinking…]]'
 - '[[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding
   support for new models Qwen 3 models on Qwen provider]]'
 - '[[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes

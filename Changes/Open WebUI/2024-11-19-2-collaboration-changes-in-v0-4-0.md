@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d376547099f74fcbd70a66428e502b109f36d926a7da6e44540f74b680298bd1
+machine_hash: 1941a46bb22f09cdba81eeaacf6fbcdb42b7dca64f92fa0e69fcf08ba129b96a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Collaboration changes in v0.4.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
-  Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 - '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
   opt-in analytics((source link) with no…]]'
+- '[[Changes/Devin/2024-11-01-you-ll-receive-warnings-if-devin-is-about-to-sleep|You''ll
+  receive warnings if Devin is about to sleep]]'
 - '[[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme
   sharing link]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d1c995dbf90c68fbd08274b180fb94eb212edb64106524945fd980e8fe0d548
+machine_hash: c23e0b2272e6282f8b76fef2c5494a7124f1e8ea6e2b6f52b4450d89a753b196
 product: lovable
 product_name: Lovable
 record:
@@ -62,10 +62,8 @@ record:
   title: '**GitHub button in editor top…'
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2
-  Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]'
-- '[[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal
-  Added pinned sessions with quick-switch slots in the session picker]]'
+- '[[Changes/Devin/2026-05-17-collapsible-session-folders|Collapsible Session Folders]]'
+- '[[Changes/Devin/2026-05-17-archive-all-sessions|Archive All Sessions]]'
 - '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
   Interface Experience changes in rust-v0.131.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 046ef9f5f707ce881126db7fbab0183d8d3979309cef2ab2b86d70729bfb9c50
+machine_hash: a9b8655e420f0c1be8237cdbf3defd3d76564836efb1ee787cbe819877f6a4e3
 product: v0
 product_name: v0
 record:
@@ -43,11 +43,12 @@ record:
   title: Integration icons no longer fail to load in project settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
-- '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
 - '[[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance
   warnings]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-made-mention-labels-clearer-by-distinguishing-skills-and-mcp-tools|AI
+  Chat : Made mention labels clearer by distinguishing skills and MCP tools]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-made-mention-labels-clearer-by-distinguishing-skills-and-mcp-tools-a49be1|AI
+  Chat : Made mention labels clearer by distinguishing skills and MCP tools]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
 source_type: v0_changelog
 theme: apps-integrations
@@ -82,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance warnings]]
-- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps and Integrations changes in v2026.10.5]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-made-mention-labels-clearer-by-distinguishing-skills-and-mcp-tools-a49be1|AI Chat : Made mention labels clearer by distinguishing skills and MCP tools]]
+- Later: 2026-10-17 · Krea · [[Changes/Krea/2026-10-17-launch-pop-ups-no-longer-appear-inside-desktop-plugins|Launch pop-ups no longer appear inside desktop plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

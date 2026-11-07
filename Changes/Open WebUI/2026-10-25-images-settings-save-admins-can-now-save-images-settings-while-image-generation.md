@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e5a2c54d12776a5422a726d98c019fcc8391a2277c5a650e709e5d67712875b
+machine_hash: 5234d0bdf0157f3dfa5868d4a6daf819a22839b5eb915099dc3811255d43888b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,12 +61,11 @@ record:
     while Image…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
-  generation with OAuth can retry using a supported OpenAI chat model…]]'
 - "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
   Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 - '[[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image
   Generation changes in rust-v0.164.0]]'
+- '[[Changes/Krea/2026-10-24-chatgpt-image-retired|ChatGPT Image retired]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: image-generation
@@ -109,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image Generation changes in rust-v0.164.0]]
+- Earlier: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-chatgpt-image-retired|ChatGPT Image retired]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-3-image-generation-changes-in-rust-v0-166-0|3 Image Generation changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

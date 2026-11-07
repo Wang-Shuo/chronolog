@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f74d84bd9004fad00ff1ddde7a1f013b27a10106c6b9926501c7638a021fdb4a
+machine_hash: a849034734a1eeb10d1cc012e9e6902695e1e7133e0ebb1863a825f9ef6c218a
 product: windsurf
 product_name: Windsurf
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-prevent-memory-leaks-from-abortcontroller-closures|Prevent memory leaks from AbortController closures]]
-- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]
+- Later: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-devin-review-auto-review-settings|Devin Review: Auto-Review Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

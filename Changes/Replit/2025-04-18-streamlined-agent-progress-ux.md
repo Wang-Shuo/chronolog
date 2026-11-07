@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ea22b00b18b7dc54803a236678ee53a84006ebad6d82a844449315674a0b5bda
+machine_hash: 6a2e9d074f665978f9d01b0c46f3dc5a9c98ad90852dfe1f2a5de834b78c226e
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,11 @@ record:
   title: Streamlined Agent progress UX
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-14-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-04-14-agents-platform-a7909d|Agents Platform]]'
 - '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
   reviews easier]]'
+- '[[Changes/AnythingLLM/2025-04-18-3-agent-mode-changes-in-v1-8-0|3 Agent Mode changes
+  in v1.8.0]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
+- Earlier: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-3-agent-mode-changes-in-v1-8-0|3 Agent Mode changes in v1.8.0]]
 - Later: 2025-04-21 · ElevenLabs · [[Changes/ElevenLabs/2025-04-21-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

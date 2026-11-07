@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbc9b4085a3d0bc65e5e3a2928a9929d75aa0453f164ce04581cbaf0bd733d47
+machine_hash: 0e600c451656a501334298464129662488f80adb7bf519813dfb789c51ed629e
 product: ollama
 product_name: Ollama
 record:
@@ -56,12 +56,11 @@ record:
   title: '[Gemma 4 QAT weights](https://ollama.com/library/gemma4)'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
-  rendering performance for large file writes]]'
-- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
-  performance, and platform improvements]]'
 - '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
   correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/Krea/2026-06-04-introducing-krea-2-turbo|Introducing Krea 2 Turbo]]'
+- '[[Changes/Raycast/2026-06-04-2-reliability-and-performance-changes-in-raycast-macos-0-63|2
+  Reliability and Performance changes in Raycast macos 0.63]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-05-v0-30-6-github-334697151-afed40f0|ollama-2026-06-05-v0-30-6-github-334697151-afed40f0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637 codex Speed up external agent session imports @stefanstokic-oai]]
+- Earlier: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-2-reliability-and-performance-changes-in-raycast-macos-0-63|2 Reliability and Performance changes in Raycast macos 0.63]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-x-all-model-providers-are-now-opt-out-of-tool-calling-by-default-everything-will|x All model providers are now opt-out of tool calling by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

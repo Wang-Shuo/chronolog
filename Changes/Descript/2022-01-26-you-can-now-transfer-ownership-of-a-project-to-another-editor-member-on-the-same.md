@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fbdb3e8b06489e172e3aad8ffc9d5e11b869c3ffbebb5be8abf93e7f3a29358
+machine_hash: b9412f0d47297e04da6ca298b1f2f6cde9a47d4a0cba4dca790ba30fd2541436
 product: descript
 product_name: Descript
 record:
@@ -41,10 +41,10 @@ record:
   title: Transfer ownership of a project to another Editor member on the same Drive
   type: change
 related_changes:
-- '[[Changes/Descript/2021-10-19-drive-view-filter-to-projects-or-recordings|Drive
-  View: filter to projects or recordings]]'
 - '[[Changes/Notion/2021-12-23-the-pop-up-that-appears-when-hovering-your-cursor-over-hyperlinked-text-now-incl|The
   pop-up that appears when hovering your cursor over hyperlinked text now includes…]]'
+- '[[Changes/Raycast/2022-01-12-preferences-you-can-now-open-store-to-install-extensions-from-the-extensions-tab|Preferences:
+  You can now open Store to install extensions from the Extensions Tab]]'
 - '[[Changes/Notion/2022-01-19-select-text-across-multiple-blocks|Select text across
   multiple blocks]]'
 source_release: '[[Releases/Descript/descript-2022-01-26-6390c9e04a4a0d64fa56499c-ee4e1bb1|descript-2022-01-26-6390c9e04a4a0d64fa56499c-ee4e1bb1]]'

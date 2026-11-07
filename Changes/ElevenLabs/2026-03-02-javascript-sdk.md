@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a9ca3a273f4add7fef5063a0bc314294d05209afa268ed7fff90eda33ce4f6af
+machine_hash: fe6c918205ae8fa659a160496ded56571cdd958bcbd8c2941475c02f92920df8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,10 +48,10 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3
-  Apps and Integrations changes in v0.0.419]]'
 - '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
   ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
+- '[[Changes/AnythingLLM/2026-03-02-lemonade-integration-by-timothycarambat-in-https-github-com-mintplex-labs-anythi|Lemonade
+  integration]]'
 - '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
   Apps and Integrations changes in rust-v0.107.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-02-2026-03-02-97fa6f5d|elevenlabs-2026-03-02-2026-03-02-97fa6f5d]]'

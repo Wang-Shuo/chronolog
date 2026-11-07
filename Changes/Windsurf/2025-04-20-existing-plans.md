@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 599f47c9142cdbb2a9fb55bb981ed1d90f9058eb876654d1d03739a0476f2398
+machine_hash: eae39d23b0f21aee44ccb75cdd0b2fe484fb8e8c77463eb6a17fe732538962d0
 product: windsurf
 product_name: Windsurf
 record:
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Earlier: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-try-raycast-ai-for-free|Try Raycast AI For Free]]
 - Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 

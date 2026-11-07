@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7b302079e4c6af1edb934c39140904cf4bc37914ba8bb32c9348ab6a12ced9e2
+machine_hash: cb296f038d69c63a38d2d84356ad087bc59b2b3ed46032aa36f2f6bd4bbabe2f
 product: opencode
 product_name: OpenCode
 record:
@@ -59,10 +59,10 @@ record:
   title: Percentage Compaction Buffer
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
-  Provider details for models. Administrators editing a model now see a Provider…]]"
 - '[[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window
   changes in v2.2.1]]'
+- '[[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal
+  Access Tokens Default to Approval Required]]'
 - '[[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window
   changes in v2.2.5]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window changes in v2.2.1]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal Access Tokens Default to Approval Required]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3 and Qwen3.5 models using long-context (YaRN) scaling]]
 <!-- chronolog:end -->
 

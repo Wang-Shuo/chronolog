@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 78d9377845a28ce1bd646e5ee0c726408a6751300c8e792435e7128691a1a230
+machine_hash: 1f54543429b9f6bd90c11ddc1df2f45e7e6e6d55be0bf012be8ba876ce550fa0
 product: synthesia
 product_name: Synthesia
 record:
@@ -53,10 +53,10 @@ record:
   title: Set per-user limits with Credit controls
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
-  usage reporting no longer shows partial status or phantom unattributed…]]'
 - '[[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about
   10× further]]'
+- '[[Changes/Krea/2026-10-20-2-pricing-model-changes-in-flux-3-max-video-agent-api-agent|2
+  Pricing Model changes in FLUX 3 Max video, Agent API, Agent…]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-10-21-https-www-synthesia-io-updates-set-per-user-limits-with-credit-c-febb1d30|synthesia-2026-10-21-https-www-synthesia-io-updates-set-per-user-limits-with-credit-c-febb1d30]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-workspace-usage-by-member|Workspace usage by member]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

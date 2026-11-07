@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd50a158e79d24dfe73b17ec6f27430658c01ba3b656028b7c1024efd54f4270
+machine_hash: b67b14532ac04434a748b3b611c2c6459c4f984b74da53f1102cb5f940fdd9f5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F6AB OIDC Boolean Access Fix**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-24-update-info-notification-for-admins-ensures-administrators-receive-immediate-upd|❗
-  Update Info Notification for Admins]]'
+- '[[Changes/Devin/2024-10-10-we-ve-migrated-our-authentication-system-to-auth0|We''ve
+  migrated our authentication system to Auth0]]'
 - '[[Changes/Dify/2024-10-21-2-account-and-access-changes-in-0-10-0|2 Account and
   Access changes in 0.10.0]]'
 - '[[Changes/Dify/2024-10-23-2-account-and-access-changes-in-0-10-1|2 Account and

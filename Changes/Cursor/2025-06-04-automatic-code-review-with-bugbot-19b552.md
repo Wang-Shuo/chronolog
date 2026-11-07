@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2da3f698a0fd1d7872b8bd3fd82b2980a158d718a2c3db27130ea15e3ab829bd
+machine_hash: 82f4b339e60416f4f3986e6dd2f21e5f5c013555c89640a81d560615323ca95c
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: Automatic code review with Bugbot
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|\U0001F4DD
-  Preview Button for Code Artifacts]]"
+- '[[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf-55f0b8|Add
+  lms chat command to the CLI to chat with a model in the terminal…]]'
 - '[[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow
   changes in 1.4.1]]'
 - '[[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added

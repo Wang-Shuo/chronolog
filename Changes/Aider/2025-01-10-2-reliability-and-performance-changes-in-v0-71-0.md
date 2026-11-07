@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 445244305d39f96ffee1675c3486bbe6d48114e27d7879d8d15b862d19fbe073
+machine_hash: d4eb09bfed2bb8775ea3ba87cdd93d5bc0664bff464965018ab1e51d63ad4bbc
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Reliability and Performance changes in v0.71.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3
-  Reliability and Performance changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-mlx-updates-apple-silicon|MLX updates (Apple Silicon)]]'
 - '[[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance
   improvement of UI during long sessions]]'
 - '[[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite

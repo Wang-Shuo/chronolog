@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d545fd64194eb849b912939f142983c4454c7c8fde1406bc1a7be1ac5b800f25
+machine_hash: 432b8534f5c27d0c5103c19e3abc6584591bd7caac6d487b9e59d8b22b32af5e
 product: ollama
 product_name: Ollama
 record:
@@ -51,8 +51,8 @@ record:
   title: Qwen3 and Qwen3.5 models using long-context (YaRN) scaling
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window
-  changes in v2.2.1]]'
+- '[[Changes/Devin/2026-10-30-personal-access-tokens-default-to-approval-required|Personal
+  Access Tokens Default to Approval Required]]'
 - '[[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window
   changes in v2.2.5]]'
 - '[[Changes/OpenCode/2026-10-30-percentage-compaction-buffer|Percentage Compaction

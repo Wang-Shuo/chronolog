@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7274b93559271beee3152ae8b8fa27326f88760e2c5574f1a49a846887eff387
+machine_hash: 0d6d5fd6094733a62b71ae773c1983d5f6280adf7ab76ad30798319377afffe9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -98,7 +98,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.18.1
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4 Interface Experience changes in v1.0.89]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved responsiveness when leaving the ctrl+o transcript view in long sessions…]]
+- Later: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended|Open With… : Fixed the menu initially selecting an unrelated app before recommended…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64193af24b1b6e94abc05180423c18c21aa4511a88d36cae69af9a80747c433a
+machine_hash: 6d6500105752eae0076c3e0ca0baab19127738a1c0682d8d074d7ce7fcb570e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     @won-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
-  your work in ChatGPT Space]]'
 - '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
   changes in rust-v0.159.0]]'
+- '[[Changes/Devin/2026-09-30-github-team-sync-managed-repository-access|GitHub Team
+  Sync: Managed Repository Access]]'
 - '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
   changes in v2026.9.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

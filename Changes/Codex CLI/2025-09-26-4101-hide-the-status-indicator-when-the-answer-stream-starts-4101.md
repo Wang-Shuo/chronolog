@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5700ad21d7627cb9413223771b4041db9b35d704357750961e42dca088b62a56
+machine_hash: 472fa9b58d925ff7ba963ea876bae4b677796e51413af2f4f6a7914c53dfc43d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '[#4101] hide the status indicator when the answer stream starts (#4101)'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These
-  new controls allow you to optimize for your internet connection by selecting…]]'
+- '[[Changes/LM Studio/2025-09-24-new-sort-chats-sidebar-by-date-updated-date-created-or-token-count|New:
+  Sort chats sidebar by date updated, date created, or token count]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
 - '[[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface

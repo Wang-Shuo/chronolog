@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e47342e0327e028a7fcb2e546c337ef9fb355bfdf65df01211fd8a1298a7938f
+machine_hash: 05a3fe6793afd6e860d7f350e9781a5da6070c5a8a7939466fab8f6bf85bfb8f
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.40.0
 ## Nearby in Model Support
 
 - Earlier: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
-- Later: 2024-06-27 · Ollama · [[Changes/Ollama/2024-06-27-added-support-for-google-gemma-2-models-9b-and-27b|Added support for Google Gemma 2 models (9B and 27B)]]
+- Later: 2024-06-24 · Superwhisper · [[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-custom-ai-models|Add Anthropic Claude 3.5 Sonnet to Custom AI models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

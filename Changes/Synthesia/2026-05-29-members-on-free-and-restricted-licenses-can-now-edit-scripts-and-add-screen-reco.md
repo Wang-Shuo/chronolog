@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d32f6a0774e66f3a3ff2a97b33e3863133fa64c610bd084cb4da6a1b815426de
+machine_hash: 4738c4223142ec589d27395255572338f3f744e58c667a2bfa4191e6d4afb583
 product: synthesia
 product_name: Synthesia
 record:
@@ -45,12 +45,11 @@ record:
   title: Let free workspace members help you edit
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-add-auto-slash-command-and-auto-cli-flag-for-auto-permission-mode|Add
-  /auto slash command and --auto CLI flag for auto permission mode]]'
 - '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
   Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
+- '[[Changes/LM Studio/2026-05-29-security-hardening|Security hardening]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-05-29-https-www-synthesia-io-updates-let-free-workspace-members-help-y-84fb7cd8|synthesia-2026-05-29-https-www-synthesia-io-updates-let-free-workspace-members-help-y-84fb7cd8]]'
 source_type: synthesia_changelog
 theme: safety-privacy
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]]
+- Earlier: 2026-05-29 · LM Studio · [[Changes/LM Studio/2026-05-29-security-hardening|Security hardening]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11 Safety and Privacy changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 

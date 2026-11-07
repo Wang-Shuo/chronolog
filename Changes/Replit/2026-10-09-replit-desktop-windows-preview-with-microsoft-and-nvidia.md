@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9f230f78a227a5f411a5ff4e2807d127489deeb1a221f813561974d8fccfc60e
+machine_hash: 718858f8091ce77ab0931426993a996b3c6bc5934568299116d9c30dcf8e12ea
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Replit Desktop Windows preview with Microsoft and NVIDIA
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
-  the Claude apps gateway to start with a warning and serve a desktop policy…]]'
 - '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
   Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
 - '[[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile
   and Desktop changes in v2026.9.9]]'
+- '[[Changes/Raycast/2026-10-09-clipboard-history-added-an-option-to-save-universal-clipboard-items-from-your-ip|Clipboard
+  History : Added an option to save Universal Clipboard items…]]'
 source_release: '[[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|replit-2026-10-09-2026-10-09-58884c93]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile and Desktop changes in v2026.9.9]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile and Desktop changes in v0.12.0]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-clipboard-history-added-an-option-to-save-universal-clipboard-items-from-your-ip|Clipboard History : Added an option to save Universal Clipboard items…]]
+- Later: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-stuck-meeting-uploads-now-finish-on-their-own-notetaker|Stuck meeting uploads now finish on their own (Notetaker)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

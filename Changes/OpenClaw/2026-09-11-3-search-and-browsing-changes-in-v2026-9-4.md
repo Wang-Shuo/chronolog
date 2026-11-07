@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcfbfa0b38d4ded844f66bcd7fa7491fe421dc51c9b8b48af8c25ae1b7b41517
+machine_hash: 2c0949a3da74b9c69d490cab1694622e0cd8925ccbe31205cc4a9b03e072e326
 product: openclaw
 product_name: OpenClaw
 record:
@@ -123,7 +123,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add --json to copilot plugin list, copilot plugin marketplace list…]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-read-only-customize-view|Read-only Customize View]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

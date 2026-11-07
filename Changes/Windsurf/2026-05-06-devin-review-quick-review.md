@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 332b0401734543f8261f810f027a6d5cf3575c5ce7cfaacc205eb9870d778e98
+machine_hash: 9247a35a32713008f2bda6aa8aaaaf0ebf99d5eb025ddcb4c8488e3303613909
 product: windsurf
 product_name: Windsurf
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-workspaces|Workspaces]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-bring-your-own-key-connect-your-own-api-key-from-anthropic-google-or-openai-to-u|Bring Your Own Key]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5615910a9dfc477dead92c1179093937b025349d420145fae2b67618098f2063
+machine_hash: 06f689c12780d3e0c9c52201f0c6636c9ee91bdda74da2b2a874c98e4e02451a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -213,10 +213,10 @@ record:
   title: 25 Context Window changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
-  changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/Devin/2026-09-23-microsoft-teams-commands-context-and-dm-cards|Microsoft
+  Teams: Commands, Context and DM Cards]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New
   Copilot Notebooks design in the Microsoft 365 Copilot App…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 843e86dc5ef948dc9f95770aaba0175e900cc01a13e61528f4717604777cd6bd
+machine_hash: 36836c7a97735bf2bfde3a20e3a23daa049cb9dde74bb41bfd471b009a0a828c
 product: lovable
 product_name: Lovable
 record:
@@ -67,12 +67,12 @@ record:
   title: Review publish requests and findings in the Action center
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask
-  Lovable what drives your run credit usage]]'
 - '[[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted
   workspace yourself]]'
 - '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
   Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
+- '[[Changes/Krea/2026-10-16-flux-video-upscale-pricing-by-output-length|FLUX Video
+  Upscale pricing by output length]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
-- Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members with a scheduled-ending or cancelled Premium subscription keep…]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-flux-video-upscale-pricing-by-output-length|FLUX Video Upscale pricing by output length]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-show-a-subscription-prompt-when-sending-a-message-while-signed-out-inste|AI Chat : Show a subscription prompt when sending a message while signed out…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

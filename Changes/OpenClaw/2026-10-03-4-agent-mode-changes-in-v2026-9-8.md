@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 098c38f5f22e9365b1d9410b79dfc6899a5f404b3c465810ebf63f7900f20e6d
+machine_hash: 021dbef29f1e6a1bfb97d623fd272ea4c261434758085ee2f9a84df61dc47fe5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -60,12 +60,11 @@ record:
   title: 4 Agent Mode changes in v2026.9.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode
-  changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode
   changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode
   changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-transcript-polish|Transcript Polish]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-03-v2026-9-8-0844d8d3|openclaw-2026-10-03-v2026-9-8-0844d8d3]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -109,7 +108,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode changes in v2.1.288]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-transcript-polish|Transcript Polish]]
 - Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern|Added /claude-api managed-agents-onboard url to set up the Managed Agents…]]
 <!-- chronolog:end -->
 

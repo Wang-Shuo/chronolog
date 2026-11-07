@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8593408f54c281dd3fea49898d6a44b1c6e2ec40474dd297d81c9b3445ecf426
+machine_hash: b5a33b1fb57e98afa70787858c496b410496ff1995761ba474b0fac5d4e6b6b5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-co-authored-by-attribution-is-now-enabled-by-default-for-commit-messages|Co-authored-by
-  attribution is now enabled by default for commit messages]]'
 - '[[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed
   terminal truncation to trim middle of long outputs instead of suffix]]'
 - '[[Changes/Gemini CLI/2025-07-01-6-developer-workflow-changes-in-v0-1-8|6 Developer
   Workflow changes in v0.1.8]]'
+- '[[Changes/Raycast/2025-07-02-notes-new-create-dictated-note-command-and-shortcuts-action-will-open-a-new-note|Notes:
+  New Create Dictated Note command and Shortcuts action will open a new note…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-6-developer-workflow-changes-in-v0-1-8|6 Developer Workflow changes in v0.1.8]]
+- Earlier: 2025-07-02 · Raycast · [[Changes/Raycast/2025-07-02-notes-new-create-dictated-note-command-and-shortcuts-action-will-open-a-new-note|Notes: New Create Dictated Note command and Shortcuts action will open a new note…]]
 - Later: 2025-07-12 · Cline · [[Changes/Cline/2025-07-12-add-git-branch-analysis-workflow-by-canvrno-in-https-github-com-cline-cline-pull|Add git branch analysis workflow]]
 <!-- chronolog:end -->
 

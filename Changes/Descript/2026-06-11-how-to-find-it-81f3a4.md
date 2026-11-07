@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 32e43e89a07901540b780b9734daeac259bc123af4f5cfc0abd06a210e706299
+machine_hash: 10f5082bcc9c1de0bdd1e81988f6c2f4d9fdfd124da61420fe033b32595c040e
 product: descript
 product_name: Descript
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The 3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]
-- Later: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a reliability sweep]]
+- Later: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-users-tab-renamed-to-members|"Users" Tab Renamed to "Members"]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

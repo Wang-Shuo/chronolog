@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58fedd137d050f5cce72245adec82304a2ac8ae7b28740a36b93ff1ef62b1b74
+machine_hash: 029f6b140922fa4eff9e0fae379b4cc1f8ce9d58eaf6e00bba0edf8ec4b5853c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +42,10 @@ record:
   title: Added `/plugin list` command to list installed plugins…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-03-connector-sidebar|Connector sidebar]]'
-- '[[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable
-  MCP server now available on all plans]]'
+- '[[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions|Store
+  : Added support for filtering by “Installed” extensions]]'
+- '[[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions-5de3b0|Store
+  : Added support for filtering by “Installed” extensions]]'
 - '[[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2
   Apps and Integrations changes in v2.1.163]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable MCP server now available on all plans]]
+- Earlier: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions-5de3b0|Store : Added support for filtering by “Installed” extensions]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

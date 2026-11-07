@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 018ba3638383e3a8eb0d55ddee39912c49dcc5fd8ac88cb86fa1ca9e5ddb1f91
+machine_hash: 8e92b3faec93112c9e0e67e031b9cb088eaf15e68f7a80c0a7e610658b9e2d26
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,7 @@ record:
   title: Scan notes and documents more easily with ChatGPT camera
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
-  retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Devin/2026-09-25-pdf-attachments-are-versioned|PDF Attachments Are Versioned]]'
 - '[[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload
   WebP images to your videos]]'
 - '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and

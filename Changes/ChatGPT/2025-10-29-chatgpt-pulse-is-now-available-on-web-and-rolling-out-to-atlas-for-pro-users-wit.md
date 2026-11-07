@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: c7b06a8277153053287bdfdd9bde6ad861f5aaaeb193a99cae7c98fcf11db4c8
+machine_hash: 46a79a3f56c8ece0fb35867598bcde587d060808f9ea2bc574e065ac575946bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
   title: ChatGPT Pulse on Web
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part
-  4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]'
 - '[[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory
   on Max and Pro plans]]'
+- '[[Changes/Superwhisper/2025-10-24-record-from-system-audio-now-uses-less-data-memory|Record
+  from system audio now uses less data & memory]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1|chatgpt-2025-10-29-chatgpt-pulse-on-web-18eeedf1]]'

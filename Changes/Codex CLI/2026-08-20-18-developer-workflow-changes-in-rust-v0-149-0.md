@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7689464d4ee9141b450d0586b3930bfdc84bd1b627dfca9887316fef232e2473
+machine_hash: d6ebc81dfcbebcb040f91678e0b0acadb303e18ebcdc6192e0bbbb95c282826f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,10 +80,10 @@ record:
   title: 18 Developer Workflow changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-08-18-stronger-coding-capabilities-glm-5-3-delivers-a-significant-improvement-in-codin|Stronger
-  Coding Capabilities]]'
-- '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
-  Workflow changes in v2.1.236]]'
+- '[[Changes/Devin/2026-08-19-git-provider-connection-details|Git Provider Connection
+  Details]]'
+- '[[Changes/Raycast/2026-08-19-quick-ai-send-message-ai-setting-is-now-respected-by-quick-ai-as-well-which-allo|Quick
+  AI : “Send Message” AI setting is now respected by Quick AI as well…]]'
 - '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
   Workflow changes in v2.1.238]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

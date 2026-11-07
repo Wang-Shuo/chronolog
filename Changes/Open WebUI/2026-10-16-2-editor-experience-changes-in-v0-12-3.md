@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8905a0da745a4ab47896a4c1428961f4ca1b1d5aaaad7931879093a3e4b789e0
+machine_hash: 4fba0b38b8848be1d7b690e1711b8d4fe13e233e271c44024260cf0870a9c564
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,8 +52,8 @@ record:
   title: 2 Editor Experience changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/Krea/2026-10-16-try-tools-before-you-log-in|Try tools before you log
+  in]]'
 - '[[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document
   previews in the Files tab]]'
 - '[[Changes/Lovable/2026-10-16-formatted-markdown-previews-in-the-files-tab|Formatted

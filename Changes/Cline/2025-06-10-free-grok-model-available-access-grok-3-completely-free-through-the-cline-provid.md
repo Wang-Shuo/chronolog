@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9997e766ede0c0b039302abe769ed5050c0220c49d79ff34e48206ef6b81324f
+machine_hash: 90b5a1670880067db652b1857d9c774ef5bcaed0f95e6fd33e4ce96a076884a2
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     Cline provider'
   type: change
 related_changes:
-- '[[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3
-  allows for that extra visual finesse in comparison to our default model]]'
-- '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
-  in v0.9.1]]'
+- '[[Changes/AnythingLLM/2025-06-10-you-can-now-easily-swap-model-or-provider-in-the-middle-of-chatting-via-cmd-ctrl|Easily
+  swap model or provider in the middle of chatting via cmd/Ctrl + Shift + L…]]'
+- '[[Changes/AnythingLLM/2025-06-10-3-model-support-changes-in-v1-8-2|3 Model Support
+  changes in v1.8.2]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
   launches OpenAI o3-pro—available now for Pro users and in our API]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'

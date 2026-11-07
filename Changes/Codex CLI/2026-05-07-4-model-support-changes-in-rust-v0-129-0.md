@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 849fa977dc6e10641e8f1083fefa2fbf36f0763f604799712e39de68a5514a35
+machine_hash: ac06534c8cc9d35e694a2612ec2157d2aa70ba12cf84bcd2b611a37ae745aeee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5
-  Instant in ChatGPT]]'
 - '[[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support
   changes in v0.41.0]]'
+- '[[Changes/Superwhisper/2026-05-05-add-support-for-azure-foundry-custom-model-endpoints|Add
+  support for Azure Foundry custom model endpoints]]'
 - '[[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support
   changes in v2.1.129]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'

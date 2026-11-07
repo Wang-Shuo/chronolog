@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 41041d85603bf2c0d567d17bf78793340e9ac29a6d50a3e412d849509c24a9b1
+machine_hash: 48b4ada6c5d6479813a110f7561bdce6d8d31f8bf8082324a2c2a78c02a24e2d
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,8 +48,7 @@ record:
   title: Agent Command Center
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
-  changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-acp-summarizer|ACP Summarizer]]'
 - '[[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule
   meetings with Notion Agent]]'
 - '[[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]'

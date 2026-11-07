@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3875b8a7de02417bef920b36c59162f052135221ddee7f72266152bfdb831d9a
+machine_hash: bc371df4a1c7db8e479cad7f8737c6efed3182b6d7f99dd85241b3bcfc7cbdcf
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,8 +43,8 @@ record:
   title: Label every video with an AI content watermark
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
-  changes in rust-v0.159.0]]'
+- '[[Changes/Devin/2026-09-30-github-team-sync-managed-repository-access|GitHub Team
+  Sync: Managed Repository Access]]'
 - '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
   changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130 Move content-filter guidance into the shared Responses retry handler @won-openai]]
-- Later: 2026-10-06 · v0 · [[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal accounts are now team workspaces]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-microsoft-teams-polish|Microsoft Teams Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

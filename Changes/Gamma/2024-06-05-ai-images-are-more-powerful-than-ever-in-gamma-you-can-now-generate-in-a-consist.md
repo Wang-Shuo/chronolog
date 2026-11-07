@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f670735b2053de13a1da075038b04cf5e21e5c03a3203ad9566a25930088bf4a
+machine_hash: 78920415e9e2b740aa97889f888888ed411f7748e0252696473ed7dcd0f7af87
 product: gamma
 product_name: Gamma
 record:
@@ -56,10 +56,9 @@ record:
   title: AI image improvements
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI
-  Updates]]'
 - "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
   Image Generation Compatibility Issue]]"
+- '[[Changes/Raycast/2024-05-15-image-generation|Image Generation]]'
 - "[[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|\U0001F5BC️
   Customize Images (Pro and Premier)]]"
 source_release: '[[Releases/Gamma/gamma-2024-06-05-6660f8eb3897ecc3daf25e82-7e22ab4b|gamma-2024-06-05-6660f8eb3897ecc3daf25e82-7e22ab4b]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2024-05-22 · Suno · [[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|🖼️ Customize Images (Pro and Premier)]]
-- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation changes in 0.6.12]]
+- Later: 2024-06-06 · Raycast · [[Changes/Raycast/2024-06-06-2-image-generation-changes-in-raycast-macos-v1-1-76-0|2 Image Generation changes in Raycast macos-v1 1.76.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

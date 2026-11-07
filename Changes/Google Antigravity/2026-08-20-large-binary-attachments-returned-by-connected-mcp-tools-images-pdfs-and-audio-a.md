@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c29bb88c8b8314d552efe419f1ae7303ed3e3790780f0905f0e2c3db52a6421c
+machine_hash: 587d920cbf654cf5ca303c1f68c5d98164efcbc0cd8114ab25836d0c87079bb4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -57,9 +57,10 @@ record:
   title: Large binary attachments returned by connected MCP tools
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
-  between typing and dictation]]'
-- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
+- '[[Changes/Raycast/2026-08-19-2-voice-and-audio-changes-in-raycast-windows-0-71|2
+  Voice and Audio changes in Raycast windows 0.71]]'
+- '[[Changes/Superwhisper/2026-08-19-local-mode-is-now-suggested-automatically-when-your-keyboard-is-set-to-english-m|Local
+  Mode is now suggested automatically when your keyboard is set to English…]]'
 - '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
   Add managed gates for in-app chat and dictation @copyberry]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814|google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814]]'

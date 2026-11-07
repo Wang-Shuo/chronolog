@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96a550b9c443122c4c64ed430372eeb47c8e99bf7ab4a247eef5477d85c35319
+machine_hash: cc2092588a3be794504e27e45e95cfb591d73a21b92b44fc537dba035d0a24d5
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v1.32.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
-  Apps and Integrations changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
-  Apps and Integrations changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-sharepoint-support-in-the-microsoft-365-files-mcp|SharePoint
+  Support in the Microsoft 365 Files MCP]]'
+- '[[Changes/Devin/2026-10-23-scan-complete-summaries-by-slack-dm-or-email|Scan-complete
+  Summaries by Slack DM or Email]]'
 - '[[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and
   Integrations changes in 1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-32-0-github-421408191-d358ba87|openhands-2026-10-23-v1-32-0-github-421408191-d358ba87]]'

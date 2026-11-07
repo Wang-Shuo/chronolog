@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a165cae5cc8352948bc34c61be355e641e63c4051881c86683d98e4862cde357
+machine_hash: 665f479edadbe18b34c56ad436e73b1173d11153906dea3fed79c9dceff382df
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,9 @@ record:
   title: Download an SBOM for your project
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security
-  release: v2026.10.9 adds remediations for vulnerable dependencies…]]'
-- '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
-  and Privacy changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-pylon-setup-dialog|Pylon Setup Dialog]]'
+- '[[Changes/Devin/2026-10-30-new-security-connections-sonarqube-linear-and-vanta|New
+  Security Connections: SonarQube, Linear and Vanta]]'
 - '[[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core
   Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-01-2026-11-01-6ae925ca|lovable-2026-11-01-2026-11-01-6ae925ca]]'

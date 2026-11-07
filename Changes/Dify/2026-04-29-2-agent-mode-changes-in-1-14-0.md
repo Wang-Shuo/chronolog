@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5aa73597e778ca23db80737c6e386fe4203265382ba0b6f89239d453d98dbb1
+machine_hash: 9bd43631f04ded74fe267fd9a4267c4f38e6833f8ca02603facefbf99d3b372f
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]]
-- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]
+- Later: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-added-support-for-pi-coding-agent|Added support for Pi coding agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

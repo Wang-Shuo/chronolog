@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bba16ddfd0e60aa3711832aa9021ddc20ac0d4cc127aafd7cdf2b44672324f5
+machine_hash: d234a9061e652071cbd0c4a6c3cdddf9121987934a0b74b814e905f599c1923f
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,12 @@ record:
   title: '`/save <fname>` command will make a file of `/add` and `/read-only` commands…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
-  now only applies files that are in context to prevent hallucinations]]'
-- '[[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]'
 - '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
   in the logs the prompt cache hit or miss for Deepseek Chat]]'
+- '[[Changes/LM Studio/2024-10-22-improved-performance-for-long-context-generation|Improved
+  performance for long context generation]]'
+- '[[Changes/Superwhisper/2024-10-28-recording-context-leak-fix|Recording context
+  leak fix]]'
 source_release: '[[Releases/Aider/aider-2024-11-01-v0-61-0-github-183132939-fbce404d|aider-2024-11-01-v0-61-0-github-183132939-fbce404d]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-10-17 · OpenHands · [[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display in the logs the prompt cache hit or miss for Deepseek Chat]]
+- Earlier: 2024-10-28 · Superwhisper · [[Changes/Superwhisper/2024-10-28-recording-context-leak-fix|Recording context leak fix]]
 - Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-2-context-window-changes-in-0-11-0|2 Context Window changes in 0.11.0]]
 <!-- chronolog:end -->
 

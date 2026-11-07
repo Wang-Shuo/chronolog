@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c0baa37207f00f1c9c74c2eedadc93a5e47e9acb682709dbcd88fd3c78df9902
+machine_hash: 0a5701094b3ec91a0904865b0b3cc67c78bac7fa65bac11380733344befc87b1
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
     in prizes'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-11-05-subscription-management-and-checkout-update|Subscription
-  management and checkout update]]'
+- '[[Changes/Raycast/2024-11-06-financial-functions-calculate-interest-related-queries-e-g-savings-required-for|Financial
+  functions: calculate interest-related queries…]]'
 - '[[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway
   API updates]]'
 - '[[Changes/ElevenLabs/2024-12-03-api|API]]'

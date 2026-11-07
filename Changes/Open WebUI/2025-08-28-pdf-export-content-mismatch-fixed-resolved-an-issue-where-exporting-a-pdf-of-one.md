@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 40df37f0770e94578fa0129175471167f54f2843569107323ce0cc0c09047758
+machine_hash: 4bf98ed0adf7e2152d2618648d3f5cf43319c391a620f9072662a642d0c0877a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,8 +64,8 @@ record:
   title: "\U0001F4C4 **PDF Export Content Mismatch Fixed**"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
-  Memory and Personalization changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-well-now-we-have-the-best-of-both-worlds-documents-are-scoped-to-a-workspace-thr|Well,
+  now we have the best of both worlds]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An

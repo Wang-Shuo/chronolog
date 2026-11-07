@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a93657143f6f643035d4b71c97733118322ace7abf921900208660e4b4f50dbd
+machine_hash: 9e0a74f388a73ebb630d2ca3dacc597f3f4175f27530faf158f25327709e5181
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,9 @@ record:
   title: Create dynamic previews of GitHub PRs, Slack messages, Jira issues & more
   type: change
 related_changes:
-- '[[Changes/Descript/2021-10-07-we-ve-added-a-new-publishing-integration-https-help-descript-com-hc-en-us-articl|Descript
-  adds a new publishing…]]'
 - '[[Changes/Descript/2021-10-07-video-player-with-interactive-transcript-slack-integration|Video
   player with interactive transcript + Slack integration]]'
+- '[[Changes/Raycast/2021-10-13-extensions-api-store-beta|Extensions API & Store Beta]]'
 - '[[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace
   member can add integrations]]'
 source_release: '[[Releases/Notion/notion-2021-11-02-https-www-notion-com-releases-2021-11-02-08ecdf08|notion-2021-11-02-https-www-notion-com-releases-2021-11-02-08ecdf08]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace member can add integrations]]
-- Later: 2022-07-20 · Notion · [[Changes/Notion/2022-07-20-better-inline-link-previews|Better inline link previews]]
+- Later: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-extension-store-api|Extension Store & API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

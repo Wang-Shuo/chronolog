@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d4aea89911b34e2f282cdae0f7b4c25880878d08ae4abfe4f643ab5a2246d6e
+machine_hash: 07cbca4c1addecbc2086f4dc1fdccd14ea1cde822e391cfab2ab8085d4d591d5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Search and Browsing changes in v0.3.17
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-27-new-web-search-provider-added-jina-search-as-a-new-option|\U0001F50D
-  New Web Search Provider: Added jina_search as a new option]]"
 - '[[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search
   and Browsing changes in 0.7.0]]'
 - '[[Changes/Ollama/2024-07-25-web-browsing|Web browsing]]'
+- '[[Changes/AnythingLLM/2024-07-26-feat-bing-search-api-web-search-provider-by-shatfield4-in-https-github-com-mintp|FEAT
+  Bing Search API web search provider]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822|open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822]]'
 source_type: github_releases
 theme: search-browsing
@@ -87,7 +87,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-web-browsing|Web browsing]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-feat-bing-search-api-web-search-provider-by-shatfield4-in-https-github-com-mintp|FEAT Bing Search API web search provider]]
 - Later: 2024-09-07 · Open WebUI · [[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|🌐 Refined Web Search Integration]]
 <!-- chronolog:end -->
 

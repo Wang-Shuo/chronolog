@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25af07c67d6a24a848e691209b822cff639b5e3dbe83a433e18b32f1ce1fdfa2
+machine_hash: d664e333b2505c69b1c580b7a681abd6453a1fe59e5ab8c22aea0faa13f2638a
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor Experience changes in rust-v0.159.0]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor Experience changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-messages-are-no-longer-lost-when-the-connection-drops|Messages Are No Longer Lost When the Connection Drops]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

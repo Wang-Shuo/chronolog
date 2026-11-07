@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cca33cb18cd52ecc607cba7354aecd82b7c7638652bdb5126110521bfccb4cbe
+machine_hash: 7e18e1314ddbc905c9d05ec05fbf5169ad7e5a9b801c9c57cc58f33ca8c26d33
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Composer 2.5 is now available in Cursor
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal
-  Fixed opencode run --agent resolving project-local agents]]'
+- '[[Changes/Devin/2026-05-17-pr-actions-auto-review-settings|PR Actions & Auto-Review
+  Settings]]'
 - '[[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core
   Hid background subagent task instructions unless experimental background mode…]]'
 - '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode

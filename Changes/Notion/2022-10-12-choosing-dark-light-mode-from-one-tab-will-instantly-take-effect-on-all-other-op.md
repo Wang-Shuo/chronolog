@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9635f7c29d84ff93bdac5e612a5726cfd5fe1804429093e6f441c2fedffe603a
+machine_hash: 9a34ec1d0c6453e071a4357cecd4f97864f87df346fa3cb44f5016775ae7dbcd
 product: notion
 product_name: Notion
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-editor-bug-bash|Editor bug bash]]
-- Later: 2022-11-15 · Descript · [[Changes/Descript/2022-11-15-multitrack-screen-recording-https-help-descript-com-hc-en-us-articles-1016588157|Multitrack screen…]]
+- Later: 2022-10-12 · Raycast · [[Changes/Raycast/2022-10-12-tag-editor-now-adjusts-height-correctly-when-loading-initial-content|Tag Editor : Now adjusts height correctly when loading initial content]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

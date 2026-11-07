@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c7cbb13b7987f6b9c7dc8f632114fcd765976d4c99f48a2f27236d82b6a2f41
+machine_hash: 6bc980e1c3795139ebf71ba821b28da62b9ed305797f1d030473bb211d772d41
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,10 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps
-  and Integrations changes in v0.17.0]]'
 - '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
   hooks are now supported]]'
+- '[[Changes/Devin/2025-11-21-mcp-usage-tracking-for-enterprises|MCP Usage Tracking
+  for Enterprises]]'
 - '[[Changes/ElevenLabs/2025-11-21-packages|Packages]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-21-2025-11-21-d3d6b6ca|elevenlabs-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: elevenlabs_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]]
+- Earlier: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-mcp-usage-tracking-for-enterprises|MCP Usage Tracking for Enterprises]]
 - Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-enterprise-data-warehouse-connectors|Enterprise data warehouse connectors]]
 <!-- chronolog:end -->
 

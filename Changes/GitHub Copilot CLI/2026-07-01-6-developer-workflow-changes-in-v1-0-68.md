@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d82f6f100bf05ee4f6da8ba07cf55906199bca5ae39db7c1397dd1ac1231e5a
+machine_hash: a76cd01e3ee1878c92ce23a8f77990a22135979570f1a2477980ad163a3c6d89
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-9-developer-workflow-changes-in-v2026-6-11|9 Developer
-  Workflow changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer
   Workflow changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
   agents launched from claude agents now commit, push, and open a draft…]]'
+- '[[Changes/Devin/2026-07-01-auto-review-scoped-to-your-prs|Auto-Review Scoped to
+  Your PRs]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: developer-workflow
@@ -105,7 +105,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-auto-review-scoped-to-your-prs|Auto-Review Scoped to Your PRs]]
 - Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show file path completions when typing / in shell mode (!)]]
 <!-- chronolog:end -->
 

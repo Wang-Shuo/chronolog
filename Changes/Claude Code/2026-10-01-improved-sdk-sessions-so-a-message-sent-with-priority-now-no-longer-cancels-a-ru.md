@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8172eab93311979109e9e39fbbbd4f639dc6f34839dbfee12ac2c8325f44d03f
+machine_hash: 697f56a988c0f8a37a71e8bfb96fcd632af17ec68e0c5eac760e57bfa907f9ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved SDK sessions so a message sent with priority "now" no longer cancels…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
-  Search and Browsing changes in rust-v0.157.0]]'
-- '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
-  using web search can now perform up to ten searches per response, up from three]]'
+- '[[Changes/Devin/2026-09-30-ask-devin-recognizes-commented-out-code|Ask Devin Recognizes
+  Commented-Out Code]]'
 - '[[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search
   and Browsing changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-feat-add-firecrawl-agent-web-search-provider-by-juampihernandez-in-https-github|feat:
+  add Firecrawl agent web-search provider]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search and Browsing changes in v2026.9.7]]
+- Earlier: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-feat-add-firecrawl-agent-web-search-provider-by-juampihernandez-in-https-github|feat: add Firecrawl agent web-search provider]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse older tasks in the agent command center with a keyboard-accessible…]]
 <!-- chronolog:end -->
 

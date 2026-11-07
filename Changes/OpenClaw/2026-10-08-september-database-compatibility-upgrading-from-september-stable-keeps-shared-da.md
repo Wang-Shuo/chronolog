@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a868cdaac977c54170e841f57474b4775231991a1e3d3fbbd8b8d20df27de63c
+machine_hash: 8c27525f8b4f2157a97790763676e75ff2da30486b6495c1cecab24c9607be0d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-here-s-this-week-s-round-of-changes-on-alpha-midjourney-com-the-highlight-this-w|here's this week's round of changes on alpha.midjourney.com]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-hide-microsoft-teams-sessions-from-your-team|Hide Microsoft Teams sessions from your team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

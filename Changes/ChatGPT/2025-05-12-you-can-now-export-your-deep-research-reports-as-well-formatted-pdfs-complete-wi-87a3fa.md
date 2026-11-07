@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fc6a7888bae44d56f4a947755f7b5d0b32f9d304574f44d1fc54338a278dc6cd
+machine_hash: 00ef526551ec2be4a8bc8a3b667cc2fa5f4c3b1c35c47d06154b49956f871035
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Export Deep Research as PDF for Plus/Pro/Team
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
-  Optimized Faster Web Search & Multi-Threaded Queries]]"
+- '[[Changes/AnythingLLM/2025-05-06-update-bing-search-api-azure-service-copy-unavailable-by-thejjw-in-https-github|Update
+  Bing Search API Azure Service copy - Unavailable]]'
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub
   connector for deep research for Plus/Pro/Team]]'
 - "[[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|\U0001F502

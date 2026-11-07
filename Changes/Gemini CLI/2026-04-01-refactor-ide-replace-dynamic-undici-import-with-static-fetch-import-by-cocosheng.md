@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7160ea4d15816d767d828830c9ba93676a2512e37054336e28c3301a06b80497
+machine_hash: d44e32dfc27e03a86acde0fe12ba9eb04b19a3093ceb4de011d0b2e6e0524ebe
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: 'refactor(ide): replace dynamic undici import with static fetch import'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
-  Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
 - '[[Changes/HeyGen/2026-03-31-where-to-find-it-apps-tab-upscale-video|Where to find
   it: Apps tab → Upscale Video]]'
 - '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
   Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/Devin/2026-04-01-tab-title-simplification|Tab Title Simplification]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed Edit to work on files viewed via Bash with sed -n or cat, without…]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-tab-title-simplification|Tab Title Simplification]]
 - Later: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3 Editor Experience changes in v1.0.15]]
 <!-- chronolog:end -->
 

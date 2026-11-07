@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6e175d9d1e18d23375920d52652b6fa5b993a9ca52087f8202d794e32c43ff95
+machine_hash: 56503e2c261f8ca3b2a07a958e424cb1dbfc08a5d68454bfcb6f16a2b0ef0d40
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes in 1.19.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context Window changes in v2026.11.1]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w|Raycast introduces Dictate to AI, a new command that combines what you say…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

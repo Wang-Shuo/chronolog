@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1955aafa18239ef18f74eeb767021afc2f98efea34571d723985a60c88269f6b
+machine_hash: da7ed1591a6522e7a805e544b7bcaaffbd93fd714b84e1fa42547e359259b025
 product: cline
 product_name: Cline
 record:
@@ -61,9 +61,9 @@ record:
     budget
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-6-pricing-model-changes-in-v2026-9-5|6 Pricing Model
-  changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-user|User]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-openrouter-service-tier-selection-for-controlling-routing-cost-and-priority|x
+  OpenRouter service tier selection for controlling routing cost and priority]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49537ff21b9be4810fef1fe16f98cadb9ed0a1d7b3ccf31578bf8a004515ab30
+machine_hash: d7d25f6165ad055b4a4a41772bdb6bd883e4b2b49d37695e22db94abb6065817
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
-  Support changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t
   to toggle reasoning display is now listed in the /help and ? overlay]]'
 - '[[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support
   changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-new-customization-chat-setting-for-unload-model-when-closed-to-unload-the-mode|x
+  New Customization  Chat setting for Unload model when closed to unload…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support changes in v0.9.0]]
+- Earlier: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-x-new-customization-chat-setting-for-unload-model-when-closed-to-unload-the-mode|x New Customization  Chat setting for Unload model when closed to unload…]]
 - Later: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding flow now uses dynamically fetched recommended models instead…]]
 <!-- chronolog:end -->
 

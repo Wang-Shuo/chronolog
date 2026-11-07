@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef7ce9f6c16fc97e4b59fbde211152860332a18d3bf52688d09ad4ea06701938
+machine_hash: 756740696c8b63903a9bb3f8aaeb7aae2417bf7a7636e1052930c4a76f4ea900
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-4-agent-mode-changes-in-v2026-9-9|4 Agent Mode changes in v2026.9.9]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-org-level-agent-capabilities|Org-level Agent capabilities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

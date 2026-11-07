@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46831c4855b70fa727a972fdd7cd3b048be1ac8e19d13a9506104c198283870c
+machine_hash: 6b4ab30d686dcb117dc996526f40128993cbffcac2bb5d21e3e2c567063a1556
 product: open-webui
 product_name: Open WebUI
 record:
@@ -66,12 +66,11 @@ record:
   title: 5 Editor Experience changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-multitask-is-now-available-in-the-editor-for-running-async-subagents-to-parallel|/multitask
-  is now available in the editor for running async subagents to parallelize…]]'
-- '[[Changes/Codex CLI/2026-05-08-2-editor-experience-changes-in-rust-v0-130-0|2 Editor
-  Experience changes in rust-v0.130.0]]'
+- '[[Changes/Devin/2026-05-08-ask-devin-in-pr-discussions|Ask Devin in PR Discussions]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
   Editor Experience changes in v1.0.44]]'
+- '[[Changes/Raycast/2026-05-08-quick-ai-gets-a-major-refresh-in-this-release-bringing-it-closer-to-the-ai-chat|Quick
+  AI gets a major refresh in this release, bringing it closer to the AI Chat…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: editor-experience
@@ -123,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2 Editor Experience changes in v1.0.44]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-quick-ai-gets-a-major-refresh-in-this-release-bringing-it-closer-to-the-ai-chat|Quick AI gets a major refresh in this release, bringing it closer to the AI Chat…]]
 - Later: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|🛡️ URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]
 <!-- chronolog:end -->
 

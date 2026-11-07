@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 320ef4e178353649dc32ef658e671206872229127a3178801fce0b2573c1f1f7
+machine_hash: 72c4f108101b5131d07576720b0f8db9c10a5b72bf8e81a75e06ade0586408be
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,12 +43,12 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
-  Increase voice space hold timeout to 1s @aibrahim-oai]]'
-- '[[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices
-  Record or upload your own audio and Suno will let you sing on your creations]]'
-- '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
-  Remove TUI voice transcription feature @etraut-openai]]'
+- '[[Changes/Superwhisper/2026-03-31-2-voice-and-audio-changes-in-superwhisper-windows-1-3-5|2
+  Voice and Audio changes in Superwhisper Windows 1.3.5]]'
+- '[[Changes/Superwhisper/2026-03-31-add-vad-state-reset-should-resolve-repeated-no-voice-found-errors|Add
+  VAD state reset, should resolve repeated "no voice found" errors]]'
+- '[[Changes/Wispr Flow/2026-03-31-context-aware-dictation-android|Context-Aware Dictation
+  (Android)]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-01-2026-04-01-d4336c3f|elevenlabs-2026-04-01-2026-04-01-d4336c3f]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
-- Later: 2026-04-06 · Notion · [[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice input on desktop]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-context-aware-dictation-android|Context-Aware Dictation (Android)]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-voice-messages-attachments|Voice messages & Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

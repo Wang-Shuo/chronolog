@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f63f08f872828000638769f8b0c44b03bf450c35d3d16452a2b4b6d13b637ca6
+machine_hash: 87cf1a27b4893403e26bb204ed2a5015e72e1aba782073aece4a2e29e328dd76
 product: open-webui
 product_name: Open WebUI
 record:
@@ -396,7 +396,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 ## Nearby in Model Support
 
 - Earlier: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-jev-for-typed-decisions-in-your-app-s-ai-features|Jev for typed decisions in your app's AI features]]
-- Later: 2026-09-22 · Claude · [[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-7-model-support-changes-in-v1-16-2|7 Model Support changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

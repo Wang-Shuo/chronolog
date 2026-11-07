@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1638fd884d5e41140aff10d357f166a1aed858c89bb158a1db40546f02b1edb9
+machine_hash: a90477b28bd3039322a8b67605006ed8f112b3e20bad7f451269c903ad6cbbc5
 product: dify
 product_name: Dify
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 ## Nearby in Model Support
 
 - Earlier: 2025-04-07 · Runway · [[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4 Turbo]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-reasoning-effort-you-can-now-set-the-reasoning-level-for-openai-s-o3-mini-and-cl|Reasoning Effort: You can now set the reasoning level for OpenAI’s o3-mini…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

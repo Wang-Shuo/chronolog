@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea11726eadeae23e342d0ec8f78a488be55dfaef4be6075ba9b470409c5db1ff
+machine_hash: 1b3f1a9bb527db7490696e8359ddfa0378efb411c7492ccd5c11f54a9c5aa4f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
-  the install script to explain when installation is killed by the system…]]'
 - '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
   can now offload vision models with padding to fit available memory]]'
 - '[[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop
   Improved large review pane performance]]'
+- '[[Changes/Superwhisper/2026-07-06-faster-pasting-time-to-paste-latency-reduced-by-300ms|Faster
+  pasting — time to paste latency reduced by 300ms]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop Improved large review pane performance]]
+- Earlier: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-faster-pasting-time-to-paste-latency-reduced-by-300ms|Faster pasting — time to paste latency reduced by 300ms]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5 Reliability and Performance changes in v1.0.69]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1e12123a86d82e4d0e874d426e710ec99742a51dbce487a0ec93db5c8ff57aea
+machine_hash: 4a03859fee2f9bfd851ecce20d2ddce8d5e49c6b621dc6d920056112f59368f7
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,10 @@ record:
   title: Sell in your app with Whop
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use
-  Outlook for you]]'
 - '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
   Agent Skills]]'
+- '[[Changes/Devin/2026-07-03-slack-agent-renamed-to-normal|Slack !agent Renamed to
+  !normal]]'
 - '[[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent
   Mode changes in Kimi Code 0.22.2]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'

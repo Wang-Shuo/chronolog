@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 192ec6eecd7bed58e6a39772b7a3e15a371e79e5ca01dcfaa10b3c4a86bb9795
+machine_hash: 9d373071eed171bf494823c2940981ffb120e3bc80532728b6c5557e6a174761
 product: descript
 product_name: Descript
 record:
@@ -41,12 +41,11 @@ record:
   title: Improved UI responsiveness when in a Room with only 1 participant
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-library-dependencies-update-upgraded-dependencies-to-ensure-compatibility-and-pe|\U0001F4E6
-  Library Dependencies Update]]"
 - '[[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2
   Reliability and Performance changes in v0.3.31]]'
 - '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
   and Performance changes in v2.0.0]]'
+- '[[Changes/Superwhisper/2024-10-09-performance-new-models|Performance & new Models]]'
 source_release: '[[Releases/Descript/descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569|descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability and Performance changes in v2.0.0]]
+- Earlier: 2024-10-09 · Superwhisper · [[Changes/Superwhisper/2024-10-09-performance-new-models|Performance & new Models]]
 - Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-reliability-and-performance-changes-in-0-9-2|2 Reliability and Performance changes in 0.9.2]]
 <!-- chronolog:end -->
 

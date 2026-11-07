@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 955fdcad6270e919339df83aa0f0c1130dd8687aa11c6229da6219e226bf6982
+machine_hash: 672e0c9636c0bd4ead5e4eec6337526e7dd32088b72160850c9e7290e6c4b085
 product: lovable
 product_name: Lovable
 record:
@@ -69,7 +69,8 @@ record:
   title: Improvements**
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Raycast/2025-06-17-unleash-your-creativity-anywhere-with-this-update-you-can-now-effortlessly-creat|Unleash
+  your creativity anywhere!]]'
 - '[[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]'
 - '[[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If
   you''re on Desktop, we also release an update that requires a restart]]'

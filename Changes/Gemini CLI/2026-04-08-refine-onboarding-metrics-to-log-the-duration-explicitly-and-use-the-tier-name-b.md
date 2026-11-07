@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07f57dca2359d38c8540c8ef81e8900981dbceda461565c712d351490f9ee790
+machine_hash: 5e6d0a2c799f6122500e9c08cd67ac88f73bcb73f6f3a46311989de87bdf4d74
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
     name
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop
-  Added keyboard navigation and shortcuts to the question dock]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
-  command picker no longer flickers or shifts the input while filtering]]'
 - '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
   Experience changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-consolidated-session-header-menu|Consolidated Session
+  Header Menu]]'
+- '[[Changes/Devin/2026-04-08-refreshed-settings-layout|Refreshed Settings Layout]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-refreshed-settings-layout|Refreshed Settings Layout]]
 - Later: 2026-04-08 · Notion · [[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute discussion replies]]
 <!-- chronolog:end -->
 

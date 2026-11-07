@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72a561dca255fded0da577e16d6a9c93008d9609bc9664ba9bb499675981528d
+machine_hash: 976f0d9fc0a0b1a22807397571f4f40ab0c46ced59f9b0aa5fd1018e0f242d31
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,10 +52,10 @@ record:
     removing knowledge…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
-  Honor shared parallel tool-call and service-tier settings for Groq]]'
 - '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
   label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
+- '[[Changes/Raycast/2026-10-28-notes-hide-while-screen-recording-is-back-on-golden-gate-only-macos-27-this-will|Notes
+  : Hide while screen recording is back on Golden Gate only (macOS 27+)…]]'
 - '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
   Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

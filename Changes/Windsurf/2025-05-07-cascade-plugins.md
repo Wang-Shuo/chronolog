@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d46180c694be086a5ff643b45cbc0b1edeb1db9cb87842adeed030a25dd23aaf
+machine_hash: 966b51544e75496f883de5c9b84c8976a1171af88535edfbe39b646861e32a63
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,12 +50,12 @@ record:
   title: Cascade Plugins
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-28-7-apps-and-integrations-changes-in-1-3-1|7 Apps and Integrations
-  changes in 1.3.1]]'
 - '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
   message handling to not show the MCP View of the server modal]]'
 - '[[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps
   and Integrations changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-4-apps-and-integrations-changes-in-v1-8-1|4 Apps
+  and Integrations changes in v1.8.1]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-07-v1-8-2-20e2205d|windsurf-2025-05-07-v1-8-2-20e2205d]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps and Integrations changes in v0.6.6]]
-- Later: 2025-05-09 · Replit · [[Changes/Replit/2025-05-09-paypal-checkout-integration|PayPal checkout integration]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-4-apps-and-integrations-changes-in-v1-8-1|4 Apps and Integrations changes in v1.8.1]]
+- Later: 2025-05-08 · Raycast · [[Changes/Raycast/2025-05-08-3-apps-and-integrations-changes-in-raycast-macos-v1-1-98-0|3 Apps and Integrations changes in Raycast macos-v1 1.98.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

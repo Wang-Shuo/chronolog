@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c87010238e5dfc56dc7eae985adb69b5310ca0f5a449754235ad069201b82d73
+machine_hash: 566efc57295249a623fd1c0f7586d02262c75156454ab6017332d47721bc9227
 product: synthesia
 product_name: Synthesia
 record:

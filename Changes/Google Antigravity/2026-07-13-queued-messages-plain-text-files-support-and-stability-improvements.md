@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8d1c1581f77be049916bb876c53f825b48c222a9339a944100b588e6353bb377
+machine_hash: 3154f0d1aecb5bfeb19c16bc125b3aad83f47141ba0ec03f6175bbef8aed866c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,8 +47,8 @@ record:
   title: Queued messages, plain text files support, and stability improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
-  WebSockets continue using the low-latency transport while respecting…]]'
+- '[[Changes/Raycast/2026-07-09-2-reliability-and-performance-changes-in-raycast-windows-0-68|2
+  Reliability and Performance changes in Raycast windows 0.68]]'
 - '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
 - '[[Changes/Google Antigravity/2026-07-13-streamlined-startup-performance-by-optimizing-file-watching-and-the-application|Streamlined
   startup performance by optimizing file watching and the application…]]'

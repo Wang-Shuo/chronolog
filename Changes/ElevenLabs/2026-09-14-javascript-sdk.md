@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 77e4981501fce518a5b53d61d2c880da7b4b0fccc65896576cce229ecdab2cff
+machine_hash: 9ae2ed03b0936516894e3e370241955ba8385447a563816a55e098a1bca75375
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,8 +62,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-4-model-support-changes-in-raycast-macos-2-3|4 Model
+  Support changes in Raycast macos 2.3]]'
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 - '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support

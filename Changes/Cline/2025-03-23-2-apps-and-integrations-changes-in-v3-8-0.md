@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c803c5b6e45e6156a752ec6cd0272836d7ec04d154c346f72c6d336f59276b6
+machine_hash: 572f260429b4fcbf083255f075c7e67f7fc6c5df9d010a025b99deeed8fa6814
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in v3.8.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced
-  Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]'
+- '[[Changes/Raycast/2025-03-19-workspace-added-the-quit-all-apps-except-frontmost-command-use-this-feature-to-f|Workspace:
+  Added the “Quit All Apps Except Frontmost” command]]'
 - '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
   --git-commit-verify flag (default]]'
 - '[[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub

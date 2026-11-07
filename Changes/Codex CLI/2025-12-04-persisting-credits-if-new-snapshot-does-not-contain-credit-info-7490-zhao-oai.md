@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 9985039c82181872274fceb26810e1885ec11bc77b7696846373589f46fcfa19
+machine_hash: 88999ba684295dae2e56991deaad03ce8a64868ba315848fab9ff560c8b6fd89
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,9 +46,8 @@ record:
   title: 'persisting credits if new snapshot does not contain credit info #7490 @[zhao-oai]'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-26-stripe-integrated-payments-for-core-users|Stripe Integrated
-  Payments for Core Users]]'
 - '[[Changes/ElevenLabs/2025-11-27-workspaces|Workspaces]]'
+- '[[Changes/Recraft/2025-11-28-cost-per-generation|Cost per generation]]'
 - '[[Changes/DeepSeek API/2025-12-01-deepseek-v3-2-speciale|DeepSeek-V3.2-Speciale]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
 source_type: github_releases

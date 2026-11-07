@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e0b9b76a2b2a5cae7e5a196e9e1534e20e2ff6be865f040821bd8ab43e543b7
+machine_hash: 640634b13840b741cb9af7ba8199e7f119fefc50ad1100644261a9ca87c6768e
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v0.48.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added
-  strong model as a fallback for commit messages (and chat summaries)]]'
 - '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
   unit tests for LLM init function]]'
+- '[[Changes/AnythingLLM/2024-08-02-gemini-pro-1-5-api-support-for-2m-context-and-new-experimental-model-by-rahswe-i|Gemini
+  Pro 1.5, API support for 2M context and new experimental model]]'
 - '[[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support
   changes in v0.3.11]]'
 source_release: '[[Releases/Aider/aider-2024-08-06-v0-48-0-github-168916125-f20efdec|aider-2024-08-06-v0-48-0-github-168916125-f20efdec]]'

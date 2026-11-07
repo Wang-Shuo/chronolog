@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01e5aedb465e069755e27fb2364e2aad11f93bdcf6494eccde755c24877a59b2
+machine_hash: 8b35187f6c79326152afc0fba035c5165049aa3b7ab5fb82dfebb758d86e52ea
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: '`ollama push` will now provide a URL to follow to sign in'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-17-oauth-token-retrieval-logic-was-refactored-improving-the-reliability-and-consist|\U0001F512
-  OAuth token retrieval logic was refactored, improving the reliability…]]"
+- '[[Changes/Devin/2025-09-19-removed-login-hint-in-new-user-authentication-flow-due-to-inconsistent-behavior|Removed
+  login\hint in new user authentication flow due to inconsistent behavior…]]'
 - '[[Changes/Dify/2025-09-22-chore-remove-weird-account-login-by-zalcit-in-https-github-com-langgenius-dify-p|chore:
   remove weird account login]]'
 - '[[Changes/Open WebUI/2025-09-25-2-account-and-access-changes-in-v0-6-31|2 Account

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70e85d6c44953a3f370c4c290e59b48104f4eee1b792bbb0301aaefe0c4859af
+machine_hash: bba0ce674e95aae95e1dc9e053d09191f39e6b1f82eda98ba865dc73f7d58881
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-added-support-for-multi-line-input-for-terminals-that-support-the-kitty-protocol|Added support for multi-line input for terminals that support the Kitty…]]
-- Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-developer-workflow-changes-in-v0-9-0|3 Developer Workflow changes in v0.9.0]]
+- Later: 2025-10-10 · Raycast · [[Changes/Raycast/2025-10-10-2-developer-workflow-changes-in-raycast-windows-0-32|2 Developer Workflow changes in Raycast windows 0.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6c468a9d717daa59dcfd5e64f34b5f0ff657445780b6a68bdfc563fe236a74e4
+machine_hash: d19de264e85bbaa17988729e513a867e99380cc4f504c512be2e2b8300f5228b
 product: descript
 product_name: Descript
 record:
@@ -56,8 +56,8 @@ record:
   title: Editor updates
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
-  can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- '[[Changes/Devin/2024-09-03-send-devin-code-reviews-in-product|Send Devin code reviews
+  in product]]'
 - "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
   Missing Chat Completion Response Headers]]"
 - '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s

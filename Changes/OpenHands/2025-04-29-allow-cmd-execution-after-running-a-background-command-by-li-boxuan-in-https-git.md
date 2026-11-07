@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57aa41f245d5c3b70582216b0457c74803931f90af3060a8f65f2dafb4f36ca4
+machine_hash: ae077ca7066c5df99e9daa07d7a9111ca926eede0b7c0f4782f992631c2cbcba
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Allow cmd execution after running a background command
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored
-  interactivity to the terminal]]'
 - '[[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command
   functionality]]'
+- '[[Changes/LM Studio/2025-04-24-2-developer-workflow-changes-in-lm-studio-0-3-15|2
+  Developer Workflow changes in LM Studio 0.3.15]]'
 - '[[Changes/Cline/2025-04-25-add-compact-command|Add /compact command]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-29-0-35-0-github-215602170-7c692640|openhands-2025-04-29-0-35-0-github-215602170-7c692640]]'
 source_type: github_releases

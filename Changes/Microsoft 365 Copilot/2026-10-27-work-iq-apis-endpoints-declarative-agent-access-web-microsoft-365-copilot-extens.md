@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1221776cb6ade6ef6680161d47223b594e97c2e5b7fdba737911ef5a6d6f3dc1
+machine_hash: 22dcfd1c935694e6d0db67e22080acbf753fd22a8196764a15490bd6ce8f3d11
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,10 +47,9 @@ record:
   title: Work IQ APIs - Endpoints
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-attach-files-of-any-type-such-as-videos-design-files-or-programs-up|Attach
-  files of any type, such as videos, design files, or programs, up to 20 MB]]'
-- '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
-  Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-nodes-and-promo-updates|Nodes and promo updates]]'
+- '[[Changes/Krea/2026-10-27-agent-builds-custom-nodes-in-nodes|Agent builds custom
+  nodes in Nodes]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning
   Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3 Agent Mode changes in HUB v2.28.0 — Built-in browser…]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-agent-builds-custom-nodes-in-nodes|Agent builds custom nodes in Nodes]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes in v2026.10.8]]
 <!-- chronolog:end -->
 

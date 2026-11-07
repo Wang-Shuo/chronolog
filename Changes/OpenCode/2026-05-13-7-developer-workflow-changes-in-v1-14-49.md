@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ce0bc13e8702de4a728ada85f8e8d2aaa2c3d6ee030ed8db909fb62d350db6d
+machine_hash: 03f811668cd3328946275931b22b7b3db7767fd16b4dee7eb3288171d07932ac
 product: opencode
 product_name: OpenCode
 record:
@@ -107,7 +107,7 @@ Source: https://opencode.ai/changelog/v1.14.49
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]
-- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-hyper-key-e-nsure-shift-isn-t-suppressed-when-hyper-key-is-using-another-modifie|Hyper Key: E nsure Shift isn’t suppressed when Hyper Key is using another modifier…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

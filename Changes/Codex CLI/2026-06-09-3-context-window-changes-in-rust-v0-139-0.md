@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 491607fb0e7e336725e2dfd623d40bad6b57ba8e84c47b25d0ec8f603d75820b
+machine_hash: 3fbade6a6fdeb1dac84c8a526d02ca23b745f2b11f08e84318b6eb09c18f1cfe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Context Window changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
-  /cd command to move a session to a new working directory without breaking…]]'
-- '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
-  Window changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-updated-default-context-length-to-8k-tokens|Updated
+  default context length to 8k tokens]]'
 - '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
   Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
+- '[[Changes/AnythingLLM/2026-06-09-2-context-window-changes-in-v1-14-0|2 Context
+  Window changes in v1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press Cmd+K to open a new context-aware command palette and jump to chats, projects…]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-2-context-window-changes-in-v1-14-0|2 Context Window changes in v1.14.0]]
 - Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-context-window-changes-in-kimi-code-0-12-0|2 Context Window changes in Kimi Code 0.12.0]]
 <!-- chronolog:end -->
 

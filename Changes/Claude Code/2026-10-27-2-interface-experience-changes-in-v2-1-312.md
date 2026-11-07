@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5c8893bd72ad00ec19a0318f84996316fe33585b9fdf59dbeb54fcb4b3cb65c
+machine_hash: 991a7cf2f64935bf413045757f51dbfad5856c9ba7226615b1e4bb5e0c8cb873
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
-  Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
   clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
+- '[[Changes/Devin/2026-10-26-transcript-and-composer-refinements|Transcript and Composer
+  Refinements]]'
 - '[[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript
   downloads: The dubbing project menu can download target language…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'

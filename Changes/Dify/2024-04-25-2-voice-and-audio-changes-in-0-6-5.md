@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bccf7a70da12e43faee36d8ca2bc8e78a9b107bfddfc57e2df394327f50c9bb2
+machine_hash: c055a9bb5f3adc5581fce3c0cfe655dfc49e9de8c0a10211e8721c163991338b
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,10 @@ record:
   title: 2 Voice and Audio changes in 0.6.5
   type: change
 related_changes:
-- '[[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]'
-- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
+- '[[Changes/Superwhisper/2024-03-22-experimental-turbo-voice-models-with-next-gen-realtime-mode|Experimental
+  Turbo Voice models with next gen Realtime mode]]'
+- '[[Changes/Superwhisper/2024-03-31-add-ultra-cloud-model-to-voice-models|Add Ultra
+  Cloud model to Voice models]]'
 - '[[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip
   Sync in Gen-2]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'

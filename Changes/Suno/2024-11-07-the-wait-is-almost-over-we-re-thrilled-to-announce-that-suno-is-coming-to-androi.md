@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9461f18c06fc8e3013ad12cd6bccc1c9125afadc260149e776f177da3cec6925
+machine_hash: d7459c7cce13ed9c7aab2febe62267202438443c7c828cebfc32bbf5a88a3b42
 product: suno
 product_name: Suno
 record:
@@ -48,11 +48,11 @@ record:
   title: Suno on Android is finally open to pre-registration!
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
-  changes in 0.9.0]]'
-- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
-  Apple Touch Icon Support]]"
 - '[[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]'
+- '[[Changes/Superwhisper/2024-10-25-use-macos-native-text-rendering-no-longer-renders-markdown|Use
+  macOS native text rendering (no longer renders Markdown)]]'
+- '[[Changes/Raycast/2024-11-06-misc-addressed-the-issue-with-macos-sequoia-15-0-beta-1-to-4-and-15-1-beta-1-whe|Misc:
+  Addressed the issue with macOS Sequoia 15.0 Beta 1 to 4 and 15.1 Beta 1, where…]]'
 source_release: '[[Releases/Suno/suno-2024-11-07-e-suno-on-android-is-finally-open-to-pre-registration-c16e242c|suno-2024-11-07-e-suno-on-android-is-finally-open-to-pre-registration-c16e242c]]'
 source_type: suno_changelog
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-10-16 · Suno · [[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]
+- Earlier: 2024-11-06 · Raycast · [[Changes/Raycast/2024-11-06-misc-addressed-the-issue-with-macos-sequoia-15-0-beta-1-to-4-and-15-1-beta-1-whe|Misc: Addressed the issue with macOS Sequoia 15.0 Beta 1 to 4 and 15.1 Beta 1, where…]]
 - Later: 2024-11-14 · Gemini · [[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini app on your iPhone]]
 <!-- chronolog:end -->
 

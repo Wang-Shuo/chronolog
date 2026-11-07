@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d6c76f84fd88959305bd1c7ef0411c36d3c46d6aeb53853f73c161c42097158
+machine_hash: c96f3fde929f43164e8824a6f8b5e1efbae0a52e7262c18a08ca910aaddfe5ae
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface Experience changes in 1.13.1]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added "Show turn duration" toggle to the /config menu]]
+- Later: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-3-interface-experience-changes-in-v1-11-2|3 Interface Experience changes in v1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

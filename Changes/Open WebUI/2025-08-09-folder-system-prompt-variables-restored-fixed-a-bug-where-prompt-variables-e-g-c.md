@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b44ca25d8a87298ba1722cc1e04f6197646ba00d2132e5ec3b09f99ba4767251
+machine_hash: 06cdeb7b2f25fff85658c396507052caf0b5818f33d8b3aa785980e171063b0e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: "\U0001F4C1 **Folder System Prompt Variables Restored**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
 - '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
   changes in v0.1.18]]'
+- '[[Changes/LM Studio/2025-08-06-gpt-oss-openai-compat-api-remove-structural-tokens-etc-from-v1-chat-completions|gpt-oss
+  OpenAI-compat API Remove structural tokens (, , etc...)…]]'
 - '[[Changes/Replit/2025-08-08-improved-filesystem-search|Improved filesystem search]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'
 source_type: github_releases

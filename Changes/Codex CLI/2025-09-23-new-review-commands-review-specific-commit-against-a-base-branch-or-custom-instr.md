@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1202b5f07286730907b6d7afb11c46d66c61f066bd4689e76fec4b222b789af
+machine_hash: dafda45af484bbda13dbf8e596887bae714d1666c8039d929f16fade4d13d171
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
-- Later: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing ChatGPT Pulse for Pro users]]
+- Later: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-2-memory-and-personalization-changes-in-lm-studio-0-3-27|2 Memory and Personalization changes in LM Studio 0.3.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

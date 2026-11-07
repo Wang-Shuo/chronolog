@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7741a6936bdd9775d315dca7ea661bb022c8236ffceeebc9dd719c192d77adf
+machine_hash: 32c83884f807e6564097c55a2fa0e136fad975f24c6496081d8793acff568f6a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: Fish shell completion works when aliases include option aliases like --effort
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
-  role]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
   saved /diff review comments when reopening an unchanged diff in the same…]]'
 - '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):
   use status classes for icons and diff counts]]'
+- '[[Changes/Krea/2026-10-20-improved-stability-in-the-editor-and-3d-viewer|Improved
+  stability in the Editor and 3D viewer]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d|github-copilot-cli-2026-10-21-v1-0-102-github-419886241-eab5a98d]]'
 source_type: github_releases
 theme: editor-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme): use status classes for icons and diff counts]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-improved-stability-in-the-editor-and-3d-viewer|Improved stability in the Editor and 3D viewer]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]]
 <!-- chronolog:end -->
 

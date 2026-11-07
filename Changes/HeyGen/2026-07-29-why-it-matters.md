@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 75fe65bac03604ef35a9b5d61ce956e1dad07b77f6c0f32d48988ea47e15216d
+machine_hash: a0f646977a4b9f831c775b5a619bce555f92e1afb26ff33f8ec5960595304af1
 product: heygen
 product_name: HeyGen
 record:
@@ -46,8 +46,8 @@ record:
   title: Why it matters
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
-  400 instead of 500 when file field is missing from audio-to-text…]]'
+- '[[Changes/Raycast/2026-07-28-2-voice-and-audio-changes-in-raycast-ios-1-3-4|2 Voice
+  and Audio changes in Raycast ios 1.3.4]]'
 - '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
   and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
 - '[[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Later: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX voice models are now hidden on Intel Macs, where they aren't supported]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

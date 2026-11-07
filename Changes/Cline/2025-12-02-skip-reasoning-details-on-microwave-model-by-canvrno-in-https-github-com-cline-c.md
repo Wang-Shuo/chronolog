@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5968deedc66d2201155f8171f393c543c5af8bd888c86cce072a78bca13e016a
+machine_hash: 0887618a63faae14d15273e3c9f9dbdbd9554187ee7cf8dea8a2ad8ff14f21fc
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Skip reasoning_details on microwave model
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
-  changes in v3.38.3]]'
-- '[[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4
-  Model Support changes in ElevenLabs updates — 2025-11-27]]'
+- '[[Changes/Recraft/2025-11-28-we-ve-added-a-new-external-model-flux-2-available-to-paid-subscribers-only|Recraft
+  adds a new external model — Flux 2]]'
+- '[[Changes/Superwhisper/2025-12-01-enterprise-organization-models-and-feature-gating|Enterprise
+  organization models and feature gating]]'
 - '[[Changes/Cline/2025-12-02-4-model-support-changes-in-v3-39-0|4 Model Support changes
   in v3.39.0]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-2-github-266849692-f9610102|cline-2025-12-02-v3-39-2-github-266849692-f9610102]]'

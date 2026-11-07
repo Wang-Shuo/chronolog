@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4897f5f997e85d4a1035c94c8eca3f262bebb4308b86b6670ecc2d99556888bd
+machine_hash: 97f10e05523c9579a2e79a9b3c1bded47c07ff51190890059a4c5196c7eb3f20
 product: dify
 product_name: Dify
 record:
@@ -41,8 +41,8 @@ record:
   title: 'chore: allow download audio/video through HTTP node'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
-  ElevenLabs Voice Adaptations]]"
+- '[[Changes/AnythingLLM/2024-08-08-speech-to-text-hotkey-by-rrojaski-in-https-github-com-mintplex-labs-anything-llm|Speech
+  to text hotkey]]'
 - '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
   to Speech]]'
 - '[[Changes/Descript/2024-08-14-welcome-to-descript-season-7-our-love-note-to-video-and-audio-podcasters-we-re-l|Welcome

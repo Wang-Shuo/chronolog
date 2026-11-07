@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91d2d1b90e846073598c3f40cdf0d60f5d7e759e4b96238036ab4334f8b5ed71
+machine_hash: fae07e641a26cfbb78d078d3d8341adde7eec0b165cc03ac7c5014d2963b769b
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-11 · Lovable · [[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety and Privacy changes in v2.1.232]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-security-profile-safeguards-in-the-automation-editor|Security Profile Safeguards in the Automation Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

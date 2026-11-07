@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c550b214d3e838cd89f8783d3c4c61937a04ad07efc31a71d4d9d54ae7d28c7f
+machine_hash: 25c9bc6546747784124423cb30cae63aa3c9be550996017e11b0beeea28fe31b
 product: cursor
 product_name: Cursor
 record:
@@ -42,7 +42,8 @@ record:
   title: Usage-based cost visibility
   type: change
 related_changes:
-- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
+- '[[Changes/Recraft/2025-03-20-vectorization-0-01-was-0-04|Vectorization – $0.01
+  (was $0.04)]]'
 - '[[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes
   in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7f6c434b473c1bdc28bc34c3e627025f7893f5c003ebfdb59aa737c52331d0e6
+machine_hash: 674f3c42e0eb895565a7522a278b0e07efaf4671ff1cc96d25d0030186006b85
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved Code Review
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-running-many-standard-bash-powershell-commands-that-are-known-to-be-readonly|Running
-  many standard bash/PowerShell commands that are known to be readonly]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3
   Developer Workflow changes in v0.0.350]]'
 - '[[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add
   linter check for proto files and add auto-formatting]]'
+- '[[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File
+  Search : Added a new Open in Terminal action]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-add-linter-check-for-proto-files-and-add-auto-formatting-by-sjf-in-https-github|Add linter check for proto files and add auto-formatting]]
+- Earlier: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File Search : Added a new Open in Terminal action]]
 - Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-11-developer-workflow-changes-in-v0-11-0|11 Developer Workflow changes in v0.11.0]]
 <!-- chronolog:end -->
 

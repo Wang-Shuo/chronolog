@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2d0da7909e7ec6df003859a8d34e3a1ef257c8b9a9f19e5cff4c3c3097e5cc03
+machine_hash: 532c222a77d02248d20b0d742515c0dfd6b3064abf5815efb0b3b23da060ea19
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-teams-and-enterprise|Teams and enterprise]]'
-- '[[Changes/Open WebUI/2025-09-25-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Replit/2025-09-26-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-10-03-create-organization-page|Create Organization Page]]'
+- '[[Changes/Devin/2025-10-03-steerable-deepwiki|Steerable DeepWiki]]'
 source_release: '[[Releases/Replit/replit-2025-10-03-2025-10-03-65f6bedb|replit-2025-10-03-2025-10-03-65f6bedb]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-26 · Replit · [[Changes/Replit/2025-09-26-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-steerable-deepwiki|Steerable DeepWiki]]
+- Later: 2025-10-10 · Devin · [[Changes/Devin/2025-10-10-enterprise-knowledge-management|Enterprise Knowledge Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

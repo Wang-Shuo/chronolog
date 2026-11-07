@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07403db167b7346b6a2049f1d5ff372bdadec5a82027698d0213fd3bb86bc49b
+machine_hash: ea483b85025b9524d0e95392232c71a815a4834a3ece2104dcbe8357802b06b4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,10 +62,10 @@ record:
   title: 4 Account and Access changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2
-  Account and Access changes in rust-v0.129.0]]'
 - '[[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2
   Account and Access changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-general-faster-app-startup-and-a-more-reliable-launch-at-login-experience|General
+  : Faster app startup and a more reliable launch-at-login experience]]'
 - '[[Changes/Replit/2026-05-08-private-publishing-for-everyone|Private publishing
   for everyone]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'

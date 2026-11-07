@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9afb087474785ffc384aae4c7e6bfb9b7ab7fc7d5fca8a30a0693b4e6ecb9d6
+machine_hash: 339efdac916e45608708de03174272705cfa6263fa3fe9eedb571c8c82eea819
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,10 +47,9 @@ record:
     a blank…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
-  Experience changes in v2026.6.11]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
   Experience changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-analytics-page-improvements|Analytics Page Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
   Interface Experience changes in v1.0.68]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-01-0-21-1-27ddc5fb|kimi-code-2026-07-01-0-21-1-27ddc5fb]]'

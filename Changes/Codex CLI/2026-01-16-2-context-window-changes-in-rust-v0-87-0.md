@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4a946d76881795bb00d0ae0e90974e5205ae31a1864624df0f95bf2e21f225f
+machine_hash: f208266156229733f9e6bc42a29584d5ddc35406186478364fdb19e5e69281b1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.87.0
 ## Nearby in Context Window
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]]
-- Later: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-enable-infinite-sessions-with-automatic-long-running-context-management-through|Enable infinite sessions with automatic long-running context management through…]]
+- Later: 2026-01-16 · LM Studio · [[Changes/LM Studio/2026-01-16-output-cached-tokens-statistics-in-openai-compatible-v1-responses-rest-endpoint|Output cached_tokens statistics in OpenAI-compatible /v1/responses REST endpoint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

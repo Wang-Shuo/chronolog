@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ad81b4c7c9fa705aa7ea00234da0468d84194727c9728a4722af033c37ac00c
+machine_hash: 573f20512c48700773bccd7ba4de37b77b4f045c6db904377251c8bcad467ac1
 product: dify
 product_name: Dify
 record:
@@ -42,9 +42,9 @@ record:
   title: alter schedule timedelta
   type: change
 related_changes:
-- '[[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows
-  in a database]]'
 - '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
+- '[[Changes/Raycast/2023-11-15-make-rise-your-default-calendar-to-open-events-in-it-set-it-up-via-raycast-prefe|Make
+  Rise your default calendar to open events in it]]'
 - '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
   data clean schedule]]'
 source_release: '[[Releases/Dify/dify-2024-01-04-0-4-3-github-135822451-ebe2cf30|dify-2024-01-04-0-4-3-github-135822451-ebe2cf30]]'

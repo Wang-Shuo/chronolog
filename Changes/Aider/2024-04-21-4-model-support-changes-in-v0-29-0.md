@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee02edf7e438461afffb65e8e13252e46ea98ae69e2b109e403e1c088e25c2ec
+machine_hash: e2b9c3356b502eee83a9457a5b264f59c5431cc10a804975ac335c0b8e7ee778
 product: aider
 product_name: Aider
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Model Support changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned
-  AI Training]]'
 - '[[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes
   in 0.6.3]]'
 - '[[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support
   changes in v0.1.119]]'
+- '[[Changes/Superwhisper/2024-04-20-add-images-for-models|Add images for models]]'
 source_release: '[[Releases/Aider/aider-2024-04-21-v0-29-0-github-152105481-898d28d6|aider-2024-04-21-v0-29-0-github-152105481-898d28d6]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +91,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-16 · Open WebUI · [[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support changes in v0.1.119]]
+- Earlier: 2024-04-20 · Superwhisper · [[Changes/Superwhisper/2024-04-20-add-images-for-models|Add images for models]]
 - Later: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-model-selector-resolved-issue-where-default-model-selection-was-not-saving|🔧 Model Selector: Resolved issue where default model selection was not saving]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f19419e4182c608f86404b7e45a8790efce324c725766a129489e2b85e5759d7
+machine_hash: 6a766b9950eb002ebe40f1a53c2598f1ba2d7995e3d6cf34254f0ad1489e22a6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: Use natural language with /every and /after to schedule tasks using cron…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
-  wait() on local runs]]'
+- '[[Changes/Devin/2026-06-05-prompt-to-reconnect-linear|Prompt to Reconnect Linear]]'
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows
   now opens immediately even while a turn is in progress]]'
 - '[[Changes/Codex CLI/2026-06-09-plugin-marketplace-automation-is-more-informative-and-responsive-codex-plugin-ma|Plugin

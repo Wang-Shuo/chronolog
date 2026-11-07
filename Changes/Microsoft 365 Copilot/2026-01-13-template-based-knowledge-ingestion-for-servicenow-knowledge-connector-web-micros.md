@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 57e2860e7a3c0ee30be95fb5acefca076c44c404da5c044e4cefcb9cbacc2c35
+machine_hash: 9eb5b20505d2d61395db50c242c989e2d36796c88a8ecd6c2c198ccc6285cde0
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -43,8 +43,8 @@ record:
   title: Template-based knowledge ingestion for ServiceNow Knowledge Connector…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support
-  resource content type in MCP tool output]]'
+- '[[Changes/Raycast/2026-01-12-widgets-prevented-widgets-from-resetting-to-an-empty-state-when-using-action-ext|Widgets:
+  Prevented widgets from resetting to an empty state when using action extensions]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
 - '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 771d27cd064e0e9fbb7eea44f7b0230e802e4e468197c40190fa0591b4efb97a
+machine_hash: 23466cd8f5d98cae9d37c22a781913d4358af7b86cae494a2be759ba2c4fbe17
 product: opencode
 product_name: OpenCode
 record:
@@ -53,8 +53,8 @@ record:
   title: 7 Mobile and Desktop changes in v1.18.4
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile
-  and Desktop changes in v1.18.3]]'
+- '[[Changes/Raycast/2026-07-16-the-wait-is-over-cloud-sync-public-beta-is-here-you-can-now-keep-your-raycast-da|The
+  wait is over. Cloud Sync public beta is here]]'
 - '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 - '[[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-20-v1-18-4-528cd10f|opencode-2026-07-20-v1-18-4-528cd10f]]'

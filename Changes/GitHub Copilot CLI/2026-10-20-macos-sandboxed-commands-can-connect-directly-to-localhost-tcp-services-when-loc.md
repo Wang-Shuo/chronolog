@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc2714487ce31c26a90a731ce0fc32ff51d477e138463578b0f7b284798473e8
+machine_hash: 167b5b3bd9cc7867a2dd253c85c3bf4410cc9bec75c2f18053adec4798480b1a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     local…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies
-  on macOS]]'
 - '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
   your last chat in the desktop app]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
   Improved git command start-up with a standard Git for Windows install…]]'
+- '[[Changes/Wispr Flow/2026-10-19-dark-mode-for-desktop-is-here-desktop|Dark Mode
+  for Desktop Is Here (Desktop)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298|github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
+- Earlier: 2026-10-19 · Wispr Flow · [[Changes/Wispr Flow/2026-10-19-dark-mode-for-desktop-is-here-desktop|Dark Mode for Desktop Is Here (Desktop)]]
 - Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile and Desktop changes in v1.29.0]]
 <!-- chronolog:end -->
 

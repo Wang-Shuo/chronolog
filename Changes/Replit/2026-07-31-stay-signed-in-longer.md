@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d9acfb30838ff4787fe961698b51b369fd97fb7cf6faba7ece5f05bad7acfd37
+machine_hash: 394d1368247bda8bf53522227dbe56c77adc11ea48fd939dcbbca8097dae5cb0
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Stay signed in longer
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
 - '[[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry
   is now Managed registry]]'
+- '[[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where
+  Legacy Cascade Is Available]]'
 - '[[Changes/Replit/2026-07-31-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|replit-2026-07-31-2026-07-31-9665255c]]'
 source_type: replit_changelog
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry is now Managed registry]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where Legacy Cascade Is Available]]
 - Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
 <!-- chronolog:end -->
 

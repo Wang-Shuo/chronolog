@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ad2bf32334576201a4365323376e680929de04a8ad317c62bf72d913e6c541e
+machine_hash: 9c94728b43759ee03820f7ebe7ca2c547c83845726b4047d50fad7f919a5d44b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-we-launched-custom-agents-a-few-weeks-ago-and-teams-are-building-faster-than-we|We launched Custom Agents a few weeks ago, and teams are building faster than we can…]]
-- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-new-transitions|New Transitions]]
+- Later: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-faster-sidebar-session-loading|Faster Sidebar Session Loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

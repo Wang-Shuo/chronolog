@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 372f20479614beb28ccf4874437da930c70cd26099182602e0adcc1269d61ad3
+machine_hash: 73403bfd735ade25692e039a1123ee1207f023be0d28847d711066e8cd43e4b7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: 2 Collaboration changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
-  every video with an AI content watermark]]'
+- '[[Changes/Devin/2026-10-05-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 - '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
   accounts are now team workspaces]]'
 - '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
@@ -93,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-07 · Claude · [[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly API credits for Max and Team plans]]
-- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration changes in rust-v0.162.0]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-microsoft-teams|Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

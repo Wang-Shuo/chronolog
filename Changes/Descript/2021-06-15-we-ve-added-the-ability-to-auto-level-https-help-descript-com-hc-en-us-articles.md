@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03310fd79dd5c50230fa617cc12f5650dc27d45166b46701eb9cad1fa9e8eb40
+machine_hash: bbc7358be0c68d651cac650b232fa32844e6bcc09673e35c4e429c53363d295c
 product: descript
 product_name: Descript
 record:
@@ -45,10 +45,10 @@ record:
   title: Auto-leveling for multi-clip selection
   type: change
 related_changes:
-- '[[Changes/Notion/2021-03-23-clicking-on-commented-text-within-a-block-will-now-open-the-comment-menu-and-kee|Clicking
-  on commented text within a block will now open the comment menu and keep…]]'
 - '[[Changes/Notion/2021-05-13-you-can-now-set-the-language-of-a-code-block-without-leaving-your-keyboard-by-us|You
   can now set the language of a code block without leaving your keyboard, by using…]]'
+- '[[Changes/Raycast/2021-05-26-root-search-configure-any-command-or-app-by-pressing-it-opens-the-preferences-wi|Root
+  Search: Configure any command or app by pressing ⌘ ⇧ ,]]'
 - '[[Changes/Descript/2021-06-15-we-ve-combined-the-composition-sidebar-and-media-library-into-a-unified-project|We''ve
   combined the Composition Sidebar and Media Library into a unified Project…]]'
 source_release: '[[Releases/Descript/descript-2021-06-15-6390c9b04a4a0d64fa56439c-052da50e|descript-2021-06-15-6390c9b04a4a0d64fa56439c-052da50e]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-combined-the-composition-sidebar-and-media-library-into-a-unified-project|We've combined the Composition Sidebar and Media Library into a unified Project…]]
-- Later: 2021-06-30 · Descript · [[Changes/Descript/2021-06-30-2-interface-experience-changes-in-version-17-release|2 Interface Experience changes in Version 17 Release]]
+- Later: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-file-search|File Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

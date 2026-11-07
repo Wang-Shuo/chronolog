@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a3d13338ea4f569c137bdc3432ab9779a0f4991c55e1b5b6bb574b0e84278b84
+machine_hash: 98cd70ee5cf63abb22aa90c06290ed787cc9aab8f1c2535d7562c2b7006eda16
 product: descript
 product_name: Descript
 record:
@@ -46,8 +46,8 @@ record:
     team''s…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
-  changes in v0.6.16]]'
+- '[[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI:
+  Always use the original image when saving and sharing a chat image]]'
 - '[[Changes/Descript/2025-07-17-with-brand-studio-your-team-can-now-maintain-brand-consistency-without-sacrifici|With
   Brand Studio, your team can now maintain brand consistency without sacrificing…]]'
 - '[[Changes/Descript/2025-07-17-drive-owners-can-set-default-layout-packs-and-manage-share-branding|Drive
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration changes in v0.6.16]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI: Always use the original image when saving and sharing a chat image]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|👥 User Group Add/Remove Endpoints]]
 <!-- chronolog:end -->
 

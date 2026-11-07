@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4b4d8fbdb711f6d334d04787578f6a6083429011c4176cd33a791dcdae121557
+machine_hash: ce3e69a848348ba56d727df3424e6cb9043801dbe094878025cf8fcc3c4920dd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,10 +67,11 @@ record:
   title: Audio Generation (TTS, S2S, SFX, Voice Design)
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-22-13-new-stock-speakers|13 New stock speakers]]'
 - '[[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider
   selection]]'
 - '[[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]'
+- '[[Changes/Superwhisper/2025-04-24-nova-3-voice-model-app-fixes|Nova 3 Voice Model
+  & App Fixes]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-04-28-2025-04-28-49480de5|elevenlabs-2025-04-28-2025-04-28-49480de5]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -118,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]
+- Earlier: 2025-04-24 · Superwhisper · [[Changes/Superwhisper/2025-04-24-nova-3-voice-model-app-fixes|Nova 3 Voice Model & App Fixes]]
 - Later: 2025-05-01 · ChatGPT · [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]]
 <!-- chronolog:end -->
 

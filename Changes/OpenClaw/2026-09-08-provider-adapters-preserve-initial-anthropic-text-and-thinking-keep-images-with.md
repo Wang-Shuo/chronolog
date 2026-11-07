@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ecb5353a168b48f3cef6c07eb1ffcfc38215e71be632722e1f4548bbbbf5083
+machine_hash: e49ff78ab463b4d554c39bee675bfad1fc965ac374e2ec71e0b327aeadf183e3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -67,11 +67,10 @@ record:
   title: Provider adapters preserve initial Anthropic text and thinking, keep images…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-09-04-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here''s
-  what''s new in HeyGen this month]]'
 - '[[Changes/HeyGen/2026-09-04-brand-system-styling-moves-from-templates-to-ai-studio|Brand
   System styling moves from Templates to AI Studio]]'
 - '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
+- '[[Changes/Krea/2026-09-07-realtime-director|Realtime Director]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -120,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]
+- Earlier: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-realtime-director|Realtime Director]]
 - Later: 2026-09-10 · DeepSeek API · [[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash Release]]
 <!-- chronolog:end -->
 

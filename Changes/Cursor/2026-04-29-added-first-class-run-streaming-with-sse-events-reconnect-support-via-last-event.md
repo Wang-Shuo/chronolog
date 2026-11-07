@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bc47495b88d15fa77eff35ea44cef6c9963846e380e836f034e75a767ad91fd0
+machine_hash: fe3c6b9ac0c26336970cd0ec5f6adcb8de4d8c9e6a14e7fb01d952c77511bd1f
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer Workflow changes in v1.14.29]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow changes in 1.14.0]]
+- Later: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-pr-digest-list-redesign|PR Digest List Redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

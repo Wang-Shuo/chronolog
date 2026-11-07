@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8f182589a199b0d6b80ac2602cabf5d3d14ba6ca0917fd9e2eb9e59591bde49d
+machine_hash: b63e71b58374b3dc05de54d3172c5d76755b80940054d8ca46453cdc486db1ac
 product: opencode
 product_name: OpenCode
 record:
@@ -40,11 +40,11 @@ record:
   title: Auto-hide the menu bar on Linux and Windows
   type: change
 related_changes:
-- '[[Changes/Descript/2026-05-14-chat-history|Chat history]]'
-- '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
-  Drive sidebar, and Settings redesigns]]'
 - '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
   markdown rendering for session output by default]]'
+- '[[Changes/Recraft/2026-05-14-dreamier-3d-and-illustrations|Dreamier 3D and illustrations]]'
+- '[[Changes/Krea/2026-05-15-style-refs-in-the-gallery-arrow-navigation|Style refs
+  in the gallery + arrow navigation]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-15-v1-15-0-3ca1d4c1|opencode-2026-05-15-v1-15-0-3ca1d4c1]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored markdown rendering for session output by default]]
+- Earlier: 2026-05-15 · Krea · [[Changes/Krea/2026-05-15-style-refs-in-the-gallery-arrow-navigation|Style refs in the gallery + arrow navigation]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]
 <!-- chronolog:end -->
 

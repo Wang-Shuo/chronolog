@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3e2865f7b000e08058ad1a842d0bb336cd28a1f7b33c979e481309a2dc60c01
+machine_hash: 412005d2b829c8555e5dc4deb882fcff9c85c153eb7d5be47d844e5fe1e7be5a
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,11 @@ record:
   title: 4 Model Support changes in v0.1.4
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
-  3 is now rolling out in beta]]'
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
 - '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
   models supported by api/key if requested model isn''t available]]'
+- '[[Changes/Raycast/2023-10-18-ai-commands-the-gpt-3-5-turbo-instruct-model-is-now-available-it-is-a-replacemen|AI
+  Commands : The GPT-3.5 Turbo Instruct model is now available]]'
+- '[[Changes/Raycast/2023-10-18-gpt-4-for-teams|GPT-4 for Teams]]'
 source_release: '[[Releases/Ollama/ollama-2023-10-20-v0-1-4-github-125837077-2c3cf7e5|ollama-2023-10-20-v0-1-4-github-125837077-2c3cf7e5]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +95,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-10-18 · Aider · [[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
+- Earlier: 2023-10-18 · Raycast · [[Changes/Raycast/2023-10-18-gpt-4-for-teams|GPT-4 for Teams]]
 - Later: 2023-10-27 · Ollama · [[Changes/Ollama/2023-10-27-5-model-support-changes-in-v0-1-6|5 Model Support changes in v0.1.6]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 87139a2c4f4880781c60d87913a33c7e9d720e7258b5aa774b3ce4a9d275d976
+machine_hash: 8d9f246f2c1de5a0b94ff7a76f5487844254d9c1d38672fc6821c930aa34c56d
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Set credit usage limits and alerts for your workspace
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
-  changes in v2026.9.8]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
+- '[[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-macos-2-6|2 Pricing
+  Model changes in Raycast macos 2.6]]'
+- '[[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-windows-2-6|2 Pricing
+  Model changes in Raycast windows 2.6]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
   Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-07-2026-10-07-b6b5dd50|lovable-2026-10-07-2026-10-07-b6b5dd50]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot Analytics - Cowork adoption and impact Web (Viva Insights)]]
-- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]
+- Later: 2026-10-08 · Krea · [[Changes/Krea/2026-10-08-let-krea-know-which-workspace-reports-open-source-usage|Let Krea know which workspace reports open-source usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c68b6561c77e7179400057394fffc688bf3733e2d14a3f484572a6d8ddbc5a0
+machine_hash: ed0de07a60488d6ac94f1a94d1f11efc6e90f880efd51c67d0ef1dc2e6981190
 product: notion
 product_name: Notion
 record:
@@ -47,11 +47,11 @@ record:
   title: Exciting news! We're acquiring Automate.io!
   type: change
 related_changes:
-- '[[Changes/Descript/2019-10-14-video-and-volume-automation-ui-improvements-and-bug-fixes|Video
-  and volume automation UI improvements and bug fixes]]'
-- "[[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate
-  user and group provisioning with Notion's SCIM API \U0001F501]]"
-- '[[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]'
+- '[[Changes/Raycast/2021-06-03-wwdc21|WWDC21]]'
+- '[[Changes/Raycast/2021-06-03-my-schedule-added-an-action-to-copy-the-conference-link-of-an-event-in-case-you|My
+  Schedule: Added an action to copy the conference link of an event in case you…]]'
+- '[[Changes/Raycast/2021-06-16-my-schedule-now-you-can-join-facebook-workplace-video-calls-straight-from-raycas|My
+  Schedule: Now you can join Facebook Workplace video calls straight from Raycast]]'
 source_release: '[[Releases/Notion/notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219|notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-automate-io-integration|Automate.io integration]]
-- Later: 2022-03-03 · Notion · [[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]]
+- Earlier: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-my-schedule-now-you-can-join-facebook-workplace-video-calls-straight-from-raycas|My Schedule: Now you can join Facebook Workplace video calls straight from Raycast]]
+- Later: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-2-automation-and-scheduling-changes-in-raycast-macos-v1-1-23-0|2 Automation and Scheduling changes in Raycast macos-v1 1.23.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

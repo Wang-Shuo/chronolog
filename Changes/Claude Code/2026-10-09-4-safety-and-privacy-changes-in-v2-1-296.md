@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ffa93638b6e7539b638c869b6f3fb76e1dc45ab88b8f0ed782c21e392cdb0b2
+machine_hash: a1b15a37a1af6e1d7d37fce224327c091672de3067f5d27fe4f2d76900b9e62c
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows MXC sandbox]]
-- Later: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot config supports sandbox credential injectHosts keys, with key completion…]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-create-scan-and-create-profile-with-devin|Create scan and Create profile with Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

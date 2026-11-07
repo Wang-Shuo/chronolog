@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28f2c1a2341a8717532fc26ca33df0d752b9c3585b8e1b7b4d2be84d71050524
+machine_hash: 3d36f899b3c6f5a5177059445cb1dfbb4a1b936c3f73d9956c966dbb8785bdd7
 product: aider
 product_name: Aider
 record:
@@ -41,11 +41,11 @@ record:
   title: Allow repo map for "whole" edit format
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
 - '[[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]'
 - '[[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience
   changes in 0.6.3]]'
+- '[[Changes/Superwhisper/2024-04-19-rename-speakers-tab-to-segments|Rename speakers
+  tab to Segments]]'
 source_release: '[[Releases/Aider/aider-2024-04-24-v0-30-0-github-152501578-f64b607d|aider-2024-04-24-v0-30-0-github-152501578-f64b607d]]'
 source_type: github_releases
 theme: editor-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience changes in 0.6.3]]
+- Earlier: 2024-04-19 · Superwhisper · [[Changes/Superwhisper/2024-04-19-rename-speakers-tab-to-segments|Rename speakers tab to Segments]]
 - Later: 2024-04-24 · Open WebUI · [[Changes/Open WebUI/2024-04-24-filereader-optimization-implemented-filereader-initialization-per-image-in-multi|📜 FileReader Optimization]]
 <!-- chronolog:end -->
 

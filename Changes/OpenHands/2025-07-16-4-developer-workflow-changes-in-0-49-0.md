@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a510e07edfdd047cdd959aaa6912d38b39d7c6e0ba2fcc64b540e38d4c54edd3
+machine_hash: 9c6ecc9e3e8716114d7c843970095d0fbc959e73593b83c701ac91d5ccf17e25
 product: openhands
 product_name: OpenHands
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in 0.49.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-12-add-git-branch-analysis-workflow-by-canvrno-in-https-github-com-cline-cline-pull|Add
-  git branch analysis workflow]]'
 - '[[Changes/Codex CLI/2025-07-12-experimental-codex-apply-command-to-interact-with-codex-web-https-github-com-ope|Experimental
   codex apply command to interact with Codex Web]]'
 - '[[Changes/Cline/2025-07-15-2-developer-workflow-changes-in-v3-18-15|2 Developer
   Workflow changes in v3.18.15]]'
+- '[[Changes/AnythingLLM/2025-07-16-sticky-code-block-header-by-shatfield4-in-https-github-com-mintplex-labs-anythin|Sticky
+  code block header]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +96,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.49.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-2-developer-workflow-changes-in-v3-18-15|2 Developer Workflow changes in v3.18.15]]
+- Earlier: 2025-07-16 · AnythingLLM · [[Changes/AnythingLLM/2025-07-16-sticky-code-block-header-by-shatfield4-in-https-github-com-mintplex-labs-anythin|Sticky code block header]]
 - Later: 2025-07-17 · Cline · [[Changes/Cline/2025-07-17-refactoring-terminal-process-logic-and-edge-cases-for-simplicity-by-arafatkatze|Refactoring terminal process logic and edge cases for simplicity]]
 <!-- chronolog:end -->
 

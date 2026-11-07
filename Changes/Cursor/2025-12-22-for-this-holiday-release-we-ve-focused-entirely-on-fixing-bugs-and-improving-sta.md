@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bd0b598b4f5e5cf1a26c3f4f8c6a16130d50b9d55fd9dc03153d4d7833c6753
+machine_hash: cbd52b2fc594bd7d342957547cd0170eadd61dfdca0227bbe03b9d730d7a3ccd
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
     stability
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
-  speed and reliability improvements for setting reads ACLs]]'
+- '[[Changes/Devin/2025-12-19-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295
   Coalesce transcript scroll redraws (TUI2 performance)]]'
 - '[[Changes/Open WebUI/2025-12-21-7-reliability-and-performance-changes-in-v0-6-42|7

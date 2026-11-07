@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f56a32ef5e1f5fd18aa9e4207ff94ad71e82a66fdff9280ffefaa9a8bc7e229
+machine_hash: d747b0fe9d2a942aac89fbadc5d464aaa58d3cf9f1c4398148b286f4cf7358e2
 product: descript
 product_name: Descript
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]]
-- Later: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile now loads 60%+ faster]]
+- Later: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-raycast-ai-beta-magic-at-your-fingertips|Raycast AI Beta - Magic at Your Fingertips]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

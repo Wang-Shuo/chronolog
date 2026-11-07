@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5430f85b51d19ae401fbd18fb49b743f020634afd22b520c07f4893f93baae8e
+machine_hash: 8b96f6470a65d454fb57ff9364c687b263831f3d2370db5ae3e8ebfadcdcca7b
 product: gemini
 product_name: Gemini
 record:
@@ -58,12 +58,12 @@ record:
   title: Introducing Gemini 1.5 Pro to Gemini Advanced
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes
-  in v0.35.0]]'
 - '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
   GPT-4o]]'
 - '[[Changes/Dify/2024-05-13-12-model-support-changes-in-0-6-8|12 Model Support changes
   in 0.6.8]]'
+- '[[Changes/Superwhisper/2024-05-13-include-gpt-4o-to-models-available-for-openai|Include
+  GPT-4o to models available for OpenAI]]'
 source_release: '[[Releases/Gemini/gemini-2024-05-14-2024-05-14-1af0ccd7|gemini-2024-05-14-2024-05-14-1af0ccd7]]'
 source_type: gemini_changelog
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-12-model-support-changes-in-0-6-8|12 Model Support changes in 0.6.8]]
+- Earlier: 2024-05-13 · Superwhisper · [[Changes/Superwhisper/2024-05-13-include-gpt-4o-to-models-available-for-openai|Include GPT-4o to models available for OpenAI]]
 - Later: 2024-05-15 · Ollama · [[Changes/Ollama/2024-05-15-2-model-support-changes-in-v0-1-38|2 Model Support changes in v0.1.38]]
 <!-- chronolog:end -->
 

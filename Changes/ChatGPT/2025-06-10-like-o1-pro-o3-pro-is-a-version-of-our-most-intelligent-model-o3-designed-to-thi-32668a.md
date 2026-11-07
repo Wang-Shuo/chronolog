@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6379059627e6ff808b42775fe21ba9aad2f7d1d829f1a3630c0450e7c876b97e
+machine_hash: 521281eb4241694282afce9cf56456f345f493d20f2b07a48adaafb61cfead40
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,11 +97,12 @@ record:
   title: ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]'
-- '[[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3
-  allows for that extra visual finesse in comparison to our default model]]'
-- '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
-  in v0.9.1]]'
+- '[[Changes/Superwhisper/2025-06-09-custom-model-segment-fixes|Custom Model & Segment
+  Fixes]]'
+- '[[Changes/AnythingLLM/2025-06-10-you-can-now-easily-swap-model-or-provider-in-the-middle-of-chatting-via-cmd-ctrl|Easily
+  swap model or provider in the middle of chatting via cmd/Ctrl + Shift + L…]]'
+- '[[Changes/AnythingLLM/2025-06-10-3-model-support-changes-in-v1-8-2|3 Model Support
+  changes in v1.8.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -134,7 +135,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes in v0.9.1]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-3-model-support-changes-in-v1-8-2|3 Model Support changes in v1.8.2]]
 - Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free Grok Model Available! Access Grok 3 completely free through the Cline provider]]
 <!-- chronolog:end -->
 

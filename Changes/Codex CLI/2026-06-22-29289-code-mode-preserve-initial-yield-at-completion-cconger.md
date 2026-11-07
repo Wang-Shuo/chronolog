@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e43a875ff4d0d21be7c9d919c448d0c46bb72792dbd083d23b8b775b1185c813
+machine_hash: 0b2e39647461d88de9b2e974c6d4552cff180fc4fb5d0fab2b020c6d8a0ef35c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#29289 code-mode: preserve initial yield at completion @cconger'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
-  Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
-- '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
-  the workspace editor role to edit projects]]'
+- '[[Changes/Devin/2026-06-19-deduplicated-file-tabs-with-version-switcher|Deduplicated
+  File Tabs with Version Switcher]]'
+- '[[Changes/Devin/2026-06-19-file-path-visible-during-streaming-edits|File Path Visible
+  During Streaming Edits]]'
 - '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
   on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9 Editor Experience changes in v1.0.64]]
+- Later: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-notes-you-can-now-pin-or-unpin-notes-from-the-editor-menu|Notes : You can now pin or unpin notes from the editor menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

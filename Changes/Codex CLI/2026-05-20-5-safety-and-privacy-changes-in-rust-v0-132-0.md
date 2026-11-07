@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b9586978b2a13268c4e9f8a477fb669ca7a13ee8598a7cb05491978677ff12bf
+machine_hash: ba75acf9330ddb5d9a033105f5fb692b4a7e020b8d04687579638923d67c570f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed
-  Skill tool failing with permission error in headless mode (regression in v2.1.141)]]'
 - '[[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy
   changes in 1.14.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
   permission prompts now name who can see a stored memory]]'
+- '[[Changes/Raycast/2026-05-19-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory permission prompts now name who can see a stored memory]]
+- Earlier: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions: Fixed an issue where Raycast would not open System Settings…]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add /security-review slash command to review code changes for security…]]
 <!-- chronolog:end -->
 

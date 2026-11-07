@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e4187bdeae8e0f2a60e46568c54e8ae539e287e471aa13e712e0680e044aded1
+machine_hash: 3c441c8e526481cd3bfe2623dc20c5409436d54ba8c288d0488a140ab0e1113d
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Origin Repos
   type: change
 related_changes:
-- '[[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI:
-  Import, record and edit MIDI directly on the timeline, play using a MIDI…]]'
+- '[[Changes/Devin/2026-08-14-smarter-re-review-behavior-in-devin-review|Smarter Re-Review
+  Behavior in Devin Review]]'
 - '[[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download
   your codebase from Git settings]]'
 - '[[Changes/v0/2026-08-14-2-editor-experience-changes-in-a-redesigned-sidebar-a-richer|2

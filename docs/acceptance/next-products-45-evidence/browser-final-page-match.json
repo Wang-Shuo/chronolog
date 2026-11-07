@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "browser_checked_build": "next-products-2026-11-07-r2",
+  "final_build": "next-products-2026-11-07-r3",
+  "page_count": 10,
+  "different_pages": [],
+  "files": {
+    "index.html": "03a4f13525ecc1e069c5001eecbceac3ad8fa8f281dbb2873ea6c7da1331ccfd",
+    "Themes/model-support.html": "d6176eb263d48b25b7274d8f4aababcf131e3f26e4f8d35d8d52b7968ec75bcc",
+    "Products/Krea.html": "ba95f395d08d6ac03ef1073efbc3a80f0eb9c7a2d8f7ac83e04be852518691e0",
+    "Products/Recraft.html": "94c7df614ddf14861446dd79c56363d260db2eb704214c8ae9d9d77059b50329",
+    "Products/Raycast.html": "4c4b6662b23aa895cf42fb08b56f182cc1cb50e28449bbb2b4d792caaeafc8ab",
+    "Products/Devin.html": "4e3be72c1c818916578ebf908727695659217e21ecd72251c2cbad29c4e60f01",
+    "Products/LM-Studio.html": "0ae42f3de8a4fb24ecbbd18bf29ca27feaa0f642f8ae81ac95e17da4f0d71101",
+    "Products/AnythingLLM.html": "d4141eaf780a8392350848a05e973196674baf75734d7a8d184329bd137b5131",
+    "Products/Superwhisper.html": "86419187d4b24d89a93ae4102b579e29ef6f7699725e81545001eeeb473cd228",
+    "Products/Wispr-Flow.html": "d56341ea5bdc3d51bd779a5da510009bb2542a73c43cd4a63a5a8435027a2ce1"
+  }
+}

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 817cb98948b8001fc1882bdb177803a8a6be57bf077a04c98144b26844e2a175
+machine_hash: 92d305a2f621912a72400d3dcc323a31714d4b875b9075035e42082be9b17ab1
 product: opencode
 product_name: OpenCode
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support changes in v0.37.0]]
-- Later: 2026-04-08 · Windsurf · [[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]
+- Later: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-redesigned-model-library-with-improved-table-layout-and-chip-colors|Redesigned model library with improved table layout and chip colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

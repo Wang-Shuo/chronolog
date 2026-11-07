@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8d0744c540df15d3c4b8f27f790d992402b7973cde60bacf681e0d7c114138fa
+machine_hash: a34e5b4d318b2c43b4c316ae3f8343311c52d34326f91f5caef16b2b8b6780d2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs on iOS Devices]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX Improvements: Whether it’s fixing layout issues on mobile…]]
+- Later: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-nvidia-nim-support-anythingllm-desktop-only-https-docs-anythingllm-com-nvidia-ni|NVIDIA NIM support - AnythingLLM Desktop…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

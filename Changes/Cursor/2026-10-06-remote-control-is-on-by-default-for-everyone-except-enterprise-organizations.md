@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 388d4f14f23cd7f7ba88fb3458541e2cbcd84f331874a743e1cdd6ae217912d1
+machine_hash: d9b18996ba8e9da49189a08726fe4a179790d812e7814911d6b649785fa9a997
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +41,8 @@ record:
   title: Remote Control is on by default for everyone except Enterprise organizations
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show
-  an announcement banner to everyone in your workspace]]'
 - '[[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]'
+- '[[Changes/Devin/2026-10-05-devin-review-effort-levels|Devin Review Effort Levels]]'
 - '[[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude
   Tag Added an Edit button to the Allowed domains card on a channel''s…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'

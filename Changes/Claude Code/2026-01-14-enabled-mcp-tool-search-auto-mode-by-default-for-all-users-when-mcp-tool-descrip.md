@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90387e940013787a3541970281fee7fb139a7c01cf402eae4b3f64c22b0273f2
+machine_hash: 5a424da7a36d71d06540252e9639fd2083bc6994b691792146d63b6229b806fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,8 +63,8 @@ record:
   title: Enabled MCP tool search auto mode by default for all users
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop
-  Cache session-scoped stores and add optional context gating]]'
+- '[[Changes/Raycast/2026-01-12-ai-adjusted-chat-title-logic-to-use-chat-context-instead-of-device-language|AI:
+  Adjusted chat title logic to use chat context instead of device language]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction

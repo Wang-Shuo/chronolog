@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9f855e2814d52bf40e562edf8a4c869653f045d9d7641b6370f38509909d2490
+machine_hash: 5d4974fecc4682c10750fb1dbc04b418fa36e7904585eb2bed0a75b806aca3f9
 product: notion
 product_name: Notion
 record:
@@ -49,9 +49,10 @@ record:
   title: Personalize your URLs
   type: change
 related_changes:
-- '[[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]'
-- '[[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated
-  wording on Mic mute tooltip to provide clearer instructions]]'
+- '[[Changes/Devin/2024-10-10-faster-session-and-workspace-navigation|Faster session
+  and workspace navigation]]'
+- '[[Changes/LM Studio/2024-10-22-3-interface-experience-changes-in-lm-studio-0-3-5|3
+  Interface Experience changes in LM Studio 0.3.5]]'
 - '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
 source_release: '[[Releases/Notion/notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764|notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764]]'
 source_type: notion_changelog
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated wording on Mic mute tooltip to provide clearer instructions]]
+- Earlier: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-3-interface-experience-changes-in-lm-studio-0-3-5|3 Interface Experience changes in LM Studio 0.3.5]]
 - Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface Experience changes in v0.3.33]]
 <!-- chronolog:end -->
 

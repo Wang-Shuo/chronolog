@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 374e6ea8d7e7a7812be31167722d76d020080ce691660233d277e6646b3af897
+machine_hash: 9f19e0166bee1805cd876c20c36d14d04210beb7335fb1d5b37fd40a24aa2b34
 product: heygen
 product_name: HeyGen
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2 Reliability and Performance changes in v1.0.14]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
+- Later: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-android-stability-reliability-android|Android Stability & Reliability (Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

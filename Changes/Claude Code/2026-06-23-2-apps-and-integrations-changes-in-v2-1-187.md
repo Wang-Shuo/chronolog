@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37aed62d21128704c9a23035d527e8aeeab64cdb38fb3c6bbf61d1baf7032095
+machine_hash: 2f9d964c0eaeb776854baff279bc36089e4ddf7c9c9b3891d6b8dd86a1222c74
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-lovable-mcp-updates|Lovable MCP updates]]'
-- '[[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido
-  penetration testing is now available on all plans]]'
+- '[[Changes/Raycast/2026-06-22-ai-extensions-and-mcps-unlock-smarter-workflows-while-on-the-go-connect-and-call|AI
+  Extensions and MCPs unlock smarter workflows while on the go]]'
+- '[[Changes/Raycast/2026-06-22-ai-tool-calling-in-chat-with-local-and-custom-mcp-tools|AI:
+  Tool calling in chat with local and custom MCP tools]]'
 - '[[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate
   work to Claude in Slack with Claude Tag]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'

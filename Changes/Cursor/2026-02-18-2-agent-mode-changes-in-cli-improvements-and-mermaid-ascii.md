@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b804ffba2f84b8dd4b61794021c72ad44ad7da5e5032c2e02be34937fda56339
+machine_hash: 93e79ffd6d9f98a18feffa8554914e26eaac4eb2eed05b5df1a942b349470205
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor
-  introduces plugins for extending Cursor, improvements to core agent…]]'
+- '[[Changes/AnythingLLM/2026-02-18-2-agent-mode-changes-in-v1-11-0|2 Agent Mode changes
+  in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes
   in v2.1.47]]'
 - '[[Changes/Codex CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m|Protocol/core

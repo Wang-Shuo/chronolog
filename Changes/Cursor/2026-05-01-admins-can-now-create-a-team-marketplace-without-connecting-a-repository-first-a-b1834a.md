@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d07c751935ff9cdeb93aba685c43e2681d753bea6541b120a54811e1ee326ba
+machine_hash: f08a5b2b6db366267c30ed1ea06354b8f98297194e8e20314b17b0865ab8ee53
 product: cursor
 product_name: Cursor
 record:
@@ -65,11 +65,12 @@ record:
     first
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-27-other|Other]]'
-- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
-  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
   Reduce the surface of collaboration modes @pakrym-oai]]'
+- '[[Changes/Raycast/2026-04-30-access-your-favorite-team-snippets-and-quicklinks-seamlessly-synced-between-your|Access
+  your favorite team Snippets and Quicklinks - seamlessly synced between…]]'
+- '[[Changes/Raycast/2026-04-30-team-sync-and-access-team-snippets-and-quicklinks|Team
+  : Sync and access team Snippets and Quicklinks]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead|cursor-2026-05-01-team-marketplace-updates-https-cursor-com-changelog-05-01-26-3036cead]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -106,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149 Reduce the surface of collaboration modes @pakrym-oai]]
-- Later: 2026-05-05 · Synthesia · [[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share avatar outfits and spaces]]
+- Earlier: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-team-sync-and-access-team-snippets-and-quicklinks|Team : Sync and access team Snippets and Quicklinks]]
+- Later: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-linear-team-mapping-improvements|Linear Team Mapping Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

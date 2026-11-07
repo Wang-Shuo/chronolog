@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1eda71bdfc22aae02b4d900dada66190e43254be6a146e259fd5d9609f14f95
+machine_hash: 31ddbbdcf56fd7a122f0deb4e690b7d92a0cc986c2b35b1689b6a5f14f9dbda7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-voices|Voices]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate prompts by holding the spacebar to record and transcribe voice input…]]
+- Later: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-2-voice-and-audio-changes-in-superwhisper-macos-2-10-0|2 Voice and Audio changes in Superwhisper macOS 2.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

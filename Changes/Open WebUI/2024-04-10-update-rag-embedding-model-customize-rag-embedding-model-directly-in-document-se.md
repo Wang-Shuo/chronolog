@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 749b535cbc14fdb3b260b941e973b690011a0951905527a9309deff6785233fb
+machine_hash: ac33769d6035c9da9e806847feba3cfcc5efba19242410a94ce8e517e25ea5db
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-04-10 · Ollama · [[Changes/Ollama/2024-04-10-6-model-support-changes-in-v0-1-32|6 Model Support changes in v0.1.32]]
-- Later: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes in 0.6.2]]
+- Later: 2024-04-10 · Raycast · [[Changes/Raycast/2024-04-10-more-ai-models|More AI Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

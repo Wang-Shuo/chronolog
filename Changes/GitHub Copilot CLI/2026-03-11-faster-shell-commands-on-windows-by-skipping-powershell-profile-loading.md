@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdf1d38b2fe6f35caf47981860c0886a2eb9ca5e1116e0a00aac01de089a9877
+machine_hash: 676c2a7ed61648f05ed9a0d9b3cb08be9cdf8f86ae2a4413735f8107d0374575
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: Faster shell commands on Windows by skipping PowerShell profile loading
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 - '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
   bash command parsing by switching to a native module]]'
 - '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
   Reliability and Performance changes in v2.1.73]]'
+- '[[Changes/Devin/2026-03-11-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1|github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]]
+- Earlier: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various bug fixes, performance improvements, and visual polish across the platform]]
 - Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
 <!-- chronolog:end -->
 

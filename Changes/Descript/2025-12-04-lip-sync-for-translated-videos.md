@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f0828733329b5f7bb49cf4942ecaa7ebd474fc5ac6a89b7c8d9a0c5f668fcbc
+machine_hash: 7eec3b282bd59be55ded6bfb4bd91d60e6841cdb2b09c6dcd8b985c3bf307cb8
 product: descript
 product_name: Descript
 record:
@@ -53,10 +53,11 @@ record:
   title: Lip sync for translated videos
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-27-types|Types]]'
 - '[[Changes/HeyGen/2025-11-29-precision-mode-is-our-best-in-class-translation-engine-built-for-when-accuracy-m|Precision
   Mode is our best-in-class translation engine, built for when accuracy…]]'
 - '[[Changes/HeyGen/2025-11-30-voice-tab-relocation|Voice Tab relocation]]'
+- '[[Changes/Superwhisper/2025-12-01-3-voice-and-audio-changes-in-superwhisper-windows-1-0-2|3
+  Voice and Audio changes in Superwhisper Windows 1.0.2]]'
 source_release: '[[Releases/Descript/descript-2025-12-04-6930e3d143084a3405d0352d-695ede77|descript-2025-12-04-6930e3d143084a3405d0352d-695ede77]]'
 source_type: canny_changelog
 theme: voice
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-voice-tab-relocation|Voice Tab relocation]]
-- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-voices|Voices]]
+- Earlier: 2025-12-01 · Superwhisper · [[Changes/Superwhisper/2025-12-01-3-voice-and-audio-changes-in-superwhisper-windows-1-0-2|3 Voice and Audio changes in Superwhisper Windows 1.0.2]]
+- Later: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-2-voice-and-audio-changes-in-raycast-ios-1-2-0|2 Voice and Audio changes in Raycast ios 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

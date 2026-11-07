@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7afc61753be9d38193a8a7296d72d4a9cd11339932f9d14be0e983881f2a6094
+machine_hash: 245742952c9f1e9a7f6db9648edaff413c73f3cf65ddef492958e59b47c8d43f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     preview
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
-  a faster Cargo profiling build profile and disabled empty doctest targets…]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-faster-user-list-and-user-switch-for-multi-account-users|Faster
-  /user list and /user switch for multi-account users]]'
+- '[[Changes/Raycast/2026-05-08-performance-improved-cold-start-latency-for-the-action-panel-and-search-emoji-sy|Performance:
+  Improved cold start latency for the Action Panel and Search Emoji & Symbols]]'
+- '[[Changes/Raycast/2026-05-08-core-improved-overall-stability-with-hardening-against-third-party-hooks|Core
+  : Improved overall stability with hardening against third-party hooks]]'
 - '[[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4
   Reliability and Performance changes in v0.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'

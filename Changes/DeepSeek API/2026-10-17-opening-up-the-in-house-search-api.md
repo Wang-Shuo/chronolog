@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7e13ddec253274f87a8efcdad0ad0368144b36b7ea82939babde44ed9d97d524
+machine_hash: 49437837690438263845ef061a8ac03f711aef3c88c5a2a424146dacf23bb41e
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -56,10 +56,10 @@ record:
   title: Opening up the in-house search API
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|\U0001F9F0
-  Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]"
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9
-  Built-in tools with a custom tools parameter. A model with a custom parameter…]]"
+- '[[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings|AI
+  Skills : Browse installed extension skills in AI settings]]'
+- '[[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings-8d0d0e|AI
+  Skills : Browse installed extension skills in AI settings]]'
 - '[[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions
   Partner]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-10-17-2026-10-17-2905e67c|deepseek-api-2026-10-17-2026-10-17-2905e67c]]'

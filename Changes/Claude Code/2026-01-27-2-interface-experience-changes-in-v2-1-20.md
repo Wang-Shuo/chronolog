@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3eeb78bbbe9fe8e8a32325e2beccd422e816576fd4a61b063d4da89373f8c6b0
+machine_hash: 511b53d57bea916276b22ee3f5baf3fcb2c88d7e5e6caac4534127f61136040a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
-  changes in 2.4]]'
-- '[[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface
-  Experience changes in v1.1.32]]'
+- '[[Changes/Raycast/2026-01-23-ai-added-action-to-go-parent-chat-in-title-menu|AI:
+  Added action to go parent chat in title menu]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-automate-repetitive-tasks-and-eliminate-chores-by-creating-ai-comman|AI
+  Commands: Automate repetitive tasks and eliminate chores by creating AI Commands…]]'
 - '[[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512
   Fix resume picker when user event appears after head @jdsalasca]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6265a6381c9acc2887fe087a095e9ef492a21955b9a92585e5ec3f2c61dc50fd
+machine_hash: 009c8796718ac19059e22806a76bf05978cf8d02a48afb1789dee3e4c9bb0d2c
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: General Improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
-  Compaction Support]]'
 - '[[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3
   Reliability and Performance changes in v0.13.0]]'
+- '[[Changes/Devin/2025-11-21-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available
   to everyone]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'

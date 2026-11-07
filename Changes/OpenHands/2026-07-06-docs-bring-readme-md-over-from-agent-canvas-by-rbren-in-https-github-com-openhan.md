@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3f9d6de061fa5d3beb63382cdd44a9646e61593afeb05233f2838a8d1c569b58
+machine_hash: f0bfc332a6808a7f9c76c3f73c5ba7cbf027011e1514957d0b5ae6ec5bd71415
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 'docs: Bring README.md over from Agent Canvas'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-metadata-understanding-support-for-queries-scoped-to-sharepoint-document-librari|Metadata
-  understanding support for queries scoped to SharePoint document libraries…]]'
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-word-documents-from-copilot-notebooks-windows-web-microsoft-365-copilot-a|Create
-  Word documents from Copilot Notebooks Windows, Web (Microsoft 365 Copilot app)]]'
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create
-  Excel spreadsheets from Copilot Notebooks Windows…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-can-now-help-you-find-files-by-their-text-contents|File
+  Search can now help you find files by their text contents]]'
+- '[[Changes/Raycast/2026-07-03-file-search-can-now-help-you-find-files-by-their-text-contents-662015|File
+  Search can now help you find files by their text contents]]'
+- '[[Changes/Raycast/2026-07-03-file-search-you-can-now-search-contents-of-text-documents-from-within-file-searc-8dbcea|File
+  Search : You can now search contents of text documents from within File Search…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: file-data
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create Excel spreadsheets from Copilot Notebooks Windows…]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-file-search-you-can-now-search-contents-of-text-documents-from-within-file-searc-8dbcea|File Search : You can now search contents of text documents from within File Search…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714 app-server: document thread and turn IDs are UUID7 @owenlin0]]
 <!-- chronolog:end -->
 

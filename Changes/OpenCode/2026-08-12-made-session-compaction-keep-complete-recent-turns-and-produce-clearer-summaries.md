@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: af2301a2695276628a5fe51424e5e28c5815c5fbf08bcfe5a5f1cb8f1ed98775
+machine_hash: ff10fcb669fd1d6dbe5ad537922d300afab702ebc45660d48f3edc0f5c7de362
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: Made session compaction keep complete recent turns and produce clearer summaries…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose
   Anthropic models when editing with Copilot in Word Web (Word)]]'
 - '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
   the model selector dropdown to choose thinking levels per-model…]]'
+- '[[Changes/LM Studio/2026-08-12-improved-llama-cpp-model-load-error-messages|Improved
+  llama.cpp model-load error messages]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-12-v1-18-17-b94d17fb|opencode-2026-08-12-v1-18-17-b94d17fb]]'
 source_type: opencode_changelog
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved the model selector dropdown to choose thinking levels per-model…]]
-- Later: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
+- Earlier: 2026-08-12 · LM Studio · [[Changes/LM Studio/2026-08-12-improved-llama-cpp-model-load-error-messages|Improved llama.cpp model-load error messages]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

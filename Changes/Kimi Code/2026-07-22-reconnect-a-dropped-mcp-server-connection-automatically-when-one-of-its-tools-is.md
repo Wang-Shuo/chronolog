@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ae159e37b7b47a38bac07f225aafa7a0a1965fe29317d6b00b566940352a104
+machine_hash: a939353b772b3da40923cf689aed8887e796a8e9aa3685ce4488c9327ce6e1aa
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Reconnect a dropped MCP server connection automatically when one of its tools…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-21-app-connectors-apify-and-tally|App connectors: Apify
-  and Tally]]'
 - '[[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3
   Apps and Integrations changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
   Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Devin/2026-07-22-safer-mcp-access-changes|Safer MCP Access Changes]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-22-0-29-0-c6d21071|kimi-code-2026-07-22-0-29-0-c6d21071]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]]
+- Earlier: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-safer-mcp-access-changes|Safer MCP Access Changes]]
 - Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit your Shopify catalog in one approval]]
 <!-- chronolog:end -->
 

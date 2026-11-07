@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02dd707298e3d54b35fffd847df3bb117c61b84792516949d172a1ba0d577172
+machine_hash: e2e2029dbc6daa12f009dd95f731bc84e45046cecc633181ca2e30ae9c2d8fa4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.120.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
-  chat transcripts are now surfaced directly in at-mention search results]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code
   interpreter now works on files found via Chat search…]]'
 - '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
   shared mailboxes and calendars in ChatGPT]]'
+- '[[Changes/Devin/2026-04-10-browser-tool-parity-improvements|Browser Tool Parity
+  Improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9|codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.120.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-04-08 · ChatGPT · [[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook shared mailboxes and calendars in ChatGPT]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-browser-tool-parity-improvements|Browser Tool Parity Improvements]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684 Adjust default tool search result caps @malone-oai]]
 <!-- chronolog:end -->
 

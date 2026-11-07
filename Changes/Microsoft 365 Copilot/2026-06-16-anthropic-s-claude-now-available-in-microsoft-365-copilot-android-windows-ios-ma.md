@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 5254207a5c461d95823e4b7c2b00625cb9203c52e07ff93c465c9a9e1ba6ed4d
+machine_hash: b19884cc737fbdd918a6df9088787007ec844f11e374a4f4703185d99e68aae9
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,11 +45,12 @@ record:
     iOS…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-14-desktop-the-new-session-route-now-stays-scoped-to-its-own-draft-server-so-prompt|Desktop
-  The new session route now stays scoped to its own draft server, so prompts…]]'
-- '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
-  contributor guidance around keeping crate APIs narrow and supporting…]]'
 - '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
+- '[[Changes/AnythingLLM/2026-06-16-3-mobile-and-desktop-changes-in-v1-14-1|3 Mobile
+  and Desktop changes in v1.14.1]]'
+- '[[Changes/AnythingLLM/2026-06-16-x-desktop-assistant-setting-hd-screenshots-now-available-for-screenshot-capture|x
+  Desktop Assistant Setting - HD screenshots now available for screenshot capture
+  area]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-06-16-2026-06-16-4dd14eb5|microsoft-365-copilot-2026-06-16-2026-06-16-4dd14eb5]]'
 source_type: m365_copilot_changelog
 theme: mobile-desktop
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]
+- Earlier: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-x-desktop-assistant-setting-hd-screenshots-now-available-for-screenshot-capture|x Desktop Assistant Setting - HD screenshots now available for screenshot capture area]]
 - Later: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The 3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]
 <!-- chronolog:end -->
 

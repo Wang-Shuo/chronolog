@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 560e1c88e744366396806b466eea97f0615221317bdb5e459209c2b4972d6864
+machine_hash: 89f59943ca44585424063e51330f0d870b502f700e9c74c7d9a865817e1a0a84
 product: dify
 product_name: Dify
 record:
@@ -39,12 +39,11 @@ record:
   title: "The Dify Team \U0001F6E0️"
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-09-19-build-off-of-conversations-shared-with-you|Build off
-  of conversations shared with you]]'
 - '[[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application
   share qrcode]]'
 - '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
   shared conversations now support uploaded images]]'
+- '[[Changes/Raycast/2023-11-15-referral-program|Referral Program]]'
 source_release: '[[Releases/Dify/dify-2024-01-02-0-4-0-github-135559615-949bf14a|dify-2024-01-02-0-4-0-github-135559615-949bf14a]]'
 source_type: github_releases
 theme: collaboration
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-10-23 · Gemini · [[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your shared conversations now support uploaded images]]
+- Earlier: 2023-11-15 · Raycast · [[Changes/Raycast/2023-11-15-referral-program|Referral Program]]
 - Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
 <!-- chronolog:end -->
 

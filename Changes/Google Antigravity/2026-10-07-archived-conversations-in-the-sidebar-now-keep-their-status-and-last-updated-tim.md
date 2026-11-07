@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95a3c01872c051591058c1c77a063dcb3db9f0e09478b33d3118542b9ac5d652
+machine_hash: 82beff2a0010c0d5f465a5c6c9b8a32bcc6abe787c21d99eba66495f8e1f6785
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,9 @@ record:
     time…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
-  the /focus tip]]'
-- '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
-  outline the back navigation control on settings sub-pages]]'
-- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
-  Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Devin/2026-10-07-command-palette-refinements|Command Palette Refinements]]'
+- '[[Changes/Devin/2026-10-07-notification-inbox|Notification Inbox]]'
+- '[[Changes/Devin/2026-10-07-sidebar-polish|Sidebar Polish]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405|google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -87,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856 Support Daybreak selection in codex exec @etraut-openai]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-sidebar-polish|Sidebar Polish]]
 - Later: 2026-10-07 · Ollama · [[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd: remove account step from CLI onboarding]]
 <!-- chronolog:end -->
 

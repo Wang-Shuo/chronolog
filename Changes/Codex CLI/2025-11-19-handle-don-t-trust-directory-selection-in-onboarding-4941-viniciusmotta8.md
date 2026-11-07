@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6622ab7901fccc88c860e66ee65d4348aea7426c62a3e01fa611dd0a421760b
+machine_hash: b531255deeccc2018bc3ce136e5cc358a599984ab40db6b8fe6935192231fa22
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Handle "Don't Trust" directory selection in onboarding (#4941) — @viniciusmotta8
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-2-interface-experience-changes-in-v3-37-0|2 Interface
-  Experience changes in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-2-interface-experience-changes-in-rust-v0-58-0|2
   Interface Experience changes in rust-v0.58.0]]'
 - '[[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch
   to alternate buffer mode before rendering Ink]]'
+- '[[Changes/Raycast/2025-11-15-there-is-a-brand-new-way-to-set-shortcuts-for-your-favourite-commands-and-apps-a|There
+  is a brand new way to set shortcuts for your favourite commands and apps…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch to alternate buffer mode before rendering Ink]]
+- Earlier: 2025-11-15 · Raycast · [[Changes/Raycast/2025-11-15-there-is-a-brand-new-way-to-set-shortcuts-for-your-favourite-commands-and-apps-a|There is a brand new way to set shortcuts for your favourite commands and apps…]]
 - Later: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui) make it clear when users need to enter selection mode and fix clear issue]]
 <!-- chronolog:end -->
 

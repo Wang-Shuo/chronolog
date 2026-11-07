@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1bd8d4d6dbb6301cbdc19f0c908101cad5575ef6c492c47a70777823b643b0b
+machine_hash: deb93acf2f96d7bcd3c368787811f12aed57095b79716313049c7efe24305d00
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.48
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-13-added-the-v2-model-and-provider-listing-api|Added
-  the v2 model and provider listing API]]'
-- '[[Changes/OpenCode/2026-05-13-2-model-support-changes-in-v1-14-49|2 Model Support
-  changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults|AI
+  Settings : Added a dedicated page for models with configurable defaults]]'
+- '[[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults-fb8760|AI
+  Settings : Added a dedicated page for models with configurable defaults]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'

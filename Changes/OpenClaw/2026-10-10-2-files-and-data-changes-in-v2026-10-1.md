@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1938bffe7e77ecae90b9fdb7f828a354defd13fff0e0326a1d82cacdc26c1d05
+machine_hash: d4bc4317c22a787ccde5ae8e6dc3b42127726bb26a8a0a704bc39de3d6d231dc
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,8 +48,7 @@ record:
   title: 2 Files and Data changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
-  Data changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-slack|Slack]]'
 - '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
   Data changes in v1.26.0]]'
 - '[[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and

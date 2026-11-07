@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b57c103010a60efbc8ff2c9730ddd57e5ab5a747ce81be1cc5bace95dcead36
+machine_hash: 35d06c97abb76f28c9877b3a5ba5c3f1ccf384b4910557ed9956764a18cad3fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Warn when static context uses most of the prompt budget and block requests…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have
-  context-compaction notes capture a forward plan for the remaining work]]'
+- '[[Changes/Raycast/2026-07-03-hyper-key-added-secure-input-compatibility-mode-when-enabled-you-can-use-hyper-k|Hyper
+  Key : Added Secure Input Compatibility mode]]'
 - '[[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context
   Window changes in Kimi Code 0.23.0]]'
 - '[[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test:

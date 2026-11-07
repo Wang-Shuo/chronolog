@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00f717c5cacd79c6dae479ad86cfa3c74a00e8be5870585d8aeb848c27e75a9b
+machine_hash: b09d3fc25df37cf1eeac82fb159c5427034ff9cad1e3683b984ddebf89000021
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.146
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop
-  Speed up large session timelines]]'
-- '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
-  stability — fixed knowledge hit-testing rendering, empty…]]'
 - '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
   installs are more robust]]'
+- '[[Changes/Raycast/2026-05-20-2-reliability-and-performance-changes-in-raycast-windows-0-61|2
+  Reliability and Performance changes in Raycast windows 0.61]]'
+- '[[Changes/Raycast/2026-05-20-3-reliability-and-performance-changes-in-raycast-macos-0-61|3
+  Reliability and Performance changes in Raycast macos 0.61]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows installs are more robust]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-reliability-and-performance-changes-in-raycast-macos-0-61|3 Reliability and Performance changes in Raycast macos 0.61]]
 - Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3 Reliability and Performance changes in v2.1.147]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6472f2b774e102b010d2a149008b3fea63ca61c77b2c9e9347bedf755fdf4301
+machine_hash: b04ccc5c74adc30afe1539e0dbe2756d0889edcafd90e4371b20be0b45b8cefb
 product: midjourney
 product_name: Midjourney
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
-- Later: 2024-05-07 · Synthesia · [[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice Cloning: your voice in 29 languages]]
+- Later: 2024-04-30 · Superwhisper · [[Changes/Superwhisper/2024-04-30-add-mute-while-recording-options-in-audio-settings|Add "Mute while recording" options in audio settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

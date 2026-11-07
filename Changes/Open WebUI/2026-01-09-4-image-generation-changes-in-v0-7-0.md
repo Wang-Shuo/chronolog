@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69231266bf4cc89fd5d6260b4b83f23e9f43157e5dd01e0ec7111d6eac9e19e0
+machine_hash: 9ea94d135218cb4d7e6c65bc9c21eadbfa2c72ac1b0db79fe58d87dc42b791d6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,8 +60,8 @@ record:
   title: 4 Image Generation changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT
-  Images on Web and Mobile (iOS & Android)]]'
+- '[[Changes/Recraft/2025-12-20-gpt-image-1-5-has-been-added-to-recraft-and-is-now-available-for-all-paid-subscr|GPT
+  Image 1.5 has been added to Recraft and is now available for all paid subscribers]]'
 - '[[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation
   changes in v0.6.42]]'
 - "[[Changes/Open WebUI/2025-12-22-image-action-button-fixed-restoring-the-ability-to-trigger-image-generation-edit|\U0001F3A8

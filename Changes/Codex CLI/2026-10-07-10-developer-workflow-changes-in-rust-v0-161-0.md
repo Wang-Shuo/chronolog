@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a67e71e1f0b5ece95fef4fb787437bd966cf0b00852669fd283fb80015e8f051
+machine_hash: 7b9d04d711fae29f25378c15e441580ba55e13e04fc522050de1466e41ae08ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -128,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-07 · Cline · [[Changes/Cline/2026-10-07-generate-commit-message-now-follows-your-clinerules-so-conventions-like-language|Generate Commit Message now follows your .clinerules, so conventions like…]]
-- Later: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed language servers stay running across LSP requests when sandboxing is disabled]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-private-key-strings-are-redacted-more-aggressively|Private Key Strings Are Redacted More Aggressively]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

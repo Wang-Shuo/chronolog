@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f9a9542ed31d823ff090abdd30a392d35745b1e9813556651d32f12096c2cf05
+machine_hash: 23a7147b29b2ccf14e9c9277260a3548c99c2c3271649ede30b2e595b046f7d9
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: Choose a workspace region
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
 - '[[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2
   Interface Experience changes in Kimi Code 0.36.0]]'
+- '[[Changes/Devin/2026-08-14-sidebar-improvements|Sidebar Improvements]]'
 - '[[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web:
   Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'

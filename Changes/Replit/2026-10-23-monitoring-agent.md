@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8b6b9b17fe142c5b80ac1e4df892b632c5c450bf5e40cc808f6ec3e62995f0b5
+machine_hash: 40bd2215ec8f9853257ef03efb5cb56b113be6b3096c709182c7786bad166364
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Monitoring Agent
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
-  Mode changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-choose-your-own-default-agent|Choose Your Own Default
+  Agent]]'
 - '[[Changes/Dify/2026-10-23-32-agent-mode-changes-in-1-18-0|32 Agent Mode changes
   in 1.18.0]]'
 - '[[Changes/Replit/2026-10-23-stripe-atlas-on-replit|Stripe Atlas on Replit]]'

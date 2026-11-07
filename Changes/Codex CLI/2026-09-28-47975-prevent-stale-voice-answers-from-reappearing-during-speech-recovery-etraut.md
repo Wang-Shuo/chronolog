@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a86cd612c8b7c1c60d1b5dd040b821d3fa6015812fa71688e5d46acfe0b8de76
+machine_hash: 040bbb6975a0adc33ef2705ec50d58102415d6ad0c8437c6ef839453c7ec8e60
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
-  plugins in Voice and get work done by speaking]]'
 - '[[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice
   and Audio changes in v2026.9.6]]'
+- '[[Changes/Superwhisper/2026-09-23-improved-handling-of-longer-recordings-with-the-s1-mini-model-for-more-reliable|Improved
+  handling of longer recordings with the S1-mini model for more reliable…]]'
 - '[[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice
   and Audio changes in rust-v0.157.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'

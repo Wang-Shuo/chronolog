@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a853cf5840edfe0383cd51c479210b69edaffbb3208595a6c646bbdba80e98b3
+machine_hash: e150d73002dfcd2ed481702f6e5858b8a5f84dd2942485d062eceedc116b1746
 product: lovable
 product_name: Lovable
 record:
@@ -116,7 +116,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Later: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-share-an-invite-link-to-grow-your-team-desktop|Share an invite link to grow your team (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

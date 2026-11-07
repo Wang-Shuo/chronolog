@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84a9a371723093ee73d7823ff77fc72dac7c2d61d59973e5074edda259c5e5f5
+machine_hash: 5cc1683a948117c8246ca2e4a7031923333b85edc135b447ba0fb0d90ace10fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
-  changes in v0.30.2]]'
+- '[[Changes/Raycast/2026-06-03-ai-settings-added-ability-to-globally-disable-ai-models-to-settings-ai-models|AI
+  Settings : Added ability to globally disable AI models to Settings  AI  Models]]'
 - '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
   Support changes in rust-v0.137.0]]'
 - '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes

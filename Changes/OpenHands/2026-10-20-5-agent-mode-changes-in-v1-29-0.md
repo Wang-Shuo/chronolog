@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c0028611e766c1c8bd6287132d117d1b979aafb8739cbcd371ce88ce203d8b5
+machine_hash: 348d67836c184d148e79ca7610b088cb8b0d9844ceb3e10d61daa2070651650e
 product: openhands
 product_name: OpenHands
 record:
@@ -52,10 +52,11 @@ record:
   title: 5 Agent Mode changes in v1.29.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-evals|Evals]]'
-- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
-- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
-  Agent SDK is available today]]'
+- '[[Changes/Krea/2026-10-20-run-krea-agent-from-your-app-with-the-agent-api|Run Krea
+  Agent from your app with the Agent API]]'
+- '[[Changes/Krea/2026-10-20-agent-works-in-blender-and-other-desktop-apps|Agent works
+  in Blender and other desktop apps]]'
+- '[[Changes/Krea/2026-10-20-3d-in-agent|3D in Agent]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4|openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4]]'
 source_type: github_releases
 theme: agent-mode
@@ -97,8 +98,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
-- Later: 2026-10-21 · Claude · [[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude Duet research preview for Pro and Max plans]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-3d-in-agent|3D in Agent]]
+- Later: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-added-a-grok-bot-meetings-agent|Added a Grok Bot meetings agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

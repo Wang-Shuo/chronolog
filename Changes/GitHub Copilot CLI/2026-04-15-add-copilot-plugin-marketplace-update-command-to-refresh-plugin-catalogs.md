@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 476220cb596eb7dea4156a13d3cca8d91c10b88e0db110473b5db158328244f6
+machine_hash: 80306c60d595090c15f95bb5936d45bbb54e55bb3d9a7ea2a2496baddf665e1c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: Add `copilot plugin marketplace update` command to refresh plugin catalogs
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-14-new-ai-connectors-salesforce-and-box|New AI connectors:
-  Salesforce and Box]]'
-- '[[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4
-  Apps and Integrations changes in v2.1.110]]'
 - '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
   Apps and Integrations changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-granola-mcp-server|Granola MCP Server]]'
+- '[[Changes/Devin/2026-04-15-datadog-remote-mcp-server|Datadog Remote MCP Server]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47|github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9 Apps and Integrations changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-datadog-remote-mcp-server|Datadog Remote MCP Server]]
 - Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export AI SDK telemetry spans to OTLP trace backends]]
 <!-- chronolog:end -->
 

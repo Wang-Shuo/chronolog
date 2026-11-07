@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: b22a1b8a92b954fdcc204c06d1a13ebbb748df098b23a3a7184ddd2967b0f161
+machine_hash: ca6bc7bc8fc5d6ba2d36693a3413512ab91c31ef5aa339bc0d9a66124a0c9caf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: Rolling out ads in the UK
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-now-supports-email-messages-web-microsoft-365-admin-cent|Organizational
-  Messages now supports Email messages Web (Microsoft 365 admin center)]]'
-- '[[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins
-  can move users between teams through the dashboard, API, or CSV]]'
 - '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
+- '[[Changes/Devin/2026-06-03-devin-review-enrolled-users-spend-limits-and-ghes-gitlab-support|Devin
+  Review: Enrolled Users, Spend Limits, and GHES/GitLab Support]]'
+- '[[Changes/Devin/2026-06-03-sso-scim-jit-provisioning-and-enterprise-redirect|SSO/SCIM:
+  JIT Provisioning and Enterprise Redirect]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870|chatgpt-2026-06-04-rolling-out-ads-in-the-uk-6015e870]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]
+- Earlier: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-sso-scim-jit-provisioning-and-enterprise-redirect|SSO/SCIM: JIT Provisioning and Enterprise Redirect]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added requiredMinimumVersion and requiredMaximumVersion managed settings]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7bd36a59a97417a25a68f13904af50149a8b3a66b929cfd823b551a7a8756388
+machine_hash: 43e5623e33f8ff627ea6d3811863bab7b1668fa223747994a8e2b40e1c4293fe
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,9 @@ record:
   title: Workspace admins and owners can transfer projects again
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot
-  group admins can choose how broadly slash commands are available…]]'
 - '[[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop
   Add workspace controls when starting a new session]]'
+- '[[Changes/Devin/2026-07-01-acu-limit-audit-trail|ACU Limit Audit Trail]]'
 - '[[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who
   can download project code]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-03-2026-07-03-1318c060|lovable-2026-07-03-2026-07-03-1318c060]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cae074a4a62685fdcd1134424f50cb0c8e07d1dee03abdcbf4000e6413d6cb6a
+machine_hash: 65116940dace1adbd404c43c9c94708a24c02c166c2a6d65a0f83fe0536c36b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     calls/hour
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search
-  and Browsing changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-feat-add-firecrawl-agent-web-search-provider-by-juampihernandez-in-https-github|feat:
+  add Firecrawl agent web-search provider]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
 - '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse

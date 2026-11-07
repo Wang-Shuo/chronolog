@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33a35c87e03b93881479805726162bce87c5effa1d5ae5a6be98e1d1b6a25775
+machine_hash: 5f592a26caa2939bfdef3a08deab875f04abeb20366ce518fb321c93121b66d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: Git commands no longer flash a console window on Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-2-mobile-and-desktop-changes-in-v1-17-1|2 Mobile
-  and Desktop changes in v1.17.1]]'
-- '[[Changes/OpenCode/2026-06-10-desktop-restore-linux-launcher-and-icon-identity-so-pinned-apps-keep-opening-cor|Desktop
-  Restore Linux launcher and icon identity so pinned apps keep opening correctly]]'
-- '[[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile
-  and Desktop changes in v1.17.0]]'
+- '[[Changes/Wispr Flow/2026-06-10-stay-updated-desktop|Stay updated (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-10-what-went-wrong-desktop|What went wrong (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-10-reliability-where-things-stand-desktop|Reliability:
+  where things stand (Desktop)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile and Desktop changes in v1.17.0]]
+- Earlier: 2026-06-10 · Wispr Flow · [[Changes/Wispr Flow/2026-06-10-reliability-where-things-stand-desktop|Reliability: where things stand (Desktop)]]
 - Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-3-mobile-and-desktop-changes-in-v1-17-6-1|3 Mobile and Desktop changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 

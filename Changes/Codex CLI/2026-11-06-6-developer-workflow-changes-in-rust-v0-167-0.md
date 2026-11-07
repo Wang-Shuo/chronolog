@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ef7d0ab4e2378e4eb055726677a6e5c3860d8a84537db7ad54e6d9e89edf56f
+machine_hash: 44975042299a718206a2eb825491d21a228581a680b953d9892185e01c8d83fd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
-  changes in 1.19.0]]'
 - '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
   remote sessions in SSH, Docker, or custom-command environments]]'
+- '[[Changes/Raycast/2026-11-04-2-developer-workflow-changes-in-raycast-windows-2-11|2
+  Developer Workflow changes in Raycast windows 2.11]]'
 - '[[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer
   Workflow changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

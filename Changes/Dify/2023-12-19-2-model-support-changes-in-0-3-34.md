@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4db045a623fb76b8cfc54248182bfd82c147ab4a0022af4ec4598d49479d2f2
+machine_hash: 9138ee35382ec52fb376e42fc7d2c0b012becebb8092d0dc6d21be105c7b8aff
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in 0.3.34
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support
-  changes in v0.1.15]]'
+- '[[Changes/Superwhisper/2023-12-13-show-recording-window-while-model-is-initializing|Show
+  Recording window while model is initializing]]'
 - '[[Changes/Ollama/2023-12-14-3-model-support-changes-in-v0-1-16|3 Model Support
   changes in v0.1.16]]'
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed4561bbabd5c098cd6019cfd7bfc8d7d93c97df019d0379694b4000ad9ee33b
+machine_hash: 10c33eaa34d7041b0c50f89b664f32d0e2d09afe931ea9adbddc80b0f2734e0e
 product: gamma
 product_name: Gamma
 record:
@@ -47,11 +47,12 @@ record:
   title: Want your site to show up in search results?
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-better-commit-messages|Better commit messages]]'
 - '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
   rankings for Custom Domains]]'
 - "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
   Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/AnythingLLM/2025-12-09-add-serpapi-web-search-by-alexbarron-in-https-github-com-mintplex-labs-anything|Add
+  SerpApi web search]]'
 source_release: '[[Releases/Gamma/gamma-2025-12-17-694320f324488379ae62f7aa-7c5b2aeb|gamma-2025-12-17-694320f324488379ae62f7aa-7c5b2aeb]]'
 source_type: gamma_changelog
 theme: search-browsing
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|🛡️ Web search domain filtering was corrected to properly block results when any…]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-add-serpapi-web-search-by-alexbarron-in-https-github-com-mintplex-labs-anything|Add SerpApi web search]]
 - Later: 2025-12-19 · HeyGen · [[Changes/HeyGen/2025-12-19-heygen-moves-fast-until-now-keeping-track-of-those-changes-could-be-a-challenge|We're Starting a Changelog 📣]]
 <!-- chronolog:end -->
 

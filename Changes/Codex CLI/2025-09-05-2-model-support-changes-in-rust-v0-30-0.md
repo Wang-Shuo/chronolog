@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f03d2a8d7c2e18d1c61c19bd2b22d9ab05e33be994fec5a9995c6222daa282a6
+machine_hash: 0663e130c7d1961524c7110419ad7c946af4259804a1ce2cd3c49ede58d7f228
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
-  in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support
   changes in v0.3.0]]'
+- '[[Changes/LM Studio/2025-09-04-when-selecting-a-chat-that-uses-a-different-model-auto-switch-to-that-model-if-i|When
+  selecting a chat that uses a different model, auto switch to that model if it''s…]]'
 - '[[Changes/Cline/2025-09-05-add-new-kimi-k2-model-to-groq-and-moonshot-providers|Add
   new Kimi K2 model to Groq and Moonshot providers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'

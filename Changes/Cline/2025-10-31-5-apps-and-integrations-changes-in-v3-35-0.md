@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3687adb79bf0b05d6ef10ac425769673ef40a0f984c745ddcd75f2e17b19143
+machine_hash: a8a40e995cbe0f5fb6b7cae21a416b9de48ac98cc977c519d866a8d5fa8757d2
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Apps and Integrations changes in v3.35.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve
-  handling of MCP tools containing slashes]]'
 - '[[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps
   and Integrations changes in v0.11.0]]'
+- '[[Changes/Raycast/2025-10-29-2-apps-and-integrations-changes-in-raycast-windows-0-34|2
+  Apps and Integrations changes in Raycast windows 0.34]]'
 - '[[Changes/Codex CLI/2025-10-30-11-apps-and-integrations-changes-in-rust-v0-52-0|11
   Apps and Integrations changes in rust-v0.52.0]]'
 source_release: '[[Releases/Cline/cline-2025-10-31-v3-35-0-github-258670330-1bba90ed|cline-2025-10-31-v3-35-0-github-258670330-1bba90ed]]'

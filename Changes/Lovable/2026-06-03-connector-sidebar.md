@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 083602b19217693dbac1f482ed0f3672b91b816ce4f0969c272adff6daaa1786
+machine_hash: 9f5a98da797e3f1cc31939b6c5a742edf5b5fcb677b3ddec4fbbe3efd65dbb78
 product: lovable
 product_name: Lovable
 record:
@@ -68,8 +68,7 @@ record:
   title: Connector sidebar
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
-  Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Devin/2026-06-03-child-sessions-tree-connector|Child Sessions: Tree Connector]]'
 - '[[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow
   SDK runtime creation to use a separate RPC client while preserving local CLI startup]]'
 - '[[Changes/Lovable/2026-06-03-configure-who-can-create-app-connector-connections|Configure
@@ -104,7 +103,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions|Store : Added support for filtering by “Installed” extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

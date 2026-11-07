@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 610074828daad3b7b9d08a8e10258c4bebcbd5948f4979767d96ecc06c59f16d
+machine_hash: d04239f3461e381fb5e0d86819bc42ea09c4e52802a99b836888a707b67f654b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,9 @@ record:
   title: Project info remains visible in slash command picker when no results match
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
-  feat(tui): redesign session picker @fcoury-oai]]'
-- '[[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop
-  Added a macOS Settings menu entry]]'
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
+- '[[Changes/Devin/2026-05-08-mermaid-diagram-rendering|Mermaid Diagram Rendering]]'
+- '[[Changes/Devin/2026-05-08-per-pr-auto-review-toggle|Per-PR Auto-Review Toggle]]'
+- '[[Changes/Devin/2026-05-08-sidebar-session-notifications|Sidebar Session Notifications]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665 Make environment providers own default selection @starr-openai]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface Experience changes in v0.9.3]]
+- Earlier: 2026-05-08 · Devin · [[Changes/Devin/2026-05-08-sidebar-session-notifications|Sidebar Session Notifications]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-2-interface-experience-changes-in-raycast-windows-0-56|2 Interface Experience changes in Raycast windows 0.56]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

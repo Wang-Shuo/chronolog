@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49f8e58023e890bbd2e8d497366e29b3d92b71a17cc86d838dfb625be0c628e9
+machine_hash: a14f25e86535f9d6a80873ce38f83f525ac38ecde91f194bc66c63cccf06c365
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in 0.3.19
   type: change
 related_changes:
-- '[[Changes/Dify/2023-08-23-6-model-support-changes-in-0-3-15|6 Model Support changes
-  in 0.3.15]]'
 - '[[Changes/Ollama/2023-08-26-2-model-support-changes-in-v0-0-16|2 Model Support
   changes in v0.0.16]]'
+- '[[Changes/Superwhisper/2023-08-28-display-alert-if-model-fails-to-initialize|Display
+  alert if model fails to initialize]]'
 - '[[Changes/Ollama/2023-08-30-2-model-support-changes-in-v0-0-17|2 Model Support
   changes in v0.0.17]]'
 source_release: '[[Releases/Dify/dify-2023-08-31-0-3-19-github-119449505-7b070c6d|dify-2023-08-31-0-3-19-github-119449505-7b070c6d]]'

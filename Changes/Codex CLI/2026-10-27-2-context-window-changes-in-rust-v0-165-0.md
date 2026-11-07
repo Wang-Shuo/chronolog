@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cc2ec289835656170d19f9577cc084fc121db01fee1ba54c304573ea441f1e6
+machine_hash: b7ee4d8d352970de2f8307402d9615292577e4cf4f694d8f976b212d4285540b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Context Window
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed a subagent's autoCompactWindow to lower the window set…]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source link) a 1.7B text model with a 256K-token context…]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-api-usage-page|API Usage page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

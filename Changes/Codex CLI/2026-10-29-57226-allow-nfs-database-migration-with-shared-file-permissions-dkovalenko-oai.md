@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca1396d9c4a1848dce8748c8b54b43f9b434e0361327f74cc15b56f0bc721036
+machine_hash: 2e50cf02e615fe946cf99810a2ed1d86a770a0f738db50641a50863f84a69791
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#57226 Allow NFS database migration with shared file permissions @dkovalenko-oai'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed
-  Microsoft Teams message HTML no longer causes the parsing stalls…]]'
 - '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
   Honor shared parallel tool-call and service-tier settings for Groq]]'
 - '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
   label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
+- '[[Changes/Raycast/2026-10-28-notes-hide-while-screen-recording-is-back-on-golden-gate-only-macos-27-this-will|Notes
+  : Hide while screen recording is back on Golden Gate only (macOS 27+)…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: collaboration
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation): label the share toggle "Share with Org users" in team orgs (OHE-3765)]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-notes-hide-while-screen-recording-is-back-on-golden-gate-only-macos-27-this-will|Notes : Hide while screen recording is back on Golden Gate only (macOS 27+)…]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|📃 Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]
 <!-- chronolog:end -->
 

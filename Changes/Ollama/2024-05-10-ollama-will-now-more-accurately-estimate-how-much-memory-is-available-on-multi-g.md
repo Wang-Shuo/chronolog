@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b3fca9f14857ebb21e608070a9729e14ccfce199e3123538b6c754ddd52d372
+machine_hash: 951489b83a0dd31a2a150788fc2b24034b4ed33e67d787eb3db518d21ad22dbc
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
     multi-GPU…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE
-  (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]'
 - '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
   This build fixes a connection error problem that was consistently…]]'
 - '[[Changes/Ollama/2024-05-07-stablelm2-12b-https-ollama-com-library-stablelm2-12b-a-new-12b-version-of-the-st|StableLM2
   12B((source link) A new 12B version…]]'
+- '[[Changes/Raycast/2024-05-08-pro-users-get-a-little-extra-with-ai-emoji-suggestions-previously-used-suggestio|Pro
+  users get a little extra with AI Emoji Suggestions]]'
 source_release: '[[Releases/Ollama/ollama-2024-05-10-v0-1-35-github-155045759-efae2ff7|ollama-2024-05-10-v0-1-35-github-155045759-efae2ff7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-05-07 · Ollama · [[Changes/Ollama/2024-05-07-stablelm2-12b-https-ollama-com-library-stablelm2-12b-a-new-12b-version-of-the-st|StableLM2 12B((source link) A new 12B version…]]
+- Earlier: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-pro-users-get-a-little-extra-with-ai-emoji-suggestions-previously-used-suggestio|Pro users get a little extra with AI Emoji Suggestions]]
 - Later: 2024-05-15 · Ollama · [[Changes/Ollama/2024-05-15-a-new-command-is-now-available-ollama-ps-this-command-displays-currently-loaded|A new command is now available: ollama ps]]
 <!-- chronolog:end -->
 

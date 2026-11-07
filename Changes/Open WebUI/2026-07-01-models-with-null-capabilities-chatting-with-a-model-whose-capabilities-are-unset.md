@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d28edbce69a9520b5de577adcd32f04a61715bdecab5f7030609962765e7e9a1
+machine_hash: 4d9f0265ba2aa7e8305921c03d17a3a31f3f8cf0d3aeeab67fcfc6024ecb7972
 product: open-webui
 product_name: Open WebUI
 record:
@@ -67,12 +67,12 @@ record:
     capabilities…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
-  Automation and Scheduling changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
   auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
 - '[[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15
   Automation and Scheduling changes in v2026.6.11]]'
+- '[[Changes/Devin/2026-07-01-improved-webhook-trigger-setup|Improved Webhook Trigger
+  Setup]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15 Automation and Scheduling changes in v2026.6.11]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation and Scheduling changes in 1.9.0]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-improved-webhook-trigger-setup|Improved Webhook Trigger Setup]]
+- Later: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-service-user-automations|Service User Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

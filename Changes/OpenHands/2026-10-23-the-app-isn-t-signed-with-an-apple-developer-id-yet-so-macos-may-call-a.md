@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90abf4ad1d71e0f1b33baaea3f4b7398b5c94b9ce6340322aa07aa1b11dd5c64
+machine_hash: 47804ad24e7ab9a4527107452c82460118391ef3954b98bb55da9ea3c0d655ab
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-75a2b3|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux
   desktop support]]'
+- '[[Changes/Raycast/2026-10-22-restart-shut-down-the-confirmation-now-has-a-reopen-windows-when-logging-back-in|Restart
+  / Shut Down]]'
 - '[[Changes/Codex CLI/2026-10-23-8-mobile-and-desktop-changes-in-rust-v0-164-0|8
   Mobile and Desktop changes in rust-v0.164.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-32-0-github-421408191-d358ba87|openhands-2026-10-23-v1-32-0-github-421408191-d358ba87]]'

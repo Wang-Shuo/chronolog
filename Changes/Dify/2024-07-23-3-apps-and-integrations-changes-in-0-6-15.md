@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf48714b606ba00c64aa04eb906fb0cb0ce478962345e8dbca4aaff5d96d828c
+machine_hash: 20846e002b6d0abc0b975994c8ee918a11149c3e36e8cf3840ce20b51cd5a7d7
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Apps and Integrations changes in 0.6.15
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
-  and Integrations changes in 0.8.0]]'
 - '[[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and
   Integrations changes in 0.6.14]]'
+- '[[Changes/Raycast/2024-07-17-auto-quit-applications|Auto Quit Applications]]'
 - '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
   and Integrations changes in 0.8.1]]'
 source_release: '[[Releases/Dify/dify-2024-07-23-0-6-15-github-166727210-9df490d0|dify-2024-07-23-0-6-15-github-166727210-9df490d0]]'
@@ -92,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.15
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps and Integrations changes in 0.8.1]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps and Integrations changes in 0.8.2]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-11-apps-and-integrations-changes-in-v1-0-0|11 Apps and Integrations changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

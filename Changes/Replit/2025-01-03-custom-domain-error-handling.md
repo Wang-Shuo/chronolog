@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eec1a9aa77fd605e36566c21e4cc54d72b8ba24dd8ff4605c5bfb87043e90532
+machine_hash: 9d09c86a358586547fe61a9db36e34704b856f0b686b4efa9502257b8e5f508d
 product: replit
 product_name: Replit
 record:
@@ -43,8 +43,8 @@ record:
   title: Custom domain error handling
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-23-memory-optimization-reduced-memory-usage-from-800-mb-to-500-mb-thanks-to-the-opt|Memory
-  Optimization: Reduced memory usage from 800+ MB to 500+ MB, thanks…]]'
+- '[[Changes/Devin/2024-12-24-devin-is-now-faster-and-more-cost-efficient|Devin is
+  now faster and more cost-efficient]]'
 - '[[Changes/Open WebUI/2024-12-25-2-reliability-and-performance-changes-in-v0-5-0|2
   Reliability and Performance changes in v0.5.0]]'
 - '[[Changes/Open WebUI/2024-12-31-2-reliability-and-performance-changes-in-v0-5-3|2

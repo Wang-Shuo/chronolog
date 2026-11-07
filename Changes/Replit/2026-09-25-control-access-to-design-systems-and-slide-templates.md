@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b1446ca7a65d2c160c34011be0659898ef733468c991aa0c9f398fb2a327c842
+machine_hash: e18f67a909e620a5212619e9e3d5a2c5221db88efad8ddc059b6d158c948a0d5
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: Control access to design systems and slide templates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-2-safety-and-privacy-changes-in-rust-v0-157-0|2
-  Safety and Privacy changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-runtime-validation-evidence-in-scan-reports|Runtime-Validation
+  Evidence in Scan Reports]]'
 - '[[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account
   settings have moved to their own dialog]]'
 - '[[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp):

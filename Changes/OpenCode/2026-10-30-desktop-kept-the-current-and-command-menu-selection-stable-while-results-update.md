@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe0c2d864dcc138aead248b1abcbdac4e6d5ff063e8843096296c924f0af2fd2
+machine_hash: a4984f64fdd640371386c13b4c28958b667d24e454530ad944186f9a2b5173d1
 product: opencode
 product_name: OpenCode
 record:
@@ -43,9 +43,10 @@ record:
     update…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-inspect-background-shells|Inspect Background Shells]]'
 - '[[Changes/Suno/2026-10-29-clearer-clip-settings-info-panel|Clearer Clip Settings
   & Info Panel]]'
+- '[[Changes/Superwhisper/2026-10-29-ctrl-win-can-now-be-used-for-push-to-talk-toggle-recording-and-mode-shortcuts-an|Ctrl+Win
+  can now be used for push to talk, toggle recording, and mode shortcuts…]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-restored-copying-user-messages-from-an-open-actions-menu|Desktop
   Restored copying user messages from an open actions menu]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|opencode-2026-10-30-v2-2-3-0c0c59eb]]'

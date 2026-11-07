@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5c28f45c2dee717abe8d978a061ae6efdfdc091087f11b4f3e70a95e922a4c14
+machine_hash: 82b8511f739692c9319f2251761dd59798e5adaf88875df21b35118c4297d501
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat: Allow to contains files in the system prompt even model not support'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-11-23-marco-o1-https-ollama-com-library-marco-o1-an-open-large-reasoning-model-for-rea|Marco-o1((source
-  link) An open large reasoning model…]]'
 - '[[Changes/Dify/2024-11-25-17-model-support-changes-in-0-12-0|17 Model Support changes
   in 0.12.0]]'
 - '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
   --alias config to define custom model…]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-model-support-changes-in-v1-3-0|2 Model Support
+  changes in v1.3.0]]'
 source_release: '[[Releases/Dify/dify-2024-11-26-0-12-1-github-187471517-1dd55641|dify-2024-11-26-0-12-1-github-187471517-1dd55641]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added --alias config to define custom model…]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-model-support-changes-in-v1-3-0|2 Model Support changes in v1.3.0]]
 - Later: 2024-11-26 · Ollama · [[Changes/Ollama/2024-11-26-2-model-support-changes-in-v0-4-5|2 Model Support changes in v0.4.5]]
 <!-- chronolog:end -->
 

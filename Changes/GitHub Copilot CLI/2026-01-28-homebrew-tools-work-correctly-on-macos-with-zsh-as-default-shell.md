@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f007f0668475d135e797a1715eedc7c6954ffec20c9abc1c4125459bc52ee955
+machine_hash: cb4baf14ee5cb04ce0401c4aa97337ddb8cb812f0960d4b6dd56ce5a18121e59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Homebrew tools work correctly on macOS with zsh as default shell
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-23-9-mobile-and-desktop-changes-in-v1-1-34-1|9 Mobile
-  and Desktop changes in v1.1.34 + 1]]'
 - '[[Changes/OpenCode/2026-01-25-3-mobile-and-desktop-changes-in-v1-1-36|3 Mobile
   and Desktop changes in v1.1.36]]'
 - '[[Changes/OpenCode/2026-01-25-66-mobile-and-desktop-changes-in-v1-1-35|66 Mobile
   and Desktop changes in v1.1.35]]'
+- '[[Changes/Raycast/2026-01-27-we-re-thrilled-to-bring-our-typing-practice-extension-to-raycast-for-windows-sta|Raycast
+  brings our Typing Practice extension to Raycast for Windows!]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d|github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-66-mobile-and-desktop-changes-in-v1-1-35|66 Mobile and Desktop changes in v1.1.35]]
+- Earlier: 2026-01-27 · Raycast · [[Changes/Raycast/2026-01-27-we-re-thrilled-to-bring-our-typing-practice-extension-to-raycast-for-windows-sta|Raycast brings our Typing Practice extension to Raycast for Windows!]]
 - Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-73-mobile-and-desktop-changes-in-v1-1-37|73 Mobile and Desktop changes in v1.1.37]]
 <!-- chronolog:end -->
 

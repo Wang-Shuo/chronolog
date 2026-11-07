@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ecf07d01269c9f3463a96089ea3f3bb5a6f41901826794cf14fe74a40fb201fb
+machine_hash: a91532bb289d81b36762eec041c7fc577316f40d1cb4cfbf093410aa34d9fb6b
 product: cline
 product_name: Cline
 record:
@@ -46,8 +46,7 @@ record:
   title: Carry session and client identity into Langfuse traces for Hub-backed…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
-  add LLM provider-connections UI (local agent-server)]]'
+- '[[Changes/Recraft/2026-08-21-chat-the-agentic-mode|Chat, the agentic mode]]'
 - '[[Changes/Replit/2026-08-21-agent|Agent]]'
 - '[[Changes/Replit/2026-08-21-steer-agent-while-working|Steer Agent while working]]'
 source_release: '[[Releases/Cline/cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b|cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b]]'

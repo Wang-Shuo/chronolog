@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f8089d476e8a7d4396186271303a9f37769589337e15bf13e3b23edad4971c00
+machine_hash: a6321d5b68cabff8d7e7d17c6be579ccb3e3bf1b95db661b91a0f7cf9d73a81d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: MCP tools added or removed by a server mid-turn are now available immediately…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We''ve
-  shipped a batch of new functionality across the TypeScript and Python SDKs]]'
-- '[[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2
-  Apps and Integrations changes in Custom stores, custom tools…]]'
-- '[[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration
-  docs]]'
+- '[[Changes/Devin/2026-06-05-improved-slack-message-formatting|Improved Slack Message
+  Formatting]]'
+- '[[Changes/Devin/2026-06-05-active-todo-in-slack-plan-header|Active Todo in Slack
+  Plan Header]]'
+- '[[Changes/Devin/2026-06-05-jira-webhook-failure-recovery|Jira Webhook Failure Recovery]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration docs]]
+- Earlier: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-jira-webhook-failure-recovery|Jira Webhook Failure Recovery]]
 - Later: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama launch omp now integrates with Oh My Pi((source link) an AI coding…]]
 <!-- chronolog:end -->
 

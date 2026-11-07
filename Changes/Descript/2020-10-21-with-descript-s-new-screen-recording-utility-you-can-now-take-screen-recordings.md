@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e5baf88e93a1322f26958618ec8103afd89b23a06c187f4a4c2a27f8a385538
+machine_hash: a2371bc5e36d9c0e3911692333e72479ecd2ee9f0c0aeb6f676ddfd6d33aad29
 product: descript
 product_name: Descript
 record:
@@ -48,10 +48,10 @@ record:
   title: Screen Recorder
   type: change
 related_changes:
-- '[[Changes/Descript/2020-09-29-descript-for-windows-now-supports-the-ability-to-select-from-various-microphone|(Windows)
-  Additional Support for ASIO and DirectSound driver options]]'
-- '[[Changes/Notion/2020-09-29-write-your-notes-by-hand-on-ipad|Write your notes by
-  hand on iPad ✍️]]'
+- "[[Changes/Raycast/2020-09-30-with-macos-big-sur-around-the-corner-with-its-new-shiny-design-we-decided-to-fol|\U0001F30AWith
+  macOS Big Sur around the corner with its new shiny design, we decided…]]"
+- '[[Changes/Raycast/2020-10-07-linear-create-search-and-complete-issues|Linear: Create,
+  search and complete issues]]'
 - "[[Changes/Notion/2020-10-15-better-keyboard-trackpad-mouse-support-for-ipad|Better
   keyboard, trackpad & mouse support for iPad \U0001F42D]]"
 source_release: '[[Releases/Descript/descript-2020-10-21-5f8e859eda3b20621f98f30f-7a03b4c1|descript-2020-10-21-5f8e859eda3b20621f98f30f-7a03b4c1]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2020-10-15 · Notion · [[Changes/Notion/2020-10-15-better-keyboard-trackpad-mouse-support-for-ipad|Better keyboard, trackpad & mouse support for iPad 🐭]]
-- Later: 2020-11-24 · Notion · [[Changes/Notion/2020-11-24-new-widgets-for-ios-14|New widgets for iOS 14 📌]]
+- Later: 2020-10-21 · Raycast · [[Changes/Raycast/2020-10-21-file-search-added-more-actions-to-copy-files-and-file-names-show-info-in-the-fin|File Search: Added more actions to copy files and file names, show info…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

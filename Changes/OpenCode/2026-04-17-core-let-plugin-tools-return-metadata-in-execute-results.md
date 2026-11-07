@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8d49374f678bb61ae94f3d4dbcb106d041bb25a61adeb60ea0cd02fced15d95
+machine_hash: b52eff25af3c71a695f2d7cc029fbf7550cb805cc849ee719a3ffee9b4dbc9ac
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,10 @@ record:
   title: Core Let plugin tools return metadata in execute results
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
-  Apps and Integrations changes in v1.0.29]]'
-- '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
-  Integrations changes in v0.21.0]]'
 - '[[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps
   and Integrations changes in v1.4.7]]'
+- '[[Changes/Devin/2026-04-17-wikigenerationitem-card|WikiGenerationItem Card]]'
+- '[[Changes/Devin/2026-04-17-ghes-links-in-integrations|GHES Links in Integrations]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-17-v1-4-8-bef056e5|opencode-2026-04-17-v1-4-8-bef056e5]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -77,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps and Integrations changes in v1.4.7]]
-- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-integrations|Integrations]]
+- Earlier: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-ghes-links-in-integrations|GHES Links in Integrations]]
+- Later: 2026-04-17 · Recraft · [[Changes/Recraft/2026-04-17-we-ve-added-recraft-plugins-for-figma-framer-and-chrome-generate-visuals-edit-im|Recraft adds Recraft plugins for Figma, Framer, and Chrome]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

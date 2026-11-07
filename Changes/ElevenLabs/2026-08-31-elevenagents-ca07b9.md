@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a22fafb1e12b594ed93e8a3f52d3a75751b31816c4ffcfe175b3adeafa52d900
+machine_hash: dc543f704018d7bfed288987d6f4c019db459beaaec9759ae625c050a8683b1b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -73,8 +73,7 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal
-  Input changes in v0.11.1]]'
+- '[[Changes/Krea/2026-08-27-seedance-studio|Seedance Studio]]'
 - '[[Changes/Runway/2026-08-28-runway-mcp-now-supports-upgrading-your-video-content-to-hdr-wherever-your-agents|HDR
   Video Conversion on Runway MCP]]'
 - '[[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]'

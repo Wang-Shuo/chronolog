@@ -1,14 +1,17 @@
 ---
 created: '2021-06-29'
 date: '2026-11-03'
-description: Cross-product timeline of Meeting Notes changes in Granola, Notion and
-  OpenClaw.
-machine_hash: 72acb9a2ef92bdd30bcc2770826bbf3ed7986d4ee12ef0d5a570db00b068afc9
+description: Cross-product timeline of Meeting Notes changes in Granola, Notion, OpenClaw,
+  Raycast, Superwhisper and Wispr Flow.
+machine_hash: 9157599269db57c7853740349877ee5292a940c03e0b466888fc1fa53ebd573d
 modified: '2026-11-03'
 products_involved:
 - Granola
 - Notion
 - OpenClaw
+- Raycast
+- Superwhisper
+- Wispr Flow
 publication: active
 status: official
 tags:
@@ -21,7 +24,7 @@ title: Meeting Notes
 <!-- chronolog:begin region="header" -->
 # Meeting Notes
 
-25 tracked changes across Granola, Notion and OpenClaw · 2021-06-29 → 2026-11-03 · OpenClaw averages 18.4 cards per release, Notion 3.6, Granola 1.0
+28 tracked changes across Granola, Notion, OpenClaw, Raycast, Superwhisper and Wispr Flow · 2021-06-29 → 2026-11-03 · OpenClaw averages 18.4 cards per release, Raycast 5.2, Wispr Flow 3.8, Notion 3.6, Superwhisper 2.1, Granola 1.0
 <!-- chronolog:end -->
 
 ## Research summary
@@ -33,23 +36,23 @@ Explore the dated evidence below.
 <!-- chronolog:begin region="moments" -->
 Selected automatically from launches and standalone announcements.
 
-| Quarter | Granola | Notion | OpenClaw |
-| --- | --- | --- | --- |
-| **First in archive** | <time datetime="2024-10-07">2024-10-07</time> [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t\|New in Granola: 29 meeting note templates, out of the box]] | <time datetime="2021-06-29">2021-06-29</time> [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes\|Embed Sketch designs, Excalidraw drawings & Framer prototypes]] | <time datetime="2026-11-03">2026-11-03</time> [[Changes/OpenClaw/2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa\|Retrying a meeting transcript from Summary or Transcript now restores all available pages]] |
-| 2026 Q4 | · | <time datetime="2026-10-13">2026-10-13</time> [[Changes/Notion/2026-10-13-reintroducing-synced-databases\|Reintroducing synced databases]] | · |
-| 2026 Q3 | · | <time datetime="2026-07-01">2026-07-01</time> [[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels\|Smarter meeting summaries with speaker labels]] | · |
-| 2026 Q2 | <time datetime="2026-05-20">2026-05-20</time> [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed\|New: Briefs prepare you for your next meeting as you join]] | <time datetime="2026-04-14">2026-04-14</time> [[Changes/Notion/2026-04-14-but-wait-there-s-more\|But wait, there’s more]] | archive begins <time datetime="2026-06-30">2026-06-30</time> |
-| 2026 Q1 | <time datetime="2026-02-04">2026-02-04</time> [[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to\|Introducing Granola MCP]] | · | <span class="not-archived">not archived</span> |
-| 2025 Q4 | · | <time datetime="2025-11-17">2025-11-17</time> [[Changes/Notion/2025-11-17-get-the-full-context-from-meeting-summaries\|Get the full context from meeting summaries]] | <span class="not-archived">not archived</span> |
-| 2025 Q3 | <time datetime="2025-09-30">2025-09-30</time> [[Changes/Granola/2025-09-30-recipes-are-saved-prompts-written-by-experts-that-work-with-your-meeting-notes-c\|Introducing Recipes, in the all-new Granola Chat]] | · | <span class="not-archived">not archived</span> |
-| 2025 Q2 | · | <time datetime="2025-05-13">2025-05-13</time> [[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes\|Leave the note-taking to us, with AI meeting notes]] | <span class="not-archived">not archived</span> |
-| 2025 Q1 | · | <time datetime="2025-02-18">2025-02-18</time> [[Changes/Notion/2025-02-18-workflows-in-one-click\|Workflows in one click]] | <span class="not-archived">not archived</span> |
-| 2023 Q1 → 2024 Q4 | archive begins <time datetime="2024-05-22">2024-05-22</time> | · | <span class="not-archived">not archived</span> |
-| 2022 Q4 | <span class="not-archived">not archived</span> | <time datetime="2022-11-08">2022-11-08</time> [[Changes/Notion/2022-11-08-set-up-recurring-tasks-meeting-notes-and-more-with-repeating-database-templates\|Set up recurring tasks, meeting notes, and more with repeating database templates]]<br><time datetime="2022-10-12">2022-10-12</time> [[Changes/Notion/2022-10-12-dynamic-mentions-in-the-title-of-a-database-template\|Dynamic @mentions in the title of a database template]] | <span class="not-archived">not archived</span> |
-| 2021 Q3 → 2022 Q3 | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> |
-| 2021 Q2 | <span class="not-archived">not archived</span> | <time datetime="2021-06-29">2021-06-29</time> [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes\|Embed Sketch designs, Excalidraw drawings & Framer prototypes]] | <span class="not-archived">not archived</span> |
+| Quarter | Granola | Notion | OpenClaw | Raycast | Superwhisper | Wispr Flow |
+| --- | --- | --- | --- | --- | --- | --- |
+| **First in archive** | <time datetime="2024-10-07">2024-10-07</time> [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t\|New in Granola: 29 meeting note templates, out of the box]] | <time datetime="2021-06-29">2021-06-29</time> [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes\|Embed Sketch designs, Excalidraw drawings & Framer prototypes]] | <time datetime="2026-11-03">2026-11-03</time> [[Changes/OpenClaw/2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa\|Retrying a meeting transcript from Summary or Transcript now restores all available pages]] | <time datetime="2026-02-19">2026-02-19</time> [[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without\|Raycast Notes is a lightweight tool that helps you capture ideas quickly without…]] | <time datetime="2026-10-20">2026-10-20</time> [[Changes/Superwhisper/2026-10-20-meeting-summaries-now-detect-the-correct-language-even-when-speech-recognition-m\|Meeting summaries now detect the correct language even when speech recognition…]] | <time datetime="2026-10-09">2026-10-09</time> [[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker\|Mention people in your meeting notes (Notetaker)]] |
+| 2026 Q4 | · | <time datetime="2026-10-13">2026-10-13</time> [[Changes/Notion/2026-10-13-reintroducing-synced-databases\|Reintroducing synced databases]] | · | · | · | <time datetime="2026-10-09">2026-10-09</time> [[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker\|Mention people in your meeting notes (Notetaker)]] |
+| 2026 Q3 | · | <time datetime="2026-07-01">2026-07-01</time> [[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels\|Smarter meeting summaries with speaker labels]] | · | · | · | · |
+| 2026 Q2 | <time datetime="2026-05-20">2026-05-20</time> [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed\|New: Briefs prepare you for your next meeting as you join]] | <time datetime="2026-04-14">2026-04-14</time> [[Changes/Notion/2026-04-14-but-wait-there-s-more\|But wait, there’s more]] | archive begins <time datetime="2026-06-30">2026-06-30</time> | · | · | · |
+| 2026 Q1 | <time datetime="2026-02-04">2026-02-04</time> [[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to\|Introducing Granola MCP]] | · | <span class="not-archived">not archived</span> | · | · | archive begins <time datetime="2026-03-31">2026-03-31</time> |
+| 2025 Q4 | · | <time datetime="2025-11-17">2025-11-17</time> [[Changes/Notion/2025-11-17-get-the-full-context-from-meeting-summaries\|Get the full context from meeting summaries]] | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> |
+| 2025 Q3 | <time datetime="2025-09-30">2025-09-30</time> [[Changes/Granola/2025-09-30-recipes-are-saved-prompts-written-by-experts-that-work-with-your-meeting-notes-c\|Introducing Recipes, in the all-new Granola Chat]] | · | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> |
+| 2025 Q2 | · | <time datetime="2025-05-13">2025-05-13</time> [[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes\|Leave the note-taking to us, with AI meeting notes]] | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> |
+| 2025 Q1 | · | <time datetime="2025-02-18">2025-02-18</time> [[Changes/Notion/2025-02-18-workflows-in-one-click\|Workflows in one click]] | <span class="not-archived">not archived</span> | · | · | <span class="not-archived">not archived</span> |
+| 2023 Q1 → 2024 Q4 | archive begins <time datetime="2024-05-22">2024-05-22</time> | · | <span class="not-archived">not archived</span> | · | archive begins <time datetime="2023-08-03">2023-08-03</time> | <span class="not-archived">not archived</span> |
+| 2022 Q4 | <span class="not-archived">not archived</span> | <time datetime="2022-11-08">2022-11-08</time> [[Changes/Notion/2022-11-08-set-up-recurring-tasks-meeting-notes-and-more-with-repeating-database-templates\|Set up recurring tasks, meeting notes, and more with repeating database templates]]<br><time datetime="2022-10-12">2022-10-12</time> [[Changes/Notion/2022-10-12-dynamic-mentions-in-the-title-of-a-database-template\|Dynamic @mentions in the title of a database template]] | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> |
+| 2021 Q3 → 2022 Q3 | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> |
+| 2021 Q2 | <span class="not-archived">not archived</span> | <time datetime="2021-06-29">2021-06-29</time> [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes\|Embed Sketch designs, Excalidraw drawings & Framer prototypes]] | <span class="not-archived">not archived</span> | · | <span class="not-archived">not archived</span> | <span class="not-archived">not archived</span> |
 
-First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: Granola 2024-05-22 · Notion 2020-01-09 · OpenClaw 2026-06-30.
+First in archive: each product's earliest tracked change in this theme. "·" marks a quarter without a key moment, and "not archived" a quarter before the product's archive begins. Archives begin: Granola 2024-05-22 · Notion 2020-01-09 · OpenClaw 2026-06-30 · Raycast 2020-08-03 · Superwhisper 2023-08-03 · Wispr Flow 2026-03-31.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="scope" -->
@@ -73,14 +76,18 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 <label><input type="radio" name="timeline-product" id="tl-only-1"> Granola</label>
 <label><input type="radio" name="timeline-product" id="tl-only-2"> Notion</label>
 <label><input type="radio" name="timeline-product" id="tl-only-3"> OpenClaw</label>
+<label><input type="radio" name="timeline-product" id="tl-only-4"> Raycast</label>
+<label><input type="radio" name="timeline-product" id="tl-only-5"> Superwhisper</label>
+<label><input type="radio" name="timeline-product" id="tl-only-6"> Wispr Flow</label>
 </fieldset>
 
 <details class="disclosure">
-<summary>2026 · 10 entries (Granola 2 · Notion 7 · OpenClaw 1)</summary>
+<summary>2026 · 13 entries (Granola 2 · Notion 7 · OpenClaw 1 · Raycast 1 · Superwhisper 1 · Wispr Flow 1)</summary>
 
 **2026-10**
 
 - 2026-10-13 · <span class="tl-product tl-p2">**Notion**</span> · [[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced databases]] · Launch
+- 2026-10-09 · <span class="tl-product tl-p6">**Wispr Flow**</span> · [[Changes/Wispr Flow/2026-10-09-mention-people-in-your-meeting-notes-notetaker|Mention people in your meeting notes (Notetaker)]] · Launch
 
 **2026-07**
 
@@ -100,11 +107,15 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 - 2026-02-04 · <span class="tl-product tl-p1">**Granola**</span> · [[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing Granola MCP]] · Launch
 
 <details class="disclosure">
-<summary>Fixes, digests and other changes · 4 (Notion 3 · OpenClaw 1)</summary>
+<summary>Fixes, digests and other changes · 6 (Notion 3 · OpenClaw 1 · Raycast 1 · Superwhisper 1)</summary>
 
 **2026-11**
 
 - 2026-11-03 · <span class="tl-product tl-p3">**OpenClaw**</span> · [[Changes/OpenClaw/2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa|Retrying a meeting transcript from Summary or Transcript now restores all available pages]] · Change
+
+**2026-10**
+
+- 2026-10-20 · <span class="tl-product tl-p5">**Superwhisper**</span> · [[Changes/Superwhisper/2026-10-20-meeting-summaries-now-detect-the-correct-language-even-when-speech-recognition-m|Meeting summaries now detect the correct language even when speech recognition…]] · Change
 
 **2026-07**
 
@@ -114,6 +125,10 @@ Launches, expansions, pricing and policy changes and standalone announcements co
 
 - 2026-03-18 · <span class="tl-product tl-p2">**Notion**</span> · [[Changes/Notion/2026-03-18-custom-instructions-let-you-define-exactly-how-ai-meeting-notes-makes-your-summa|Custom instructions for AI Meeting Notes]] · Change
 - 2026-03-05 · <span class="tl-product tl-p2">**Notion**</span> · [[Changes/Notion/2026-03-05-let-s-imagine-a-meetings-database-where-a-teammate-should-be-able-to-access-thei|Let’s imagine a meetings database where a teammate should be able to access…]] · Change
+
+**2026-02**
+
+- 2026-02-19 · <span class="tl-product tl-p4">**Raycast**</span> · [[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast Notes is a lightweight tool that helps you capture ideas quickly without…]] · Change
 
 </details>
 

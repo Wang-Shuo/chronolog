@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1be15c4ef3be667131947a5f5d60bc1edfabeacb06309bed440245bc099722f8
+machine_hash: 7ccf1389a717b31d3ae5b4c6b7b51aaa06b93c6a04fefe52c33d362da2555f17
 product: opencode
 product_name: OpenCode
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety and Privacy changes in rust-v0.88.0]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety and Privacy changes in rust-v0.89.0]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-refactor-managed-services-in-data-handling-privacy-onboarding-step-to-use-their|Refactor Managed Services in "Data Handling & Privacy" Onboarding Step to Use…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d007a61d968f11679d3153a96953209b6506618e54f1acc59ca4e8b9fd8343bd
+machine_hash: b3bfdae21ae442448c3f86bc2a3c51a77b1d93b9db66ed590c3ef22215ba14b6
 product: descript
 product_name: Descript
 record:
@@ -67,11 +67,11 @@ record:
   title: Descript makes backend changes to how Exports and Publishes are processed
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
-  to Gemini Advanced: Edit and run Python code]]'
 - '[[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts
   changes to the selection toolbar]]'
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- '[[Changes/Raycast/2024-03-07-ai-chat-new-sidebar-to-switch-between-chats-and-search-chats-via-their-content|AI
+  Chat: New sidebar to switch between chats, and search chats via their content]]'
 source_release: '[[Releases/Descript/descript-2024-03-12-65f0ac54061325f26b26a687-8250fa50|descript-2024-03-12-65f0ac54061325f26b26a687-8250fa50]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-01 · Cursor · [[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]
-- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-ai-chat-new-sidebar-to-switch-between-chats-and-search-chats-via-their-content|AI Chat: New sidebar to switch between chats, and search chats via their content]]
+- Later: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-global-shortcut-and-navigation-keys-for-mode-switch|Global shortcut and navigation keys for mode switch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

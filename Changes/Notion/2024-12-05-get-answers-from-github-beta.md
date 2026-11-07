@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6f4229436a22cde8bcfd426899275ca5c788d82976062ebc469c62d65c3df39a
+machine_hash: be8ae77989d06a332e7f74d84909d69799d40b5c33064329c57aa121e3785ae6
 product: notion
 product_name: Notion
 record:
@@ -49,12 +49,11 @@ record:
   title: Get answers from GitHub Beta
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-12-02-expanding-workspace-extensions-to-more-languages-keep-and-tasks|Expanding
-  Workspace extensions to more languages: Keep and Tasks]]'
 - '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
   github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]'
 - '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
   feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Raycast/2024-12-04-manage-auto-quits|Manage Auto Quits]]'
 source_release: '[[Releases/Notion/notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f|notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-03 · Lovable · [[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing feedback.lovable.dev for feature and integration request]]
+- Earlier: 2024-12-04 · Raycast · [[Changes/Raycast/2024-12-04-manage-auto-quits|Manage Auto Quits]]
 - Later: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and Integrations changes in 0.13.2]]
 <!-- chronolog:end -->
 

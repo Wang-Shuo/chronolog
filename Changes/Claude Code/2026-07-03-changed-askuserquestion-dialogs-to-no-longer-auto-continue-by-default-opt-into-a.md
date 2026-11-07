@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 739e09b2830c5373808d0b7cd11ca174377ccce739fca2f5690e50b9f5d4ffe7
+machine_hash: 5eb9fe16ae89461fe47117e7f45d7870624e3bba5d38707b7206a4b331ddd539
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
-  Experience changes in v0.10.2]]'
 - '[[Changes/Kimi Code/2026-07-02-add-workspace-sorting-by-manual-order-or-last-edited-time-plus-collapse-all-and|Add
   workspace sorting by manual order or last-edited time, plus collapse-all…]]'
 - '[[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let
   the web sidebar collapse an expanded workspace session list back to its first page]]'
+- '[[Changes/Raycast/2026-07-02-ai-added-support-to-search-for-providers-in-model-picker|AI:
+  Added support to search for providers in model picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let the web sidebar collapse an expanded workspace session list back to its first page]]
-- Later: 2026-07-04 · Kimi Code · [[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert the recent TUI transcript rendering changes to the original upstream behavior…]]
+- Earlier: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-added-support-to-search-for-providers-in-model-picker|AI: Added support to search for providers in model picker]]
+- Later: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects|UI : Aligned date picker icon/indicator treatment with other selects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

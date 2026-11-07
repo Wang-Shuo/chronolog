@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e774d60197bd56da6009c19bf4739b610abc229a3e76d3a46e874df3b7fbe90
+machine_hash: c1165ba47872bfec31e41858f52550d2686c9b9235da3165bfe348d1b0b23dfd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,8 +98,7 @@ record:
   title: 24 Account and Access changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4
-  Account and Access changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-cli-with-browser-sign-in|Krea CLI with browser sign-in]]'
 - '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
   and Access changes in v2.1.307]]'
 - '[[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP

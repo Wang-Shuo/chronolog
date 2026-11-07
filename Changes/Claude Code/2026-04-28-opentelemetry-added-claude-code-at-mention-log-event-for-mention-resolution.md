@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 829e28a7bedd8f2a88862a4c05ed9a0159bd31d06fa73ec938f7163ea80c9d06
+machine_hash: d9034dfc61678ad3f2489b06e7069b175b337df4e8bf3ef4bd59cbb36ba04b1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     resolution'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-26-terminal-show-a-connect-tip-when-no-models-are-configured|Terminal
-  Show a /connect tip when no models are configured]]'
-- '[[Changes/OpenCode/2026-04-27-2-developer-workflow-changes-in-v1-14-28-1|2 Developer
-  Workflow changes in v1.14.28 + 1]]'
 - '[[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced
   extra terminal noise while creating TUI workspaces]]'
+- '[[Changes/Raycast/2026-04-27-2-developer-workflow-changes-in-raycast-macos-0-55|2
+  Developer Workflow changes in Raycast macos 0.55]]'
+- '[[Changes/Raycast/2026-04-27-theme-studio-swiftly-change-your-current-theme-using-our-new-switch-theme-comman|Theme
+  Studio : Swiftly change your current theme using our new Switch Theme command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-27 · OpenCode · [[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced extra terminal noise while creating TUI workspaces]]
+- Earlier: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-theme-studio-swiftly-change-your-current-theme-using-our-new-switch-theme-comman|Theme Studio : Swiftly change your current theme using our new Switch Theme command]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
 <!-- chronolog:end -->
 

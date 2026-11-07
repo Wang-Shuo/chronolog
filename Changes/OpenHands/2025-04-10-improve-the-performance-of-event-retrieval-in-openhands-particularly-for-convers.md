@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f53801ca65189f97229c0fee49df4bfcae255eacfc62912b9f14b9bebc3183d
+machine_hash: e109dd7bbe283d8ac4042c6878d50d4c61d5ffdbaa3098546ce779185349c2fe
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: Improve the performance of event retrieval in OpenHands, particularly…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|\U0001F9F0
-  General Backend Refactoring]]"
 - '[[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability
   and Performance changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-2-reliability-and-performance-changes-in-raycast-macos-v1-1-95-0|2
+  Reliability and Performance changes in Raycast macos-v1 1.95.0]]'
 - '[[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add
   more robust error tracking for users opted in to telemetry…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-10-0-32-0-github-211548474-c44dab94|openhands-2025-04-10-0-32-0-github-211548474-c44dab94]]'

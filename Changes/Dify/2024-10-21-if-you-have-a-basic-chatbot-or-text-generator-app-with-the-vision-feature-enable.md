@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dc160641045692a47dfcac08284ea71aa603500ea012ee8cd18904ceb79526f
+machine_hash: 09f465ffbff08e22460373f844f12f071d4ea80789eda70775be9dab75531975
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: '> If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…'
   type: change
 related_changes:
-- '[[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video
-  to Video in Gen-3 Alpha Turbo]]'
 - '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
   and prompt caching fixes]]'
+- '[[Changes/AnythingLLM/2024-10-03-enable-mistral-multimodal-by-timothycarambat-in-https-github-com-mintplex-labs-a|Enable
+  Mistral Multimodal]]'
 - '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
 source_release: '[[Releases/Dify/dify-2024-10-21-0-10-0-github-180976661-70c09171|dify-2024-10-21-0-10-0-github-180976661-70c09171]]'
 source_type: github_releases

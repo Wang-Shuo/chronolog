@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c58a2e842d8bd2144d75319aac5bb1d2cae896a2fcc7d868c47cf5631aaba7e1
+machine_hash: 934ce89c246da9d97c82e3af219b0ad5f412112a7a9dcc5a5c791b1a79498ff7
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes
-  in 1.16.0]]'
+- '[[Changes/Raycast/2026-07-20-notes-you-can-now-share-a-note-as-an-image|Notes :
+  You can now share a note as an image]]'
 - '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
   changes in rust-v0.145.0]]'
 - '[[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4

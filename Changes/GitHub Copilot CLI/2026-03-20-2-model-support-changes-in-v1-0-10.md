@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ea11100a818d23b87e4b4f94eb00d4c1ea82ec018519a23c39a7ec6876cd1fb
+machine_hash: 7f0154d757287328fea60fad34f2e7713a7f6ba904d710694f183ad8a4efd857
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Model Support
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model Support changes in rust-v0.116.0]]
-- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support changes in v1.3.0]]
+- Later: 2026-03-20 · Raycast · [[Changes/Raycast/2026-03-20-ai-tightened-logic-for-claude-models-to-address-empty-responses-in-chat|AI: Tightened logic for Claude models to address empty responses in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

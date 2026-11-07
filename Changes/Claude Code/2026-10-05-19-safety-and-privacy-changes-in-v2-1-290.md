@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3b1251e9de6e0dabab3295c8681f524155a7692b138f4396ab52ae89d9ef8f7
+machine_hash: 8392e891c337122d5217cedb0de0aec7fecbc2cfc3cddaa0ad25927bf30f2d4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,12 +98,12 @@ record:
   title: 19 Safety and Privacy changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2
-  Safety and Privacy changes in v1.0.91]]'
-- '[[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep
-  your workspace''s AI processing in the EU]]'
 - '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
   and Privacy changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-select-all-findings-of-a-severity|Select All Findings
+  of a Severity]]'
+- '[[Changes/Wispr Flow/2026-10-02-for-teams-enterprise-all-platforms|For Teams &
+  Enterprise: (All platforms)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -181,8 +181,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety and Privacy changes in v2.1.288]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4 Safety and Privacy changes in v1.0.92]]
+- Earlier: 2026-10-02 · Wispr Flow · [[Changes/Wispr Flow/2026-10-02-for-teams-enterprise-all-platforms|For Teams & Enterprise: (All platforms)]]
+- Later: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-repository-access-without-devin-review-permission|Repository Access Without Devin Review Permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

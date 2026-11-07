@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b310ed72dfa89435b3fc5f070a420dbd403af6d0d488b40d1c8b89d8d6f6a244
+machine_hash: cdc2b27664588533798e712730197c8d64bcf57a4465fb77734c6fa47b004982
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Agent accepts SVG uploads
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal
-  Fix /agent create to use the /agents path]]'
+- '[[Changes/Raycast/2026-05-08-ai-in-addition-to-ai-extensions-ai-skills-can-be-loaded-automatically-depending|AI
+  : In addition to AI Extensions, AI Skills can be loaded automatically depending…]]'
 - '[[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons
   for Agent modes]]'
 - '[[Changes/Replit/2026-05-08-agent|Agent]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal Fix /agent create to use the /agents path]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-ai-in-addition-to-ai-extensions-ai-skills-can-be-loaded-automatically-depending|AI : In addition to AI Extensions, AI Skills can be loaded automatically depending…]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core Added the Scout agent for repo research, docs lookup, and dependency-source…]]
 <!-- chronolog:end -->
 

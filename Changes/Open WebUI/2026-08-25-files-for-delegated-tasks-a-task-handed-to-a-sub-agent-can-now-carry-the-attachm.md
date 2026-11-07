@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 53520fab6775265f920818e714ceecb6abc481cddf3412117bb95998cf8793e8
+machine_hash: 58d9d686f0c1e9c40a5a29143573f8ef35d45d1796fcfaa2c64c7ea723afe826
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-windows-2-0|2 Agent Mode changes in Raycast windows 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

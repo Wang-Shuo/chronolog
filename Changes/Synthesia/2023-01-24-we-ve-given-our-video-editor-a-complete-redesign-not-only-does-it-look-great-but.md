@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68944061df5368043dee279155796e3c1a89198724978676c897ec2a1c375f0e
+machine_hash: 3d3942ee3782a25a3c0d5f9cc79d5e714dbfbea39942b4f26a93add28f2ea5e9
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,11 +43,11 @@ record:
   title: Synthesia STUDIO got a fresh new look!
   type: change
 related_changes:
-- '[[Changes/Synthesia/2022-12-14-the-rich-text-editor-is-now-available-for-all-accounts-simplifies-adding-pauses|Rich
-  Text Editor]]'
 - '[[Changes/Notion/2022-12-15-easier-edits-for-databases-in-list-view|Easier edits
   for databases in List view]]'
 - '[[Changes/Notion/2022-12-15-dependencies|Dependencies]]'
+- '[[Changes/Raycast/2022-12-15-system-settings-are-now-grouped-separately-from-applications-under-the-extension|System
+  Settings are now grouped separately from Applications under the Extensions…]]'
 source_release: '[[Releases/Synthesia/synthesia-2023-01-24-https-www-synthesia-io-updates-synthesia-studio-got-a-fresh-new-ddb0521c|synthesia-2023-01-24-https-www-synthesia-io-updates-synthesia-studio-got-a-fresh-new-ddb0521c]]'
 source_type: synthesia_changelog
 theme: editor-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2022-12-15 · Notion · [[Changes/Notion/2022-12-15-dependencies|Dependencies]]
+- Earlier: 2022-12-15 · Raycast · [[Changes/Raycast/2022-12-15-system-settings-are-now-grouped-separately-from-applications-under-the-extension|System Settings are now grouped separately from Applications under the Extensions…]]
 - Later: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-better-notifications|Better notifications]]
 <!-- chronolog:end -->
 

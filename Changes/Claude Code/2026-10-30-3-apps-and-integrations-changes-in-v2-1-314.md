@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38ba096501ef745555fab6417e6d9881412fad2baf60cc9b3780165bd5e0692a
+machine_hash: 863191639977879db6ef6479a3c826a293efa119626c98b7b4399be122fe248b
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-5-apps-and-integrations-changes-in-v2-2-1|5 Apps and Integrations changes in v2.2.1]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-4-apps-and-integrations-changes-in-v2-2-5|4 Apps and Integrations changes in v2.2.5]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-remediation-and-search-in-the-api-and-devin-mcp|Remediation and Search in the API and Devin MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

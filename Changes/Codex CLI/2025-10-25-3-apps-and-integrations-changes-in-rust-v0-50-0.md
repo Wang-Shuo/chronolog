@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f69147ba55f2c2bd4f890ba68ea745f671a5df49c2c1736f33c859eb82c97ceb
+machine_hash: dddf6eeda7bb4f34cf9af54ffe5cf695afcdfa0301fc27207b6c0aa3d924c798
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.50.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
-  and Integrations changes in v0.10.0]]'
 - '[[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and
   Integrations changes in v3.34.0]]'
 - '[[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11
   Apps and Integrations changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-searchable-channel-dropdown|Searchable Channel Dropdown]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-25-rust-v0-50-0-github-257258103-01bc610d|codex-cli-2025-10-25-rust-v0-50-0-github-257258103-01bc610d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.50.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11 Apps and Integrations changes in rust-v0.48.0]]
+- Earlier: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-searchable-channel-dropdown|Searchable Channel Dropdown]]
 - Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-mcp-servers|MCP Servers]]
 <!-- chronolog:end -->
 

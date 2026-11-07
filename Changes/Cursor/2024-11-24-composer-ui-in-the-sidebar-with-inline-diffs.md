@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72c287586783378f764a2edc4adbfa329555957372cd6edb8975fe0c0ce25f71
+machine_hash: fa8ddb34c723fb1bb140c10c770345eecfd1a71af987d48159d556de593d1acb
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +41,10 @@ record:
   title: Composer UI in the sidebar with inline diffs
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
-  new chat button has been moved to the left of the Model Picker to be easier to access]]'
-- '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
+- '[[Changes/Devin/2024-11-22-faster-navigation-with-cmd-k|Faster navigation with
+  cmd-k]]'
+- '[[Changes/Superwhisper/2024-11-22-add-language-model-processing-time-to-history-sidebar|Add
+  language model processing time to history sidebar]]'
 - "[[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|\U0001F4F1
   Mobile Controls Visibility]]"
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'

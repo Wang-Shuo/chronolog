@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f814b948fe77ab97acc60d660e4a5e1c19c36f09f20fb7eb7f949ff2045305f8
+machine_hash: 7665f8678595c9a61ab734cc6b599d33d62f43ef9935a573d85399c0af5f86f9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,11 @@ record:
     create…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent
-  Mode changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 - '[[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent
   Mode changes in Kimi Code 0.15.0]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-agent-mode-changes-in-v1-14-1|2 Agent Mode changes
+  in v1.14.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent Mode changes in Kimi Code 0.15.0]]
+- Earlier: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-agent-mode-changes-in-v1-14-1|2 Agent Mode changes in v1.14.1]]
 - Later: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent session shutdown from resuming the agent when stopping background tasks]]
 <!-- chronolog:end -->
 

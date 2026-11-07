@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61f05e5cc8d14e1f27290d0d1337c7f410832f53d2d73f4a45fd2e13b7e87027
+machine_hash: 444a66726ba772abd513bab7899ea230c393e9f071452a0c10655cff24bbf6e1
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Bare `/color` (no args) now picks a random session color
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
-  Experience changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
   Interface Experience changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-snippets-quickly-create-snippets-from-ai-chat-composer-or-notes-through-the-edit|Snippets:
+  Quickly create snippets from AI chat, composer or notes through the edit menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3
   Interface Experience changes in v1.0.40]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 957aa08abe518a1add146320dc4fc41bef2a7f8142055d512ccffadcdaabf82f
+machine_hash: df53c31c02010fd8ba80c9f92ebd433f56b363d31ba7d4d26214179b5936481a
 product: claude
 product_name: Claude
 record:
@@ -51,12 +51,11 @@ record:
   title: Role-based access controls for Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
-  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
-- '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
-  forceRemoteSettingsRefresh policy setting]]'
-- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
-  default effort level from medium to high for API-key…]]'
+- '[[Changes/Devin/2026-04-08-cerebras-now-enterprise-ready|Cerebras Now Enterprise-Ready]]'
+- '[[Changes/Devin/2026-04-08-enterprise-secrets-table-polish|Enterprise Secrets Table
+  Polish]]'
+- '[[Changes/Devin/2026-04-08-enterprise-review-consumption-by-repository|Enterprise
+  Review Consumption by Repository]]'
 source_release: '[[Releases/Claude/claude-2026-04-09-2026-04-09-bfee8a23|claude-2026-04-09-2026-04-09-bfee8a23]]'
 source_type: claude_changelog
 theme: enterprise-admin
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-enterprise-review-consumption-by-repository|Enterprise Review Consumption by Repository]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show a clear message to contact your organization administrator when remote sessions…]]
 <!-- chronolog:end -->
 

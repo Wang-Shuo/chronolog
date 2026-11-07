@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 036f9ff23d925307729a8cdb1caf4d6c116b8ee76a26118fbe5892904ea8eb2f
+machine_hash: dcfd8c490bf5e1926f1c20389b02fd5d9066500ea99490f0add733dc145142fb
 product: gamma
 product_name: Gamma
 record:
@@ -43,10 +43,10 @@ record:
   title: "Gamma improves our gradient picker \U0001F44D"
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to
-  starred folders]]'
 - "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
   Styling Refactor]]"
+- '[[Changes/Raycast/2024-07-17-search-menu-items-addressed-issue-where-menu-titles-were-truncated-early|Search
+  Menu Items: Addressed issue where menu titles were truncated early]]'
 - '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
   adds a file picker, arrow key navigation, and a model toggle to Composer]]'
 source_release: '[[Releases/Gamma/gamma-2024-07-23-669fdf96d3472661f5e2d341-19227961|gamma-2024-07-23-669fdf96d3472661f5e2d341-19227961]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
-- Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-25-interface-experience-changes-in-v1-0-0|25 Interface Experience changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 31b5edd63b3fcca282b6b0157d7a936227c44d209e297fff1094710f702f060c
+machine_hash: d037d5f27709697ff091b6fbcc53ba6703b125e3146009a31839f9a2ebd09095
 product: runway
 product_name: Runway
 record:
@@ -47,8 +47,8 @@ record:
   title: Default SSO for New Workspaces
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent
-  models across Workspaces]]'
+- '[[Changes/Wispr Flow/2026-08-21-for-teams-enterprise-desktop|For Teams & Enterprise
+  (Desktop)]]'
 - '[[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact
   Enterprise support from your project]]'
 - '[[Changes/Runway/2026-08-24-org-admins-now-see-alerts-in-org-settings-when-workspaces-are-missing-sso-enforc|Org

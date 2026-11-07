@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a737e9ffe29632142215fc844498cf602ffbb6d486e5313dd6084f42c9b8ce80
+machine_hash: ed392f64ce966135c97972dce6d069bcaf3f90320e694600253c36a323587785
 product: open-webui
 product_name: Open WebUI
 record:
@@ -126,7 +126,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-voices|Voices]]
-- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned 400 instead of 500 when file field is missing from audio-to-text…]]
+- Later: 2026-07-27 · Superwhisper · [[Changes/Superwhisper/2026-07-27-new-cohere-transcribe-voice-model-on-device|New Cohere Transcribe voice model (on-device)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

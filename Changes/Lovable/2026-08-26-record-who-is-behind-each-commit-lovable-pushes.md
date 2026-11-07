@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aaeba749f6590be387493b5e4fa1991f9c7fe5218854973d338e18195ee42984
+machine_hash: d0984869b1f59bc84c7c5c87334e0355eabf518df58a783ad2e8bb21ddee6b27
 product: lovable
 product_name: Lovable
 record:
@@ -63,12 +63,12 @@ record:
   title: Record who is behind each commit Lovable pushes
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-2-enterprise-and-administration-changes-in-1-17-0|2 Enterprise
-  and Administration changes in 1.17.0]]'
 - '[[Changes/Lovable/2026-08-25-only-free-and-pro-projects-are-eligible-for-linkedin-skills|Only
   Free and Pro projects are eligible for LinkedIn skills]]'
 - '[[Changes/Open WebUI/2026-08-25-4-enterprise-and-administration-changes-in-v0-11-1|4
   Enterprise and Administration changes in v0.11.1]]'
+- '[[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3
+  API]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-enterprise-and-administration-changes-in-v0-11-1|4 Enterprise and Administration changes in v0.11.1]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3 API]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
 <!-- chronolog:end -->
 

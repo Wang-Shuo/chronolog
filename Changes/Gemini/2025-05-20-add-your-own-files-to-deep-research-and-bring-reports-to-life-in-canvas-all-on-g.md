@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 64664c7ce95b21eda505cc3bcc83e54e2d0bee08183618e700b0c2d64d8a5889
+machine_hash: c7fce9fa5610bdfc3b27a52be75bbc0c835027d7b5624aeff22fe22750074d4d
 product: gemini
 product_name: Gemini
 record:
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-3-model-support-changes-in-v0-6-10|3 Model Support changes in v0.6.10]]
-- Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-support-for-anthropic-claude-sonnet-4-and-claude-opus-4-in-both-anthropic-an|Add support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…]]
+- Later: 2025-05-21 · Raycast · [[Changes/Raycast/2025-05-21-2-model-support-changes-in-raycast-macos-v1-1-99-0|2 Model Support changes in Raycast macos-v1 1.99.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

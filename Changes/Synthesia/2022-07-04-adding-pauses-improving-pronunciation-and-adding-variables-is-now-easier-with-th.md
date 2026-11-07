@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3bf43c0db6806ae470a4d9cc34c70541f7ac7b616a96ead93b2acf55976917b
+machine_hash: 0fbf534ee74f6fba0ed7d075c113e798817d1fc8edadd08d7ec39000393cbc3b
 product: synthesia
 product_name: Synthesia
 record:
@@ -52,10 +52,10 @@ record:
   title: Script context menu
   type: change
 related_changes:
-- '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select
-  a range]]'
-- '[[Changes/Descript/2020-07-28-descript-s-most-advanced-handling-of-filler-words-takes-context-into-account-to|Filler
-  Words Pro]]'
+- '[[Changes/Raycast/2021-04-28-root-search-when-you-have-multiple-apps-with-the-same-name-in-different-paths-we|Root
+  Search : When you have multiple apps with the same name in different paths, we…]]'
+- '[[Changes/Raycast/2021-08-25-contacts-added-name-to-the-action-panel-for-more-context|Contacts:
+  Added name to the Action Panel for more context]]'
 - '[[Changes/Synthesia/2021-11-18-you-can-now-right-click-on-any-canvas-element-slides-or-image-and-select-from-th|Context
   menu for quicker interactions]]'
 source_release: '[[Releases/Synthesia/synthesia-2022-07-04-https-www-synthesia-io-updates-script-context-menu-7455a4db|synthesia-2022-07-04-https-www-synthesia-io-updates-script-context-menu-7455a4db]]'

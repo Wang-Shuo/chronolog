@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 373490083d6f88b72093f30581dcc7670c82f1fad33e4a6bde7301cb755c7ffe
+machine_hash: 564fe7c3657c21ec0aba16e84bd23d1944069afa8889792f0f1d229574e22b57
 product: dify
 product_name: Dify
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
-- Later: 2024-11-27 · Open WebUI · [[Changes/Open WebUI/2024-11-27-improved-general-reliability-various-minor-fixes-improve-platform-stability-and|⚡ Improved General Reliability]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-frontend-performance-improvements-by-timothycarambat-in-https-github-com-mintple|Frontend performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

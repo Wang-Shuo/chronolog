@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a5c9f4fdf37dabff64ea1217db966a22eeef59beeee8335ab62d60436c4560d
+machine_hash: 08384746207bb8d29c35dd63968121a1a76f48f1fdb230f04212f88e1fa32e6a
 product: v0
 product_name: v0
 record:
@@ -46,10 +46,10 @@ record:
     fails to render
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
-  Developer Workflow changes in v1.0.76]]'
 - '[[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add
   the /secondary_model slash command to configure the secondary model used…]]'
+- '[[Changes/Devin/2026-07-31-approval-progress-at-a-glance|Approval Progress at a
+  Glance]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'

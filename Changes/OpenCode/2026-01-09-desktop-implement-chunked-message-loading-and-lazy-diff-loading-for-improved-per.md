@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16fb7d07ae0ade3c0975bededd2512986cbea18bcfa168e941143840561e575a
+machine_hash: 32c9ef3596536513e5b1e7fb71f1d85b34ee78d14d9677c7cf184389ee71a664
 product: opencode
 product_name: OpenCode
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡ Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]
-- Later: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For older models, Ollama will avoid an integer underflow on low VRAM systems during…]]
+- Later: 2026-01-09 · Superwhisper · [[Changes/Superwhisper/2026-01-09-dependency-updates-including-some-model-runtime-performance-improvements|Dependency updates, including some model runtime performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

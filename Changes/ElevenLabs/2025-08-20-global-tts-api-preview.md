@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c5296987a7cea6a505e626e7397d8aaa68462b3a58d0f6ee5f979c225839be75
+machine_hash: ab2ddc58609b4aae7d9185a4cdc30341df60e0f12570d69fa6a3225811bff3a0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: Global TTS API preview
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
-  Reliability and Performance changes in v0.1.21]]'
 - '[[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2
   Reliability and Performance changes in v0.11.5]]'
 - '[[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This
   week was focused on bug fixes and performance improvements]]'
+- '[[Changes/Devin/2025-08-16-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-08-20-2025-08-20-8e826e02|elevenlabs-2025-08-20-2025-08-20-8e826e02]]'
 source_type: elevenlabs_changelog
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-15 · Replit · [[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This week was focused on bug fixes and performance improvements]]
+- Earlier: 2025-08-16 · Devin · [[Changes/Devin/2025-08-16-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 - Later: 2025-08-20 · Ollama · [[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2 Reliability and Performance changes in v0.11.6]]
 <!-- chronolog:end -->
 

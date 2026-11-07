@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cba7656fbf967e8a66a9ffc46692fa0f81968da3f4b2f71e9c53ddd0549daa6a
+machine_hash: 30a747a072483fbb9766fbd9b26c458c8ad74d545f2a031d98d6f72d49774620
 product: descript
 product_name: Descript
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation changes in v0.9.5]]
-- Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm, generate, and edit images in chat]]
+- Later: 2026-05-14 · Recraft · [[Changes/Recraft/2026-05-14-we-ve-just-launched-v4-1-our-latest-image-generation-model-it-carries-v4-s-visua|We’ve just launched V4.1, our latest image generation model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

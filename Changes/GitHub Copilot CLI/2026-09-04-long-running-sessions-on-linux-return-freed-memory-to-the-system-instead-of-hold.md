@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 501481ef03047f65d70e4c306c90609551214f3239390ce0a0ef038639afa074
+machine_hash: d3577f1e1d5430cce9746324d4debb074d20750da8fb70b1cdcb3946fa424331
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-19-memory-and-personalization-changes-in-v2026-9-1|19 Memory and Personalization changes in v2026.9.1]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21 Memory and Personalization changes in v2026.9.2]]
+- Later: 2026-09-04 · Superwhisper · [[Changes/Superwhisper/2026-09-04-lower-memory-use-during-long-recordings|Lower memory use during long recordings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

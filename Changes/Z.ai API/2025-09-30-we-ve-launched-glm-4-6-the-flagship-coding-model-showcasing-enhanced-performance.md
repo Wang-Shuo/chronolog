@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0688bb424001fa865c35766a19fe69b08ab54520a5fe4a980920981e8242421c
+machine_hash: a17e74edfaaa97758e985f45ab7456bf336b7333ac840833fcd3f34d5654c6e5
 product: zai-api
 product_name: Z.ai API
 record:

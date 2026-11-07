@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e76d2580b1c49261ae52ac6ed28a7b596bdbaecb5b71f109add04107a3b41228
+machine_hash: 433ef158240e52997ff0a106e7a88e574abdd089f9678c4bcdb04b5ec281323a
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ Source: https://cursor.com/changelog/2-1
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-11-17 · v0 · [[Changes/v0/2025-11-17-we-launched-a-new-enterprise-page|Enterprise]]
-- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-enterprise-api-v2-pagination-limit-update|Enterprise API v2 Pagination Limit Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

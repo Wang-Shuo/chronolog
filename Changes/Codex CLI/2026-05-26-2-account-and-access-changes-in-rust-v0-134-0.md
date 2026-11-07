@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32816f89278b9c0355a872c8b845f270721c066f71d68cb6bab44e16533760cf
+machine_hash: 140fac015f9cefa809f218d8bc51d8d112a7a19d513db348d719d4a6d0cffc35
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,7 +44,7 @@ record:
   title: 2 Account and Access changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]'
+- '[[Changes/Devin/2026-05-22-mcp-oauth-resource-parameter|MCP OAuth Resource Parameter]]'
 - '[[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core
   Let MCP OAuth configs set a callback port and include configured scopes…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2

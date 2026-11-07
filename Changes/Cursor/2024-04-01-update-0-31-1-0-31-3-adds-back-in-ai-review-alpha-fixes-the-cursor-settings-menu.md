@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8794fe403640f00a4d2ae3ad057891e6250940f81d8847b3a11ae52852161c7
+machine_hash: 44cd206c057a5402003771da3b934425666971a0784b332c3730b804309466a7
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-03-12-color-rendering-issues|Color rendering issues]]'
-- "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
-  Sidebar UI Update]]"
-- '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
-  Settings: We moved all our settings to be accessible by the gear in the top right]]'
+- '[[Changes/Raycast/2024-03-20-2-interface-experience-changes-in-raycast-macos-v1-1-70-0|2
+  Interface Experience changes in Raycast macos-v1 1.70.0]]'
+- '[[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu|Add menubar items
+  to main menu]]'
+- '[[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu-f0b981|Add menubar
+  items to main menu]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
+- Earlier: 2024-03-25 · Superwhisper · [[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu-f0b981|Add menubar items to main menu]]
 - Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|📜 LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]
 <!-- chronolog:end -->
 

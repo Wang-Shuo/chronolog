@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f96bae438fa41e99b91a2179b2a5a208fdd89f679f679dea9cacd7f8b6b5c02c
+machine_hash: ccd24f8bd197b2f07b62cfb63a7c80592464fb818509049f7847d8e81a7d7edf
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,11 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover
-  from running out of context instead of failing with a raw provider error]]'
 - '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
   Window changes in v2.1.223]]'
 - '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
   Window changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-personal-access-tokens|Personal Access Tokens]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-07-v1-18-15-fe89d58a|opencode-2026-08-07-v1-18-15-fe89d58a]]'
 source_type: opencode_changelog
 theme: context-window
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context Window changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-personal-access-tokens|Personal Access Tokens]]
 - Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-context-window-changes-in-v4-1-7|2 Context Window changes in v4.1.7]]
 <!-- chronolog:end -->
 

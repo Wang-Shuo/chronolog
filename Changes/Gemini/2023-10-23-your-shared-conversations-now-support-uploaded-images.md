@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 18788b6ef0fffebed96c7e9ef318eca48c1ce4bc04e9e47f72d056433bb8ca33
+machine_hash: ff46b3b2b5481d82c43f0d205352ff94a2d12c7b34190d3b9f72db7bfb96bac6
 product: gemini
 product_name: Gemini
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2023-10-10 · Dify · [[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application share qrcode]]
-- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-the-dify-team|The Dify Team 🛠️]]
+- Later: 2023-11-15 · Raycast · [[Changes/Raycast/2023-11-15-referral-program|Referral Program]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

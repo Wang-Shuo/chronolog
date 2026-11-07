@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bd64c976d8652386624fa82e01bd68de66d616dfeabcb93f86e314b9b1da695
+machine_hash: bccbef719ad881a44b69b6c63348eafb19a6e05f8635a44f260353aa1560ca96
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service, Command, please execute in the docker directory]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer Workflow changes in v0.80.0]]
+- Later: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-protected-slash-command-check-by-shatfield4-in-https-github-com-mintplex-labs-an|Protected slash command check]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

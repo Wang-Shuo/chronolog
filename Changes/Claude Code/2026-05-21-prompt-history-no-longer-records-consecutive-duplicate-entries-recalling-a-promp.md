@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d71b36ae3577811bdd5156e4f58d9be61fdba8a626d07c5a2657abac1885263b
+machine_hash: f24595b047f6de1b3b2e6fdeef25bbaa1c7732cfebe924ae58088d58eec9a6f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Prompt history no longer records consecutive duplicate entries
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
-  Interface Experience changes in v1.0.49]]'
-- '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
-  Interface Experience changes in rust-v0.132.0]]'
-- '[[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface
-  Experience changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-introducing-the-quick-fix-command-it-takes-your-selected-text-fixes-spelling-and|Introducing
+  the Quick Fix command]]'
+- '[[Changes/Raycast/2026-05-20-6-interface-experience-changes-in-raycast-macos-0-61|6
+  Interface Experience changes in Raycast macos 0.61]]'
+- '[[Changes/Raycast/2026-05-20-introducing-the-quick-fix-command-it-takes-your-selected-text-fixes-spelling-and-dfb3be|Introducing
+  the Quick Fix command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface Experience changes in v1.15.6]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-introducing-the-quick-fix-command-it-takes-your-selected-text-fixes-spelling-and-dfb3be|Introducing the Quick Fix command]]
 - Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown output now renders GFM task list checkboxes (-   todo / - x done)…]]
 <!-- chronolog:end -->
 

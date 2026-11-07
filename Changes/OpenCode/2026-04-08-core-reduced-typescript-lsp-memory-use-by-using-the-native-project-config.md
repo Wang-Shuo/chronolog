@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2a37d60772b2236631b246024f34101f81d1c841210fcb1afd47d52137a16b0
+machine_hash: 7ed04cdb93ca41ef6619ced808db5c4ba4089b0ce3203427602a2379d8a6943a
 product: opencode
 product_name: OpenCode
 record:
@@ -50,8 +50,8 @@ record:
   title: Core Reduced TypeScript LSP memory use by using the native project config
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-added-memory-to-make-chats-more-personal|AI
+  Chat: Added memory to make chats more personal]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3
   Memory and Personalization changes in v0.36.0]]'
 - '[[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2

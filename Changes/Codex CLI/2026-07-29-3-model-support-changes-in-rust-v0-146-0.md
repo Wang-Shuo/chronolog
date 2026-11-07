@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fd6addb1c1aa2fc0d465a557b16c132dcdb63b420cae13c9a05d924fe09d7fa
+machine_hash: 6026b32aaf8c6672bf7dc388b324c8bfb6bebe427ebd1061e5d9fd68fe7f02bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop Added collapsible model provider sections in V2 settings]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow reasoning effort to be omitted so the server can select the default]]
+- Later: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-2-model-support-changes-in-superwhisper-macos-2-17-0|2 Model Support changes in Superwhisper macOS 2.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82836bbc8a1aa721f403aadd7b20f9d39551f9d9d6f8e617a8374b4eddf2c57b
+machine_hash: 8b26c7d2bd96655a02d25350d3ef9ced4be725ba8148bd2c39b969138363d7aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental conversation import]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience changes in 1.18.0]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-quote-elements-from-html-attachments|Quote Elements from HTML Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

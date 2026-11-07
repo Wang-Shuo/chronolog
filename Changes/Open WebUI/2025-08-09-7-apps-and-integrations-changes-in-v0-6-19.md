@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b5180fc61c2319e3d0bfc26e9c026697d61375ed91130dedb3f13432d015462
+machine_hash: 295cc073d124b396cab9c637cd05d04dff3d0a1ecb8fdb1230adaf0d9ed865d6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -76,10 +76,9 @@ record:
   title: 7 Apps and Integrations changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
-  Apps and Integrations changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
-  Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Devin/2025-08-08-perplexity-mcp-server|Perplexity MCP Server]]'
+- '[[Changes/Devin/2025-08-08-jira-integration-for-enterprises|Jira Integration for
+  Enterprises]]'
 - '[[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve
   just launched our Generate API in beta for Gamma Pro users! Now you can…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'

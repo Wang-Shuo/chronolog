@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 569a1f51e3037c57508ecf695551bc72e09659c679bbf9fc95d5f5c4a90b83a0
+machine_hash: c408426499f23faaa11d12e258621dc34d21d5a765c7b0a902c84c7c9d199e9c
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
     tool streaming
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core
-  Fixed Github Copilot overbilling issue]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
 - '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
   & Calendar, now in your settings]]'
+- '[[Changes/Recraft/2026-04-17-edit-images-with-ai-directly-in-your-browser-from-any-webpage-generate-visuals-r|Edit
+  images with AI directly in your browser, from any webpage]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-19-v1-14-18-ba7bad5b|opencode-2026-04-19-v1-14-18-ba7bad5b]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-17 · Notion · [[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail & Calendar, now in your settings]]
+- Earlier: 2026-04-17 · Recraft · [[Changes/Recraft/2026-04-17-edit-images-with-ai-directly-in-your-browser-from-any-webpage-generate-visuals-r|Edit images with AI directly in your browser, from any webpage]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
 <!-- chronolog:end -->
 

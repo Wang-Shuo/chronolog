@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a4fff96461da68845baf5560de31e411204d404f5d6834663505d4f1e3dea02
+machine_hash: ec81b4fdfe670b16c7945c65a605964fe8451aee6cb59f9357986aadbef40200
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,11 +50,12 @@ record:
     chosen Kokoro voice…"
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-28-you-can-now-record-a-line-on-your-phone-or-laptop-and-get-it-back-in-your-heygen|Record
-  a line on your phone or laptop and get it back in your HeyGen Voice]]'
-- '[[Changes/HeyGen/2026-10-28-why-it-matters|Why it matters]]'
 - '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
   AI''s LFM3((source link) models, including text-to-speech…]]'
+- '[[Changes/Raycast/2026-10-28-dictation-post-processing-improvements-to-reduce-unwanted-em-dashes-and-unexpect|Dictation:
+  Post-processing improvements to reduce unwanted em dashes and unexpected…]]'
+- '[[Changes/Raycast/2026-10-28-dictation-post-processing-improvements-to-reduce-unwanted-em-dashes-and-unexpect-fd8d05|Dictation:
+  Post-processing improvements to reduce unwanted em dashes and unexpected…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: voice
@@ -100,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-28 · Ollama · [[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid AI's LFM3((source link) models, including text-to-speech…]]
-- Later: 2026-10-29 · Suno · [[Changes/Suno/2026-10-29-fine-pitch-adjustment|Fine Pitch Adjustment]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-dictation-post-processing-improvements-to-reduce-unwanted-em-dashes-and-unexpect-fd8d05|Dictation: Post-processing improvements to reduce unwanted em dashes and unexpected…]]
+- Later: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-meet-your-new-keyboard-type-or-swipe-in-english-with-autocorrection-and-word-sug|Meet your new keyboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

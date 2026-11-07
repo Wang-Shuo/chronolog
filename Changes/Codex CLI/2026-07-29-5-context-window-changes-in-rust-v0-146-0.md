@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6462a49b47d75d51c2984320a1b247f5497b55f27735c030743abaf421512c77
+machine_hash: 96880836549f21f78632482b98e85344c21cced76aff89c0c77fc47da22fdc40
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Context Window changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API
-  keys are revoked automatically]]'
 - '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
   changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
   simplify repository context]]'
+- '[[Changes/Raycast/2026-07-28-ai-improved-context-handling-for-tools-and-large-chats-which-should-solve-a-few|AI:
+  Improved context handling for tools and large chats, which should solve a few…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: context-window
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents): simplify repository context]]
+- Earlier: 2026-07-28 · Raycast · [[Changes/Raycast/2026-07-28-ai-improved-context-handling-for-tools-and-large-chats-which-should-solve-a-few|AI: Improved context handling for tools and large chats, which should solve a few…]]
 - Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-lists-in-context-iq-web-microsoft-365-copilot-chat|Lists in Context IQ Web (Microsoft 365 Copilot Chat)]]
 <!-- chronolog:end -->
 

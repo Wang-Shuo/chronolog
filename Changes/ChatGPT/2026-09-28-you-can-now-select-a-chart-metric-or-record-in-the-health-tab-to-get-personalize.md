@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51f6b74ec09b882b266200beb19a1a024bb6fd11b0f082350edc36cf54dc54ff
+machine_hash: 5cdff7b72bcf410dd808bc3bac688924cdc8c958f4dd2708b6a41882f86a810c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,9 +43,10 @@ record:
   title: Explore your health data with personalized summaries
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-23-runway-is-now-available-directly-inside-davinci-resolve-bring-runway-s-tools-int|DaVinci
-  Resolve Plugin]]'
-- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
+- '[[Changes/Devin/2026-09-25-the-findings-resolved-tab-now-lists-only-findings-whose-fix-pr-was-merged-or-tha|The
+  Findings "Resolved" tab now lists only findings whose fix PR was merged…]]'
+- '[[Changes/Devin/2026-09-25-progress-tab-names-the-sender|Progress Tab Names the
+  Sender]]'
 - '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
   sources from an answer]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'

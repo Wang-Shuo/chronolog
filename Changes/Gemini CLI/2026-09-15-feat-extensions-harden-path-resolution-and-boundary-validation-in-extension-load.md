@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4489fc1c7bbee969d7b05795b1c6f90277e7a4b33ca9506b9dc42fd60dfaada
+machine_hash: 97b9ca329fbb985cffbcbf15918d4c99b59861004eec408233834a43fa62001f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,7 +45,8 @@ record:
     loader'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]'
+- '[[Changes/Raycast/2026-09-14-2-apps-and-integrations-changes-in-raycast-macos-2-4|2
+  Apps and Integrations changes in Raycast macos 2.4]]'
 - '[[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce
   in Claude (beta)]]'
 - '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3

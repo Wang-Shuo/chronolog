@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c14141f55d9a62c92cfcbd5008f1a8495bf9761bf4049edc3b19ff1a25e31d68
+machine_hash: d88dd5f40bcadba2b854f2e63532cac50b0e2dfd12f1bdea5ed8d104b26f6711
 product: windsurf
 product_name: Windsurf
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-auto-compact-at-90-by-aibrahim-oai-in-https-github-com-openai-codex-pull-5292|Auto compact at ~90%]]
-- Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-to-conserve-context-window-space-we-ve-limited-the-list-of-tools-available-to-th|To conserve context window space, we've limited the list of tools available…]]
+- Later: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-pre-selected-user-roles|Pre-selected User Roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

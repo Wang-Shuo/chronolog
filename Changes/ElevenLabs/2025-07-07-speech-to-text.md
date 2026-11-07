@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7b383c2f449d4648c30c99886f696751266ed6c12e23b3df39b38ee0537f17c1
+machine_hash: 129cc87641afb9663a575198c465a9fafa18a82e4a1018578a50cf171c246a7a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,10 +42,12 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-30-professional-voice-cloning|Professional Voice Cloning]]'
-- '[[Changes/ElevenLabs/2025-06-30-text-to-voice|Text to Voice]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat:
   add audio and video support to read_file]]'
+- '[[Changes/Raycast/2025-07-02-use-ai-commands-in-your-notes-to-quickly-generate-ideas-refine-your-writing-or-e|Use
+  AI commands in your notes to quickly generate ideas, refine your writing…]]'
+- '[[Changes/Raycast/2025-07-02-2-voice-and-audio-changes-in-raycast-ios-1-0-7|2 Voice
+  and Audio changes in Raycast ios 1.0.7]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-07-07-2025-07-07-2ce7bb7f|elevenlabs-2025-07-07-2025-07-07-2ce7bb7f]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -82,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat: add audio and video support to read_file]]
+- Earlier: 2025-07-02 · Raycast · [[Changes/Raycast/2025-07-02-2-voice-and-audio-changes-in-raycast-ios-1-0-7|2 Voice and Audio changes in Raycast ios 1.0.7]]
 - Later: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-text-to-voice|Text to Voice]]
 <!-- chronolog:end -->
 

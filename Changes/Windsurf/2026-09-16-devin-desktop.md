@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ff3b73c719e281b3f5c4353453fb78b316ad0219042240060257cf3e4ddadee0
+machine_hash: 0df726dfee5cf97a9572b0034b23d1664bd1f3e2378726e59fcdc12bed000a6c
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,9 +45,9 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added
-  ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]'
 - '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-09-15-wispr-flow-notetaker-is-now-live-on-windows-notetaker|Wispr
+  Flow Notetaker is now live on Windows (Notetaker)]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4
   Mobile and Desktop changes in v1.0.85]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-16-v3-10-31-09b3397a|windsurf-2026-09-16-v3-10-31-09b3397a]]'

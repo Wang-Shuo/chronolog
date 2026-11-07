@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 461b39c2c58beb66702afe729f7de77e3b1f082c705fea925b7a77eba2440984
+machine_hash: b201449c36f1ae16cd288992732d356fd2d469961faed254afdd6584dcaa3e72
 product: replit
 product_name: Replit
 record:
@@ -64,8 +64,8 @@ record:
   title: Agent suggests connectors when several fit
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
-  the auth status panel title from "Cloud authentication" to "Authentication"]]'
+- '[[Changes/Devin/2026-07-17-this-release-also-includes-improved-bulk-secret-import-with-name-validation-expa|This
+  release also includes improved bulk secret import with name validation…]]'
 - '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
   Access changes in 1.16.0]]'
 - '[[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth

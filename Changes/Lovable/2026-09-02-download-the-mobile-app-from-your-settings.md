@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3c62969c81cadef07539ddc7e29bf48272a024e33073b4467623b4bcf675939d
+machine_hash: caf3a1571b3f3b855069787a7a48bfe774f69729fec4f8e8b80acd2bd88bacfe
 product: lovable
 product_name: Lovable
 record:
@@ -51,8 +51,8 @@ record:
   title: Download the mobile app from your settings
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
-  the reliability of installation and updates on Windows]]'
+- '[[Changes/Raycast/2026-08-31-2-mobile-and-desktop-changes-in-raycast-ios-1-3-6|2
+  Mobile and Desktop changes in Raycast ios 1.3.6]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
 - '[[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile

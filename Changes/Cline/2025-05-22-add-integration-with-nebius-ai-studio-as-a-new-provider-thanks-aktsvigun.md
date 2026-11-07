@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f19298bacee05df932d165ae7c7374195f8d7406a05dbcbe551f59b911868708
+machine_hash: 0099b5b67cd9a40ecf9f73cdd8ccd427e9d4cf5ab794cef9a687dfd92e38beb8
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations
-  changes in 1.4.0]]'
 - '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
   Tailwind CSS IntelliSense to the recommended extensions list]]'
 - '[[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps
   and Integrations changes in v0.6.10]]'
+- '[[Changes/Raycast/2025-05-21-4-apps-and-integrations-changes-in-raycast-macos-v1-1-99-0|4
+  Apps and Integrations changes in Raycast macos-v1 1.99.0]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-0-github-220457349-75a64834|cline-2025-05-22-v3-17-0-github-220457349-75a64834]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps and Integrations changes in v0.6.10]]
-- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-4-apps-and-integrations-changes-in-v0-6-11|4 Apps and Integrations changes in v0.6.11]]
+- Earlier: 2025-05-21 · Raycast · [[Changes/Raycast/2025-05-21-4-apps-and-integrations-changes-in-raycast-macos-v1-1-99-0|4 Apps and Integrations changes in Raycast macos-v1 1.99.0]]
+- Later: 2025-05-22 · Devin · [[Changes/Devin/2025-05-22-deepwiki-mcp-server|DeepWiki MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

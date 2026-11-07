@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea8ab5943526a2f83f845be168b2bfda03ee1c884c3136d438679541b6d75aab
+machine_hash: f33d03d2b387a59165f93292309f98d4914adc111a76af61cbf97f95cdfddc20
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
-  Reliability and Performance changes in v0.42.0]]'
 - '[[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3
   Reliability and Performance changes in Run terminal commands with v0, faster…]]'
 - '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
   file search performance]]'
+- '[[Changes/LM Studio/2026-05-13-mlx-mlx-engine-v1-8-1-significantly-improves-performance-and-adds-parallel-predi|MLX
+  mlx-engine v1.8.1 significantly improves performance and adds parallel…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12|ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,8 +86,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.30.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention file search performance]]
-- Later: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face, hands, posture, gaze, energy]]
+- Earlier: 2026-05-13 · LM Studio · [[Changes/LM Studio/2026-05-13-mlx-mlx-engine-v1-8-1-significantly-improves-performance-and-adds-parallel-predi|MLX mlx-engine v1.8.1 significantly improves performance and adds parallel…]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-ai-chat-improved-startup-performance-of-ai-chat-window|AI Chat : Improved startup performance of AI Chat window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

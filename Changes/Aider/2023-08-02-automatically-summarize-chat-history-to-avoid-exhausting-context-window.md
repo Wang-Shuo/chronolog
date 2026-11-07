@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b13451c39e2cfe1bd9c094e56c5e7303ff9b0146459eba613c059658d17f29d0
+machine_hash: df56ae39e136b39bad333284dd644e9b91b7d2ca7dc9e6da38491a450527375d
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Automatically summarize chat history to avoid exhausting context window
   type: change
 related_changes:
-- '[[Changes/Descript/2023-07-10-edit-word-gaps-from-the-script|Edit Word Gaps from
-  the Script]]'
 - '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
   context controls only show up if you have indexed your codebase]]'
 - '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
   control of context building abilities for codebase-wide chat]]'
+- '[[Changes/Raycast/2023-07-27-ai-commands-built-in-commands-now-use-gpt-3-5-turbo-model-with-up-to-16k-context|AI-Commands:
+  Built-in commands now use gpt-3.5-turbo model with up to 16k context]]'
 source_release: '[[Releases/Aider/aider-2023-08-02-v0-11-0-github-114871173-07ca5a65|aider-2023-08-02-v0-11-0-github-114871173-07ca5a65]]'
 source_type: github_releases
 theme: context-window
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More control of context building abilities for codebase-wide chat]]
+- Earlier: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-ai-commands-built-in-commands-now-use-gpt-3-5-turbo-model-with-up-to-16k-context|AI-Commands: Built-in commands now use gpt-3.5-turbo model with up to 16k context]]
 - Later: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
 <!-- chronolog:end -->
 

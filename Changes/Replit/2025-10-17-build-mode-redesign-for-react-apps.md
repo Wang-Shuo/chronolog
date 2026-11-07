@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 692588d9b0ba20f403efd0e10b27851a108f0595ebd1608916ea485f054959d7
+machine_hash: f83defe9ad47b15a0d36ef52ce708bcd77bff7f6ab191bf0be6dc06b697954b0
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,11 @@ record:
   title: Build mode redesign for React apps
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental
-  support for Vulkan is now available when you build locally from source]]'
 - '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
   Integrations changes in v3.33.0]]'
 - '[[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora
   2 and Veo 3.1 in Synthesia: Prompt anything]]'
+- '[[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]'
 source_release: '[[Releases/Replit/replit-2025-10-17-2025-10-17-32d063da|replit-2025-10-17-2025-10-17-32d063da]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-16 · Synthesia · [[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora 2 and Veo 3.1 in Synthesia: Prompt anything]]
+- Earlier: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]
 - Later: 2025-10-17 · Windsurf · [[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved diagnostics for third party extensions]]
 <!-- chronolog:end -->
 

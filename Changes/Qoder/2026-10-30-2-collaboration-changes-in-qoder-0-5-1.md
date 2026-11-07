@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 816e98bf528439476de0223ee64c864d58eb1f10802601c65aeb4994bf3070ed
+machine_hash: bd3e8a480fc442ac56cc02486d2256dbac50bea8c89269429431f3d7b4f54c2c
 product: qoder
 product_name: Qoder
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Collaboration changes in Qoder 0.5.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
-  Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
-- '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
-  changes in v2026.10.9]]'
+- '[[Changes/Devin/2026-10-30-share-a-private-reply-with-the-chat|Share a Private
+  Reply with the Chat]]'
+- '[[Changes/Devin/2026-10-30-network-access-request-outcomes-in-teams|Network Access
+  Request Outcomes in Teams]]'
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
 source_release: '[[Releases/Qoder/qoder-2026-10-30-0-5-1-5127d714|qoder-2026-10-30-0-5-1-5127d714]]'

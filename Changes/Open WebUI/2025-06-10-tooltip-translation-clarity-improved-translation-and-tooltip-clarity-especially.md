@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7100892adcb5a75bbf99801833cbc3dfbeb44ebfc08a71c4a871cca827cfe137
+machine_hash: 5feeb5cea5f2ba3656cc4f27bc139bb02145adb71c5480634dc0591733f0cfe9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,11 @@ record:
   title: "\U0001F6E0️ **Tooltip & Translation Clarity**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
-  improvements are starting to roll out to Free users]]'
 - '[[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements
   to import behavior during onboarding]]'
 - '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- '[[Changes/AnythingLLM/2025-06-10-5-interface-experience-changes-in-v1-8-2|5 Interface
+  Experience changes in v1.8.2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-5-interface-experience-changes-in-v1-8-2|5 Interface Experience changes in v1.8.2]]
 - Later: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New menu to open previous conversations to quickly switch conversations]]
 <!-- chronolog:end -->
 

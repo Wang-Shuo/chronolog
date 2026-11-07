@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ab70524d5ddbd57122d29a269f413ebc1ec491dc5a7200daaf3440410f907e6
+machine_hash: 0429ee8fc7bda7524e2e62e89d23f6b35719b779c22adf06429616eaeeb12a72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,12 +67,12 @@ record:
   title: 14 Agent Mode changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
-  in v0.57.0]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work
-  IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]'
 - "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
   Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
+- '[[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-windows-2-0|2 Agent
+  Mode changes in Raycast windows 2.0]]'
+- '[[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-macos-2-0|2 Agent
+  Mode changes in Raycast macos 2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: agent-mode
@@ -142,7 +142,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|🤝 Files for delegated tasks. A task handed to a sub-agent can now carry…]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-macos-2-0|2 Agent Mode changes in Raycast macos 2.0]]
 - Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]
 <!-- chronolog:end -->
 

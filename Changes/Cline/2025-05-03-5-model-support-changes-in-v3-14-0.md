@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fea8f036c71402d772b2b707f76d9e0f129e04cdef43dc8addd77e720ac4d8c9
+machine_hash: d5306e0178e4a139a9cc93761a03067af4e41b764d098fd9bd28dbdc7f4cf95d
 product: cline
 product_name: Cline
 record:
@@ -49,9 +49,9 @@ record:
   title: 5 Model Support changes in v3.14.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
-- '[[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]'
+- '[[Changes/Recraft/2025-04-30-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2025-04-30-you-can-now-generate-and-edit-with-gpt-4o-available-for-paid-subscribers-inside|Generate
+  and edit with GPT-4o (available for paid subscribers) inside Recraft]]'
 - '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
   launches V7 model speedups today]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'

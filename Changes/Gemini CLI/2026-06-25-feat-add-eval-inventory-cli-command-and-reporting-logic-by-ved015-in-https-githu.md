@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64d06dc46407780cfa8ba6bd0c0bee8c5b742e61c9bbd713c65e40b08c776c1b
+machine_hash: 354999f7888ece97f01b4fc198d021d013dc06a71b04cc718ddeba05ee971eea
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat: add eval:inventory CLI command and reporting logic'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
-  the command in running Bash tool cards and allow expanding it with Ctrl+O…]]'
-- '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
-  Workflow changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-capture-window-new-capture-window-command-to-capture-a-raycast-window-to-share-i|Capture
+  Window : New Capture Window command to capture a Raycast window to share…]]'
+- '[[Changes/Raycast/2026-06-24-raycast-focus-added-missing-import-focus-categories-command-and-export-category|Raycast
+  Focus : Added missing Import Focus Categories command and Export Category…]]'
 - '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
   changes in 1.15.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f|gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f]]'

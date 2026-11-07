@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e184e98c84b5106650119ab6342f219003ef3431fcbec6cab44cae6fb854547e
+machine_hash: ef15a9c013a8850b599819c2690dff6f1646cd849ee70e3b136053aa0dc2b519
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Invalid OPENCODE_PERMISSION JSON no longer crashes startup
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
-  permission prompts now name who can see a stored memory]]'
+- '[[Changes/Raycast/2026-05-19-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 - '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
   Safety and Privacy changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add /security-review slash command to review code changes for security…]]
-- Later: 2026-05-21 · Claude · [[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude now works with more security and compliance tools]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions: Fixed an issue where Raycast would not open System Settings…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

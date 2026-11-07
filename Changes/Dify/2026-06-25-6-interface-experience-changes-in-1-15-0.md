@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19ac2ad17269c5c2a1778b3ba2a720530206d31ac6a43da0de958fe6f1e272a1
+machine_hash: 3d623b8763d279ae2821b548edb632703c9ec5878e8f848d5efb8910a6259ba8
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Interface Experience changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-06-24-the-result-is-a-ready-to-use-set-of-avatar-looks-that-actually-look-like-you-gen|The
-  result is a ready-to-use set of avatar looks that actually look like you…]]'
-- '[[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7
-  Interface Experience changes in Kimi Code 0.19.2]]'
-- '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
-  Experience changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-ai-chat-pressing-esc-only-closes-history-sidebar-when-in-overlay-mode|AI
+  Chat : Pressing Esc only closes history sidebar when in overlay mode]]'
+- '[[Changes/Raycast/2026-06-24-ai-chat-pressing-esc-only-closes-history-sidebar-when-in-overlay-mode-c36bfc|AI
+  Chat : Pressing Esc only closes history sidebar when in overlay mode]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-interface-experience-changes-in-v1-15-0|2 Interface
+  Experience changes in v1.15.0]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: interface-experience
@@ -116,7 +116,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface Experience changes in v1.17.10]]
+- Earlier: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-2-interface-experience-changes-in-v1-15-0|2 Interface Experience changes in v1.15.0]]
 - Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5 Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]
 <!-- chronolog:end -->
 

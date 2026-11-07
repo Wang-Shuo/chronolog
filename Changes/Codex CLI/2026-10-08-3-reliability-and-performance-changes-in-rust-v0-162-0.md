@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 468e8631ae70706c82ea78bcde23b3177eb84711d4aec83b29ad9c9bd12f84e3
+machine_hash: 6cb0ad1f4ddf551d44a5ae074c708cbc99c2bcf32a7448a9fa22785d9241502f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
-  Reliability and Performance changes in v2.1.290]]'
+- '[[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u-d6328e|We
+  made several memory and performance improvements]]'
 - '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
   rendering speed of long bulleted or numbered replies]]'
 - '[[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]'

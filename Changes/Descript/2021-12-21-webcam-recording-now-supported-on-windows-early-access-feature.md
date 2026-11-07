@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0fbcc77a0e96f50f78788b17293add0ade7f2151cc5d781279243f43d6f05c9d
+machine_hash: cbca1c495da2478b6cc2680654aa7c1120a120777fa1d1728855afb55f657c46
 product: descript
 product_name: Descript
 record:
@@ -43,11 +43,11 @@ record:
   title: Webcam recording now supported on Windows (early access feature)
   type: change
 related_changes:
-- '[[Changes/Notion/2021-10-12-the-ios-android-apps-now-include-pinch-to-zoom-support-for-images|The
-  iOS & Android apps now include pinch-to-zoom support for images]]'
 - '[[Changes/Notion/2021-10-19-better-comments-on-mobile|Better comments on mobile]]'
 - '[[Changes/Descript/2021-11-16-pause-screen-recordings-on-macos|Pause screen recordings
   on macOS]]'
+- '[[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window
+  Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]'
 source_release: '[[Releases/Descript/descript-2021-12-21-6390c9dd4a4a0d64fa56493c-14de707a|descript-2021-12-21-6390c9dd4a4a0d64fa56493c-14de707a]]'
 source_type: canny_changelog
 theme: mobile-desktop
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-11-16 · Descript · [[Changes/Descript/2021-11-16-pause-screen-recordings-on-macos|Pause screen recordings on macOS]]
+- Earlier: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]
 - Later: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-create-page-columns-on-ipad-android-tablets|Create page columns on iPad & Android tablets]]
 <!-- chronolog:end -->
 

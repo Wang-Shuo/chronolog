@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eab20030e6781d58fa6234e97e270e371b95c3b1f56d144c330687b66197440
+machine_hash: e605d2b8b0a8ffdad93e4bd9f42fa863208cdaabb5404119ac71168cdeab9f55
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Account and Access changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account
-  and Access changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall-c8b722|MCP
+  : Added Reset Sign In so you can retry an incomplete sign-in without…]]'
 - '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
   Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
 - '[[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal

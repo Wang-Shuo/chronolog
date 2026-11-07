@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f43d382578565f30524d9e634cdfc07b75ef40935893107c6ec1f293039be4bf
+machine_hash: 7124ec9f51263ee1a7a47ba5474f4d05dd575022846fef3128ce567d5c1cb290
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Build history and debugging
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer
-  Workflow changes in v0.55.1]]'
 - '[[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed
   /commit-push-pr so git/gh commands with dangerous flags…]]'
+- '[[Changes/Devin/2026-08-12-command-palette-session-search-pagination|Command Palette
+  Session Search Pagination]]'
 - '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote
   Control: the terminal now says whether a session was taken over by another…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'

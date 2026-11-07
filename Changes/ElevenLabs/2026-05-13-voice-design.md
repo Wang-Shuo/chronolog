@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f16f86a9a4fff4767605a52860cdaec5e730e98c3adff42252f6837525977422
+machine_hash: dba0342619145da3f6643648589ed8d1a8e584532288211afb8654b0ee84d608
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: Voice Design
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and
-  Audio changes in v0.42.0]]'
 - '[[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode
   Voice mode]]'
+- '[[Changes/Devin/2026-05-13-voice-recording-while-devin-is-working|Voice Recording
+  While Devin Is Working]]'
 - '[[Changes/ElevenLabs/2026-05-13-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-13-2026-05-13-1809b47f|elevenlabs-2026-05-13-2026-05-13-1809b47f]]'
 source_type: elevenlabs_changelog
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-voice-recording-while-devin-is-working|Voice Recording While Devin Is Working]]
 - Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll, B-Roll, audio, captions, and motion graphics are no longer separate steps…]]
 <!-- chronolog:end -->
 

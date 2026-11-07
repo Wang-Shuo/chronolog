@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 44450b8453eba87d39b31bc014fddb837d22fe99466d475215a45c2c537e8a72
+machine_hash: c76171d2c77cc0ad04d8b3e452746092c59e225a50c2ef351854dce00909f5e4
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,7 @@ record:
     flow
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations
-  no longer require a separate API plan]]'
+- '[[Changes/Recraft/2026-02-28-cost-per-generation|Cost per generation]]'
 - '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
   implement G1 AI credits overage flow with billing telemetry]]'
 - '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost

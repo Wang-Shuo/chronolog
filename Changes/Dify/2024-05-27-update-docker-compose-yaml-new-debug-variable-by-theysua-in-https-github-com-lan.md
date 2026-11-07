@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41c6af15f83ae74992733d866f3bb46484927291bf16b0a335d17fed2f1711d7
+machine_hash: 567b43377e8ebbb2fe780eddd0abbc02fb3279db346b56c2273122279f099ad9
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite code((source link) A family of open foundation…]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows doc extended with more WSL hints]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-view-shell-updates|View Shell Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

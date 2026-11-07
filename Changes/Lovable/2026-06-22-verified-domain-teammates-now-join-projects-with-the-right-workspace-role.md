@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3a7fd1f807ac166462821f033e841f294e1db8e800f85ddd4944b97d69f60542
+machine_hash: 3f4a9844ba653451eb46f5d6b2616cb79bd308481120e4e522af88e4b7284fe8
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Verified-domain teammates now join projects with the right workspace role
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-publish-and-install-private-npm-packages|Publish and
-  install private npm packages]]'
+- '[[Changes/Krea/2026-06-19-organizations-in-private-beta-for-enterprise|Organizations
+  in private beta for enterprise]]'
 - '[[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-06-19-invite-external-guests-to-enterprise-workspaces|Invite
   external guests to Enterprise workspaces]]'

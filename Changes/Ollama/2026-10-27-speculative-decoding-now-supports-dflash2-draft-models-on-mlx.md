@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51f88e464e81264b14407f1726c0153c31fb6054a595242d0111bf7d5b4ec427
+machine_hash: 98e7e14d4275ae30c6e496b03cbc04151a4fba84c6687ad49b67c82cd25ae2b1
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,11 @@ record:
   title: Speculative decoding now supports DFlash2 draft models on MLX
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-9-model-support-changes-in-rust-v0-165-0|9 Model
-  Support changes in rust-v0.165.0]]'
-- '[[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add
-  Banner about Gemini CLI not being optimized for Gemini 4]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
   model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
+- '[[Changes/Krea/2026-10-27-gpt-6-1-terra-in-agent|GPT-6.1 Terra in Agent]]'
+- '[[Changes/Krea/2026-10-27-old-and-renamed-model-page-links-now-redirect-instead-of-showing-a-404|Old
+  and renamed model page links now redirect instead of showing a 404]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-27-v0-40-12-github-424898500-14e64d40|ollama-2026-10-27-v0-40-12-github-424898500-14e64d40]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed model "fusion" now starts sessions on Auto and applies fusionTier settings]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-old-and-renamed-model-page-links-now-redirect-instead-of-showing-a-404|Old and renamed model page links now redirect instead of showing a 404]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-6-model-support-changes-in-v2026-10-8|6 Model Support changes in v2026.10.8]]
 <!-- chronolog:end -->
 

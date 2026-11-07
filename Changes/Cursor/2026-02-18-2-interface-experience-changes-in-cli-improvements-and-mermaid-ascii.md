@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acf24cea24ac7f55a59d4221d7c54e5a3feda9ab080b0f9e8d3094dbdda5da2c
+machine_hash: d4e63ee491497a86db3c88fb2ee1afbd388fdfe8868d0ac2c6129b14d243ae87
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4
-  Interface Experience changes in v0.0.411]]'
+- '[[Changes/AnythingLLM/2026-02-18-2-interface-experience-changes-in-v1-11-0|2 Interface
+  Experience changes in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface
   Experience changes in v2.1.47]]'
 - '[[Changes/Cursor/2026-02-18-plan-mode-improvements-in-cli-9a872d|Plan mode improvements

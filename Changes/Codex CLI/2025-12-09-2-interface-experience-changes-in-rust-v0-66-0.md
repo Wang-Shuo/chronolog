@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4da2512805d23e8d14dd67e5cf38878b3f1ab89347dac0a09b3132af7cda2ed1
+machine_hash: 435e84ef26dd8894adfedb7d65f3115e5c3a8ca987713a7b1a09f0f30e57155d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-02-you-can-now-access-project-settings-in-v0-using-the-in-chat-sidebar|Project
-  Settings in the Sidebar]]'
 - '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
   Interface Experience changes in rust-v0.65.0]]'
 - '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
   Custom Domains]]'
+- '[[Changes/AnythingLLM/2025-12-09-add-svelte-rendering-to-markdown-renderer-by-timothycarambat-in-https-github-com|add
+  svelte rendering to markdown renderer]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-04 · v0 · [[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy Custom Domains]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-add-svelte-rendering-to-markdown-renderer-by-timothycarambat-in-https-github-com|add svelte rendering to markdown renderer]]
 - Later: 2025-12-09 · Synthesia · [[Changes/Synthesia/2025-12-09-noticed-a-new-tab-on-the-sidebar-meet-ai-playground|Experiment with media creation in AI Playground]]
 <!-- chronolog:end -->
 

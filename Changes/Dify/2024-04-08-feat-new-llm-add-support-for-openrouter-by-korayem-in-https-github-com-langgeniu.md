@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0f28e920c6bdda6c312f87aea61b035bbb1c849e26a3dff3aaf141c876bd1dea
+machine_hash: 84253a954e3a81fb4ebc8c1e4480cb0841623917b51b9f1aaece24b06e7e1b0e
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat (new llm): add support for openrouter'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-29-4-model-support-changes-in-0-5-11|4 Model Support changes
-  in 0.5.11]]'
-- '[[Changes/Open WebUI/2024-03-31-3-model-support-changes-in-v0-1-116|3 Model Support
-  changes in v0.1.116]]'
+- '[[Changes/Superwhisper/2024-04-02-improve-visibility-of-language-model-formatting-feature|Improve
+  visibility of language model formatting feature]]'
+- '[[Changes/Superwhisper/2024-04-02-make-claude-3-haiku-available-to-superwhisper-pro-users|Make
+  Claude 3 Haiku available to Superwhisper Pro users]]'
 - '[[Changes/Ollama/2024-04-05-4-model-support-changes-in-v0-1-31|4 Model Support
   changes in v0.1.31]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'

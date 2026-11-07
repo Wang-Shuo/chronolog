@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc0386b32500d7772fa110c67de17bae4a3a63ee018ef7d56346a29d5b3b8d2c
+machine_hash: 43f39d14d336cf5efb9ff95f0ac7c0fe6eb71d22d7b23f66c43e00a092d90879
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -48,10 +48,9 @@ record:
     an HTTP…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
-  entitlements for Enterprise plans (beta)]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
   changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-persist-model-selection|Persist Model Selection]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
   support for the kimi-k2.7-code model]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-01-0-21-0-c7d001d2|kimi-code-2026-07-01-0-21-0-c7d001d2]]'

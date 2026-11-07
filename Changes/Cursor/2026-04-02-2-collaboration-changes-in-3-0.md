@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40660da7352eeb9f2f39ab09f8427ad6f79c83fe0532cf0ae5091c9c31cd30a6
+machine_hash: bed71375f2e463a071a82019bf72aa107762f1e8ea1221d0c740862bd2007ca7
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Collaboration changes in 3.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B
-  Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]"
-- '[[Changes/Dify/2026-03-27-test-workflow-reorganize-specs-into-tests-and-align-with-shared-test-infrastruct|test(workflow):
-  reorganize specs into tests and align with shared test infrastructure]]'
+- '[[Changes/Raycast/2026-03-27-teams-create-and-manage-webhook-commands|Teams : Create
+  and Manage Webhook Commands]]'
 - '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
   changes in rust-v0.118.0]]'
+- '[[Changes/Devin/2026-04-01-add-or-create-team|Add or Create Team]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -93,8 +92,8 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration changes in rust-v0.118.0]]
-- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-share-onedrive-files-with-a-copilot-generated-summary-in-windows-windows-onedriv|Share OneDrive files with a Copilot-generated summary in Windows Windows (OneDrive)]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-add-or-create-team|Add or Create Team]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-organization-terminology|Organization Terminology]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

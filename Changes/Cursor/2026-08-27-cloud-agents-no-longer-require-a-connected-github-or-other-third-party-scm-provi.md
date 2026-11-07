@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c68fc12ce76349f5cb93f9c2f644ec6220d636bb8c995b79a394d429c9f00acc
+machine_hash: 025f7b2298b16faa4a56ef95085d11dbbe6d5d6143aeeb55ab3ad435cf15b157
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
-  Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
   Slack as an agent]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-agent-mode-changes-in-v1-16-1|2 Agent Mode changes
+  in v1.16.1]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
   changes in v2.1.248]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30ff612e1700a90971f4b1de29adc0aeb9e6282d448ecb2edff816309da40702
+machine_hash: f03ae7763060ad9ecda4a0b135c1024e52bd99ed74743c988607dbe7cdb05aef
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Agent Mode changes in 0.8.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-2-agent-mode-changes-in-0-7-1|2 Agent Mode changes
-  in 0.7.1]]'
 - '[[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes
   in 0.8.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-15-agent-mode-changes-in-v1-0-0|15 Agent Mode
+  changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-4-agent-mode-changes-in-0-8-2|4 Agent Mode changes
   in 0.8.2]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff|openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff]]'

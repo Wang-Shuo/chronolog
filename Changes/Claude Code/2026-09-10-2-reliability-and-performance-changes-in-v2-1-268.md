@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3e64df3f37c64250bfccbe99f152dc93ebd8ba2491c293fe3ae7df9d965d859
+machine_hash: 8a5bd086526d85bb86aea2461a10e287d4953ef09f30aa8eac685ab47295f22d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4
-  Reliability and Performance changes in v2026.9.3]]'
-- '[[Changes/Qoder/2026-09-08-multitasking-performance-lower-memory-usage-and-reduced-messaging-overhead-when|Multitasking
-  performance: Lower memory usage and reduced messaging overhead…]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
   prompt input responsiveness]]'
+- '[[Changes/Krea/2026-09-09-minimax-h3-max-turbo-and-native-1080p|MiniMax H3 Max
+  Turbo and native 1080p]]'
+- '[[Changes/Superwhisper/2026-09-09-keyboard-x-local-model-speed-improvements|Keyboard
+  x Local Model speed improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]]
+- Earlier: 2026-09-09 · Superwhisper · [[Changes/Superwhisper/2026-09-09-keyboard-x-local-model-speed-improvements|Keyboard x Local Model speed improvements]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A plugin could exhaust worker memory with one declared number. The blob chunk…]]
 <!-- chronolog:end -->
 

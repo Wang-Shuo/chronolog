@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9d2b34b7107f3bcce0ac85db2b14b24df31a3307a20839c95e4a36220122d71d
+machine_hash: 3093bd98a8be676987fce346aa4e47e8ad5bde6f94fc5c0b5ab60c971bcc31ec
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,7 +57,8 @@ record:
   title: "**\U0001F6A7 Integration Testing Improvements**"
   type: change
 related_changes:
-- '[[Changes/Notion/2024-07-29-more-new-features|More new features!]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-you-can-now-choose-the-interval-after-which-apps-are-automatically-ter|Auto
+  Quit: You can now choose the interval after which apps are automatically terminated]]'
 - "[[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|\U0001F527
   Non-Streaming Support for Functions Plugin]]"
 - '[[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple
@@ -97,7 +98,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple charts to track everything]]
-- Later: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-custom-app-icons-personalize-your-apps-with-custom-icons-by-xuzuodong-in-7196-ht|Custom App Icons]]
+- Later: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-window-management-increased-timeout-period-to-15-s-for-apps-that-take-very-long|Window Management: Increased timeout period to 15 s for apps that take very long to open]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

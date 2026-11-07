@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15215712c72f6b371666d72cea95eca739e816182b4abc1d52e781f603138d8b
+machine_hash: 4db7abd6505dbeb70e67f0977f3c1343f0f573c437aa5e595d3c4217f113e9ab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action): move docker login above Set up QEMU in build-push action workflow]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-enhanced-oauth-introduced-custom-redirect-uri-support-for-oauth-behind-reverse-p|🔒 Enhanced OAuth]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-4-account-and-access-changes-in-v1-0-0|4 Account and Access changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

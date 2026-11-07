@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ceecdbfb66db4afa877f1c8365928cb21a78ca52b1d43ad783b3a112fa8a43a
+machine_hash: 0f639d3831239b6d320562cefdd412bd0540902642ee8a15fef04e247b943b60
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support rendering function calls and responses when sharing chat to markdown]]
-- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for teams]]
+- Later: 2025-10-10 · Devin · [[Changes/Devin/2025-10-10-knowledge-sharing-by-default|Knowledge Sharing by Default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

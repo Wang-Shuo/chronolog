@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7577bc87f6877517202a4b4ae254cad608a800945ac2fc7f83136f4640b0e4c
+machine_hash: f4688f5f2f9c669088a98495af60c69ecde427a23ae46d68e05d74a98ba34ae2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 6 Apps and Integrations changes in v0.1.10
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate
-  download MCP response to proto]]'
+- '[[Changes/Recraft/2025-07-09-with-mcp-ai-agents-like-claude-don-t-just-suggest-ideas-they-can-execute-them-di|With
+  MCP, AI agents like Claude don’t just suggest ideas]]'
 - '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
   Integrations changes in 1.6.0]]'
 - '[[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit,

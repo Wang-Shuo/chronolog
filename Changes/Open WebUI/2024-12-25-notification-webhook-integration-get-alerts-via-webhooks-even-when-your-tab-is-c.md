@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9fe3e9b24fa160628836671071a5a8910fe3aa9c1b8e1217811a93b45226fb07
+machine_hash: b56a9b17515d8907931e94b5a07eabd5338eb6b33622edad744fb54056fc4579
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,11 +58,11 @@ record:
   title: "**\U0001F310 Notification Webhook Integration**"
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
-  or disable for]]'
 - '[[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL
   Integration: Introducing Apache…]]'
 - '[[Changes/Replit/2024-12-20-integration-visibility|Integration visibility]]'
+- '[[Changes/Devin/2024-12-24-if-you-ve-noticed-devin-stuck-on-the-same-action-or-unable-to-sleep-wake-up-plea|If
+  you''ve noticed Devin stuck on the same action or unable to sleep/wake up, please…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-12-20 · Replit · [[Changes/Replit/2024-12-20-integration-visibility|Integration visibility]]
+- Earlier: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-if-you-ve-noticed-devin-stuck-on-the-same-action-or-unable-to-sleep-wake-up-plea|If you've noticed Devin stuck on the same action or unable to sleep/wake up, please…]]
 - Later: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-pipelines-outlet-hook-registration-addressed-an-issue-where-outlet-hooks-for-pip|🔗 Pipelines Outlet Hook Registration]]
 <!-- chronolog:end -->
 

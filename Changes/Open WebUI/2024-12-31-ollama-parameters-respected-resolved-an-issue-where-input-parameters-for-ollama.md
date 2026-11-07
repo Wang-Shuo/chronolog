@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a4da47300af6fd9a560f02d9f8509f862d284c5f112ce39ef310a3ebd4a17249
+machine_hash: 6b3805ce8860941bf1f35233e972a9f9073926184797a0886691878fdbbe28fc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-12-26 · DeepSeek API · [[Changes/DeepSeek API/2024-12-26-deepseek-chat|deepseek-chat]]
-- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-7-model-support-changes-in-0-15-0|7 Model Support changes in 0.15.0]]
+- Later: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-candidate-fix-for-huggingface-model-search-download-never-reachable-from-within|Candidate fix for huggingface model search, download never reachable from within…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

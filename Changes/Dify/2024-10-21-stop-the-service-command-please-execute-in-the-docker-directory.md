@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c151c477d7dc8104f400d965732f6da3c2e63922e0eab08b9e45176d338155a
+machine_hash: 395c84115601edf8460f4b769187ba2b8e98dfe4b318f337fcb50a81040f1b72
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
-  have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
 - '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
   cursor . with WSL should now be more stable]]'
+- '[[Changes/Raycast/2024-10-09-clipboard-history-disabling-update-history-after-action-now-only-applies-to-acti|Clipboard
+  History : Disabling Update History after action now only applies…]]'
 - '[[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow
   changes in 0.9.2]]'
 source_release: '[[Releases/Dify/dify-2024-10-21-0-10-0-github-180976661-70c09171|dify-2024-10-21-0-10-0-github-180976661-70c09171]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow changes in 0.9.2]]
-- Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-2-developer-workflow-changes-in-0-10-1|2 Developer Workflow changes in 0.10.1]]
+- Later: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-2-developer-workflow-changes-in-lm-studio-0-3-5|2 Developer Workflow changes in LM Studio 0.3.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

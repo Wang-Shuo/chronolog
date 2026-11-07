@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b21111ed90766de3ec53c82bac64d2dc1f6969562c7f753a7994b066aca5f1ff
+machine_hash: 534b4117c86bf85d04c44f5d203d022bf1c0da81f6f612ab9d1b702b7d8a0d75
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,10 @@ record:
     by 390KB…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-deploy-is-now-publish|''Deploy'' is now ''Publish'']]'
 - "[[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|\U0001F504
   Customize and share pipelines by importing/exporting via DSL for easier…]]"
+- '[[Changes/Recraft/2025-09-22-we-ve-launched-a-substack-to-share-practical-ai-tutorials-design-best-practices|Recraft
+  is now on Substack: Follow for creative tips and inspiration]]'
 - '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
   Move responses mocking helpers to a shared lib (♯3878)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'

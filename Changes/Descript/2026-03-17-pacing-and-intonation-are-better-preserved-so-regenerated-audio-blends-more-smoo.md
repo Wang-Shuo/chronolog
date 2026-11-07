@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa30d7c7811e06e9fe804f5bebae68bdc9c688432fac916891fc221dd1d8197c
+machine_hash: 3bff3bbb740f8fe0488459f3a2e1f1abd8989399f9cdbef4c7fb507df375f863
 product: descript
 product_name: Descript
 record:
@@ -43,7 +43,8 @@ record:
   title: Pacing and intonation are better preserved, so regenerated audio blends more…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator
+  : Added voice pack installation prompt when needed…]]'
 - '[[Changes/Descript/2026-03-17-media-library-files-now-transcribe-automatically|Media
   Library files now transcribe automatically]]'
 - '[[Changes/Descript/2026-03-17-improved-lip-sync-quality-for-translated-videos|Improved
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-packages|Packages]]
+- Earlier: 2026-03-16 · Raycast · [[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator : Added voice pack installation prompt when needed…]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice): implement speech-friendly response formatter]]
 <!-- chronolog:end -->
 

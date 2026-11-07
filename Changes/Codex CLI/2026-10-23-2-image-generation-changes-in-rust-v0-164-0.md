@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67babdb4d3828196db844a5ce93bb2a5684b4fcac99b030d7d8361186fb458dc
+machine_hash: 9facca80aa4101b727f7d7400b1b335276dbd50a676f3b1f12812cdca5b4a817
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Image Generation changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
-  changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
   generation with OAuth can retry using a supported OpenAI chat model…]]'
+- '[[Changes/Krea/2026-10-15-krea-3-api-in-early-access|Krea 3 API in early access]]'
 - "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
   Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -95,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|🧹 Clear Input Selections shortcut. Clearing the model override, selected tools…]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|🖌️ Images settings save. Admins can now save Images settings while Image…]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-chatgpt-image-retired|ChatGPT Image retired]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

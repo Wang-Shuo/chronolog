@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 153260a468ba69247a97dd69b719634f39b224976109ddd0b2ed90b6745770cb
+machine_hash: 36ba2fed707fcafc32254e242ef58131ffe7bf7e0e1057691811041cc524b910
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: A clear error message is displayed when the configured editor cannot be launched
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
-  a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
+- '[[Changes/Raycast/2026-04-15-general-improve-keyboard-handling-for-ime-input-method-editor-commonly-used-for|General
+  : Improve keyboard handling for IME (Input Method Editor) commonly used…]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
 - '[[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]'

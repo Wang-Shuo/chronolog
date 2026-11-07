@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99362d88985d9a7d3d5c514b2ab1d8f6531735b82cd06f9a21a987c8af000d2c
+machine_hash: 927e0ba3fe43abca5aa5db1166699e26533d339f6b5d29e17a58eea6b9862743
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 4 Developer Workflow changes in rust-v0.57.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|\U0001F50C
-  Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]"
-- '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
-  Workflow changes in v0.6.35]]'
+- '[[Changes/Raycast/2025-11-06-preferences-added-environment-variables-preference-command|Preferences
+  : Added Environment Variables preference command]]'
+- '[[Changes/Devin/2025-11-07-git-commit-authoring|Git Commit Authoring]]'
 - '[[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer
   Workflow changes in v0.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b|codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b]]'

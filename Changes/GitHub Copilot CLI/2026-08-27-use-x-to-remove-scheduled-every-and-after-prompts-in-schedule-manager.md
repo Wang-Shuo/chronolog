@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 740dfec20af591d7a2f38c60550257f2aa75f795c1725a392d3d8a39803c3f6e
+machine_hash: 9af6075b72710acc57d0ff829d437f44c9f9da426a70cf907731b37cf06574fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Use x to remove scheduled /every and /after prompts in Schedule Manager
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
-  Automation and Scheduling changes in v0.11.1]]'
-- '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
-  Add a managed gate for in-app local automation @copyberry]]'
+- '[[Changes/Devin/2026-08-26-finer-automation-schedule-controls|Finer Automation
+  Schedule Controls]]'
+- '[[Changes/Devin/2026-08-26-support-jira-previous-status-automation-triggers|Support
+  Jira previous\status Automation Triggers]]'
 - '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
   /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

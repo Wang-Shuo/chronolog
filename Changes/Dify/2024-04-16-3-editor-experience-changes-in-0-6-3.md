@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85ce5dac51642a5541e4bef8fc6fc2674e2fb60969224a569a0639f17e96990e
+machine_hash: f2dc568f3e9dc8f560d9d568e1bbf4b73a8a0614e0735a99a5fac7be50e7e294
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 3 Editor Experience changes in 0.6.3
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
-  changes in 0.6.1]]'
+- '[[Changes/Raycast/2024-04-10-added-an-action-to-edit-a-siri-shortcut|Added an action
+  to edit a Siri Shortcut]]'
 - '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
   UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
 - '[[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]'
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.3
 ## Nearby in Editor Experience
 
 - Earlier: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]
-- Later: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map for "whole" edit format]]
+- Later: 2024-04-19 · Superwhisper · [[Changes/Superwhisper/2024-04-19-rename-speakers-tab-to-segments|Rename speakers tab to Segments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

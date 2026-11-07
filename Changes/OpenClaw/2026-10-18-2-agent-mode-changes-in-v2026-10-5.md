@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0eec3d228779a46ec7ec235eab1f23c0b3a93090038e8212e7b7bffa59fff18d
+machine_hash: 41641284e2ba1748982162d92a05a08975937308a4c5a1bb1d78669f866dc3cd
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,10 +47,12 @@ record:
   title: 2 Agent Mode changes in v2026.10.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-environments-api|Environments API]]'
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
 - '[[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes
   in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer|AI
+  Chat : Agents you turn off in Settings no longer appear in the composer]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer-f2436c|AI
+  Chat : Agents you turn off in Settings no longer appear in the composer]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-18-v2026-10-5-fdda4c73|openclaw-2026-10-18-v2026-10-5-fdda4c73]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -90,7 +92,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes in v2026.10.4]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer-f2436c|AI Chat : Agents you turn off in Settings no longer appear in the composer]]
 - Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f47b25bb97646d363dd44656f299537963dd7edadd7dd1e032cff4433037a81
+machine_hash: b2ebd27ab20d9e24b97989f7c6d0b52c603e635b0bb930c42344fd5dbc2629e2
 product: openhands
 product_name: OpenHands
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
-- Later: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-chat-mode-is-faster-than-ever-fixing-the-bug-where-it-sometimes-just-stopped|Chat mode is faster than ever, fixing the bug where it sometimes just stopped]]
+- Later: 2025-03-19 · Raycast · [[Changes/Raycast/2025-03-19-ai-chat-improved-overall-performance-with-long-messages-and-attachments|AI Chat: Improved overall performance with long messages and attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

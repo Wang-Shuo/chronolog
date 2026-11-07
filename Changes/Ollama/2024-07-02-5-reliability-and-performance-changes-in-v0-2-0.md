@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad9dfc683fb647f5cfc40c2ddc7a56a20a34af4bf16a55f70faa7e641b2f03cd
+machine_hash: c5c9847e0ff265fa34373ad2333bd9fe4aa5ed5857b6bf2abed4fd8e0f886686
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Reliability and Performance changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability
-  and Performance changes in 0.6.11]]'
 - '[[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more
   of your top requests.]]'
 - '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
   Reliability and Performance changes in v0.1.46]]'
+- '[[Changes/Devin/2024-06-30-home-screen-upgrades-shortcuts|Home Screen Upgrades
+  & Shortcuts]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-02-v0-2-0-github-163643882-25f7f395|ollama-2024-07-02-v0-2-0-github-163643882-25f7f395]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,7 +103,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-06-22 · Ollama · [[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3 Reliability and Performance changes in v0.1.46]]
+- Earlier: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-home-screen-upgrades-shortcuts|Home Screen Upgrades & Shortcuts]]
 - Later: 2024-07-04 · Aider · [[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability and Performance changes in v0.42.0]]
 <!-- chronolog:end -->
 

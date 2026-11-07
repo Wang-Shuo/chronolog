@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 361a56eb6f89c8e034578158c1c7067de2d44e58209153877ccbcab0674b6027
+machine_hash: cffb64e494773b03f371e6f71db8bcf78bb1c55bb369b9d9e837f255ab047e0b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,12 @@ record:
   title: Chat search connectors (Pro)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps
-  and Integrations changes in 0.44.0]]'
 - '[[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack
   Integration (Beta) with Cloud OpenHands @malhotra5…]]'
 - '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
   and Integrations changes in 0.45.0]]'
+- '[[Changes/Raycast/2025-06-20-extensions-we-have-added-a-load-of-new-extensions-including-linear-github-notion|Extensions:
+  We have added a load of new extensions, including Linear, Github…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps and Integrations changes in 0.45.0]]
+- Earlier: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-extensions-we-have-added-a-load-of-new-extensions-including-linear-github-notion|Extensions: We have added a load of new extensions, including Linear, Github…]]
 - Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and Integrations changes in 1.5.0]]
 <!-- chronolog:end -->
 

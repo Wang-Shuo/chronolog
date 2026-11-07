@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e9680b5da7ae0c7871cfdcaeb0fb4b54915e56826b5ecc7457bbd354515c0f0
+machine_hash: 4539c7035717188f5f7310984ef105ade8874cdcf02a5c1045065a6723461261
 product: openhands
 product_name: OpenHands
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Developer Workflow changes in 0.44.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
-  those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Raycast/2025-06-17-misc-added-command-to-open-last-note|Misc: Added command
+  to Open Last Note]]'
 - '[[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s
   that? Basically; imagine an AI system that generates imagery in real-time]]'
 - '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git

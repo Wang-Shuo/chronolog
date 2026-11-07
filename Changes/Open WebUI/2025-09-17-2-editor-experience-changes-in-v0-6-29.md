@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 393c82792b5b7623a5e2d82d9ba26c45ed26f03b45526c48c475f844a9252df7
+machine_hash: 0371980b5705db80d88ad9dc5aee521f1c3fd74a45d55912bce1cf086bedeb68
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.29
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]
+- Later: 2025-09-18 · Raycast · [[Changes/Raycast/2025-09-18-2-editor-experience-changes-in-raycast-ios-1-0-15|2 Editor Experience changes in Raycast ios 1.0.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

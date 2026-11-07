@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4cc45bc0be5e2a50b02cd3cbf30287e232b8e803b8ea0f12c5d6c54e8adfcf5b
+machine_hash: 37dbb6c33f8aa48294f641f88195e15c0578cc20953b04158bd46d34f07178d1
 product: ollama
 product_name: Ollama
 record:
@@ -55,8 +55,8 @@ record:
     to coding…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
-  only reasoning effort no longer forces compaction in over-budget sessions]]'
+- '[[Changes/Krea/2026-10-20-agent-picks-up-context-from-your-past-sessions|Agent
+  picks up context from your past sessions]]'
 - '[[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source
   link) brings Recursive''s coding model to Ollama]]'
 - '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated

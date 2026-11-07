@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a8f1a0f5c33ba1d12002813fa037f4185d7f229a3abcfb87fffbaef83b1c6ae
+machine_hash: 1cdc3e7da316139e076cc32d06761cc65cdbe455f7ed2b1e32d08b36d8ab3316
 product: ollama
 product_name: Ollama
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding
-  Anthropic opus 4.1]]'
 - '[[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces
   the --oss flag so Codex CLI can be used with the new open-weight models…]]'
 - '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
   changes in v0.1.17]]'
+- '[[Changes/LM Studio/2025-08-05-by-default-filter-staff-picks-to-models-that-can-fit-on-your-device|By
+  default, filter Staff Picks to models that can fit on your device]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-05-v0-11-0-github-237715736-1e21e755|ollama-2025-08-05-v0-11-0-github-237715736-1e21e755]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support changes in v0.1.17]]
+- Earlier: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-by-default-filter-staff-picks-to-models-that-can-fit-on-your-device|By default, filter Staff Picks to models that can fit on your device]]
 - Later: 2025-08-06 · Cline · [[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support changes in v3.20.11]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc556b6d0d53b8c5f1b4620bc85fa7a0d837cd32ccf12ac49bf6b699b6717c28
+machine_hash: e671da623f221e5d22f1b2c0fade1e5a5c88c744116b2b3cde6b50eb00e65bfd
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
     user experience
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-11-2-reliability-and-performance-changes-in-0-6-2|2 Reliability
-  and Performance changes in 0.6.2]]'
-- '[[Changes/Dify/2024-04-16-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
-  update primarily focuses on enhancing system stability and improving user experience]]'
-- "[[Changes/Open WebUI/2024-04-16-docker-optimization-updated-docker-image-build-process-to-utilize-uv-for-signifi|\U0001F433
-  Docker Optimization]]"
+- '[[Changes/Superwhisper/2024-04-19-progress-bar-speed-adapts-to-estimate-time-more-closely|Progress
+  bar speed adapts to estimate time more closely]]'
+- '[[Changes/Superwhisper/2024-04-19-performance-improvements-for-history-open|Performance
+  improvements for History open]]'
+- '[[Changes/Superwhisper/2024-04-20-ui-performance-improvements-for-models-tab|UI
+  performance improvements for models tab]]'
 source_release: '[[Releases/Dify/dify-2024-04-22-0-6-4-github-152123987-3926aab5|dify-2024-04-22-0-6-4-github-152123987-3926aab5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-04-16 · Open WebUI · [[Changes/Open WebUI/2024-04-16-docker-optimization-updated-docker-image-build-process-to-utilize-uv-for-signifi|🐳 Docker Optimization]]
-- Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Earlier: 2024-04-20 · Superwhisper · [[Changes/Superwhisper/2024-04-20-ui-performance-improvements-for-models-tab|UI performance improvements for models tab]]
+- Later: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-commands-improve-text-selection-reliability-and-speed|AI Commands: Improve text selection reliability and speed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

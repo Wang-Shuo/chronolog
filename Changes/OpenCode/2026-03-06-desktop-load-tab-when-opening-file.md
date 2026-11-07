@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d73467e61d9252b28349819705bc8d9974e7748c24c0c81c5e7b7f0c751743cf
+machine_hash: 48787dae91e378e122b94478b65cf059d0436afee6365b2adbf1a8a4a556a8b2
 product: opencode
 product_name: OpenCode
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To commemorate GitHub Copilot CLI reaching general availability last week, we're…]]
-- Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-preserve-original-line-endings-in-edit-tool|Preserve original line endings in edit tool]]
+- Later: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-session-status-in-browser-tab|Session Status in Browser Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

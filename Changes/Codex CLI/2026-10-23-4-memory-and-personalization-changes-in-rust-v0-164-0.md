@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e41ba21129c5c93ec46ead021f2ddd08a4688f9cf501d1f28b9ee6e267d63fa9
+machine_hash: 8eeae7eb64c8b6e457d353be21917e8594aca544b8312e253845b09e9d3e0e0f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule
-  inspection during recovery]]'
-- '[[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory
-  search recognizes more accented and Korean spellings and keeps keyword search…]]'
 - '[[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4
   Memory and Personalization changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r|This
+  update brings new commands, useful improvements, and plenty of fixes across Raycast]]'
+- '[[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r-e70c05|This
+  update brings new commands, useful improvements, and plenty of fixes across Raycast]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4 Memory and Personalization changes in v2026.10.6]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r-e70c05|This update brings new commands, useful improvements, and plenty of fixes across Raycast]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory and Personalization changes in 1.18.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f1f216a600cbbd79a52e124381482ad506125b8236ba0da9fc636d3f07848005
+machine_hash: fae5a33e5e8d6dd67e9074fe5841e01cdb29ddb5bff019ee73efd6827e04a9d0
 product: descript
 product_name: Descript
 record:
@@ -46,8 +46,8 @@ record:
   title: Speaker label dropdown revamp
   type: change
 related_changes:
-- '[[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us|
-  Repair audio drift: Added a new file repair…]]'
+- '[[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime
+  audio soundwave visualization]]'
 - '[[Changes/Descript/2023-10-17-instant-speaker-creation|Instant speaker creation]]'
 - '[[Changes/Descript/2023-10-17-overdub-generation-improvements|Overdub generation
   improvements]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-09-28 · Descript · [[Changes/Descript/2023-09-28-repair-audio-drift-added-a-new-file-repair-tool-https-help-descript-com-hc-en-us| Repair audio drift: Added a new file repair…]]
-- Later: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words: Remove from transcript]]
+- Earlier: 2023-10-11 · Superwhisper · [[Changes/Superwhisper/2023-10-11-realtime-audio-soundwave-visualization|Realtime audio soundwave visualization]]
+- Later: 2023-10-25 · Superwhisper · [[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio wave larger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

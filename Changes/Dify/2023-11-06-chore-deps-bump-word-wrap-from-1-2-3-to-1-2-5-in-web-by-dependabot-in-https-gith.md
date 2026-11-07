@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71683954b417e6168b918037f99eff2ef889f4c0446be5b942aaaf2ff1aa3550
+machine_hash: 34f7c3b6617316d4aa1047ba3a7d298b39a6717f0d5f47d3620ef2b49b6f9f90
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,9 @@ record:
   title: 'chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
-  changes in v0.16.0]]'
 - '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
   changes in v0.16.1]]'
+- '[[Changes/Raycast/2023-11-02-smarter-quick-ai|Smarter Quick AI]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
 source_release: '[[Releases/Dify/dify-2023-11-06-0-3-29-github-128131785-01fb4204|dify-2023-11-06-0-3-29-github-128131785-01fb4204]]'

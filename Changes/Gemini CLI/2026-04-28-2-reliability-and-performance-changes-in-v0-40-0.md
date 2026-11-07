@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d47f9ce80b12917a5780f126af43005d96bf908f81b52a655363cd8da9e1c9d5
+machine_hash: ec51ad2258cf0d8cfb3314539508b86ec22c78ba167ac5c219d26472158deb9e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory
-  usage logging]]'
 - '[[Changes/Open WebUI/2026-04-24-3-reliability-and-performance-changes-in-v0-9-2|3
   Reliability and Performance changes in v0.9.2]]'
+- '[[Changes/Raycast/2026-04-27-search-menu-bar-items-added-fuzzy-search-to-find-menu-items-faster|Search
+  Menu Bar Items : Added fuzzy search to find menu items faster]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'

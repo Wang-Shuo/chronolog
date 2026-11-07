@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82314d3d9088de3a6b9ed1776dc51cd49663c6aaf2e59dfe814add27e9663912
+machine_hash: 7663e27af91e717dfde30527abb9222710093e538653d3e350bafce1b27d4c28
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
     blocking…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️
-  Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]'
-- '[[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added
-  CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]'
 - '[[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2
   Automation and Scheduling changes in rust-v0.113.0]]'
+- '[[Changes/Devin/2026-03-11-schedule-run-as-user|Schedule: Run as User]]'
+- '[[Changes/Superwhisper/2026-03-12-new-recording-retention-setting-automatically-clean-up-old-recordings-on-a-confi|New
+  recording retention setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2 Automation and Scheduling changes in rust-v0.113.0]]
+- Earlier: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-new-recording-retention-setting-automatically-clean-up-old-recordings-on-a-confi|New recording retention setting]]
 - Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci: Add weekly schedule for pip and uv ecosystems]]
 <!-- chronolog:end -->
 

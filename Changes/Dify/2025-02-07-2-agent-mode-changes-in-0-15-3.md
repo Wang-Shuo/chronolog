@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52f51430e9f77ad6e2deedf4612587a65e0081ef0f282d8cc86de26f995bc6e9
+machine_hash: 002b8f9dae435201907a2f5c0d997ec3fc26a88ea66e2b86be04a0cf7e45e739
 product: dify
 product_name: Dify
 record:
@@ -45,7 +45,8 @@ record:
   title: 2 Agent Mode changes in 0.15.3
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-01-29-4-agent-mode-changes-in-v1-4-0|4 Agent Mode changes
+  in v1.4.0]]'
 - '[[Changes/Replit/2025-01-31-more-performant-agent-in-asia|More performant Agent
   in Asia]]'
 - '[[Changes/ElevenLabs/2025-02-04-agents-platform|Agents Platform]]'

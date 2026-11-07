@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 441b057b68c61f4b40b0a5e558167c54cd013f9ec4f3a60e9c50b2ab98f5d9ac
+machine_hash: e1161680d6e41d2c8880390ff0a401d0ad8d2b84154cc7ceab34182c7c76997d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -95,10 +95,9 @@ record:
   title: 9 Apps and Integrations changes in v2026.8.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2
-  Apps and Integrations changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
   Apps and Integrations changes in rust-v0.152.0]]'
+- '[[Changes/Krea/2026-09-01-krea-plugin-for-chatgpt|Krea plugin for ChatGPT]]'
 - '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
   from a pasted API key]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
@@ -163,7 +162,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool from a pasted API key]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]]
+- Later: 2026-09-01 · Raycast · [[Changes/Raycast/2026-09-01-extensions-restored-raycast-api-1-x-compatibility|Extensions : Restored @raycast/api 1.x compatibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

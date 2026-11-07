@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b44c72ba86b47805fd16805517055431e3627b5b1544a8ab750ae7e2d20364bb
+machine_hash: 3cad98c0786daf20409e5220b2c02085f470d765d681a0e4a532a6c1f44b4c61
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Add runtime support for dynamic MCP server updates, reference skills, replay…
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-descript-in-claude-and-chatgpt|Descript in Claude
-  and ChatGPT]]'
-- '[[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2
-  Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
   in place]]'
+- '[[Changes/Devin/2026-06-12-ultra-and-fast-mid-session-toggles|ultra and !fast Mid-Session
+  Toggles]]'
+- '[[Changes/Devin/2026-06-12-custom-oauth-for-marketplace-mcp-servers|Custom OAuth
+  for Marketplace MCP Servers]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-12-0-14-1-5e25c990|kimi-code-2026-06-12-0-14-1-5e25c990]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
+- Earlier: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-custom-oauth-for-marketplace-mcp-servers|Custom OAuth for Marketplace MCP Servers]]
 - Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added cwd support for local MCP servers so they can start from a workspace-relative…]]
 <!-- chronolog:end -->
 

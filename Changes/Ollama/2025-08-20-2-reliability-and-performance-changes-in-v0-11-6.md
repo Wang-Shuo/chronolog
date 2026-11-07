@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bff856f13fe6f26943cdbd615f5b227f8c70f1aa810e6af0c46f8667c8b99742
+machine_hash: 2aaa704dcbe47ec075fef7c17ea4c449ea84483bf4cbe3e94ad09ed21dc4cea8
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in v0.11.6
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2
-  Reliability and Performance changes in v0.11.5]]'
 - '[[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This
   week was focused on bug fixes and performance improvements]]'
+- '[[Changes/Devin/2025-08-16-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/ElevenLabs/2025-08-20-global-tts-api-preview|Global TTS API preview]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-20-v0-11-6-github-241122680-bc14692f|ollama-2025-08-20-v0-11-6-github-241122680-bc14692f]]'
 source_type: github_releases

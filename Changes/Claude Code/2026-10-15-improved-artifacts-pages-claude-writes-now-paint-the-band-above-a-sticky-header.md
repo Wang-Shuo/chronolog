@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74cb9f05dfbdf7f2754e37f3bae8325832da791735b15f8869fa5b8df14086b4
+machine_hash: 8b868e76c3c853b85561081825509a64fa5a18742487d3c0e27f8c63f1cd5322
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
     header…'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
-  prototype, and build with Google Antigravity in the Gemini macOS app]]'
+- '[[Changes/LM Studio/2026-10-13-added-cuda-13-support-on-windows-arm|Added CUDA
+  13 support on Windows ARM]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
 - '[[Changes/Kimi Code/2026-10-14-add-kimi-app-path-to-open-a-new-desktop-chat-in-the-current-or-specified-directo|Add

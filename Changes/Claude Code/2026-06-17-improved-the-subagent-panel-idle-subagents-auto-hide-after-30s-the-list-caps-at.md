@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 785ac86eb7e6e9989c1ce561fc10c2d3daa3f3d1601dbf86358f2f9a8b427977
+machine_hash: 20865c689630750ce66a180ae63840cd14d5fc95bbb1b46a533574a066542b6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the subagent panel
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent
-  Mode changes in Kimi Code 0.15.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
 - '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
   session shutdown from resuming the agent when stopping background tasks]]'
+- '[[Changes/Superwhisper/2026-06-16-4-agent-mode-changes-in-superwhisper-macos-2-16-1|4
+  Agent Mode changes in Superwhisper macOS 2.16.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent session shutdown from resuming the agent when stopping background tasks]]
+- Earlier: 2026-06-16 · Superwhisper · [[Changes/Superwhisper/2026-06-16-4-agent-mode-changes-in-superwhisper-macos-2-16-1|4 Agent Mode changes in Superwhisper macOS 2.16.1]]
 - Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local and cloud]]
 <!-- chronolog:end -->
 

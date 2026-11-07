@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6a86bcab722c3034420f5567127667db9ba922e3dac86e6e62824273411cf48
+machine_hash: f760c32e2372918bfb2bcaf388a17cb41eb18505a6cf1afb1423d08d6fe5e931
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in Kimi Code 0.10.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
-  explicitly listing Grep/Glob now provides the dedicated search tools…]]'
+- '[[Changes/Raycast/2026-06-03-file-search-added-open-in-finder-command-when-entering-a-file-path-in-the-root-s|File
+  Search : Added “Open In Finder” command when entering a file path in the root search]]'
 - '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
   added \$ escape syntax to include a literal $ before a digit in command bodies]]'
 - '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
@@ -90,7 +90,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6 Developer Workflow changes in rust-v0.137.0]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11 Developer Workflow changes in v1.0.60]]
+- Later: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-devin-review-action-required-flags-on-prs-by-default|Devin Review: Action-Required Flags on PRs by Default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

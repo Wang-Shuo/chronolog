@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d99ae10b4cac931540b764d95a30308776e690cf24e6d562217f3f3dc373b51
+machine_hash: 1c5b4b7b1cab87437de022289ea5e9b4b013e6231d39d2f31fee016ce43251fb
 product: openhands
 product_name: OpenHands
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4 Automation and Scheduling changes in v2026.10.8]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]]
+- Later: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-automations|Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

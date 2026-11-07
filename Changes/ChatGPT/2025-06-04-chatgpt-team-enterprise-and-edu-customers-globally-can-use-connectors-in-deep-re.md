@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fbba85d1529308659a1d68d0600af15bda6dc9dc774d712f7ff11b37ebb903f
+machine_hash: 11ddc249382e88a8062a0c7d985d2036b288b04976a0c2f5d2e7b5b5bfe10b45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,8 +59,8 @@ record:
     deep…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
-  connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/LM Studio/2025-05-23-share-links-with-others-directly-or-on-discord-reddit-x-no-way-to-browse-presets|Share
+  links with others directly, or on Discord / Reddit / X…]]'
 - '[[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search
   and Browsing changes in v0.6.11]]'
 - '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines

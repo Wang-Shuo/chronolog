@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f957b75153029cb9e8d5ba0f77c86ad4598e24cc5b12e4d8a3c06516305f424e
+machine_hash: 82c14fcb1f7de073449708259e35968e47e40c564fbd981367438cbf5d6baeb5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,11 +42,12 @@ record:
   title: '**✨ Various UI Styling Issues**'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-introducing-underlord|Introducing Underlord]]'
-- '[[Changes/Descript/2024-06-04-the-new-and-improved-sidebar|The new and improved
-  sidebar]]'
-- '[[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and
-  Highlight reels]]'
+- '[[Changes/Raycast/2024-06-06-ai-chat-presets-are-now-available-in-root-search-so-you-can-quickly-open-a-new-c|AI
+  Chat Presets are now available in root search]]'
+- '[[Changes/Superwhisper/2024-06-06-use-system-preferred-language-in-onboarding|Use
+  system preferred language in onboarding]]'
+- '[[Changes/Superwhisper/2024-06-06-simplify-onboarding-steps|Simplify onboarding
+  steps]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-10-v0-3-0-github-159582186-c823064c|open-webui-2024-06-10-v0-3-0-github-159582186-c823064c]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and Highlight reels]]
+- Earlier: 2024-06-06 · Superwhisper · [[Changes/Superwhisper/2024-06-06-simplify-onboarding-steps|Simplify onboarding steps]]
 - Later: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-a-tidier-sidebar|A tidier sidebar]]
 <!-- chronolog:end -->
 

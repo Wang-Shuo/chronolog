@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 84875f85dc4942d532c8e2846d865cfcd93ff064dd0cce916e791c17646e91f3
+machine_hash: 56ffa207406bb3e3d10c8c6019a8bae5bb7097f1eee451b68ff43aa9c68db960
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Voice input
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and
-  Audio changes in v0.9.6]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
-  the /voice command to dictate prompts using local speech-to-text models]]'
+- '[[Changes/Raycast/2026-06-04-teams-can-now-share-ai-agents-ai-commands-and-dictation-styles-across-the-organi|Teams
+  can now share AI Agents, AI Commands, and Dictation Styles across…]]'
+- '[[Changes/Raycast/2026-06-04-dictation-dictate-dictate-to-note-dictation-history-and-other-dictation-commands|Dictation
+  : Dictate Dictate to Note Dictation History and other dictation commands…]]'
 - '[[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share
   audio from iOS Voice Memos]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'

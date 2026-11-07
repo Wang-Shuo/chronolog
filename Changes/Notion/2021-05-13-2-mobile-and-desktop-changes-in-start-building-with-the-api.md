@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b9bb1a07ee582e2817b00bb68664c1aa8bba88d35f50285413417db909eee7e
+machine_hash: 20a578ac695432993f73fb5f063196c56031c9c20ddbe62fb9bbf66c8237ab0d
 product: notion
 product_name: Notion
 record:
@@ -92,7 +92,7 @@ Source: https://www.notion.com/releases/2021-05-13
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2021-05-11 · Descript · [[Changes/Descript/2021-05-11-descript-now-supports-live-transcription-https-help-descript-com-hc-en-us-articl|Live Transcription in Windows App]]
-- Later: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-brand-new-formatting-toolbar-on-ios-android|Brand new formatting toolbar on iOS & Android]]
+- Later: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-contacts-added-action-to-call-phone-number-with-iphone|Contacts: Added action to call phone number with iPhone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

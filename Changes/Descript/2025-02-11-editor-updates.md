@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ee0f2af321be8cededac0fd02f00f986130efbc1317eceb4e07968a7f84a937
+machine_hash: b4dea4743057d9d80460f7d8975c540f8892b636edf9b9c09df86f1a0a6abe58
 product: descript
 product_name: Descript
 record:
@@ -51,7 +51,8 @@ record:
   title: Editor updates
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-01-27-api|API]]'
+- '[[Changes/LM Studio/2025-01-30-new-experimental-api-send-reasoning-content-in-a-separate-field-in-chat-completi|New
+  Experimental API]]'
 - '[[Changes/Replit/2025-01-31-de-cluttered-diffs|De-cluttered diffs]]'
 - '[[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt
   editor dark theme]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: adf200099c47f7de00a4231f32bd54260c3032afa662ed284edd66748853b0e2
+machine_hash: c0fc18f69bc514a20385d5b63e9ab332c433b5e806a4eeed49be353aec924db9
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,8 +61,7 @@ record:
   title: Improved auto mode safety
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
-  with /in-cloud]]'
+- '[[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]'
 - '[[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode
   changes in rust-v0.141.0]]'
 - '[[Changes/Gemini CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0|2 Agent Mode changes

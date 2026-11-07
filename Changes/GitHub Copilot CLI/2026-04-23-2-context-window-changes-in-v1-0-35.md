@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0831f748293b8b46d052deadd7a5f78952689edf38ef5400aaaa9af999aa138
+machine_hash: a92b61f79101b51ad51128be19ec1f10748917f468bfe4c31c7d4dd49b6b1e9f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Context Window changes in v1.0.35
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
-  changes in v0.9.0]]'
+- '[[Changes/Superwhisper/2026-04-22-context-menu-on-settings-modes-items-right-click-with-duplicate-delete-and-set-a|Context-menu
+  on Settings - Modes items right-click with duplicate, delete and set active]]'
 - '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794
   Organize context fragments @pakrym-oai]]'
 - '[[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context

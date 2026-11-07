@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7461e9a5de79df1376db8d3b05902631279d59fef3021289f3a8bc0dea452eaf
+machine_hash: 332fc4073838ced87d10aa0b2430d96d28d735e5c73102f279eca82ee1e5c686
 product: gemini
 product_name: Gemini
 record:
@@ -75,12 +75,12 @@ record:
   title: Let skills in Gemini tackle your most repetitive tasks
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
 - '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
   Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
 - '[[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs
   V4]]'
+- '[[Changes/Devin/2026-09-30-voice-call-bar-follows-the-composer|Voice Call Bar Follows
+  the Composer]]'
 source_release: '[[Releases/Gemini/gemini-2026-09-30-2026-09-30-863545c9|gemini-2026-09-30-2026-09-30-863545c9]]'
 source_type: gemini_changelog
 theme: voice
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-29 · Runway · [[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs V4]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-voice-call-bar-follows-the-composer|Voice Call Bar Follows the Composer]]
 - Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77435a4947bbf7b9975fecc9ca3df5374b8b21825b7675b77273d3afa3ff3e6f
+machine_hash: 55b8283bbbf99500f62b431209f306fd97be8ae30d1358c7f2df23afca31bcc0
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This month, we have a champagne problem]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability and Performance changes in 1.13.3]]
+- Later: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-4-reliability-and-performance-changes-in-superwhisper-windows-1-3-4|4 Reliability and Performance changes in Superwhisper Windows 1.3.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbc6c58f69b9a248ebb3534d8771aedd24eff91c80e9b17f498e40e1d74fd3d1
+machine_hash: c031003167ca519f8bbf4dcaf723c438711d7a3477f9b1d8d9725eee5730fbd5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 ## Nearby in Agent Mode
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in 1.3]]
-- Later: 2025-07-31 · OpenHands · [[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved the resolver summary generation by instructing the agent to focus only…]]
+- Later: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-input-dropdown-cleanup|Input Dropdown Cleanup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

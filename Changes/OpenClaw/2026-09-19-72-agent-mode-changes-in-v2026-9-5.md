@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b3bc4a94298b1b81bed7d76c4e66975baf877670d9880afb2a543f69fb2a245
+machine_hash: fee4c9cecd6403234a29eb00096e263decfd98cb1230a224fea44ed1b24d891b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -670,7 +670,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-19 · Kimi Code · [[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The agent no longer assumes the current working directory is the project root]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-swe-2-research-preview-in-the-agent-selector|SWE-2 Research Preview in the Agent Selector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

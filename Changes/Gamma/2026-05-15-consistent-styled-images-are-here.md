@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a945107ad890af27f0bfe6bf4e28b01aaf5140689e2603223e8870764c2def4b
+machine_hash: 816389104f25ae38d80e6a7511a5fc690637d5361a6f3283c9e626acf33a60f3
 product: gamma
 product_name: Gamma
 record:
@@ -47,8 +47,8 @@ record:
   title: Consistent styled images are here
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper
-  presentation mode!]]'
+- '[[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-built-in-agent-for-document-generation-https-docs-anythingll|AnythingLLM
+  adds a new built-in agent for Document…]]'
 - '[[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]'
 - '[[Changes/Gamma/2026-05-15-your-fonts-travel-with-your-cards-now|Your fonts travel
   with your cards now]]'

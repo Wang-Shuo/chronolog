@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ad11847a3c31b06800287db2fd201d3f5dfd7f61a6920abccf524be0ec0ed2b8
+machine_hash: f379432ade08f4c77f495302d9c1a5de777fbe5a9e3dac9c6a8c1095f18b87a6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,10 +62,10 @@ record:
   title: New Schemas
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
-  Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/Raycast/2026-03-20-ai-tightened-logic-for-claude-models-to-address-empty-responses-in-chat|AI:
+  Tightened logic for Claude models to address empty responses in chat]]'
 - '[[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support
   changes in v1.3.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-23-2026-03-23-c7dac693|elevenlabs-2026-03-23-2026-03-23-c7dac693]]'

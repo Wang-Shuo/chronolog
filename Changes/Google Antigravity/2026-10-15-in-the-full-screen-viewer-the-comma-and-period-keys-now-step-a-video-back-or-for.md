@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 824c59f375c23826f0a55290f461372042356462d1f777527c50d0ae630758d0
+machine_hash: a1b4dcf62c39a82dc4f60a75ccaf1e4f05b2e7dadf0a388b8bd62763b157208b
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8 Interface Experience changes in rust-v0.163.0]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface Experience changes in v0.12.3]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-explain-and-search-missing-repositories-on-github|Explain and Search Missing Repositories on GitHub]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

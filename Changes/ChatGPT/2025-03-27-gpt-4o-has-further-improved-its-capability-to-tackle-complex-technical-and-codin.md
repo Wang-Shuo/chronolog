@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 091d89a2e137f1a77ba6d6cb991c1902bddc79b174c7f8e57dd6525a6da8145b
+machine_hash: 4b791008b6f7b13e1cc9e763cd463a3709d9861b5d762a7270bccfdeaedc73b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,7 @@ record:
   title: Smarter problem-solving in STEM and coding
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
-  in v3.8.3]]'
+- '[[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]'
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT
   makes improvements to GPT-4o—it now feels more intuitive, creative…]]'
 - '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy”
@@ -86,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
-- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-please-note|Please Note]]
+- Earlier: 2025-03-26 · Superwhisper · [[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model Support changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

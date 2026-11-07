@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f86acac5711e82743cdc65ea6ffaebb1cb9234a01e62e4ff208466af8654184b
+machine_hash: cc38623563a0087d15fcf0f99a113ed65f8f49671a8de45368d51a180773e60c
 product: heygen
 product_name: HeyGen
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-11-29 · HeyGen · [[Changes/HeyGen/2025-11-29-we-ve-redesigned-how-video-translation-works-with-two-distinct-engines-built-for|We've redesigned how video translation works with two distinct engines built…]]
-- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input changes in 1.11.0]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-2-multimodal-input-changes-in-v1-9-1|2 Multimodal Input changes in v1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

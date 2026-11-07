@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26adca971bd5d9d2aef161b3006f5deb78855227d93d5bbb2b52bb9682f796f4
+machine_hash: b6a0edd11e781638a0ea0f9adc373f3dcdbd06f19d224da9d962eeb1dde6ade3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
-  timelines load much faster and avoid flicker or scroll jumps]]'
-- '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
-  conversation sharing]]'
+- '[[Changes/Raycast/2026-06-18-root-search-improved-search-latency-when-contacts-are-included-in-root-search|Root
+  Search : Improved search latency when Contacts are included in root search]]'
+- '[[Changes/Raycast/2026-06-18-core-improve-pasting-action-reliability-and-performance|Core:
+  improve pasting action reliability and performance]]'
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
   stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

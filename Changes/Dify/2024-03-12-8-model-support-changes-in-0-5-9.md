@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 045c142c58b908a2a63aadf05529f32c6fe2267e7f0be0ca6b685d58326e8950
+machine_hash: b551e610cf63d7ba1e1d999e4ee28cfa8a97eb4c70310b06a950f8af2e6c34ea
 product: dify
 product_name: Dify
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.9
 ## Nearby in Model Support
 
 - Earlier: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
-- Later: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-16-model-support-changes-in-0-5-10|16 Model Support changes in 0.5.10]]
+- Later: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-segmented-transcripts-in-history-for-all-models|Segmented transcripts in history for all models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

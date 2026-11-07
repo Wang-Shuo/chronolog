@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f550f18e70b3fa21410fb5ad42b2097de89ab996c8b7ecf9d08ab185371834d2
+machine_hash: c1708894191d1abdb0c9efaf6af25e7bd0294894ca95170ab050b724ef3d114c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,7 @@ record:
   title: Improved dictation visuals
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️
-  Voice dictation shortcut. Users can now toggle voice dictation using…]]'
+- '[[Changes/Superwhisper/2026-02-23-realtime-streaming|Realtime Streaming]]'
 - '[[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate
   prompts by holding the spacebar to record and transcribe voice input…]]'
 - '[[Changes/Codex CLI/2026-02-25-2-voice-and-audio-changes-in-rust-v0-105-0|2 Voice

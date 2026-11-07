@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a92214ef0fbcd9e11ae8d0b7d0730f456f67601130178673042bdde69b7bae4
+machine_hash: 79278217ff6973c2ea37ebb51bd26c2b5f0d553d6c2f2f490e36dbf222ba0d1f
 product: opencode
 product_name: OpenCode
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Apps and Integrations changes in v1.17.7
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps
-  and Integrations changes in v1.17.4]]'
+- '[[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-macos-0-64|2
+  Apps and Integrations changes in Raycast macos 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
   Apps and Integrations changes in v1.0.62]]'
 - '[[Changes/OpenCode/2026-06-13-4-apps-and-integrations-changes-in-v1-17-6-1|4 Apps

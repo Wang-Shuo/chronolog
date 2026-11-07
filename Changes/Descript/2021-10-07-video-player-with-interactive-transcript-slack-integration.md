@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b5c6eb33dbb9944e1aa0e60fc632733af724c9ecb3b2c120d2051d7907e6aafe
+machine_hash: 6f7c0c8356911e9849e18c2bf518a3279bf064b8e4056bb4ae140a9365d3a7df
 product: descript
 product_name: Descript
 record:
@@ -51,8 +51,8 @@ record:
   title: Video player with interactive transcript + Slack integration
   type: change
 related_changes:
-- '[[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration
-  with Tactiq]]'
+- '[[Changes/Raycast/2021-09-10-2-apps-and-integrations-changes-in-raycast-macos-v1-1-23-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.23.0]]'
 - '[[Changes/Notion/2021-09-21-api-integrations|API integrations]]'
 - '[[Changes/Descript/2021-10-07-we-ve-added-a-new-publishing-integration-https-help-descript-com-hc-en-us-articl|Descript
   adds a new publishing…]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-api-integrations|API integrations]]
-- Later: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace member can add integrations]]
+- Later: 2021-10-13 · Raycast · [[Changes/Raycast/2021-10-13-extensions-api-store-beta|Extensions API & Store Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

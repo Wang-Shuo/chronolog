@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a294cb1268ef680e1d40c472a2670dba0155e77c85affcbdf4813352e3b17e1b
+machine_hash: 47e3ec4e1452b1e27b16000ac79912d74cad5bacc1dd7454d5b03923cad6cca5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-changed-the-default-model-back-to-sonnet-4-since-sonnet-4-5-hasn-t-rolled-out-to|Changed the default model back to Sonnet 4 since Sonnet 4.5 hasn't rolled out to all…]]
-- Later: 2025-09-29 · Windsurf · [[Changes/Windsurf/2025-09-29-claude-sonnet-4-5|Claude Sonnet 4.5]]
+- Later: 2025-09-29 · Superwhisper · [[Changes/Superwhisper/2025-09-29-claude-sonnet-4-5-ui-stability-improvements|Claude Sonnet 4.5, UI & Stability Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94fa413d95532bd73b4a7291681c173e4bf54ec2210c4374f6deb1688d333fed
+machine_hash: 8ed1afdf652594274dfb77c3c937baa6745c64f8c54735736a5cef2d5b3be496
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,7 +49,8 @@ record:
   title: 2 Model Support changes in v0.5.6
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]'
+- '[[Changes/LM Studio/2025-01-20-new-kv-cache-quantization-for-llama-cpp-models-requires-llama-cpp-1-9-0-runtime|New:
+  KV Cache quantization for llama.cpp models (requires llama.cpp/1.9.0+ runtime)]]'
 - '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
   VS Code LM API provider to run models provided by other VS Code extensions…]]'
 - '[[Changes/Dify/2025-01-22-8-model-support-changes-in-0-15-2|8 Model Support changes

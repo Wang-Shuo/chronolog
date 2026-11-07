@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d354fc9c93c16d4e9b8bd529a39799884f6911d78ab3b05c5a3e11addbe78b90
+machine_hash: 5602fcbb10d767d17e2274ec81533cbc944a6f49d45079aa3a36dc8715c4eb0f
 product: gamma
 product_name: Gamma
 record:
@@ -67,12 +67,12 @@ record:
   title: Brainstorm, generate, and edit images in chat
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner
-  image generation layout in the MLX runner]]'
 - '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
   changes in v0.9.5]]'
 - '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
   generation]]'
+- '[[Changes/Recraft/2026-05-14-we-ve-just-launched-v4-1-our-latest-image-generation-model-it-carries-v4-s-visua|We’ve
+  just launched V4.1, our latest image generation model]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
 source_type: gamma_changelog
 theme: image-generation
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image generation]]
+- Earlier: 2026-05-14 · Recraft · [[Changes/Recraft/2026-05-14-we-ve-just-launched-v4-1-our-latest-image-generation-model-it-carries-v4-s-visua|We’ve just launched V4.1, our latest image generation model]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 

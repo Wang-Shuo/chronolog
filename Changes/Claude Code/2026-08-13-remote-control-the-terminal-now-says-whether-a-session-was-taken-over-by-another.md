@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 014a4337a96e9ccf6e81d53b80651107fdbb06f14159ea1f09902fb5f2f94b8a
+machine_hash: 7028a0047e5e4edc4651155529963b5a444e26b72db8c6a7a00be96f90670fa5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     another…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-4-developer-workflow-changes-in-v1-0-79|4
-  Developer Workflow changes in v1.0.79]]'
 - '[[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer
   Workflow changes in v0.55.1]]'
 - '[[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed
   /commit-push-pr so git/gh commands with dangerous flags…]]'
+- '[[Changes/Devin/2026-08-12-command-palette-session-search-pagination|Command Palette
+  Session Search Pagination]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed /commit-push-pr so git/gh commands with dangerous flags…]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-command-palette-session-search-pagination|Command Palette Session Search Pagination]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-build-history-and-debugging|Build history and debugging]]
 <!-- chronolog:end -->
 

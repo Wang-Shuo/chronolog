@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84e7dc9050bd18603cfa59f63ceff230e9b340b8d0182a176ba02b6cd94c6fec
+machine_hash: 1d4df4486f7033aaef9f03a323169d32cf4e32af8b0ab73f3a4c196e7137f760
 product: dify
 product_name: Dify
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-06 · Descript · [[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New AI Action: Remove Retakes]]
-- Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
+- Later: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-ai-commands-highlight-edits-in-the-ai-response-by-enabling-this-option-via-creat|AI Commands: Highlight edits in the AI response by enabling this option…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

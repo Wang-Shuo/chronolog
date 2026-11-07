@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dccd9311d2a8797560028865aaf32bd9b4ac2d88b4599cc572b9156e1d67a4e
+machine_hash: 11796b9f2e3fdb2f6c984b6a49043ac8f2a86f9379b2f13b008f9f2f878bdb32
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-18-rename-the-kimi-install-app-subcommand-to-kimi-install-desktop-the-old-name-keep|Rename
-  the kimi install-app subcommand to kimi install-desktop]]'
 - '[[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites:
   Choose a template and build a website through conversation]]'
 - '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
   and network sandboxing on Windows are now supported]]'
+- '[[Changes/LM Studio/2026-09-19-mac-added-support-for-the-splash-engine-on-apple-silicon-m3-or-newer-running-mac|Mac
+  Added support for the Splash engine on Apple Silicon M3 or newer running macOS…]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd|ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-19 · Google Antigravity · [[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File and network sandboxing on Windows are now supported]]
+- Earlier: 2026-09-19 · LM Studio · [[Changes/LM Studio/2026-09-19-mac-added-support-for-the-splash-engine-on-apple-silicon-m3-or-newer-running-mac|Mac Added support for the Splash engine on Apple Silicon M3 or newer running macOS…]]
 - Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile and Desktop changes in v2026.9.5]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d147ae406eb02243fc5a80f00546b764caea55592a08f7aec0cb60f4f5ec6ce
+machine_hash: 250727919e7cdb0d9b160429d9f3664cf45928ae289c2b418255be382ac2fdaf
 product: heygen
 product_name: HeyGen
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]
-- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-7-voice-and-audio-changes-in-raycast-macos-0-59|7 Voice and Audio changes in Raycast macos 0.59]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

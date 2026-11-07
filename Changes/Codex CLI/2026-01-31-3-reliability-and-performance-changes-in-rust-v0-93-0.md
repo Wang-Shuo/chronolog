@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36ff23c8f02a226d9cbc860e5382f904935fc1ee54e760d8b6227a4b084dd0cd
+machine_hash: b995a92db7212af7a83daf7b8c6933e9485b38bd15a2b7885a7691cec656018d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
-  diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/LM Studio/2026-01-28-2-reliability-and-performance-changes-in-lm-studio-0-4-0|2
+  Reliability and Performance changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3
   Reliability and Performance changes in v1.1.37]]'
 - '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various

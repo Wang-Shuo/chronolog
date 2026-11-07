@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf83c9fe111711f07a4670495961a89cef43c69c2764c68886019c8eb3d480e1
+machine_hash: 8a4a05d94798cfdca3fa106cc8b49cd8704d0131672119cbbeeab1fd4817f6ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,10 @@ record:
     easier to access
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled
-  up/down arrow key navigation for group questions, improving debugging…]]'
 - "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
   User Settings Search]]"
+- '[[Changes/Raycast/2024-11-20-search-menu-items-added-missing-globe-modifier-key-icon|Search
+  Menu Items: Added missing globe modifier key icon]]'
 - '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
   model settings…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
-- Later: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|📱 Mobile Controls Visibility]]
+- Later: 2024-11-22 · Devin · [[Changes/Devin/2024-11-22-bulk-import-secrets|Bulk import secrets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

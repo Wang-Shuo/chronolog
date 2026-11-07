@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c13a7aff87479ebaf504c652945f543a6ba0fd8e7e4c300851e81ca794a0d8ec
+machine_hash: e803645ec639b4a1a95b6a581f9d1675c8f051e2f622a1e1b91a4ec37cdc49ea
 product: runway
 product_name: Runway
 record:
@@ -45,10 +45,10 @@ record:
   title: Gemini Omni Flash
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot
-  setting for video generation (Microsoft 365 Copilot admin center)]]'
-- '[[Changes/HeyGen/2026-05-13-call-on-your-heygen-avatars-swap-looks-edit-scenes-and-generate-polished-videos|Call
-  on your HeyGen avatars, swap looks, edit scenes, and generate polished videos…]]'
+- '[[Changes/Recraft/2026-06-04-we-ve-added-alibaba-happy-horse-1-0-for-video-generation-in-recraft-studio-avail|Recraft
+  adds Alibaba Happy Horse 1.0 for video generation in Recraft Studio]]'
+- '[[Changes/Krea/2026-06-19-pass-reference-images-by-url-or-data-uri|Pass reference
+  images by URL or data URI]]'
 - '[[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look
   Packs is now available inside HeyGen]]'
 source_release: '[[Releases/Runway/runway-2026-06-30-2026-06-30-gemini-omni-flash-ac1d76c1|runway-2026-06-30-2026-06-30-gemini-omni-flash-ac1d76c1]]'

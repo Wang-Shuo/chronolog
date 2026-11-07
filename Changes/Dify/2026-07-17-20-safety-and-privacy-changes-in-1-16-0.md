@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b5d30438e8326fdba115c7df01fc1597330b4c0d4a40618ea771efa2b990422
+machine_hash: 54e13d53967d016f2e1a00dd4f0bb63d239aab934c013762f0ae504d3a05a548
 product: dify
 product_name: Dify
 record:
@@ -96,10 +96,10 @@ record:
   title: 20 Safety and Privacy changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2
-  Safety and Privacy changes in v1.0.71]]'
 - '[[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose
   which Wiz policies run during security scans]]'
+- '[[Changes/Raycast/2026-07-16-apple-shortcuts-fixed-running-shortcuts-requiring-already-provided-automation-pe|Apple
+  Shortcuts: Fixed running shortcuts requiring already provided automation permission]]'
 - '[[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety
   and Privacy changes in v2.1.212]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

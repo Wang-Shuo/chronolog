@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2436d3663d165c3fe94201739c5f17cccd36768e6c14a1cfa22f1febee33000
+machine_hash: 95b6a32b51156df987637e3cbb02b85f2739884c62206fc9f0baea7b95c62106
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.77.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support
-  changes in v0.13.5]]'
 - '[[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model
   Support changes in rust-v0.76.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
   disabled models directly in CLI when selecting or specifying them]]'
+- '[[Changes/Superwhisper/2025-12-19-ollama-provider-for-custom-models|Ollama provider
+  for custom models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-21-rust-v0-77-0-github-271997317-8c159931|codex-cli-2025-12-21-rust-v0-77-0-github-271997317-8c159931]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.77.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable disabled models directly in CLI when selecting or specifying them]]
+- Earlier: 2025-12-19 · Superwhisper · [[Changes/Superwhisper/2025-12-19-ollama-provider-for-custom-models|Ollama provider for custom models]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support changes in v0.6.42]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df74eb1a4ba95941fa8245053b6442ad070bbb42305c38ddf91f883c4efc4295
+machine_hash: 619b13c471caa251dea766e1581c99f93892cd3efbe1e2e95712796ad12e1e83
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer Workflow changes in v0.41.0]]
-- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-developer-workflow-changes-in-v1-0-42|2 Developer Workflow changes in v1.0.42]]
+- Later: 2026-05-06 · Devin · [[Changes/Devin/2026-05-06-review-commit-links|Review Commit Links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

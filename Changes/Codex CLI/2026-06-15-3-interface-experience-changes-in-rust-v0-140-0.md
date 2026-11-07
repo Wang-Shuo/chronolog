@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e787add434fd8deb375c11fc25e284bcdfe6cac5096f1eec16549b8b9c14f10
+machine_hash: 6a9536de31481727a6e7d63eb541fb6d0c58fba72a193e81f254b1d0f1ba1aa8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-14 · Kimi Code · [[Changes/Kimi Code/2026-06-14-refresh-provider-model-metadata-before-opening-the-model-picker|Refresh provider model metadata before opening the model picker]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
+- Later: 2026-06-16 · Superwhisper · [[Changes/Superwhisper/2026-06-16-refined-a-range-of-visual-and-interaction-details-across-the-share-card-super-pi|Refined a range of visual and interaction details across the share card, Super…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

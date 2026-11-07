@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a18a26227c956c1e9caceddfd2c4aaed375cf94419eb8994c25bfe3b05deb924
+machine_hash: 4510e2806572dcc5277e514aa84c3bf9c74567feda550ec2ac4993cb1b28fb0a
 product: gamma
 product_name: Gamma
 record:
@@ -41,10 +41,10 @@ record:
   title: '**Plus:** Token limit increased from 5,000 to **10,000** tokens per generation'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
-  read-only files to the chat context with /read and --read, including…]]'
 - '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
   chat history size in /tokens]]'
+- '[[Changes/AnythingLLM/2024-08-19-agent-context-window-context-window-refactor-by-timothycarambat-in-https-github|Agent
+  Context window + context window refactor]]'
 - '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
   also trained a new Cursor Tab model that''s smarter and more context-aware]]'
 source_release: '[[Releases/Gamma/gamma-2024-08-24-66c8f84a6e2b7d475b2e65c3-a3380678|gamma-2024-08-24-66c8f84a6e2b7d475b2e65c3-a3380678]]'

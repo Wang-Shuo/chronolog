@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2ace7c2e3264e4dfc0f60e79c1123594953b4687a19f95abc9910eccb7be394
+machine_hash: 2647611cce40b0488540eb671a6e4578359e01fe6bd4fcd6c794aaa3a9369417
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Remote SSH is easier to use!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns
-  off the auto-install of the "cursor ." command (and fixes its install altogether)]]'
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
   "cursor" command on startup]]'
+- '[[Changes/Raycast/2023-04-28-3-developer-workflow-changes-in-raycast-macos-v1-1-50-0|3
+  Developer Workflow changes in Raycast macos-v1 1.50.0]]'
 - "[[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|\U0001F310
   Working remote ssh support through the \"OpenRemote - SSH\" extension]]"
 source_release: '[[Releases/Cursor/cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3|cursor-2023-05-17-0-2-16-https-cursor-com-changelog-0-2-16-e0618ec3]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]]
-- Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
+- Later: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-theme-studio-added-markdown-example-with-a-code-block-in-the-preview|Theme Studio: Added markdown example with a code block in the preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

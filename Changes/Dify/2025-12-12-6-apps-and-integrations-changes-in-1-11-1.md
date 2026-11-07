@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c7841a8a835ed17720d52203e7d7ef32944199ad90b9458433c3c5aa20af1b9
+machine_hash: 02ac741ad412067115d63549a1b6f10ceb0b7dc58f99f74e7c65f85878da8d26
 product: dify
 product_name: Dify
 record:
@@ -61,12 +61,11 @@ record:
   title: 6 Apps and Integrations changes in 1.11.1
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User
-  Prompts]]'
-- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
-  Integrations changes in v3.41.0]]'
 - '[[Changes/Dify/2025-12-11-16-apps-and-integrations-changes-in-1-11-0|16 Apps and
   Integrations changes in 1.11.0]]'
+- '[[Changes/Devin/2025-12-12-the-connected-accounts-section-in-organization-settings-has-been-renamed-to-inte|The
+  "Connected accounts" section in organization settings has been renamed…]]'
+- '[[Changes/Devin/2025-12-12-microsoft-teams-integration|Microsoft Teams Integration]]'
 source_release: '[[Releases/Dify/dify-2025-12-12-1-11-1-github-269775785-2add8858|dify-2025-12-12-1-11-1-github-269775785-2add8858]]'
 source_type: github_releases
 theme: apps-integrations
@@ -111,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-16-apps-and-integrations-changes-in-1-11-0|16 Apps and Integrations changes in 1.11.0]]
+- Earlier: 2025-12-12 · Devin · [[Changes/Devin/2025-12-12-microsoft-teams-integration|Microsoft Teams Integration]]
 - Later: 2025-12-12 · Replit · [[Changes/Replit/2025-12-12-agent-now-supports-custom-mcp-servers|Agent now supports custom MCP servers]]
 <!-- chronolog:end -->
 

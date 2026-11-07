@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e770471cd4915a77525a315a1490949836e6cc01c7243ec23c586a961e9bc66d
+machine_hash: 43248f19c52fe3067e10e3bd5bbfaade646934b3ecb6864a24343c2898f2fed4
 product: v0
 product_name: v0
 record:
@@ -55,12 +55,12 @@ record:
   title: Redesigned Chat Sidebar
   type: change
 related_changes:
-- '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
-  and drop now works from Brand Studio and Editor sidebar]]'
 - '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
   text parsing for chat rendering]]'
 - '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
   rendering of ToDo lists]]'
+- '[[Changes/Raycast/2025-10-29-general-all-menu-components-action-panel-navigation-filter-select-etc-now-suppor|General
+  : All menu components (action panel, navigation filter, select, etc) now…]]'
 source_release: '[[Releases/v0/v0-2025-10-30-2025-10-30-chat-sidebar-redesign-820df99c|v0-2025-10-30-2025-10-30-chat-sidebar-redesign-820df99c]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve rendering of ToDo lists]]
+- Earlier: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-general-all-menu-components-action-panel-navigation-filter-select-etc-now-suppor|General : All menu components (action panel, navigation filter, select, etc) now…]]
 - Later: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface Experience changes in v3.35.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: aa287b5cc71fd701a8d7b00f9f2ebc75eadb44cc18bee45643869e385a8575a5
+machine_hash: 110af9626408f2ef2f69a45925cdd866af1cded727f5969e13a12a5865235ba3
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,10 +45,10 @@ record:
   title: Select models when using Researcher in Copilot Chat [Windows…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added
-  support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]'
 - '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
   for your app''s AI features]]'
+- '[[Changes/Recraft/2026-08-24-take-total-control-over-your-output-before-you-hit-generate-choose-your-batch-si|Multi-Generation
+  & Model Comparison]]'
 - '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
   in 1.17.0]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-08-25-2026-08-25-2f630735|microsoft-365-copilot-2026-08-25-2026-08-25-2f630735]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cf737250e801016353304c7167d4d7f969bc3cbca42f0559a042b0325bffc5e
+machine_hash: ef6ef56da24105dd3659d35d99e706f68d2f5ae6df0eeb8b102dca1f6cff2e0a
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-23 · Lovable · [[Changes/Lovable/2026-07-23-recommended-connectors-in-search|Recommended connectors in search]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5 Apps and Integrations changes in v2.1.219]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-quick-fix-added-an-experimental-option-to-preserve-text-formatting-in-supported|Quick Fix : Added an experimental option to preserve text formatting in supported…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

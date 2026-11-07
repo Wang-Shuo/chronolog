@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c21bb6f76b07b6d746b645dc41f62a4c6d2c10bc3edf15732d7595e96eca3693
+machine_hash: 5db4080521ae806a3aaed00bb72f0462b0133e06aeb10d61240c8a571de99399
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -60,10 +60,10 @@ record:
     365…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
-  Generation changes in rust-v0.137.0]]'
 - '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
   Generation changes in rust-v0.138.0]]'
+- '[[Changes/Recraft/2026-06-12-we-ve-added-three-new-image-generation-models-to-recraft-available-to-paid-subsc|Recraft
+  adds three new image generation models to Recraft]]'
 - '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
   Handle standalone image generation failures as terminal items @won-openai]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-06-16-2026-06-16-4dd14eb5|microsoft-365-copilot-2026-06-16-2026-06-16-4dd14eb5]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 90dd417aa8bd8314dc318417d167477af999dc57dfb7d713ec5749435bc50fd4
+machine_hash: ef5a5734eb05bbe9f58e89fc6dd3b811811e7c343708d184b1aa4a34d58437d6
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -54,12 +54,12 @@ record:
   title: New Copilot Notebooks design in the Microsoft 365 Copilot App…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
-  changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
   changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/Devin/2026-09-23-microsoft-teams-commands-context-and-dm-cards|Microsoft
+  Teams: Commands, Context and DM Cards]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-09-23-2026-09-23-6719e501|microsoft-365-copilot-2026-09-23-2026-09-23-6719e501]]'
 source_type: m365_copilot_changelog
 theme: context-window
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context Window changes in rust-v0.156.0]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-microsoft-teams-commands-context-and-dm-cards|Microsoft Teams: Commands, Context and DM Cards]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context Window changes in v2026.9.6]]
 <!-- chronolog:end -->
 

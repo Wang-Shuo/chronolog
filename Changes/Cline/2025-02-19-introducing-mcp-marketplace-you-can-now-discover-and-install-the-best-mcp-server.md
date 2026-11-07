@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5fe4fe5d153e5517d9fbedd882d77a3bc45752c7c6219b5872d4b000c981620e
+machine_hash: 0160ae980fd166f53b8ae240540cb7a83909ea118aed9779a79f5cf200922e42
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: Introducing **MCP Marketplace**!
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-07-add-azure-openai-api-version-2024-12-01-preview-by-kei-yamazaki-in-https-github|add
-  azure openai api version 2024-12-01-preview]]'
 - '[[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority
   access with Gemini Advanced]]'
 - '[[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3
   Apps and Integrations changes in Lovable updates — 2025-02-12]]'
+- '[[Changes/AnythingLLM/2025-02-18-2-apps-and-integrations-changes-in-v1-7-4|2 Apps
+  and Integrations changes in v1.7.4]]'
 source_release: '[[Releases/Cline/cline-2025-02-19-v3-4-0-github-201249725-2b8f1358|cline-2025-02-19-v3-4-0-github-201249725-2b8f1358]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-12 · Lovable · [[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3 Apps and Integrations changes in Lovable updates — 2025-02-12]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-apps-and-integrations-changes-in-v1-7-4|2 Apps and Integrations changes in v1.7.4]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]]
 <!-- chronolog:end -->
 

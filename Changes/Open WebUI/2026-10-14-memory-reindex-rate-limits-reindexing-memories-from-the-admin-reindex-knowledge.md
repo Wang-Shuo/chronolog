@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: e20cb5222243fd262f657dc56853cce53d7af319180ee005828e4aed810b62e8
+machine_hash: d56c8888dad26eb9822e9ad048b8d291f1696a5addedec16366590c67c603f2c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -67,8 +67,8 @@ record:
     admin Reindex…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4
-  Memory and Personalization changes in v2026.10.2]]'
+- '[[Changes/Raycast/2026-10-12-2-memory-and-personalization-changes-in-raycast-ios-1-4-0|2
+  Memory and Personalization changes in Raycast ios 1.4.0]]'
 - '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
   Memory and Personalization changes in v2026.10.3]]'
 - "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0

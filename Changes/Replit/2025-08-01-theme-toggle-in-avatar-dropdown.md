@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e3cd6e71848174cbbfbdf12d6e03b48160eea00328a1b6f20e3423330ae51318
+machine_hash: 5a20949db559290a8403b49d54aa45639ca70437b459d4b57d112bd295dee473
 product: replit
 product_name: Replit
 record:
@@ -45,8 +45,7 @@ record:
   title: Theme toggle in avatar dropdown
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
-  adds navigation bar component and restructure app layout]]'
+- '[[Changes/Devin/2025-07-31-organization-switcher-search|Organization Switcher Search]]'
 - "[[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals \U0001F58C️]]"
 - '[[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor
   color picker improvement]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de1a2717a6c5b8c72f94b20620ccb56f07d514bc65a128b63e829275241ebd4a
+machine_hash: 18d7accd8bd0f1c9daac8df09e7bc04fdd48180cd3ae3d69a6a3699299952e7b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: Add support for the kimi-k2.7-code model
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-4-model-support-changes-in-v1-17-12|4 Model Support
-  changes in v1.17.12]]'
 - '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
   entitlements for Enterprise plans (beta)]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
   changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-persist-model-selection|Persist Model Selection]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-persist-model-selection|Persist Model Selection]]
 - Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-merge-consecutive-user-turns-for-strict-providers-gemini-vertex-fixing-an-http-4|Merge consecutive user turns for strict providers (Gemini/Vertex), fixing an HTTP…]]
 <!-- chronolog:end -->
 

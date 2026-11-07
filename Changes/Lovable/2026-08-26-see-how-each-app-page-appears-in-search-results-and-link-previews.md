@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9733860ef71a66cacfed48cd43c41fdf7883fbe7852d922fa5bc2e3807195aa0
+machine_hash: e2c69c7a008f081c1652226465dfc1b75186441da3c2705c600ee79e35a59e4f
 product: lovable
 product_name: Lovable
 record:
@@ -58,12 +58,12 @@ record:
   title: See how each app page appears in search results and link previews
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-copilot-chat-available-when-using-copilot-search-windows-web-microsoft-365-copil|Copilot
-  Chat available when using Copilot Search Windows, Web (Microsoft 365 Copilot)]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open
-  Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
   and Browsing changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier|AI
+  : Ask User Question tool can be collapsed to make browsing conversation easier…]]'
+- '[[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier-72fc8d|AI
+  : Ask User Question tool can be collapsed to make browsing conversation easier…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: search-browsing
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search and Browsing changes in v0.11.1]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier-72fc8d|AI : Ask User Question tool can be collapsed to make browsing conversation easier…]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]
 <!-- chronolog:end -->
 

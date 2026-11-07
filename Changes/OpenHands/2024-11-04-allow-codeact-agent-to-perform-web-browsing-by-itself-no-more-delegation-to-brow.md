@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8707accd6d62aa54ed7af7722c7584fbc34231fd893df7ce5d49897a8670e626
+machine_hash: 25274e44259cae9ed744fbd61d60ca807ac75d2d85eae8a6b69f4470bad4036b
 product: openhands
 product_name: OpenHands
 record:
@@ -55,10 +55,10 @@ record:
   title: Allow CodeAct agent to perform web browsing by itself…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
-  Web Search Functionality]]"
 - '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
   zhipuai web search]]'
+- '[[Changes/AnythingLLM/2024-10-03-tavily-search-web-search-agent-support-by-shatfield4-in-https-github-com-mintple|Tavily
+  search web search agent support]]'
 - '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
   your entire workspace’s images while editing any gamma]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-04-0-12-2-github-183467199-1f374fc8|openhands-2024-11-04-0-12-2-github-183467199-1f374fc8]]'

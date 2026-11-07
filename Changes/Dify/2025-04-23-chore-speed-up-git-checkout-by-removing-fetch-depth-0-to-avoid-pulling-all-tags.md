@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b13cd19bb8c64fbb313d47d5d2aaf9cc843a17dd5938900e49bedcc47472c853
+machine_hash: 4b026adade5d8bc14469de39ce1cd076296c211062988d24311d21205f82a315
 product: dify
 product_name: Dify
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new Screen recorder—in Beta this week]]
-- Later: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
+- Later: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-dramatically-faster-first-time-model-load-times-on-rtx-50-series-gpus|Dramatically faster first-time model load times on RTX 50-series GPUs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

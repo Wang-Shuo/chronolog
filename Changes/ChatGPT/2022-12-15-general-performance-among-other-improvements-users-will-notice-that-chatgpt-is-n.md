@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 081ad1e0cd0a695041aee9b800fa55fd9889d11e2985d24ca7d306a3c78d6888
+machine_hash: 32fdc05b0a84c645f1097a6fd8719bf6d0ba3fb2d52cca82899542a5bd0498bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
     is now…'
   type: change
 related_changes:
-- '[[Changes/Notion/2022-04-14-large-databases-load-2-5-faster|Large databases load
-  2.5× faster]]'
 - '[[Changes/Notion/2022-08-11-lots-of-performance-reliability-improvements-across-the-ios-android-apps|Lots
   of performance & reliability improvements across the iOS & Android apps]]'
+- '[[Changes/Raycast/2022-09-28-improved-calculator|Improved Calculator]]'
 - '[[Changes/Descript/2022-11-12-note-windows-7-reached-end-of-life-status-eol-unsupported-by-microsoft-on-januar|Note:
   Windows 7 reached "end of life" status (EOL / unsupported) by Microsoft…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d|chatgpt-2022-12-15-performance-updates-to-chatgpt-d9abf59d]]'

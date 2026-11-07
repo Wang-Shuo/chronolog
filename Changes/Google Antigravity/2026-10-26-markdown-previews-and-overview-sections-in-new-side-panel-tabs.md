@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7629a53316ea262fa2a532feb35bd1ba528f8a9f5f564c350399854c5c46250c
+machine_hash: 0126d894f3dc433945171b4d7f4338f70757fb00a59f2d6fae40b0d4eb791c49
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,10 +47,10 @@ record:
   title: Markdown previews and overview sections in new side panel tabs
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
-  Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
   Changed the session list side bar to load Web sessions when the Web tab…]]'
+- '[[Changes/Devin/2026-10-26-new-activity-tab-replaces-progress-and-shell|New Activity
+  Tab Replaces Progress and Shell]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
   Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-26-rel-hub-2-27-0-b7a7cc1e|google-antigravity-2026-10-26-rel-hub-2-27-0-b7a7cc1e]]'

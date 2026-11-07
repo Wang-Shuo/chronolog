@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85878378fdc5e4cfd0517a40f4850ddbaf65549adc409c04c3a15d1a79dc763a
+machine_hash: 7963cfc53e51534328668fcf61b9093a5ea895eb40f3fb9469500a7fa6f81a76
 product: opencode
 product_name: OpenCode
 record:
@@ -55,10 +55,9 @@ record:
   title: Terminal /mo now prefers the models command in slash autocomplete
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
-  canvases can now be opened full-screen in the browser, making them easier…]]'
-- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
-  a domain out to another registrar]]'
+- '[[Changes/Devin/2026-06-05-start-a-new-session-with-this-prompt|Start a New Session
+  with This Prompt]]'
+- '[[Changes/Devin/2026-06-05-playbook-devin-mode|Playbook Devin Mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
   Interface Experience changes in v1.0.60]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'

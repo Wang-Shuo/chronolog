@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f72ea4720c185fb470bc59b16fccd64efa3ec6651850e0bcd6a50b9af5fb3d6d
+machine_hash: 39307009a672c22ff001062be5e8a22ef3048523ad07c626ef4a8f5f6dc101aa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base stability — fixed knowledge hit-testing rendering, empty…]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-2-reliability-and-performance-changes-in-v2-1-146|2 Reliability and Performance changes in v2.1.146]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-2-reliability-and-performance-changes-in-raycast-windows-0-61|2 Reliability and Performance changes in Raycast windows 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

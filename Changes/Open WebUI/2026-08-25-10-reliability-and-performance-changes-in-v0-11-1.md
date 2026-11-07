@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0a249faa5bbc0c7c3a8f891d02571c90a19842f2fd97e3893c505753731dfc1
+machine_hash: 20516fabb9920516396834f5c14e54199b598a1f1b9f4c12922d8650a7e52a94
 product: open-webui
 product_name: Open WebUI
 record:
@@ -169,7 +169,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume large sessions faster by showing recent history first while older messages load]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ui-improved-scrolling-performance-across-the-app|UI : Improved scrolling performance across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

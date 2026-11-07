@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d0f326918f4d48783904074e61924e88ab661c1debc447c8944949ecf7f9b5f
+machine_hash: 295527d429ddf9e3a1dc7da055becf1037b1b822c0675fa8c4488463a79dc6d2
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window changes in v0.12.3]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-microsoft-teams-forwarded-messages-as-context|Microsoft Teams: Forwarded Messages as Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

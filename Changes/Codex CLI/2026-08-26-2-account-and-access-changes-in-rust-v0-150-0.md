@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beaf5b604569aca338b45c2d0f53622a048bf62eb21a09f1daed2156e03faf12
+machine_hash: 06e839e164306092e2aa0815c6ece02c6e2f93a67a7f11e290e96a52323675d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Account and Access changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and
-  Access changes in 1.17.0]]'
-- '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
-  and Access changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem|MCP
+  : Added loopback OAuth redirects so MCP providers that reject custom URL…]]'
+- '[[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem-c73eec|MCP
+  : Added loopback OAuth redirects so MCP providers that reject custom URL…]]'
 - '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
   and Access changes in v2.1.247]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2 Account and Access changes in v1.0.81]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-streamlined-mcp-marketplace-install-and-oauth-connect|Streamlined MCP Marketplace Install and OAuth Connect]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

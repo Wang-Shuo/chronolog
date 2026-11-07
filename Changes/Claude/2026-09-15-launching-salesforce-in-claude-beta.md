@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cf42c60b62024962cdcbc34c5f6f532997b0c4dbfd8c03d157d889550df5136b
+machine_hash: a1f7900116212dd431867c60eed8c7fe71b987c67f0097b3315bb8637d8a33df
 product: claude
 product_name: Claude
 record:
@@ -52,11 +52,11 @@ record:
   title: Launching Salesforce in Claude (beta)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
-  can change your Health permissions anytime in Settings → Plugins → Health]]'
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
 - '[[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]'
+- '[[Changes/Raycast/2026-09-14-store-added-update-details-showing-which-extensions-were-updated-skipped-removed|Store
+  : Added update details showing which extensions were updated, skipped…]]'
+- '[[Changes/Raycast/2026-09-14-2-apps-and-integrations-changes-in-raycast-macos-2-4|2
+  Apps and Integrations changes in Raycast macos 2.4]]'
 source_release: '[[Releases/Claude/claude-2026-09-15-2026-09-15-6e6a8d9f|claude-2026-09-15-2026-09-15-6e6a8d9f]]'
 source_type: claude_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]
+- Earlier: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-2-apps-and-integrations-changes-in-raycast-macos-2-4|2 Apps and Integrations changes in Raycast macos 2.4]]
 - Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]]
 <!-- chronolog:end -->
 

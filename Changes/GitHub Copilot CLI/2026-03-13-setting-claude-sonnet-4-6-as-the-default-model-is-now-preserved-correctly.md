@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97bd2f969578fbe6f22809937849c9f27f8971af29651757302417c1a0b01c3e
+machine_hash: 37376c0f6f9ea2e74859bfb64b276152bfb44039cad9abcce6a7fd9f0553160f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Setting claude-sonnet-4.6 as the default model is now preserved correctly
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
-  in v3.72.0]]'
 - '[[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support
   non-OpenAI Azure models that use completions endpoints]]'
 - '[[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core
   Fixed chunk timeout when processing LLM stream]]'
+- '[[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip
+  stray think/thought prefix lines from LLM output]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core Fixed chunk timeout when processing LLM stream]]
+- Earlier: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip stray think/thought prefix lines from LLM output]]
 - Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop Model selection now persists by session]]
 <!-- chronolog:end -->
 

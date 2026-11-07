@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 201c1f3e6d26e37a785aed023f11e2d5928fed27ca8f94dc0f66ef6f9d362840
+machine_hash: 22d6bf210c8a57a121baef1c7f306cea1bd0bd4d4f7ff07799e0c9cf61830170
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: document limit
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add
-  document limit check]]'
 - '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
   & hiding layers]]'
+- '[[Changes/Superwhisper/2023-08-12-recordings-now-stored-within-superwhisper-directory-in-documents-not-synced-to-i|Recordings
+  now stored within superwhisper directory in Documents, not synced to iCloud]]'
 - '[[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes
   in 0.3.15]]'
 source_release: '[[Releases/Dify/dify-2023-08-31-0-3-19-github-119449505-7b070c6d|dify-2023-08-31-0-3-19-github-119449505-7b070c6d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a76eec45f5818b336939c273f69527088d5b7e65fbbcc363898213070bdc9128
+machine_hash: 50ff0dc25e5407e7835204f764556ac245200c2260ecfdbc11f9231005689bc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in v2.1.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop
-  Fix session navigation with keyboard shortcuts]]'
+- '[[Changes/Superwhisper/2026-01-07-model-picker-design-update|Model picker design
+  update]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
   remote sessions using GraphQL ID or session picker]]'
 - '[[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface

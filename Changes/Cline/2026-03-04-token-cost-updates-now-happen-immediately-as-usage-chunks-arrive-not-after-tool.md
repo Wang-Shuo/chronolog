@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ab31ca0688595ef364ef868fd0589ba2a18bf372ff034694f9aa7dd1013c01f9
+machine_hash: 33f9e6e3054085b51be7fb74d6ecec7ff4de6b898620af8801b308adf3ea2e9b
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,9 @@ record:
     tool execution
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
-  support the stateful pause/resume mechanism required by HITL and provide…]]'
-- '[[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations
-  no longer require a separate API plan]]'
+- '[[Changes/Recraft/2026-02-27-cost-per-generation-8-credits|New model: Seedream
+  5.0 Lite]]'
+- '[[Changes/Recraft/2026-02-28-cost-per-generation|Cost per generation]]'
 - '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
   implement G1 AI credits overage flow with billing telemetry]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'

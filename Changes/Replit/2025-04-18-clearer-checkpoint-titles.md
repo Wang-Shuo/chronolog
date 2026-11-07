@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 93db670ca0d8edb04aacb5076524b23208af8695fb71af5d5a70a3d88caf55ee
+machine_hash: c14d7d5db3feed6e99b6fed593f0e2f9479388a24c529035f9ea134b55cd954d
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Clearer checkpoint titles
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow
-  changes in 1.2.0]]'
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
 - '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
   the Terminal panel from a fixed bottom panel to a tab]]'
+- '[[Changes/Raycast/2025-04-16-the-send-feedback-command-now-opens-a-separate-window-and-accepts-file-uploads|The
+  “Send Feedback” command now opens a separate window and accepts file uploads]]'
+- '[[Changes/AnythingLLM/2025-04-18-apply-git-logic-handler-for-repo-urls-by-timothycarambat-in-https-github-com-min|Apply
+  .git logic handler for repo URLs]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'
 source_type: replit_changelog
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted the Terminal panel from a fixed bottom panel to a tab]]
+- Earlier: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-apply-git-logic-handler-for-repo-urls-by-timothycarambat-in-https-github-com-min|Apply .git logic handler for repo URLs]]
 - Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer Workflow changes in v3.13.0]]
 <!-- chronolog:end -->
 

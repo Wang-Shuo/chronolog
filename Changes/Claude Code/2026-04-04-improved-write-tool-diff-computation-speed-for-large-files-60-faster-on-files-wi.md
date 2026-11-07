@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 158450610a6d18f1aea52c1c33edc13b376c7c67c22d4a34fdf7574953d18c1d
+machine_hash: b55dc975f20bed418ba0e7723a65f0b34c35e6fd790f018f1b2985de7408333f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +42,9 @@ record:
   title: Improved Write tool diff computation speed for large files…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Lovable/2026-04-02-browser-performance-tools|Browser performance tools]]'
 - '[[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]'
+- '[[Changes/Devin/2026-04-03-smarter-codebase-search|Smarter Codebase Search]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-smarter-codebase-search|Smarter Codebase Search]]
 - Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce memory usage by automatically shutting down shell sessions that are no longer…]]
 <!-- chronolog:end -->
 

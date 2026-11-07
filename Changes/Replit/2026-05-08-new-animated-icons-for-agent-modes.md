@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 26dd6ec23e893ac0da699822f7ff13af8e6d5d94038dd3605dbcbf8512842655
+machine_hash: 06b25216d84d64ea7b783784287493f0ea33f8d1455d3dea9b59cca0b467cc33
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: New animated icons for Agent modes
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
 - '[[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan
   Mode]]'
 - '[[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal
   Fix /agent create to use the /agents path]]'
+- '[[Changes/Raycast/2026-05-08-ai-in-addition-to-ai-extensions-ai-skills-can-be-loaded-automatically-depending|AI
+  : In addition to AI Extensions, AI Skills can be loaded automatically depending…]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal Fix /agent create to use the /agents path]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-ai-in-addition-to-ai-extensions-ai-skills-can-be-loaded-automatically-depending|AI : In addition to AI Extensions, AI Skills can be loaded automatically depending…]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core Added the Scout agent for repo research, docs lookup, and dependency-source…]]
 <!-- chronolog:end -->
 

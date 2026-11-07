@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fd50b5afd14d40bf28a445dcec5f3636b50168c2226c89fd146c0273fdd2589
+machine_hash: 658f2c6d757c5f0d0e9f9a9aae9b485867ff1899207d77baffa514b1ef58ed76
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,7 @@ record:
   title: Fewer spurious tool errors during search
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
-  the preview iframe in Safari shows the "Open preview in new tab" message…]]'
+- '[[Changes/Devin/2026-05-17-checks-tab-always-visible|Checks Tab Always Visible]]'
 - '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954
   Fix goal update and add /goal edit command in TUI @etraut-openai]]'
 - '[[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]'

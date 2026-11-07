@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a4a34809b092b9c5f4af2efd601590f0a035ac22dadd16103fd0be8ca827d1b
+machine_hash: 76217f2cc95790d772c791ab48a2e6712f8c6d417722f9dc0bfa3bf47dc3ce53
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,10 @@ record:
   title: '#20149 Reduce the surface of collaboration modes @pakrym-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
-  Bazel CI now uses a stable PATH and shared query startup path for better…]]'
-- '[[Changes/ElevenLabs/2026-04-27-other|Other]]'
+- '[[Changes/Raycast/2026-04-27-quicklinks-shared-quicklink-hotkeys-and-aliases-should-no-longer-be-reset-when-t|Quicklinks:
+  Shared Quicklink hotkeys and aliases should no longer be reset…]]'
+- '[[Changes/Raycast/2026-04-27-quicklinks-shared-quicklink-hotkeys-and-aliases-should-no-longer-be-reset-when-t-d2e616|Quicklinks:
+  Shared Quicklink hotkeys and aliases should no longer be reset…]]'
 - '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
   in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
@@ -87,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes in 1.14.0]]
-- Later: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
+- Later: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-access-your-favorite-team-snippets-and-quicklinks-seamlessly-synced-between-your|Access your favorite team Snippets and Quicklinks - seamlessly synced between…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

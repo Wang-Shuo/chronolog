@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01c95d2f0c966175fb5adcd87d2e224754cc137727f90f892afc5ab2be1bebfa
+machine_hash: 37c6228eaa6c225775bb18b287375975262d4617bfa0304773301d1a1d383d90
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Permissions now respect content-level `ask` over tool-level `allow`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
-  and Privacy changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-allow-creating-permission-tokens-without-allowed-mcp-permissions|Allow
+  creating permission tokens without allowed MCP permissions]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
 - '[[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core

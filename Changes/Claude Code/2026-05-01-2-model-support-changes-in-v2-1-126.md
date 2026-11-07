@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94125819aebf4a45fdbe2fa2257a318db7d8edbea2f56f779d88788ae06fe8bc
+machine_hash: 299b2cb617197c68dc8b92786e59f7fb6af12f95a21be0976f577ae01bccb00d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
-  in 1.14.0]]'
-- '[[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support
-  changes in v1.14.30]]'
+- '[[Changes/Superwhisper/2026-04-29-added-support-for-byok-bring-your-own-keys-opus-4-6-and-4-7-models|Added
+  support for BYOK (bring your own keys) Opus 4.6 and 4.7 models]]'
 - '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
   Support changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-ai-search-models-in-model-sheet|AI: Search models
+  in model sheet]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model Support changes in rust-v0.128.0]]
+- Earlier: 2026-04-30 · Raycast · [[Changes/Raycast/2026-04-30-ai-search-models-in-model-sheet|AI: Search models in model sheet]]
 - Later: 2026-05-01 · Cline · [[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes in v3.82.0]]
 <!-- chronolog:end -->
 

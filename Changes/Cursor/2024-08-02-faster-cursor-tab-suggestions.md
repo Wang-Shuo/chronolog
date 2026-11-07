@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbdaa74bd77cd2d377d5f98c7ec490119d607bac6a48ecb26936c0a26e92646d
+machine_hash: 5a5d9d183501b99156c88cac3dc6d6526b57d7eaeda420c3b9a2e607e3cfd1f7
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Faster Cursor Tab Suggestions!
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance
-  and reliability improvements when downloading models using ollama pull]]'
 - '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
   performance of --lint on all dirty files in repo]]'
 - '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
   Reduce dependency to speed up CI and reduce image size]]'
+- '[[Changes/AnythingLLM/2024-08-02-ollama-performance-mode-option-by-shatfield4-in-https-github-com-mintplex-labs-a|Ollama
+  performance mode option]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime Reduce dependency to speed up CI and reduce image size]]
+- Earlier: 2024-08-02 · AnythingLLM · [[Changes/AnythingLLM/2024-08-02-ollama-performance-mode-option-by-shatfield4-in-https-github-com-mintplex-labs-a|Ollama performance mode option]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-reliability-and-performance-changes-in-v0-3-11|2 Reliability and Performance changes in v0.3.11]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01142e038ba3c053c7eb4b6f077be3eb11dd7d5d1e3e3b6888ed03ac37d5438e
+machine_hash: ca3ea4b439074acf41baf73115952a4376056c108a95c35cf46bb3d87d0576a4
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
-  in context (Beta)]]'
-- '[[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM
-  Granite 3.3((source link)]]'
+- '[[Changes/LM Studio/2025-04-24-chat-sidebar-segments-context-and-model|Chat sidebar
+  segments: Context and Model]]'
 - '[[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased
   default context window to 4096 tokens]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-option-to-control-koboldcpp-max-response-tokens-by-shatfield4-in-https-githu|Add
+  option to control KoboldCPP max response tokens]]'
 source_release: '[[Releases/Aider/aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c|aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.83.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased default context window to 4096 tokens]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-add-option-to-control-koboldcpp-max-response-tokens-by-shatfield4-in-https-githu|Add option to control KoboldCPP max response tokens]]
 - Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
 <!-- chronolog:end -->
 

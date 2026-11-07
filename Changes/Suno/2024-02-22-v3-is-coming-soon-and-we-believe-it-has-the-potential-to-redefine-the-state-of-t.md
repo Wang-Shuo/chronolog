@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d11ccc3c408bb9fecd56b4f71a7f54fb77a45c54ee6372d09f85bf00dcd2e061
+machine_hash: 20a210ce88677a5657ebcdd272b23e925a54d215da2295f6186936d4b7ac6d30
 product: suno
 product_name: Suno
 record:
@@ -66,8 +66,8 @@ record:
   title: V3 is coming soon, and we believe it has the potential to redefine…
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-14-ollama-is-now-available-on-windows-in-preview-download-it-here-https-github-com|Ollama
-  is now available on Windows in preview]]'
+- '[[Changes/Superwhisper/2024-02-20-cloud-language-model-added-claude-instant-1-2|Cloud
+  language model added (Claude Instant 1.2)]]'
 - '[[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support
   for bert and nomic-bert embedding models]]'
 - '[[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source

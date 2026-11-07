@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 952abb1427977fe7fe0a72efd335ca6933fde6ab74d5a125e9d88d5a8aa7666d
+machine_hash: 556728c2a86201befe73e157b23949961bc54dfa46a71e4d1350be03408785aa
 product: openclaw
 product_name: OpenClaw
 record:
@@ -121,7 +121,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect other MCP clients to the Lovable MCP server]]
-- Later: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed PostgreSQL in Databricks Apps]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-window-management-custom-layouts-have-a-new-other-windows-option-minimize-others|Window Management : Custom layouts have a new Other Windows option: Minimize Others…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 24ba254effa09142c2298f8ab751e290a8e8dbe7123a471d2446029f4c6ae72e
+machine_hash: 9b63e3c62cffb65198401a50c3177427921a8ddbcef459cc7d8c38934a56a717
 product: lovable
 product_name: Lovable
 record:
@@ -53,8 +53,9 @@ record:
   title: Redesigned project Security view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Devin/2026-09-23-outposts-permissions|Outposts Permissions]]'
+- '[[Changes/Devin/2026-09-23-devin-resumes-right-after-permission-responses|Devin
+  Resumes Right After Permission Responses]]'
 - '[[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden
   workspace security]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'

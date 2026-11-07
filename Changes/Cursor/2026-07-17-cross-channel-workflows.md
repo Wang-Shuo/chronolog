@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a1a7e44c377e1711ea74ccc83d5a422ee8f974582b9c96928209a2d71515c673
+machine_hash: 5ed52d94175f4b03a1c81a0d56fd55ccc2b35c992265ffdb2343f55fcffb53e4
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Cross-channel workflows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop
-  Aligned context token counts with usage totals]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
-  Window changes in v1.0.71]]'
 - '[[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
   Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
+- '[[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk|File
+  Search: Improved index compaction checkpoints to reduce index size on disk]]'
+- '[[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk-9d6f1f|File
+  Search: Improved index compaction checkpoints to reduce index size on disk]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
 source_type: cursor_changelog
 theme: context-window
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2 Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-file-search-improved-index-compaction-checkpoints-to-reduce-index-size-on-disk-9d6f1f|File Search: Improved index compaction checkpoints to reduce index size on disk]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window changes in 1.16.0]]
 <!-- chronolog:end -->
 

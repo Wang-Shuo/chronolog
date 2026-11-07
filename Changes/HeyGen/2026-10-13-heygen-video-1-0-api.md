@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 350a479b2403cf3148d0d90b067a2050eda3eaeee3ab2508faa256e547b1e8dd
+machine_hash: bebb1ba08e78fbfd76366d03b86673bda81c64ca622600565265125be3b9f6d3
 product: heygen
 product_name: HeyGen
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-video-plan-redesigned|Video Plan, redesigned]]
-- Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-video-generation-and-preview-generate-videos-through-conversation-check-their-st|Video generation and preview]]
+- Later: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-flux-3-video-in-2k-and-4k|FLUX 3 Video in 2K and 4K]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0925e82fa008d1deedfefda07671f610df78ffd97f22d25a907703772ada521
+machine_hash: 2a0af1e9823c4caf3f854c00542e134a4f6eb493595102343c21880cb9390dea
 product: opencode
 product_name: OpenCode
 record:
@@ -111,7 +111,7 @@ Source: https://opencode.ai/changelog/v1.17.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-desktop-restore-linux-launcher-and-icon-identity-so-pinned-apps-keep-opening-cor|Desktop Restore Linux launcher and icon identity so pinned apps keep opening correctly]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git commands no longer flash a console window on Windows]]
+- Later: 2026-06-10 · Wispr Flow · [[Changes/Wispr Flow/2026-06-10-see-the-flow-hub-in-four-new-languages-desktop|See the Flow Hub in four new languages (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

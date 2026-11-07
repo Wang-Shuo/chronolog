@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c29f0ac01e8646e708e20d71eb12023a42704cec7b119b1f767a1bc1d2fb7f1d
+machine_hash: 3bcd51506c2362be5fd1557d7f5fb5d938eeb3cf49d34b7ed2c51b864d5d5899
 product: gamma
 product_name: Gamma
 record:

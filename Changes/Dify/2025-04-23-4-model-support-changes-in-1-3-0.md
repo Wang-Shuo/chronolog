@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89ddec7cdec1b8b04a116db02e8e69cfa8da1caabc5606e43cf45323cdd6afcf
+machine_hash: 5ecd2d6dd89e8ac6e8e527192e6ae3d687515feca23df53faf1934cb10e52643
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Model Support changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source
-  link) a fully open-Source 14B coder…]]'
+- '[[Changes/AnythingLLM/2025-04-18-4-model-support-changes-in-v1-8-0|4 Model Support
+  changes in v1.8.0]]'
 - '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
   in v3.13.0]]'
 - '[[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in
@@ -106,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 ## Nearby in Model Support
 
 - Earlier: 2025-04-19 · Gemini · [[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in Gemini]]
-- Later: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes in v3.13.2]]
+- Later: 2025-04-23 · Superwhisper · [[Changes/Superwhisper/2025-04-23-gpt-4-1-models-api-key-encryption|GPT-4.1 Models & API Key Encryption]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

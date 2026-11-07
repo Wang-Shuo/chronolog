@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27ca87bb3e7de27c4d9b0fc4f5475fdc7a345e9550ad8981b8d82aec5fb3f617
+machine_hash: 5a3cf4b393b55b1165137da75c698ce25bf47cc95ebc59e2d8f0cb456d286420
 product: dify
 product_name: Dify
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration changes in v1.0.71]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration changes in rust-v0.145.0]]
+- Later: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-notes-you-can-now-share-a-note-as-an-image|Notes : You can now share a note as an image]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

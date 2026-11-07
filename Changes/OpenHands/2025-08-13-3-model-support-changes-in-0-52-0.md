@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52a32bc95dc9839fa39d72190ef721d7b2db169016882af546cbd376c54435d6
+machine_hash: 667288e00054a5ec2a4ab3b993b15bced08a61556b1320acb706a1f2597041f3
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in 0.52.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2183-include-output-truncation-message-in-too|(source
-  link) Include output truncation message in tool…]]'
-- '[[Changes/Gemini CLI/2025-08-12-7-model-support-changes-in-v0-1-19|7 Model Support
-  changes in v0.1.19]]'
+- '[[Changes/LM Studio/2025-08-12-5-model-support-changes-in-lm-studio-0-3-23|5 Model
+  Support changes in LM Studio 0.3.23]]'
+- '[[Changes/Superwhisper/2025-08-12-messages-mode-custom-model-fixes|Messages Mode
+  & Custom Model Fixes]]'
 - '[[Changes/Cline/2025-08-13-4-model-support-changes-in-v3-24-0|4 Model Support changes
   in v3.24.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-08-13-0-52-0-github-239694560-820ac3ef|openhands-2025-08-13-0-52-0-github-239694560-820ac3ef]]'

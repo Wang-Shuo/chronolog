@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5e9b9fea16d44a8eb735a3c6af0cd58e40d02fb6c71cfd34522d73ac13d7ab21
+machine_hash: 1145425755cdd2acd4c31a7ce69e2f3720f6a0369ed41df51d7c1dbdc1ee9000
 product: open-webui
 product_name: Open WebUI
 record:
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|🧰 Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]
-- Later: 2026-10-16 · Replit · [[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions Partner]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings|AI Skills : Browse installed extension skills in AI settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

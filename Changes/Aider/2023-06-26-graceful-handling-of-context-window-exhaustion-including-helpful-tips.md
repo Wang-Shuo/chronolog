@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13c45150be6a1f6f666f624af023e7b9cdbfb4cae2c68c80e1e4860dd59da929
+machine_hash: c84cccaa05f6ae2b519f44b28065f3c41eca4f33a34abc1f98cc55d94993c5d8
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: Graceful handling of context window exhaustion, including helpful tips
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following
-  this, you''ll be able to see an improved version of codebase context…]]'
-- '[[Changes/Aider/2023-06-07-2-context-window-changes-in-v0-5-0|2 Context Window
-  changes in v0.5.0]]'
+- '[[Changes/Raycast/2023-06-07-ai-chat-new-action-to-submit-a-message-without-generating-a-response-it-s-useful|AI
+  Chat: New action to submit a message without generating a response]]'
+- '[[Changes/Raycast/2023-06-07-placeholders-in-ai-commands|Placeholders in AI Commands]]'
 - '[[Changes/Aider/2023-06-25-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
   handling of context window exhaustion, including helpful tips]]'
 source_release: '[[Releases/Aider/aider-2023-06-26-v0-7-1-github-109837718-1268ec80|aider-2023-06-26-v0-7-1-github-109837718-1268ec80]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7352641c07737f9cb091900ba64123a5cf5cd867cd7dd805646fe5e3329140fa
+machine_hash: e48929e7f794f29fb496062462b92bb6330b2e7c1e0a1c5d51c12d39b80962ef
 product: openclaw
 product_name: OpenClaw
 record:
@@ -56,12 +56,12 @@ record:
   title: Plugin authors can await session history, extension changes and replay metadata
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-plugin-requested-answer-revisions-wait-for-session-history-to-become-available-a|Plugin-requested
-  answer revisions wait for session history to become available…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn
   running prompts stay removed after session resume]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote
   session resume now uses your configured GitHub auth for --resume and --connect]]'
+- '[[Changes/Devin/2026-10-09-session-resume-window-is-now-14-days|Session resume
+  window is now 14 days]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
 source_type: openclaw_changelog
 theme: projects-workspaces
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote session resume now uses your configured GitHub auth for --resume and --connect]]
+- Earlier: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-session-resume-window-is-now-14-days|Session resume window is now 14 days]]
 - Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older session history]]
 <!-- chronolog:end -->
 

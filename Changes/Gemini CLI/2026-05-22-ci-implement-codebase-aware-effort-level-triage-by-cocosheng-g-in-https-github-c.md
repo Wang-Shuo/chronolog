@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1798750a185f713932973db37c476a06b32892ee955b1bf8270125614dc423f
+machine_hash: 6c37b889479208b402c65199520a66f71b18dae0bc334a835b51ec6218d75c4b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'ci: implement codebase-aware effort level triage'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-core-collapsed-single-child-directories-in-the-diff-viewer-file-tree|Core
-  Collapsed single-child directories in the diff viewer file tree]]'
 - '[[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added
   a diff viewer in the TUI for reviewing changes]]'
 - '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
   detail view can now be scrolled with the keyboard…]]'
+- '[[Changes/Devin/2026-05-22-network-config-editor-redesign|Network Config Editor
+  Redesign]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-network-config-editor-redesign|Network Config Editor Redesign]]
 - Later: 2026-05-22 · Google Antigravity · [[Changes/Google Antigravity/2026-05-22-2-editor-experience-changes-in-hub-v2-0-6-antigravity-ide-integration|2 Editor Experience changes in HUB v2.0.6 — Antigravity IDE integration]]
 <!-- chronolog:end -->
 

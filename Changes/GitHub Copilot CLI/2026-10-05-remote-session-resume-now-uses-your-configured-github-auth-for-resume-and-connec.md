@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b6948593042e62f5f44e49be1567f21bc0093518cb1ae6d04abce1cbb825270
+machine_hash: 9a0ac9e5f9eb6f349a8db0712b002deb369389fe6ae417980944a15e43e3d4a3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn running prompts stay removed after session resume]]
-- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin authors can await session history, extension changes and replay metadata]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-session-resume-window-is-now-14-days|Session resume window is now 14 days]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

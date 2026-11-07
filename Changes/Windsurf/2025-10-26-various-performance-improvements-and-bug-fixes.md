@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50119b422fca0803f63c0c91f1e4f00905279823e8d15eb17472e9e3c13b1363
+machine_hash: 0886778d95804a3abaf384c817998a0d5f3b578805867d5c5e0510f4cfeef4f8
 product: windsurf
 product_name: Windsurf
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]]
+- Later: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-2-reliability-and-performance-changes-in-raycast-windows-0-33|2 Reliability and Performance changes in Raycast windows 0.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

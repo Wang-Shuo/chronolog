@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19d5b9bcfe83404021b5ff9e06ff22c3ce6bfe9bd2b151eef4fe4de3f2f84b45
+machine_hash: 7fa396666932f5b888d693e2e1b8f71d463bfb59013934b013d3be7975d7b972
 product: ollama
 product_name: Ollama
 record:
@@ -41,8 +41,7 @@ record:
   title: Improved prompt processing speeds of Qwen3 MoE on macOS
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
-  errors for edit tool calls for Windows]]'
+- '[[Changes/Raycast/2025-04-30-raycast-for-ios-is-here|Raycast for iOS is here]]'
 - '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
   small tweaks for mobile styles]]'
 - '[[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]'

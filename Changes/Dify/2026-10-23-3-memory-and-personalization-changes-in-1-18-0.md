@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e917aaa3c7ef4ea0d3e401f600e5dcdd20083b775ef629feafc4021e71239c0c
+machine_hash: d5f436526f3f3342d3efedef5d4c28cccf7b42681cdc1ae001f0375633452398
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: 3 Memory and Personalization changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory
-  search recognizes more accented and Korean spellings and keeps keyword search…]]'
-- '[[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4
-  Memory and Personalization changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r|This
+  update brings new commands, useful improvements, and plenty of fixes across Raycast]]'
+- '[[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r-e70c05|This
+  update brings new commands, useful improvements, and plenty of fixes across Raycast]]'
 - '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
   Memory and Personalization changes in rust-v0.164.0]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'

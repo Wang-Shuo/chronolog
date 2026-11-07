@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f9336f3a9d9714573672c6fae4f89584e4a355ead38bdb598039896097fb5e2
+machine_hash: 1f205d0e66243557922c4cabc3a9d49347b7a04220c2e550e768ae0675224861
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: Share photos to discuss them out loud
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
-  provider information]]'
-- '[[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]'
 - '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
   shared helpers for suite tests (♯6460) — @aibrahim]]'
+- '[[Changes/Devin/2025-11-21-hebrew-language-support-for-deepwiki|Hebrew Language
+  Support for DeepWiki]]'
+- '[[Changes/Devin/2025-11-21-steerable-wiki-now-default|Steerable Wiki Now Default]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote shared helpers for suite tests (♯6460) — @aibrahim]]
+- Earlier: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-steerable-wiki-now-default|Steerable Wiki Now Default]]
 - Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-2-collaboration-changes-in-1-10-1|2 Collaboration changes in 1.10.1]]
 <!-- chronolog:end -->
 

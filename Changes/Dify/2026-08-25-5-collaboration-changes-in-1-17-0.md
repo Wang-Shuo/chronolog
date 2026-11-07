@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 987e6e0daadd01cb830c647ff3b1a61a1ca57263d342b8c878a8336cda065606
+machine_hash: e53a7a1ab2f98d481b9859a953c79372823ef295b78113c634a10011e4dc7c8f
 product: dify
 product_name: Dify
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Collaboration changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration
-  changes in rust-v0.148.0]]'
+- '[[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team-fdcf2e|Feedback
+  : New Ask Feedback AI Extension to contact the Raycast team]]'
 - '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
   a read-only snapshot of a Codex chat]]'
 - '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration

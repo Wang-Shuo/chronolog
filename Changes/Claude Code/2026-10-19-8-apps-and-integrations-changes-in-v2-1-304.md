@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7f8b9e1551ca327dc5395c0ee68e6d75ad71be91922c0a00c0aa7ba54fe3471
+machine_hash: 73cc94e3b862a44ff68c3218e46e81b76350b7643c17a585415a6454eb7187c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,10 +66,10 @@ record:
   title: 8 Apps and Integrations changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance
-  warnings]]'
-- '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
-  icons no longer fail to load in project settings]]'
+- '[[Changes/Krea/2026-10-17-enable-integrations-from-the-agent-s-connect-button|Enable
+  integrations from the Agent''s Connect button]]'
+- '[[Changes/Krea/2026-10-17-custom-apps-remember-settings-per-session|Custom apps
+  remember settings per session]]'
 - '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
   and Integrations changes in v2026.10.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
@@ -126,7 +126,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps and Integrations changes in v2026.10.5]]
-- Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-propose-edits-to-shared-plugins-and-skills|Propose Edits to Shared Plugins and Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

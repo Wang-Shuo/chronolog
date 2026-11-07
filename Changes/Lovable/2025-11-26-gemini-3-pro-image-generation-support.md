@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3493e9bf1b1cea914704f3583cd9be3101c33e157495a065030500442c2bc705
+machine_hash: 77cb23e6113c3b28cc40e6a818ae28fd609f12b21e265b7fddb036c2c208c7d9
 product: lovable
 product_name: Lovable
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support changes in v0.18.0]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support changes in v3.38.3]]
+- Later: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-2-model-support-changes-in-superwhisper-macos-2-7-0|2 Model Support changes in Superwhisper macOS 2.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

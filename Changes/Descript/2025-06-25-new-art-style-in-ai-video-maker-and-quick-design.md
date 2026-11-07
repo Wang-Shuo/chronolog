@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b31c6d9866ca2aa4d7da97a288593de83811db5dce3374be8ec77463fdb406d4
+machine_hash: 1803fc6d21ec88a28e4e20c3d4af91ef6f75dee8eadaa10f6fda1b47d38b5d4d
 product: descript
 product_name: Descript
 record:
@@ -50,12 +50,12 @@ record:
   title: New art style in AI video maker and Quick design
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-17-if-you-wanna-switch-back-to-v6-1-go-under-the-web-settings-on-your-prompt-bar-or|If
-  you wanna switch back to V6.1 go under the web settings on your prompt bar…]]'
 - '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
   are also letting you animate images uploaded from outside of Midjourney]]'
 - '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
   saving an video to share, please right click your video and press…]]'
+- '[[Changes/Raycast/2025-06-20-4-interface-experience-changes-in-raycast-windows-0-24|4
+  Interface Experience changes in Raycast windows 0.24]]'
 source_release: '[[Releases/Descript/descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3|descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When saving an video to share, please right click your video and press…]]
+- Earlier: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-4-interface-experience-changes-in-raycast-windows-0-24|4 Interface Experience changes in Raycast windows 0.24]]
 - Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience changes in 1.5.0]]
 <!-- chronolog:end -->
 

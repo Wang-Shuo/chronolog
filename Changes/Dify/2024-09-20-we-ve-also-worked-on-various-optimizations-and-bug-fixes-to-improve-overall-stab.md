@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83ece2abf5c0dc1fc41b85b0d40c28c8d44f6514dbada69cb2905bec3d1ccdcb
+machine_hash: bc7012e7467c44bb4a7d0fbd8f246d8e901345b85a62110c7191404804ec60c3
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,7 @@ record:
     stability
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The
-  ollama/ollama container image will now start running almost immediately…]]'
+- '[[Changes/Raycast/2024-09-18-sequoia-ready|Sequoia Ready]]'
 - '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
   Adds folder''s files all at once to speed up your workflow even more]]'
 - "[[Changes/Open WebUI/2024-09-19-chat-message-deletion-resolved-issues-with-chat-message-deletion-ensuring-a-smoo|\U0001F6E0️

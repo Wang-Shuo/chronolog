@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e16cab6343b691c12a8c2f9008087748d24ebcc0a1c61efa484447255c500ec
+machine_hash: cf9248e29837abea837d9ceebda6841d9a1d6023dfb2f5ca75439730ebe716c4
 product: v0
 product_name: v0
 record:
@@ -43,11 +43,12 @@ record:
   title: Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
-- '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
-  Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
-- '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
-  the workspace editor role to edit projects]]'
+- '[[Changes/Raycast/2026-06-18-ai-browser-extension-improvements-for-fetching-the-currently-active-tab-b8506d|AI
+  : Browser extension improvements for fetching the currently active tab]]'
+- '[[Changes/Devin/2026-06-19-deduplicated-file-tabs-with-version-switcher|Deduplicated
+  File Tabs with Version Switcher]]'
+- '[[Changes/Devin/2026-06-19-file-path-visible-during-streaming-edits|File Path Visible
+  During Streaming Edits]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require the workspace editor role to edit projects]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-file-path-visible-during-streaming-edits|File Path Visible During Streaming Edits]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289 code-mode: preserve initial yield at completion @cconger]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ce91ee0e9c13dabb1452be5d19fff6ceeda3eef9e788cd5c491673e9a86b16bf
+machine_hash: 20b7af9211449649cb9a5780e32a772e237e5036e6a1f62f209efd71bc01ffca
 product: lovable
 product_name: Lovable
 record:
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand picker shows a selection indicator (❯) next to the highlighted item]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2 Interface Experience changes in v1.0.37]]
+- Later: 2026-04-24 · Superwhisper · [[Changes/Superwhisper/2026-04-24-added-onboarding-toasts-to-help-new-users-get-started|Added onboarding toasts to help new users get started]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

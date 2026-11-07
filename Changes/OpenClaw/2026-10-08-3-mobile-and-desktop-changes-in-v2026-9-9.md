@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 753e0280c707e73794dc5931581c3f56790885c132627055ca326dae193316e5
+machine_hash: b7d849b125fff403f95823a697ba171fd8ace2844234682906ff31613a63d7e4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -115,7 +115,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.9
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]
-- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-clipboard-history-added-an-option-to-save-universal-clipboard-items-from-your-ip|Clipboard History : Added an option to save Universal Clipboard items…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

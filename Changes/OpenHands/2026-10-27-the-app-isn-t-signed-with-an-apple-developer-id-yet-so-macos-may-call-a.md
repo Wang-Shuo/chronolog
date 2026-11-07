@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 030943a19a6a3120af12d257deb0a7075b4c724c93b857972f109c097083d0fb
+machine_hash: ef4e72719e0fda743d5fa6cca58ed770e46dc80b6b9a34f5f62335d390ab2a16
 product: openhands
 product_name: OpenHands
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the desktop app experience]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503 Fix macOS standalone release pruning @etraut-openai]]
+- Later: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-updated-app-icon-style-to-match-macos-dark-mode|Updated app icon style to match macOS dark mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

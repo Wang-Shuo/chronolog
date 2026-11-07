@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 736ee74d7d27c87bd1d6a33603f03d9f616ddbffe48306f04d28133f855131cd
+machine_hash: c44e5dfe7e5dd7c19ccb4225d8009b8842456026ec589d592e7f661408055a43
 product: openclaw
 product_name: OpenClaw
 record:
@@ -91,7 +91,7 @@ Source: https://docs.openclaw.ai/releases/2026.8.1
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
-- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and Audio changes in v2026.8.2]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-dictation-improved-connection-reliability-automatically-stops-when-leaving-a-cha|Dictation : Improved connection reliability, automatically stops when leaving…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

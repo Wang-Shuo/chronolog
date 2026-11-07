@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa0629f17326d8b1351849354b61664bac84df60ceeb91d547a825425182f0f9
+machine_hash: 13aa49eae0eaf495787aba96220b6160ff06220437df8db31e6696f10ff5c5d7
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: track authenticated Canvas arrivals'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
-  Data changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
   artifact database writes]]'
 - '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
   designs, decks, and docs in any conversation]]'
+- '[[Changes/Devin/2026-09-16-copied-messages-keep-their-formatting|Copied Messages
+  Keep Their Formatting]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: file-data
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-16 · Claude · [[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create designs, decks, and docs in any conversation]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-copied-messages-keep-their-formatting|Copied Messages Keep Their Formatting]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d59c5b2a10477c37ac5af1e4362e7ce0e021c411572889e18a76b354a60a5ba5
+machine_hash: 7ab01cb38831ec4846eab7e7824738b1031538eda96494719daa73a5bb2fbec8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX
-  runner adds logprobs support for compatible models]]'
+- '[[Changes/Superwhisper/2026-04-22-4-model-support-changes-in-superwhisper-windows-1-3-9|4
+  Model Support changes in Superwhisper Windows 1.3.9]]'
 - '[[Changes/Codex CLI/2026-04-23-6-model-support-changes-in-rust-v0-123-0|6 Model
   Support changes in rust-v0.123.0]]'
 - '[[Changes/Codex CLI/2026-04-23-4-model-support-changes-in-rust-v0-124-0|4 Model

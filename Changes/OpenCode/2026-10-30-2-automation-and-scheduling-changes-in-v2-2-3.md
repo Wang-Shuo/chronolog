@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e1c619c57174a7300097b8942aaf40f6448f1eed885d1f6354c992c8bb81fa0
+machine_hash: 18057b2d0b3f16a99ef9e37f1a5834e0e952f2c07cb8a9b570df0c3e0274aab5
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Automation and Scheduling changes in v2.2.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
-  Automation and Scheduling changes in v0.12.5]]'
 - '[[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK
   Add…]]'
 - '[[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK
   Added if and until inputs for client.experimental.schedule.create , plus…]]'
+- '[[Changes/Devin/2026-10-30-reaction-trigger-for-teams-automations|Reaction Trigger
+  for Teams Automations]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|opencode-2026-10-30-v2-2-3-0c0c59eb]]'
 source_type: opencode_changelog
 theme: automation-scheduling
@@ -94,7 +94,7 @@ Source: https://opencode.ai/changelog/v2.2.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK Added if and until inputs for client.experimental.schedule.create , plus…]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-reaction-trigger-for-teams-automations|Reaction Trigger for Teams Automations]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core Made enabled schedules run under opencode serve and coordinated multiple server…]]
 <!-- chronolog:end -->
 

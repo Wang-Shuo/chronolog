@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5152353ef72352d59fcd674e696f4b34e441e23e86417c0268d74124b61eda2
+machine_hash: d6f80009eeac3c8c10b121eb07b801d190a469736a9e86131017893148bca0a9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2 Interface Experience changes in Slash commands, the Shopify…]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-2-interface-experience-changes-in-raycast-macos-0-70|2 Interface Experience changes in Raycast macos 0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

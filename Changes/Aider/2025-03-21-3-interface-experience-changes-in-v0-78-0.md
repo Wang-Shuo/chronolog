@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af4ac69e5f7d88c90725b3dda79e79e5193447f7bdf713373974b44d93a522a6
+machine_hash: 2dc314e9779dbc5a624c577abb0d29a6a8388f6ee1d553e46af70df9673b5138
 product: aider
 product_name: Aider
 record:
@@ -46,8 +46,9 @@ record:
   title: 3 Interface Experience changes in v0.78.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable
-  makes some improvement to Lovable’s project settings layout for a more…]]'
+- "[[Changes/Raycast/2025-03-14-today-we-are-releasing-the-first-iteration-of-our-emoji-picker-to-help-you-expre|Today
+  we are releasing the first iteration of our Emoji Picker \U0001F389 to help you
+  express…]]"
 - '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
   long press on your message to open menu actions: Copy, Edit]]'
 - '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved

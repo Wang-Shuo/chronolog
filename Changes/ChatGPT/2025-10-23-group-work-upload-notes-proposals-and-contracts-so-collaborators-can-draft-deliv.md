@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc3e254d2c449fd54560a83407ae4391a82623e19d4b788666429b0002dfe83c
+machine_hash: 05521e79c67ab7c8c3a87ba05a9c08e5c5363dd5edd30462050c5e90347e76cf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
     draft…'
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need
-  to create similar content with a consistent structure and formatting?]]'
 - '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
   and Performance changes in 1.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made
   improvements to the memory footprint of Copilot CLI, especially when dealing…]]'
+- '[[Changes/Superwhisper/2025-10-22-parakeet-vocabulary-scrollbars-in-settings-stability-improvements|Parakeet
+  Vocabulary, Scrollbars in settings, Stability improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made improvements to the memory footprint of Copilot CLI, especially when dealing…]]
+- Earlier: 2025-10-22 · Superwhisper · [[Changes/Superwhisper/2025-10-22-parakeet-vocabulary-scrollbars-in-settings-stability-improvements|Parakeet Vocabulary, Scrollbars in settings, Stability improvements]]
 - Later: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-chore-ci-speed-up-macos-builds-by-using-larger-runner-by-javisoto-in-https-githu|chore(ci): Speed up macOS builds by using larger runner]]
 <!-- chronolog:end -->
 

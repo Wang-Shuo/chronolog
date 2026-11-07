@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8954e03310822073ed15e270c14949d3677b2a23926803b0ca09bf6c3fdbc739
+machine_hash: 0ec30b3ea5cc1562ae25da033810bf96a198e68eb916985fcbd107f9d5b16ef6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: Added `DISABLE_UPDATES` env var to completely block all update paths including…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
-  README now uses the current ChatGPT Business plan name (♯16348)]]'
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
-  out ads in Australia, New Zealand, and Canada]]'
+- '[[Changes/Devin/2026-04-17-github-enterprise-server-in-review|GitHub Enterprise
+  Server in Review]]'
+- '[[Changes/Devin/2026-04-17-secure-mode-description|Secure Mode Description]]'
 - '[[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases

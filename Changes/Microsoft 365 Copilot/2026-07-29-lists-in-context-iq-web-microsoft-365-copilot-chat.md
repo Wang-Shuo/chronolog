@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f99e8002775ca207a33d4880806e4577d502192790ccc62f3cf4dce16cb89d0b
+machine_hash: 1d2813f61764c4e42dffdbde97c5e54e68c317c7aa04b8a7fdaba60094491efc
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -43,10 +43,10 @@ record:
   title: Lists in Context IQ [Web] (Microsoft 365 Copilot Chat)
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
-  changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
   simplify repository context]]'
+- '[[Changes/Raycast/2026-07-28-ai-improved-context-handling-for-tools-and-large-chats-which-should-solve-a-few|AI:
+  Improved context handling for tools and large chats, which should solve a few…]]'
 - '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
   Window changes in rust-v0.146.0]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b|microsoft-365-copilot-2026-07-29-2026-07-29-599fab6b]]'

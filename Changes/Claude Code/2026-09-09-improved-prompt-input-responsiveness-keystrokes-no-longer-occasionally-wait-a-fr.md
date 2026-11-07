@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e450605b6a9d61f03247d8324d2f01a47d9b8ebfa50beb8925b9ec684a3f653f
+machine_hash: dbd9ab98393d94481482a5dab837c586e7e3fa4b8d2596ad499571a647e5da39
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-08 · Qoder · [[Changes/Qoder/2026-09-08-multitasking-performance-lower-memory-usage-and-reduced-messaging-overhead-when|Multitasking performance: Lower memory usage and reduced messaging overhead…]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2 Reliability and Performance changes in v2.1.268]]
+- Later: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-minimax-h3-max-turbo-and-native-1080p|MiniMax H3 Max Turbo and native 1080p]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

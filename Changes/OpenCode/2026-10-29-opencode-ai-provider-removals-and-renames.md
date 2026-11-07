@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 172640aa126c0be288554083c37609cd7ae0c5f16e7ebfee116494163cd64ad7
+machine_hash: d00f21a220c5f97806a9f3f27d21e2a9eadcc2374c7e0ac2ac885ec9426aea8d
 product: opencode
 product_name: OpenCode
 record:
@@ -114,7 +114,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-10-mobile-and-desktop-changes-in-v2-2-2|10 Mobile and Desktop changes in v2.2.2]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Later: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini tone slider updated to match macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

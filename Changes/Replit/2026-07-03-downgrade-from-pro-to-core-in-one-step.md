@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 823d0ea573581b11d058fbe2eb058355bd0d2d6e87a198ffb11c0332337f8217
+machine_hash: 42f79b8e15a3b7edbf9fa9ea425a423b607da40e67b4aecfe030c58c320d33bd
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Downgrade from Pro to Core in one step
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When
-  a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]'
-- '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
-  a live event subscription stream]]'
+- '[[Changes/Recraft/2026-07-01-credit-cost-is-21-credits-per-second|Credit cost is
+  21 credits per second]]'
+- '[[Changes/Recraft/2026-07-01-cost-7-credits-per-generation|Cost: 7 credits per
+  generation]]'
 - '[[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically
   compress oversized images before they reach the model, downsampling…]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'

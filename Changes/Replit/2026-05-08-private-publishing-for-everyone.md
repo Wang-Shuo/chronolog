@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a51929c1e392e8fe9e97a9f4914efeb0f2cda725b64110d17b2d13a94a4fb1df
+machine_hash: ed1bd1c1fea7a390e2869a6b774ba1d5472dc595f7faf7b29b62ec2a5689357d
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Private publishing for everyone
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved
-  visual consistency in slash command dialogs and /login, /upgrade…]]'
 - '[[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2
   Account and Access changes in rust-v0.129.0]]'
 - '[[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2
   Account and Access changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-general-faster-app-startup-and-a-more-reliable-launch-at-login-experience|General
+  : Faster app startup and a more reliable launch-at-login experience]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'
 source_type: replit_changelog
 theme: account-access
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2 Account and Access changes in rust-v0.130.0]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-general-faster-app-startup-and-a-more-reliable-launch-at-login-experience|General : Faster app startup and a more reliable launch-at-login experience]]
 - Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-4-account-and-access-changes-in-v0-9-3|4 Account and Access changes in v0.9.3]]
 <!-- chronolog:end -->
 

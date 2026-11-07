@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ea2ed19c695825ff6e8710c9eb9bcdf6dfc4d58b57f2d7f2a944ea16744bf64
+machine_hash: a9e39fbd90c9175ea96228862e79938d378f75ec0dc6cd50de1f3fafa48f4b71
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
-  and Integrations changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-apply-universal-sdk-timeout-by-timothycarambat-in-https-github-com-mintplex-labs|apply
+  universal sdk timeout]]'
 - '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
   Apps and Integrations changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4 Apps and Integrations changes in v1.0.61]]
-- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-add-an-interrupt-hook-event-that-fires-when-the-user-interrupts-a-turn-e-g-press|Add an Interrupt hook event that fires when the user interrupts a turn…]]
+- Later: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-improved-slack-message-rendering|Improved Slack Message Rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

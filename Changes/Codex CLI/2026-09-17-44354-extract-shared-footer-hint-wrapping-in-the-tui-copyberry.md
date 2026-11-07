@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7ef46001f05ea107a3ca3f4eacda97a609888a49aa6cbd1ec1f02aa0fefc904
+machine_hash: 5be43dcb5e76255d2a5bae5d1abeedca056106762f8ba9e1ab2a84329e5dd5fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: '#44354 Extract shared footer hint wrapping in the TUI @copyberry'
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-take-your-team-s-skills-to-claude-code-codex-cursor-and-more|Take
-  your team’s skills to Claude Code, Codex, Cursor, and more]]'
 - '[[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You
   know how some people are really good at prompting AI?]]'
+- '[[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'

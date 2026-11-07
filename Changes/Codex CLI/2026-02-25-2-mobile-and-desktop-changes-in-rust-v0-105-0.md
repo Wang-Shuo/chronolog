@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abb88a3a55f8937459819b7fd7e4c7e90a8c4f10824c5311722a5fa3e6451b81
+machine_hash: 37acf0485a6502119318b0b0a37864cc44da7cff45d8fbf978189295fbb8c20a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile
-  and Desktop changes in v1.2.10 + 1]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
   files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
+- '[[Changes/Devin/2026-02-24-full-desktop-testing|Full Desktop Testing]]'
 - '[[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile
   and Desktop changes in v1.2.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'

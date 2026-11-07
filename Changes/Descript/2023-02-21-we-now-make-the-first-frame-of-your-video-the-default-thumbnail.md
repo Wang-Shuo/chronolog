@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f9222ba8a7e37a9fbbd4f3851c8764007e2bfbda7a6f35c387977534a0011ce
+machine_hash: 88cdc726758ca7b490eba52c1a5334c1864f8d04603e878020642a23729f99d7
 product: descript
 product_name: Descript
 record:
@@ -43,9 +43,10 @@ record:
   title: We now make the first frame of your video the default thumbnail
   type: change
 related_changes:
-- '[[Changes/Descript/2022-11-15-green-screen-https-help-descript-com-hc-en-us-articles-10327693275405-green-scre|Green…]]'
 - '[[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video
   timeline dragging]]'
+- '[[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar:
+  You can now join Cal.com video meetings right from Raycast]]'
 - '[[Changes/Descript/2023-02-21-updated-the-icons-for-buttons-to-open-the-share-page-and-unpublish-the-video|Updated
   the icons for buttons to open the share page and unpublish the video]]'
 source_release: '[[Releases/Descript/descript-2023-02-21-63f548b5edfa71375d3f58e1-41e64e91|descript-2023-02-21-63f548b5edfa71375d3f58e1-41e64e91]]'
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video timeline dragging]]
-- Later: 2023-03-09 · Synthesia · [[Changes/Synthesia/2023-03-09-now-with-just-one-click-you-can-easily-edit-your-videos-we-re-also-introducing-v|The EDIT Button is here!]]
+- Earlier: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar: You can now join Cal.com video meetings right from Raycast]]
+- Later: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2 Multimodal Input changes in Raycast macos-v1 1.48.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

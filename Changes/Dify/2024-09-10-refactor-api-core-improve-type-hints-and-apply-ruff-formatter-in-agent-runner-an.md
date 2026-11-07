@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cf89e541703b062890cb51cc3835788e8b925bc68036487870e2d1cbc9c61e4f
+machine_hash: 5a5164a9c87982e4d09eb0aa8e42a4c6c3772232b33b661e60a047d03e6b0cde
 product: dify
 product_name: Dify
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files display updated content after agent edit]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in 0.9.0]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-3-agent-mode-changes-in-v1-2-2|3 Agent Mode changes in v1.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

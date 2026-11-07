@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7d1b79efb4e03e4aa79746ac3449559fc26e82c55db162889615ee010d47fd57
+machine_hash: e8ef199f95ed8aa28dcf4f53871ccf2887a68a5f818550f9c1180452d71d5306
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: Added cwd support for local MCP servers so they can start from a workspace-relative…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2
-  Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]'
-- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
-  in place]]'
+- '[[Changes/Devin/2026-06-12-ultra-and-fast-mid-session-toggles|ultra and !fast Mid-Session
+  Toggles]]'
+- '[[Changes/Devin/2026-06-12-custom-oauth-for-marketplace-mcp-servers|Custom OAuth
+  for Marketplace MCP Servers]]'
 - '[[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add
   runtime support for dynamic MCP server updates, reference skills, replay…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-12-v1-17-4-8588f84b|opencode-2026-06-12-v1-17-4-8588f84b]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add runtime support for dynamic MCP server updates, reference skills, replay…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-windows-0-64|2 Apps and Integrations changes in Raycast windows 0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

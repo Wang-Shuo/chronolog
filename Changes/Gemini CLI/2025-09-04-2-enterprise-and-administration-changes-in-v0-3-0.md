@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73fa80fea4925d6626512a7524500937727bc317aa624a2b2106a858ca6175f6
+machine_hash: 40f1b9ebebc1d1de5c7732e2db5b96ca570ce865d9cac2131f75ad1b8e30366a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Enterprise and Administration changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-22-multiple-sso-providers-for-enterprise|Multiple SSO
-  providers for Enterprise]]'
 - '[[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Raycast/2025-08-25-please-note-that-enabling-or-disabling-this-feature-requires-administrator-privi|Please
+  note that enabling or disabling this feature requires administrator privileges]]'
 - '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
   Now Available on ChatGPT Free Tier]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
-- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Later: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-enterprise-infrastructure-management|Enterprise Infrastructure Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

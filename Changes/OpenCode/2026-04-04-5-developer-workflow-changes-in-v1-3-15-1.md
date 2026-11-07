@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b924e9cece4981eee8e54423a3f410ef945cafa38443e1e24d6a40dfff5e1b57
+machine_hash: 774dc1f79e3ba4aff02b6d965b907ecf0a47e059b80c729a1cd777f8fc36053d
 product: opencode
 product_name: OpenCode
 record:
@@ -52,8 +52,7 @@ record:
   title: 5 Developer Workflow changes in v1.3.15 + 1
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
-  changes in 3.0]]'
+- '[[Changes/Devin/2026-04-03-pr-review-chat-ci-tools|PR Review Chat CI Tools]]'
 - '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'
 - '[[Changes/OpenCode/2026-04-04-restored-git-backed-review-modes|Restored git-backed
   review modes]]'

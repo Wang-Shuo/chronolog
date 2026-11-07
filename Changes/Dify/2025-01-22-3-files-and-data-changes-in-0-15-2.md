@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc431850e3608d22089e7d81dd192719754b1d0a35e7a11e18a812d6f32452c5
+machine_hash: 4ba4a5f3c891d21b9321ad04ca2aac3bb1dbe415b11b26188e48f38187bb56c5
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.2
 ## Nearby in Files and Data
 
 - Earlier: 2025-01-15 · ChatGPT · [[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]
-- Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|🖥️ Code Interpreter]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-files-and-data-changes-in-v1-4-0|2 Files and Data changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 63ba7c62dd47fc9d4805b104f0ad42e83e650a9b493a3198c4aa67255b784a11
+machine_hash: 579b8bf425e53cb79b23b22376cbdf169bb0787bc23f745695410ec3729d7ceb
 product: descript
 product_name: Descript
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-better-comments-on-mobile|Better comments on mobile]]
-- Later: 2021-12-21 · Descript · [[Changes/Descript/2021-12-21-webcam-recording-now-supported-on-windows-early-access-feature|Webcam recording now supported on Windows (early access feature)]]
+- Later: 2021-11-30 · Raycast · [[Changes/Raycast/2021-11-30-window-management-added-previous-desktop-next-desktop-and-reasonable-size-comman|Window Management: Added "Previous Desktop", "Next Desktop" and "Reasonable Size" commands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 252b178fdd42c8d43da533374b44c0e2012e4b4c0b7efa6a9542ca1670f9efde
+machine_hash: 2671e5d6174ac3c9f4ce78315db66bbde2083bd29ad488292c02d9bf724848b7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose Anthropic models when editing with Copilot in Word Web (Word)]]
-- Later: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made session compaction keep complete recent turns and produce clearer summaries…]]
+- Later: 2026-08-12 · LM Studio · [[Changes/LM Studio/2026-08-12-improved-llama-cpp-model-load-error-messages|Improved llama.cpp model-load error messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

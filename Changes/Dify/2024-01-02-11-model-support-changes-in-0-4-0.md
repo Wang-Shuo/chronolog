@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d31c9741f83dfcecced9a6f49495a55926861216b87dc5236623ea3cd5e1c901
+machine_hash: 786297add6ce86cdb9da3cbc2a9af9c5198203dd5da5437ce986c9060d155a19
 product: dify
 product_name: Dify
 record:
@@ -74,12 +74,12 @@ record:
   title: 11 Model Support changes in 0.4.0
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-19-2-model-support-changes-in-0-3-34|2 Model Support changes
-  in 0.3.34]]'
 - '[[Changes/Ollama/2023-12-19-6-model-support-changes-in-v0-1-17|6 Model Support
   changes in v0.1.17]]'
 - '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
   in v0.19.0]]'
+- '[[Changes/Superwhisper/2023-12-20-show-output-from-language-model-as-it-outputs|Show
+  output from language model as it outputs]]'
 source_release: '[[Releases/Dify/dify-2024-01-02-0-4-0-github-135559615-949bf14a|dify-2024-01-02-0-4-0-github-135559615-949bf14a]]'
 source_type: github_releases
 theme: model-support
@@ -135,7 +135,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.4.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-20 · Aider · [[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes in v0.19.0]]
+- Earlier: 2023-12-20 · Superwhisper · [[Changes/Superwhisper/2023-12-20-show-output-from-language-model-as-it-outputs|Show output from language model as it outputs]]
 - Later: 2024-01-03 · Ollama · [[Changes/Ollama/2024-01-03-5-model-support-changes-in-v0-1-18|5 Model Support changes in v0.1.18]]
 <!-- chronolog:end -->
 

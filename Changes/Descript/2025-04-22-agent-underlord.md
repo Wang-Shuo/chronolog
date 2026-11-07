@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1d2f9bc57f7f0899f92a1a8e7b3ee043b099be295cc2e46d505609a38e94f39c
+machine_hash: f1867847f1bb24aadac48d6af2cc8fc4a08c9375f745e23de97f8543bcc0d922
 product: descript
 product_name: Descript
 record:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bafb5d39afff8d77f8e4eae50a7aed98573c4d67ae1e73f81555ee539241dfde
+machine_hash: 3c6bbf2daca6af5d0d62ff6d2de5c18ffa0723e17cdf00bd3c3452a70b1d8656
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: GitHub connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|\U0001F9ED
-  Sougou Web Search Integration]]"
-- '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
-  (Powered by AI)]]'
+- '[[Changes/Devin/2025-04-25-we-shipped-deep-wiki-http-www-deepwiki-com-up-to-date-documentation-you-can-talk|We
+  shipped Deep Wiki((source link) Up-to-date documentation you can talk to]]'
 - "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
   Optimized Faster Web Search & Multi-Threaded Queries]]"
+- '[[Changes/AnythingLLM/2025-05-06-update-bing-search-api-azure-service-copy-unavailable-by-thejjw-in-https-github|Update
+  Bing Search API Azure Service copy - Unavailable]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|🚀 Optimized Faster Web Search & Multi-Threaded Queries]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-update-bing-search-api-azure-service-copy-unavailable-by-thejjw-in-https-github|Update Bing Search API Azure Service copy - Unavailable]]
 - Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-duplicate-web-search-urls-eliminated-search-results-now-reliably-filter-out-url|🔂 Duplicate Web Search URLs Eliminated]]
 <!-- chronolog:end -->
 

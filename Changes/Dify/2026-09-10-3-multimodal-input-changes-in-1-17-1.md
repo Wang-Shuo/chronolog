@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccc874b0742f650894d9687758a212dd52e44720de63f14a393d2d0a8474c1be
+machine_hash: cd0dada9d3ff944e9d983f38457525100b9a46bad7d5c4f7408673b9e5733ac7
 product: dify
 product_name: Dify
 record:
@@ -57,7 +57,7 @@ record:
   title: 3 Multimodal Input changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
+- '[[Changes/Krea/2026-09-07-realtime-director|Realtime Director]]'
 - '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
   adapters preserve initial Anthropic text and thinking, keep images…]]'
 - '[[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash

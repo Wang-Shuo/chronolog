@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 91e2e1295e6b457dfd08014218768226d7c5e7022fff9b4e38e06f02e7fc7312
+machine_hash: a86e6274beeaeba45b6dcf28de0f3b279b2a771b0052fd580a69fac15c4fd5c4
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-wiki-clean-page-urls|Wiki: Clean Page URLs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

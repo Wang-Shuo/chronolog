@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8164afed3f6f9efe50081479909a10ea0f9062cff497797638dfda20ea87258
+machine_hash: beb40361675851bb9685fa2da47f292097771f4b7a3f01f38343a50808fe02df
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +42,10 @@ record:
   title: "**\U0001F3A8 UI Styling**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance
-  improvements for autocomplete in large/mono repos]]'
 - '[[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience
   changes in 0.7.3]]'
+- '[[Changes/Superwhisper/2024-09-03-potential-fix-for-crash-on-language-selection-in-onboarding|Potential
+  fix for crash on language selection in onboarding]]'
 - '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
   recovers upon a llm completion exception]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-05-v0-3-19-github-173711928-d00b03d8|open-webui-2024-09-05-v0-3-19-github-173711928-d00b03d8]]'

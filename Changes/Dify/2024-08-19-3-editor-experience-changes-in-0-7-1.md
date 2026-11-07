@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 887bdac48c85513014cfb4a53c79d9a7bf0b0fba8f7131dcfb8e5eb791d2e679
+machine_hash: c56b1f08dac0fb99db95a49f16931ecd94c2a8ccb3b1096a043d806276241b0f
 product: dify
 product_name: Dify
 record:
@@ -44,11 +44,12 @@ record:
   title: 3 Editor Experience changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Descript/2024-08-14-import-from-zoom|Import from Zoom]]'
 - "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
   Deprecated Frontend Functions]]"
 - '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
   a new web editor today!]]'
+- '[[Changes/AnythingLLM/2024-08-19-slash-commands-edit-bug-fix-by-shatfield4-in-https-github-com-mintplex-labs-anyt|Slash
+  commands edit bug fix]]'
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-16 · Midjourney · [[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We're releasing a new web editor today!]]
+- Earlier: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-slash-commands-edit-bug-fix-by-shatfield4-in-https-github-com-mintplex-labs-anyt|Slash commands edit bug fix]]
 - Later: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]
 <!-- chronolog:end -->
 

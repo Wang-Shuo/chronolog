@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 359203507279e9a06ddb39744689ef105879ccbe9a3efb0af6e05567ecd4320b
+machine_hash: 44310237d404d9761c32d1c9787efd733beb205c5c2dd70aa95c7d4b84ddd128
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.15.6
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4 Developer Workflow changes in v1.0.51]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed /simplify to /code-review with an optional effort level…]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-developer-workflow-changes-in-raycast-windows-0-61|3 Developer Workflow changes in Raycast windows 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de124fdf2cc53156d651ef86340016c6c2c72403b812f7babb589685d5ca8c4f
+machine_hash: 1e2f4819045c1ef606d85694ce88796bab472d1e45ba9f0d6fb77a45618f0353
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Desktop Faster end-to-end tests
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
+- '[[Changes/Devin/2026-02-03-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat:
   use xdist to make make test faster]]'
 - '[[Changes/Google Antigravity/2026-02-03-2-reliability-and-performance-changes-in-ide-v1-16-5-bug-fixes|2

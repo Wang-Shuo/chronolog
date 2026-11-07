@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e530acafc28cba5de45e92608f48944149b9563110e7c7013a587685a3a6341
+machine_hash: f938724a8ab4ee9d759b8e615ef3aa5c35bc3dc70dbd517e84a5201938714ab5
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Interface Experience changes in v3.35.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
-  text parsing for chat rendering]]'
 - '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
   rendering of ToDo lists]]'
+- '[[Changes/Raycast/2025-10-29-general-all-menu-components-action-panel-navigation-filter-select-etc-now-suppor|General
+  : All menu components (action panel, navigation filter, select, etc) now…]]'
 - '[[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned
   Chat Sidebar]]'
 source_release: '[[Releases/Cline/cline-2025-10-31-v3-35-0-github-258670330-1bba90ed|cline-2025-10-31-v3-35-0-github-258670330-1bba90ed]]'

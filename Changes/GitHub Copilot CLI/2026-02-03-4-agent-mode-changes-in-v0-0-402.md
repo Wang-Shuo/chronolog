@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f7120aa2b7b2a67dc7c91ce4f6469f99f67e43f27baec5cef7413e9f99f0d3c
+machine_hash: 8ae080b1524c7b64fdbf170679aa090c457bd7f441b82c2db94130ca9b14979a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 4 Agent Mode changes in v0.0.402
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]'
 - '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
   token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/Devin/2026-02-03-per-product-consumption-analytics-api|Per-Product Consumption
+  Analytics API]]'
 - '[[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in
   1.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2|github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2]]'

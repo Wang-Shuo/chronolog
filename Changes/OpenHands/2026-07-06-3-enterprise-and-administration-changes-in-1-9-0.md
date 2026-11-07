@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 710131e96fa488d8948ad0afaf3b92819bd1f24cc27a4ec231e7390d0e838b20
+machine_hash: 5b99191f84b6c2e4d3df7d35dc483435f20bd3b39a3230d9ee32e4c39718c557
 product: openhands
 product_name: OpenHands
 record:
@@ -48,8 +48,7 @@ record:
   title: 3 Enterprise and Administration changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop
-  Add workspace controls when starting a new session]]'
+- '[[Changes/Devin/2026-07-01-acu-limit-audit-trail|ACU Limit Audit Trail]]'
 - '[[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who
   can download project code]]'
 - '[[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace

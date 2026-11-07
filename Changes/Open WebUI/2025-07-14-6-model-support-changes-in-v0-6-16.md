@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed1fd5e9c7e5b419ad87c11db6e7ed1b4dfc01b87e0c3cb95d3d5c67708d6069
+machine_hash: 5176eafd916e1344accddae1246f113309899d667f7899ae2a3b40c1d706c8ac
 product: open-webui
 product_name: Open WebUI
 record:
@@ -66,12 +66,11 @@ record:
   title: 6 Model Support changes in v0.6.16
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added
-  new config option]]'
-- '[[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes
-  in 1.6.0]]'
+- '[[Changes/Recraft/2025-07-10-we-ve-added-ideogram-v3-as-a-new-external-model-in-recraft|Recraft
+  adds Ideogram V3 as a new external model]]'
 - '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Superwhisper/2025-07-11-custom-api-model-fixes|Custom API Model Fixes]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'
 source_type: github_releases
 theme: model-support
@@ -126,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support changes in v0.1.10]]
+- Earlier: 2025-07-11 · Superwhisper · [[Changes/Superwhisper/2025-07-11-custom-api-model-fixes|Custom API Model Fixes]]
 - Later: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add kimi-k2 as trending model]]
 <!-- chronolog:end -->
 

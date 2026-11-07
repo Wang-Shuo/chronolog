@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc4d3ff3ff66d9bdbe12a229bcafdf5445c2cf394ead0123cdd2323ad8a5616a
+machine_hash: 43a35869120874f2034bdd41464de2ac8c8fbe2c43e3219897809f1ec81a84e0
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,10 @@ record:
   title: Theater mode for published pages
   type: change
 related_changes:
-- "[[Changes/Notion/2020-09-29-log-out-of-notion-from-all-your-devices-remotely|Log
-  out of Notion from all your devices, remotely \U0001F4E1]]"
 - '[[Changes/Descript/2020-10-02-we-ve-added-a-new-clip-properties-menu-in-the-track-inspector-which-allows-you-t|Clip
   Properties Menu Accessible]]'
+- '[[Changes/Raycast/2020-10-21-root-search-added-initial-command-suggestions-based-on-the-onboarding-selections|Root
+  Search : Added initial command suggestions based on the onboarding selections]]'
 - '[[Changes/Descript/2020-11-10-now-you-can-drag-a-file-on-to-a-selection-of-text-to-make-sure-that-the-length-o|Drag
   file onto a selection]]'
 source_release: '[[Releases/Descript/descript-2020-11-10-5faad2de4a44d16165c89dbf-f69f363d|descript-2020-11-10-5faad2de4a44d16165c89dbf-f69f363d]]'

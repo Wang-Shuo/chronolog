@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0d7e39ab125953ce027fda6403b8e448ecfdc6cc8893651581a28113bc4ff64
+machine_hash: fdcaf8e6a8906901895aef325589f8a1ffef587f0390b5ed34fefe5f7c8ec61c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,7 @@ record:
   title: Switching models mid-session now shows a confirmation dialog
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
-  Support changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-3-in-the-chatgpt-app|Krea 3 in the ChatGPT app]]'
 - '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
   5 Pro and Seedance 2.5 for your app''s AI features]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7c975d059671d80910fc14ca6842d1f0fc9b65afdd50ef5d64057fa4491b9a30
+machine_hash: 35747e78b270d7c6b9c277fe51af2741e284f2374ab0b09cafa5c32f4f3e4363
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
-  session shutdown from resuming the agent when stopping background tasks]]'
+- '[[Changes/Superwhisper/2026-06-16-4-agent-mode-changes-in-superwhisper-macos-2-16-1|4
+  Agent Mode changes in Superwhisper macOS 2.16.1]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 - '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode changes in rust-v0.141.0]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

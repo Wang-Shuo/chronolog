@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 822a7dd23e18d1ede458f38a6e6584d7849e66dcbf62d1c1ee929518169858a8
+machine_hash: bb9162ec0c3cd743dd54371dd01811d5835a84946f35e69de776049b25bb37ac
 product: gamma
 product_name: Gamma
 record:
@@ -47,10 +47,10 @@ record:
   title: Just right-click from the filmstrip or tap the ... menu on a card and choose…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
 - '[[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card
   numbers for easier navigation in PDFs or decks]]'
+- '[[Changes/AnythingLLM/2025-04-18-2-interface-experience-changes-in-v1-8-0|2 Interface
+  Experience changes in v1.8.0]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
 source_release: '[[Releases/Gamma/gamma-2025-04-22-68081f3cfdfa187527f6fc64-1273b537|gamma-2025-04-22-68081f3cfdfa187527f6fc64-1273b537]]'

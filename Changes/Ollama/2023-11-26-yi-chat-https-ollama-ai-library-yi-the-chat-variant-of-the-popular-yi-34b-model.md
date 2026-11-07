@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f836adc641524a686853ef5c4065f512185a3d1be6019c11985632d680a8dbe8
+machine_hash: 0f3f3b80933d16e2ab2c5c44b3c194c0619106641450682745d1a80092d80048
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
     Yi 34b…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-20-4-model-support-changes-in-v0-1-11|4 Model Support
-  changes in v0.1.11]]'
 - '[[Changes/Dify/2023-11-21-2-model-support-changes-in-0-3-31|2 Model Support changes
   in 0.3.31]]'
+- '[[Changes/Superwhisper/2023-11-24-experimental-llm-post-processing|Experimental
+  LLM post processing]]'
 - '[[Changes/Dify/2023-11-25-3-model-support-changes-in-0-3-32|3 Model Support changes
   in 0.3.32]]'
 source_release: '[[Releases/Ollama/ollama-2023-11-26-v0-1-12-github-131294257-bdc7e8b7|ollama-2023-11-26-v0-1-12-github-131294257-bdc7e8b7]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-11-25 · Dify · [[Changes/Dify/2023-11-25-3-model-support-changes-in-0-3-32|3 Model Support changes in 0.3.32]]
-- Later: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-3-model-support-changes-in-v0-1-13|3 Model Support changes in v0.1.13]]
+- Later: 2023-11-28 · Superwhisper · [[Changes/Superwhisper/2023-11-28-edit-llm-prompt|Edit LLM prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

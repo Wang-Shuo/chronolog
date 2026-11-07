@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5a21a87b053879772d8a9ea230dc743cf548de16c2d870d188a291edabbe375
+machine_hash: 010ec287dc0b27aa9c1735c6e7391078de805c57fda2864f3ffacff03ff1464b
 product: heygen
 product_name: HeyGen
 record:
@@ -55,8 +55,8 @@ record:
     can view…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
-  project action buttons]]'
+- '[[Changes/Raycast/2026-05-29-team-added-support-for-moving-quicklinks-and-snippets-between-personal-and-team|Team:
+  Added support for moving Quicklinks and Snippets between personal and team spaces]]'
 - "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
   Shared-chat file write protection. Access to a file through a shared chat now…]]"
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES

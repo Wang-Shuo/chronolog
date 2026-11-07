@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b5c200318145da0d7a79a1f1bd4ddf016a6bfacdb49f906b10adf3b0389d9bd
+machine_hash: c202a23831fa78cb08022363c940bc5eaf80f30dc12b17b03d783ef3a1a2baaa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.31.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes in v3.68.0]]
-- Later: 2026-02-27 · Ollama · [[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM 2((source link) LFM2 is a family of hybrid models designed…]]
+- Later: 2026-02-27 · LM Studio · [[Changes/LM Studio/2026-02-27-connect-to-remote-instances-of-lm-studio-load-your-models-and-use-them-as-if-the|Connect to remote instances of LM Studio, load your models, and use them as if they…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

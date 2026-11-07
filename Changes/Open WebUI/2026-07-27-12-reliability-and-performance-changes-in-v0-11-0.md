@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 021da1914192c438b13cec4741c35c5bf4ae02be12f27d33075680f30dc6047f
+machine_hash: de3a788d79f8f09302d7257f71ed116838db4b70ebef11a1c630befa2964ebae
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,12 +99,12 @@ record:
   title: 12 Reliability and Performance changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
-  Reliability and Performance changes in rust-v0.145.0]]'
-- '[[Changes/Kimi Code/2026-07-22-improve-tui-performance-and-resume-speed-for-long-running-sessions|Improve
-  TUI performance and resume speed for long-running sessions]]'
 - '[[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded
   GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]'
+- '[[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-windows-0-70|2
+  Reliability and Performance changes in Raycast windows 0.70]]'
+- '[[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-macos-0-70|2
+  Reliability and Performance changes in Raycast macos 0.70]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -177,7 +177,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]
+- Earlier: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-macos-0-70|2 Reliability and Performance changes in Raycast macos 0.70]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight recent apps endpoint]]
 <!-- chronolog:end -->
 

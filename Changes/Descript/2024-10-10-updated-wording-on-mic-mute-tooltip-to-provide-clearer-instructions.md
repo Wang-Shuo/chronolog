@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17797621f3a40c6991ee8279a8bffe496c569093fe9573844931aad3aec213d0
+machine_hash: 373440969710fd263c7239b648c9cec3bcf0fa8f6d2f973107f038c0b1080b1b
 product: descript
 product_name: Descript
 record:
@@ -43,10 +43,10 @@ record:
   title: Updated wording on Mic mute tooltip to provide clearer instructions
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
-  KaTeX Rendering Improvement]]"
 - '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
   for completion menu colors]]'
+- '[[Changes/AnythingLLM/2024-10-03-export-embedded-chat-history-by-shatfield4-in-https-github-com-mintplex-labs-any|Export
+  embedded chat history]]'
 - '[[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]'
 source_release: '[[Releases/Descript/descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569|descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569]]'
 source_type: canny_changelog
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]
-- Later: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]
+- Later: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-faster-session-and-workspace-navigation|Faster session and workspace navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

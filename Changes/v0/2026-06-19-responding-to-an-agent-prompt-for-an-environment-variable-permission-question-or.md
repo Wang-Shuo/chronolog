@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 17bf4b5b369e663d9ef76b7f6e33761f8d96fd1d2099a87fd9de2e39badbb036
+machine_hash: 3d5bdde5af56a9d68367a96cd0dd7f51f3cfb06d65d3850d3b7a915f36995d46
 product: v0
 product_name: v0
 record:
@@ -48,13 +48,13 @@ record:
   title: Responding to an agent prompt for an environment variable, permission, question…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
-  sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
 - '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
   permission controls: You can now choose when ChatGPT asks before using connected
   apps]]'
 - '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
   Safety and Privacy changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-apple-shortcuts-fixed-missing-apple-shortcuts-and-improve-fallback-when-shortcut|Apple
+  Shortcuts : Fixed missing Apple Shortcuts and improve fallback when Shortcuts…]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: safety-privacy
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7 Safety and Privacy changes in rust-v0.141.0]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-apple-shortcuts-fixed-missing-apple-shortcuts-and-improve-fallback-when-shortcut|Apple Shortcuts : Fixed missing Apple Shortcuts and improve fallback when Shortcuts…]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety and Privacy changes in v2.1.186]]
 <!-- chronolog:end -->
 

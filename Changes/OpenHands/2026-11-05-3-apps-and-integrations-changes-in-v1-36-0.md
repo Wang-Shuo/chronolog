@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a635608417a12c9000bb3d79ec5f283b3236e8174dce290dd9ea0bbab1bc87b8
+machine_hash: e8566600fcc288a408f7e58279c2840bbac43790b78261893a2decd6fb71e273
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
-  Integrations changes in 1.19.0]]'
-- '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
-  can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-macos-2-11|2
+  Apps and Integrations changes in Raycast macos 2.11]]'
+- '[[Changes/Raycast/2026-11-04-2-apps-and-integrations-changes-in-raycast-windows-2-11|2
+  Apps and Integrations changes in Raycast windows 2.11]]'
 - '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
   and Integrations changes in v2026.11.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'

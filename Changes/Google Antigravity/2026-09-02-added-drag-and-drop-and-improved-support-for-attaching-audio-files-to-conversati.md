@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2a4e6923d361a4a7b2d8db6b9f25efbe379aba2186baf6c4cc3fed8a4034d21
+machine_hash: 13c1a248509c57c80420fe5207b160d0591c56e8e50ef50fb00f930fa9945da5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: Added drag-and-drop and improved support for attaching audio files to conversations…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and
-  Audio changes in v2026.8.1]]'
+- '[[Changes/Krea/2026-09-01-reference-to-video-for-minimax-h3-max|Reference-to-video
+  for MiniMax H3 Max]]'
 - '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
   Audio changes in v2026.8.2]]'
 - '[[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find

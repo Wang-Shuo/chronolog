@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2b68297f387774dc541c2262d33940ada56ad89495c440a1d5b2ed61dbb52235
+machine_hash: 68bbd6c68f5e8f4d7baa34b926f98ef4da7cd097f6998c37248308d2d5f5095f
 product: gemini
 product_name: Gemini
 record:
@@ -65,11 +65,12 @@ record:
     macOS
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-27-voices|Voices]]'
-- '[[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and
-  Audio changes in v0.11.0]]'
+- '[[Changes/Superwhisper/2026-07-27-new-cohere-transcribe-voice-model-on-device|New
+  Cohere Transcribe voice model (on-device)]]'
 - '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
   400 instead of 500 when file field is missing from audio-to-text…]]'
+- '[[Changes/Raycast/2026-07-28-2-voice-and-audio-changes-in-raycast-ios-1-3-4|2 Voice
+  and Audio changes in Raycast ios 1.3.4]]'
 source_release: '[[Releases/Gemini/gemini-2026-07-29-2026-07-29-599fab6b|gemini-2026-07-29-2026-07-29-599fab6b]]'
 source_type: gemini_changelog
 theme: voice
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned 400 instead of 500 when file field is missing from audio-to-text…]]
+- Earlier: 2026-07-28 · Raycast · [[Changes/Raycast/2026-07-28-2-voice-and-audio-changes-in-raycast-ios-1-3-4|2 Voice and Audio changes in Raycast ios 1.3.4]]
 - Later: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full script editing before render: Edit any line and the voice updates automatically]]
 <!-- chronolog:end -->
 

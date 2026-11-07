@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5990ba9af8edc7e2df46fad197bd9137fdef819762c0fa043f5bc4a8cd439173
+machine_hash: 5ff9e59421b3ad3e1b64db4e085d0a76a67cc84d9ef3c1e316abc0f6f5edaaa2
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     it
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
-  Haptic Feedback on Support Devices]]"
 - '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
   and convenient help from Gemini]]'
 - "[[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|\U0001F517
   Call Mode Activation via URL]]"
+- '[[Changes/Devin/2024-09-03-devin-responds-to-comments-on-prs|Devin responds to
+  comments on PRs]]'
 source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|🔗 Call Mode Activation via URL]]
-- Later: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On Windows, /run correctly uses PowerShell or cmd.exe]]
+- Earlier: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-devin-responds-to-comments-on-prs|Devin responds to comments on PRs]]
+- Later: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-mobile-render-fix-by-jeffscottward-in-https-github-com-mintplex-labs-anything-ll|Mobile render fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

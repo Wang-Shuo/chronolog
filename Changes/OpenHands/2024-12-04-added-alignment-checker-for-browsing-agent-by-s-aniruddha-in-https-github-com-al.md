@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 70473a594db3c8d1b32a1f038f4af9cbcfa5dc84f08c833288791a160725b315
+machine_hash: 5f704acfb5d871b3ce193c1df07c62dc6008fbb832f982de7703a81f65344364
 product: openhands
 product_name: OpenHands
 record:
@@ -53,10 +53,10 @@ record:
   title: Added Alignment checker for browsing agent
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
-  CodeAct agent to perform web browsing by itself…]]'
 - '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search
   and Browsing changes in v0.4.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-duckduckgo-web-search-agent-skill-support-by-shatfield4-in-https-github-com-mint|DuckDuckGo
+  web search agent skill support]]'
 - "[[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|\U0001F50D
   Query Generation Issue]]"
 source_release: '[[Releases/OpenHands/openhands-2024-12-04-0-15-0-github-188969871-7d218625|openhands-2024-12-04-0-15-0-github-188969871-7d218625]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 894c434b859bcc8f7132f793ccee731e8b7a6c56fe5ce40b58412a292b8da487
+machine_hash: 6fac53f2fdaeae4aeb7956e59b2cc9cdd9b5dcaa45e89f25ba3efe5f1b03d85c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Apps and Integrations changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2
-  Apps and Integrations changes in v0.0.411]]'
+- '[[Changes/AnythingLLM/2026-02-18-3-apps-and-integrations-changes-in-v1-11-0|3 Apps
+  and Integrations changes in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added
   last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]'
 - '[[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3

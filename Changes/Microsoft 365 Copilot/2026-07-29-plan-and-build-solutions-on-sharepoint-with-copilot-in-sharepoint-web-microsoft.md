@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2dc9c88af0e73ca21e195ccebecb71a7374a09a81c6d6f58a359dba2d958c057
+machine_hash: 1afbbe06015e4f9a4735632d365ccca0c738281e5b1e9780027fdcb0a3ae0808
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -44,8 +44,7 @@ record:
   title: Plan and build solutions on SharePoint with Copilot in SharePoint…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
-  Experience changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-redesign-overview-experience-in-copilot-notebooks-in-onenote-windows-mac-web-one|Redesign
   Overview experience in Copilot notebooks in OneNote Windows, Mac, Web (OneNote)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-surface-rich-images-inline-within-responses-windows-web-microsoft-365-copilot|Surface
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
 <!-- chronolog:end -->
 

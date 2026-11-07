@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1d2afb7aeb1a96d3dc14175d1510bd2a290a74b1df4273facda4f4a3ff6148b8
+machine_hash: 85c3743781432e5feab33e551fd94435e5c817f220a8ed3c9ea70efeccb372d0
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: Remote tunnels are now supported!
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite
-  code((source link) A family of open foundation…]]'
 - '[[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update
   docker-compose.yaml- New DEBUG variable]]'
+- '[[Changes/Devin/2024-05-29-view-shell-updates|View Shell Updates]]'
 - '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
   doc extended with more WSL hints]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'

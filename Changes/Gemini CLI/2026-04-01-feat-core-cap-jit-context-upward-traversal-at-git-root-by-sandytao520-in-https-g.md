@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ef3d47bed66643610cf303a35248c1d5e83bb0b8187edf2231da20ed2d5b14c
+machine_hash: 3e4d0fc42abb3cbdcf8ee5b903bba0c05f556de7a3d06a341ec2ca1de51b8e9c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 'feat(core): cap JIT context upward traversal at git root'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window
-  changes in v1.3.6 + 2]]'
-- '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
-  auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
+- '[[Changes/Superwhisper/2026-03-31-add-quit-option-to-recording-window-context-menu|Add
+  quit option to recording window context menu]]'
 - '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed
   hook output over 50K characters to be saved to disk with a file path…]]'
+- '[[Changes/Devin/2026-04-01-improved-pr-comment-formatting|Improved PR Comment Formatting]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: context-window
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context Window changes in v2.1.91]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-improved-pr-comment-formatting|Improved PR Comment Formatting]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-feature-called-intelligent-tool-selection-https-docs-anythin|AnythingLLM adds a new feature called Intelligent Tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

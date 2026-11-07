@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03c221e6978718da21e82d9cbc84f0116962d59b48454ed42a64093a59acede3
+machine_hash: 701c9725d6376c5c8f3501ee8afcc77df491c804d5b94985aa4c470e69abbe88
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Fine-grained chat replies…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
-  images into the Command-K prompt bar!]]'
+- '[[Changes/Raycast/2024-02-07-application-hotkey-improved-the-behavior-for-minimized-applications|Application
+  Hotkey : improved the behavior for minimized applications]]'
 - '[[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]'
 - '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
   onboarding (fix Windows settings import, option to import folder/window state)]]'

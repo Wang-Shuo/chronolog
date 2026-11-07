@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 59d23710e30cb577a00c9220e1b428cef7bf6b8c589534ab61b3e6789cae5d9b
+machine_hash: f891184276622452f564248984309ebda07df5fb26f96aaa76d7d12fb32920c9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +46,10 @@ record:
   title: Queued Messages, File Attachments, and Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2
-  Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Superwhisper/2026-08-10-significant-performance-boost-for-local-whisper-models|Significant
+  performance boost for local Whisper models]]'
 - '[[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability,
   Performance Gains, and User Experience Polish]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82|google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability, Performance Gains, and User Experience Polish]]
-- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We also made some large performance improvements, like lazy-loading of folders…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

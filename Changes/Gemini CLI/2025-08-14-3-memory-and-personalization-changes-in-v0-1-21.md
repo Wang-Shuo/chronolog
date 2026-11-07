@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9028ddc4896062b54f553ce6669386260d867021620c3624bc8011909b356a9e
+machine_hash: 8c85739b4211dbbba4e18814e3e80cedcff1ad9a7e3178e99956f9057c019165
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat: drop load-memory-from-include-directories option from cli args]]
-- Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-well-now-we-have-the-best-of-both-worlds-documents-are-scoped-to-a-workspace-thr|Well, now we have the best of both worlds]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

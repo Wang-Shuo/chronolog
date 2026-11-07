@@ -4,20 +4,20 @@ date: '2023-09-11'
 description: 'ChatGPT · 2023-09-11 · Accessibility and Localization: ChatGPT now supports
   a limited selection of languages in the interface:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1026
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1951aeec6e879742eff844cb09ca30e3333d62d4838735015b24ce30dc49bae
+machine_hash: 655a46b211b30cee938fe58072b06cb073ac4b1206d26efac3f5886cc98944cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,13 @@ record:
   theme_resolution: manual-semantic-rule-v1
   title: ChatGPT now supports a limited selection of languages in the interface
   type: change
+related_changes:
+- '[[Changes/Raycast/2022-11-09-root-search-application-names-should-be-correctly-localized-even-if-spotlight-in|Root
+  Search: Application names should be correctly localized even if Spotlight…]]'
+- '[[Changes/Raycast/2023-05-24-theme-studio-the-color-indicators-in-the-inspector-now-have-borders-to-improve-a|Theme
+  Studio: The color indicators in the inspector now have borders to improve…]]'
+- '[[Changes/Superwhisper/2023-08-17-new-accessibility-installation-dialog-and-confirmation-flow|New
+  accessibility installation dialog and confirmation flow]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3|chatgpt-2023-09-11-chatgpt-language-support-alpha-on-web-2a9614e3]]'
 source_type: chatgpt_changelog
 theme: accessibility-localization
@@ -70,13 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Later: 2024-03-05 · Suno · [[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility fixes]]
+- Earlier: 2023-08-17 · Superwhisper · [[Changes/Superwhisper/2023-08-17-new-accessibility-installation-dialog-and-confirmation-flow|New accessibility installation dialog and confirmation flow]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-calculator-disabled-localized-capitalization-for-spelled-out-numbers-which-resul|Calculator: Disabled localized capitalization for spelled out numbers which resulted…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6b22f7de5d6b9d81af4a2c21cbb8dff83e349ffb1feb1ca565740e41cff4395
+machine_hash: 2c55eb870d9c52a4cbe1f2be3625812dd7eaf572d43e43d47b61316584998fa3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Agent Mode changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0|7 Agent Mode changes
-  in v0.34.0]]'
 - '[[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You
   can ask your OpenClaw to run tasks using claude with subagents]]'
+- '[[Changes/AnythingLLM/2026-03-18-5-agent-mode-changes-in-v1-11-2|5 Agent Mode changes
+  in v1.11.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
   Mode changes in v1.0.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'

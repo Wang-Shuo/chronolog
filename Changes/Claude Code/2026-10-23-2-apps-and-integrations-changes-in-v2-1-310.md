@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f01959ee3046ea54bbc189e2f8c725bc40f43ae32b90cd14d9aea3ae80f2d0d
+machine_hash: 9e2f8711fe8013e9c897ea012b9bf4be189a7c699e20ecf9c7a2c424a4fedc1d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
-  Apps and Integrations changes in v2026.10.6]]'
-- '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
-  bump @openhands/extensions to 0.33.0]]'
 - '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
   and Integrations changes in Qoder 0.4.9]]'
+- '[[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers|MCP
+  : Added connection error details to Manage MCP Servers]]'
+- '[[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers-86f1e4|MCP
+  : Added connection error details to Manage MCP Servers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps and Integrations changes in Qoder 0.4.9]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-mcp-added-connection-error-details-to-manage-mcp-servers-86f1e4|MCP : Added connection error details to Manage MCP Servers]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30 Apps and Integrations changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

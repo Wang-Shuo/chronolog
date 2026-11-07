@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 810ddda130dd2b6fa31907316de68fd05dda6d6b713df4314fdcac0ae398942b
+machine_hash: 13637a925e35d0a8f70fc495a1e42aa81b3fc759fc7050ffbf6e2862c2617b13
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,7 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):
-  add a Git Sync page]]'
+- '[[Changes/Devin/2026-08-21-finding-resolution-notes|Finding Resolution Notes]]'
 - '[[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4
   Automation and Scheduling changes in v1.15.0]]'
 - '[[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring

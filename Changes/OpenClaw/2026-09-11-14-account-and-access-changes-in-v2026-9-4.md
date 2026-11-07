@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3705585001ca14020ec5d5960df89df35d89b0f9d229e8ea3a6892637bc63c5a
+machine_hash: 18b243dfe0cb3f0bfd7a7631d8e08ebb793d40fce287dc36408ff94a1601301c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -206,7 +206,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require two-factor authentication for your workspace]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall|MCP : Added Reset Sign In so you can retry an incomplete sign-in without…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

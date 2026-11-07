@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea3a8843de929363f35dc0390ea4a99f9ffe2c281f22e9a9aa749d2b045ecc7b
+machine_hash: 542e98dd83538f8e7c776d922cb3847e9e8159498cefed6b25eab5e6eee8c089
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find pages with better search]]
-- Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|🔍 Web Search Support]]
+- Later: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-ai-chat-automatic-web-search-preference-is-remembered-across-new-chats|AI Chat: Automatic Web Search preference is remembered across new chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

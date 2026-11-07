@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4b20f538be87d85618bae6c5c1b54fdd52e8250292f8ae4da14c7707e585fe83
+machine_hash: 4a657b0ec3470452b93a721a51bda822fb3f3c2f3c9c203dd0b8991db494960b
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,9 @@ record:
   title: Computer use tool for automations
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users
-  can schedule work for specific times or broader windows, such as morning…]]'
-- '[[Changes/ChatGPT/2026-06-17-update-on-pulse|Update on Pulse]]'
+- '[[Changes/Devin/2026-06-17-linear-projects-filter-for-triggers|Linear: Projects
+  Filter for Triggers]]'
+- '[[Changes/Devin/2026-06-17-automations-sidebar|Automations Sidebar]]'
 - '[[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore
   the turn counter from persisted loop events on resume so post-resume turns…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15|cursor-2026-06-18-3-8-https-cursor-com-changelog-06-18-26-0b493e15]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496 Make auto-review on-request prompt more proactive @maja-openai]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental Generation Steps in Automation Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a0714f7f888ea0c2cc64d83ffc135afdd8ec8e7540690c26d0fdac475e8cc73
+machine_hash: 04b3ce21bf057b936d4a7688afb851cf0e269082b02d2339698d056b70778ae4
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: add logs for vdb-migrate command
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow
-  changes in 0.5.6]]'
+- '[[Changes/Raycast/2024-02-21-snippets-you-can-use-search-snippets-as-a-fallback-command-now|Snippets
+  : You can use “Search Snippets” as a fallback command now]]'
 - '[[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow
   changes in 0.5.7]]'
 - '[[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents

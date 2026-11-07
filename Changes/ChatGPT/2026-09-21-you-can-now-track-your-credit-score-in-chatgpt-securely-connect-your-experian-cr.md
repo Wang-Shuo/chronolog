@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f702b8fd261c8d137a0e4562bceb2fa6fb9ddd631f570a91c9d3575468ceb4a
+machine_hash: 0e7a3bd3f0228606e0dd5fd417f6bd802fd797417fb6716c296d074eb84267ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: Credit scores in Finances
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
-  and network sandboxing on Windows are now supported]]'
+- '[[Changes/LM Studio/2026-09-19-mac-added-support-for-the-splash-engine-on-apple-silicon-m3-or-newer-running-mac|Mac
+  Added support for the Splash engine on Apple Silicon M3 or newer running macOS…]]'
 - '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
   macOS app will now no longer reopen windows you''ve closed when activating it]]'
 - '[[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile

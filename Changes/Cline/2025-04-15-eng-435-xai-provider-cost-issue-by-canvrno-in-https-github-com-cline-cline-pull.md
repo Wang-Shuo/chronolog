@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 955dd9006341f810cb5cd537d68b90f066f81567f45fb83d0bc07dfaf0e8b04e
+machine_hash: 40306e4347fbb175b4acc4c7ec0596fadd1d1f0333b2550b147b472e4b2674d5
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,11 @@ record:
   title: ENG-435/xAI provider cost issue
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
-  at startup if --stream and --cache-prompts are used together, as cost…]]'
-- '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
-  retrying API calls when the provider reports insufficient credits]]'
 - '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
+- '[[Changes/Recraft/2025-04-09-we-ve-just-expanded-your-toolkit-with-hidream-i1-dev-now-available-to-all-paid-s|New
+  external model: HiDream I1 Dev]]'
+- '[[Changes/Recraft/2025-04-11-cost-per-generation-2-credits|Cost per generation:
+  2 credits]]'
 source_release: '[[Releases/Cline/cline-2025-04-15-v3-12-3-github-212368217-38c03657|cline-2025-04-15-v3-12-3-github-212368217-38c03657]]'
 source_type: github_releases
 theme: pricing-model
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]
-- Later: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-we-re-getting-rid-of-flow-action-credits|We're getting rid of Flow Action Credits]]
+- Earlier: 2025-04-11 · Recraft · [[Changes/Recraft/2025-04-11-cost-per-generation-2-credits|Cost per generation: 2 credits]]
+- Later: 2025-04-15 · Recraft · [[Changes/Recraft/2025-04-15-recraft-s-subscription-options-have-expanded-alongside-individual-plans-teams-ca|Recraft’s subscription options have expanded]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

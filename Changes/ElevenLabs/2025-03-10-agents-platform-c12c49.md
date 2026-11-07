@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b1d436a2b77684fff0851eb1bf13f8eaa3f0fb85df6b11633cfe31cd52475508
+machine_hash: a34690a4c3a9094baea95d1f8064215344217c21eb8867c95165f256e7049863
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,7 +54,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-03-agents-platform|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-03-04-new-thinking-agent-animation-ui-by-shatfield4-in-https-github-com-mintplex-labs|New
+  thinking/agent animation + UI]]'
 - '[[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes
   in 0.28.0]]'
 - '[[Changes/ElevenLabs/2025-03-10-agents-platform|Agents Platform]]'

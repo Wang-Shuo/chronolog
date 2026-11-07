@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78103c3189ce01b45b87124a41355a326731c6467b2ead256fb22e5b71dbd572
+machine_hash: 9efce82ac73fc66a5ff979acae03f5826b5411b12141cce45f6a094781d3b2d5
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,11 @@ record:
   title: Core Answer permission requests triggered by subagents during opencode run
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
-  and Privacy changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
   Safety and Privacy changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
   fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/Devin/2026-08-21-change-a-scan-s-profile|Change a Scan''s Profile]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-21-v1-18-20-9ff3d03e|opencode-2026-08-21-v1-18-20-9ff3d03e]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-change-a-scan-s-profile|Change a Scan's Profile]]
 - Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]
 <!-- chronolog:end -->
 

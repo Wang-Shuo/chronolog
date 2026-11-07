@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c86a3d5ba8fae68df98b197045ed0a56b940244c1dfeab37d7ed511d38d9e17b
+machine_hash: 97678ca19735e28ead456f7b364ccf2e4b6850478750d0d632f23ee3eb4a2b02
 product: opencode
 product_name: OpenCode
 record:
@@ -91,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.1.26
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-16 · v0 · [[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added searchable version selector for easier navigation]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Later: 2026-01-19 · Superwhisper · [[Changes/Superwhisper/2026-01-19-note|NOTE]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

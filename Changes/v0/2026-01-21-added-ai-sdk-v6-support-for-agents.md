@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 583dc6fb809d0550d9f0a1b4349a2ff1bb894d6f0324ea6ba911d490d0e9a44b
+machine_hash: 27032e09db265c500a216871d935c9731f7a379c516108dc007aeb9ac34f6f7a
 product: v0
 product_name: v0
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0|13 Agent Mode changes in v0.25.0]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai|♯9650 chore: tweak AGENTS.md @dylan-hurd-oai]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-4-agent-mode-changes-in-v1-10-0|4 Agent Mode changes in v1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

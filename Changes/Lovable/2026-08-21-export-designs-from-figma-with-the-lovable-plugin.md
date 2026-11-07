@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7655504f86208e3266c136a1489d43960e2d32942d9bd0f883142b0225dbf065
+machine_hash: c8955a02bbbfdf946ad90f5c457b2996eeda12cceb6eb5a9bc85c411494c5121
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,11 @@ record:
   title: Export designs from Figma with the Lovable plugin
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2
-  Apps and Integrations changes in v2.1.239]]'
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and
-  Integrations changes in v4.1.12]]'
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
-  Integrations changes in v4.1.11]]'
+- '[[Changes/Devin/2026-08-21-private-network-mcp-servers-for-dedicated-deployments|Private
+  Network MCP Servers for Dedicated Deployments]]'
+- '[[Changes/Devin/2026-08-21-new-mcp-marketplace-entries|New MCP Marketplace Entries]]'
+- '[[Changes/Devin/2026-08-21-enterprise-mcp-servers-support|Enterprise MCP Servers
+  Support]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-21-2026-08-21-07917b7e|lovable-2026-08-21-2026-08-21-07917b7e]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and Integrations changes in v4.1.11]]
+- Earlier: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-enterprise-mcp-servers-support|Enterprise MCP Servers Support]]
 - Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
 <!-- chronolog:end -->
 

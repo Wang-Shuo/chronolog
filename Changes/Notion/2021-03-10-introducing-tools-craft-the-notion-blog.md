@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 144ad7a4fed5c068640ba41af9d4800b196afd3925dd1c37c7b7985765927b95
+machine_hash: 142c8feee2a259b1658c82dbe511637369cbbd58789a99e36ad400591dc0313c
 product: notion
 product_name: Notion
 record:
@@ -48,12 +48,12 @@ record:
   title: 'Introducing: Tools & Craft, the Notion blog'
   type: change
 related_changes:
-- '[[Changes/Notion/2020-11-24-introducing-certified-notion-consultants|Introducing:
-  Certified Notion Consultants ✔️]]'
 - '[[Changes/Notion/2020-12-02-had-it-with-confluence-import-your-workspace-to-notion-in-minutes|Had
   it with Confluence?]]'
 - '[[Changes/Descript/2020-12-17-thanks-for-reporting-any-issues-you-find-to-the-team-and-keep-em-coming|Thanks
   for reporting any issues you find to the team and keep em coming!]]'
+- '[[Changes/Raycast/2021-02-18-calendar-added-support-to-launch-microsoft-teams-skype-cisco-webex-jitsi-bluejea|Calendar:
+  Added support to launch Microsoft Teams , Skype , Cisco Webex , Jitsi…]]'
 source_release: '[[Releases/Notion/notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a|notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a]]'
 source_type: notion_changelog
 theme: collaboration
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-thanks-for-reporting-any-issues-you-find-to-the-team-and-keep-em-coming|Thanks for reporting any issues you find to the team and keep em coming!]]
+- Earlier: 2021-02-18 · Raycast · [[Changes/Raycast/2021-02-18-calendar-added-support-to-launch-microsoft-teams-skype-cisco-webex-jitsi-bluejea|Calendar: Added support to launch Microsoft Teams , Skype , Cisco Webex , Jitsi…]]
 - Later: 2021-03-23 · Descript · [[Changes/Descript/2021-03-23-descript-has-updated-the-project-browser-to-include-two-new-workspaces-areas-dri|Introducing Workspaces]]
 <!-- chronolog:end -->
 

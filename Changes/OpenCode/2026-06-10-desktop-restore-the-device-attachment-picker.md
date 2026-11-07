@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b44dbe88ed91884b170091e4e6728ea2c173d1079f153c026e6c187d2556bd6
+machine_hash: 4ad7aeb3a16af18615d5f2976817ed365114112ba82343706e2ea2e025d2c1a2
 product: opencode
 product_name: OpenCode
 record:
@@ -40,9 +40,9 @@ record:
   title: Desktop Restore the device attachment picker
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2
-  Interface Experience changes in Kimi Code 0.12.0]]'
 - '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
+- '[[Changes/Superwhisper/2026-06-09-meeting-mode-now-respects-language-selection-in-ai-summary|Meeting
+  mode now respects language selection in AI summary]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-2-6fc29d82|opencode-2026-06-10-v1-17-2-6fc29d82]]'

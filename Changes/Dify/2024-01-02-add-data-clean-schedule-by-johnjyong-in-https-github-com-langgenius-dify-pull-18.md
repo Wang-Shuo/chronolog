@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea990472c46cfef56e4a819376ecbcf6436d9537b1aff02f1dddb9358d270509
+machine_hash: 6af75caa0429826a7346451f17991bced4bdf9ddfef0824d0be1d3aa7d2dd1ac
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,11 @@ record:
   title: Add data clean schedule
   type: change
 related_changes:
-- '[[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to
-  stay in the loop]]'
 - '[[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows
   in a database]]'
 - '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
+- '[[Changes/Raycast/2023-11-15-make-rise-your-default-calendar-to-open-events-in-it-set-it-up-via-raycast-prefe|Make
+  Rise your default calendar to open events in it]]'
 source_release: '[[Releases/Dify/dify-2024-01-02-0-4-0-github-135559615-949bf14a|dify-2024-01-02-0-4-0-github-135559615-949bf14a]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]
+- Earlier: 2023-11-15 · Raycast · [[Changes/Raycast/2023-11-15-make-rise-your-default-calendar-to-open-events-in-it-set-it-up-via-raycast-prefe|Make Rise your default calendar to open events in it]]
 - Later: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]]
 <!-- chronolog:end -->
 

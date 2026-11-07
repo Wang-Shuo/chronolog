@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5f659a00703cd5845b4bcd3949144c12b24b7557c208a8c4011eb54fc5489a2
+machine_hash: 39ecbd351bc92251702981fbc739bcb3e2a3390724983a6fb6a008d098e4bb7f
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,10 +43,9 @@ record:
   title: Create video assets with Veo 3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
-- '[[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New
-  Viewer role in Descript Rooms (Business & Enterprise only)]]'
+- '[[Changes/Devin/2025-08-06-enterprise-members-overhaul|Enterprise Members Overhaul]]'
+- '[[Changes/Devin/2025-08-08-enhanced-enterprise-members-management|Enhanced Enterprise
+  Members Management]]'
 - '[[Changes/Replit/2025-08-08-enterprise|Enterprise]]'
 source_release: '[[Releases/Synthesia/synthesia-2025-08-08-https-www-synthesia-io-updates-create-video-assets-with-veo-3-2f8b5910|synthesia-2025-08-08-https-www-synthesia-io-updates-create-video-assets-with-veo-3-2f8b5910]]'
 source_type: synthesia_changelog

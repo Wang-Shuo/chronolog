@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4857c49a924f30184a45326e98bb47430ecd5e0d9a9db085a4195435a61f392f
+machine_hash: 7428e4a9e29a7c30a8f4f96b68a823dc12555115f27fa13ac91e74b198cf039c
 product: gemini
 product_name: Gemini
 record:
@@ -63,9 +63,9 @@ record:
   title: Priority access with Gemini Advanced
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-31-repl-app|Repl - App]]'
-- "[[Changes/Open WebUI/2025-02-05-exa-search-engine-integration-a-new-search-provider-has-been-added-allowing-user|\U0001F517
-  Exa Search Engine Integration]]"
+- '[[Changes/Raycast/2025-02-05-hyper-key|Hyper Key]]'
+- '[[Changes/Raycast/2025-02-05-raycast-focus-added-an-option-to-reopen-apps-that-were-closed-at-the-beginning-o|Raycast
+  Focus: Added an option to reopen apps that were closed at the beginning…]]'
 - '[[Changes/Dify/2025-02-07-add-azure-openai-api-version-2024-12-01-preview-by-kei-yamazaki-in-https-github|add
   azure openai api version 2024-12-01-preview]]'
 source_release: '[[Releases/Gemini/gemini-2025-02-12-2025-02-12-1a430007|gemini-2025-02-12-2025-02-12-1a430007]]'

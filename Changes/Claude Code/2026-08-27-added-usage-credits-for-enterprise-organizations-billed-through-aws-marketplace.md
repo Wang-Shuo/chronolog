@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 93f8ca2f8295a4f64b3486c84c34d64556b8bc30fc754866ca0292f1827bac91
+machine_hash: 6ef63d1e0bdbfaff9dc0f472c41f5ad0e857ef0fbc8cc6f15dbfc168cc6f9330
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Added `/usage-credits` for Enterprise organizations billed through AWS Marketplace…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost
-  estimates are no longer shown for providers billed by a flat-rate subscription…]]'
 - '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
   Export turn cost as an OTEL metric @copyberry]]'
 - '[[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable
   works up to 10 hours on a single message]]'
+- '[[Changes/AnythingLLM/2026-08-27-feat-cost-tracking-by-timothycarambat-in-https-github-com-mintplex-labs-anything|Feat/cost
+  tracking]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable works up to 10 hours on a single message]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-feat-cost-tracking-by-timothycarambat-in-https-github-com-mintplex-labs-anything|Feat/cost tracking]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added a per-session prompt-cache line to /cost…]]
 <!-- chronolog:end -->
 

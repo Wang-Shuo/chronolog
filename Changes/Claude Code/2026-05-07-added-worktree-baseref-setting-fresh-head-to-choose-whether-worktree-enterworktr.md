@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 556ba9e61c304f9ca58f13099a48052e1c7298c59e58381dbd43eb000b65d061
+machine_hash: 37addf44f4937826d64a4d87d8aa7e0892a8dd3acbddd1ffa5ee1a60ecbae33f
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,8 +61,7 @@ record:
   title: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
-  Workflow changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-command-palette-search|Command Palette Search]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-2-developer-workflow-changes-in-v1-0-42|2
   Developer Workflow changes in v1.0.42]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-show-download-progress-when-running-the-update-command|Show

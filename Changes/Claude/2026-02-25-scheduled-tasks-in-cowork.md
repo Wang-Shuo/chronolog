@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fb5e9f6c9e99d1fddaa5ee03532f6160ca89d303ae55eb668ba4194d2ac0fec7
+machine_hash: cd7466fb164052244317d4e5cbcf16ab036853e6cd82de3e5bc04080f23306c1
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,10 @@ record:
   title: Scheduled tasks in Cowork
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
-  SessionPrompt.shell() now triggers loop if messages are queued]]'
 - "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
   Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
+- '[[Changes/Raycast/2026-02-13-script-commands-let-you-bring-your-own-automation-into-raycast-by-writing-simple|Script
+  Commands let you bring your own automation into Raycast by writing simple…]]'
 - '[[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First,
   they’re completely autonomous (no manual prompting)]]'
 source_release: '[[Releases/Claude/claude-2026-02-25-2026-02-25-02405fc8|claude-2026-02-25-2026-02-25-02405fc8]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First, they’re completely autonomous (no manual prompting)]]
-- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate core render util to use xterm.js as part of the rendering loop]]
+- Later: 2026-02-27 · Devin · [[Changes/Devin/2026-02-27-repository-selection-for-schedules|Repository Selection for Schedules]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

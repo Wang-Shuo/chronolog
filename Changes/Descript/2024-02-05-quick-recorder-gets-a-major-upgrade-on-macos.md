@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ee18982bc355253c5685b462c7f4c6a1c4d237d0eb28458584e424ac0876d9b3
+machine_hash: 10e7b726dedc7f358540df0c8a9eb9dab43bb976770754a2d1cf6de009fc4e55
 product: descript
 product_name: Descript
 record:
@@ -79,9 +79,10 @@ record:
   title: Quick Recorder gets a major upgrade on MacOS
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]'
-- '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
-  fe mobile responsive next]]'
+- '[[Changes/Superwhisper/2023-12-10-app-icon-has-been-matched-to-macos-standards|App
+  icon has been matched to macOS standards]]'
+- '[[Changes/Superwhisper/2023-12-14-minimum-system-version-is-now-macos-13|Minimum
+  system version is now macOS 13]]'
 - '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
   false auto-commits on Windows, by @ctoth]]'
 source_release: '[[Releases/Descript/descript-2024-02-05-65c137d6d6ef358051aaaf61-fc6df9e1|descript-2024-02-05-65c137d6d6ef358051aaaf61-fc6df9e1]]'

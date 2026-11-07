@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4bb5b42e0c82925fd9a1f7cba919512b5649933041636b8dd4c44879d8bdfb81
+machine_hash: 1e8e3255ee484ae55d304e86feb27d0c41f8d1a29790182fc24b3dff44edcb6a
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]]
+- Later: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-updated-data-controls-desktop|Updated data controls (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

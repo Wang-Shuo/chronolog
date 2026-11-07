@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e6050f1071a89e9a26a64c0565d4ceeb6cb324060cb11ee5776781915622e86f
+machine_hash: 949fecab43ab51aa08b80ec0f73623fdf105ecf5daea92d3fd93ed5ea7af2b0b
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,10 @@ record:
   title: 'A new command is now available: `ollama ps`'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
-  This build fixes a connection error problem that was consistently…]]'
 - '[[Changes/Ollama/2024-05-07-stablelm2-12b-https-ollama-com-library-stablelm2-12b-a-new-12b-version-of-the-st|StableLM2
   12B((source link) A new 12B version…]]'
+- '[[Changes/Raycast/2024-05-08-pro-users-get-a-little-extra-with-ai-emoji-suggestions-previously-used-suggestio|Pro
+  users get a little extra with AI Emoji Suggestions]]'
 - '[[Changes/Ollama/2024-05-10-ollama-will-now-more-accurately-estimate-how-much-memory-is-available-on-multi-g|Ollama
   will now more accurately estimate how much memory is available on multi-GPU…]]'
 source_release: '[[Releases/Ollama/ollama-2024-05-15-v0-1-38-github-155764609-cc812676|ollama-2024-05-15-v0-1-38-github-155764609-cc812676]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-05-10 · Ollama · [[Changes/Ollama/2024-05-10-ollama-will-now-more-accurately-estimate-how-much-memory-is-available-on-multi-g|Ollama will now more accurately estimate how much memory is available on multi-GPU…]]
-- Later: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]
+- Later: 2024-05-15 · Raycast · [[Changes/Raycast/2024-05-15-emoji-search-enhanced-performance-for-navigating-emojis|Emoji Search: Enhanced performance for navigating emojis]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

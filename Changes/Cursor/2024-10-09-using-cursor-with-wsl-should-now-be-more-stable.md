@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 328571f788c0b0de781fdd4a533dc2027e49f241d840da6844645f57c3b2d705
+machine_hash: f6aeef1c1185d055b13810518d6c659caa3e555dd96433bdc5edcebf67cd4545
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|🔧 Code Block Enhancements]]
-- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow changes in 0.9.2]]
+- Later: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-clipboard-history-disabling-update-history-after-action-now-only-applies-to-acti|Clipboard History : Disabling Update History after action now only applies…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

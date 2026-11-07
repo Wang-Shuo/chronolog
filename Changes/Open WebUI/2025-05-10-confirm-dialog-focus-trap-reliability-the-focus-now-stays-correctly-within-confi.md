@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-10 · Accessibility and Localization: \U0001
   **Confirm Dialog Focus Trap Reliability**: The focus now stays correctly within
   confirmation…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 607
+  lag_days: 1633
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dca4f0db24ef2b15508b6d7d829c52dc9a9186a6a2ed0fc2c4ca5b02a46be069
+machine_hash: 0bf7815f31103920307a9bd2146e44f9e569caa52df085e86dcbb1d27fb2e77d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,8 @@ record:
   title: "\U0001F6E1️ **Confirm Dialog Focus Trap Reliability**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-01-internationalization-language-support-updates-added-estonian-and-galician-langua|\U0001F30D
-  Internationalization Language Support Updates]]"
+- '[[Changes/Raycast/2025-04-09-clipboard-passwords-should-now-be-ignored-when-copied-using-the-passwords-menu-b|Clipboard
+  : Passwords should now be ignored when copied using the Passwords menu bar…]]'
 - "[[Changes/Open WebUI/2025-04-14-translation-refinements-across-multiple-languages-updated-translations-deliver-s|\U0001F30E
   Translation Refinements Across Multiple Languages]]"
 - '[[Changes/Open WebUI/2025-05-10-3-accessibility-and-localization-changes-in-v0-6-8|3
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

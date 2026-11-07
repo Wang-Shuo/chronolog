@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8be19448c1c386a9a28ec4c6eb2877c09a06c280137029332215c2d69538cbf
+machine_hash: db8a09f1ceb047cc55908bfbfe6dc228bef0409b3c07eacf9866efcc72c54e46
 product: opencode
 product_name: OpenCode
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The Sessions sidebar is now navigable with the keyboard and mouse…]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18 Interface Experience changes in rust-v0.145.0]]
+- Later: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-you-can-now-transcribe-mov-video-files-directly-from-the-file-picker|Transcribe .mov video files directly from the file picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

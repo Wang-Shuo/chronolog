@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 778c9e1999d5b39b5cfa6ec317cbc2d181bf83efd9a5ca624574a0205bac0ff4
+machine_hash: d47e59bfb72395fb342203b95dc0c5691979e6967b292bb637ac59288bb79181
 product: opencode
 product_name: OpenCode
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Model Support changes in v1.14.50
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-13-2-model-support-changes-in-v1-14-49|2 Model Support
-  changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-ai-settings-added-a-dedicated-page-for-models-with-configurable-defaults-fb8760|AI
+  Settings : Added a dedicated page for models with configurable defaults]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
@@ -90,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.14.50
 ## Nearby in Model Support
 
 - Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Later: 2026-05-14 · Recraft · [[Changes/Recraft/2026-05-14-v4-1-utility-built-for-simplicity|V4.1 Utility: Built for Simplicity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

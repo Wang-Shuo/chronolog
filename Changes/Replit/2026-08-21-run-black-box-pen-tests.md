@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 33273a5d94a11db398615631ffb12d348c5ea1f8c915d5bb224d258304d2db6d
+machine_hash: b0afc061558faf05eedd02ae8f05f60defc82582ab61918e445f98d57fba3def
 product: replit
 product_name: Replit
 record:
@@ -65,10 +65,9 @@ record:
   title: Run black-box pen tests
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
-  Safety and Privacy changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
   fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/Devin/2026-08-21-change-a-scan-s-profile|Change a Scan''s Profile]]'
 - '[[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core
   Answer permission requests triggered by subagents during opencode run]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'

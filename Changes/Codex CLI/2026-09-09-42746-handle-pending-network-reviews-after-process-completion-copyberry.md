@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75999e5220789e3dfe3f90b37e3b3316034f793797d2196ad88d0a792c30cd22
+machine_hash: 3fdae54feac92dfa88a03c8f2f7f697b664777785210c6bd5d615ebaa21c2226
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#42746 Handle pending network reviews after process completion @copyberry'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
-  files no longer copy automatically during a remix]]'
-- '[[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor
-  Experience changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for|Window
+  Management : Added Create Layout From Current Windows command allowing…]]'
+- '[[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for-e8862a|Window
+  Management : Added Create Layout From Current Windows command allowing…]]'
 - '[[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway
   Adobe Plugins]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-08 · Runway · [[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway Adobe Plugins]]
-- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2 Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-open-changes-and-pr-files-as-diffs|Open Changes and PR Files as Diffs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fd7cc298bbf91c525865d4fd8e60c3c0adead015891702aee06404e44be720d
+machine_hash: bcea8c67818d242fad05e23e3367fcd58d47ead14987b66ae7fb15414f286ac7
 product: aider
 product_name: Aider
 record:
@@ -41,7 +41,8 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]'
+- '[[Changes/Raycast/2025-03-27-you-can-now-assign-a-hotkey-to-any-command-not-just-applications|Assign
+  a hotkey to any command, not just applications]]'
 - '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
   Experience changes in v0.80.0]]'
 - '[[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface Experience changes in v0.6.0]]
-- Later: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add CMD+' keyboard shortcut to add selected text to Cline]]
+- Later: 2025-04-04 · Superwhisper · [[Changes/Superwhisper/2025-04-04-full-screen-support-stability-improvements|Full-screen Support & Stability Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

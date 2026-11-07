@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b79ae12257e806e50f0260a2ce9fdff5d1a4129bccf680d560d214b11b76a1e8
+machine_hash: 6c54d5bb94435d785994ea04e513dcbf61dab4dd2f1e8791c8cf510ae65716e6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v1.0.39
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
-  and navigation]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
   Interface Experience changes in v1.0.37]]'
+- '[[Changes/Raycast/2026-04-27-emoji-picker-new-emojis-introduced-in-macos-26-4-are-available-in-the-search-emo|Emoji
+  Picker: New emojis introduced in macOS 26.4 are available in the Search Emojis…]]'
 - '[[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface
   Experience changes in v2.1.121]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-28-v1-0-39-github-314909937-07cfd993|github-copilot-cli-2026-04-28-v1-0-39-github-314909937-07cfd993]]'
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.39
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface Experience changes in 1.14.0]]
+- Later: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-double-click-file-attachment-picker|Double-Click File Attachment Picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a89b6cf33b7fda12de8655a3f74ea086f5cfad29ccb4706112b8c66df0c240ce
+machine_hash: 652d43cf83be7ff1a82c2b988cc9e4f986cc8bcfe658b795ecbbc3daf4f5b6c4
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in 1.9.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser
-  Controls]]'
 - '[[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in
   1.7]]'
 - '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
   Agent]]'
+- '[[Changes/Devin/2025-09-29-enterprise-opt-in-for-agent-previews|Enterprise Opt-In
+  for Agent Previews]]'
 source_release: '[[Releases/Dify/dify-2025-09-29-1-9-1-github-250763685-c4c319df|dify-2025-09-29-1-9-1-github-250763685-c4c319df]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
+- Earlier: 2025-09-29 · Devin · [[Changes/Devin/2025-09-29-enterprise-opt-in-for-agent-previews|Enterprise Opt-In for Agent Previews]]
 - Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

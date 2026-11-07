@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f425b45081ec9efa0850030bb2ecb6fbd5a2068a7def9973518057ef4ad30905
+machine_hash: e68dffd993c02a100e2bb5a0a0dde9367e1195deab01c093411a92ca909010ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|🗄️ Redis session storage is now available as an experimental option for OAuth…]]
-- Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We are in the middle of significantly improving support for connecting to MCP…]]
+- Later: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-add-support-for-simple-sso-no-login-redirect-config-setting-by-timothycarambat-i|Add support for SIMPLE_SSO_NO_LOGIN_REDIRECT config setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

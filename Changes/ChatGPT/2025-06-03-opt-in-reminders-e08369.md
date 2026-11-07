@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7ae6236d28c5e2319623cce2f7c0f1f5af0d13ac39edeabb17bc5bfa80969090
+machine_hash: a0579f4d09e2696e0764ac99586e8ba33fb8be853d973a7a23234d5ac8074975
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,8 @@ record:
   title: Opt‑in reminders
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
-  memory rolling out to all Plus and Pro users (including the EU)]]'
+- '[[Changes/LM Studio/2025-05-23-add-offload-kv-cache-to-gpu-memory-option-to-model-load-options-and-gpu-settings|Add
+  "Offload KV Cache to GPU Memory" option to model load options and GPU settings]]'
 - '[[Changes/Open WebUI/2025-05-26-2-memory-and-personalization-changes-in-v0-6-11|2
   Memory and Personalization changes in v0.6.11]]'
 - "[[Changes/Open WebUI/2025-05-29-refined-memory-error-handling-enhanced-stability-during-memory-related-operation|\U0001F9E0

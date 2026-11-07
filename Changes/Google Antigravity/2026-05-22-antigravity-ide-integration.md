@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7e8b45e6cb93e94f7013602e226f5c5c795ea0615c70eda77b259af2f996a198
+machine_hash: ea86eea38d7a2d33179984f2bdcf25759e11ea3801b12adaae6d43890419bfd6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -53,10 +53,8 @@ record:
   title: Antigravity IDE integration
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK
-  V2 global event streams now include account add, remove, and switch events]]'
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
+- '[[Changes/Devin/2026-05-22-posthog-mcp|PostHog MCP]]'
+- '[[Changes/Devin/2026-05-22-slack-channel-override|Slack Channel Override]]'
 - '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
   refactor releasing guide and add update mechanisms]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-05-22-rel-hub-2-0-6-37934609|google-antigravity-2026-05-22-rel-hub-2-0-6-37934609]]'

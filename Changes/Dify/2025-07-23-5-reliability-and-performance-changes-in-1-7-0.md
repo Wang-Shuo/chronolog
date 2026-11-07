@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8efcc86f171d1d2b09c50bcea1922cfa5bcf7ce57afb165f7dde7e90d3fcb165
+machine_hash: 4cb33477e3e1c4bffbca4492b201f2d542a46b006767b49a90b824e1d417d695
 product: dify
 product_name: Dify
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed up E2E tests]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
+- Later: 2025-07-24 · Superwhisper · [[Changes/Superwhisper/2025-07-24-faster-parakeet-long-recording-support|Faster Parakeet & Long Recording Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4d561f29b78626609609c23984aea2b7d75a0ca48f853f1be70a15d4833e672
+machine_hash: 6ff72179a88b49e794fcc2ce070c66e291cff7a0ae1139e6fc878d049550c78b
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
-  Integrations changes in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
   Integrations changes in 0.48.x]]'
 - '[[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]'
+- '[[Changes/LM Studio/2025-03-27-3-apps-and-integrations-changes-in-lm-studio-0-3-14|3
+  Apps and Integrations changes in LM Studio 0.3.14]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]
+- Earlier: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-3-apps-and-integrations-changes-in-lm-studio-0-3-14|3 Apps and Integrations changes in LM Studio 0.3.14]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-apps-and-integrations-changes-in-v0-6-0|2 Apps and Integrations changes in v0.6.0]]
 <!-- chronolog:end -->
 

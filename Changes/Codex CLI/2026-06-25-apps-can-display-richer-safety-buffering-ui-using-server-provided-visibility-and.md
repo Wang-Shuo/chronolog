@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 430efac96a94c2914f7f0bb9c17f211464687ffa9cec4f704ebfdded448ca042
+machine_hash: 5b2e40b0994b3e28af8c253218ea030341662fcf3a7efe2115a7679aa9d849e8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: Apps can display richer safety-buffering UI using server-provided visibility…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
-  per-model token totals in /usage and speed up large history scans]]'
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
+- '[[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views|UI
+  : Improved performance of hover state in list views]]'
+- '[[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views-42bb61|UI
+  : Improved performance of hover state in list views]]'
 - '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
   automatic memory-pressure reaping for idle background shell commands…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

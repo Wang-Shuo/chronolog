@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5032073518869692e151a75d9a8a3c0457112d8541529751b7b04f07ea7f0d86
+machine_hash: f1328b843c576e868f3a1e4dfd9f09a0e973ad2e509f563df68f3ec1ce7d365a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,11 +96,11 @@ record:
   title: 23 Editor Experience changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]'
-- '[[Changes/Gemini CLI/2025-07-30-19-editor-experience-changes-in-v0-1-15|19 Editor
-  Experience changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-ai-chat-starting-a-new-chat-no-longer-cancels-current-completion-if-chat-branchi|AI
+  Chat: Starting a new chat no longer cancels current completion if chat branching…]]'
 - '[[Changes/Cline/2025-07-31-e2e-test-add-mock-service-for-cline-api-new-test-for-diff-editor-by-abeatrix-in|e2e
   test: add mock service for cline API & new test for diff editor]]'
+- '[[Changes/Devin/2025-07-31-knowledge-title-editing|Knowledge Title Editing]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'
 source_type: github_releases
 theme: editor-experience
@@ -187,7 +187,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-e2e-test-add-mock-service-for-cline-api-new-test-for-diff-editor-by-abeatrix-in|e2e test: add mock service for cline API & new test for diff editor]]
+- Earlier: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-knowledge-title-editing|Knowledge Title Editing]]
 - Later: 2025-08-05 · Cline · [[Changes/Cline/2025-08-05-2-editor-experience-changes-in-v3-20-9|2 Editor Experience changes in v3.20.9]]
 <!-- chronolog:end -->
 

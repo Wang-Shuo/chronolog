@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc8e2d06558ee400b5cbdd2e9a04a034382ba4b71c652216c6051b3c34ff897e
+machine_hash: 22a7766007a57eae7b9c3261651e17794c457de1dc9fe3f047584c7410f61f11
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-3-developer-workflow-changes-in-1-8-0|3 Developer Workflow changes in 1.8.0]]
-- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-code-block-copy-button-content-fixed-fixed-an-issue-where-the-copy-button-in-cod|📋 Code Block Copy Button Content Fixed]]
+- Later: 2025-08-28 · LM Studio · [[Changes/LM Studio/2025-08-28-improved-lms-lm-studio-cli-command-output-style|Improved lms (LM Studio CLI) command output style]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

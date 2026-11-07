@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d112b4dee37d0d399fd002aaac256d229423a63f438f390437c24fdd9cb1da7
+machine_hash: 4e96f6fe5afe3d2b0a07572b226eda82d9eb3c16e6545ab30c82d870d55d1dbb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 9 Editor Experience changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
-  the workspace editor role to edit projects]]'
 - '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
   on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
 - '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
   code-mode: preserve initial yield at completion @cconger]]'
+- '[[Changes/Raycast/2026-06-22-notes-you-can-now-pin-or-unpin-notes-from-the-editor-menu|Notes
+  : You can now pin or unpin notes from the editor menu]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: editor-experience
@@ -125,8 +125,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289 code-mode: preserve initial yield at completion @cconger]]
-- Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]
+- Earlier: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-notes-you-can-now-pin-or-unpin-notes-from-the-editor-menu|Notes : You can now pin or unpin notes from the editor menu]]
+- Later: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-pin-unpin-sessions-from-command-palette|Pin/Unpin Sessions from Command Palette]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

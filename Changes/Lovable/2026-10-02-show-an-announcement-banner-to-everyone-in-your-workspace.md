@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fc3946fddbe02af94987f3e5206bf045566e7b80311d0b485bf8b5ea5d02c4fd
+machine_hash: 7e22cdc5effc2384763a760a06244c0f0dd4ab22fe6975c4f58fc33af8def1bf
 product: lovable
 product_name: Lovable
 record:
@@ -60,8 +60,7 @@ record:
   title: Show an announcement banner to everyone in your workspace
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
-  the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/Devin/2026-09-30-outposts|Outposts]]'
 - '[[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2
   Enterprise and Administration changes in v2026.9.7]]'
 - '[[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict

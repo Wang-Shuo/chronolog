@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89ac4932c3f3975e0d39d42f1d02c7ddde3270122c54000b4c6f314670d007c9
+machine_hash: 46c853fb6c647d9808c026fb20a9c7d5fe3ab171378ca5073db98c4bfc4d78bf
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: '**Fixed macOS cross-compiles** so they no longer trigger `generate`…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and
-  Desktop changes in v1.4.6]]'
+- '[[Changes/Raycast/2026-04-15-hyperkey-hyperkey-support-is-now-available-on-windows|Hyperkey
+  : Hyperkey support is now available on Windows]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt

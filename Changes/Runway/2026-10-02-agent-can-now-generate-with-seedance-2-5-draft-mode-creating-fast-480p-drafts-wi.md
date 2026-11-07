@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5acc82aa7432656af9dd058eb4eb6942646ce286d25217f9e6109e6e9c5df891
+machine_hash: 1d4e47e0e3848bee15394978c04558739605df14699d34a22ee2139c2b6c1b5a
 product: runway
 product_name: Runway
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3 Reliability and Performance changes in v2.1.287]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2 Reliability and Performance changes in v2.1.290]]
+- Later: 2026-10-02 · Superwhisper · [[Changes/Superwhisper/2026-10-02-faster-microphone-start-when-beginning-recording-across-all-input-devices|Faster microphone start when beginning recording across all input devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

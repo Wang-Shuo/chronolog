@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f44f36b692e6a3c3abb7973cd8897079d83d73d5217caadf5c2b0d84dbec4344
+machine_hash: 145897465c610b0e74964efbca2ef0b65975e13759c66c131257ed7a64b3103d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2024-04-25 · Gamma · [[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI Updates]]
-- Later: 2024-05-22 · Suno · [[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|🖼️ Customize Images (Pro and Premier)]]
+- Later: 2024-05-15 · Raycast · [[Changes/Raycast/2024-05-15-image-generation|Image Generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

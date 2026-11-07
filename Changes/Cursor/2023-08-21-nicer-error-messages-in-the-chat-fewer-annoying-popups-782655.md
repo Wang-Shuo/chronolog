@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 512088519fcd1829d2bcded9f2ccf008820e5579317cf8938db3ed5ecf862e62
+machine_hash: 5a5a8fdcb96c82be1e0a1105289d6ca7f0757b87a3cba489063ff18d85e1b9ad
 product: cursor
 product_name: Cursor
 record:
@@ -45,7 +45,8 @@ record:
   title: Nicer error messages in the chat!
   type: change
 related_changes:
-- '[[Changes/Descript/2023-08-10-app-header-improvements|App header improvements]]'
+- '[[Changes/Superwhisper/2023-08-12-new-settings-layout-and-ui-improvements|New settings
+  layout and UI improvements]]'
 - '[[Changes/Descript/2023-08-14-added-selection-options-to-the-new-button-in-drive-view|Added
   selection options to the New button in Drive view]]'
 - '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'

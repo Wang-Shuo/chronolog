@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 500a3722b66cb80f64390fcfa4dfc313dff64b3c4703c2058b70d0c42e8e2428
+machine_hash: df7334ac22c4128e9a378cc829260320b39d13fd1f407971908e8b82d24095e0
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Apps and Integrations changes in 2.4
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved
-  integration card design with less prominent skip button]]'
+- '[[Changes/AnythingLLM/2026-01-22-5-apps-and-integrations-changes-in-v1-10-0|5 Apps
+  and Integrations changes in v1.10.0]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
   Added native plugin management support]]'
 - '[[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2

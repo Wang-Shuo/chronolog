@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c611719535ea7133698f2d944ddffd4dd67bc42f7c3168bcd95ed5b066aaf65
+machine_hash: 98d5e0575eac1377b2f0de95fd73e4c3ead277666a66f290aa885b42a0576afd
 product: gemini-cli
 product_name: Gemini CLI
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43bfefaf8f2a2a24c1a64a473bed5c9c6dbdf2be7f36d13a5e82554b61863ef0
+machine_hash: c404dd1e0e1e9a644fb37eee7ae54414b2b79954a9963f4ce091754551d024cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]]
-- Later: 2026-09-23 · ElevenLabs · [[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-capability-picker-names-the-models|Capability Picker Names the Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

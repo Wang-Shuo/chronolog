@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b01dce54db28696138cbc94f28d11a236628fbff6293fefad66911b34610ed3d
+machine_hash: 1eb1383c800e081696d15c7d0e9f87e72c42fac54ab4d019899aed4f354606dd
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved [model settings…
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-11-15-athene-v2-https-ollama-com-library-athene-v2-a-72b-parameter-model-which-excels|Athene
-  V2((source link) a 72B parameter model…]]'
 - '[[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled
   up/down arrow key navigation for group questions, improving debugging…]]'
 - "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
   User Settings Search]]"
+- '[[Changes/Raycast/2024-11-20-search-menu-items-added-missing-globe-modifier-key-icon|Search
+  Menu Items: Added missing globe modifier key icon]]'
 source_release: '[[Releases/Aider/aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc|aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|🔍 User Settings Search]]
+- Earlier: 2024-11-20 · Raycast · [[Changes/Raycast/2024-11-20-search-menu-items-added-missing-globe-modifier-key-icon|Search Menu Items: Added missing globe modifier key icon]]
 - Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The new chat button has been moved to the left of the Model Picker to be easier to access]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ea5adad98dc32c16412fadcf4f691ef5a1538ea680b8a6f3af5cc66288bd943
+machine_hash: de444e69946d51325b26351058201c57a9c623d46046e23f157aa3fb5393c560
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in rust-v0.155.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded
-  reasoning text in the compact timeline is no longer dimmed, so it…]]'
 - '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
   isolate Mock-LLM profiles from ambient secrets]]'
+- '[[Changes/Wispr Flow/2026-09-17-meet-canto-our-first-speech-model-all-platforms|Meet
+  Canto, our first speech model (All platforms)]]'
 - '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
   Fable to always appear in /model on the Anthropic API]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-18-rust-v0-155-1-github-391752266-20e79523|codex-cli-2026-09-18-rust-v0-155-1-github-391752266-20e79523]]'

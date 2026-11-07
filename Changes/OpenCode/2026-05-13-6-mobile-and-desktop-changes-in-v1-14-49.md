@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fac35685869aa455fc3a3dc3967de6f6aa3d5610f72d70ea0feebc47b5cfd69
+machine_hash: 5d73f68ebed3ef6dae87ca7e61732c86371a36820ae64f6264bf0c049a84b424
 product: opencode
 product_name: OpenCode
 record:
@@ -50,10 +50,9 @@ record:
   title: 6 Mobile and Desktop changes in v1.14.49
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
-  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
+- '[[Changes/Devin/2026-05-13-devin-review-mobile-improvements|Devin Review Mobile
+  Improvements]]'
+- '[[Changes/Devin/2026-05-13-share-session-on-mobile|Share Session on Mobile]]'
 - '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
   is not yet supported on Windows/Linux]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31acb075fd27e0b7ee11e378c641cc4727507994d4ad5774282fc39abb69f403
+machine_hash: 1b95796867934eb79842d7b123a2d244ea10b564426d6a3aafc07b4f6fece45a
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-03-4-apps-and-integrations-changes-in-0-7-3|4 Apps and Integrations
-  changes in 0.7.3]]'
-- "[[Changes/Open WebUI/2024-09-04-automatic-rewrite-of-import-statements-in-tools-functions-tool-and-function-scri|\U0001F504
-  Automatic Rewrite of Import Statements in Tools & Functions]]"
+- '[[Changes/Raycast/2024-09-04-while-this-is-a-small-release-it-includes-a-private-beta-for-the-major-feature-t|While
+  this is a small release, it includes a private beta for the major feature…]]'
 - '[[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands
   now run directly in your terminal thanks to VSCode 1.93''s new shell…]]'
+- '[[Changes/AnythingLLM/2024-09-11-add-rag-agent-plugin-to-api-agent-by-timothycarambat-in-https-github-com-mintple|Add
+  RAG agent plugin to API agent]]'
 source_release: '[[Releases/Dify/dify-2024-09-12-0-8-1-github-174827526-2c0e447a|dify-2024-09-12-0-8-1-github-174827526-2c0e447a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-09-09 · Cline · [[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands now run directly in your terminal thanks to VSCode 1.93's new shell…]]
+- Earlier: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-add-rag-agent-plugin-to-api-agent-by-timothycarambat-in-https-github-com-mintple|Add RAG agent plugin to API agent]]
 - Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-3-apps-and-integrations-changes-in-v0-3-22|3 Apps and Integrations changes in v0.3.22]]
 <!-- chronolog:end -->
 

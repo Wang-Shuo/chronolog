@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 270f5824a6cb957f1918625e1c087d6f9f90c8b7993d374d89f74050e36c843d
+machine_hash: 2106045c48bfa1a572e0e08f51fa670a2e039dc1aefaa66da3167c1effc635ea
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Context Window changes in v0.43.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core
-  Zed editor context now only activates inside Zed terminals]]'
+- '[[Changes/Raycast/2026-05-20-core-allow-running-several-instances-of-raycast-with-different-users-in-the-cont|Core:
+  Allow running several instances of Raycast with different users in the context…]]'
 - '[[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context
   Window changes in rust-v0.133.0]]'
 - '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved

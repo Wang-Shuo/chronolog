@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: feaac55a246ffb3c97aa18c1fe1b577da0a452cb8d72b35c263c8a8345bb6a16
+machine_hash: 7b13e48f367f4bb9c53b7427f7876c8fb4c3df5eec141e6b510f62d32434a633
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety and Privacy changes in v2.1.273]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-17-safety-and-privacy-changes-in-v1-0-85|17 Safety and Privacy changes in v1.0.85]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-security-bugs-are-always-checked-in-devin-review|Security Bugs Are Always Checked in Devin Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4d22220d955f06db776c7ce85e0425dd631e34018aa709a61e6dedaacc55d34
+machine_hash: 684956478661e8eef9bf4620b531e13afed0620713311e08a862142b6dee00e4
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,12 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve
-  made some backend improvements that should result in better performance…]]'
 - '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
   bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 - '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
   /ultrareview: faster launch with parallelized checks, diffstat…]]'
+- '[[Changes/LM Studio/2026-04-17-improved-qwen-3-5-performance-with-openai-compatible-v1-chat-completions-v1-resp|Improved
+  Qwen 3.5 performance with OpenAI-compatible /v1/chat/completions…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-17-v2-0-61-0c70dd27|windsurf-2026-04-17-v2-0-61-0c70dd27]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
+- Earlier: 2026-04-17 · LM Studio · [[Changes/LM Studio/2026-04-17-improved-qwen-3-5-performance-with-openai-compatible-v1-chat-completions-v1-resp|Improved Qwen 3.5 performance with OpenAI-compatible /v1/chat/completions…]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]
 <!-- chronolog:end -->
 

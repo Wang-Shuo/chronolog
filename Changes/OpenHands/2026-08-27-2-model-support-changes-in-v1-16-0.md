@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe218ec3dbf65931e3c86876048fd27981d616c74ccf8eb11f63cbb8beb8c38a
+machine_hash: bb1999d60af9fb8281790aa233b160220d4bb8ce41e142b54f32867030064c51
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
-  Support changes in v1.0.81]]'
+- '[[Changes/Krea/2026-08-27-minimax-h3-and-minimax-h3-max|MiniMax H3 and MiniMax
+  H3 Max]]'
 - '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
   we’re gonna start letting everyone test our first V8.2 image edit model!]]'
 - '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The

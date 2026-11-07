@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71e8dc723cae5095bd92e69c21d1738b1ef9715e4f1402a76ab2a42c2db1f8c5
+machine_hash: 474fd21a7b236f79f9264e1fd94ff8adb26f01f0c5aecf8d8465a16fe296b7bf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Add NO_BROWSER environment variable to trigger offline oauth flow
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-16-2-account-and-access-changes-in-v0-6-15|2 Account
-  and Access changes in v0.6.15]]'
-- '[[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access
-  changes in 1.5.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
   AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
+- '[[Changes/Raycast/2025-07-02-login-support-for-2fa|Login: Support for 2FA]]'
+- '[[Changes/AnythingLLM/2025-07-09-flag-to-disable-login-ui-and-endpoints-for-credentialed-auth-by-timothycarambat|Flag
+  to disable login UI and endpoints for credentialed auth]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-11-github-231693324-44669df4|gemini-cli-2025-07-11-v0-1-11-github-231693324-44669df4]]'
 source_type: github_releases
 theme: account-access
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]
+- Earlier: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-flag-to-disable-login-ui-and-endpoints-for-credentialed-auth-by-timothycarambat|Flag to disable login UI and endpoints for credentialed auth]]
 - Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account and Access changes in v0.6.16]]
 <!-- chronolog:end -->
 

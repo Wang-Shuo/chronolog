@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb6fc5557c980d2f9db57764639fb91197d6d079d585b6d3f53c1c8c807bbc29
+machine_hash: f21bea67c3ecb6a5831ef4f05ad8ba7d96fe896384cc9532f7f163fc710652a4
 product: suno
 product_name: Suno
 record:
@@ -53,8 +53,8 @@ record:
     you left…
   type: change
 related_changes:
-- '[[Changes/Suno/2025-06-03-song-editor-you-can-reorder-rewrite-and-remake-your-track-section-by-section-dir|Song
-  Editor : you can reorder, rewrite, and remake your track section by section…]]'
+- '[[Changes/Superwhisper/2025-08-20-media-pause-super-mode-improvements|Media Pause
+  & Super Mode Improvements]]'
 - '[[Changes/Suno/2025-09-22-introducing-hooks-a-new-way-to-bring-your-suno-songs-to-life-through-short-form|Introducing
   Hooks!]]'
 - '[[Changes/Suno/2025-09-23-here-s-what-s-better|Here’s what’s better]]'

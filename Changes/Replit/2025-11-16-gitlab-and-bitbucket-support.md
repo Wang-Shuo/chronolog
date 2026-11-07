@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0e3b09baffafdc02c947f0be49045d6e3ac1c2c474dfbce82933ea450a8db8b1
+machine_hash: 923cb0ea849128d0fbf8b18055b3099acf5248549ec184d4c8cc2390bfe8f963
 product: replit
 product_name: Replit
 record:
@@ -62,12 +62,12 @@ record:
   title: GitLab and Bitbucket support
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer
-  Workflow changes in rust-v0.58.0]]'
 - '[[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore:
   add type-check to pre-commit]]'
 - '[[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial
   yaml fixes for linter]]'
+- '[[Changes/Raycast/2025-11-15-preferences-toggle-night-light-command|Preferences
+  : Toggle Night Light command]]'
 source_release: '[[Releases/Replit/replit-2025-11-16-2025-11-16-5a312963|replit-2025-11-16-2025-11-16-5a312963]]'
 source_type: replit_changelog
 theme: developer-workflow
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial yaml fixes for linter]]
+- Earlier: 2025-11-15 · Raycast · [[Changes/Raycast/2025-11-15-preferences-toggle-night-light-command|Preferences : Toggle Night Light command]]
 - Later: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-add-share-command-to-save-session-as-markdown-file-or-github-gist|Add /share command to save session as markdown file or GitHub gist]]
 <!-- chronolog:end -->
 

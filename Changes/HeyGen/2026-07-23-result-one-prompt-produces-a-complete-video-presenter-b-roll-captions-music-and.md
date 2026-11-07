@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 255be1b0b66d66ff8ed9c17779354407e3ff5ebc13e38e9144aa1e960831aa82
+machine_hash: 15dc0ac42e0d04be46057ec1c59a74cb53d1c2597f175566aa77ce8ce4856d15
 product: heygen
 product_name: HeyGen
 record:

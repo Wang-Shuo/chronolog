@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 52adf469a6142143e0cbbaa1dbae8aff614872c57b81696aa3237bf1cd322033
+machine_hash: 35f790f185c935be70680a58a5ed9671e18287ea89a8cfa78acbbb7f30fb037e
 product: synthesia
 product_name: Synthesia
 record:
@@ -57,8 +57,8 @@ record:
   title: 'Early access: Gemini Omni Flash live in Synthesia'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-05-13-call-on-your-heygen-avatars-swap-looks-edit-scenes-and-generate-polished-videos|Call
-  on your HeyGen avatars, swap looks, edit scenes, and generate polished videos…]]'
+- '[[Changes/Krea/2026-06-19-pass-reference-images-by-url-or-data-uri|Pass reference
+  images by URL or data URI]]'
 - '[[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look
   Packs is now available inside HeyGen]]'
 - '[[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-06-30 · Runway · [[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini Omni Flash]]
-- Later: 2026-07-09 · Runway · [[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline in Agent]]
+- Later: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-we-ve-added-gemini-omni-flash-for-video-generation-in-recraft-studio-available-t|Recraft adds Gemini Omni Flash for video generation in Recraft Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

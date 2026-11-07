@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a2eb6f9d888dd5379f2fc20f872bc70c0f6b27fbb4d3170dec8a2c71951fbaaf
+machine_hash: f57c27516a82c6e802a1a9389fef249dd675b2e2f715ff82fb19c661b146fc5d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,10 @@ record:
   title: GPT-5.3 Instant mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
-  changes in v0.37.0]]'
 - '[[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core
   Kept model variants scoped to the selected model]]'
+- '[[Changes/Superwhisper/2026-04-08-redesigned-model-library-with-improved-table-layout-and-chip-colors|Redesigned
+  model library with improved table layout and chip colors]]'
 - '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff]]'
 source_type: chatgpt_changelog

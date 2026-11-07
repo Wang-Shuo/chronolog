@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0e33fd8aa5a8e425e5d1f9e134e58d1e6648f4c34ac66e7dd4ebe2c524da2bc8
+machine_hash: 598394eb88ede27aa466152d1bae2558bcc2704f2ae20aab53681abd5e13a623
 product: lovable
 product_name: Lovable
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect stdout and stderr so JavaScript code can't accidentally write to stdout…]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface Experience changes in v3.39.0]]
+- Later: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-onboarding-updates|Onboarding updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

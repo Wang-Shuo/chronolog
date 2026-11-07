@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c1c94ed56b3920e0d0d50084229b29dca03f227cae4ed54cc3b2a6d42702ae1
+machine_hash: edfd9b1c4adc5110ce2b55a12cf8a8735b8f098371624b2c9116e4e686a86f4a
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
     use…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|\U0001F527
-  Usage Capability Selector]]"
-- '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
-  changes in v0.64.0]]'
+- '[[Changes/Devin/2024-11-22-use-macros-to-easily-attach-playbooks-https-docs-devin-ai-product-guides-creatin|Use
+  macros to easily attach…]]'
+- '[[Changes/Devin/2024-11-22-talk-to-devin-from-your-ide-beta-access|Talk to Devin
+  from your IDE (Beta Access)]]'
 - '[[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat
   : Add Japanese translations for API documentation: chat, advanced-chat…]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'

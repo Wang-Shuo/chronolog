@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63c2ff2de7fc63ed5af80af2171076e11bfe8a265ae645b71c48f6ba7a7e4b19
+machine_hash: 53f544026e48766e071780917cd1b370b32df6e03224db6930d37995f97f5c63
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
-- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-wrap-long-command-and-skill-descriptions-in-the-autocomplete-menu-onto-a-second|Wrap long command and skill descriptions in the autocomplete menu onto a second line…]]
+- Later: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-session-folders|Session Folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

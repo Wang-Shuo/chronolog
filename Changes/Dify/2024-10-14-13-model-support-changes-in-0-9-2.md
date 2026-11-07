@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd251a5eadfca1f462acc911c60397428e5d498e76aeeaaea88f85e3e16dc35c
+machine_hash: 5c3caee3461f8f5c4e8fc34b231d7959fc38cb9d1149f1b8330d3f6adecd1c8c
 product: dify
 product_name: Dify
 record:
@@ -72,7 +72,8 @@ record:
   title: 13 Model Support changes in 0.9.2
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-09-introducing-imagen-3|Introducing Imagen 3]]'
+- '[[Changes/Superwhisper/2024-10-09-history-speakers-separation|History & Speakers
+  separation]]'
 - '[[Changes/Ollama/2024-10-11-4-model-support-changes-in-v0-3-13|4 Model Support
   changes in v0.3.13]]'
 - '[[Changes/ElevenLabs/2024-10-13-model|Model]]'

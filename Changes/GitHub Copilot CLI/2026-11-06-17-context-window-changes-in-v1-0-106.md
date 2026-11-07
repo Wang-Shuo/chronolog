@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f3ec6293fb2ba0fa8d12284f042bc036e90b5bbfd5a00ca12e52129cbfd345e
+machine_hash: 7e28493eb8c04262380630581d4bf6de478914cb38939b6652b84afee8f0f182
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,8 +91,8 @@ record:
   title: 17 Context Window changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account
-  Selector in Outlook Copilot Side Pane Web (Outlook)]]'
+- '[[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w-9ef173|Raycast
+  introduces Dictate to AI, a new command that combines what you say…]]'
 - '[[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context
   Window changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context

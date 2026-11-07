@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b23711ea22d22e252e577d5702da853b9f28041743f514d2b5b425d9c6ad7366
+machine_hash: 27991adf1e7c4d4a51fa0a5a71daf3d10959e48d4324318feb0ea527151d2dff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,11 +76,11 @@ record:
     speed…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
-  Interface Experience changes in v1.0.61]]'
 - '[[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2
   Interface Experience changes in Kimi Code 0.12.0]]'
 - '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
+- '[[Changes/Superwhisper/2026-06-09-meeting-mode-now-respects-language-selection-in-ai-summary|Meeting
+  mode now respects language selection in AI summary]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]
+- Earlier: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-meeting-mode-now-respects-language-selection-in-ai-summary|Meeting mode now respects language selection in AI summary]]
 - Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-desktop-restore-the-device-attachment-picker|Desktop Restore the device attachment picker]]
 <!-- chronolog:end -->
 

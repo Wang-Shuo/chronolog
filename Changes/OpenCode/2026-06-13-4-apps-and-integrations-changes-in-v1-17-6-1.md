@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b33fbb3fa9b9c025e2242fd44ae59e9f8fd10f485b82436f37ba8edef99c677
+machine_hash: c2d903b46ac8331f82aab99f1984a6a51134c00e792487e6f9838dcb4a74d7cb
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Apps and Integrations changes in v1.17.6 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added
-  cwd support for local MCP servers so they can start from a workspace-relative…]]'
-- '[[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps
-  and Integrations changes in v1.17.4]]'
+- '[[Changes/Raycast/2026-06-12-focus-comes-to-windows-stay-in-the-zone-use-start-focus-session-to-kick-off-a-ti|Focus
+  comes to Windows]]'
+- '[[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-macos-0-64|2
+  Apps and Integrations changes in Raycast macos 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
   Apps and Integrations changes in v1.0.62]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-13-v1-17-6-50d6a123|opencode-2026-06-13-v1-17-6-50d6a123]]'

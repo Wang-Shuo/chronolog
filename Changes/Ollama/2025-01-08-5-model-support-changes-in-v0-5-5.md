@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f697de43b995650dd4478502c693b8195ad32f7ae03c94bed52c47a2179c5cc
+machine_hash: 8157aeca605edc6c8e596358834895be7c11ab37fb2f74146d3e024d255230e6
 product: ollama
 product_name: Ollama
 record:
@@ -60,9 +60,10 @@ record:
   title: 5 Model Support changes in v0.5.5
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2024-12-26-deepseek-chat|deepseek-chat]]'
 - "[[Changes/Open WebUI/2024-12-31-ollama-parameters-respected-resolved-an-issue-where-input-parameters-for-ollama|\U0001F6E0️
   Ollama Parameters Respected]]"
+- '[[Changes/LM Studio/2025-01-06-candidate-fix-for-huggingface-model-search-download-never-reachable-from-within|Candidate
+  fix for huggingface model search, download never reachable from within…]]'
 - '[[Changes/Dify/2025-01-07-7-model-support-changes-in-0-15-0|7 Model Support changes
   in 0.15.0]]'
 source_release: '[[Releases/Ollama/ollama-2025-01-08-v0-5-5-github-193800987-48cb1ade|ollama-2025-01-08-v0-5-5-github-193800987-48cb1ade]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0769afdfd248798f3ded6a77943eae048839d7931e6d10e87170cd22ef1cbf30
+machine_hash: 720b760322e1f5abefa7af357f83f6db959923c10bb92c2b1f26eb49a37947d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Interface Experience changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
 - '[[Changes/HeyGen/2026-01-20-pronunciation-redesign-add-and-manage-glossaries-directly-in-the-panel-preview-p|Pronunciation
   redesign: Add and manage glossaries directly in the panel]]'
 - '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
   Experience changes in v1.1.28]]'
+- '[[Changes/Raycast/2026-01-20-general-added-missing-about-actions-menu-in-all-extensions|General
+  : Added missing about actions menu in all extensions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface Experience changes in v1.1.28]]
+- Earlier: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-general-added-missing-about-actions-menu-in-all-extensions|General : Added missing about actions menu in all extensions]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface Experience changes in v0.25.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: efe7de702eccca4beb51fec17526ba2a9a3a22253c555952263467375088f148
+machine_hash: 036dcf41b1437c9b53e342e5fc2a121bff42aec1f74e5ceac41d337890d5674d
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,11 @@ record:
   title: Connect more MCP servers
   type: change
 related_changes:
-- '[[Changes/Suno/2026-08-13-chat-bar-generate-instruments-and-vocals-create-new-and-totally-unique-plugins-a|Chat
-  bar: Generate instruments and vocals, create new and totally unique plugins…]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything
   in this release lands through the SDK bundle, so it applies to windows…]]'
+- '[[Changes/Devin/2026-08-14-slack-thread-follow-ups|Slack Thread Follow-Ups]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything in this release lands through the SDK bundle, so it applies to windows…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-slack-thread-follow-ups|Slack Thread Follow-Ups]]
 - Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-apps-and-integrations-changes-in-a-redesigned-sidebar-a-richer|4 Apps and Integrations changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 

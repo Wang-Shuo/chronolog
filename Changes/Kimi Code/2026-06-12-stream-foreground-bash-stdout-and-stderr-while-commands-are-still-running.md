@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e13d2e51883c7073736ee811df089e92a207f0951709127c98e9ab5ad50b9deb
+machine_hash: 5b154cc4e76bc32a49f74e80a33a3f375a0114d79a44c23de3e1de11a10a9169
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Stream foreground Bash stdout and stderr while commands are still running
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-devin-review-pending-pr-reviews-canceled-on-new-commits|Devin
+  Review: Pending PR Reviews Canceled on New Commits]]'
 - '[[Changes/Kimi Code/2026-06-10-2-developer-workflow-changes-in-kimi-code-0-13-0|2
   Developer Workflow changes in Kimi Code 0.13.0]]'
 - '[[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer

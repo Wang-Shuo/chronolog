@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 43438c85f5b2fbbc12236a305104f0b62f2532c7f043f1940801bcbbebca6264
+machine_hash: 27d094553084db49ac790d3e3fd02f93dbab642dd840c8c0ee9b1a0703974f0d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,7 @@ record:
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
-  Integrations changes in v4.1.17]]'
+- '[[Changes/Devin/2026-09-02-clearer-reply-delivery|Clearer Reply Delivery]]'
 - '[[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web:
   Add a Plugins panel to Settings for browsing the plugin marketplace…]]'
 - '[[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]'

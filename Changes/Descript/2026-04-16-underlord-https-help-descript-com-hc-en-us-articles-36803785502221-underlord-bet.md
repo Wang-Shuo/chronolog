@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c15e7f26c09bf3332e23cebdc77ad4fab55e8ee1ba2a403afe2796cb5f04fbf
+machine_hash: 2f3f642f53965878313a139c68691c7dd207f2324570aa8f68d7f8c09d74de4f
 product: descript
 product_name: Descript
 record:
@@ -53,10 +53,10 @@ record:
   title: '[Underlord]…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added
-  realtime and app-server APIs for output modality, transcript completion…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
   a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
+- '[[Changes/Raycast/2026-04-15-general-improve-keyboard-handling-for-ime-input-method-editor-commonly-used-for|General
+  : Improve keyboard handling for IME (Input Method Editor) commonly used…]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
 source_release: '[[Releases/Descript/descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2|descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2]]'

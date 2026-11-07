@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a270ece8b30e00f2f7f098f66bfc2c641ce9bad7aa0cc1499c188b976d69f1dc
+machine_hash: ea87fbbd6ce5575ca5f31114da566dca18154432c3a006666eef8e48522b0c13
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,10 @@ record:
   title: Run `aider --apply-clipboard-edits file-to-edit.js`
   type: change
 related_changes:
-- '[[Changes/Descript/2024-10-23-editor-updates|Editor updates]]'
-- '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
-  we’re testing our new external image editor , image retexturing , and next-gen…]]'
 - '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
+- '[[Changes/Devin/2024-11-01-repo-knowledge|Repo knowledge]]'
+- '[[Changes/Devin/2024-11-01-it-s-now-easier-to-understand-what-devin-s-been-up-to-with-the-follow-devin-tab|It''s
+  now easier to understand what Devin''s been up to with the "Follow Devin" tab]]'
 source_release: '[[Releases/Aider/aider-2024-11-04-v0-62-0-github-183484302-e3085241|aider-2024-11-04-v0-62-0-github-183484302-e3085241]]'
 source_type: github_releases
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-23 · Midjourney · [[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]
+- Earlier: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-it-s-now-easier-to-understand-what-devin-s-been-up-to-with-the-follow-devin-tab|It's now easier to understand what Devin's been up to with the "Follow Devin" tab]]
 - Later: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]
 <!-- chronolog:end -->
 

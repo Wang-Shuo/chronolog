@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beaddf80136ee682df8fcbbd8c2a291a3af7a94f220b7b55dc007d4662d8e5ff
+machine_hash: fc866d5364c58aafb0e6c7b38877afe27b82e0f5a12e1e4ad742c133ca7977d0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -64,8 +64,8 @@ record:
   title: 12 Apps and Integrations changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added
-  CLI/VSCode integration]]'
+- '[[Changes/Raycast/2025-07-16-3-apps-and-integrations-changes-in-raycast-macos-v1-1-101-0|3
+  Apps and Integrations changes in Raycast macos-v1 1.101.0]]'
 - '[[Changes/Windsurf/2025-07-17-deeper-browser-integration|Deeper Browser integration]]'
 - '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
   link) fixes a longstanding issue where we failed…]]'
@@ -132,7 +132,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source link) fixes a longstanding issue where we failed…]]
-- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|🧹 Cleaner Database Credentials]]
+- Later: 2025-07-19 · LM Studio · [[Changes/LM Studio/2025-07-19-5-apps-and-integrations-changes-in-lm-studio-0-3-18|5 Apps and Integrations changes in LM Studio 0.3.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

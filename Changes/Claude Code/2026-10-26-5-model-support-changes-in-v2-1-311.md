@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fd23bd25799e42ed4bffbdd2e2699a3ef13037fc2f6cf598cd2e06caed3779b
+machine_hash: 2c0d4da9ce1f66a74ee631d4ba1e9d178228928c71e3166b18373b13cb946ac1
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Model Support changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support
-  changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
   changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-6-model-support-changes-in-v1-19-0|6 Model Support
+  changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1
   Terra]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'

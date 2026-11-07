@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 101a8146c994c79206539970e9e7303bbf282addc9f07d733cdeadc5e97fbdf9
+machine_hash: 04a7571d515730fa50f47bbd4e7cdf578b967319ff2b669b048dc5ca16069832
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,10 @@ record:
   title: A few more improvements
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-2-reliability-and-performance-changes-in-0-10-0|2 Reliability
-  and Performance changes in 0.10.0]]'
 - '[[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending
   follow on requests to vision models will now be much faster]]'
+- '[[Changes/LM Studio/2024-10-22-2-reliability-and-performance-changes-in-lm-studio-0-3-5|2
+  Reliability and Performance changes in LM Studio 0.3.5]]'
 - '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
   and Performance changes in 0.10.1]]'
 source_release: '[[Releases/Notion/notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764|notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f151f70faee30382df40217ca492cdf9e461ee93c090038d8aa89972c869d92
+machine_hash: 81149d5afcde3956fee0e3a5fa1ae85fe3d2305d16706eee353cbb3435b04a1b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
-  forceRemoteSettingsRefresh policy setting]]'
-- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
-  default effort level from medium to high for API-key…]]'
+- '[[Changes/Devin/2026-04-08-enterprise-secrets-table-polish|Enterprise Secrets Table
+  Polish]]'
+- '[[Changes/Devin/2026-04-08-enterprise-review-consumption-by-repository|Enterprise
+  Review Consumption by Repository]]'
 - '[[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based
   access controls for Enterprise plans]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'

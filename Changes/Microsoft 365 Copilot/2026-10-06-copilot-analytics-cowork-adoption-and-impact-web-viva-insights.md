@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 65daed74e9076f3824d349902bf01115cd72b800382088a2487f87c3f1253cd2
+machine_hash: 6e6504e69d19752139cff9224752d51f88ed00b6ca811bc05a7f21af042888af
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -52,12 +52,12 @@ record:
   title: Copilot Analytics - Cowork adoption and impact [Web] (Viva Insights)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
-- '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
-  changes in v2026.9.8]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
   usage reflects the current billing period after quota resets]]'
+- '[[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-macos-2-6|2 Pricing
+  Model changes in Raycast macos 2.6]]'
+- '[[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-windows-2-6|2 Pricing
+  Model changes in Raycast windows 2.6]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-06-2026-10-06-b5a5d383|microsoft-365-copilot-2026-10-06-2026-10-06-b5a5d383]]'
 source_type: m365_copilot_changelog
 theme: pricing-model
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-windows-2-6|2 Pricing Model changes in Raycast windows 2.6]]
 - Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
 <!-- chronolog:end -->
 

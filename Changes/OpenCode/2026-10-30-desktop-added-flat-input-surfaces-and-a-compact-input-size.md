@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdeb8d744194e6a8aa09fa2c7beabc5ee9c65d5520fe31c14cdffef2f566e3da
+machine_hash: 52bafa988c2cb3813acb0f5dd8bececb08fc214bdad95059bd449eec0f0a0b42
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Desktop Added flat input surfaces and a compact input size
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai
-  provider removals and renames]]'
+- '[[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini
+  tone slider updated to match macOS]]'
 - '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
   and Desktop changes in v2.1.314]]'
 - '[[Changes/OpenCode/2026-10-30-4-mobile-and-desktop-changes-in-v2-2-4|4 Mobile and

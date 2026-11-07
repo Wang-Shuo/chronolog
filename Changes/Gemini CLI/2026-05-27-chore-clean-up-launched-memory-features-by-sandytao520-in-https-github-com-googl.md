@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e3743e171dc85703288b59e5dfbfbd0edda062bfd7847c04575d50e27630003
+machine_hash: fb80696d3e0eaeb992f7bc83b0d3879e32a84fee6ca31554ae919d0b6ab003a8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 'chore: clean up launched memory features'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-memory-show-displays-documentation-links-for-learning-about-and-managing-copilot|/memory
-  show displays documentation links for learning about and managing Copilot Memory]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2
   Memory and Personalization changes in v0.43.0]]'
+- '[[Changes/AnythingLLM/2026-05-26-10-memory-and-personalization-changes-in-v1-13-0|10
+  Memory and Personalization changes in v1.13.0]]'
 - '[[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915
   3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be|gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be]]'

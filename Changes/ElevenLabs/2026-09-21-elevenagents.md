@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 70c9ee91c87844adc6db7fc712710fe0251856d3677fa07c4943306ae0402de5
+machine_hash: 19c55387f3722c5a73dfdb79a6ca83afa17663762f48076aefd8608b531f7fbd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -70,12 +70,12 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The
-  agent no longer assumes the current working directory is the project root]]'
-- '[[Changes/OpenClaw/2026-09-19-72-agent-mode-changes-in-v2026-9-5|72 Agent Mode
-  changes in v2026.9.5]]'
 - '[[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set
   the approval reviewer''s reasoning and optional Fast mode independently…]]'
+- '[[Changes/Devin/2026-09-21-swe-2-research-preview-in-the-agent-selector|SWE-2 Research
+  Preview in the Agent Selector]]'
+- '[[Changes/Devin/2026-09-21-shell-command-durations-in-the-worklog|Shell Command
+  Durations in the Worklog]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -128,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set the approval reviewer's reasoning and optional Fast mode independently…]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-shell-command-durations-in-the-worklog|Shell Command Durations in the Worklog]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
 <!-- chronolog:end -->
 

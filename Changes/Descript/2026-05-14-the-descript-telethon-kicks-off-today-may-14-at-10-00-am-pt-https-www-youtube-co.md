@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7771f0ab86ea26208ecb058460d9ab6c7d336b41400f9b69987439335ea7bbb6
+machine_hash: 47e1e9f8ede5de66b6f9a43c2d437fed8ca4eba339bf96e2034628bb1da49911
 product: descript
 product_name: Descript
 record:
@@ -49,12 +49,11 @@ record:
   title: The Descript Telethon kicks off today, [**May 14 at 10:00 AM…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
-  changes in rust-v0.129.0]]'
-- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
-  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/Krea/2026-05-13-a-link-sharing-toggle-lets-you-enable-disable-access-at-any-time-shows-the-date|A
+  Link sharing toggle lets you enable/disable access at any time (shows the date shared)]]'
+- '[[Changes/Krea/2026-05-13-moodboard-sharing|Moodboard Sharing]]'
 source_release: '[[Releases/Descript/descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2|descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2]]'
 source_type: canny_changelog
 theme: collaboration
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-05-13 · Krea · [[Changes/Krea/2026-05-13-moodboard-sharing|Moodboard Sharing]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
 <!-- chronolog:end -->
 

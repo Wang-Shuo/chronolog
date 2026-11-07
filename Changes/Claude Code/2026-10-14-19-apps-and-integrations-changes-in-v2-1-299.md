@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0aae80af6e5abf3a593488f80e17ac9ccd7bc7f2e6b49c8d4d5ad8ae003e280f
+machine_hash: aa80f8601c0b335509ee4d0f56f049404babdc0be3b1de18635539c7ae754aa2
 product: claude-code
 product_name: Claude Code
 record:
@@ -190,7 +190,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
-- Later: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2 Apps and Integrations changes in v1.0.98]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-browser-previews-shared-to-slack|Browser Previews Shared to Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

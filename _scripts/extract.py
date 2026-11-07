@@ -20,7 +20,8 @@ IMPACT_WORDS = {
 AMBIGUITY_MARGIN = 25
 GENERIC_HEADING_RE = re.compile(
     r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
-    r"other changes?|all changes|misc(?:ellaneous)?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
+    r"other(?: changes?)?|all changes|features? (?:&|and) (?:improvements?|fixes)|build \d+|"
+    r"misc(?:ellaneous)?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
     r"release notes?|patches?(?: \(\d+\))?(?:↓↑)?|chores?|new|added|changed|removed|deprecated|how it works|"
     r"how to use it|key details|known limitations?|plan differences|"
     r"this build includes|cursor start includes)[:.!]?$",
@@ -691,7 +692,7 @@ def semantic_preclassification_override(
         r"\b(?:songs?|lyrics|stems|remaster|instrumental|songwriting)\b", text, re.I,
     ):
         return "music-generation"
-    if product in {"runway", "midjourney"} and "video-generation" in themes and re.search(
+    if product in {"runway", "midjourney", "krea", "recraft"} and "video-generation" in themes and re.search(
         r"\b(?:video generation|(?:text|image)[ -]to[ -]video)|"
         r"\b(?:generate|extend|loop)\b.{0,35}\bvideos?\b", text, re.I,
     ):

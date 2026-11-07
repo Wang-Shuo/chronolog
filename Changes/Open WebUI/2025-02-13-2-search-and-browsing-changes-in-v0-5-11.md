@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7395bcb4ca2d257ea438c841eb560974e705ea6d610acad46ec711a0595df5b
+machine_hash: 8647b54d1d57b37ead831a710eba292a56027f14439ae700045ad56107dd0098
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Search and Browsing changes in v0.5.11
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
-  Model Context Protocol((source link) allows agents…]]'
+- '[[Changes/AnythingLLM/2025-01-29-add-vector-search-api-endpoint-by-timothycarambat-in-https-github-com-mintplex-l|Add
+  vector search API endpoint]]'
 - '[[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]'
 - '[[Changes/Open WebUI/2025-02-05-3-search-and-browsing-changes-in-v0-5-8|3 Search
   and Browsing changes in v0.5.8]]'

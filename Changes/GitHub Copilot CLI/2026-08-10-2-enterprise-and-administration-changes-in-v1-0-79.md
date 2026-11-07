@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce5a82496fb64be19e8a836bd5bb42a39126d7ac0cc226007ba6a33b1ff175cb
+machine_hash: 27d81bb9189b950c0855c1dea325328fd0a54f9fc8d4729c7516a544cff636fb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer History for macOS]]
+- Later: 2026-08-12 · LM Studio · [[Changes/LM Studio/2026-08-12-support-for-local-server-api-key-in-enterprise-internal-network-endpoint-mode|Support for local server API key in enterprise internal network endpoint mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

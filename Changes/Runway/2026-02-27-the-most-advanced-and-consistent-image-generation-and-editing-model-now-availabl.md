@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dcc7498f5844419c5f4ac1d0a131f5cf3f2696cdf3d8ec4f84355c2c60e662e3
+machine_hash: 49299d462ee24cf907ae75b8217708f0a703bba3b2c15e095b144bf4fbab63ab
 product: runway
 product_name: Runway
 record:
@@ -53,10 +53,10 @@ record:
   title: Nano Banana 2
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation
-  changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
   Chat toggles now control built-in tools. Users can now disable web search…]]'
+- '[[Changes/Recraft/2026-02-18-we-ve-just-launched-recraft-v4-our-most-advanced-image-generation-model-yet-it-s|We’ve
+  just launched Recraft V4, our most advanced image generation model yet]]'
 - '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
 source_release: '[[Releases/Runway/runway-2026-02-27-2026-02-27-nano-banana-2-3fb1bb9c|runway-2026-02-27-2026-02-27-nano-banana-2-3fb1bb9c]]'
 source_type: runway_changelog

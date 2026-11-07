@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98922146c3fc1303507d6a861c9b48bb53607af80d72c3b6a7f7f51d7c72157f
+machine_hash: 41041af1672a340bf91c5b394f9da74e9898e3942297c37103e7123b3ea8b163
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.229
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow connectors support role-based permissions…]]
-- Later: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add the Modern Web Guidance plugin to the bundled plugin marketplace]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-slack-improvements|Slack Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

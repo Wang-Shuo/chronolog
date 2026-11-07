@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ccc3bf382b95070c2c187dbf5a7bf1342717a05087280fa7805fdf73aeafc87d
+machine_hash: 18f223e5c4c0c4ca4f657e0e8bd0d170da48bf7576c55f3a54b766f4859aaf6e
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-build-beautiful-apps|Build Beautiful Apps]]
-- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable or disable for]]
+- Later: 2024-12-16 · Raycast · [[Changes/Raycast/2024-12-16-raycast-wrapped-2024|Raycast Wrapped 2024]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

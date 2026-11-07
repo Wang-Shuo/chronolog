@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba2d45cfab5cda0429554c002caac0b199f674fb9d1797c80504039c7c6af5d8
+machine_hash: c4b1efe0a5eae49db91c25c990b7b36d2dca80e69d5f0de63c67f55db9999edf
 product: opencode
 product_name: OpenCode
 record:
@@ -47,8 +47,9 @@ record:
   title: 4 Mobile and Desktop changes in v1.18.10
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
 - '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-07-29-snippets-now-support-rich-text-formatting-desktop|Snippets
+  now support rich text formatting (Desktop)]]'
 - '[[Changes/Notion/2026-07-30-try-it-by-going-to-settings-preferences-appearance-available-on-desktop-and-web|Try
   it by going to Settings  Preferences  Appearance]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-30-v1-18-10-d6e57a7d|opencode-2026-07-30-v1-18-10-d6e57a7d]]'

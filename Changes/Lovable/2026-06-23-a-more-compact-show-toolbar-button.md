@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ba257ab01e324da5267407cfa61e06796e36eafc40812ce33555216f57be0615
+machine_hash: 6ec7f1271509ac308b7d64fa7f24e313c57109c7455af9980b914a3afd62380f
 product: lovable
 product_name: Lovable
 record:
@@ -49,9 +49,9 @@ record:
   title: A more compact Show toolbar button
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
-  PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
 - '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
+- '[[Changes/Raycast/2026-06-22-3-collaboration-changes-in-raycast-ios-1-3-0|3 Collaboration
+  changes in Raycast ios 1.3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve
   Markdown blockquotes in /share exports]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-23-2026-06-23-478b64ef|lovable-2026-06-23-2026-06-23-478b64ef]]'

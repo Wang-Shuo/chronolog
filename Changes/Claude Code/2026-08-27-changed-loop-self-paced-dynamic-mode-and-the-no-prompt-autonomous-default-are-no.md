@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fe595fd8e85597e5ccfab2ff588046fd05926bea418566b0030ae0b1ac47e0c7
+machine_hash: 8cac0dc6ed3e760bdde1d195b7e852b06f10b1134e3ae3216b430ddc9bbe24fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 'Changed `/loop`: self-paced dynamic mode and the no-prompt autonomous default…'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-python-when-editing-with-copilot-in-excel-windows-mac-web-excel|Use
-  Python when Editing with Copilot in Excel Windows, Mac, Web (Excel)]]'
-- '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
-  Automation and Scheduling changes in v0.11.1]]'
-- '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
-  Add a managed gate for in-app local automation @copyberry]]'
+- '[[Changes/Devin/2026-08-26-linked-triggering-events|Linked Triggering Events]]'
+- '[[Changes/Devin/2026-08-26-finer-automation-schedule-controls|Finer Automation
+  Schedule Controls]]'
+- '[[Changes/Devin/2026-08-26-support-jira-previous-status-automation-triggers|Support
+  Jira previous\status Automation Triggers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-support-jira-previous-status-automation-triggers|Support Jira previous\status Automation Triggers]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use x to remove scheduled /every and /after prompts in Schedule Manager]]
 <!-- chronolog:end -->
 

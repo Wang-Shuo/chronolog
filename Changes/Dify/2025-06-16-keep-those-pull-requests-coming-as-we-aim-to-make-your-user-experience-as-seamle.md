@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 273bd8c1257dcf970f42a7e6cbdee308ab93edc613456739a4aedbfb10135293
+machine_hash: 2c43b3218c276bf2c18e91e39368982abd028e712de527479d65242cb3ec5bed
 product: dify
 product_name: Dify
 record:
@@ -45,11 +45,11 @@ record:
     seamless…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
-  codeblocks with refreshed design]]'
 - '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
 - '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
   Housekeeping Command]]'
+- '[[Changes/Raycast/2025-06-11-spotlight-added-new-replace-spotlight-with-raycast-command-for-a-smoother-transi|Spotlight:
+  Added new “Replace Spotlight with Raycast” command for a smoother…]]'
 source_release: '[[Releases/Dify/dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa|dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved Housekeeping Command]]
-- Later: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s that? Basically; imagine an AI system that generates imagery in real-time]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-spotlight-added-new-replace-spotlight-with-raycast-command-for-a-smoother-transi|Spotlight: Added new “Replace Spotlight with Raycast” command for a smoother…]]
+- Later: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-misc-added-command-to-open-last-note|Misc: Added command to Open Last Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82c3ffbbf8f12892bee6304140802b885ea4442937a874fdff0cdbf912dadf2a
+machine_hash: b22c16011daea188afd67a849ae3067383ce361519b97605798d793b02065310
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,7 @@ record:
   title: 'docs: remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
-  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-plugins|Plugins]]'
 - '[[Changes/Kimi Code/2026-09-09-remote-control-is-now-always-on-the-experimental-kimi-code-experimental-remote-c|Remote
   Control is now always on]]'
 - '[[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps

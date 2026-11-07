@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0928b122bd5a2e0be688b3e1bd09b1ec8d2561ca5f96e799166a27c4ece2016f
+machine_hash: 778e8252d6b7570f3a5706ae8f031fe3aef9ad04b9365193eebd272373fe2ff3
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,9 @@ record:
   title: 5 Model Support changes in 0.3.13
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
-  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Raycast/2023-08-09-gpt-4-subscription-added-an-option-to-cancel-a-subscription-on-the-account-setti|GPT-4
+  subscription : added an option to cancel a subscription on the account settings
+  page]]'
 - '[[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support
   changes in v0.0.14]]'
 - '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes

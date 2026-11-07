@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a907b185b33410883dd07790f9858c2ed39b0b69a8ddc2ef060fa3cb1e29df47
+machine_hash: d5ab19868f83cdaaa3d6129ba45918b9b7e26f7a7ef0006b8f28a9a977df2a7d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,7 @@ record:
     membership-based…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
-  shared helpers for suite tests (♯6460) — @aibrahim]]'
+- '[[Changes/Devin/2025-11-21-steerable-wiki-now-default|Steerable Wiki Now Default]]'
 - '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
   to discuss them out loud]]'
 - '[[Changes/Dify/2025-11-26-2-collaboration-changes-in-1-10-1|2 Collaboration changes

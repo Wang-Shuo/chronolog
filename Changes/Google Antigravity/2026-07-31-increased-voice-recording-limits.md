@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 321578d819d439e51faa7476db98579791ceaf01cb8262c4adb1d63ecf748a90
+machine_hash: 9ab24ded6fce9885fe86485e6c26eddbbadb03b7b2ee2e2fa99dfdf6bc908515
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,7 +41,8 @@ record:
   title: Increased voice recording limits
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]'
+- '[[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX
+  voice models are now hidden on Intel Macs, where they aren''t supported]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
   mode pauses playing media before recording and resumes it afterward, where…]]'
 - '[[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven

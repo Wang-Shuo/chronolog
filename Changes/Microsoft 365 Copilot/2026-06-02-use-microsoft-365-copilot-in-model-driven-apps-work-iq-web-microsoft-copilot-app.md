@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6aa776e57cdc893b605b00195f52ee0a19d7674e212714b8e397db72337c69bc
+machine_hash: 0985ad823bca7c7eb7c21b0a31e24a871d8f81785b3a3174caaff26e410f0958
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,12 +47,11 @@ record:
     Copilot app)
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-06-02-ai-governance-provides-a-centralized-place-for-admins-to-manage-how-ai-powered-f|AI
-  Governance – Provides a centralized place for admins to manage how AI-powered…]]'
 - '[[Changes/Kimi Code/2026-06-02-4-model-support-changes-in-kimi-code-0-8-0|4 Model
   Support changes in Kimi Code 0.8.0]]'
 - '[[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model
   Support changes in Kimi Code 0.7.0]]'
+- '[[Changes/Krea/2026-06-02-krea-2-on-artificial-analysis|Krea 2 on Artificial Analysis]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-06-02-2026-06-02-2d78061d|microsoft-365-copilot-2026-06-02-2026-06-02-2d78061d]]'
 source_type: m365_copilot_changelog
 theme: model-support
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model Support changes in Kimi Code 0.7.0]]
+- Earlier: 2026-06-02 · Krea · [[Changes/Krea/2026-06-02-krea-2-on-artificial-analysis|Krea 2 on Artificial Analysis]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support changes in v2.1.162]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 54c0aee9c9b49baa8f818cc20ee51dff7a94ccab6e1ad84d1381093a3e31c025
+machine_hash: adcb607daed83f4ba4870e38b03a3a9dabb0d7d181c21a9546f11312b4ee3820
 product: replit
 product_name: Replit
 record:
@@ -49,7 +49,8 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-20-integration-visibility|Integration visibility]]'
+- '[[Changes/Devin/2024-12-24-if-you-ve-noticed-devin-stuck-on-the-same-action-or-unable-to-sleep-wake-up-plea|If
+  you''ve noticed Devin stuck on the same action or unable to sleep/wake up, please…]]'
 - "[[Changes/Open WebUI/2024-12-25-notification-webhook-integration-get-alerts-via-webhooks-even-when-your-tab-is-c|\U0001F310
   Notification Webhook Integration]]"
 - "[[Changes/Open WebUI/2024-12-27-pipelines-outlet-hook-registration-addressed-an-issue-where-outlet-hooks-for-pip|\U0001F517

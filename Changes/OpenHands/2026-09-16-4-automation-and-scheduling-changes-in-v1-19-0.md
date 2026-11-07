@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 975185573cdcc43d392f427f9d41b05fe432f4366ebe7423682813d3ee010c33
+machine_hash: 103147105b55f75e140403496044d4630c13fbc1c9b35c7f24aa963804e68d99
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Automation and Scheduling changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
-  Automation and Scheduling changes in v2026.9.4]]'
-- '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
-  Automation and Scheduling changes in v1.18.0]]'
 - '[[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add
   the loop_control.compaction_max_attempts config option to set the maximum…]]'
+- '[[Changes/Devin/2026-09-16-admins-can-opt-into-allowing-automations-on-public-gitlab-repos|Admins
+  Can Opt into Allowing Automations on Public GitLab Repos]]'
+- '[[Changes/Devin/2026-09-16-slack-user-group-mention-triggers-for-automations-and-oncall|Slack
+  User-Group Mention Triggers for Automations and Oncall]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -100,7 +100,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-add-the-loop-control-compaction-max-attempts-config-option-to-set-the-maximum-to|Add the loop_control.compaction_max_attempts config option to set the maximum…]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-slack-user-group-mention-triggers-for-automations-and-oncall|Slack User-Group Mention Triggers for Automations and Oncall]]
 - Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-how-to-find-it-231db5|How to find it]]
 <!-- chronolog:end -->
 

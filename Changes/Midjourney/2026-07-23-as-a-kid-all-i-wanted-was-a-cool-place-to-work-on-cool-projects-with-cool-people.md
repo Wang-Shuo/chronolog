@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3f0299822f1d69d00935efe0db0d36bc86eab4d06944a52256ec42eb41d581a
+machine_hash: d3c215b8d4623d1c06470d8082d39339671200944306789051307e30cc7b9cfc
 product: midjourney
 product_name: Midjourney
 record:
@@ -127,7 +127,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin controls: per-team and per-group enablement, mode restrictions, default mode…]]
-- Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-studio|Studio]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-2-collaboration-changes-in-raycast-macos-0-70|2 Collaboration changes in Raycast macos 0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

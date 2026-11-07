@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d35f30e13044741bd470033eae16c8bf7064bf5468da90a93820217de1a7c26d
+machine_hash: cbde461350344213ea171d73406f047c91b544110033f78322924eedc96cc5e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox policy now reports local-network access using your configured setting]]
-- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed an issue where permission settings accumulated duplicate entries, which made…]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-email-notifications-for-enterprise-and-security-profile-organizations|Email Notifications for Enterprise and Security-Profile Organizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

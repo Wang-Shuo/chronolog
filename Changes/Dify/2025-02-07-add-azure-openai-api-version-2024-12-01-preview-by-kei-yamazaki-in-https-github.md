@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5225725e345f46fcfb276b17f009927db5f13086189409e816d060037c113bcc
+machine_hash: fd39f2a9fbb0cb0d77f9f63f6d83d3603dfc6d1a4cda0161be132e991669ff5e
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,11 @@ record:
   title: add azure openai api version 2024-12-01-preview
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
-  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
-- '[[Changes/Replit/2025-01-31-repl-app|Repl - App]]'
 - "[[Changes/Open WebUI/2025-02-05-exa-search-engine-integration-a-new-search-provider-has-been-added-allowing-user|\U0001F517
   Exa Search Engine Integration]]"
+- '[[Changes/Raycast/2025-02-05-hyper-key|Hyper Key]]'
+- '[[Changes/Raycast/2025-02-05-raycast-focus-added-an-option-to-reopen-apps-that-were-closed-at-the-beginning-o|Raycast
+  Focus: Added an option to reopen apps that were closed at the beginning…]]'
 source_release: '[[Releases/Dify/dify-2025-02-07-0-15-3-github-198990350-49c4f467|dify-2025-02-07-0-15-3-github-198990350-49c4f467]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-exa-search-engine-integration-a-new-search-provider-has-been-added-allowing-user|🔗 Exa Search Engine Integration]]
+- Earlier: 2025-02-05 · Raycast · [[Changes/Raycast/2025-02-05-raycast-focus-added-an-option-to-reopen-apps-that-were-closed-at-the-beginning-o|Raycast Focus: Added an option to reopen apps that were closed at the beginning…]]
 - Later: 2025-02-12 · Gemini · [[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority access with Gemini Advanced]]
 <!-- chronolog:end -->
 

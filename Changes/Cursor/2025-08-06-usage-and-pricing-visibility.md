@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2c3a757c9fe41b633340545889e78a7d85d41fc7521d87a69e20310352b3202e
+machine_hash: 6ac601e70a11c66b666332c038403693f5cd8937c3e25057fa8e3a3f8dc0bf00
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: Usage and pricing visibility
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting
-  buy_credits_url response from backend]]'
 - '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
   reasoning UX for Grok 4 models and correct pricing]]'
 - '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
   redirectUrl to credits purchasing experience]]'
+- '[[Changes/Recraft/2025-08-04-cost-per-generation-2-credits|Cost per generation:
+  2 credits]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding redirectUrl to credits purchasing experience]]
+- Earlier: 2025-08-04 · Recraft · [[Changes/Recraft/2025-08-04-cost-per-generation-2-credits|Cost per generation: 2 credits]]
 - Later: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-about-hd-video-mode|About HD Video Mode]]
 <!-- chronolog:end -->
 

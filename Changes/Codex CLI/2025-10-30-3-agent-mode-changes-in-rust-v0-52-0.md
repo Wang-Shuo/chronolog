@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09632a6a5edf5625741aedb8cfbcd8167e8613cd607173c521013717d931f27f
+machine_hash: c8f2ced5c87e1d2071b13e4befc54c57193271b49e1ab9909c07dfd7104d99e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents): Remove legacy subagent code]]
-- Later: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now when you edit an AI-generated image with Agent, those changes are automatically…]]
+- Later: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-unified-agent-selection-experience|Unified Agent Selection Experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

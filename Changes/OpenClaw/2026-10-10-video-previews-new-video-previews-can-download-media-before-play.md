@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c024174cbed7619c8e45474734550986ca2b909c4aba8147dc3ffa3d82a19c07
+machine_hash: 1d89535f211b7e6cdb45b03a491de0e0cda48b8cb6855a1148d771e5c1fe10d1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,12 +45,12 @@ record:
   title: 'Video previews: New video previews can download media before Play'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal
-  Input changes in v2026.9.7]]'
-- '[[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match
-  video length to your prompt]]'
 - '[[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu
   attachments]]'
+- '[[Changes/Raycast/2026-10-09-five-new-commands-put-everyday-settings-a-few-keystrokes-away-manage-networks-an|Five
+  new commands put everyday settings a few keystrokes away]]'
+- '[[Changes/Raycast/2026-10-09-system-actions-new-toggle-camera-mute-command-to-quickly-block-or-restore-camera|System
+  Actions : New Toggle Camera Mute command to quickly block or restore camera…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu attachments]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-system-actions-new-toggle-camera-mute-command-to-quickly-block-or-restore-camera|System Actions : New Toggle Camera Mute command to quickly block or restore camera…]]
 - Later: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-music|Music]]
 <!-- chronolog:end -->
 

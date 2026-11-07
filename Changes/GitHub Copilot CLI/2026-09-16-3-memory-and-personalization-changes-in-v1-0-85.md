@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4082a6f9d6367b691f53e0647f870d57b65ba3cece9f3762244a88fd34b3dca
+machine_hash: f930c212de08247835dcc18c072e584e9c1d3bea67969f2880aff6d3d0b65707
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,8 @@ record:
   title: 3 Memory and Personalization changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
-  and Personalization changes in 1.17.1]]'
-- '[[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14
-  Memory and Personalization changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-projects|Projects]]'
+- '[[Changes/Raycast/2026-09-11-projects-6239fd|Projects]]'
 - '[[Changes/Google Antigravity/2026-09-15-conversations-with-very-long-histories-now-load-faster-and-use-less-memory|Conversations
   with very long histories now load faster and use less memory]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 836a2adde7526206e157fa7f0e2dece59467ebe6c98bca90827a306bbcb3fee6
+machine_hash: 3275f99755fed3cc45d4782761938cc2e0faec100af55f247c3b20208e706ead
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -354,7 +354,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]]
-- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-apps-and-integrations-changes-in-hub-v2-6-0-faster-long-conversations|2 Apps and Integrations changes in HUB v2.6.0 — Faster long conversations…]]
+- Later: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-request-channel-access-from-slack|Request Channel Access from Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

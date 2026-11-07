@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7788917ba4a18783ef71078a84ed2980c6db5c7863a1f4a85cd7adcc98ea7bfd
+machine_hash: e8c87a694887f5df2eb14356293686fa5d731227029cc1a82fecafe8223c18fc
 product: replit
 product_name: Replit
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]
-- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop Per-workspace icon overrides now stay applied for subdirectories in the same repo]]
+- Later: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-less-bubble-more-screen-android|Less bubble, more screen (Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

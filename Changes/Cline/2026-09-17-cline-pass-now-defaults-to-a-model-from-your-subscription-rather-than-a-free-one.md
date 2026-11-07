@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 17d3a0655894d3353b558a9d777f907fd5f3361169cb240c8959aa2b62b69ac5
+machine_hash: aa655488fc545ee05047aa7db80941be2ac164a86c0126bfd6a532c1dd0cdaad
 product: cline
 product_name: Cline
 record:
@@ -60,8 +60,8 @@ record:
     one
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage
-  shows per-model AI Credit consumption in usage breakdowns]]'
+- '[[Changes/Krea/2026-09-16-organizations-is-open-to-everyone|Organizations is open
+  to everyone]]'
 - '[[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test:
   strengthen LLM subscription normalization]]'
 - '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude

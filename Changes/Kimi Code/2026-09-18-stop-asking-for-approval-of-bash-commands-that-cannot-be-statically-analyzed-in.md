@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b932aee1eb67e05b580c07f93cef12de1b526f21913efe2f5a568dbf1b96356
+machine_hash: 1422f59e33908464ab14f594f616dc5cca1ebdd28c5820fcf7cdc91c947b1a39
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,10 +47,10 @@ record:
     in Ask…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
-  policy now reports local-network access using your configured setting]]'
 - '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
   and Privacy changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-email-notifications-for-enterprise-and-security-profile-organizations|Email
+  Notifications for Enterprise and Security-Profile Organizations]]'
 - '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
   an issue where permission settings accumulated duplicate entries, which made…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-18-2-0-1-07e33833|kimi-code-2026-09-18-2-0-1-07e33833]]'

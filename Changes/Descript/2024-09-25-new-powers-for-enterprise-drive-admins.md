@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 74ac9424759bbdce1c9dfacde57acabeb1f4df55b57e11f1f36c04b3065df451
+machine_hash: 40dd6fd48ffdfc172707f1e0b8f3b4903a2e2424f4f1920d6df4c67894d613e0
 product: descript
 product_name: Descript
 record:
@@ -50,12 +50,11 @@ record:
   title: New powers for Enterprise Drive admins
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update
-  enterprise inquiry link to point to chatflow]]'
 - '[[Changes/Descript/2024-08-27-ai-usage-dashboard-admin-view|AI Usage dashboard
   admin view]]'
 - '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
   support for reading .pdf and .docx files…]]'
+- '[[Changes/Devin/2024-09-03-enterprise-vpc-deployment|Enterprise VPC Deployment]]'
 source_release: '[[Releases/Descript/descript-2024-09-25-66f1ed3467f5b0cbdcc0d155-14be1212|descript-2024-09-25-66f1ed3467f5b0cbdcc0d155-14be1212]]'
 source_type: canny_changelog
 theme: enterprise-admin
@@ -86,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
-- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat: remove github star and community links if it is enterprise version]]
+- Earlier: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-enterprise-vpc-deployment|Enterprise VPC Deployment]]
+- Later: 2024-10-10 · Devin · [[Changes/Devin/2024-10-10-beta-devin-api|Beta Devin API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

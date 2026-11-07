@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2c3d509602424091d464fa9eef96e6bcafc58828b3deee8cc7e62f12af7145b
+machine_hash: e3cb0993f44c1b01dfcee231469671ad2dd8e92791ad2d53185562e6c24b8b44
 product: lovable
 product_name: Lovable
 record:
@@ -54,10 +54,8 @@ record:
   title: Connect your app to GitLab API
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
-  multiple Google accounts to ChatGPT]]'
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-new-mcp-marketplace-servers|New MCP Marketplace Servers]]'
+- '[[Changes/Devin/2026-08-28-clearer-mcp-install-approvals|Clearer MCP Install Approvals]]'
 - '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
   with Gamma’s API and connectors]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-28-2026-08-28-1fac4f32|lovable-2026-08-28-2026-08-28-1fac4f32]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a193f6bba055d992fc14479300382d38f749655a9d65f6031d4f57346ab038a
+machine_hash: 6e979706af61c29b50996167e0afbaf055c78912e8c9a714408ec3c8535899b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
-  MCP auth token lifecycle handling]]'
-- '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
-- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
-  started is easy]]'
+- '[[Changes/Raycast/2026-05-13-ai-extensions-added-raycast-notes-ai-extension|AI
+  Extensions : Added Raycast Notes AI Extension]]'
+- '[[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-settings-quickly-find-extensions-commands-an|Finally,
+  we built search for Raycast Settings]]'
+- '[[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-s-settings-quickly-find-extensions-commands|Finally,
+  we built search for Raycast’s settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting started is easy]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-s-settings-quickly-find-extensions-commands|Finally, we built search for Raycast’s settings]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…]]
 <!-- chronolog:end -->
 

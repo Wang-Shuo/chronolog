@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b6f55746b3d6513dd484cb35b922d9ca79d862741c03d8af208cd25526c6f9d2
+machine_hash: bb61a2be42d81e4ab719b5d93ed5eecbe804dfe0550c289b7d2f51657f6daf25
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -71,8 +71,8 @@ record:
   title: deepseek-coder & deepseek-chat Upgraded to DeepSeek V2.5 Model
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes
-  in 0.7.3]]'
+- '[[Changes/Superwhisper/2024-09-03-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility
+  to download model if not installed prompt on recording start]]'
 - '[[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes
   in v0.55.0]]'
 - '[[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support

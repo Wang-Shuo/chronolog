@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 388d72764cae94bc7566a46dc0f68ae507c576bb89f6ed4dd7c7b157d28fd53f
+machine_hash: 6ae5fbef264bddd5d8a950bb96457a808dac02066fa90c36ae3d3d2f75c0b312
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: Changed the dangerous `rm` and `rmdir` prompt in bypass permissions mode…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
-  sandboxed commands can connect directly to localhost TCP services when local…]]'
-- '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
-  and Desktop changes in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-iphone-duo-compatibility|iPhone Duo compatibility]]'
+- '[[Changes/Superwhisper/2026-10-20-traffic-light-buttons-now-match-native-spacing-and-shape-across-all-macos-versio|Traffic
+  light buttons now match native spacing and shape across all macOS versions]]'
 - '[[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note:
   Flint is supported on MacOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

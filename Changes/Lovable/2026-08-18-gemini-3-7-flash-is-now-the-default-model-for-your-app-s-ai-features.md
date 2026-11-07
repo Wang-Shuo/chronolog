@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 582baf2f234e1e9d22e96a9b705ed38093c188aaa0bd5991d872cc64787a0f6d
+machine_hash: db3c68ab424d154b19a4917a5bd77f92c66379ac875d7c0869152d8f9407ba2b
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: Gemini 3.7 Flash is now the default model for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini
-  3.7 Flash for your app''s AI features]]'
-- '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
-  add LLM pre-flight validation to prevent saving misconfigured profiles]]'
+- '[[Changes/Superwhisper/2026-08-17-redesigned-the-model-details-sheet-with-a-cleaner-layout-download-size-info-and|Redesigned
+  the model details sheet with a cleaner layout, download size info…]]'
 - '[[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model
   Support changes in rust-v0.148.0]]'
+- '[[Changes/Krea/2026-08-18-report-open-source-model-usage-with-post-oss-usage|Report
+  open-source model usage with POST /oss/usage]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-18-2026-08-18-05448a19|lovable-2026-08-18-2026-08-18-05448a19]]'
 source_type: lovable_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model Support changes in rust-v0.148.0]]
+- Earlier: 2026-08-18 · Krea · [[Changes/Krea/2026-08-18-report-open-source-model-usage-with-post-oss-usage|Report open-source model usage with POST /oss/usage]]
 - Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
 <!-- chronolog:end -->
 

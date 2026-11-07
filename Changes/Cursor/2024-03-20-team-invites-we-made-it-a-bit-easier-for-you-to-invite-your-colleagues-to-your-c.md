@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a19defe429a621eb970e172e68af2dce09042dd21f4a364eec79da5079070af
+machine_hash: d5bdf59307a6c9e6d41f09773a94da1a2c22c35ab599dfccf661cb5c7dd73860
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-03-18 · Descript · [[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]
-- Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|🏷️ Tag Autocomplete: Dropdown feature added for effortless chat tagging]]
+- Later: 2024-03-28 · Superwhisper · [[Changes/Superwhisper/2024-03-28-activate-mode-based-on-active-website-focused-tab-in-frontmost-browser|Activate mode based on active website (focused tab in frontmost browser)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

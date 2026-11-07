@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e212d917bbd908a10b5d9b0f15a84ae45af943ceb32beca8c48606e84a09bb6
+machine_hash: 34e5ccb1ef50c5f01d7ea4e5ab4092e24db67dc9b92fec633b1e3b149145b109
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Files and Data changes in v0.3.31
   type: change
 related_changes:
-- '[[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar
-  under the Canvas]]'
 - '[[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]'
 - '[[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected
   a linking error in help documents (@hjlarry in ♯8508)]]'
+- '[[Changes/AnythingLLM/2024-10-03-improve-remove-document-ux-by-shatfield4-in-https-github-com-mintplex-labs-anyth|Improve
+  remove document UX]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.31
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected a linking error in help documents (@hjlarry in ♯8508)]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-improve-remove-document-ux-by-shatfield4-in-https-github-com-mintplex-labs-anyth|Improve remove document UX]]
 - Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-2-files-and-data-changes-in-0-10-0|2 Files and Data changes in 0.10.0]]
 <!-- chronolog:end -->
 

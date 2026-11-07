@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 68294786381c0dcdc0e5aa8c5c29a68e870e70d1d1a84c2855cf14ba0318a43b
+machine_hash: 8115b6eb1012de5c884c43ac75e65bd108620a17d0cd3da27842093357954c48
 product: claude
 product_name: Claude
 record:
@@ -51,12 +51,12 @@ record:
   title: Claude Opus 5.5 launch
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable
-  the rubber-duck agent for every model family and for low-cost-tier session models]]'
 - '[[Changes/Lovable/2026-09-21-jev-for-typed-decisions-in-your-app-s-ai-features|Jev
   for typed decisions in your app''s AI features]]'
 - '[[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support
   changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-7-model-support-changes-in-v1-16-2|7 Model Support
+  changes in v1.16.2]]'
 source_release: '[[Releases/Claude/claude-2026-09-22-2026-09-22-5ce970b0|claude-2026-09-22-2026-09-22-5ce970b0]]'
 source_type: claude_changelog
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support changes in v0.11.4]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-7-model-support-changes-in-v1-16-2|7 Model Support changes in v1.16.2]]
 - Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support changes in v2.1.280]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c41dc2571497f106e4354f3a6dbd34f142971f222e4ec86f228436d48f38b3e8
+machine_hash: 39f541ea4e75460c70672dd7af3b624469c1d740ba4874436dd09b1c57b40035
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: Added `enforceAvailableModels` managed setting
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After
-  your testing and feedback, we''ve updated the default model from V7 to V8.1!]]'
 - '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
   what''s new in V8.1]]'
+- '[[Changes/Superwhisper/2026-06-11-2-model-support-changes-in-superwhisper-windows-1-4-13|2
+  Model Support changes in Superwhisper Windows 1.4.13]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124|claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124]]'

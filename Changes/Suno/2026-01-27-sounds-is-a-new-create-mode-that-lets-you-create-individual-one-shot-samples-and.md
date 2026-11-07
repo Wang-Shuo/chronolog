@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c973ba30ba2b3d63038e2011dd70b72b5338dad69ad5c00037552db48aaa42b2
+machine_hash: 274bd97956078661e369d71100af5a12a87f53c9a0ab87f05dd54f3eaa32ca27
 product: suno
 product_name: Suno
 record:
@@ -55,10 +55,10 @@ record:
   title: Sounds is a new Create mode that lets you create individual one-shot samples…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler
-  and cleanup module]]'
 - '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
   Automation and Scheduling changes in v0.25.0]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-help-you-automate-repetitive-work-in-seconds-pick-a-pre-made-command|AI
+  Commands help you automate repetitive work in seconds]]'
 - '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
   automations]]'
 source_release: '[[Releases/Suno/suno-2026-01-27-e-make-loops-and-samples-from-scratch-with-sounds-580610a2|suno-2026-01-27-e-make-loops-and-samples-from-scratch-with-sounds-580610a2]]'

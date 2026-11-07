@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 56c00b7330ddd98604982f83a936f80d28da6a0813e81d9bbff19087c0190eeb
+machine_hash: 7447f85ac90c64b7e16d48746c2db91fcefae78a26b0cc3b78e391dc0a60d74f
 product: heygen
 product_name: HeyGen
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-member-usage-limits-and-requests|Member usage limits and requests]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|💬 Translated model prompt suggestions. Editing the prompt suggestions of a model…]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-github-enterprise-server-app-permissions|GitHub Enterprise Server App Permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

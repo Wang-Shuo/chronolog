@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: a582361b5283e27956730c0b0ef297e3bcd229685f81270d9a72a7aea1293899
+machine_hash: e883dc57102904741805e4975c27d837aedf79fd7a0598e1ae80b1002fe10df7
 product: replit
 product_name: Replit
 record:
@@ -55,11 +55,11 @@ record:
   title: Neon database improvements
   type: change
 related_changes:
-- '[[Changes/Lovable/2024-12-11-christmas-hackathon-https-hackathon-lovable-app-submit-to-win-3-000-in-prizes|Christmas
-  Hackathon((source link) to win \$3,000+ in prizes]]'
 - '[[Changes/Replit/2024-12-13-billing-updates-all-usage-limits-for-agent-have-been-removed-and-the-credits-inc|Billing
   updates: All usage limits for Agent have been removed, and the credits…]]'
 - '[[Changes/ElevenLabs/2024-12-19-launches|Launches]]'
+- '[[Changes/Devin/2024-12-24-devin-is-now-generally-available|Devin is now generally
+  available!]]'
 source_release: '[[Releases/Replit/replit-2025-01-03-2025-01-03-8a1ad12e|replit-2025-01-03-2025-01-03-8a1ad12e]]'
 source_type: replit_changelog
 theme: pricing-model
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-12-19 · ElevenLabs · [[Changes/ElevenLabs/2024-12-19-launches|Launches]]
+- Earlier: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-devin-is-now-generally-available|Devin is now generally available!]]
 - Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-2-pricing-model-changes-in-0-15-1|2 Pricing Model changes in 0.15.1]]
 <!-- chronolog:end -->
 

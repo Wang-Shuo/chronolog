@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55db5d9e40cbc7f70b759832d6c1ab4868a6e68984135ab65c8d3b04bee08674
+machine_hash: 6b09086c5acc3ffcf8c45a5b9a7cb1c1c4db3bba08de2b75126e41c929bfd0c2
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,8 @@ record:
   title: Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
-  Window changes in rust-v0.156.0]]'
+- '[[Changes/Devin/2026-09-23-microsoft-teams-commands-context-and-dm-cards|Microsoft
+  Teams: Commands, Context and DM Cards]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New
   Copilot Notebooks design in the Microsoft 365 Copilot App…]]'
 - '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context

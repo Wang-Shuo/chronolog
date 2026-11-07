@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efbd0a03b7141862cc902e6746a701b438fe556ee194c25d0c517e23665bbb84
+machine_hash: f7ad2e9c78a646cf74665a9a3403019b3e9b1263aaabb8ea860148693b2a4bcf
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,10 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-25-descript-version-109-features-two-important-changes-to-terminology-that-coincide|Descript
-  Version 109 features two important changes to terminology that coincide…]]'
 - '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
   tying all of these changes together, we’ve added a new Layout…]]'
+- '[[Changes/LM Studio/2025-03-03-new-advanced-speculative-decoding-parameters-behind-all-toggle-in-chat-sidebar|New:
+  Advanced speculative decoding parameters behind "All" toggle in chat sidebar]]'
 - '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
   edits just got easier!]]'
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'

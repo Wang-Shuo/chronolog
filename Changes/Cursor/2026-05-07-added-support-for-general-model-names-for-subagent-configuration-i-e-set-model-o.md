@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ba8edd4e2f65d5978f5a8f18fe7ea9c11dd797d6d5d073c645c43eca2730bc35
+machine_hash: a67f72f0949a8aefd00260ef3a24af86c6c460313e10ec867c838509c62aa6b5
 product: cursor
 product_name: Cursor
 record:
@@ -59,8 +59,8 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support
-  changes in v0.41.0]]'
+- '[[Changes/Superwhisper/2026-05-05-add-support-for-azure-foundry-custom-model-endpoints|Add
+  support for Azure Foundry custom model endpoints]]'
 - '[[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support
   changes in v2.1.129]]'
 - '[[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model

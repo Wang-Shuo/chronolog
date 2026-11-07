@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34c30d9fc7ef0f88a0ce1c98e5ded7b53baa3d732dbdad51323fd792969d0e91
+machine_hash: d9ea5ae7076c03d4da78809811c9aef1b62cbf3417802f512257004279083d5f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,11 +45,10 @@ record:
   title: Quote or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-08-mobile-remote-control-is-supported|Mobile remote control
-  is supported]]'
 - '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
   Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-git-bash-on-windows|Git Bash on Windows]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7|google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7]]'
 source_type: antigravity_changelog
 theme: mobile-desktop
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
-- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill packages built on Windows failed with a misleading error. A SKILL.md…]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-git-bash-on-windows|Git Bash on Windows]]
+- Later: 2026-09-09 · Superwhisper · [[Changes/Superwhisper/2026-09-09-superwhisper-is-now-available-on-android-tap-the-floating-bubble-to-dictate-into|Superwhisper is now available on Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

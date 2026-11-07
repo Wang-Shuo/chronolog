@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2bd07a8a03a8114fd7aa6b110b1e856fbfbdd36534ea315d680a5e51856138b2
+machine_hash: 09ce891f87e21e0f439b3ad2f6bbc82777b6333f70b0a271a17033dfb1c67379
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
     plugins
   type: change
 related_changes:
-- '[[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack
-  integration 2.0: save messages and configure notifications]]'
+- '[[Changes/Raycast/2023-04-28-the-default-search-scope-for-apps-from-parallels-vms-can-now-be-removed-preferen|The
+  default search scope for apps from Parallels VMs can now be removed…]]'
 - '[[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click
   Extension Import from VS Code (beta)]]'
 - '[[Changes/ChatGPT/2023-05-12-plugins-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-use-third-party|Plugins:

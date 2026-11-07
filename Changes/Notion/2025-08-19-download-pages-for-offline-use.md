@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3d2ff4de0a20116f00af0fe3772128930bdb115b56f2d2f774d545fc56eec013
+machine_hash: d04044796ec5bb5b2fc8736e53a548ac4aba24d9a69388429b38da7a44c5bd83
 product: notion
 product_name: Notion
 record:
@@ -51,11 +51,10 @@ record:
   title: Download pages for offline use
   type: change
 related_changes:
-- '[[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create
-  video assets with Veo 3]]'
-- '[[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3
-  Enterprise and Administration changes in v0.6.19]]'
 - '[[Changes/Lovable/2025-08-11-lovable-business-plan|Lovable Business plan]]'
+- '[[Changes/Devin/2025-08-12-enhanced-enterprise-consumption-dashboard|Enhanced Enterprise
+  Consumption Dashboard]]'
+- '[[Changes/Devin/2025-08-12-enterprise-logout-access|Enterprise Logout Access]]'
 source_release: '[[Releases/Notion/notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0|notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0]]'
 source_type: notion_changelog
 theme: enterprise-admin
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-lovable-business-plan|Lovable Business plan]]
+- Earlier: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-enterprise-logout-access|Enterprise Logout Access]]
 - Later: 2025-08-20 · Claude · [[Changes/Claude/2025-08-20-premium-seats-with-claude-code-for-team-and-enterprise-plans|Premium seats with Claude Code for Team and Enterprise plans]]
 <!-- chronolog:end -->
 

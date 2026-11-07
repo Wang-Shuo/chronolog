@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c6a0cc19d72945319d2281e503579756e7184767a9801a6a9db649ba70785b43
+machine_hash: bc1ce8ceb0b0fd65dbfd064ddce3d349321c1eaff04232fe4e5a5bbd5bf03936
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "**\U0001F6E1️ Enhanced Model Filtering**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes
-  in 0.5.9]]'
+- '[[Changes/Superwhisper/2024-03-15-make-language-model-connections-creation-more-obvious|Make
+  Language model connections creation more obvious]]'
 - '[[Changes/Dify/2024-03-19-16-model-support-changes-in-0-5-10|16 Model Support changes
   in 0.5.10]]'
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable

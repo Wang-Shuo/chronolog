@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: acb24fa2a4bb4e352a65f2a662977e2e14fe7ac558a73312a6b1a16e688d2e3a
+machine_hash: 9f606f5cbbacd32db5d67c5e7d9d25e217a2a4b0c8236219e0d097c3eb1b76f9
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4 Enterprise and Administration changes in v2026.9.2]]
+- Later: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-for-teams-enterprise-desktop|For Teams & Enterprise (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

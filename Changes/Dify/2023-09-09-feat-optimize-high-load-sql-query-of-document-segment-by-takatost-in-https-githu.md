@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc4a861efcdc2ccf206d14183d24875e0c6cd8e08c948d42621f4372a534eddd
+machine_hash: d8607f2e135a3ebabd8b06573d05cbd825540bdc4659cd05fd4afd98f53cae92
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat: optimize high load sql query of document segment'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
-  & hiding layers]]'
+- '[[Changes/Superwhisper/2023-08-12-recordings-now-stored-within-superwhisper-directory-in-documents-not-synced-to-i|Recordings
+  now stored within superwhisper directory in Documents, not synced to iCloud]]'
 - '[[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes
   in 0.3.15]]'
 - '[[Changes/Dify/2023-08-31-document-limit-by-johnjyong-in-https-github-com-langgenius-dify-pull-999|document

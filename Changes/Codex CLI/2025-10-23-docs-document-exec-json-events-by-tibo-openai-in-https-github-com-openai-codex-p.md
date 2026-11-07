@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 962fa11ecc12badea6bf6277c0dc77f7ab2a846f87ca1ed5b718d462ef917630
+machine_hash: e407fd40caff67dbee76a8e84329dcacc375b5b5adacdba764f44949bf443127
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'docs: document exec json events'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and
-  Data changes in v0.6.33]]'
+- '[[Changes/AnythingLLM/2025-10-09-2-files-and-data-changes-in-v1-9-0|2 Files and
+  Data changes in v1.9.0]]'
 - '[[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and
   Data changes in v0.6.34]]'
 - '[[Changes/Gemini CLI/2025-10-22-document-all-settings-with-showindialog-true-by-scidomino-in-https-github-com-go|document

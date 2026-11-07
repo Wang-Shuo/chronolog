@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 964bced23562eecb828cc9d06e0678c16e4e76b90272d3e5f4b38f4fc1a8e802
+machine_hash: ad49a2d3ee75955daf4d054ae8433c3ec07c7c07d3ac887a7e70e33011f07a91
 product: descript
 product_name: Descript
 record:
@@ -43,10 +43,10 @@ record:
   title: '**Drive owners** can set default layout packs and manage share branding'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request
-  validation and remove credit balance for cline team]]'
 - '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
   changes in v0.6.16]]'
+- '[[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI:
+  Always use the original image when saving and sharing a chat image]]'
 - '[[Changes/Descript/2025-07-17-with-brand-studio-your-team-can-now-maintain-brand-consistency-without-sacrifici|With
   Brand Studio, your team can now maintain brand consistency without sacrificing…]]'
 source_release: '[[Releases/Descript/descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43|descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration changes in v0.6.16]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI: Always use the original image when saving and sharing a chat image]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|👥 User Group Add/Remove Endpoints]]
 <!-- chronolog:end -->
 

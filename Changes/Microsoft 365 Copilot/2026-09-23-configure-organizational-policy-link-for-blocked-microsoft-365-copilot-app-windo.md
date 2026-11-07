@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 86bde33ecf5a2cb91badc50b434b9a22b5723dc9afdd27ec888c371e30bfe240
+machine_hash: 17d698044256d9ff5998441ec116cf4961f6f2cbe3bd4c970abebb8551634819
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,8 +47,8 @@ record:
     [Windows…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt
-  actions in interactive widgets and HTML artifacts now fill in and focus…]]'
+- '[[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every
+  Scan]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-copilot-enhanced-topic-assignment-web-viva-glint|Copilot
   Enhanced Topic Assignment Web (Viva Glint)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-new-profile-cards-for-buildings-rooms-and-desks-windows-microsoft-365-copilot|New
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every Scan]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 

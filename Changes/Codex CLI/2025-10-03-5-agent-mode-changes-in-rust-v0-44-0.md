@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83e340fa1ee3d9e2d1beba533d33be7f5103f309b13ea36e0da01a18822c2d11
+machine_hash: ae3e7101eb7ded38207ce4f09774ff1d30db84322e87a99428166a693d751487
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved the experience of writing prompts while the agent is running -- up/down…]]
-- Later: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-agents-platform|Agents Platform]]
+- Later: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-agent-default-setting-hints|Agent Default Setting Hints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

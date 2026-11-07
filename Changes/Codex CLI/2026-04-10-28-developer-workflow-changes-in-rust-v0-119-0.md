@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd2c032cf63f5dbf1747734f6f1970e8ecbc00892c098af7ea56e07915f36457
+machine_hash: 48c231ea102e07289805ef3374366c72d16318527a0420202d23aa8525b75db3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -203,7 +203,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer Workflow changes in v1.4.2 + 1]]
-- Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal state (alt screen, cursor, raw mode) is restored correctly after CLI…]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-devin-cli-polish|Devin CLI Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

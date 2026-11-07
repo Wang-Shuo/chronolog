@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af8beb1e4bcc9c8e876e3ee8c6ad09887c0880f49707167908e41f93a007f571
+machine_hash: 6d0f7702ca53f375d77f2700cae07cd694aecef06e42a6f457978c249d328de6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,9 @@ record:
   title: Virtually try on clothing and accessories
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
-  in to other products with ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
   /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/Devin/2026-09-30-context-tab|Context Tab]]'
 - '[[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15
   Memory and Personalization changes in v2026.9.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'

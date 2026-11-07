@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 176ccbe491ff6b456249dbb63817854a2dce689bf4dfe36691f3535dba5265a5
+machine_hash: ebfeca58bbb5eee58f3795e570848c2787bab0aac5f6af91a616277a05791fd7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -195,7 +195,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory and Personalization changes in 1.17.1]]
-- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-conversations-with-very-long-histories-now-load-faster-and-use-less-memory|Conversations with very long histories now load faster and use less memory]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-projects|Projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

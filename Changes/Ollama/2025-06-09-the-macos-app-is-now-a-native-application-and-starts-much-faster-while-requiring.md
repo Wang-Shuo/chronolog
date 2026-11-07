@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f97c7582d82c7721dd498b5651e93e8ab77a167ef1083f805d4321915ca9b98f
+machine_hash: 2e5853d9c083c5af3551615cb50c183fc639e109a0b519174f2fcd7ad1e603d8
 product: ollama
 product_name: Ollama
 record:
@@ -42,11 +42,11 @@ record:
   title: The macOS app is now a native application and starts much faster while requiring…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
 - '[[Changes/Synthesia/2025-06-04-today-we-re-excited-to-roll-out-three-enterprise-grade-upgrades-that-help-you-wo|Enterprise
   Update: Avatar Sharing, Bulk Actions & JIT Provisioning]]'
 - '[[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]'
+- '[[Changes/Superwhisper/2025-06-05-custom-providers-performance-tracking|Custom
+  Providers & Performance Tracking]]'
 source_release: '[[Releases/Ollama/ollama-2025-06-09-v0-9-1-github-224087817-76ffb3c8|ollama-2025-06-09-v0-9-1-github-224087817-76ffb3c8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-05 · Descript · [[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]
+- Earlier: 2025-06-05 · Superwhisper · [[Changes/Superwhisper/2025-06-05-custom-providers-performance-tracking|Custom Providers & Performance Tracking]]
 - Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-pinecone-vector-search-optimizations-applied-latest-best-practices-from-pinecone|🚀 Pinecone & Vector Search Optimizations]]
 <!-- chronolog:end -->
 

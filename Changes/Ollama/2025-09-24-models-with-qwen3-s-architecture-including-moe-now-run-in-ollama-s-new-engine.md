@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e337886497b15c32b9014aa19b17f1f42a34b6bf038513d9e500a42e4df6ef8
+machine_hash: ccf8316f6897d7d29f0f7e2b2daf5b0563aee3478d3081899e64fb8a670fdeca
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: Models with Qwen3's architecture including MoE now run in Ollama's new engine
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
-  in Windsurf!]]'
 - '[[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New
   media generation model selection in Settings]]'
 - '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
   changes in v0.6.0]]'
+- '[[Changes/LM Studio/2025-09-24-4-model-support-changes-in-lm-studio-0-3-27|4 Model
+  Support changes in LM Studio 0.3.27]]'
 source_release: '[[Releases/Ollama/ollama-2025-09-24-v0-12-2-github-249797732-6e6bda0b|ollama-2025-09-24-v0-12-2-github-249797732-6e6bda0b]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support changes in v0.6.0]]
+- Earlier: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-4-model-support-changes-in-lm-studio-0-3-27|4 Model Support changes in LM Studio 0.3.27]]
 - Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor: append stealth models on readOpenRouterModels & refreshOpenRouterModels]]
 <!-- chronolog:end -->
 

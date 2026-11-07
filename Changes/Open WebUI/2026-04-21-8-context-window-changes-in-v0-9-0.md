@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd1b038fa0e3a29527005f98285d29c7429b5b24fe8f764d345c7a045675a81c
+machine_hash: 6c9efc6424c5d350bf7352863f64d810dbb285d64fbf3bbd3040ad9a9e2fe559
 product: open-webui
 product_name: Open WebUI
 record:
@@ -147,7 +147,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Context Window
 
 - Earlier: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window changes in v1.14.19]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794 Organize context fragments @pakrym-oai]]
+- Later: 2026-04-22 · Superwhisper · [[Changes/Superwhisper/2026-04-22-context-menu-on-settings-modes-items-right-click-with-duplicate-delete-and-set-a|Context-menu on Settings - Modes items right-click with duplicate, delete and set active]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

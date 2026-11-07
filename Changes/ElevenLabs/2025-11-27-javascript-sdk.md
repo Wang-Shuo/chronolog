@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b2ccf54c04f872d78d356dd4ff43a4027b05f4dbd48d23757c040f97b1574719
+machine_hash: 162fee33a620595c8efc2b1515e868b5e1395614bfdfb988b037a9d58a2807a8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,7 +48,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-integrations-hub|Integrations hub]]'
+- '[[Changes/Superwhisper/2025-11-26-allow-override-of-mode-set-by-activation-apps|Allow
+  override of mode set by activation apps]]'
 - '[[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks):
   Implement TaskComplete hook]]'
 - '[[Changes/ElevenLabs/2025-11-27-workspaces-88d227|Workspaces]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a49ccc6505840f5cc70e579cf402d560f9222cb767091d4f333d8f9541b595b
+machine_hash: b63e39f0db8a83caccd1eb2ef59b47186c40b92d9626e536ec23036b245a0bbd
 product: openhands
 product_name: OpenHands
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas actions can now return images to the model in invoke_canvas_action]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and Data changes in v1.26.0]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-slack|Slack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

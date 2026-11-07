@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73e55e0429e6e53861c64bec0fb4997e5fc38d1bb075ce378087acc059d30e2b
+machine_hash: 75cc3f27c53fff056ae24a31de48792f6abd974008f4914f640eca455f868583
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Agent Mode changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
-  1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-presets-are-now-called-agents-and-are-reused-if-you-change-the-configura|AI
+  Chat: Presets are now called Agents and are reused]]'
 - '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
   changes in rust-v0.118.0]]'
 - '[[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core

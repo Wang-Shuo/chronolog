@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 877c53120fad1901607a9f23d8c78d728dae7b7321d1d135e70ef1fb7e401b94
+machine_hash: 6ba7279c497538893758f5cf4c919e9c95c236c2624fcebb86baf5014b6b01ce
 product: gemini
 product_name: Gemini
 record:
@@ -51,12 +51,12 @@ record:
   title: Gemini can access helpful information from more apps and services
   type: change
 related_changes:
-- '[[Changes/Notion/2024-09-25-new-ai-connectors-beta-google-docs-sheets-slides|New
-  AI connectors BETA : Google Docs, Sheets, & Slides]]'
 - "[[Changes/Open WebUI/2024-09-26-ollama-embed-form-data-adjusted-the-integration-inaccuracies-in-the-embed-form-d|\U0001F4CB
   Ollama /embed Form Data]]"
 - '[[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations
   changes in 0.9.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-3-apps-and-integrations-changes-in-v1-2-3|3 Apps
+  and Integrations changes in v1.2.3]]'
 source_release: '[[Releases/Gemini/gemini-2024-10-06-2024-10-06-705c98d0|gemini-2024-10-06-2024-10-06-705c98d0]]'
 source_type: gemini_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations changes in 0.9.0]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-3-apps-and-integrations-changes-in-v1-2-3|3 Apps and Integrations changes in v1.2.3]]
 - Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-knowledge-feature-reimagined-documents-feature-now-more-performant-with-a-better|📚 Knowledge Feature]]
 <!-- chronolog:end -->
 

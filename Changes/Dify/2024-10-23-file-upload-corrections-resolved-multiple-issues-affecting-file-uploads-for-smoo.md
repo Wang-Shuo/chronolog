@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b95dde88b529c4790ce627b532a689ac27091057185520c05eab34b803960cd2
+machine_hash: 9b8829ace9bcb4b40d882f19b9f10caa8b8c5d77cb3061c1276ccccf8098acf2
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: '**File Upload Corrections**'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected
-  a linking error in help documents (@hjlarry in ♯8508)]]'
+- '[[Changes/AnythingLLM/2024-10-03-improve-remove-document-ux-by-shatfield4-in-https-github-com-mintplex-labs-anyth|Improve
+  remove document UX]]'
 - '[[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and
   Data changes in v0.3.31]]'
 - '[[Changes/Dify/2024-10-21-2-files-and-data-changes-in-0-10-0|2 Files and Data changes

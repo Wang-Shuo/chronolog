@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 270827ec9e7fb778921ee49ecb4287e716e15178ae339bc77b31bed0f5bae5ad
+machine_hash: 4820da3f9829a7108f03b2097815935e955e63a38a30499b44ab87f7b792372c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -60,12 +60,12 @@ record:
   title: 9 Apps and Integrations changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps
-  and Integrations changes in v0.6.35]]'
 - '[[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add
   MCP tool usage to GLM prompt]]'
 - '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
   Add modelReasoningEffort option to TypeScript SDK]]'
+- '[[Changes/Devin/2025-11-07-redshift-mcp-production-ready|Redshift MCP Production
+  Ready]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -125,7 +125,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237 Add modelReasoningEffort option to TypeScript SDK]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-redshift-mcp-production-ready|Redshift MCP Production Ready]]
 - Later: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support for remixing]]
 <!-- chronolog:end -->
 

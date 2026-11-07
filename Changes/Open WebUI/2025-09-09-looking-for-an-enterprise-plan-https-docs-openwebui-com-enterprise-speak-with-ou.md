@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: befdbd5656ee7f6fc3eefaa1a828470342e49ddadbf6d35f5b056e2d2ac37948
+machine_hash: a5bd3f4b8afa0064da35b5bd240841d28000a49346725b8aad84f64ab8edea59
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,11 +53,12 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
-  Now Available on ChatGPT Free Tier]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
   Enterprise and Administration changes in v0.3.0]]'
+- '[[Changes/Devin/2025-09-05-enterprise-infrastructure-management|Enterprise Infrastructure
+  Management]]'
+- '[[Changes/Devin/2025-09-05-enterprise-dashboard-enhancements|Enterprise Dashboard
+  Enhancements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819|open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2 Enterprise and Administration changes in v0.3.0]]
-- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Earlier: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-enterprise-dashboard-enhancements|Enterprise Dashboard Enhancements]]
+- Later: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-enterprise-settings-reorganization|Enterprise Settings reorganization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

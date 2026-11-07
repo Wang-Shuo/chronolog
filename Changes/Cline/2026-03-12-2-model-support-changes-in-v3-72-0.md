@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22efb25d2690bbdcfc8cf8a21a678bd966acabdce987a700898b3d61b698c825
+machine_hash: c4c2486e606bf5d1afd70afe8d16f6248d0b1573c4973c27d722bd9924ef582f
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,10 @@ record:
   title: 2 Model Support changes in v3.72.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-3-model-support-changes-in-v0-33-0|3 Model Support
-  changes in v0.33.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-model-support-changes-in-v1-0-4|2 Model
-  Support changes in v1.0.4]]'
-- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
-  support for the following models]]'
+- '[[Changes/Raycast/2026-03-11-ai-adjusted-model-list-sorting-so-newer-models-appear-first|AI
+  : Adjusted model list sorting so newer models appear first]]'
+- '[[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant|Add GPT-5.3 Instant]]'
+- '[[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant-f75b60|Add GPT-5.3 Instant]]'
 source_release: '[[Releases/Cline/cline-2026-03-12-v3-72-0-github-295933113-abe1d1e7|cline-2026-03-12-v3-72-0-github-295933113-abe1d1e7]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-11 · OpenHands · [[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added support for the following models]]
+- Earlier: 2026-03-11 · Superwhisper · [[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant-f75b60|Add GPT-5.3 Instant]]
 - Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support non-OpenAI Azure models that use completions endpoints]]
 <!-- chronolog:end -->
 

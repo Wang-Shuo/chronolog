@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b7d80be01eadb213fb50b44f706f0ede8c92250e2f73741a6c07df301da5007
+machine_hash: 74a1863838874ab0f115afd8b195ee4a4cb4b5b89bed09af970670a7c980a3a2
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
   title: 'chore: bump shell-quote and DOMPurify dependencies'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long
-  commands in the background command view are now syntax highlighted…]]'
+- '[[Changes/Krea/2026-10-27-api-errors-and-concurrency-limits|API errors and concurrency
+  limits]]'
 - '[[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer
   Workflow changes in v2026.10.8]]'
 - '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer Workflow changes in v2.2.0]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10 Developer Workflow changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-azure-devops-and-bitbucket|Azure DevOps and Bitbucket]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 85b63ee47a6f2492918f59ddc4037186391ef47fef0ffc39a36cee24d4b3a819
+machine_hash: ffe5d8aa100399601ca0c9ca403955fe5d4350b986a396804475b360efaa57bd
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,11 @@ record:
     only…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share
-  terminal with Agent]]'
 - '[[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in
   1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes
   in v0.1.15]]'
+- '[[Changes/Devin/2025-07-31-input-dropdown-cleanup|Input Dropdown Cleanup]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-31-0-51-0-github-236587724-6004c286|openhands-2025-07-31-0-51-0-github-236587724-6004c286]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes in v0.1.15]]
+- Earlier: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-input-dropdown-cleanup|Input Dropdown Cleanup]]
 - Later: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access to Replit Docs]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd9640880ac9f121c9131ff8f33db1434aa1d0573f51d470b71317a1956d8745
+machine_hash: 441ff23406e30be7caf1ef8bbd0b8a324b209e653934b71332e8c44c7a28270d
 product: v0
 product_name: v0
 record:
@@ -95,7 +95,7 @@ Source: https://v0.app/changelog#2026-06-08
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
-- Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2 Interface Experience changes in v1.0.61]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-x-better-latex-rendering-support|x Better LaTex rendering support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

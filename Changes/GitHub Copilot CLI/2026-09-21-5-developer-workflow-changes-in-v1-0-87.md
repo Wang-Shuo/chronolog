@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fed5d1e8727b12870c9637f09a891a4029f64f984b41b83d3c096292dc784e2
+machine_hash: 5d3ae00b4c9c0a3431eaf33ecaddf4f1c3e4ab86b6ef55ef1fb5633517570e76
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,12 +56,11 @@ record:
   title: 5 Developer Workflow changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
-  command that is killed when the app restarts is now reported as canceled instead…]]'
-- '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
-  Improved starting-point list loading and creation preparation…]]'
 - '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
   Workflow changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-devin-review-for-bitbucket-data-center|Devin Review
+  for Bitbucket Data Center]]'
+- '[[Changes/Devin/2026-09-21-azure-devops-improvements|Azure DevOps Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: developer-workflow
@@ -108,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer Workflow changes in v2026.9.5]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-azure-devops-improvements|Azure DevOps Improvements]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer Workflow changes in v0.11.4]]
 <!-- chronolog:end -->
 

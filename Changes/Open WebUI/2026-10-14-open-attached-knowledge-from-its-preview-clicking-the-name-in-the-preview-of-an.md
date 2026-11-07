@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d32f8365245a4900e80d49b8994582fafe8543f7a11d65b79979ffa0209b39c1
+machine_hash: a1d980405a03ba31dfe40553b7bb2b77c15b0caaa93e7549a1003ebadc66d499
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
     in the preview…"
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit
-  step]]'
 - '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
   Experience changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
   Experience changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-filenames-on-diff-and-patch-attachments|Filenames on
+  Diff and Patch Attachments]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor Experience changes in v2.1.299]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-filenames-on-diff-and-patch-attachments|Filenames on Diff and Patch Attachments]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor Experience changes in v0.12.1]]
 <!-- chronolog:end -->
 

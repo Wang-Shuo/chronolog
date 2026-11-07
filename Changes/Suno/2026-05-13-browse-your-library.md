@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61f96e6866b84d7f07d7bd0409151a2b72de5317a74a5180e604efd580e632de
+machine_hash: 01936437e143ec703abe603d5773f38637fffe2c86d1b6934146679880c3763b
 product: suno
 product_name: Suno
 record:
@@ -39,12 +39,12 @@ record:
   title: Browse your library
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
-  rollout: store web search and mcp tool calls @owenlin0]]'
-- '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
-  and Browsing changes in v0.9.3]]'
 - '[[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core
   Limited OpenAI deep research models to the reasoning level they actually support]]'
+- '[[Changes/Raycast/2026-05-12-2-search-and-browsing-changes-in-raycast-windows-0-58|2
+  Search and Browsing changes in Raycast windows 0.58]]'
+- '[[Changes/Raycast/2026-05-12-root-search-simplified-file-browsing-ux-by-automatically-moving-into-file-search|Root
+  Search : Simplified file browsing UX by automatically moving into File Search]]'
 source_release: '[[Releases/Suno/suno-2026-05-13-e-android-auto-and-carplay-integration-d4563416|suno-2026-05-13-e-android-auto-and-carplay-integration-d4563416]]'
 source_type: suno_changelog
 theme: search-browsing
@@ -74,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core Limited OpenAI deep research models to the reasoning level they actually support]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-root-search-simplified-file-browsing-ux-by-automatically-moving-into-file-search|Root Search : Simplified file browsing UX by automatically moving into File Search]]
+- Later: 2026-05-14 · Krea · [[Changes/Krea/2026-05-14-a-new-gallery-feed|A new gallery feed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

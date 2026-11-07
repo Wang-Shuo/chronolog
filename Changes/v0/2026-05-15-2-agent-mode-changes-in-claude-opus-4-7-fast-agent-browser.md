@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ac015c196106bdd95b7414438345f8910b0bc8a166f576ddebbfdab0db6c764
+machine_hash: 63a6a719759a09dc812764ce6de9fd0deab28c49e4e1ab8428294ccc69df9954
 product: v0
 product_name: v0
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Agent Mode changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
-  changes in v2.1.143]]'
 - '[[Changes/OpenCode/2026-05-15-added-experimental-background-subagents-so-tasks-can-keep-running-while-you-cont|Added
   experimental background subagents so tasks can keep running while you continue…]]'
 - '[[Changes/Replit/2026-05-15-agent|Agent]]'
+- '[[Changes/Superwhisper/2026-05-15-restored-missing-questions-functionality-in-claude-agent|Restored
+  missing questions functionality in Claude agent]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: agent-mode
@@ -90,7 +90,7 @@ Source: https://v0.app/changelog#2026-05-15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-agent|Agent]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-restored-missing-questions-functionality-in-claude-agent|Restored missing questions functionality in Claude agent]]
 - Later: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal Fixed opencode run --agent resolving project-local agents]]
 <!-- chronolog:end -->
 

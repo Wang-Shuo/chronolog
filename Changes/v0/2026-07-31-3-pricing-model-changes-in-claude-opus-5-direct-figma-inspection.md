@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7849af509c70f08bf2ed9b1233cceb59954178763e44b772958c9ecc7045b5d3
+machine_hash: ccbd870bb0b10033adab6d052104ecac9648e29a9a92daea0d2976cc846f022f
 product: v0
 product_name: v0
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Pricing Model changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-30-api-responses-now-include-the-credit-cost-of-each-task-both-while-running-as-an|Task
-  Cost API]]'
+- '[[Changes/Devin/2026-07-31-primary-billing-organization-attribution|Primary Billing
+  Organization Attribution]]'
 - '[[Changes/Google Antigravity/2026-07-31-allocated-and-auto-assigned-license-seats-against-ge-standard-ge-plus-organizati|Allocated
   and auto-assigned license seats against GE-Standard & GE-Plus organization…]]'
 - '[[Changes/Replit/2026-07-31-billing|Billing]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2987079d9c9f94d0edd45c29d36dc1e5097aa441e01cf5db18e0f6b40a85c8e3
+machine_hash: 831d80a0c5f03a37e94bd54dd10adca17127575dc1171d2635e6b5c10a20c062
 product: cline
 product_name: Cline
 record:
@@ -47,11 +47,12 @@ record:
   title: 4 Model Support changes in v3.13.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'
 - '[[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash
   (experimental) model]]'
 - '[[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source
   link) a fully open-Source 14B coder…]]'
+- '[[Changes/AnythingLLM/2025-04-18-4-model-support-changes-in-v1-8-0|4 Model Support
+  changes in v1.8.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source link) a fully open-Source 14B coder…]]
+- Earlier: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-4-model-support-changes-in-v1-8-0|4 Model Support changes in v1.8.0]]
 - Later: 2025-04-19 · Gemini · [[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in Gemini]]
 <!-- chronolog:end -->
 

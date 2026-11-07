@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: abe9438163ea2d4786f0b0c09fd82561e4f4eefff344fcdd699b800eab2e4cb1
+machine_hash: 10492251de4345641b57f6bf40112633f2a0fbf1812ebef06dcfe733abdb7748
 product: gamma
 product_name: Gamma
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|🧭 Sougou Web Search Integration]]
-- Later: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|🚀 Optimized Faster Web Search & Multi-Threaded Queries]]
+- Later: 2025-04-25 · Devin · [[Changes/Devin/2025-04-25-we-shipped-deep-wiki-http-www-deepwiki-com-up-to-date-documentation-you-can-talk|We shipped Deep Wiki((source link) Up-to-date documentation you can talk to]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

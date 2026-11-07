@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea30a7de72abcc01579f554fda54be11d7d694e03152b8f0e1c1301605cb778c
+machine_hash: 12b264b5d599079cd4c41dace848369c25862e35b5b81cfca5921e0c9811fe98
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v3.14.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command
-  functionality]]'
+- '[[Changes/LM Studio/2025-04-24-2-developer-workflow-changes-in-lm-studio-0-3-15|2
+  Developer Workflow changes in LM Studio 0.3.15]]'
 - '[[Changes/Cline/2025-04-25-add-compact-command|Add /compact command]]'
 - '[[Changes/OpenHands/2025-04-29-allow-cmd-execution-after-running-a-background-command-by-li-boxuan-in-https-git|Allow
   cmd execution after running a background command]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5b30041c4b2e2e4934d9748b50d6278047b195255968a7925c1931a876b98d0
+machine_hash: 7061ec82e29f2c8e152f086575a6d2bbffc6454cb476da2d1a45f40e80a99f8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable
-  create your Supabase project]]'
 - '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App
   + chat connectors: LlamaParse Platform and n8n]]'
 - '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
   and Integrations changes in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-opencode-plugin-detection-now-supports-opencode-1-3-and-2-0|OpenCode
+  plugin detection now supports OpenCode 1.3 and 2.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps and Integrations changes in v1.29.0]]
-- Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2 Apps and Integrations changes in v1.0.102]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-opencode-plugin-detection-now-supports-opencode-1-3-and-2-0|OpenCode plugin detection now supports OpenCode 1.3 and 2.0]]
+- Later: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-gerrit-webhooks-installed-automatically|Gerrit Webhooks Installed Automatically]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0e1d607c5864f9a01cea60523c54ff781d6f5864cf566b146c5829b1f38c1f59
+machine_hash: fa09508a7f01e73268d18d79ad963f57da5f02cd1e125f913bec323837b3f9e6
 product: notion
 product_name: Notion
 record:
@@ -55,11 +55,11 @@ record:
     with multiple emails?"
   type: change
 related_changes:
-- '[[Changes/Descript/2020-07-07-range-selections-no-longer-have-a-black-border-allowing-for-more-precise-selecti|Timeline
-  range selection style improvements]]'
-- '[[Changes/Descript/2020-07-07-clicking-in-timeline-will-cancel-range-selection|Timeline]]'
 - '[[Changes/Notion/2020-07-28-streamlined-onboarding-for-users-joining-a-workspace-via-invite-link|Streamlined
   onboarding for users joining a workspace via invite link]]'
+- '[[Changes/Raycast/2020-08-03-preferences|Preferences]]'
+- '[[Changes/Raycast/2020-08-17-improved-tooltip-with-shortcuts-each-key-is-now-separated-to-make-it-easy-to-lea|Improved
+  tooltip with shortcuts]]'
 source_release: '[[Releases/Notion/notion-2020-08-18-https-www-notion-com-releases-2020-08-18-59695cea|notion-2020-08-18-https-www-notion-com-releases-2020-08-18-59695cea]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-streamlined-onboarding-for-users-joining-a-workspace-via-invite-link|Streamlined onboarding for users joining a workspace via invite link]]
-- Later: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-polished-some-rough-edges-on-the-full-template-gallery-button-at-the-bottom-righ|Polished some rough edges on the ↗ Full template gallery button at the bottom right…]]
+- Earlier: 2020-08-17 · Raycast · [[Changes/Raycast/2020-08-17-improved-tooltip-with-shortcuts-each-key-is-now-separated-to-make-it-easy-to-lea|Improved tooltip with shortcuts]]
+- Later: 2020-08-25 · Raycast · [[Changes/Raycast/2020-08-25-slack-community|Slack community]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

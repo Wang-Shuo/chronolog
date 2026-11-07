@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b9abc9086241a0250cfd6d6f190ad489002c142bc74d643272859f27fa1b744c
+machine_hash: 92cd3a1481660ff577e59a8e29bfd400f1fb008d8408a129cc0a5880565f1343
 product: replit
 product_name: Replit
 record:
@@ -50,9 +50,9 @@ record:
   title: Animated agent icon
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-agents-packages|Agents Packages]]'
-- '[[Changes/Lovable/2025-11-05-show-the-agent-what-you-mean|Show the agent what you
-  mean]]'
+- '[[Changes/Devin/2025-11-07-repository-setup-steering-knowledge|Repository Setup
+  Steering Knowledge]]'
+- '[[Changes/Devin/2025-11-07-agentic-knowledge-management|Agentic Knowledge Management]]'
 - '[[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes
   in v0.13.0]]'
 source_release: '[[Releases/Replit/replit-2025-11-07-2025-11-07-67163a16|replit-2025-11-07-2025-11-07-67163a16]]'

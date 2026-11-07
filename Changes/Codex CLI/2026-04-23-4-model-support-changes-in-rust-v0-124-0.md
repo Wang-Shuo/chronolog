@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4901670a7bb771f4eca7ce4070c9fb9bcc5f69738ac4da9bd2eabe1ec1297a63
+machine_hash: 0fca1a5dff0b6bb84e316f2e4ae9835c893264dbf27f9be533a97a36a7f42d56
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Model Support changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding
-  flow now uses dynamically fetched recommended models instead…]]'
 - '[[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX
   runner adds logprobs support for compatible models]]'
+- '[[Changes/Superwhisper/2026-04-22-4-model-support-changes-in-superwhisper-windows-1-3-9|4
+  Model Support changes in Superwhisper Windows 1.3.9]]'
 - '[[Changes/Codex CLI/2026-04-23-6-model-support-changes-in-rust-v0-123-0|6 Model
   Support changes in rust-v0.123.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b|codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b]]'

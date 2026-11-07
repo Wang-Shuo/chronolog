@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2b922a6947ba34b1ed1bc05838c437c9a76fdd646b8399305502ab1c0b8895c1
+machine_hash: b947462200a31d9c4f5c8a1c00d504381105d410fb304dbcb2f68f18cffc1e14
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -60,10 +60,10 @@ record:
   title: Scribe v2 Medical
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
-  changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes
   in 1.17.1]]'
+- '[[Changes/Raycast/2026-09-10-ai-models-are-now-grouped-more-consistently-by-provider-including-models-from-ve|AI:
+  Models are now grouped more consistently by provider, including models…]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
   CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-11-2026-09-11-fe1ab3d8|elevenlabs-2026-09-11-2026-09-11-fe1ab3d8]]'

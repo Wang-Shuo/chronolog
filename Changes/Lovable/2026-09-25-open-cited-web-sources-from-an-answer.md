@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7ba86f36b34fb5ad5911786129bc46d639796b7aa30e2c59bb20e8b43b5aac92
+machine_hash: 763772784b3932bfbc6ac1ba6260098370a2cfab1915c761fa61de2d680bf5e4
 product: lovable
 product_name: Lovable
 record:
@@ -48,11 +48,12 @@ record:
   title: Open cited web sources from an answer
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor
-  Experience changes in v2026.9.6]]'
-- '[[Changes/Runway/2026-09-23-runway-is-now-available-directly-inside-davinci-resolve-bring-runway-s-tools-int|DaVinci
-  Resolve Plugin]]'
-- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
+- '[[Changes/Devin/2026-09-25-command-palette-finds-child-sessions-by-their-own-title|Command
+  Palette Finds Child Sessions by Their Own Title]]'
+- '[[Changes/Devin/2026-09-25-the-findings-resolved-tab-now-lists-only-findings-whose-fix-pr-was-merged-or-tha|The
+  Findings "Resolved" tab now lists only findings whose fix PR was merged…]]'
+- '[[Changes/Devin/2026-09-25-progress-tab-names-the-sender|Progress Tab Names the
+  Sender]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-25-2026-09-25-5a45f4f9|lovable-2026-09-25-2026-09-25-5a45f4f9]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-editing|EDITING]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-progress-tab-names-the-sender|Progress Tab Names the Sender]]
 - Later: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
 <!-- chronolog:end -->
 

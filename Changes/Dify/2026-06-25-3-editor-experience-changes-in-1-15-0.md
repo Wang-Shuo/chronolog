@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6977f25dbe7ba73802c8ded1633b08b0856c70604309823fb60e6a426f409488
+machine_hash: 80842cbc28a6f1b7fb1ff2cfe30f772edf4bab1d7cdb9c5ddf69b02e34a31fb8
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Editor Experience changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
-  jobs in Lovable Cloud]]'
-- '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
-  draft prompt state per tab]]'
+- '[[Changes/Raycast/2026-06-24-ai-show-richer-error-messages-when-completion-fails-in-certain-cases-895f6d|AI
+  : Show richer error messages when completion fails in certain cases]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-editor-experience-changes-in-v1-15-0|2 Editor
+  Experience changes in v1.15.0]]'
 - '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
   live file path autocomplete to bash mode (!)]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'

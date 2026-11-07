@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da73507b51b603b7e44953b5c89b1af103faa9dd9e47469a2aa4f68aa5600dcf
+machine_hash: 0343712c6d3fd5c2e44907ebc788792238281a2f59bff047c110bd31ed607d4f
 product: dify
 product_name: Dify
 record:
@@ -76,10 +76,10 @@ record:
   title: 13 Apps and Integrations changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-core-improve-error-handling-for-built-in-plugin-installation-failures|Core
-  Improve error handling for built-in plugin installation failures]]'
 - '[[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support
   resource content type in MCP tool output]]'
+- '[[Changes/Raycast/2026-01-12-widgets-prevented-widgets-from-resetting-to-an-empty-state-when-using-action-ext|Widgets:
+  Prevented widgets from resetting to an empty state when using action extensions]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43fabf05a8e0b2c361fe566a161604b916cbce8f1c37597ff6a68f8c3325bdeb
+machine_hash: 8b408b2b3e1476d3afd0ebe7ddd921614382cee706da174fe6263cdf0a4a5799
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-11-14 · Notion · [[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]
-- Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-hebrew-language-support-for-deepwiki|Hebrew Language Support for DeepWiki]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

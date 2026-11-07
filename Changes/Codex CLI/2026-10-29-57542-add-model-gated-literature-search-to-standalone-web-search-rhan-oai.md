@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ecbf91945a26f85a162ff05eb8a755959c39004ed094473f1ede4dac2fc2986
+machine_hash: 9d6de5b66bb2d866298e0997db63e69c0d3aeaefd2666d23836a65ae349a500c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#57542 Add model-gated literature search to standalone web search @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web
-  search timeout errors now tell you the request’s actual time limit]]'
-- "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
-  Web Search settings save. Admins can now save Web Search settings such…]]"
 - '[[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search
   and Browsing changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-cmd-p-search-and-show-chat-statuses-while-browsing|AI
+  Chat : Improved cmd+P search and show chat statuses while browsing]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-ctrl-p-search-and-show-chat-statuses-while-browsing|AI
+  Chat : Improved ctrl+P search and show chat statuses while browsing]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: search-browsing
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search and Browsing changes in v2.2.0]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-improved-ctrl-p-search-and-show-chat-statuses-while-browsing|AI Chat : Improved ctrl+P search and show chat statuses while browsing]]
 - Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search and Browsing changes in v2.2.1]]
 <!-- chronolog:end -->
 

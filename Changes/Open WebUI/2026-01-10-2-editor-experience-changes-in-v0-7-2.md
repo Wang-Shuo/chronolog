@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae6ec9c41e8eb5f157541537c9d4c051d5d8bd3194c5f87b1815e0b7b1300e77
+machine_hash: 7aecbfa6d8191aa19524f59602c07fce0eb6168da63fe6d9e4a2dd59093c2c72
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Editor Experience changes in v0.7.2
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an
-  inline chat in the new VS Code editor]]'
 - '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
   chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/Devin/2026-01-09-git-settings-reorganization|Git Settings Reorganization]]'
 - '[[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor
   Experience changes in v0.7.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316|open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316]]'

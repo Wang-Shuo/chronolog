@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3ebf403ce4a1d82bd6b0683766a008661ef4e530544ffc09e96d33dd8b8e7d2
+machine_hash: dde5f0ef6c06646b0ebfc37c4d0e3421165ccec5e0c611fd7959bd880c96eed3
 product: v0
 product_name: v0
 record:
@@ -53,12 +53,12 @@ record:
     requests…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
-  Interface Experience changes in rust-v0.152.0]]'
-- '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
-  project groups no longer show in the sidebar]]'
-- '[[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface
-  Experience changes in v2026.8.2]]'
+- '[[Changes/Raycast/2026-09-01-your-favorite-emojis-are-now-just-a-away-type-followed-by-an-emoji-name-to-open|Your
+  favorite emojis are now just a : away]]'
+- '[[Changes/Raycast/2026-09-01-3-interface-experience-changes-in-raycast-macos-2-1|3
+  Interface Experience changes in Raycast macos 2.1]]'
+- '[[Changes/Raycast/2026-09-01-your-favorite-emojis-are-now-just-a-away-type-followed-by-an-emoji-name-to-open-ef74c6|Your
+  favorite emojis are now just a : away]]'
 source_release: '[[Releases/v0/v0-2026-09-01-2026-09-01-13cb07e2|v0-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface Experience changes in v2026.8.2]]
+- Earlier: 2026-09-01 · Raycast · [[Changes/Raycast/2026-09-01-your-favorite-emojis-are-now-just-a-away-type-followed-by-an-emoji-name-to-open-ef74c6|Your favorite emojis are now just a : away]]
 - Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
 <!-- chronolog:end -->
 

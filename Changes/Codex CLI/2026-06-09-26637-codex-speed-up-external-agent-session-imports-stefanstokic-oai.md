@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4b3fa7fc3bea1ec5cc45cd70d1d72ec25d00fa7763d3568a66ab03561dc05def
+machine_hash: b9517ffda567721733932c5f534beb3bd8d654e0d401631e6c8a76d2dde3cdec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#26637 [codex] Speed up external agent session imports @stefanstokic-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
-  performance, and platform improvements]]'
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/Raycast/2026-06-04-2-reliability-and-performance-changes-in-raycast-macos-0-63|2
+  Reliability and Performance changes in Raycast macos 0.63]]'
 - '[[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma
   4 QAT weights((source link)]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-all-model-providers-are-now-opt-out-of-tool-calling-by-default-everything-will|x
+  All model providers are now opt-out of tool calling by default]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma 4 QAT weights((source link)]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-x-all-model-providers-are-now-opt-out-of-tool-calling-by-default-everything-will|x All model providers are now opt-out of tool calling by default]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep searches in large monorepos use an indexed search engine for significantly…]]
 <!-- chronolog:end -->
 

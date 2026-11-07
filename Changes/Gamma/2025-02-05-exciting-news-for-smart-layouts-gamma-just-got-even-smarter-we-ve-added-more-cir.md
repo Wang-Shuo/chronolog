@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 92fcd66dedc2f8cbaebe9116aa3f041bda81ec32cc5470a6863626255f2f81b6
+machine_hash: 0a5995a7d2099582cf871392c5c3e06bdd98bad1b01ad6742b61ac88f350dbd2
 product: gamma
 product_name: Gamma
 record:
@@ -48,9 +48,10 @@ record:
   title: Circle Smart Layouts Have Arrived
   type: change
 related_changes:
-- '[[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]'
-- '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
-  General UI/UX Refinements]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-interface-experience-changes-in-v1-4-0|2 Interface
+  Experience changes in v1.4.0]]'
+- '[[Changes/LM Studio/2025-01-30-developer-moved-logging-options-to-the-developer-logs-panel-header-menu|Developer
+  Moved logging options to the Developer Logs panel header (••• menu)]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-05-67a2b95c599398df82ad547f-b9eaa0f2|gamma-2025-02-05-67a2b95c599398df82ad547f-b9eaa0f2]]'
 source_type: gamma_changelog

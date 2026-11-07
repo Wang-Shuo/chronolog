@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f6f839ee3dedf3b58817cce368227c4287d0a7ccd2bf5b09bb1eb7e81e79cff
+machine_hash: 2031a3a2cf17609646a50e0db809d82e29cf157aa536c4441102f4e52b164286
 product: dify
 product_name: Dify
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-regenerate-beta|Regenerate (beta)]]
-- Later: 2023-08-10 · Descript · [[Changes/Descript/2023-08-10-other-tweaks-fixes|Other tweaks & fixes]]
+- Later: 2023-08-03 · Superwhisper · [[Changes/Superwhisper/2023-08-03-added-support-for-100-different-spoken-languages|Added support for 100+ different spoken languages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39990557d8a7722aa800eb0bf3cfd3662a59c22e0767b0b295fa2a286f342022
+machine_hash: 8f679321017a9c5f23d3359c4a7236fd25b099c1d6f01c378f6806610ee37aed
 product: descript
 product_name: Descript
 record:
@@ -108,7 +108,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-text-to-speech|Text to Speech]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
+- Later: 2026-08-05 · Wispr Flow · [[Changes/Wispr Flow/2026-08-05-wispr-flow-notetaker-is-here-notetaker|Wispr Flow Notetaker is here (Notetaker)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

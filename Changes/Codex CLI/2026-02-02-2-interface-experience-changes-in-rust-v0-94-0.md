@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3399e1a697f205bc65a4e094cde85bcc8fec0570b154ab0d56f8f839dc76f9e1
+machine_hash: c975fb8d7d2ba0c22a75ab2b0adfb98fb03d9e65d308e5e92a6dc8e7fbd5aaef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.94.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close
-  model picker when selecting a battle group]]'
 - '[[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3
   Interface Experience changes in rust-v0.93.0]]'
+- '[[Changes/Superwhisper/2026-01-31-address-keyboard-shortcut-binding-issues|Address
+  keyboard shortcut binding issues]]'
 - '[[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama
   launch openclaw will now enter the standard OpenClaw onboarding flow if…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.94.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama launch openclaw will now enter the standard OpenClaw onboarding flow if…]]
-- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test: enhance HitTestingPage tests with additional coverage for rendering and state…]]
+- Later: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-settings-sidebar-reorganization|Settings Sidebar Reorganization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

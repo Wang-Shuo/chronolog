@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acc934b9cc6755e5ba59005ff1ea2f380e3e9021ae0fe2a729a9e9fcf754c7f4
+machine_hash: 5d47fcf94a63abdef9457276472584891154c9b0d4c91513c36e06541925d549
 product: open-webui
 product_name: Open WebUI
 record:
@@ -75,8 +75,7 @@ record:
   title: 7 Interface Experience changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-vscode-improved-startup-the-model-picker-and-slash-command-menu-now-fill-in-righ|VSCode
-  Improved startup]]'
+- '[[Changes/Devin/2026-10-14-export-findings-as-sarif|Export Findings as SARIF]]'
 - '[[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add
   sticky user message summaries in fullscreen mode]]'
 - '[[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted

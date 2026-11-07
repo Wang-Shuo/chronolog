@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e4cdadeb2ad7529794fe9c920cdbac7dc038803cf884cd177dc142b04e47714
+machine_hash: 81f2872ec0f6f23ad6d57b054a28b1c42e427beaabbfef65f1625e645b05f158
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.144.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
-  changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
   in 1.16.0]]'
 - '[[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using
   an API key for Kimi coding models now also fetches the latest model list…]]'
+- '[[Changes/Superwhisper/2026-07-17-new-model-availability-status-indicators|New
+  model availability status indicators]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79|codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using an API key for Kimi coding models now also fetches the latest model list…]]
+- Earlier: 2026-07-17 · Superwhisper · [[Changes/Superwhisper/2026-07-17-new-model-availability-status-indicators|New model availability status indicators]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
 <!-- chronolog:end -->
 

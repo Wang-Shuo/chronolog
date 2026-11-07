@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a9adfd6ea2e13c8963234f728d9267808145902f67e1c8ad16fa8df36a88df3a
+machine_hash: b431f637651d1cffe83b1add2c375701672240698338d2f59c6f98e3a1c51331
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,10 @@ record:
   title: Gemini Embedding 2 is the default for search and recommendations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
-  ANTHROPIC_DEFAULT_MODEL environment variable]]'
-- '[[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches
-  resolved model metadata between requests, cutting time-to-first-token…]]'
+- '[[Changes/Superwhisper/2026-08-19-added-s1-mini-an-on-device-language-model-with-tone-control-that-cleans-up-and-f|Added
+  S1-mini, an on-device language model with tone control, that cleans up…]]'
+- '[[Changes/Superwhisper/2026-08-19-improved-model-status-notices|Improved model
+  status notices]]'
 - '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
   Support changes in rust-v0.149.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-20-2026-08-20-3912560f|lovable-2026-08-20-2026-08-20-3912560f]]'

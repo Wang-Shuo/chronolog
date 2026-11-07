@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b0ec20e8445ca7e8a9af61ab7156be36e3fb869a703d16f52305aa454b8843d
+machine_hash: 2f47f893266611774a383d51be23948b6ec0e991026868e8d2ad727d46d83a0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6 Developer Workflow changes in rust-v0.144.0]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3 Developer Workflow changes in v1.0.70]]
+- Later: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-copy-commands-from-the-worklog|Copy Commands from the Worklog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

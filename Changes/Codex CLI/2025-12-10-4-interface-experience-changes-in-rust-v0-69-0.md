@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b4a7da484bb74919962d690a2b7691902b967d173e1ca8ad8daae106f60ab4e
+machine_hash: fdef5e08211b6680f4a2f00d03205095cf6294085da30e180f2d0bc4a08092cc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Interface Experience changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
-  Custom Domains]]'
+- '[[Changes/AnythingLLM/2025-12-09-add-svelte-rendering-to-markdown-renderer-by-timothycarambat-in-https-github-com|add
+  svelte rendering to markdown renderer]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
 - '[[Changes/Synthesia/2025-12-09-noticed-a-new-tab-on-the-sidebar-meet-ai-playground|Experiment

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f7879cc352e533bdb7e68bf592e827dbbd71c4d90e4abfde2fdb8f7e32441006
+machine_hash: 8baa25f7f7923a9607c98ff1173f79f1862c100747a8dc5b57a570a92ab2ba54
 product: descript
 product_name: Descript
 record:
@@ -51,9 +51,9 @@ record:
   title: AI Turn into Blog Post
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-31-filler-words-remove-from-transcript|Filler words:
-  Remove from transcript]]'
 - '[[Changes/Descript/2023-10-31-wordless-media|Wordless Media]]'
+- '[[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio
+  playback UI/UX]]'
 - '[[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO
   download is here]]'
 source_release: '[[Releases/Descript/descript-2023-11-15-655507c6bb3cb8c303d2735d-c612bc96|descript-2023-11-15-655507c6bb3cb8c303d2735d-c612bc96]]'

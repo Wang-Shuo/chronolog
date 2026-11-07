@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7ad192d228dac7638c4ec45640b6f918867ae3fb4eb2be439330234a9832f15
+machine_hash: f83ad6bf2897ba3261ae9fa1ce53e85b1df939f6af91a8c5b27967049a37ddce
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,9 @@ record:
   title: Automate recurring work with Routines
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
-  two Cline installations on different builds from shutting each other''s Hub…]]'
-- '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):
-  add a Git Sync page]]'
+- '[[Changes/Devin/2026-08-21-bearer-secrets-for-automation-webhooks|Bearer Secrets
+  for Automation Webhooks]]'
+- '[[Changes/Devin/2026-08-21-finding-resolution-notes|Finding Resolution Notes]]'
 - '[[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4
   Automation and Scheduling changes in v1.15.0]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'

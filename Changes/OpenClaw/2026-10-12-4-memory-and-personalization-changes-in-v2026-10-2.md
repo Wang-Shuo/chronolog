@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0b936132571458d5d24b9b9b21aa975cb2d4bc69e5943946100cae7761f105d
+machine_hash: 809bec331d7827d33eab19139d2343e9b87ff7a65899f705e8b83f3ce78b7ea6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,8 +58,8 @@ record:
   title: 4 Memory and Personalization changes in v2026.10.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2
-  Memory and Personalization changes in v2026.9.9]]'
+- '[[Changes/Raycast/2026-10-09-2-memory-and-personalization-changes-in-raycast-macos-2-7|2
+  Memory and Personalization changes in Raycast macos 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
   Memory and Personalization changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13
@@ -115,7 +115,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.2
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13 Memory and Personalization changes in v2026.10.1]]
-- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5 Memory and Personalization changes in v2026.10.3]]
+- Later: 2026-10-12 · Raycast · [[Changes/Raycast/2026-10-12-cloud-sync-v2|Cloud Sync v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

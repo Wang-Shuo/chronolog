@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d994522649eea7670345432dcbfc126008b7c0e884f21cd35b7f0430dd8bd37
+machine_hash: 574ce62fef0cb2e41099f1836b94553848a1c897d1485f96fa12c1f084099b0d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Model Support changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini
-  3.7 Flash is now the default model for your app''s AI features]]'
-- '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
-  ANTHROPIC_DEFAULT_MODEL environment variable]]'
 - '[[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches
   resolved model metadata between requests, cutting time-to-first-token…]]'
+- '[[Changes/Superwhisper/2026-08-19-added-s1-mini-an-on-device-language-model-with-tone-control-that-cleans-up-and-f|Added
+  S1-mini, an on-device language model with tone control, that cleans up…]]'
+- '[[Changes/Superwhisper/2026-08-19-improved-model-status-notices|Improved model
+  status notices]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: model-support
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches resolved model metadata between requests, cutting time-to-first-token…]]
+- Earlier: 2026-08-19 · Superwhisper · [[Changes/Superwhisper/2026-08-19-improved-model-status-notices|Improved model status notices]]
 - Later: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini Embedding 2 is the default for search and recommendations]]
 <!-- chronolog:end -->
 

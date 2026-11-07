@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7f342ae0d7166950f48078b14bc3d956895b3375d3b3e4b38b1c25b3982203ec
+machine_hash: 26740f8eca7bc32c8193d29e2bd6e9e43cedd0602ab59488851f3f6f261f0400
 product: cursor
 product_name: Cursor
 record:
@@ -55,11 +55,11 @@ record:
   title: Cursor introduces updates for Enterprise admins
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-workspace-provisioning|Workspace provisioning]]'
-- '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
-  a PR URL into the /resume search box now finds the session that created…]]'
 - '[[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise
   and Administration changes in 1.14.0]]'
+- '[[Changes/Devin/2026-05-01-deleted-orgs-in-enterprise-sessions-api|Deleted Orgs
+  in Enterprise Sessions API]]'
+- '[[Changes/Devin/2026-05-01-stacked-review-permissions|Stacked Review Permissions]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise and Administration changes in 1.14.0]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-stacked-review-permissions|Stacked Review Permissions]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c27c986f10a9b877d65430bdae0b1a248e7a65761593116abdc9cec681a474b
+machine_hash: e7a07005e9230e2fb3153696d2604574bf9a1ad12ddac3c6e04d69e55c44ca86
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     variable…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated
-  the OAuth login UI to begin polling as soon as the device code is generated…]]'
+- '[[Changes/AnythingLLM/2025-10-09-add-support-for-simple-sso-no-login-redirect-config-setting-by-timothycarambat-i|Add
+  support for SIMPLE_SSO_NO_LOGIN_REDIRECT config setting]]'
 - '[[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We
   are in the middle of significantly improving support for connecting to MCP…]]'
 - '[[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli):

@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6e67f6a5afd23a94f4fbb30e7bfcbd052cc6f24e83a01d7ce25ba7bd57f949f4
+machine_hash: f3be6d3af06a7983244772698cff29c48e3d138e9da5c838a7221dd175b7ebae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,8 +72,8 @@ record:
   title: Introducing locked chats
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account
-  and Access changes in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a-5895a4|Custom
+  Providers : Numeric provider API keys are now kept exactly as written…]]'
 - '[[Changes/OpenClaw/2026-10-18-the-dashboard-handles-reconnects-and-long-chat-histories-with-fewer-interruption|The
   Dashboard handles reconnects and long chat histories with fewer interruptions…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abfc3510857dfd0c3dbd15580081000f5e0e4ca22c86fbcae26bb3bb47302bf4
+machine_hash: f7803093a18fc0c243f301b2eeb3f761b71beed32180b0ac2074019bbbd2f044
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 8 Apps and Integrations changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add
-  runtime support for dynamic MCP server updates, reference skills, replay…]]'
-- '[[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added
-  cwd support for local MCP servers so they can start from a workspace-relative…]]'
-- '[[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps
-  and Integrations changes in v1.17.4]]'
+- '[[Changes/Raycast/2026-06-12-raycast-focus-is-back-to-help-you-achieve-your-goals-without-distractions-simply|Raycast
+  Focus is back to help you achieve your goals without distractions]]'
+- '[[Changes/Raycast/2026-06-12-focus-comes-to-windows-stay-in-the-zone-use-start-focus-session-to-kick-off-a-ti|Focus
+  comes to Windows]]'
+- '[[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-macos-0-64|2
+  Apps and Integrations changes in Raycast macos 0.64]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -122,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps and Integrations changes in v1.17.4]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-2-apps-and-integrations-changes-in-raycast-macos-0-64|2 Apps and Integrations changes in Raycast macos 0.64]]
 - Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-4-apps-and-integrations-changes-in-v1-17-6-1|4 Apps and Integrations changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 

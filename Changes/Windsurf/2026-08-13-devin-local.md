@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4924a30260fb5e318b1ff3c509e1b2ff23cbcf1eb2aec608f0af102a4ea9fcdd
+machine_hash: c125cfffb4d9e114645575364e00295f5f3f82736c1c8f2628f632198274e53e
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,8 +47,8 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
-  can choose whether new avatars are public or private by default]]'
+- '[[Changes/Superwhisper/2026-08-10-all-time-stats-view-with-x-share-card|All-time
+  stats view with X share card]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
-- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4 Collaboration changes in A redesigned sidebar, a richer…]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-preview-toolbar-improvements|Preview Toolbar Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

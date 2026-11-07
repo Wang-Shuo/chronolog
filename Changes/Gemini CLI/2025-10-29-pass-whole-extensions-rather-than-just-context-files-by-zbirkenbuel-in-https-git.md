@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99cc78d67af154e2a3ab602797831aa4b77d2d8e4e480c494d8e7963f1f3c340
+machine_hash: a3e9930866d347ec5bdcd6c9dc9376575a31e9754701dc7c688485468089fc60
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: Pass whole extensions rather than just context files
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-23-improvements-to-fast-context-enterprises-can-opt-in-using-the-windsurf-team-sett|Improvements
-  to Fast Context]]'
+- '[[Changes/Devin/2025-10-24-pre-selected-user-roles|Pre-selected User Roles]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-to-conserve-context-window-space-we-ve-limited-the-list-of-tools-available-to-th|To
   conserve context window space, we''ve limited the list of tools available…]]'
 - '[[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]'

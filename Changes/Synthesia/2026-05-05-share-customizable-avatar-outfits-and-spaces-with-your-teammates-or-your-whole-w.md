@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d1141dd1f0e04094d0d61a7ab7789d6135d00e0a2f1a8a82673b6cdf0272694
+machine_hash: 126048091240feffb423ff4d4d0a909c9e22a3573e412de0ff25d2988f33221f
 product: synthesia
 product_name: Synthesia
 record:
@@ -44,12 +44,12 @@ record:
   title: Share avatar outfits and spaces
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-13-collaboration-changes-in-1-14-0|13 Collaboration changes
-  in 1.14.0]]'
-- '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
-  Reduce the surface of collaboration modes @pakrym-oai]]'
+- '[[Changes/Raycast/2026-04-30-team-sync-and-access-team-snippets-and-quicklinks|Team
+  : Sync and access team Snippets and Quicklinks]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Devin/2026-05-01-linear-team-mapping-improvements|Linear Team Mapping
+  Improvements]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-05-05-https-www-synthesia-io-updates-share-avatar-outfits-and-spaces-21122dc6|synthesia-2026-05-05-https-www-synthesia-io-updates-share-avatar-outfits-and-spaces-21122dc6]]'
 source_type: synthesia_changelog
 theme: collaboration
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-linear-team-mapping-improvements|Linear Team Mapping Improvements]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 

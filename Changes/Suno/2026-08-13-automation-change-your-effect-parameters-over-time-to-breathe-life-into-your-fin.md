@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37428aaec6730dfe810ef110fdbeb2d99dea7c5c6b3ca363c1fe4f00dd0c0f40
+machine_hash: 59b79ff027c2f9033d35694741dd33c8c658cc97df4bc6ff8e685ba9a65c24ad
 product: suno
 product_name: Suno
 record:
@@ -43,8 +43,8 @@ record:
     your final mix'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
-  implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Devin/2026-08-12-negated-string-operators-in-automation-conditions|Negated
+  String Operators in Automation Conditions]]'
 - '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
   and clipboard images are read without blocking the event loop]]'
 - '[[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore:

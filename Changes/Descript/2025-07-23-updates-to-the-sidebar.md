@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 913e272b3c9e0873ac21bb8d7962bc5e2b86b6ad81400b65ddf934d9b147de5a
+machine_hash: 0b88a83ffe08f9ac84e13d29e31ddafd5d3005b18c531bdce75d6b3c889ba8e1
 product: descript
 product_name: Descript
 record:
@@ -50,12 +50,12 @@ record:
   title: Updates to the sidebar
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
-  Experience changes in v0.6.16]]'
 - '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
   numbers to selection list]]'
 - '[[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface
   Experience changes in v0.6.17]]'
+- '[[Changes/Raycast/2025-07-21-ai-added-ability-to-delete-chat-from-within-the-chat-via-title-menu|AI
+  : Added ability to delete chat from within the chat via title menu]]'
 source_release: '[[Releases/Descript/descript-2025-07-23-68800d1d96f9ab50855f2e36-280ea402|descript-2025-07-23-68800d1d96f9ab50855f2e36-280ea402]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface Experience changes in v0.6.17]]
+- Earlier: 2025-07-21 · Raycast · [[Changes/Raycast/2025-07-21-ai-added-ability-to-delete-chat-from-within-the-chat-via-title-menu|AI : Added ability to delete chat from within the chat via title menu]]
 - Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience changes in 1.7.0]]
 <!-- chronolog:end -->
 

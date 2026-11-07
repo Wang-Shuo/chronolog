@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9696da9fae48f1bb93c0e70530f3879e975a77803225bd16627e3445ac548676
+machine_hash: 3dfb91fbb7ab180ed52649e10852abd482f7a546b5c466f25123e45ed4bf1ea9
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,11 @@ record:
   title: Desktop Restored copying user messages from an open actions menu
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-faster-worktree-selection|Faster Worktree Selection]]'
 - '[[Changes/OpenCode/2026-10-29-inspect-background-shells|Inspect Background Shells]]'
 - '[[Changes/Suno/2026-10-29-clearer-clip-settings-info-panel|Clearer Clip Settings
   & Info Panel]]'
+- '[[Changes/Superwhisper/2026-10-29-ctrl-win-can-now-be-used-for-push-to-talk-toggle-recording-and-mode-shortcuts-an|Ctrl+Win
+  can now be used for push to talk, toggle recording, and mode shortcuts…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-29 · Suno · [[Changes/Suno/2026-10-29-clearer-clip-settings-info-panel|Clearer Clip Settings & Info Panel]]
+- Earlier: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-ctrl-win-can-now-be-used-for-push-to-talk-toggle-recording-and-mode-shortcuts-an|Ctrl+Win can now be used for push to talk, toggle recording, and mode shortcuts…]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop Kept the current @ and command-menu selection stable while results update…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 73e5bb78b92bf84a087d90b7acbe61adb20ef2337d8e74d8234736d889c00ed0
+machine_hash: 73bc05afdc8a93d3e939dd3478010f7aa567252704a98a184ca93b64f97e16ff
 product: lovable
 product_name: Lovable
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In Enterprise workspaces, public publishing is off by default and must be enabled…]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running sessions refresh enterprise managed settings hourly]]
+- Later: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-this-release-also-includes-a-working-organization-filter-on-the-enterprise-sessi|This release also includes a working organization filter on the enterprise sessions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

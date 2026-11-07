@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f286f8ce1214e4aadaf59f68c91453a9c60a60faaa1bcd8583d156b182095201
+machine_hash: 80f4af3ba9656e25e267e1093467f0f017daa742fd1ad29e84656cac364eed39
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Developer Workflow changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
-  Developer Workflow changes in v1.0.71]]'
-- '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
-  Fixed startup readiness so WSL server loading is included before the desktop…]]'
+- '[[Changes/Raycast/2026-07-16-clipboard-history-added-new-reset-paste-sequence-command|Clipboard
+  History : Added new Reset Paste Sequence command]]'
+- '[[Changes/Raycast/2026-07-16-2-developer-workflow-changes-in-raycast-windows-0-69|2
+  Developer Workflow changes in Raycast windows 0.69]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

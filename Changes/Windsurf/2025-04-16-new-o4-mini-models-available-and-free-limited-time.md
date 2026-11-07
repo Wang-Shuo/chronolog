@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b76b0930e45aa7ea6dede0d3675fc63a014f45fb8c9a0f69f9436cd414bd380f
+machine_hash: aefe4ea804613d79fb6cf33151a30dfc2330de967a000ffaf6742a5edbbf930c
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,11 +48,11 @@ record:
   title: New o4-mini models available and Free (Limited Time)
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-15-new-model-update-by-0xtoshii-in-https-github-com-cline-cline-pull-2892|NEW
-  model update]]'
 - '[[Changes/Cursor/2025-04-15-new-models|New models]]'
 - '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
   and o4-mini in ChatGPT]]'
+- '[[Changes/Raycast/2025-04-16-3-model-support-changes-in-raycast-macos-v1-1-96-0|3
+  Model Support changes in Raycast macos-v1 1.96.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-16-v1-6-5-0ca3d062|windsurf-2025-04-16-v1-6-5-0ca3d062]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]]
+- Earlier: 2025-04-16 · Raycast · [[Changes/Raycast/2025-04-16-3-model-support-changes-in-raycast-macos-v1-1-96-0|3 Model Support changes in Raycast macos-v1 1.96.0]]
 - Later: 2025-04-17 · Gemini · [[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash (experimental) model]]
 <!-- chronolog:end -->
 

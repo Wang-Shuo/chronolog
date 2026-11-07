@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fd76910983f4de5f7862ae764637357f7f972ebd2f08006e4d73799451be6b6
+machine_hash: e88f68b99c1d0cae67bbeb3c37eca6273666df788fba794785c65c2ab4830387
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     that they…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and
-  Access changes in 1.17.1]]'
-- '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
-  two-factor authentication for your workspace]]'
 - '[[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account
   and Access changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall|MCP
+  : Added Reset Sign In so you can retry an incomplete sign-in without…]]'
+- '[[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall-c8b722|MCP
+  : Added Reset Sign In so you can retry an incomplete sign-in without…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account and Access changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall-c8b722|MCP : Added Reset Sign In so you can retry an incomplete sign-in without…]]
 - Later: 2026-09-14 · OpenCode · [[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal Show remote config authentication errors during startup and exit…]]
 <!-- chronolog:end -->
 

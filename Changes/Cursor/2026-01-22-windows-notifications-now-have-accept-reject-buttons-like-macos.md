@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 249928a3d600030f1d89d45fd26b298146577a952b0af6bcde8b2710df8bf414
+machine_hash: 4e38c1a11d891ef43b9db71f18fd9201c2359e04ecb16201b6b7231b47c80fa8
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Windows notifications now have accept/reject buttons like MacOS
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
-  fix(core): require approval for force delete on Windows @hdcodedev]]'
 - '[[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile
   and Desktop changes in v1.1.30]]'
 - '[[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile
   and Desktop changes in v1.1.29]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-mobile-and-desktop-changes-in-v1-10-0|3 Mobile
+  and Desktop changes in v1.10.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile and Desktop changes in v1.1.29]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-mobile-and-desktop-changes-in-v1-10-0|3 Mobile and Desktop changes in v1.10.0]]
 - Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer for Windows]]
 <!-- chronolog:end -->
 

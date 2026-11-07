@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5bc13d6c5062ffd125d85284841d7e472da877c1067c80b3c12abbf02ba26ba
+machine_hash: bfd2e98474237fe9b27d186cfab2da2606cef60b13f3b1a86db11348b22d4a07
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,12 @@ record:
   title: Updated community resources**
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin
-  features in Windsurf, stability improvements, and a brand new UI]]'
 - '[[Changes/Z.ai API/2025-09-30-we-ve-launched-glm-4-6-the-flagship-coding-model-showcasing-enhanced-performance|We’ve
   launched GLM-4.6, the flagship coding model, showcasing enhanced performance…]]'
 - '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
   Reliability and Performance changes in v0.7.0]]'
+- '[[Changes/Devin/2025-10-03-ongoing-stability-improvements-and-bug-fixes|Ongoing
+  stability improvements and bug fixes]]'
 source_release: '[[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|lovable-2025-10-06-2025-10-06-d7db7508]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2 Reliability and Performance changes in v0.7.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-ongoing-stability-improvements-and-bug-fixes|Ongoing stability improvements and bug fixes]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part 3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]
 <!-- chronolog:end -->
 

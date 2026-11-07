@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99c5db7ffa104a7861c886ec533d2b424db68da7b757acfe040e045a6b3f61b2
+machine_hash: 81026c6bf63d5ff7a445edb976c2ce133bcd5830f402ba13212abc435ff04198
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time analytics on your Lovable apps]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10 Apps and Integrations changes in v0.1.19]]
+- Later: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-enhanced-mcp-marketplace|Enhanced MCP Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

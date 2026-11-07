@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9da34af9b2bfd18fe8df1da4712e6265fe108d20cc2c20ad5650951e8b44c03
+machine_hash: 9e543e6e66d7539e6fae375c8c35c5a05a6c4d593b0e5ccad65b0f24004631e9
 product: descript
 product_name: Descript
 record:
@@ -46,8 +46,8 @@ record:
   title: Descript's February Round-up
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements
-  to working with Scenes and Layouts]]'
+- '[[Changes/AnythingLLM/2025-02-18-this-is-ocr-not-vision-so-if-the-content-has-no-text-nothing-will-be-found|this
+  is OCR, not "vision" so if the content has no text - nothing will be found!]]'
 - '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
   adds a new folder and organization system to the website]]'
 - '[[Changes/Descript/2025-02-26-welcome-to-descript-season-8-which-is-focused-on-features-that-make-you-look-goo|Welcome

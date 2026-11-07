@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b1f9d4bb243df84f264a63a43c829d3b03be09c3a10acc51a947cce9beae961a
+machine_hash: 3f3e674ace05ecaec733eaaa88c50f6c09ce902c4fc83f762d37999b4a4f1d39
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `effort` frontmatter support for skills and slash commands to override…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
-  changes in v0.18.1]]'
-- '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
-  mini in ChatGPT]]'
 - '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
   nodes, including LLM and Question Classifier]]'
+- '[[Changes/LM Studio/2026-03-18-3-model-support-changes-in-lm-studio-0-4-7|3 Model
+  Support changes in LM Studio 0.4.7]]'
+- '[[Changes/LM Studio/2026-03-18-new-default-separate-reasoning-content-and-content-in-api-responses-is-now-on-by|New
+  default: "separate reasoning_content and content in API responses" is now…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related nodes, including LLM and Question Classifier]]
+- Earlier: 2026-03-18 · LM Studio · [[Changes/LM Studio/2026-03-18-new-default-separate-reasoning-content-and-content-in-api-responses-is-now-on-by|New default: "separate reasoning_content and content in API responses" is now…]]
 - Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes in v3.74.0]]
 <!-- chronolog:end -->
 

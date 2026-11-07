@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1bb6dd87efd39d8b6f6016908eb07066779c30c0fb4dac3b6899c101efac9fd
+machine_hash: 57cb7ce1e078e7bb1532dad9b0bc2cc57eb834184dcd30cc73e0af28f3d28e3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added `context_window.used_percentage` and `context_window.remaining_percentage`…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
-  core tool that adds all context from the core package]]'
 - '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
   changes in v0.7.0]]'
 - '[[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop
   Cache session-scoped stores and add optional context gating]]'
+- '[[Changes/Raycast/2026-01-12-ai-adjusted-chat-title-logic-to-use-chat-context-instead-of-device-language|AI:
+  Adjusted chat title logic to use chat context instead of device language]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop Cache session-scoped stores and add optional context gating]]
+- Earlier: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-adjusted-chat-title-logic-to-use-chat-context-instead-of-device-language|AI: Adjusted chat title logic to use chat context instead of device language]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction runs in background without blocking the conversation]]
 <!-- chronolog:end -->
 

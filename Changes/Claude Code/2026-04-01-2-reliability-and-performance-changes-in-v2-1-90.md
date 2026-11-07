@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 953b6e2023dde389635b0f02c3a4180f08e91dcec3b60ae095a2e92f70b909cf
+machine_hash: d65effbdaf262784574c4ec71ef2e50ac319d5bba38a49d337a1d482ce32442a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2
-  Reliability and Performance changes in v1.0.13]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2
-  Reliability and Performance changes in v1.0.14]]'
 - '[[Changes/HeyGen/2026-03-31-choose-between-standard-faster-fewer-credits-and-precise-sharper-results-upscali|Choose
   between Standard (faster, fewer credits) and Precise (sharper results)…]]'
+- '[[Changes/Wispr Flow/2026-03-31-android-stability-reliability-android|Android Stability
+  & Reliability (Android)]]'
+- '[[Changes/Wispr Flow/2026-03-31-desktop-stability-reliability-desktop|Desktop Stability
+  & Reliability (Desktop)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-choose-between-standard-faster-fewer-credits-and-precise-sharper-results-upscali|Choose between Standard (faster, fewer credits) and Precise (sharper results)…]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli): background IDE client to speed up initialization]]
+- Earlier: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-desktop-stability-reliability-desktop|Desktop Stability & Reliability (Desktop)]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-devin-review-improvements|Devin Review Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

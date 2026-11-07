@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fbdc6da1c900cd980f22d4935a167eb139ad9185bdf8c612b713b76f04f0948f
+machine_hash: 767ea920c5eade5ee3171704d96d5fde35aaa45744da1cd4100c3b2c0dcf5bda
 product: notion
 product_name: Notion
 record:
@@ -51,12 +51,12 @@ record:
   title: Smarter, more flexible automations
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|\U0001F527
-  Pipelines Support]]"
-- '[[Changes/Dify/2024-07-15-refactor-api-switch-to-dify-config-with-pydantic-in-controllers-and-schedule-by|refactor(api):
-  switch to dify_config with Pydantic in controllers and schedule]]'
 - '[[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update
   celery beat scheduler time to env]]'
+- '[[Changes/AnythingLLM/2024-07-26-refactor-convert-insert-loop-to-1-insert-stmt-by-jwaltz-in-https-github-com-mint|refactor:
+  convert insert loop to 1 insert stmt]]'
+- '[[Changes/AnythingLLM/2024-08-08-2034-automate-port-forwarding-for-github-codespaces-using-gh-cli-by-mrsimonc-in|2034
+  automate port forwarding for GitHub codespaces using gh cli]]'
 source_release: '[[Releases/Notion/notion-2024-08-13-https-www-notion-com-releases-2024-08-13-e8eedd4f|notion-2024-08-13-https-www-notion-com-releases-2024-08-13-e8eedd4f]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-update-celery-beat-scheduler-time-to-env-by-johnjyong-in-https-github-com-langge|update celery beat scheduler time to env]]
+- Earlier: 2024-08-08 · AnythingLLM · [[Changes/AnythingLLM/2024-08-08-2034-automate-port-forwarding-for-github-codespaces-using-gh-cli-by-mrsimonc-in|2034 automate port forwarding for GitHub codespaces using gh cli]]
 - Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove all meeting schedule links]]
 <!-- chronolog:end -->
 

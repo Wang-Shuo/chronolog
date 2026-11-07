@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a66e0cfd0ce1ee0cc681262344a4e778200af1c44ad11dcef1ac2d885706d37f
+machine_hash: e770e8c087d999c009c22561e83611245027dbbc2da7e16f8d71d52c44f91e29
 product: descript
 product_name: Descript
 record:
@@ -64,11 +64,11 @@ record:
   title: New admin controls for transcription glossary and do not translate lists**
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
-  new enterprise instructions]]'
 - '[[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]'
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
   of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Devin/2025-12-19-enterprise-api-v3-metrics-endpoints|Enterprise API v3
+  Metrics Endpoints]]'
 source_release: '[[Releases/Descript/descript-2025-12-20-6945e963a88aa53ad74ae6ad-f9e37c73|descript-2025-12-20-6945e963a88aa53ad74ae6ad-f9e37c73]]'
 source_type: canny_changelog
 theme: enterprise-admin
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-enterprise-api-v3-metrics-endpoints|Enterprise API v3 Metrics Endpoints]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 

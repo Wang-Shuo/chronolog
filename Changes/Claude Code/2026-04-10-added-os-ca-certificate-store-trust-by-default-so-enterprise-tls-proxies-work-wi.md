@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4740b770eb16a0a1df571123f098a83824126b1129742d02d7cfb0098abfdff3
+machine_hash: 11b2dc07bf0af5ccd4f3bd0214eb3b1e2783c6504a009b2bee88cfdf65ad0394
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
-  default effort level from medium to high for API-key…]]'
+- '[[Changes/Devin/2026-04-08-enterprise-review-consumption-by-repository|Enterprise
+  Review Consumption by Repository]]'
 - '[[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based
   access controls for Enterprise plans]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show

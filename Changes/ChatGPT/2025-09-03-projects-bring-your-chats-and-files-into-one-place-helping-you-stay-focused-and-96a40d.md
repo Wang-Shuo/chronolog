@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8c27f70eed7381cf8f2cdb9c70353eb67cde8a395aa2835edfe8acfd7a400463
+machine_hash: befe05a6b0460c623311269b62d46924247fa70fb96f5768ccfe4258596ecbf2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,11 +55,11 @@ record:
   title: Projects Now Available on ChatGPT Free Tier
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Replit/2025-08-22-multiple-sso-providers-for-enterprise|Multiple SSO
   providers for Enterprise]]'
 - '[[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Raycast/2025-08-25-please-note-that-enabling-or-disabling-this-feature-requires-administrator-privi|Please
+  note that enabling or disabling this feature requires administrator privileges]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae|chatgpt-2025-09-03-projects-now-available-on-chatgpt-free-tier-000f73ae]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-08-22 · Replit · [[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-08-25 · Raycast · [[Changes/Raycast/2025-08-25-please-note-that-enabling-or-disabling-this-feature-requires-administrator-privi|Please note that enabling or disabling this feature requires administrator privileges]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2 Enterprise and Administration changes in v0.3.0]]
 <!-- chronolog:end -->
 

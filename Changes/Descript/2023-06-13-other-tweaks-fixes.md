@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c28f449e90b0d81f9ddb02a9672ec7544cd7f6901ccee0055f7fb49fcffd45bc
+machine_hash: 9455902a6c6aa12745b6767e7116f31ed84f3631bb743757148526c959264b30
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,7 @@ record:
   title: Other tweaks & fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
-  adds a new feedback button at the top right of the app]]'
+- '[[Changes/Raycast/2023-05-24-new-emojis|New Emojis]]'
 - '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
   input area highlight and moblie hide tooltip]]'
 - '[[Changes/Descript/2023-05-31-font-weights-the-font-weight-is-now-a-separate-section-under-text-properties-htt|Font

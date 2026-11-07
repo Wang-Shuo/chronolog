@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6995fba1bddb4f02ce6d0306cdaead380043add1d96246cb98fd9d433f57f91
+machine_hash: 521ef533e286fdb788cd4de82ae0fe6f999984ba2c490f102f4e3920fa1c57f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     terminal…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
-  and Performance changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
   with large conversation history load faster on startup]]'
+- '[[Changes/LM Studio/2026-01-13-mac-m5-enable-auto-upgrade-to-mlx-nax-engine-to-fix-mlx-model-crashes-and-improv|MacM5
+  Enable auto-upgrade to MLX NAX engine to fix MLX model crashes and improve…]]'
 - '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
   Reliability and Performance changes in v1.13.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'

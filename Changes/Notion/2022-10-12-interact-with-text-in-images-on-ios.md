@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 021ec57a37e8830e678dc0ce9373c51d455005b02c1104533a90809da9b46c44
+machine_hash: 8947b0b7af51b62831abfd693257e2bcda7362801f59f1995cd6fc317cb5519c
 product: notion
 product_name: Notion
 record:
@@ -51,12 +51,11 @@ record:
   title: Interact with text in images on iOS
   type: change
 related_changes:
-- "[[Changes/Notion/2021-12-23-2-mobile-and-desktop-changes-in-hack-week|2 Mobile
-  and Desktop changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB]]"
-- '[[Changes/Descript/2022-01-11-macos-native-apple-silicon-support|macOS: Native
-  Apple Silicon Support]]'
 - '[[Changes/Notion/2022-04-14-removed-the-icon-on-rollup-values-on-mobile-since-it-was-blocking-the-content-in|Removed
   the ✏️ icon on rollup values on mobile since it was blocking the content inside]]'
+- '[[Changes/Raycast/2022-06-29-macos-ventura-beta-fixed-an-issue-where-raycast-would-crash-when-opening-the-sea|macOS
+  Ventura (Beta)]]'
+- '[[Changes/Raycast/2022-07-19-a-fresh-look-and-feel|A fresh look and feel]]'
 source_release: '[[Releases/Notion/notion-2022-10-12-https-www-notion-com-releases-2022-10-12-e6fa59c9|notion-2022-10-12-https-www-notion-com-releases-2022-10-12-e6fa59c9]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-removed-the-icon-on-rollup-values-on-mobile-since-it-was-blocking-the-content-in|Removed the ✏️ icon on rollup values on mobile since it was blocking the content inside]]
+- Earlier: 2022-07-19 · Raycast · [[Changes/Raycast/2022-07-19-a-fresh-look-and-feel|A fresh look and feel]]
 - Later: 2022-11-17 · Notion · [[Changes/Notion/2022-11-17-jump-to-your-recently-viewed-pages-on-mobile|Jump to your recently viewed pages on mobile]]
 <!-- chronolog:end -->
 

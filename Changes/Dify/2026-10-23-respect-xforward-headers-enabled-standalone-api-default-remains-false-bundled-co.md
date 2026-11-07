@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ea59afd1810884a4c64b85cadbade25463929c279aadff777fdb6fddcaed3ec
+machine_hash: b3230bb022372558ff0b6912eb2bb5af95802880526094400d920deb10545672
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,12 @@ record:
   title: '| `RESPECT_XFORWARD_HEADERS_ENABLED` | Standalone API default remains `false`'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
-  Workflow changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
   Review Improved the Code Review admin section to retry the first load…]]'
 - '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
   Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-turn-on-automatic-reviews-from-a-pull-request|Turn on
+  Automatic Reviews from a Pull Request]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14 Developer Workflow changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-turn-on-automatic-reviews-from-a-pull-request|Turn on Automatic Reviews from a Pull Request]]
 - Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer Workflow changes in v3.11.212]]
 <!-- chronolog:end -->
 

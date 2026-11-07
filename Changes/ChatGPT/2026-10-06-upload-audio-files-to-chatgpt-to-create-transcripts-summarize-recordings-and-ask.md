@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b050075eaa5d05c8b0348d5e7dd2b6c7451ddac327dc11747674cb9336dc2a0e
+machine_hash: 3a6af8fcf5dc5ec76edd0547aef4d262c5b8ee6d801cb6bc08d447d6aba6393b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: Audio uploads in ChatGPT
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-05-more-natural-delivery-v4-reads-a-script-like-a-voice-actor-would-with-a-sense-of|More
-  natural delivery]]'
 - '[[Changes/HeyGen/2026-10-05-consistent-regenerations-redo-a-line-as-often-as-you-like-and-it-s-still-the-sam|Consistent
   regenerations: Redo a line as often as you like and it''s still the same voice]]'
 - '[[Changes/HeyGen/2026-10-05-a-great-script-can-fall-flat-when-the-voice-doesn-t-sound-like-it-means-it-eleve|A
   great script can fall flat when the voice doesn''t sound like it means it]]'
+- '[[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2
+  Voice and Audio changes in Raycast windows 2.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-05 · HeyGen · [[Changes/HeyGen/2026-10-05-a-great-script-can-fall-flat-when-the-voice-doesn-t-sound-like-it-means-it-eleve|A great script can fall flat when the voice doesn't sound like it means it]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2 Voice and Audio changes in Raycast windows 2.6]]
 - Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-chat-add-optional-voice-dictation-to-the-chat-input-by-vascosch92-in-https|feat(chat): add optional voice dictation to the chat input]]
 <!-- chronolog:end -->
 

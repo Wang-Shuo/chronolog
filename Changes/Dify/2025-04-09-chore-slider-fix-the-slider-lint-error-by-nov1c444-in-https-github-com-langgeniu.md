@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c53a2d5427dcf9da9879c419bc8e5364bfe80dd98c6d4b81018cdc213133091
+machine_hash: 8de719ed5e8deb48e780afa284f33cbefe77b4b77f8d52483395f3d88a99f0eb
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,11 @@ record:
   title: 'chore(slider): fix the slider lint error'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
-  to edit subdomain on website deploy]]'
 - '[[Changes/Descript/2025-04-08-editor-updates|Editor updates]]'
 - '[[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for
   the Editor recorder]]'
+- '[[Changes/Devin/2025-04-08-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with|Devin
+  knows your codebase and will comment on each ticket in minutes with]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for the Editor recorder]]
-- Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience changes in v3.12.0]]
+- Earlier: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with|Devin knows your codebase and will comment on each ticket in minutes with]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-2-editor-experience-changes-in-raycast-macos-v1-1-95-0|2 Editor Experience changes in Raycast macos-v1 1.95.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

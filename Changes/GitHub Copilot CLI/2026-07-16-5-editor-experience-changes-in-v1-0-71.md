@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1385439c995534dceb8d4d5298d678efeb100d6892b3683dc04d918ae5e7143
+machine_hash: f59f0a38b684e653b726efc458db5988fedd63c791fd993da5a5e41c26e0c5cd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added Mod+N as another shortcut for opening a new tab]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-tasks-tab-in-the-workspace|Tasks Tab in the Workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

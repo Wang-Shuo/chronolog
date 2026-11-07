@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9589dbfc90b41d8ad506d6eb02ddb67da46868a2a864acda71a97ef5f435aa9
+machine_hash: 18eb559219cac25e9ab90b3a6e778c9e178849b50ef10c3bbd640d68c0a3295c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]]
-- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect Git Bash installed through Scoop and other Git shims on Windows]]
+- Later: 2026-06-08 · LM Studio · [[Changes/LM Studio/2026-06-08-introducing-locally-lm-studio-s-mobile-app-available-on-iphone-and-ipad|Introducing Locally, LM Studio's mobile app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

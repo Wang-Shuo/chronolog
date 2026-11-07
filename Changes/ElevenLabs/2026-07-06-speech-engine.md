@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3aca0d6b0dc7d5a5a7025c2a023d1422fc9edc2047f06bd7044ec97d4aff52e9
+machine_hash: 82ca777f285a0eba800bedd980d0b0e56a264952ed24a47d258bb34f094c0c1a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -59,8 +59,8 @@ record:
   title: Speech Engine
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
-  now opens the sign-in dialog from the claude agents view instead…]]'
+- '[[Changes/Devin/2026-07-01-this-release-also-includes-numerous-bug-fixes-across-the-platform-including-fixe|This
+  release also includes numerous bug fixes across the platform]]'
 - '[[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account
   and Access changes in v0.10.2]]'
 - '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT

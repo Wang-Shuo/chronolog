@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ab833ab4671e7f2cd4307e2e10b9be0c8e7278f6764d72520ee50681289039f
+machine_hash: 7548c26211b521d1e0c3e81256920884f6b89e32d0bccdc67bafd4a64d46dd04
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,8 @@ record:
   title: Reduced errors for edit tool calls for Windows
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
-  Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Raycast/2025-04-09-macos-support-raycast-now-requires-macos-13-or-later-if-you-are-still-running-ma|macOS
+  Support: Raycast now requires macOS 13 or later]]'
 - '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
   desktop app to support configuration change]]'
 - '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed failure of Docker containers to start on Windows]]
-- Later: 2025-05-05 · OpenHands · [[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made small tweaks for mobile styles]]
+- Later: 2025-04-30 · Raycast · [[Changes/Raycast/2025-04-30-raycast-for-ios-is-here|Raycast for iOS is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

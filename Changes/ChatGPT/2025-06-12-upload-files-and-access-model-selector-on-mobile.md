@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9140de4bca86238878f7fba7d3965eff0f1bd1b4d2c31a4b08020c16461057cd
+machine_hash: a1435bbba4ef595c7a7a6dfdcdf8ddd67f3955b3f3355b5193d63320f1db0295
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,11 +43,11 @@ record:
   title: Upload files and access model selector on mobile
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-11-hi-everybody-we-re-putting-the-finishing-touches-on-our-v1-video-model-and-we-ne|Hi
-  everybody!]]'
 - '[[Changes/Midjourney/2025-06-11-please-note|Please Note]]'
 - '[[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank
   you so much for your help!]]'
+- '[[Changes/Raycast/2025-06-11-3-model-support-changes-in-raycast-macos-v1-1-100-0|3
+  Model Support changes in Raycast macos-v1 1.100.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-11 · Midjourney · [[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank you so much for your help!]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-3-model-support-changes-in-raycast-macos-v1-1-100-0|3 Model Support changes in Raycast macos-v1 1.100.0]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b0317336a6a2db9ae07e2cb45b2011cc16037b158748e1d14058a9d6e3249dc
+machine_hash: fe182fa6503695460c5ca1a0b70f848667f2424c2046851bc0c1b706cb26ef95
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New
-  Permissions System & Terminal and Git version control for Enterprise]]'
 - '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
   command palette now opens over a dimmed backdrop with enter and exit animations…]]'
 - '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
   native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
+- '[[Changes/Devin/2026-09-16-blueprint-source-in-the-v3-api|Blueprint Source in the
+  v3 API]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -119,7 +119,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-15 · Kimi Code · [[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add native clipboard support on Linux X11, so copying from the TUI no longer depends…]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-blueprint-source-in-the-v3-api|Blueprint Source in the v3 API]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer Workflow changes in v1.19.0]]
 <!-- chronolog:end -->
 

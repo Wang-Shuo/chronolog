@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b153a015c0c94f573b76bee4a4a238e0d12ddf1142cce8e400acb9282df8d656
+machine_hash: 5bf81822bec511f18709425cff63052ab5110f8fada361a43c540bed68ca8ea0
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
     our…
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
-  Input changes in v0.1.15]]'
+- '[[Changes/Raycast/2023-12-13-camera-preview-the-window-will-remain-visible-even-when-losing-focus|Camera
+  preview : The window will remain visible even when losing focus]]'
 - '[[Changes/Synthesia/2023-12-20-upload-a-document-or-paste-a-link-and-transform-it-into-an-eye-catching-video-wi|Introducing:
   AI Video Assistant]]'
 - '[[Changes/Descript/2024-01-16-edit-for-clarity-intelligently-identifies-and-removes-distracting-filler-words-t|Edit

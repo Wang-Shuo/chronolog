@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b657d4880d7a80972a780857ffbc6a02150dd2225078a1818bedd6cebf9863a2
+machine_hash: dd0e6fc3096d53394c3eaf27405c005e610598fd8366c4e45f42917db0d45c15
 product: lovable
 product_name: Lovable
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
+- Later: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-2-interface-experience-changes-in-raycast-macos-0-63|2 Interface Experience changes in Raycast macos 0.63]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

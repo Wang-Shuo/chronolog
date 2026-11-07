@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34e4f4a83d8129d34c0afddcdabf2e9a74c066a5c38a2cf10c49388fd80651e1
+machine_hash: e09ec5c072877e3311977039404c11e3346e86b5d4aab375df29db3b088c9369
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,8 +53,8 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-default-design-templates-business-and-enterprise|Default
-  design templates (Business and Enterprise)]]'
+- '[[Changes/Devin/2026-02-06-enterprise-organization-selection|Enterprise Organization
+  Selection]]'
 - '[[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin
   requirements can now restrict web search modes and define network…]]'
 - '[[Changes/Claude/2026-02-12-self-serve-enterprise-plans|Self-serve Enterprise plans]]'

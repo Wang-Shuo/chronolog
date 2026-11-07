@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddd12366a8ae7cdf891bd6a3e24c6318d0002dd6bf4bfc884d4d24b20d232386
+machine_hash: f6e37195c84e3d3d981f3ff1ebd46178d7c441710bd3ec19921405727c61f22f
 product: opencode
 product_name: OpenCode
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Mobile and Desktop changes in v2.2.4
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-keep-working-toward-a-goal|Keep Working Toward a
-  Goal]]'
 - '[[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai
   provider removals and renames]]'
+- '[[Changes/Superwhisper/2026-10-29-s1-mini-tone-slider-updated-to-match-macos|S1-mini
+  tone slider updated to match macOS]]'
 - '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
   and Desktop changes in v2.1.314]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a3648fff93af5c37e21ecdd96996320d35e4a378e47274b682ce6426560d99c
+machine_hash: bac588bba28cf3dccaf7b5840cea2c72777cf089819dc83c94dd050aee5a4614
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Apps and Integrations changes in v0.5.17
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
-- '[[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for
-  Assistant]]'
-- "[[Changes/Replit/2025-02-21-replit-grok|Replit \U0001F91D Grok]]"
+- '[[Changes/Raycast/2025-02-26-ai-extensions-beta|AI Extensions Beta]]'
+- '[[Changes/Raycast/2025-02-26-raycast-focus-added-an-option-to-define-apps-websites-you-want-to-allow-instead|Raycast
+  Focus: Added an option to define apps & websites you want to allow instead…]]'
+- '[[Changes/Raycast/2025-02-26-introducing-ai-extensions|Introducing: AI Extensions]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-replit-grok|Replit 🤝 Grok]]
+- Earlier: 2025-02-26 · Raycast · [[Changes/Raycast/2025-02-26-introducing-ai-extensions|Introducing: AI Extensions]]
 - Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations changes in 1.0.0]]
 <!-- chronolog:end -->
 

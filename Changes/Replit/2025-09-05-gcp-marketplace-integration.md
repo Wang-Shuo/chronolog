@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 58ec6508990ba562a46035021191ce0920c8c9bda727c21760c003b973518233
+machine_hash: f773eaf9531dfcdeb1cbef5559fd2c2b2b3b73300000114a23942a3209d0fe3e
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,11 @@ record:
   title: GCP Marketplace integration
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-03-4-apps-and-integrations-changes-in-1-8-1|4 Apps and Integrations
-  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
   and Integrations changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
   Apps and Integrations changes in rust-v0.30.0]]'
+- '[[Changes/Devin/2025-09-05-enhanced-mcp-configuration|Enhanced MCP Configuration]]'
 source_release: '[[Releases/Replit/replit-2025-09-05-2025-09-05-8d902215|replit-2025-09-05-2025-09-05-8d902215]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4 Apps and Integrations changes in rust-v0.30.0]]
+- Earlier: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-enhanced-mcp-configuration|Enhanced MCP Configuration]]
 - Later: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4 Apps and Integrations changes in rust-v0.31.0]]
 <!-- chronolog:end -->
 

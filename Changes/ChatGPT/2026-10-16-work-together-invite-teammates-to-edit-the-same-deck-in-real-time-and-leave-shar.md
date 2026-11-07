@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ab03a811b2303bdac6d0b4bf4612a68ad58561485c3673cecd05f58d0359be8
+machine_hash: 1800995bce8f555e5367af50dc6c6a2b93b182815d005f3399751fee836b4444
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor Experience changes in rust-v0.163.0]]
-- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document previews in the Files tab]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-git-tools-for-issues-labels-assignees-and-branch-protection|Git Tools for Issues, Labels, Assignees and Branch Protection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

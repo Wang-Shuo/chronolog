@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b7fe3658c4aa3e594a13ce7aed160e067eac0bdb023daf9d9893d6b54e471e6
+machine_hash: d6bfb21dcab572139445f4923653f86c3e653329393bf6f56b5dcf0584ffb0ff
 product: aider
 product_name: Aider
 record:
@@ -45,9 +45,10 @@ record:
     you…'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-07-24-regenerate-beta|Regenerate (beta)]]'
 - '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
   api add speech to text]]'
+- '[[Changes/Superwhisper/2023-08-03-added-support-for-100-different-spoken-languages|Added
+  support for 100+ different spoken languages]]'
 - '[[Changes/Descript/2023-08-10-other-tweaks-fixes|Other tweaks & fixes]]'
 source_release: '[[Releases/Aider/aider-2023-08-11-v0-12-0-github-116058625-6861e6b4|aider-2023-08-11-v0-12-0-github-116058625-6861e6b4]]'
 source_type: github_releases
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-08-10 · Descript · [[Changes/Descript/2023-08-10-other-tweaks-fixes|Other tweaks & fixes]]
-- Later: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio changes in v0.13.0]]
+- Later: 2023-08-15 · Superwhisper · [[Changes/Superwhisper/2023-08-15-recordings-are-now-converted-to-mono-if-the-source-audio-is-in-stereo|Recordings are now converted to mono if the source audio is in stereo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

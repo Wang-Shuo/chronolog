@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eef49a5dcba91e3759650558be0b168befbb2f608eb0fbdd83e8ff837cc0bdb4
+machine_hash: 2c487ab7faf1c46451015c3889a3584f339103d49c0827a57c081530516853ce
 product: gemini
 product_name: Gemini
 record:
@@ -86,12 +86,12 @@ record:
     Canvas
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
 - '[[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat:
   add datasets detail context and provider for improved data vali…]]'
 - '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
   a new /context command that automatically identifies which files need…]]'
+- '[[Changes/LM Studio/2025-03-27-2-context-window-changes-in-lm-studio-0-3-14|2 Context
+  Window changes in LM Studio 0.3.14]]'
 source_release: '[[Releases/Gemini/gemini-2025-03-29-2025-03-29-97915888|gemini-2025-03-29-2025-03-29-97915888]]'
 source_type: gemini_changelog
 theme: context-window
@@ -121,7 +121,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added a new /context command that automatically identifies which files need…]]
+- Earlier: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-2-context-window-changes-in-lm-studio-0-3-14|2 Context Window changes in LM Studio 0.3.14]]
 - Later: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-make-context-shortening-more-intelligent-when-model-hits-context-window-now-old|Make context shortening more intelligent when model hits context window–now old file…]]
 <!-- chronolog:end -->
 

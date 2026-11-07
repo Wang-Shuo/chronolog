@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eef4a26fbb7f7ff354674c142af0f37486fe5527b594610d22720f48ccf45a3
+machine_hash: 7cb71848e5657224f51a8bb3cf3fbfb07cdcbb5497ff4936b920b67f19513735
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in 0.5.2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes
-  in 0.5.0]]'
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
 - '[[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes
   in 0.5.1]]'
+- '[[Changes/Superwhisper/2024-01-25-cloud-models-shown-in-language-models-view|Cloud
+  models shown in language models view]]'
+- '[[Changes/Superwhisper/2024-01-25-experimental-models-hidden-by-default|Experimental
+  models hidden by default]]'
 source_release: '[[Releases/Dify/dify-2024-01-26-0-5-2-github-138621257-d338c9a8|dify-2024-01-26-0-5-2-github-138621257-d338c9a8]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes in 0.5.1]]
+- Earlier: 2024-01-25 · Superwhisper · [[Changes/Superwhisper/2024-01-25-experimental-models-hidden-by-default|Experimental models hidden by default]]
 - Later: 2024-01-26 · Ollama · [[Changes/Ollama/2024-01-26-stable-lm-2-https-ollama-ai-library-stablelm2-a-state-of-the-art-1-6b-small-lang|Stable LM 2((source link)]]
 <!-- chronolog:end -->
 

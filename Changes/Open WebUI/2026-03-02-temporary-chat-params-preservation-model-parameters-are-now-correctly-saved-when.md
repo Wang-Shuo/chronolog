@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5334f02884b559dfb132138cdded6dbc3bd4618f64ab7a84738312239e567f12
+machine_hash: c04078cfe290684c8b28eab39a29bfe2a9ee490f165d18ab19f15fa7a5c17290
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-02 · Ollama · [[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source link) the small Qwen 3.5 model series…]]
-- Later: 2026-03-03 · ChatGPT · [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3 Instant Update]]
+- Later: 2026-03-02 · Raycast · [[Changes/Raycast/2026-03-02-misc-updated-design-for-reasoning-creativity-setting|Misc : Updated design for reasoning / creativity setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

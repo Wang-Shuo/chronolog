@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-07-09 · Accessibility and Localization: **\U00
   Language Updates**: Updated translations for Indonesian, German, French, and Catalan
   languages…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 302
+  lag_days: 1328
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 40ab41ab49db7f02ff9d48af67e1756b42fca958f4a785893a297684733df940
+machine_hash: d9d204221fa3f2043123da2ddd5d66de4251137f93b3be35bf0c55deefd701cc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2024-06-30 · Open WebUI · [[Changes/Open WebUI/2024-06-30-enhanced-internationalization-i18n-newly-introduced-indonesian-translation-and-u|🌐 Enhanced Internationalization (i18n)]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-accessibility-and-localization-changes-in-v0-3-11|2 Accessibility and Localization changes in v0.3.11]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-2-accessibility-and-localization-changes-in-v1-0-0|2 Accessibility and Localization changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

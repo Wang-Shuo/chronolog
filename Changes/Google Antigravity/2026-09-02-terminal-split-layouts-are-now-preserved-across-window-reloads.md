@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41b96b0bde9e7390c391c57c959f15fd08d33884d25b8e4d24f55cda37eb471d
+machine_hash: b086542d6f40b6585872ff59cae4be9ac9743abf3da68ceb24f717fc8ad47a61
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,12 +41,11 @@ record:
   title: Terminal split layouts are now preserved across window reloads
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your
-  repository remains the source of truth]]'
 - '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
   terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
   rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
+- '[[Changes/Devin/2026-09-02-scan-composer-command|/scan Composer Command]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80|google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
+- Earlier: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-scan-composer-command|/scan Composer Command]]
 - Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2 Developer Workflow changes in Kimi Code 0.40.0]]
 <!-- chronolog:end -->
 

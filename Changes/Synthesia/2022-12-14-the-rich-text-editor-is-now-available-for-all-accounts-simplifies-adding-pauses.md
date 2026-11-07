@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2182767442383091cf5c713423c0b640cecdededf2052a30f0f35e20319dd2dd
+machine_hash: 1b020de6f202b15cf7ba36b72965b8bdc0cc428098b224e7d2c25059c54b2c2c
 product: synthesia
 product_name: Synthesia
 record:
@@ -41,11 +41,11 @@ record:
   title: Rich Text Editor
   type: change
 related_changes:
-- '[[Changes/Descript/2022-11-15-multitrack-screen-recording-https-help-descript-com-hc-en-us-articles-1016588157|Multitrack
-  screen…]]'
 - '[[Changes/Notion/2022-11-17-notion-ai-in-private-alpha|Notion AI (in private alpha)]]'
 - '[[Changes/Notion/2022-11-17-made-it-easier-to-edit-links-whether-you-re-linking-to-a-notion-page-or-a-url-we|Made
   it easier to edit links, whether you’re linking to a Notion page or a URL]]'
+- '[[Changes/Raycast/2022-11-23-export-settings-data-you-can-now-edit-and-view-the-export-password-in-the-comman|Export
+  Settings & Data]]'
 source_release: '[[Releases/Synthesia/synthesia-2022-12-14-https-www-synthesia-io-updates-rich-text-editor-3c1bdb99|synthesia-2022-12-14-https-www-synthesia-io-updates-rich-text-editor-3c1bdb99]]'
 source_type: synthesia_changelog
 theme: editor-experience
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2022-11-17 · Notion · [[Changes/Notion/2022-11-17-made-it-easier-to-edit-links-whether-you-re-linking-to-a-notion-page-or-a-url-we|Made it easier to edit links, whether you’re linking to a Notion page or a URL]]
+- Earlier: 2022-11-23 · Raycast · [[Changes/Raycast/2022-11-23-export-settings-data-you-can-now-edit-and-view-the-export-password-in-the-comman|Export Settings & Data]]
 - Later: 2022-12-15 · Notion · [[Changes/Notion/2022-12-15-easier-edits-for-databases-in-list-view|Easier edits for databases in List view]]
 <!-- chronolog:end -->
 

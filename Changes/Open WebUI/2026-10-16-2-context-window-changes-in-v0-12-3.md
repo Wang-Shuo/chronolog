@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fc3021cb6befd4e87ad1d363b1cbffac8afdd758e625227998019dd14a603c5
+machine_hash: c372dc141227fdb648006af6c6d1463df871bf6dc4c2b98814d136ce2f33f96e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: 2 Context Window changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context
-  Window changes in rust-v0.163.0]]'
 - '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
   Window changes in v2.1.302]]'
 - '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
   Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-forwarded-messages-as-context|Microsoft
+  Teams: Forwarded Messages as Context]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: context-window
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto Compact and its strategy setting sit together again in Feature settings]]
+- Earlier: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-microsoft-teams-forwarded-messages-as-context|Microsoft Teams: Forwarded Messages as Context]]
 - Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual compaction. /compact gives an active answer up to 60 seconds to finish]]
 <!-- chronolog:end -->
 

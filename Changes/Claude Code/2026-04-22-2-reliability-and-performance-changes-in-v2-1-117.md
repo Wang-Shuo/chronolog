@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8ef5637c2a5fc300086a408d8a1108aa9db10b9d1b56cfca799fc7995997e40
+machine_hash: b5e4881a138ee1d81ab5aa57981a12f142bbbedfbf8130487a633058d1ec260b
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24 Reliability and Performance changes in v0.9.0]]
-- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2 Reliability and Performance changes in v0.21.1]]
+- Later: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-merge-time-reduction-in-review|Merge Time Reduction in Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

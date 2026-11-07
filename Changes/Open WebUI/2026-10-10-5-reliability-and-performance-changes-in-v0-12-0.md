@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cea1b46b853e81a5e74e6d9b846962b160cdda4abb2e92613175b439a27beae6
+machine_hash: b7f067e253d424d840f3046fce914c3c56d5f4bebe094830d034e813634a9ae9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,12 +63,12 @@ record:
   title: 5 Reliability and Performance changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-we-re-trying-to-both-improve-performance-and-just-generally-investigate-this-dir|We''re
-  trying to both improve performance and just generally investigate…]]'
-- '[[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models
-  downloaded with earlier versions of Ollama are upgraded in the background…]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
   transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Raycast/2026-10-09-ai-improved-quick-fix-performance|AI: Improved Quick
+  Fix performance]]'
+- '[[Changes/Raycast/2026-10-09-3-reliability-and-performance-changes-in-raycast-macos-2-7|3
+  Reliability and Performance changes in Raycast macos 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -125,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-3-reliability-and-performance-changes-in-raycast-macos-2-7|3 Reliability and Performance changes in Raycast macos 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2 Reliability and Performance changes in v2026.10.1]]
 <!-- chronolog:end -->
 

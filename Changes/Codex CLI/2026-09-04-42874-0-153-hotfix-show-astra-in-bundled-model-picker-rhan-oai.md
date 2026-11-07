@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1ead1c65579dfda48093d2583dc7f0a5dc6ec477f06a186fba666fd1d1173b03
+machine_hash: 9d27da761e743da75055cc4cad46d93b8026da6251f8a242f3330ee6ac26bbc2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]
+- Later: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-lightbox-keyboard-navigation-and-mermaid-diagrams|Lightbox Keyboard Navigation and Mermaid Diagrams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

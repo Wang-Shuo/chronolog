@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bf2697c8832bb8e2ffc74e0935a2806e9f62362d42b6aafb703829743f3f9e19
+machine_hash: df2039cdb098e35490403d0378483ed7f005fe452fa53654ec8fcf3f296a8fd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
   title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:
-- '[[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize
-  your Agent’s instructions and memory]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
   /review commands…]]'
+- '[[Changes/LM Studio/2025-09-24-2-memory-and-personalization-changes-in-lm-studio-0-3-27|2
+  Memory and Personalization changes in LM Studio 0.3.27]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New /review commands…]]
+- Earlier: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-2-memory-and-personalization-changes-in-lm-studio-0-3-27|2 Memory and Personalization changes in LM Studio 0.3.27]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]]
 <!-- chronolog:end -->
 

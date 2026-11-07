@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c173753ba144d283695f4fcc7c4b700d59ca985438a81f9936338d1a0f7daed0
+machine_hash: b3a0c0085d97c1ad954fc52fcaf2a8c5bf1de56b5a11b5ab197c75f5cfdad231
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Editor Experience changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added
-  new editor-diff, editor-whole, and editor-diff-fenced edit formats]]'
+- '[[Changes/Devin/2025-04-17-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with-a-summ|Devin
+  knows your codebase and will comment on each ticket in minutes with a summary…]]'
 - '[[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]'
 - '[[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add
   ability to edit past messages, with options to restore your workspace back…]]'

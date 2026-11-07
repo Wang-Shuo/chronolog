@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0d314c10cbdad8d67e497bcb0f43c95b0e9e9f71ca34c457be4dcc31faa7275
+machine_hash: 33edcbcec662f39fec8740dae807c0017d688887a0fb70ece1e9be2f5ee73a6d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
-  Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
 - '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
   and web search can now parse PDFs and include in context]]'
 - '[[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace
   UI Update]]'
+- '[[Changes/Raycast/2025-06-11-removed-system-settings-links-from-appearing-in-file-search-results|Removed
+  system settings links from appearing in file search results]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace UI Update]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-removed-system-settings-links-from-appearing-in-file-search-results|Removed system settings links from appearing in file search results]]
 - Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|🌐 Bypass Webloader Now Works as Expected]]
 <!-- chronolog:end -->
 

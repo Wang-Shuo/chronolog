@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ca0624413f82aa63cf45746f1b1c4effe14cbb725f6ad3fe983d51a2d3c96a7
+machine_hash: b5a95d3f334804280f203c4e314cf5157bbc89fb2259d363d594c28023f6ab4d
 product: openclaw
 product_name: OpenClaw
 record:

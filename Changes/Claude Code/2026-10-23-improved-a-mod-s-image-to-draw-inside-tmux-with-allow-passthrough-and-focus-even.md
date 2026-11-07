@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b6635e97652296c92697fd6b36bbd21de6bed8a68aeddf1613ee1c62140cd1c
+machine_hash: 81b21a58bbc6cb2831eb3c4bccc8b223bd984b62dc92b7e18d52708ecf2aad12
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved a mod's `Image` to draw inside tmux with `allow-passthrough`…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The
-  more-actions menu on conversations in the sidebar now includes Pin and Archive…]]'
-- '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
-  notification preferences, toggle completion sounds, and adjust agent sound…]]'
 - '[[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar
   customization: Reorder navigation entries, move them between sections…]]'
+- '[[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-windows-2-9|2
+  Interface Experience changes in Raycast windows 2.9]]'
+- '[[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-macos-2-9|2
+  Interface Experience changes in Raycast macos 2.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar customization: Reorder navigation entries, move them between sections…]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-2-interface-experience-changes-in-raycast-macos-2-9|2 Interface Experience changes in Raycast macos 2.9]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9 Interface Experience changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3a0e20cea288fd5c8c139f0a714561832564e4adc3517207c6aa8c855885c4d
+machine_hash: a8447143199f8655db9c1177a6a4acdfc5dfcd4a0ab15a70aa55990fae65894a
 product: descript
 product_name: Descript
 record:
@@ -62,8 +62,8 @@ record:
   title: '**Layer list**: We’ve made a number of improvements to the [layer list…'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-  link) support, which allows you…]]'
+- '[[Changes/Superwhisper/2023-08-15-recordings-are-now-converted-to-mono-if-the-source-audio-is-in-stereo|Recordings
+  are now converted to mono if the source audio is in stereo]]'
 - '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
   changes in v0.13.0]]'
 - '[[Changes/Descript/2023-08-22-using-overdub-regenerate-with-videos-overdub-https-help-descript-com-hc-en-us-ar|Using
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio changes in v0.13.0]]
-- Later: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Later: 2023-08-22 · Superwhisper · [[Changes/Superwhisper/2023-08-22-option-to-translate-any-spoken-language-to-english|Option to translate any spoken language to English]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

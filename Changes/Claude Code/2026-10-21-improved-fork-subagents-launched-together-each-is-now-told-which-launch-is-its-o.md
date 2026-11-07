@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6041e57dc1854a092d03e935074988826c24a6cb786b9b3841601aa60dd61ffe
+machine_hash: 40cfbe07d01b4fb15aa1402c05da9e0b55679bff3a1f8dbff2bafa26c6069f71
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved fork subagents launched together
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
-  Agent SDK is available today]]'
 - '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
   in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-added-a-grok-bot-meetings-agent|Added a Grok
+  Bot meetings agent]]'
 - '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
   Duet research preview for Pro and Max plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'

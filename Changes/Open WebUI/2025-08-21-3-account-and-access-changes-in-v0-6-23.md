@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61b492651be39fd5f67590b52de4c375fdb871330a83ba6a7ec21309f8e9da98
+machine_hash: 3a1583de5c8e5803504a93506fac3322ac47c015cf4f023e4c560af65112c1a3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 ## Nearby in Account and Access
 
 - Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account and Access changes in rust-v0.23.0]]
-- Later: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|🛡️ Redis User Session Reliability]]
+- Later: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-figma-mcp-oauth-support|Figma MCP OAuth Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

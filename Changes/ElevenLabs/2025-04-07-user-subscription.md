@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 99a6ecbe2117c70d2bc2e9e406607a7bc14bc3ac496cdb159f8477473ed5d778
+machine_hash: b261e287ae85c42818ec851b408f02198c079cbd0d952549ef8dcaf4894f294d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,9 +44,9 @@ record:
   title: User Subscription
   type: change
 related_changes:
-- '[[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]'
-- '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
-  at startup if --stream and --cache-prompts are used together, as cost…]]'
+- '[[Changes/Devin/2025-04-03-introducing-devin-2-0-an-agent-native-ide-experience-generally-available-today-s|Devin
+  updates — 2025-04-03]]'
+- '[[Changes/Recraft/2025-04-03-cost-per-generation|Cost per generation]]'
 - '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
   retrying API calls when the provider reports insufficient credits]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-04-07-2025-04-07-0e7ab415|elevenlabs-2025-04-07-2025-04-07-0e7ab415]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent retrying API calls when the provider reports insufficient credits]]
-- Later: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Later: 2025-04-09 · Recraft · [[Changes/Recraft/2025-04-09-we-ve-just-expanded-your-toolkit-with-hidream-i1-dev-now-available-to-all-paid-s|New external model: HiDream I1 Dev]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6772cefd2c7eff91d6b8e678b37dfc3853814db5a25ea3b880bf75749c23db6e
+machine_hash: 36f39fa8a1563bc9c7b935aa529eae343b0c06df00ff67a97b596493cce62175
 product: openclaw
 product_name: OpenClaw
 record:
@@ -103,12 +103,12 @@ record:
   title: 10 Mobile and Desktop changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source
-  link) Detect standalone installs…]]'
-- '[[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile
-  and Desktop changes in v2026.9.1]]'
 - '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
   Increase the open-in app icon size for better visibility]]'
+- '[[Changes/Wispr Flow/2026-09-04-import-your-otter-transcripts-to-notetaker-desktop|Import
+  Your Otter Transcripts to Notetaker (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-09-04-quality-of-life-improvements-desktop|Quality-of-Life
+  Improvements (Desktop)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: mobile-desktop
@@ -179,7 +179,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop Increase the open-in app icon size for better visibility]]
+- Earlier: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-quality-of-life-improvements-desktop|Quality-of-Life Improvements (Desktop)]]
 - Later: 2026-09-05 · Qoder · [[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer: Better process detection and install recovery on Windows]]
 <!-- chronolog:end -->
 

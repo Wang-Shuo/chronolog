@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6cd07136795b4d50ad0bc43fff13978a0987a064993b84cc2a312ca6aa34f05
+machine_hash: dbe9e11320249ccf42b07794a5c6071be70aeaff31cb3cc7d32fa4bf140e6907
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: Migrate core render util to use xterm.js as part of the rendering loop
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
-  Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
 - '[[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First,
   they’re completely autonomous (no manual prompting)]]'
 - '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
+- '[[Changes/Devin/2026-02-27-repository-selection-for-schedules|Repository Selection
+  for Schedules]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-02-25 · Claude · [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]
+- Earlier: 2026-02-27 · Devin · [[Changes/Devin/2026-02-27-repository-selection-for-schedules|Repository Selection for Schedules]]
 - Later: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create automations at cursor.com/automations, or start from a template]]
 <!-- chronolog:end -->
 

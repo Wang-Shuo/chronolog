@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06b996fd99836a8b8458a3e76ccc70ebc5f2dd5a0aa46bf85b745c26fc325e99
+machine_hash: 6d534ef2f1d1d68e14cd037601527d3dd73f7918f97542b44740b9bd002ea8d9
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in Kimi Code 0.2.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
-  changes in v1.15.9]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
-  subagents use GPT-5.4 or GPT-5.5 when available]]'
 - '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
   in v3.85.0]]'
+- '[[Changes/Superwhisper/2026-05-25-support-for-parakeet-local-models-on-arm-based-processors|Support
+  for Parakeet local models on ARM based processors]]'
+- '[[Changes/AnythingLLM/2026-05-26-11-model-support-changes-in-v1-13-0|11 Model Support
+  changes in v1.13.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-05-26-0-2-0-3e226658|kimi-code-2026-05-26-0-2-0-3e226658]]'
 source_type: kimi_code_changelog
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes in v3.85.0]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-11-model-support-changes-in-v1-13-0|11 Model Support changes in v1.13.0]]
 - Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-2-model-support-changes-in-kimi-code-0-3-0|2 Model Support changes in Kimi Code 0.3.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6717e36108813f2700f29c8f544bc19598c0297450aa2c168b54b3c8f6589784
+machine_hash: bf0c0b2ad0405954afbbb41a61f629f55f25fafbf5c61c0799d1579a75da4d4d
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Agent Mode changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-custom-agents-can-do-the-post-meeting-work-for-you|Custom
-  Agents can do the post-meeting work for you]]'
 - '[[Changes/Notion/2026-09-15-on-the-go-use-the-notion-agents-ios-app|On the go?]]'
+- '[[Changes/Devin/2026-09-16-agent-mode-icons-in-the-sidebar|Agent Mode Icons in
+  the Sidebar]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent
   Mode changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

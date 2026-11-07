@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d79eed505286e6bf80dd08e4234621e3010531472ad4c9b049a5c9a89a1eb2c
+machine_hash: 200c3b63be5a691e4e086a06c6cfa9b73fedd45971bd617541993c228fbccb98
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate
-  shared tool service typing to the tool support layer]]'
 - '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
   project action buttons]]'
+- '[[Changes/Raycast/2026-05-29-team-added-support-for-moving-quicklinks-and-snippets-between-personal-and-team|Team:
+  Added support for moving Quicklinks and Snippets between personal and team spaces]]'
 - "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
   Shared-chat file write protection. Access to a file through a shared chat now…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'

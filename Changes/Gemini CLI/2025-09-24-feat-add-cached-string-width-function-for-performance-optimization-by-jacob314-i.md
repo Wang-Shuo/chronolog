@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3233dea05cbfa442ef76de6948ace56d4f80630661c9e04de7d29b24593a8fdd
+machine_hash: 017deec6bb33a2ed7f4daf020024807ebd260a444dd506d536aaa6c6e59076f5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: add cached string width function for performance optimization'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8
-  Reliability and Performance changes in v0.6.29]]'
+- '[[Changes/Devin/2025-09-19-git-permissions-performance-improvements|Git permissions
+  performance improvements]]'
 - '[[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in
   CLUI]]'
 - '[[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability and Performance changes in 1.9.0]]
-- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5 Reliability and Performance changes in v0.6.31]]
+- Later: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-improved-memory-usage-estimation-used-for-model-loading-guardrails|Improved memory usage estimation used for model loading guardrails]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7307f33bbde1b31f517a22bde02d06030f385835b8ccb49c50efde002e39095b
+machine_hash: a3e9a69bbdf95bc18094b21541e60f8d3e884e5bfa7bf04f61a356356c47bafa
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,11 @@ record:
   title: 'feat: add GPT-6 Astra model support'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
-  workspace-level AI model training setting]]'
 - '[[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse
   every model, and see which is best for the job]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
   Model Support changes in v1.0.85]]'
+- '[[Changes/Krea/2026-09-16-org-wide-usage-reporting|Org-wide Usage reporting]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13 Model Support changes in v1.0.85]]
+- Earlier: 2026-09-16 · Krea · [[Changes/Krea/2026-09-16-org-wide-usage-reporting|Org-wide Usage reporting]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support changes in v2.1.274]]
 <!-- chronolog:end -->
 

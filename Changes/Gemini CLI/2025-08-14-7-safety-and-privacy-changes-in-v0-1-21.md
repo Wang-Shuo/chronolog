@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 227a060d61c54572b2c720a4630511a7f0235a091f9d3eddb3183b5f75b8d7f1
+machine_hash: 8315b73c0aa3705d6716c478e4b0a5dd5dce05e5329a308caf8905f42586dfde
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,8 +55,7 @@ record:
   title: 7 Safety and Privacy changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
-  changes in 1.7.2]]'
+- '[[Changes/Devin/2025-08-12-vpc-repo-indexing|VPC Repo Indexing]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety
   and Privacy changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure
@@ -118,7 +117,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-08-13 · Gemini CLI · [[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure sandbox build script is cross-platform]]
-- Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source link) docs: document writable_roots…]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-update-security-ui-to-match-all-other-settings-by-ashikaanand12-in-https-github|Update Security UI to match all other Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 000a8ad9d8a9f246a50b828b4527b5c662497bd88194e20126407fbb66c6e1a3
+machine_hash: e38f7548cb0f78909171c275b21efdbcf330daa1372da2352432baac25e2be44
 product: notion
 product_name: Notion
 record:
@@ -67,10 +67,10 @@ record:
   title: Streamlined new design
   type: change
 related_changes:
-- '[[Changes/Notion/2021-12-23-hey-you-thanks-for-supporting-notion-this-year-for-our-last-update-of-2021-the-t|Hey,
-  you! Thanks for supporting Notion this year]]'
 - '[[Changes/Notion/2022-02-08-embed-content-from-hex-deepnote|Embed content from
   Hex & Deepnote]]'
+- '[[Changes/Raycast/2022-02-09-store-discover-top-extensions|Store: Discover top
+  extensions]]'
 - '[[Changes/Descript/2022-02-23-improvements-bug-fixes|Improvements & bug fixes]]'
 source_release: '[[Releases/Notion/notion-2022-03-15-https-www-notion-com-releases-2022-03-15-19f1dccb|notion-2022-03-15-https-www-notion-com-releases-2022-03-15-19f1dccb]]'
 source_type: notion_changelog
@@ -113,7 +113,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2022-02-23 · Descript · [[Changes/Descript/2022-02-23-improvements-bug-fixes|Improvements & bug fixes]]
-- Later: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-1-page-limit-for-database-relations|1-page limit for database relations]]
+- Later: 2022-05-04 · Raycast · [[Changes/Raycast/2022-05-04-raycast-for-teams-beta|Raycast for Teams (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

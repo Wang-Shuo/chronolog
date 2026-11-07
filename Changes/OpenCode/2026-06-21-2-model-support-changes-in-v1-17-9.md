@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f116f07b8fc85ec1c125e5e1cfe25855fce3d663a1a54346b06cc94e668161c
+machine_hash: a0f30f78b840216ea6347e9abc5c2e4bb4c96d1acc71ea1c20f2091b2d695e48
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v1.17.9
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
-  ai model mapping fix]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
+- '[[Changes/Recraft/2026-06-19-recraft-v4-1-models-now-generate-twice-as-fast-in-as-little-as-6-seconds-v4-1-pr|Faster
+  generations]]'
 - '[[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed
   the Enhance Prompt button from the composer, since the models ask clarifying…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-21-v1-17-9-47e8ce83|opencode-2026-06-21-v1-17-9-47e8ce83]]'

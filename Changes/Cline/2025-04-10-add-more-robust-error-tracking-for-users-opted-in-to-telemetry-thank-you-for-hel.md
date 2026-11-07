@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d040fd7d128270a51585981d5b83f21a53df7b7272a338278eb92ac86bc70271
+machine_hash: 1ce9431f327bcf8efcdc4cec182b16a3f4b4679b68067b230603d3f2b5dfdfa9
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Add more robust error tracking for users opted in to telemetry…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add
-  improvements to file mention searching for faster searching]]'
-- "[[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|\U0001F9F0
-  General Backend Refactoring]]"
+- '[[Changes/Devin/2025-04-08-use-devin-s-analysis-to-get-up-to-speed-or-just-click-the-provided-link-to-have|Use
+  Devin''s analysis to get up to speed, or just click the provided link to have…]]'
 - '[[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability
   and Performance changes in 1.2.0]]'
+- '[[Changes/Raycast/2025-04-09-2-reliability-and-performance-changes-in-raycast-macos-v1-1-95-0|2
+  Reliability and Performance changes in Raycast macos-v1 1.95.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-10-v3-11-0-github-211490526-e01be860|cline-2025-04-10-v3-11-0-github-211490526-e01be860]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability and Performance changes in 1.2.0]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-2-reliability-and-performance-changes-in-raycast-macos-v1-1-95-0|2 Reliability and Performance changes in Raycast macos-v1 1.95.0]]
 - Later: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve the performance of event retrieval in OpenHands, particularly…]]
 <!-- chronolog:end -->
 

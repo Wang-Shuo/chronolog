@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 596794bbe46b0306cfcc754dea88cbe043ba89252b57a4b07853518002080086
+machine_hash: b05dd63e439a2c3eee07902cbad2ff50082804fce59e6c4b99f92aa62912866c
 product: cursor
 product_name: Cursor
 record:
@@ -61,12 +61,12 @@ record:
   title: Turn it into a real repo, whenever you want
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-updated-copilot-notebooks-ux-web-microsoft-365-copilot|Updated
-  Copilot Notebooks UX Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified
   web and work chat experience with dedicated Work IQ button Windows…]]'
 - '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
   Experience changes in v0.11.1]]'
+- '[[Changes/AnythingLLM/2026-08-27-however-this-had-the-unintended-side-effect-of-canceling-inference-when-navigati|However,
+  this had the unintended side effect of canceling inference when navigating…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor Experience changes in v0.11.1]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-however-this-had-the-unintended-side-effect-of-canceling-inference-when-navigati|However, this had the unintended side effect of canceling inference when navigating…]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
 <!-- chronolog:end -->
 

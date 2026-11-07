@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e7500097e7091f0248064721aebbde62311c0f4e9b3ce5b63944153f5aec6bd6
+machine_hash: c4cc1f5061cabff2df1088f77211a441bb87a61e7c45925508c67e36c3b48cb3
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -48,8 +48,7 @@ record:
   title: Regenerate response for alternative answers [Web] (Microsoft 365 Copilot)
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
-  3 music models for your app''s AI features]]'
+- '[[Changes/Raycast/2026-10-05-auto-model-7d9429|Auto Model]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
 - '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini

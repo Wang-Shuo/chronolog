@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffd523216634f42725928d4427e499aa49234a328bd4c3ce7d279ca178b26796
+machine_hash: e54cf09984acc57e982262c784c1b36c048464a28c309ab9571b572750a2b092
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,9 @@ record:
   title: 4 Safety and Privacy changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-7-safety-and-privacy-changes-in-rust-v0-118-0|7
-  Safety and Privacy changes in rust-v0.118.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-31-2-safety-and-privacy-changes-in-v1-0-14|2
-  Safety and Privacy changes in v1.0.14]]'
+- '[[Changes/Wispr Flow/2026-03-31-security-privacy-desktop|Security & Privacy (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-03-31-banking-app-privacy-protection-50-apps-globally-android|Banking
+  App Privacy Protection (50+ Apps Globally) (Android)]]'
 - '[[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety
   and Privacy changes in v2.1.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'

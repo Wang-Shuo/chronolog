@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b782b2ac628c863f80db869283c30bd0e31acef444d99991613e6fc1ac1f9cf
+machine_hash: b575a39a9bc3817c73acf7052ae1bda89dc842b5daa53646d0680a37ce330c3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Pasted and clipboard images are read without blocking the event loop
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
-  started by background automations no longer disappear from the sidebar list]]'
 - '[[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2
   Automation and Scheduling changes in v1.11.0]]'
 - '[[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Devin/2026-08-12-negated-string-operators-in-automation-conditions|Negated
+  String Operators in Automation Conditions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-negated-string-operators-in-automation-conditions|Negated String Operators in Automation Conditions]]
 - Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore: bump SDK deps…]]
 <!-- chronolog:end -->
 

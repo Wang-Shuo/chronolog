@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e105254507b2302ad4c59dae1bd5089c548847e376cd8ef1967d025a15dd69f8
+machine_hash: af3cece98e4f9871058cb418154f5eec8709d29082b04391de2ad1db6b8fa987
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,11 @@ record:
   title: 3 Model Support changes in v3.34.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-3-model-support-changes-in-rust-v0-48-0|3 Model
-  Support changes in rust-v0.48.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
   prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
 - '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
+- '[[Changes/Superwhisper/2025-10-24-3-model-support-changes-in-superwhisper-macos-2-6-3|3
+  Model Support changes in Superwhisper macOS 2.6.3]]'
 source_release: '[[Releases/Cline/cline-2025-10-27-v3-34-1-github-257652345-ef5f96f4|cline-2025-10-27-v3-34-1-github-257652345-ef5f96f4]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.34.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-24 · Runway · [[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]
+- Earlier: 2025-10-24 · Superwhisper · [[Changes/Superwhisper/2025-10-24-3-model-support-changes-in-superwhisper-macos-2-6-3|3 Model Support changes in Superwhisper macOS 2.6.3]]
 - Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]
 <!-- chronolog:end -->
 

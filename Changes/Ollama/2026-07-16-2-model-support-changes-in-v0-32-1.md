@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b33c850515cee818dc453192ad57c82708efc1c0144c79a868e958cfeae0590
+machine_hash: 6d0ab644789a0b4ed6f9a52392a8f84a5945c8c0a6e275761c80e28b80ec5bb4
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.32.1
 ## Nearby in Model Support
 
 - Earlier: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model Support changes in Kimi Code 0.25.0]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view|AI Settings : Added default reasoning effort settings to models view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

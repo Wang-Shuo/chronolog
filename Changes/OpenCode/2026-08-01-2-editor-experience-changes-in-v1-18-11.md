@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12c16d8577b2b205b49dc727bb68149afb2883c40b47899076c89f29f93ec7a6
+machine_hash: 7bbaf7e4a25a6b5f55fbe4b92f3c41936df79d4ad917f0ccb301e7c77ea37b84
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,11 @@ record:
   title: 2 Editor Experience changes in v1.18.11
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-30-remove-the-blocking-block-timeout-wait-from-the-taskoutput-tool-so-checking-a-ba|Remove
-  the blocking block/timeout wait from the TaskOutput tool so checking…]]'
 - '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
   the owner of several projects at once]]'
 - '[[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor
   Experience changes in v1.18.10]]'
+- '[[Changes/Devin/2026-07-31-redesigned-changes-tab|Redesigned Changes Tab]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-01-v1-18-11-fe6c9c73|opencode-2026-08-01-v1-18-11-fe6c9c73]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -82,7 +81,7 @@ Source: https://opencode.ai/changelog/v1.18.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor Experience changes in v1.18.10]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-redesigned-changes-tab|Redesigned Changes Tab]]
 - Later: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]
 <!-- chronolog:end -->
 

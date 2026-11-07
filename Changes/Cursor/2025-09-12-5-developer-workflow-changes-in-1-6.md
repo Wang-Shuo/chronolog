@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0c3853bba6ac0c7252aa3acd38d33373da41b9f994d4f99cc75b87311eafd68
+machine_hash: 60c4d7d79f0f4b80c3e0420703ab8c930df3bd1e7d50782ca1017e259d3e9c1a
 product: cursor
 product_name: Cursor
 record:
@@ -103,7 +103,7 @@ Source: https://cursor.com/changelog/1-6
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer Workflow changes in v0.6.28]]
-- Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
+- Later: 2025-09-12 · Raycast · [[Changes/Raycast/2025-09-12-ai-use-askai-as-fallback-command-in-search|AI: Use AskAI as fallback command in search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

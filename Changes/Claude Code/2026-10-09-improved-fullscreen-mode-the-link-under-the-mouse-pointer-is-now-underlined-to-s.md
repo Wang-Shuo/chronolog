@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0071f05494c1b42610d574e0af26d3cff240fc0bf5f9ea0ce4fc82f0538e7e23
+machine_hash: d1de60dbfd1f173ae2efa146356a6e313ccb61db28e5ba1dcbb7628e2cc19e5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e): open Commits from the tabs pane's own menu]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface Experience changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-secrets-sheets|Secrets sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

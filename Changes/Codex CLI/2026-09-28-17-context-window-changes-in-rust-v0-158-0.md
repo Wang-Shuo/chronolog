@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f24fbf34fcff99edfedc438c3ce63a93c7ca268d7a59328a595dd79942f3165
+machine_hash: e1c8d8bf1aa201d13514936451877c76ea5c81b45496a345b730b52d9cd06f13
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,8 +76,8 @@ record:
   title: 17 Context Window changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-6-context-window-changes-in-rust-v0-157-0|6 Context
-  Window changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-child-sessions-start-with-their-parent-s-context|Child
+  Sessions Start with Their Parent''s Context]]'
 - '[[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor:
   remove test-conversation-id fallbacks in websocket context + add…]]'
 - '[[Changes/v0/2026-09-25-explore-your-project-in-the-new-lightweight-code-tab-edit-code-manage-files-and|New

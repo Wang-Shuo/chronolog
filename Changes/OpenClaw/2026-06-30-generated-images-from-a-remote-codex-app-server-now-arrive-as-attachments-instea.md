@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 208d7ac4855fbf04c51e20afa467dac3fcb403a5f094b7e943cae24f81030745
+machine_hash: fcda10f1e84f3da2f3428f03860c0f47b7f2df76045497d97045934d5dfcdd57
 product: openclaw
 product_name: OpenClaw
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|📱 Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image Generation changes in rust-v0.143.0]]
+- Later: 2026-07-01 · Recraft · [[Changes/Recraft/2026-07-01-we-ve-added-nano-banana-2-lite-for-image-generation-in-recraft-studio-available|Recraft adds Nano Banana 2 Lite for image generation in Recraft Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

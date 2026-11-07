@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfd688efb4feeadcca13a8a2a47da39f43552f3a7978fb63015758c58466f6b7
+machine_hash: dd2ed4ea23fd54f449f43a97ba8a7880d26d71c72e3067e4d1693b0c712609c9
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
     by asterisks
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
-  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
 - '[[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When
   running ollama run, the /show command can be used to inspect the current model]]'
 - '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
   to ChatGPT]]'
+- '[[Changes/Superwhisper/2023-08-03-added-nano-model-between-the-smallest-fast-model-and-the-standard-model|Added
+  "Nano" model, between the smallest "Fast" model and the "Standard" model]]'
 source_release: '[[Releases/Aider/aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9|aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-03 · ChatGPT · [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]]
-- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support changes in v0.0.14]]
+- Earlier: 2023-08-03 · Superwhisper · [[Changes/Superwhisper/2023-08-03-added-nano-model-between-the-smallest-fast-model-and-the-standard-model|Added "Nano" model, between the smallest "Fast" model and the "Standard" model]]
+- Later: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-gpt-4-subscription-added-an-option-to-cancel-a-subscription-on-the-account-setti|GPT-4 subscription : added an option to cancel a subscription on the account settings page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

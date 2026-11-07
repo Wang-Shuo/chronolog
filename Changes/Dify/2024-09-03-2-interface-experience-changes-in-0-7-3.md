@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86749b607ba2f5321223ab34304a427628eef77f6b926a9ee26a6644833eec43
+machine_hash: 25f3c8b3fb17b14ac48c1e203a39b4040023e2eada2ea8bba3931f3947a65067
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.3
 ## Nearby in Interface Experience
 
 - Earlier: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance improvements for autocomplete in large/mono repos]]
-- Later: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent recovers upon a llm completion exception]]
+- Later: 2024-09-03 · Superwhisper · [[Changes/Superwhisper/2024-09-03-potential-fix-for-crash-on-language-selection-in-onboarding|Potential fix for crash on language selection in onboarding]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

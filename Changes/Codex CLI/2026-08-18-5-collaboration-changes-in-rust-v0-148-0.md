@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9fb55e5cae196d3c9becdc06c9f4b26d031f01e7058948514821fc9482d528c
+machine_hash: d253e9b8a7c01b452ad9dfb870c9785fa3911213833150f2b81a3ea742076b5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,7 +48,7 @@ record:
   title: 5 Collaboration changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/Devin/2026-08-14-teams-polish|Teams Polish]]'
 - '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
   Collaboration changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-feedback-new-ask-feedback-ai-extension-to-contact-the-raycast-team|Feedback : New Ask Feedback AI Extension to contact the Raycast team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

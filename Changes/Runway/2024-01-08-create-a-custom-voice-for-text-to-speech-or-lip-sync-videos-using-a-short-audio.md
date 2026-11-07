@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf033e86ecbcb231b5b9296c60aa5ce9fab78bd01023d24171b57bb33aa96675
+machine_hash: 0f3f682e63f8f51e9395a4af0aced2a5243c6145c4cdf19f299fea841f7efff1
 product: runway
 product_name: Runway
 record:
@@ -42,11 +42,12 @@ record:
   title: Custom Voices
   type: change
 related_changes:
-- '[[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO
-  download is here]]'
-- '[[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
+- '[[Changes/Superwhisper/2023-12-14-allow-recording-from-the-system-s-audio|Allow
+  recording from the system''s audio]]'
+- '[[Changes/Superwhisper/2023-12-20-improved-downsampling-should-result-in-better-transcription|Improved
+  downsampling, should result in better transcription]]'
+- '[[Changes/Superwhisper/2023-12-20-if-language-model-enabled-dont-flash-the-transcription-result|If
+  language model enabled, dont flash the transcription result]]'
 source_release: '[[Releases/Runway/runway-2024-01-08-2024-01-08-custom-voices-0f7dc929|runway-2024-01-08-2024-01-08-custom-voices-0f7dc929]]'
 source_type: runway_changelog
 theme: voice
@@ -73,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
+- Earlier: 2023-12-20 · Superwhisper · [[Changes/Superwhisper/2023-12-20-if-language-model-enabled-dont-flash-the-transcription-result|If language model enabled, dont flash the transcription result]]
 - Later: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript for Web (Beta) adds Video, Audio, and GIF exports]]
 <!-- chronolog:end -->
 

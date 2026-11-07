@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46f26f4f2d1370d80ef24df9c760677d15bf0f81735fad9e2d45f3af8c274fdd
+machine_hash: 6a7dc6bb6a827780730afee51629a358956b67e411fde33bc4b362ef7b877b59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,9 @@ record:
     fields
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-09-sdk-fix-the-generated-sdk-and-openapi-types-for-providers-and-session-shell-resp|SDK
-  Fix the generated SDK and OpenAPI types for /providers and session shell responses]]'
-- '[[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4
-  Apps and Integrations changes in v2.1.101]]'
-- '[[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19
-  Apps and Integrations changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-personal-mcp-servers|Personal MCP Servers]]'
+- '[[Changes/Devin/2026-04-10-profile-integrations-filter|Profile Integrations Filter]]'
+- '[[Changes/Devin/2026-04-10-amplitude-mcp-server|Amplitude MCP Server]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266|github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19 Apps and Integrations changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-amplitude-mcp-server|Amplitude MCP Server]]
 - Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-migration-notice-for-vscode-mcp-json-now-includes-a-jq-command-to-migrate-your-c|Migration notice for .vscode/mcp.json now includes a jq command to migrate…]]
 <!-- chronolog:end -->
 

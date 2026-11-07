@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e206f02ce9c63bb24e2f9b6facc7da431ccd3dfe4248cfbd832dc5381ae654bd
+machine_hash: f823f7e5a87770f86fc714b8eb4a57bf42a54837eb44db309f73fe0bae112e24
 product: dify
 product_name: Dify
 record:
@@ -74,12 +74,11 @@ record:
   title: 16 Model Support changes in 0.5.10
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-03-10-4-model-support-changes-in-v0-1-111|4 Model Support
-  changes in v0.1.111]]'
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
-  Support]]'
-- '[[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes
-  in 0.5.9]]'
+- '[[Changes/Superwhisper/2024-03-15-show-api-errors-in-recording-window-when-using-cloud-models|Show
+  API errors in recording window when using cloud models]]'
+- '[[Changes/Superwhisper/2024-03-15-claude-3-haiku-added|Claude 3 Haiku added]]'
+- '[[Changes/Superwhisper/2024-03-15-make-language-model-connections-creation-more-obvious|Make
+  Language model connections creation more obvious]]'
 source_release: '[[Releases/Dify/dify-2024-03-19-0-5-10-github-147241291-79cab280|dify-2024-03-19-0-5-10-github-147241291-79cab280]]'
 source_type: github_releases
 theme: model-support
@@ -144,7 +143,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-12 · Dify · [[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes in 0.5.9]]
+- Earlier: 2024-03-15 · Superwhisper · [[Changes/Superwhisper/2024-03-15-make-language-model-connections-creation-more-obvious|Make Language model connections creation more obvious]]
 - Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
 <!-- chronolog:end -->
 

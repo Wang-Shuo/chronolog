@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcbc2b6fbc41e20a3982911bbb9eee3f0a8bbe1b1f601972ce45fb0427585d6b
+machine_hash: 497e886cd21321643824ef9abd28f6984e5336847f2e437909c7fd346dd5fb70
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     run…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-07-generate-commit-message-now-follows-your-clinerules-so-conventions-like-language|Generate
-  Commit Message now follows your .clinerules, so conventions like…]]'
-- '[[Changes/Codex CLI/2026-10-07-10-developer-workflow-changes-in-rust-v0-161-0|10
-  Developer Workflow changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-private-key-strings-are-redacted-more-aggressively|Private
+  Key Strings Are Redacted More Aggressively]]'
+- '[[Changes/Devin/2026-10-07-merge-queue-status-across-the-app|Merge Queue Status
+  Across the App]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed
   language servers stay running across LSP requests when sandboxing is disabled]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef1640a73da0a244c00d238f7a16cb7411fc7170b00a90c66f2042395dfc7932
+machine_hash: c2cb5ed315ac183f05ea781556dd95a0a798f469065618475ce2d701738af50c
 product: dify
 product_name: Dify
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Agent Mode changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
-  session restores the previously selected custom agent]]'
 - '[[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop
   Fix agent normalization in desktop app]]'
 - '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
   mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
+- '[[Changes/Devin/2026-03-27-preview-agent-toggle|Preview Agent Toggle]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: agent-mode
@@ -105,8 +104,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode changes in rust-v0.118.0]]
+- Earlier: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-preview-agent-toggle|Preview Agent Toggle]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-ai-chat-presets-are-now-called-agents-and-are-reused-if-you-change-the-configura|AI Chat: Presets are now called Agents and are reused]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

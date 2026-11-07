@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb2138c1efea80bbfd57556c09c03e22597af51095c7f0f461c045c8717aba36
+machine_hash: dc91644d196bb102f57cfb29cfad6a6049998db16ab7b021a6b18ae4efa6fc58
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall back to the built-in models.dev catalog snapshot when the public catalog…]]
-- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes in v4.1.4]]
+- Later: 2026-08-04 · Superwhisper · [[Changes/Superwhisper/2026-08-04-updates-to-models-library|Updates to Models Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

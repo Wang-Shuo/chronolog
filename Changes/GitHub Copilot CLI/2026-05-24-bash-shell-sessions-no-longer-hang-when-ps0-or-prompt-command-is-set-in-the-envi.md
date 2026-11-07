@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08b0ddb78114b23a3a708f58f4fac6755acbae37b352579d7ae8a88c7812b1f2
+machine_hash: 29aae898a4697b25b61094ba9145c64196dac19774e42a444bed380be864b8da
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,7 @@ record:
     environment
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-3-developer-workflow-changes-in-v1-15-7|3 Developer
-  Workflow changes in v1.15.7]]'
+- '[[Changes/Devin/2026-05-22-gitlab-interactive-pr-review|GitLab Interactive PR Review]]'
 - '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
   add shell command safety evals]]'
 - '[[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer

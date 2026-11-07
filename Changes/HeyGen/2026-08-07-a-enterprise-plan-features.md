@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f6b684716b1ac37021f0524b9af53b26497ad3d79f1a2bdd15a81c9631707def
+machine_hash: b6b76645942b432a122802d29ccc4c5e684bd98f8913559cbf13be5ef553800c
 product: heygen
 product_name: HeyGen
 record:
@@ -40,8 +40,8 @@ record:
   title: A) Enterprise plan features
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable
-  5 is in the model picker]]'
+- '[[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy
+  Cascade Disabled by Default for Enterprises]]'
 - '[[Changes/HeyGen/2026-08-07-2-enterprise-and-administration-changes-in-august-2026-enterprise-releases|2
   Enterprise and Administration changes in August 2026 Enterprise Releases]]'
 - '[[Changes/HeyGen/2026-08-07-heygen-has-moved-to-a-monthly-release-cadence-for-enterprise-explore-key-upcomin|HeyGen
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable 5 is in the model picker]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy Cascade Disabled by Default for Enterprises]]
 - Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email invites on paid plans]]
 <!-- chronolog:end -->
 

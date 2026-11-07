@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c68e4ee8e2f5c07d8f01fc2b384f37d0f2f401fd518978301d2ab5aa7f123376
+machine_hash: 5c82e4c4a7f6dc0e6224d4b57dfeb225e1d79ac692f6fd6f6cbff8fd90e9356f
 product: lovable
 product_name: Lovable
 record:
@@ -46,11 +46,12 @@ record:
   title: Search the template and design system pickers
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
 - '[[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep
   the web session sidebar from re-rendering on every streaming token to improve…]]'
+- '[[Changes/LM Studio/2026-06-26-2-interface-experience-changes-in-lm-studio-0-4-17|2
+  Interface Experience changes in LM Studio 0.4.17]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-26-2026-06-26-0ee85750|lovable-2026-06-26-2026-06-26-0ee85750]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep the web session sidebar from re-rendering on every streaming token to improve…]]
+- Earlier: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-2-interface-experience-changes-in-lm-studio-0-4-17|2 Interface Experience changes in LM Studio 0.4.17]]
 - Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2 Interface Experience changes in Platform API v2, MCP chat tools…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32cbf63a2487a40c8740b90296eee735c4a174dedc0647975602c28885edead8
+machine_hash: aefb5f4abf33d2f513e2527a88d810af9791ecb3ff9b487aedab57454c3267ff
 product: v0
 product_name: v0
 record:
@@ -58,12 +58,11 @@ record:
   title: Claude Opus 4.7 Fast is available as a new model option under…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support
-  changes in v1.14.50]]'
-- '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
-  changes in v2.1.143]]'
+- '[[Changes/Krea/2026-05-15-k2-is-now-available-for-pro|K2 is now available for Pro]]'
 - '[[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support
   changes in v1.14.51]]'
+- '[[Changes/Superwhisper/2026-05-15-2-model-support-changes-in-superwhisper-macos-2-14-0|2
+  Model Support changes in Superwhisper macOS 2.14.0]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: model-support
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support changes in v1.14.51]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-2-model-support-changes-in-superwhisper-macos-2-14-0|2 Model Support changes in Superwhisper macOS 2.14.0]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

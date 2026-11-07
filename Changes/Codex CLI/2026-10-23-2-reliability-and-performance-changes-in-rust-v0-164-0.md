@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cf539a165907a2f1df34d93965289c7bd88672683a28a1c432abde3d5ae2134
+machine_hash: b9a4e0ede3d7d31ce7a72ec9212eefae8b8595e6a5d6a33661cc86e4c6055b52
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
-  Reliability and Performance changes in v2.1.309]]'
-- '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
-  the same official Docker container no longer copies all its saved state…]]'
+- '[[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-windows-2-9|2
+  Reliability and Performance changes in Raycast windows 2.9]]'
+- '[[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-macos-2-9|2
+  Reliability and Performance changes in Raycast macos 2.9]]'
 - '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
   memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'

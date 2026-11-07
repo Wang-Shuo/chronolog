@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6758191769a231aaa9d29f39cfaa0e08388331410774f081877d698b846699e4
+machine_hash: e7554c13f959a59f1dffc401195ffc623678ec739ebc563e45990433f195b7da
 product: cline
 product_name: Cline
 record:
@@ -57,12 +57,12 @@ record:
   title: Adds support for [Prompt Caching](https://www.anthropic.com/news/prompt-caching)…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite
-  output for DeepSeek Coder, Mistral models in addition to Anthropic''s models]]'
 - '[[Changes/Ollama/2024-08-13-ollama-create-can-now-import-phi-3-models-from-safetensors|ollama
   create can now import Phi-3 models from Safetensors]]'
 - '[[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes
   in 0.7.0]]'
+- '[[Changes/Raycast/2024-08-14-2-model-support-changes-in-raycast-macos-v1-1-81-0|2
+  Model Support changes in Raycast macos-v1 1.81.0]]'
 source_release: '[[Releases/Cline/cline-2024-08-15-v1-2-0-github-170317303-920d4774|cline-2024-08-15-v1-2-0-github-170317303-920d4774]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes in 0.7.0]]
+- Earlier: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-2-model-support-changes-in-raycast-macos-v1-1-81-0|2 Model Support changes in Raycast macos-v1 1.81.0]]
 - Later: 2024-08-15 · Gemini · [[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini 1.5 Pro in Gemini Advanced just became more capable]]
 <!-- chronolog:end -->
 

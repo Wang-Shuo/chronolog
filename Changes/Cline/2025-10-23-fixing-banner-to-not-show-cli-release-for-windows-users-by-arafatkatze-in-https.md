@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6e6ab0671bf7f53bf84ce2ce42d571e97508ff5fb1d75433e66f4e0ef7a37df
+machine_hash: 36800f85d8863705a42cb934e791bb124ef9ce8ff99985d357cc1f3ac8ddbb62
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Fixing banner to not show CLI release for windows users
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed
-  the "Windows support is experimental" warning -- we''ve made some big strides…]]'
 - '[[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile
   and Desktop changes in rust-v0.47.0]]'
+- '[[Changes/Raycast/2025-10-17-keyboard-added-keyboard-button-switch-for-iphone-se|Keyboard
+  : Added keyboard button switch for iPhone SE]]'
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
 source_release: '[[Releases/Cline/cline-2025-10-23-v3-34-0-github-256544591-4e449228|cline-2025-10-23-v3-34-0-github-256544591-4e449228]]'

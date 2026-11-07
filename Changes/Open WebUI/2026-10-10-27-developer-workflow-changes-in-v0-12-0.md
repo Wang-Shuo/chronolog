@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c97d0206ebd5731eb0667c6f2c310d9c68f01fdbbe59ab38f60681b07b419de0
+machine_hash: 9e05547fea580851cc949bd4de4475b18bf90bd4e0d95f20e434181ff3991ce2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -194,12 +194,11 @@ record:
   title: 27 Developer Workflow changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
-  Developer Workflow changes in rust-v0.162.0]]'
-- '[[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer
-  Workflow changes in v2026.9.9]]'
 - '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
   Workflow changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-command-palette-and-find|Command palette and Find]]'
+- '[[Changes/Raycast/2026-10-09-4-developer-workflow-changes-in-raycast-windows-2-7|4
+  Developer Workflow changes in Raycast windows 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -300,7 +299,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-4-developer-workflow-changes-in-raycast-windows-2-7|4 Developer Workflow changes in Raycast windows 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer Workflow changes in v2026.10.1]]
 <!-- chronolog:end -->
 

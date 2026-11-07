@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efeb9aa95aca47de3a4f7568f251e449d20f7a200ad83da73e4a23ed0b3d5f81
+machine_hash: 82225f63167a43c0c9ffb19dbb4ffd5f45dfcf03ca81d8979c7be90d4d9ec52d
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
   title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app
-  to older projects]]'
-- '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
-  on an iOS Simulator or Android Emulator]]'
+- '[[Changes/Wispr Flow/2026-04-24-insights-see-how-you-use-flow-desktop|Insights:
+  see how you use Flow (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-04-24-auto-cleanup-choose-how-much-flow-edits-for-you-desktop|Auto
+  Cleanup: choose how much Flow edits for you (Desktop)]]'
 - '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
   Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'

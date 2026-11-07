@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ed44817b0c97c0e78b5c8769a8531b216184946b4d7eb9979ef25061537d5039
+machine_hash: 47dafb40f6b6a96647121f03aee63e42a62c5e8621718d8ec13c688b98ae7178
 product: descript
 product_name: Descript
 record:
@@ -46,8 +46,8 @@ record:
   title: Words line up with the audio more closely
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
-  Audio changes in v2026.11.1]]'
+- '[[Changes/Superwhisper/2026-11-05-import-vocabulary-and-dictation-history-from-wispr-flow-aqua-voice-typeless-and|Import
+  vocabulary and dictation history from Wispr Flow, Aqua Voice, Typeless…]]'
 - '[[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice
   and Audio changes in rust-v0.167.0]]'
 - '[[Changes/Descript/2026-11-06-2-voice-and-audio-changes-in-release-roundup-november-6-2026|2

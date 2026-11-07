@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec1ac2376047b8b7b16da874491e0b501fdbaf38e7ca647f197f0ce5bdcf116f
+machine_hash: 337be73c6cc73eab34158eec08c8772022bb5a9dfaf5c9123ba356ccedc02cf8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,8 @@ record:
   title: ⌨️ **Strikethrough shortcut conflict fix.** Pressing Ctrl+Shift+S to toggle…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified
-  composer]]'
-- '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
-  narrow terminal layout for prompt footer]]'
+- '[[Changes/Devin/2026-02-13-devin-fast-mode|Devin Fast Mode]]'
+- '[[Changes/Devin/2026-02-13-settings-search|Settings Search]]'
 - '[[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface
   Experience changes in v0.8.1]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'

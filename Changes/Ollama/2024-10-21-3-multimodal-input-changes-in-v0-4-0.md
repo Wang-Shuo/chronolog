@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a71432096a649eb65efe07b00f02b610ccf5c221b562c677afcee3af235ebdf7
+machine_hash: 7d40c8369acc28c453579ded590b2609a61dc8a519a026aa137ba75a207331b0
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Multimodal Input changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
-  and prompt caching fixes]]'
+- '[[Changes/AnythingLLM/2024-10-03-enable-mistral-multimodal-by-timothycarambat-in-https-github-com-mintplex-labs-a|Enable
+  Mistral Multimodal]]'
 - '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
 - '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
   If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
@@ -86,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.4.0
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable| If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]
-- Later: 2024-10-25 · Runway · [[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One in Gen-3 Alpha]]
+- Later: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-mac-mlx-vision-bump-mlx-vlm-version-to-0-0-15-support-qwen2vl|MacMLX Vision Bump mlx-vlm version to 0.0.15, support Qwen2VL]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1fcdc51467793de3cd21d80e83825ea201dbccfc9cd84b3d72e564c9a806e213
+machine_hash: d8ff1a4268e927ec5a7690282e2b6418083ceb6a02224ae87d8cde54671e5b2e
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Desktop Model selection now persists by session
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support
-  non-OpenAI Azure models that use completions endpoints]]'
 - '[[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core
   Fixed chunk timeout when processing LLM stream]]'
+- '[[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip
+  stray think/thought prefix lines from LLM output]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
   claude-sonnet-4.6 as the default model is now preserved correctly]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-13-v1-2-26-936b97fb|opencode-2026-03-13-v1-2-26-936b97fb]]'

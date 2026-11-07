@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99b3006eb1dce72f131cd61884cddab47dca87408ce86c029853c53a0f5770c8
+machine_hash: 607f665e168393cf6ebe85e8d4a5306032d083cc9b354d3d48b1a4cbc59343bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-14 · Midjourney · [[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks for testing our V8.0 model over the last month!]]
-- Later: 2026-04-16 · Claude · [[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-ai-gpt-5-4-mini-for-free-during-the-raycast-beta|AI : GPT-5.4 Mini for free during the Raycast Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

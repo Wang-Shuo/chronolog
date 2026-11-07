@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca0ae3a1273287a962dda1d030f4995a3e94a63a62bce4aa1e7de11f4c08017b
+machine_hash: b31e3eeba587df088d1488ff903fc3078f19aafd3703c4477dad4b147e6ce33d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.235
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
-  idle plugin sandbox processes instead of leaving them running for the life…]]'
+- '[[Changes/Devin/2026-08-14-unified-workflow-permission-preview|Unified Workflow
+  Permission Preview]]'
 - '[[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety
   and Privacy changes in v2.1.234]]'
 - '[[Changes/Lovable/2026-08-17-workspace-insights-is-now-security-insights|Workspace

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7988f5cd28809a34e18214c7f1d74856ff2caef41f7cddf9555ab66c3f6681e1
+machine_hash: 3f2ce69f8fa19dc9b615fb340f3c98204f3cde70abe49fd8f9d2b7c6dadac8d4
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Share and manage workspace skills
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
+- '[[Changes/Devin/2026-08-14-devin-local-on-by-default-for-enterprise|Devin Local
+  On by Default for Enterprise]]'
 - '[[Changes/Lovable/2026-08-14-set-up-entra-id-single-sign-on-from-the-microsoft-app-gallery|Set
   up Entra ID single sign-on from the Microsoft app gallery]]'
 - '[[Changes/Replit/2026-08-14-admin-api-available-in-beta|Admin API available in

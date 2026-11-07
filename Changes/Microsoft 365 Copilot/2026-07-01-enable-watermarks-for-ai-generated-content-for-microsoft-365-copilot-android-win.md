@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 321d7106b18c451908d7c7f7ad4543b979bc378578f468125280e9140c45cc9c
+machine_hash: 0db80f2456f83c1b1f808751414cc2b7e46f4c0c4cfecedb8dcead85c69a9be2
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -41,8 +41,8 @@ record:
   title: Enable watermarks for AI-generated content for Microsoft 365 Copilot [Android…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
-  and Desktop changes in v1.17.12]]'
+- '[[Changes/Devin/2026-07-01-cross-platform-repository-cloning|Cross-Platform Repository
+  Cloning]]'
 - '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
   for Android is here!]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-quickly-launch-the-microsoft-365-copilot-app-on-your-ios-device-ios-microsoft-36|Quickly

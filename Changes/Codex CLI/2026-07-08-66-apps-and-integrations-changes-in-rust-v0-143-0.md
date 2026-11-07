@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92249254cacc3fb9195729aa613f63bf1288814d3f34fbb2ba65c9d96fc3552e
+machine_hash: 06fdd6602aa0329acdfeb5fbcbbdc56da2311a9ab1db9b2df8e061bda411c33f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -359,7 +359,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
-- Later: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add the Vercel plugin to the bundled plugin marketplace]]
+- Later: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-mobbin-mcp-server|Mobbin MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

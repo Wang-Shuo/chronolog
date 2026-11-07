@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99beb6da855aeda1d9b7530b66e84761c4dcbfaca4ad66f0ff5b399b3a038fdd
+machine_hash: 91f3af1d8ae704eee7ba1f0eb4d7cc656d44af719e194a2a2c824b4cfa253abc
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Apps and Integrations changes in Kimi Code 0.6.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-new-command-palette|New Command Palette]]'
 - '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
   and ChatGPT connectors just got smarter]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2

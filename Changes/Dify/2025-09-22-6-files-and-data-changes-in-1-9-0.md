@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 286e862f03bf4db706a6c7bfb930fab9379434361808c01426471b884e0ad3f4
+machine_hash: f69006be350efe4fb83ebfb4df754366bbe88a63315c4cfe11f49daa3674d26a
 product: dify
 product_name: Dify
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.0
 ## Nearby in Files and Data
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-3-files-and-data-changes-in-v0-6-29|3 Files and Data changes in v0.6.29]]
-- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|📎 File upload handling was improved to properly recognize uploaded files even…]]
+- Later: 2025-09-23 · Recraft · [[Changes/Recraft/2025-09-23-we-ve-opened-a-waitlist-for-chat-mode-https-www-recraft-ai-chat-beta-utm-source|Get early access to Chat mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

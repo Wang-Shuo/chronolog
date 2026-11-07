@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 939a6c2c099f0df97d6577010ab914c298ed30d9bfca6a27dda30be4f589f2f0
+machine_hash: ffcf7f8b3cef75c7f3eed9ca2c6842405708ee0e59a6c0714ad9a446b7f6ac90
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Developer Workflow changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-12-2-developer-workflow-changes-in-0-5-9|2 Developer Workflow
-  changes in 0.5.9]]'
-- '[[Changes/Dify/2024-03-29-some-optimization-for-admin-api-key-create-tenant-and-reset-encrypt-key-pair-com|some
-  optimization for admin api key, create tenant and reset-encrypt-key-pair command]]'
-- '[[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore:
-  replace outdated config in vscode debug settings]]'
+- '[[Changes/Raycast/2024-04-24-2-developer-workflow-changes-in-raycast-macos-v1-1-72-0|2
+  Developer Workflow changes in Raycast macos-v1 1.72.0]]'
+- '[[Changes/Raycast/2024-05-08-if-you-re-running-raycast-1-69-or-1-70-please-make-sure-to-manually-update-the-a|⚠️
+  If you’re running Raycast 1.69 or 1.70, please make sure to manually update…]]'
+- '[[Changes/Raycast/2024-05-08-typing-practice|Typing Practice]]'
 source_release: '[[Releases/Aider/aider-2024-05-10-v0-34-0-github-155287564-5b4274fa|aider-2024-05-10-v0-34-0-github-155287564-5b4274fa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore: replace outdated config in vscode debug settings]]
-- Later: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat: support copy run text result in debug panel in workflow]]
+- Earlier: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-typing-practice|Typing Practice]]
+- Later: 2024-05-13 · Devin · [[Changes/Devin/2024-05-13-command-history|Command History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1f56fb62c9626b5ebc01ca8498a618b4e9fac190b5abc08a7e9f820a2d3ec484
+machine_hash: 5af095ac870e0257d021d822e8cf18cbd148a5643db364c83718288284a42e06
 product: qoder
 product_name: Qoder
 record:
@@ -47,12 +47,12 @@ record:
     along…'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
-  in 1.17.1]]'
-- '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
-  your Lovable invite link from your phone]]'
 - '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
   changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea|Tasks
+  like these cost more to run than a single question, which is why this release…]]'
+- '[[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea-58f43c|Tasks
+  like these cost more to run than a single question, which is why this release…]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-12-0-2-5-3d17b336|qoder-2026-09-12-0-2-5-3d17b336]]'
 source_type: qoder_changelog
 theme: pricing-model
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea-58f43c|Tasks like these cost more to run than a single question, which is why this release…]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]]
 <!-- chronolog:end -->
 

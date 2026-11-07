@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04514efabdf1976020fe24f8e4449c6784d41d3c5947dc3a8982b4136759ec0f
+machine_hash: 97bd2004d1fff74d2a3d1b6737d17b97829cba643897288be9ff0fcdba2cf725
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#10340 Session picker shows thread_name if set @pap-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2
-  Interface Experience changes in rust-v0.94.0]]'
+- '[[Changes/Devin/2026-02-03-devin-review-file-comments-and-mentions|Devin Review:
+  File Comments and @Mentions]]'
 - '[[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test:
   enhance HitTestingPage tests with additional coverage for rendering and state…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-inserting-new-line-with-shift-enter-keybinding-in-vs-code-integrated-terminal|Inserting

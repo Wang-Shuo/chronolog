@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7de0c70cf70636a6e2cebdca59d59ff0c6f1e177902d22e0417a08f136dbfe06
+machine_hash: 9466737affd3d1525daaa5e86df7dad6fff5c220922d4694b71a74467506bc0d
 product: cline
 product_name: Cline
 record:
@@ -51,7 +51,7 @@ record:
   title: New README and got a cool domain for the project https://cline.bot (wip)
   type: change
 related_changes:
-- '[[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]'
+- '[[Changes/Devin/2024-09-26-introducing-devin-for-teams|Introducing Devin for Teams]]'
 - '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
   this release, we’re truly showcasing the power of Dify!]]'
 - '[[Changes/Descript/2024-10-08-data-sharing-is-disabled-for-enterprise-drives|Data

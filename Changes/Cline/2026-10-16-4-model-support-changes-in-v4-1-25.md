@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61c811ddfdd5be5cc867ec68b687830ca9242853a3d51026dbc79917396e2bd8
+machine_hash: b2351006c1879cd5247ea224725a8f3af228f5b64443e37cfab1a29805432935
 product: cline
 product_name: Cline
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.25
 ## Nearby in Model Support
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved the message when a background session reopened from another folder has no…]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support changes in v0.12.3]]
+- Later: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-topaz-starlight-fast-3-video-enhancer|Topaz Starlight Fast 3 video enhancer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

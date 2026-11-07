@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1b2d7a9a5a7376d8a76fb7b1a83b6db7ef895d235da088c263153159c6e47104
+machine_hash: f0423a82cf7f9a10f45ea3fcc18b009a27f36f8a1661152c185313062a2195de
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,7 @@ record:
   title: Relocate shared tool service typing to the tool support layer
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
-  sharing]]'
+- '[[Changes/Devin/2026-05-17-copyable-organization-id|Copyable Organization ID]]'
 - '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
   changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'

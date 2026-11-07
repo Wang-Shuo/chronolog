@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 67009b653c64428ed0ae42207bee14a2e59ea6bd2d06db54f7243d2f2fa8d183
+machine_hash: f89bcd253573df88ba106b4ca1e2c053ddb1e968303f86c00206bcffbf03172f
 product: descript
 product_name: Descript
 record:
@@ -49,11 +49,11 @@ record:
   title: Welsh transcription now available in Beta
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-07-voice-management-a4407c|Voice Management]]'
-- "[[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|\U0001F50A
-  Azure Text-to-Speech now properly escapes special characters like ampersands…]]"
 - '[[Changes/Descript/2025-10-09-import-files-from-other-projects-beta|Import files
   from other projects (beta)]]'
+- '[[Changes/Raycast/2025-10-14-custom-keyboard|Custom Keyboard]]'
+- '[[Changes/Raycast/2025-10-17-2-voice-and-audio-changes-in-raycast-ios-1-1-1|2 Voice
+  and Audio changes in Raycast ios 1.1.1]]'
 source_release: '[[Releases/Descript/descript-2025-10-23-68faa249aae7b47cd5e72ea1-b70e43a4|descript-2025-10-23-68faa249aae7b47cd5e72ea1-b70e43a4]]'
 source_type: canny_changelog
 theme: voice
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-10-09 · Descript · [[Changes/Descript/2025-10-09-import-files-from-other-projects-beta|Import files from other projects (beta)]]
+- Earlier: 2025-10-17 · Raycast · [[Changes/Raycast/2025-10-17-2-voice-and-audio-changes-in-raycast-ios-1-1-1|2 Voice and Audio changes in Raycast ios 1.1.1]]
 - Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

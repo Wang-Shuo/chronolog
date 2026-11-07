@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f26c73d059a3efc35ea8232aa18eff7c103c15b8ffdf2f74c9c3d23b02d591ae
+machine_hash: a17cf3a1ce8cceae58b52602135e616264ac82829860ac2368d082961b46fcf6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
     working…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-2-agent-mode-changes-in-v2-1-285|2 Agent Mode
-  changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai|♯48190
   Bound agent message board SSE frames before parsing @jif-oai]]'
 - '[[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode
   changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-devin-as-a-native-jira-agent|Devin as a Native Jira
+  Agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode changes in v2.1.286]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-devin-as-a-native-jira-agent|Devin as a Native Jira Agent]]
 - Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-message-subagents-directly-export-markdown-as-pdf-and-conversation-only-undo|Message subagents directly, export Markdown as PDF, and conversation-only undo]]
 <!-- chronolog:end -->
 

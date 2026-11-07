@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8681777b0d243fe2c873e5cc4ebde761d6e8798620d5aa68957e21afc1fa70f0
+machine_hash: ea444d9a1b4dd2f4a21674ba6a51aba3ee3647640dace84d6148b21e79b1c835
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,8 +65,8 @@ record:
   title: 12 Safety and Privacy changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
-  Safety and Privacy changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-apple-shortcuts-fixed-missing-apple-shortcuts-and-improve-fallback-when-shortcut|Apple
+  Shortcuts : Fixed missing Apple Shortcuts and improve fallback when Shortcuts…]]'
 - '[[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding
   to an agent prompt for an environment variable, permission, question…]]'
 - '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety

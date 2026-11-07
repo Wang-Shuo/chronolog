@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4dd07c2886756b46a0cb5dee1f94b8ae6c9b80674bcb7419cca90515483d7d7
+machine_hash: 8e499acc9834dba67fe3a30d9d45ad4aeb55507cdc2fd4670dfa03ddccae9ce2
 product: descript
 product_name: Descript
 record:
@@ -47,12 +47,11 @@ record:
   title: Auto-correct capitalization and punctuation while editing
   type: change
 related_changes:
-- '[[Changes/Descript/2020-04-14-we-automatically-and-invisibly-add-5ms-fades-crossfades-between-clips-the-only-t|We
-  automatically (and invisibly) add 5ms fades/crossfades between clips]]'
-- '[[Changes/Descript/2020-05-06-published-tab-shows-all-published-pages-by-default|"Published"
-  tab shows all published pages by default]]'
 - '[[Changes/Descript/2020-11-10-we-ve-made-it-so-that-you-can-now-single-click-to-edit-a-file-name-in-the-media|Single-click
   to edit filenames]]'
+- '[[Changes/Raycast/2020-11-11-preferences-we-ve-added-a-new-shiny-about-tab|Preferences:
+  We’ve added a new shiny About tab]]'
+- '[[Changes/Raycast/2020-11-19-feature-previews|Feature Previews]]'
 source_release: '[[Releases/Descript/descript-2020-12-17-5fdb66557113ad51c30091f6-a2469f57|descript-2020-12-17-5fdb66557113ad51c30091f6-a2469f57]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-we-ve-made-it-so-that-you-can-now-single-click-to-edit-a-file-name-in-the-media|Single-click to edit filenames]]
+- Earlier: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-feature-previews|Feature Previews]]
 - Later: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-now-you-can-edit-the-name-of-a-page-directly-on-the-page-just-open-up-the-share|Edit Page names on the page]]
 <!-- chronolog:end -->
 

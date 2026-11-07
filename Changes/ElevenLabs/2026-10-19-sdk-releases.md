@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 844dc8b2a783572ef595015f9f0879200618009a0ef42e3b3b7cbb4b1bff7ebf
+machine_hash: 1707be88fecfe4bd0bcdbd03037f2b766001d0581f7c43cbe98f4e00922efa41
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
-  icons no longer fail to load in project settings]]'
-- '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
-  and Integrations changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
+- '[[Changes/Devin/2026-10-19-propose-edits-to-shared-plugins-and-skills|Propose Edits
+  to Shared Plugins and Skills]]'
+- '[[Changes/Devin/2026-10-19-devin-oncall-is-now-generally-available|Devin Oncall
+  Is Now Generally Available]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-devin-oncall-is-now-generally-available|Devin Oncall Is Now Generally Available]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10 Apps and Integrations changes in v1.0.100]]
 <!-- chronolog:end -->
 

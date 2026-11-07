@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07cfeab01ee341235c158c88f8c1d9539ec1d76394ead49a479481e8bc171fdf
+machine_hash: fc07cf9ef8a7590c5efa25455c126cdba931bb27665e8c694e822002ee83aaa6
 product: ollama
 product_name: Ollama
 record:
@@ -40,8 +40,8 @@ record:
   title: Added Hermes Desktop configuration docs
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop
-  Improved the home empty state and fixed V2 font usage]]'
+- '[[Changes/Raycast/2026-05-29-snippet-expansion-finally-comes-to-ios-use-your-favorite-keyword-across-the-rayc|Snippet
+  Expansion finally comes to iOS]]'
 - "[[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|\U0001F97E
   Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]"
 - '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf

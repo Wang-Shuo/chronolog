@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93285c319caf0bfa9ed077f45594decf6fc2acbaa5e0e9b53ea6f87afdea58db
+machine_hash: 515d7ea2537d0193d1cf8150532775c2d4a11fee8db968d2a2e356285fb2e37b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -67,10 +67,9 @@ record:
   title: 6 Files and Data changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas
-  actions can now return images to the model in invoke_canvas_action]]'
 - '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
   Data changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-slack|Slack]]'
 - '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
   Data changes in v1.26.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'

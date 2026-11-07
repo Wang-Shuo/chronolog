@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 44e7bcb923f7c086c453bf520ae7ebe59cd537a5be7d925bc12bcdcff34229ec
+machine_hash: 91f984dd63086703780d6e2e8e8d9c2a0328857e75a63dbe8f5f6f4e354a5fed
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,10 +47,10 @@ record:
   title: Basic Instructions
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New
-  menu to open previous conversations to quickly switch conversations]]'
 - '[[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown
   Rendering Fixes]]'
+- '[[Changes/Raycast/2025-06-11-apps-can-also-be-minimised-with-the-hotkey|Apps can
+  also be minimised with the hotkey]]'
 - '[[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation
   Panel Optimization]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-06-16-https-updates-midjourney-com-style-references-for-v7-6244cc70|midjourney-2025-06-16-https-updates-midjourney-com-style-references-for-v7-6244cc70]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 423b1f77ff109a638772e686beaed0c2aa662d7249590d6a75bf1b454378dad1
+machine_hash: 30bf3df3cb49268d149d353ba597898b017719176671e7cf6761c7dfb491c8e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,7 +57,7 @@ record:
   title: 6 Developer Workflow changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
+- '[[Changes/Devin/2026-04-08-auto-merge-from-devin-review|Auto-merge from Devin Review]]'
 - '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
   Workflow changes in v0.37.0]]'
 - '[[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal

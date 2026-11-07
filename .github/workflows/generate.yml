@@ -21,7 +21,7 @@ jobs:
       pull-requests: read
     # Keep browser system dependencies on an OS supported by the pinned Playwright.
     runs-on: ubuntu-24.04
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:

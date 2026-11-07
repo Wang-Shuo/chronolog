@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2aafbf6ca145ff84dbf8e82b80a06cfc7d36ce608feb10084eaffc0eb5ee7c5
+machine_hash: f783e0c62950189559d3d7075baff1fdf3332f47b9dc3e9158bd372791bf1483
 product: aider
 product_name: Aider
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.19.0
 ## Nearby in Model Support
 
 - Earlier: 2023-12-19 · Ollama · [[Changes/Ollama/2023-12-19-6-model-support-changes-in-v0-1-17|6 Model Support changes in v0.1.17]]
-- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-11-model-support-changes-in-0-4-0|11 Model Support changes in 0.4.0]]
+- Later: 2023-12-20 · Superwhisper · [[Changes/Superwhisper/2023-12-20-show-output-from-language-model-as-it-outputs|Show output from language model as it outputs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

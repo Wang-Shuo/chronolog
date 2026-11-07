@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 67c9333bd8eebebc78170eb07270dbd738bf0b37638b2e01e54b81d85b94b1fc
+machine_hash: f5dc6e4c167771f49ba18358a9f5aeb3466c4266d24dc6bb314df0e086b6d206
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: Display cache-write pricing for models that omit it
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
-  Lovable about your workspace’s credit usage]]'
+- '[[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower
+  API pricing for Recraft V4.1 models]]'
 - '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
   can now show and redeem earned usage-limit reset credits…]]'
 - '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
-- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes in 1.15.0]]
+- Later: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-acu-billing-schedule-warning|ACU Billing Schedule Warning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

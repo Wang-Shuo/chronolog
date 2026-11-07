@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 048824b0fc64c47749c3025e06250b13834f3dc8fbbdb8e11b523c55ad319845
+machine_hash: 88868e771a2a8e3244578a75316169110a825465eef03f1c173da3c39b5226c5
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Generate files and analyze data
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
-  Data changes in v0.8.11]]'
 - '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
   in 1.13.3]]'
+- '[[Changes/AnythingLLM/2026-04-02-feat-auto-select-newly-uploaded-docs-urls-in-my-documents-list-by-nehaaprasad-in|feat
+  : auto-select newly uploaded docs/URLs in my documents list]]'
 - '[[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported
   file types: PPT, PPTX, PDF (max 50MB)]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-02-2026-04-02-7ad85f39|lovable-2026-04-02-2026-04-02-7ad85f39]]'

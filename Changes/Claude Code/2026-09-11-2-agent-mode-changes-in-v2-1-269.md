@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2768095f95725f155f40f4d5a6ee516a33233591e573bbdf23f2564ef5ad47d0
+machine_hash: 278aade020c863baad5fa32494f553acae3391dd52037efdd304db9fb2126738
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
-- '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
-  in 1.17.1]]'
+- '[[Changes/Krea/2026-09-10-krea-agent-is-open-on-every-plan|Krea Agent is open on
+  every plan]]'
+- '[[Changes/Krea/2026-09-10-free-agent-credits-through-september-15|Free Agent credits
+  through September 15]]'
 - '[[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent
   Brand Kits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'

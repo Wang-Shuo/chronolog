@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7064dcd6eac4a9d0e9b8a8662b782cc43e672f9afa54d82c3273a9f57462fe1f
+machine_hash: 7fd452d37fdbb87bcc83f8faba9414d54151759fb1305aefda27d65e2f6e6970
 product: notion
 product_name: Notion
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved the speed of displaying page history versions with a lot of content
   type: change
 related_changes:
-- '[[Changes/Notion/2020-12-08-the-api-is-now-in-private-beta-sign-up-for-access-to-the-public-beta-in-early-20|The
-  API is now in private beta!]]'
-- '[[Changes/Descript/2020-12-17-we-ve-added-a-bunch-of-performance-and-playback-improvements-especially-on-longe|Descript
-  adds a bunch of performance and playback improvements, especially on longer…]]'
+- '[[Changes/Raycast/2021-01-20-calculator-a-lot-of-improvements-around-fractions-time-unit-phrases-clock-times|Calculator
+  : A lot of improvements around fractions, time unit phrases, clock times…]]'
 - '[[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback
   Speed controls on embedded videos]]'
+- '[[Changes/Raycast/2021-04-06-file-search-finds-more-results-for-partial-search-terms-and-has-improved-perform|File
+  Search : Finds more results for partial search terms and has improved…]]'
 source_release: '[[Releases/Notion/notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15|notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback Speed controls on embedded videos]]
-- Later: 2021-07-16 · Synthesia · [[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match to script]]
+- Earlier: 2021-04-06 · Raycast · [[Changes/Raycast/2021-04-06-file-search-finds-more-results-for-partial-search-terms-and-has-improved-perform|File Search : Finds more results for partial search terms and has improved…]]
+- Later: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-my-schedule-improved-performance-by-fetching-only-events-of-the-next-month-inste|My Schedule: Improved performance by fetching only events of the next month instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

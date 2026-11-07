@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7b14c494d0ac411110179470eb4c5c03725f73703f753cd1f1f8521a24806ba
+machine_hash: e2e4bd105d076945bc8e2d3055907561c76a915476956d1e2704e4af4a2e3bcf
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved `/feedback` reports to include the conversation that happened before…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable
-  status line in the terminal footer displays session info such as model…]]'
 - '[[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core
   Zed editor context now only activates inside Zed terminals]]'
+- '[[Changes/Raycast/2026-05-20-core-allow-running-several-instances-of-raycast-with-different-users-in-the-cont|Core:
+  Allow running several instances of Raycast with different users in the context…]]'
 - '[[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context
   Window changes in rust-v0.133.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 02071055eec0074c83a3f0f4c31c8029e6c8cbe575cb38f590a4f35008957564
+machine_hash: cbe7ad335a690270cfd1b17dbfe96d3e393da48cc19bdd224eaf093c08b1fe0c
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,10 +49,9 @@ record:
   title: Please Note
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
-  /model to warn before switching models mid-conversation, since the next…]]'
 - '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
   the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]'
 - '[[Changes/Midjourney/2026-04-14-what-s-next|What’s next?]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41|midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41]]'
 source_type: midjourney_changelog
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
+- Earlier: 2026-04-14 · Krea · [[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 

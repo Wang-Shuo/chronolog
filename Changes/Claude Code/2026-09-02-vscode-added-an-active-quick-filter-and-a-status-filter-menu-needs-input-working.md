@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74b63bcb572b166bf8ddd20376918e38da18b2c7e7c28267508046037a2aa8cd
+machine_hash: 747dbabae75ffc6f48970efaea6db4ad010532eadc5e384e9ee41cf14f137633
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: '[VSCode] Added an Active quick filter and a status filter menu…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
-  project groups no longer show in the sidebar]]'
-- '[[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface
-  Experience changes in v2026.8.2]]'
+- '[[Changes/Raycast/2026-09-01-3-interface-experience-changes-in-raycast-macos-2-1|3
+  Interface Experience changes in Raycast macos 2.1]]'
+- '[[Changes/Raycast/2026-09-01-your-favorite-emojis-are-now-just-a-away-type-followed-by-an-emoji-name-to-open-ef74c6|Your
+  favorite emojis are now just a : away]]'
 - '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
   you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If you prefer the typical Git workflow, you can still create and merge pull requests…]]
-- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-dragging-to-select-a-region-of-an-image-for-a-comment-now-updates-the-selection|Dragging to select a region of an image for a comment now updates the selection…]]
+- Later: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-new-sidebar-grouping-and-filters|New Sidebar Grouping and Filters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

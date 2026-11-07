@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4380f9d1c6fd730eca9b3d648f3f9aa75c95d3cf79a57e6d4ceb4f396494a30f
+machine_hash: 5b172dc2919d675f2de67bc1ab8abdddd768096fcc4b7a82234e88a872191a3f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'docs: migrate installation and authentication to mdx with tabbed layouts'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
-  Account and Access changes in v1.0.35]]'
 - '[[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account
   and Access changes in v0.9.2]]'
+- '[[Changes/Raycast/2026-04-27-ai-models-are-now-refreshed-after-sign-in|AI: Models
+  are now refreshed after sign-in]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'

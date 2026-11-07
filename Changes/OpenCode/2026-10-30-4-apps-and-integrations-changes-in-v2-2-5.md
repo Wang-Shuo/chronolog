@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ec574b211b5a87392e1cdaad53d602c1a2f11243f8dbf1474c30f11ea205a87
+machine_hash: 06c503d507f2bdce87cccd98ea19b4b29c91c6b61732757083c7d8b5ca7bc848
 product: opencode
 product_name: OpenCode
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Apps and Integrations changes in v2.2.5
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-3-apps-and-integrations-changes-in-v2-2-2|3 Apps
-  and Integrations changes in v2.2.2]]'
-- '[[Changes/OpenCode/2026-10-29-5-apps-and-integrations-changes-in-v2-2-1|5 Apps
-  and Integrations changes in v2.2.1]]'
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-remediation-and-search-in-the-api-and-devin-mcp|Remediation
+  and Search in the API and Devin MCP]]'
+- '[[Changes/Devin/2026-10-30-personal-plugins-live-reload-into-running-sessions|Personal
+  Plugins Live-Reload into Running Sessions]]'
+- '[[Changes/Devin/2026-10-30-header-scripts-for-mcp-servers-on-the-session-machine|Header
+  Scripts for MCP Servers on the Session Machine]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -99,7 +99,7 @@ Source: https://opencode.ai/changelog/v2.2.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-header-scripts-for-mcp-servers-on-the-session-machine|Header Scripts for MCP Servers on the Session Machine]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-sdk-extended-client-experimental-persistentpty-update-to-rename-terminals-or-cle|SDK Extended client.experimental.persistentPty.update to rename terminals or clear…]]
 <!-- chronolog:end -->
 

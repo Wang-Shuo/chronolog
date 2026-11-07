@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edb1b0c86ed32586145679965f51d9994990397c0535770737025b99dba63948
+machine_hash: 33e27196d74f08134eff0cdb054cf65c67f5b64c16137805bc5d35ae6a66be17
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,7 @@ record:
   title: 2 Interface Experience changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
-  a domain out to another registrar]]'
+- '[[Changes/Devin/2026-06-05-playbook-devin-mode|Playbook Devin Mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
   Interface Experience changes in v1.0.60]]'
 - '[[Changes/OpenCode/2026-06-05-terminal-mo-now-prefers-the-models-command-in-slash-autocomplete|Terminal

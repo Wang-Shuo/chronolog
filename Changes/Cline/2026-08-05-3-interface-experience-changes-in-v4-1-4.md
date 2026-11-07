@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8df4d776b759d87186e58f31908ba7c909f40a60cd8db7182333e822f3cf69ab
+machine_hash: ce5e660001a3118f260905abdb4825982a92df892c356347329114318f21b13c
 product: cline
 product_name: Cline
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode Added Focus view]]
-- Later: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web: Pin sessions to the top of the sidebar]]
+- Later: 2026-08-05 · Devin · [[Changes/Devin/2026-08-05-linear-reconnect-action|Linear Reconnect Action]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

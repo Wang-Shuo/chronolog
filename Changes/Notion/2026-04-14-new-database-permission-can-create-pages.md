@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8684f7e8f2fdf5f57ccb7bdf673ef1fc02d431536495618fa463de29c39ce3e8
+machine_hash: aee6dfee9b22baa04d9119aec0c3554f5e75dcc816e61b7bc3181ec6c9ec03aa
 product: notion
 product_name: Notion
 record:

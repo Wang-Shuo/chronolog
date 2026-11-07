@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ee7d4d4b96b0068deec66b1634ca6bdb2c09635f3a3db7fae4b9a0800d0dfc5
+machine_hash: ee2ee4c0cc927409f3a50d44ad193a8239e5b88e2c728f6633879ae7f166ab71
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-packages|Packages]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and Audio changes in v0.9.3]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-dictation-brings-fast-accurate-voice-to-text-to-raycast-on-mac-press-your-hotkey|Dictation brings fast, accurate voice-to-text to Raycast on Mac]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

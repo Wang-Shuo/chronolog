@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a11c6fb7f04989f0af78c35dd5a69641c9441dd4ebb4dd3545f4576a7b5f8f0
+machine_hash: 7b1910a5c96e603dc75436f86890a51d15e60b60b5d5214ddf330c22ecb6147a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Model Support changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-29-4-model-support-changes-in-kimi-code-0-6-0|4 Model
-  Support changes in Kimi Code 0.6.0]]'
+- '[[Changes/LM Studio/2026-05-29-cuda-added-tensor-parallelism-support-for-multi-gpu-model-loading|CUDA
+  Added tensor parallelism support for multi-GPU model loading]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
 - '[[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core

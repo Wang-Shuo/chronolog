@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 155b5b4593eccf8584da0d0d281f22681c57ba16c76b1bca3161fe46040b6067
+machine_hash: 689cf534ac73618788304e7fdca0a9c31a79c388690c52acffd2e4948e07fca0
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-core-improve-error-handling-for-built-in-plugin-installation-failures|Core Improve error handling for built-in plugin installation failures]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]]
+- Later: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-widgets-prevented-widgets-from-resetting-to-an-empty-state-when-using-action-ext|Widgets: Prevented widgets from resetting to an empty state when using action extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d6d4a66c4dc3289932af9002bdb4959ced6f5acbfad923894bc67ba8a5d08d7c
+machine_hash: 3a877a3a7df615d856f946da9fed265dc675c9fb59db6b96fd2050cf22c94bfb
 product: descript
 product_name: Descript
 record:
@@ -46,12 +46,12 @@ record:
   title: How to access Eleven Labs V3
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes
-  in 1.8.0]]'
-- '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
-  in v3.26.6]]'
 - '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
   changes in v0.6.26]]'
+- '[[Changes/Recraft/2025-08-28-we-ve-added-a-new-external-model-nano-banana-available-to-paid-subscribers-only|Recraft
+  adds a new external model — Nano Banana]]'
+- '[[Changes/Recraft/2025-08-28-how-to-edit-with-nano-banana|How to edit with Nano
+  Banana]]'
 source_release: '[[Releases/Descript/descript-2025-08-29-68b1e395b74af4d306806f9e-cb74db75|descript-2025-08-29-68b1e395b74af4d306806f9e-cb74db75]]'
 source_type: canny_changelog
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support changes in v0.6.26]]
+- Earlier: 2025-08-28 · Recraft · [[Changes/Recraft/2025-08-28-how-to-edit-with-nano-banana|How to edit with Nano Banana]]
 - Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model Support changes in rust-v0.28.0]]
 <!-- chronolog:end -->
 

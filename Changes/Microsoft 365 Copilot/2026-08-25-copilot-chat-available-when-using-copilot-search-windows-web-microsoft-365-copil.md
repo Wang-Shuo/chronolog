@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f9545db4a2c865845609644532d0707312682a45792a3d62ab74f034392299a0
+machine_hash: 3165d2c2ec327688853f939280f197fcef1882b59e89c450e08f37df18ef8e52
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -58,8 +58,8 @@ record:
     365 Copilot)
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
+- '[[Changes/Raycast/2026-08-19-game-launcher-new-game-launcher-command-to-browse-every-installed-game-and-launc|Game
+  Launcher : New Game Launcher command to browse every installed game…]]'
 - '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
   Enabled web search when using the OpenCode Go provider]]'
 - '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop

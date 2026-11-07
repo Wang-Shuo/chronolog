@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9c7891379706396e3b402925a328b898be8c22a01b01356814d2cc944501f8b2
+machine_hash: 19136fff28fb19595e20fbeea2260051fc9e2c05b34fc75fe19b1066b211a516
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,9 +58,9 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
 - '[[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-01-29-4-agent-mode-changes-in-v1-4-0|4 Agent Mode changes
+  in v1.4.0]]'
 - '[[Changes/Replit/2025-01-31-more-performant-agent-in-asia|More performant Agent
   in Asia]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-02-04-2025-02-04-7d131b98|elevenlabs-2025-02-04-2025-02-04-7d131b98]]'

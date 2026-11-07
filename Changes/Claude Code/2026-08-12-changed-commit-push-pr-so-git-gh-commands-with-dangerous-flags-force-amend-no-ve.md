@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c455051fbe0398187e106977b48d732ddf6962bde2cbb27df1e81801d42f33f
+machine_hash: 093edf088e5f016a35be373023ce9fd0b3e6d0bbb6ed6e2546c64e88f052c3e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer Workflow changes in v0.55.1]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote Control: the terminal now says whether a session was taken over by another…]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-command-palette-session-search-pagination|Command Palette Session Search Pagination]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

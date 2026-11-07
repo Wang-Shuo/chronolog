@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d424693a1ee2c80cb67d0a9d36f477ae086704cdaea3118d2f558e9829f9a53
+machine_hash: a4a0f07d246185ab7c444307d9abcb390849d2f6909dbf902c36de0b7dc3d6ba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,8 +86,8 @@ record:
   title: 20 Voice and Audio changes in rust-v0.155.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
+- '[[Changes/Devin/2026-09-16-live-voice-mode|Live Voice Mode]]'
 - '[[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate
   B-roll with Flux 3 from Black Forest Labs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'

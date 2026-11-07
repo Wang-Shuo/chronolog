@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8568a75926031cedae9a924064d8203c8d93c744dfdda9d6531201f16b722c5
+machine_hash: fedf2dae58d4b6b2cb367d3c0154d37df20feb91a65d349c8a58010928b1c5ba
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-03 · Cline · [[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update VS Code extension dependencies to resolve security issues…]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users]]
+- Later: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-settings-improvements|Settings Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 390d3cdd9f6a1f9ebf1a3cd68ca27ac397b22305b5ec5142b884966b60934412
+machine_hash: 44c8d27f942ced3ded35eef8136a28365742d61a18878eb1d65555295a0342a0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,10 +46,10 @@ record:
     immediately…
   type: change
 related_changes:
-- '[[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini
-  Omni Flash]]'
 - '[[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early
   access: Gemini Omni Flash live in Synthesia]]'
+- '[[Changes/Recraft/2026-07-01-we-ve-added-gemini-omni-flash-for-video-generation-in-recraft-studio-available-t|Recraft
+  adds Gemini Omni Flash for video generation in Recraft Studio]]'
 - '[[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline
   in Agent]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c3ff2d703900fd209dad4fc538d32e7bea2579fed3d43d983d0296e4d7c0ea67
+machine_hash: d2ce4682042c1c5df214b4b87b72ad4c877ba61c51df7ed830d31d92db463cbb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,8 +56,8 @@ record:
   title: Text to Voice
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|\U0001F50C
-  Audio service timeout handling. Audio transcription and text-to-speech…]]"
+- '[[Changes/Superwhisper/2026-02-13-add-microphone-select-to-tray-menu-only-available-with-enhanced-audio-enabled|Add
+  microphone select to tray menu (only available with Enhanced Audio enabled)]]'
 - '[[Changes/Open WebUI/2026-02-16-resource-handle-cleanup-file-handles-are-now-properly-closed-during-audio-transc|♻️
   Resource handle cleanup. File handles are now properly closed during audio…]]'
 - '[[Changes/ElevenLabs/2026-02-23-javascript-sdk|JavaScript SDK]]'

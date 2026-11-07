@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2da5ad234816897013747febc2f2e54868b8f7d01677058f66e526b0f788aef
+machine_hash: 70daf18ea41f824fdee6baf1284cdb03070800e031ff611d1c46635642dd2a07
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,11 @@ record:
   title: 4 Apps and Integrations changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
-  Tailwind CSS IntelliSense to the recommended extensions list]]'
-- '[[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps
-  and Integrations changes in v0.6.10]]'
+- '[[Changes/Raycast/2025-05-21-4-apps-and-integrations-changes-in-raycast-macos-v1-1-99-0|4
+  Apps and Integrations changes in Raycast macos-v1 1.99.0]]'
 - '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
   integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/Devin/2025-05-22-deepwiki-mcp-server|DeepWiki MCP Server]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -110,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]
+- Earlier: 2025-05-22 · Devin · [[Changes/Devin/2025-05-22-deepwiki-mcp-server|DeepWiki MCP Server]]
 - Later: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-5-apps-and-integrations-changes-in-1-4-1|5 Apps and Integrations changes in 1.4.1]]
 <!-- chronolog:end -->
 

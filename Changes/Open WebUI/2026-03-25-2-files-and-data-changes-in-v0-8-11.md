@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32557505c82804440b969d9e6ecb31dd0cad4b6f8aff1a25955a9928662f3417
+machine_hash: 72af94e82471342d480985065bad84140bbf3904ba27d4897cb8299d08dd1aa2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Files and Data changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data
-  changes in 1.13.1]]'
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
-  document planning workflows with Conductor example]]'
+- '[[Changes/AnythingLLM/2026-03-18-feat-add-document-count-indicators-to-workspace-document-management-modal-by-ang|feat:
+  Add document count indicators to workspace document management modal]]'
+- '[[Changes/Recraft/2026-03-19-we-ve-added-node-based-workflows-in-beta-each-step-is-a-node-connect-nodes-to-de|Beta:
+  Node-based workflows]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
   document npm deprecation warnings as safe to ignore]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'

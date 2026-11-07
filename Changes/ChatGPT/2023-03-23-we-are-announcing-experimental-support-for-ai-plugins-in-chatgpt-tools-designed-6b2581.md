@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b5e52cae072b696ca81e577b398f92f56488e132f9f10d67a4b53edf1da93c53
+machine_hash: 1fa08dfadfdba8a551ae98de1857bb0b1306d81975fa46621f6701ca574486dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,10 @@ record:
   title: We are announcing experimental support for AI plugins in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements
-  to Synced Databases with Jira and GitHub]]'
-- '[[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect
-  Notion’s “People” property in Synced Databases for GitHub and Jira]]'
+- '[[Changes/Raycast/2022-12-15-2-apps-and-integrations-changes-in-raycast-macos-v1-1-45-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.45.0]]'
+- '[[Changes/Raycast/2023-02-22-flight-tracker-you-can-now-enable-disable-flight-tracker-detection-in-settings-y|Flight
+  Tracker: You can now enable/disable Flight Tracker detection in settings]]'
 - '[[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects
   created using our Zapier integration now create Storyboard projects]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'

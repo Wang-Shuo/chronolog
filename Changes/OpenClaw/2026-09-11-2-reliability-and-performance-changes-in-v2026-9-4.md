@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dae7fb98c03cf1a9d7b3fe9abb99ca570c085f576cecbe69a7c38ead317e077
+machine_hash: 1a33575e77697b43e6ef546280927802500c18fb4c57184e405f92e0224ef90b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -114,7 +114,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved responsiveness in long sessions]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved terminal rendering performance]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views|Extensions : Improved performance when displaying large extension views]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

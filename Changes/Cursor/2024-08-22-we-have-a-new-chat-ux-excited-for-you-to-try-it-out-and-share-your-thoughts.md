@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3827adc352ab96d54d2a89bbc9938a003e0ed3d4555320f24d34aa0c364af2c0
+machine_hash: 42b9e0917c6cf596cbae958f0ca68acee26e8546810902a2c348e320962d4e2e
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: We have a new chat UX!
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience
-  changes in 0.7.0]]'
-- "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
-  Enhanced Markdown Rendering]]"
+- '[[Changes/Raycast/2024-08-14-window-management-added-support-for-resizing-fullscreen-windows|Window
+  Management: Added support for resizing fullscreen windows]]'
+- '[[Changes/AnythingLLM/2024-08-19-improve-search-of-document-picker-by-shatfield4-in-https-github-com-mintplex-lab|Improve
+  search of document picker]]'
 - '[[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface
   Experience changes in v0.3.14]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'

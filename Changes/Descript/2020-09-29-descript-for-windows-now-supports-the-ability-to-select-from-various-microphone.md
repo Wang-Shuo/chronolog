@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7890a7a23ec89d2cf0529ba18fe22cf34d14420267022d8422b7b9d4092c2dc3
+machine_hash: bb3128619cfeccd03a076e102becbf592b51dbcb7eeea50397cf82743637f4be
 product: descript
 product_name: Descript
 record:
@@ -48,12 +48,11 @@ record:
   title: (Windows) Additional Support for ASIO and DirectSound driver options
   type: change
 related_changes:
-- "[[Changes/Notion/2020-06-09-2-mobile-and-desktop-changes-in-inline-math|2 Mobile
-  and Desktop changes in Inline math \U0001F9EE]]"
 - '[[Changes/Notion/2020-09-02-reduced-vibration-intensity-for-haptic-feedback-on-android-and-disabled-vibratio|Reduced
   vibration intensity for haptic feedback on Android, and disabled vibration…]]'
 - '[[Changes/Notion/2020-09-17-shift-return-is-now-supported-on-ipad-use-this-to-create-a-line-break-within-the|Shift
   + return is now supported on iPad!]]'
+- '[[Changes/Raycast/2020-09-22-asana|Asana]]'
 source_release: '[[Releases/Descript/descript-2020-09-29-5f57a6fab63726427362d74a-47389893|descript-2020-09-29-5f57a6fab63726427362d74a-47389893]]'
 source_type: canny_changelog
 theme: mobile-desktop
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2020-09-17 · Notion · [[Changes/Notion/2020-09-17-shift-return-is-now-supported-on-ipad-use-this-to-create-a-line-break-within-the|Shift + return is now supported on iPad!]]
+- Earlier: 2020-09-22 · Raycast · [[Changes/Raycast/2020-09-22-asana|Asana]]
 - Later: 2020-09-29 · Notion · [[Changes/Notion/2020-09-29-write-your-notes-by-hand-on-ipad|Write your notes by hand on iPad ✍️]]
 <!-- chronolog:end -->
 

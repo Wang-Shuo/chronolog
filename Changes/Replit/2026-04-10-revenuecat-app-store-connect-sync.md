@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cc553ea6c9f2c96f3f9def934c68a7ec6d139dc7fa1b704e927058f12f879681
+machine_hash: 886f526827441f7a8355e98caf407527dc7890d44f898a585890c6ea423b7183
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,7 @@ record:
   title: RevenueCat App Store Connect sync
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19
-  Apps and Integrations changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-amplitude-mcp-server|Amplitude MCP Server]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-pretooluse-hooks-now-respect-modifiedargs-updatedinput-and-additionalcontext-fie|preToolUse
   hooks now respect modifiedArgs/updatedInput, and additionalContext fields]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-migration-notice-for-vscode-mcp-json-now-includes-a-jq-command-to-migrate-your-c|Migration

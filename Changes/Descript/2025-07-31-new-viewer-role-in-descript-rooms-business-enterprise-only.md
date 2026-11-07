@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5e69b384998cda5b8f70e2da2f455fa664cb4b46d5c44c295f773e6bc710327a
+machine_hash: 063d28ec16cc8567cb8eb438e34aed1648f7fc1d691215b276b549e62b88a0a2
 product: descript
 product_name: Descript
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
-- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-enterprise|Enterprise]]
+- Later: 2025-08-06 · Devin · [[Changes/Devin/2025-08-06-enterprise-api-key-governance|Enterprise API Key Governance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

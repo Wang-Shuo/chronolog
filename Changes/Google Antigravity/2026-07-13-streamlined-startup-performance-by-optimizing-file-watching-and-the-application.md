@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd0c9397bdcd159abc5d8bb224568cbe6290c8d9a66f3f3426448e8a67589681
+machine_hash: d398f263c7fab554e16735c94c155eb34c22dcd3805ebc26d25a74a012b2f3bf
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,10 +43,10 @@ record:
   title: Streamlined startup performance by optimizing file watching and the application…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
-  binary downloads now stream to disk instead of buffering in memory…]]'
 - '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
   WebSockets continue using the low-latency transport while respecting…]]'
+- '[[Changes/Raycast/2026-07-09-2-reliability-and-performance-changes-in-raycast-windows-0-68|2
+  Reliability and Performance changes in Raycast windows 0.68]]'
 - '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-13-rel-hub-2-3-0-3267f493|google-antigravity-2026-07-13-rel-hub-2-3-0-3267f493]]'
 source_type: antigravity_changelog

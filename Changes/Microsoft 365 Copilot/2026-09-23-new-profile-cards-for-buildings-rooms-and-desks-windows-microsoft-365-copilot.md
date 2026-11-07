@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aad47d2d4c49823900a1356cb22c8dfcae7928083dc56a385d940752eab484a7
+machine_hash: 4de0d5fa3c15834d22886e65f27bce15c6eb41c5a5b0ad8c10656da132ead001
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -49,10 +49,9 @@ record:
     Copilot)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
-- '[[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt
-  actions in interactive widgets and HTML artifacts now fill in and focus…]]'
+- '[[Changes/Devin/2026-09-23-richer-autoreview-triggers|Richer Autoreview Triggers]]'
+- '[[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every
+  Scan]]'
 - '[[Changes/Microsoft 365 Copilot/2026-09-23-copilot-enhanced-topic-assignment-web-viva-glint|Copilot
   Enhanced Topic Assignment Web (Viva Glint)]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-09-23-2026-09-23-6719e501|microsoft-365-copilot-2026-09-23-2026-09-23-6719e501]]'
@@ -107,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every Scan]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 

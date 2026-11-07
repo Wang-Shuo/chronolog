@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 36bd205c6b21eefd60c968ccfc7c28add74fa46491b96dc29a285aa82c86f997
+machine_hash: 0f5bb9f706628e2493d41891b876b3785bed9bed77cb8dddf637cd618d32e336
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     shared systems
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
-  and Privacy changes in v2.1.20]]'
 - '[[Changes/Codex CLI/2026-01-27-2-safety-and-privacy-changes-in-rust-v0-92-0|2 Safety
   and Privacy changes in rust-v0.92.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
   and Privacy changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-allow-creating-permission-tokens-without-allowed-mcp-permissions|Allow
+  creating permission tokens without allowed MCP permissions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety and Privacy changes in v0.26.0]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-allow-creating-permission-tokens-without-allowed-mcp-permissions|Allow creating permission tokens without allowed MCP permissions]]
 - Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core Allow media-src data: URL for small audio files in Content Security Policy]]
 <!-- chronolog:end -->
 

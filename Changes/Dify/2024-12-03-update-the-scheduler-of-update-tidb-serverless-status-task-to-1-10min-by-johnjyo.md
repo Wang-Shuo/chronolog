@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ad607063eb53856c14f16bcc6d8c66f164810402aacd23bb018f89485122b97
+machine_hash: 17aa700f1fb5f0e58a03d0abaecc268e4f1e39dec321e15b4ffe1d9a263508bb
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: update the scheduler of update_tidb_serverless_status_task to 1/10min
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-19-enhanced-automatic1111-settings-users-can-now-configure-cfg-scale-sampler-and-sc|\U0001F527
-  Enhanced AUTOMATIC1111 Settings]]"
 - '[[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions
   with formulas]]'
 - '[[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now
   send emails]]'
+- '[[Changes/Devin/2024-11-01-programmatically-create-devin-sessions-and-retrieve-results-including-structured|Programmatically
+  create Devin sessions and retrieve results…]]'
 source_release: '[[Releases/Dify/dify-2024-12-03-0-13-0-github-188658250-1aa233f6|dify-2024-12-03-0-13-0-github-188658250-1aa233f6]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now send emails]]
+- Earlier: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-programmatically-create-devin-sessions-and-retrieve-results-including-structured|Programmatically create Devin sessions and retrieve results…]]
 - Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-automate-1-000-workflows-with-webhook-actions|Automate 1,000+ workflows with webhook actions]]
 <!-- chronolog:end -->
 

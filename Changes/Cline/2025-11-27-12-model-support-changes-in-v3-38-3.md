@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa656d97d0a519a6b566a6992c1a9f45bd217953df1cdd9f406b72df520a1206
+machine_hash: 0dee921720a2628715bf7537a5743689d2c6ebcf7c8265c09a5bd7d860c16c72
 product: cline
 product_name: Cline
 record:
@@ -69,12 +69,12 @@ record:
   title: 12 Model Support changes in v3.38.3
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-6-model-support-changes-in-1-10-1|6 Model Support changes
-  in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support
   changes in v0.18.0]]'
 - '[[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro
   & image generation support]]'
+- '[[Changes/Superwhisper/2025-11-26-2-model-support-changes-in-superwhisper-macos-2-7-0|2
+  Model Support changes in Superwhisper macOS 2.7.0]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: model-support
@@ -134,7 +134,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.38.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro & image generation support]]
+- Earlier: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-2-model-support-changes-in-superwhisper-macos-2-7-0|2 Model Support changes in Superwhisper macOS 2.7.0]]
 - Later: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4 Model Support changes in ElevenLabs updates — 2025-11-27]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a44857f51c75bd37c1622d1a4d8ab2d845e75552571e1225234485c9ca3d5b6
+machine_hash: 7c2a805fa6df1a1e60ef00d5e9753b702416b7c80ca9c9010ad071a76467d946
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in v0.32.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
-  Temporary chat params preservation. Model parameters are now correctly saved…]]"
+- '[[Changes/Raycast/2026-03-02-misc-updated-design-for-reasoning-creativity-setting|Misc
+  : Updated design for reasoning / creativity setting]]'
 - '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
   Instant Update]]'
 - '[[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore

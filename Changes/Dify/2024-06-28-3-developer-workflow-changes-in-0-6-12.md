@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50eceeeb9b99e4f480f20b3d603ede92aeb6eee7893eb6c1dc2687d29ac3412f
+machine_hash: 3a0998c5d19e8e12e8f575774e085df2abe47907e31818f9158a7aa30bde4849
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in 0.6.12
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer
-  Workflow changes in v0.38.0]]'
+- '[[Changes/Raycast/2024-06-19-quit-all-applications-the-command-now-includes-raycast-windows-by-default-you-ca|Quit
+  All Applications : The command now includes Raycast windows by default]]'
 - '[[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit
   messages are no longer prefixed with "aider:"]]'
 - '[[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer

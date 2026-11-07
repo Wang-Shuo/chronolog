@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94a8b0c0358ec99d9f467e3dbbf81468fbb4bb1b99ec6eace18558128d1c6e98
+machine_hash: a21919e9692c8ca534db0871ab4337b0a2c2c02ce27bc1f3f8a807c2b597f8f0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -74,8 +74,8 @@ record:
   title: 12 Automation and Scheduling changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
-  Automation and Scheduling changes in v0.25.0]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-help-you-automate-repetitive-work-in-seconds-pick-a-pre-made-command|AI
+  Commands help you automate repetitive work in seconds]]'
 - '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
   automations]]'
 - '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
@@ -142,7 +142,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]]
-- Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]]
+- Later: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-scheduled-devins|Scheduled Devins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

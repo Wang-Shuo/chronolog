@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 71be14fb692ff7e4077ef8cec31a26be99cf26b386300c3680f804af56fee314
+machine_hash: bb22345fe52cb2ef70588af370351c8ef79a093fcd19ed543c8abcc1794d576b
 product: runway
 product_name: Runway
 record:

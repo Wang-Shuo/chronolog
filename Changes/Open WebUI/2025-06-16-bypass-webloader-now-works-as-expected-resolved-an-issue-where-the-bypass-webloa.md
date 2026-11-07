@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e81046249d23ce81c5bd0080799f1ba4929eeac906dbbdeb1e3a0f806bee472
+machine_hash: 60d2a02b1af61bf7341f0cf0ae3db71791f941fb3b81d9c19a233b9bf3ba4774
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: "\U0001F310 **Bypass Webloader Now Works as Expected**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
-  and web search can now parse PDFs and include in context]]'
 - '[[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace
   UI Update]]'
+- '[[Changes/Raycast/2025-06-11-removed-system-settings-links-from-appearing-in-file-search-results|Removed
+  system settings links from appearing in file search results]]'
 - '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
   upgraded ChatGPT search for all users to provide even more comprehensive…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|open-webui-2025-06-16-v0-6-15-github-225589258-f1066959]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c660afc0d4db49c056c246222dce769f43ff765b1a82b7c1b7e4e9d9f6df542e
+machine_hash: b2faecf37d24b3ff147114894cadf299a568b533c8e8a4320874c9661d2990cf
 product: dify
 product_name: Dify
 record:
@@ -53,12 +53,11 @@ record:
   title: 6 Pricing Model changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
-  can now show and redeem earned usage-limit reset credits…]]'
 - '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
   screen redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
   cache-write pricing for models that omit it]]'
+- '[[Changes/Devin/2026-06-24-acu-billing-schedule-warning|ACU Billing Schedule Warning]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: pricing-model
@@ -115,7 +114,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display cache-write pricing for models that omit it]]
+- Earlier: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-acu-billing-schedule-warning|ACU Billing Schedule Warning]]
 - Later: 2026-06-25 · Lovable · [[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let Lovable debug and improve your app's AI features]]
 <!-- chronolog:end -->
 

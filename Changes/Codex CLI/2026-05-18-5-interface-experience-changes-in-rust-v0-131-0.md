@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9b0dbcdf56cd8a8b3e6b5f24594bb3dd5d54f038b679462797b7fa1fe9caafd
+machine_hash: 3bbf0336e7528cbdc21a7d685171ae7eea807522c4e33effa8b90a0f994585a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,10 @@ record:
   title: 5 Interface Experience changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
-  the menu bar on Linux and Windows]]'
-- '[[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2
-  Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]'
 - '[[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal
   Added pinned sessions with quick-switch slots in the session picker]]'
+- '[[Changes/Devin/2026-05-17-collapsible-session-folders|Collapsible Session Folders]]'
+- '[[Changes/Devin/2026-05-17-archive-all-sessions|Archive All Sessions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: interface-experience
@@ -103,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal Added pinned sessions with quick-switch slots in the session picker]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-archive-all-sessions|Archive All Sessions]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-github-button-in-editor-top-navigation-the-github-https-docs-lovable-dev-integra|GitHub button in editor top…]]
 <!-- chronolog:end -->
 

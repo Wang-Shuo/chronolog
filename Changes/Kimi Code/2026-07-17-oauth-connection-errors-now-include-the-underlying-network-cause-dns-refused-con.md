@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f578a0dd183ffb44551b3b855bfdd0a8a65692476371f82cd43e657345f478f5
+machine_hash: ab41b3613923c38d026f1f31510719fdd009b6657022030f9caa03e86ff14e9c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,10 +44,10 @@ record:
   title: OAuth connection errors now include the underlying network cause…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent
-  web search and fetch now tell users to run ollama signin when authentication…]]'
 - '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
   the auth status panel title from "Cloud authentication" to "Authentication"]]'
+- '[[Changes/Devin/2026-07-17-this-release-also-includes-improved-bulk-secret-import-with-name-validation-expa|This
+  release also includes improved bulk secret import with name validation…]]'
 - '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
   Access changes in 1.16.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-17-0-27-0-8b0abd7a|kimi-code-2026-07-17-0-27-0-8b0abd7a]]'

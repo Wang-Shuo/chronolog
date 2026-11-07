@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c05db29c28d8799c8082338e58dcda97b31abca53ac80e16f40435db09c3f22b
+machine_hash: 4487dd2ac42e77030f4c40813a9397260165b25e6aa7381f723aed1c2665f8f7
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,11 @@ record:
     to sign…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
-  and Access changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
 - '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
   the web OAuth login dialog so the order of steps is unambiguous]]'
+- '[[Changes/Devin/2026-06-19-gitlab-user-identity-linking|GitLab User Identity Linking]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: account-access
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign the web OAuth login dialog so the order of steps is unambiguous]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-gitlab-user-identity-linking|GitLab User Identity Linking]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
 <!-- chronolog:end -->
 

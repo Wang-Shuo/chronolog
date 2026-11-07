@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 901f5c3f8dfb192b713d31d949b976c65761c2b96c85046267c182ac63010c73
+machine_hash: 67cc6719b05e845619ae39b3e14b352c68a68f4f53cecc2a3af27ac66845c81d
 product: runway
 product_name: Runway
 record:
@@ -58,10 +58,10 @@ record:
   title: Runway MCP for Grok Bot
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan
-  3.0]]'
 - '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
   speaker attribution for dubbed videos]]'
+- '[[Changes/Krea/2026-09-07-compute-estimates-before-you-generate|Compute estimates
+  before you generate]]'
 - '[[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing
   Runway Plugins for Adobe]]'
 source_release: '[[Releases/Runway/runway-2026-09-17-2026-09-17-runway-mcp-for-grok-bot-c4458f21|runway-2026-09-17-2026-09-17-runway-mcp-for-grok-bot-c4458f21]]'

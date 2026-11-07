@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02bc8f6a767151198dd0d47389513a1ff34baae5a83fced26f0b72743038ea0e
+machine_hash: 29eebab6985043fe6cdc01d093ffef5ddb2c13c3de94a326e4c21c0e2433e6cc
 product: v0
 product_name: v0
 record:
@@ -100,7 +100,7 @@ Source: https://v0.app/changelog#2026-06-08
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8 Apps and Integrations changes in rust-v0.139.0]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-apply-universal-sdk-timeout-by-timothycarambat-in-https-github-com-mintplex-labs|apply universal sdk timeout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

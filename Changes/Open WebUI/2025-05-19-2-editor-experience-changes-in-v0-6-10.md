@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb2e3163b04037eff096ba4231d5efc04800429926b49d22070bbae59a8e777f
+machine_hash: 00be6ef70245582dfa9adc3b86770a18d035da97f06e14fd4171807287787f54
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,7 +47,8 @@ record:
   title: 2 Editor Experience changes in v0.6.10
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
+- '[[Changes/Devin/2025-05-15-enhanced-codebase-intelligence-deepwiki-built-in|Enhanced
+  Codebase Intelligence (DeepWiki Built-in)]]'
 - '[[Changes/Dify/2025-05-15-ci-add-diff-to-lint-ci-by-yihong0618-in-https-github-com-langgenius-dify-pull-17|ci:
   add diff to lint ci]]'
 - '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
@@ -94,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.10
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]
-- Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-2-editor-experience-changes-in-lm-studio-0-3-16|2 Editor Experience changes in LM Studio 0.3.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

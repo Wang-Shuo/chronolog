@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be1937f38eac3070500e9060bcafac32cacbf3591879968e7287075cd1bdaa17
+machine_hash: b971539b8f9954de121105ce78827ba7b0ddbda4edc0c706597a928001fa53bf
 product: gamma
 product_name: Gamma
 record:
@@ -52,7 +52,8 @@ record:
   title: Search Performance
   type: change
 related_changes:
-- '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
+- '[[Changes/Superwhisper/2024-02-08-stability-improvements-for-local-language-models|Stability
+  improvements for local language models]]'
 - '[[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets
   page is ~1.5x faster]]'
 - '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
@@ -88,7 +89,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref: optimize add hit count query performance when dataset hit]]
-- Later: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance improvements (up to 2x) when running…]]
+- Later: 2024-02-21 · Raycast · [[Changes/Raycast/2024-02-21-2-reliability-and-performance-changes-in-raycast-macos-v1-1-68-0|2 Reliability and Performance changes in Raycast macos-v1 1.68.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

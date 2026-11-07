@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccf8383b20c4177618604d3d4d51c6205612d54ef02d48704da8080469cfdb7c
+machine_hash: 85883902ef124239c757cd9d3b28fb3d0b3a7ed1ab079372ed84f65290b45a9d
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in 0.8.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and
-  Privacy changes in 0.8.1]]'
+- '[[Changes/AnythingLLM/2024-07-26-3-safety-and-privacy-changes-in-v1-0-0|3 Safety
+  and Privacy changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-fix-update-swebenchsshbox-after-global-config-was-removed-from-sandbox-by-rajwor|FIX
   Update SWEBenchSSHBox after global config was removed…]]'
 - '[[Changes/Aider/2024-07-31-resolved-permission-issues-when-using-docker-run-user-xxx|Resolved

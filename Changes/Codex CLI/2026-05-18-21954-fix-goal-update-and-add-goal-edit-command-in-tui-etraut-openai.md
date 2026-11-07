@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d9c9ebf1587f45d9854d56c2cdb074ecb0ff163210dd9b951ed0cf7751a8842
+machine_hash: f5aa7dc9f5afda201b99ae9dd8f2543d5b19aa5380d9449d92473766ac6c32e8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '#21954 Fix goal update and add `/goal edit` command in TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
 - '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
   extends to the theme panel]]'
 - '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
   the preview iframe in Safari shows the "Open preview in new tab" message…]]'
+- '[[Changes/Devin/2026-05-17-checks-tab-always-visible|Checks Tab Always Visible]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading the preview iframe in Safari shows the "Open preview in new tab" message…]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-checks-tab-always-visible|Checks Tab Always Visible]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]
 <!-- chronolog:end -->
 

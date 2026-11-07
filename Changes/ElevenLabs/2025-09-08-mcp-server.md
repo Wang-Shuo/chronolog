@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a4c9179ac7718a07f9c8aeb8a9a28849b55ae6289bceb325940fd34daeddfecf
+machine_hash: 9a1681f90392a8ad0fa9cad7875ac7be6622b38bf7f8df87b91cc0d6c50633a4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,7 @@ record:
   title: MCP Server
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4
-  Apps and Integrations changes in rust-v0.30.0]]'
+- '[[Changes/Devin/2025-09-05-enhanced-mcp-configuration|Enhanced MCP Configuration]]'
 - '[[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]'
 - '[[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4
   Apps and Integrations changes in rust-v0.31.0]]'

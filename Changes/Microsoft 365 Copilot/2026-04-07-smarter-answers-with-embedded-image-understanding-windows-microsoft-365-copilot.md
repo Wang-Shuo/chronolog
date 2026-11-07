@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 083efa7793da6495780a09ddd0cd8f560343c5c7560b7141b26968d70023fcb5
+machine_hash: 7a5de1ade235b1378dbec5d872c1433743988e5057b3a88bed011d46b3750c9b
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -58,8 +58,8 @@ record:
   title: Smarter answers with embedded image understanding…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
-  in 1.13.3]]'
+- '[[Changes/AnythingLLM/2026-04-02-feat-auto-select-newly-uploaded-docs-urls-in-my-documents-list-by-nehaaprasad-in|feat
+  : auto-select newly uploaded docs/URLs in my documents list]]'
 - '[[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported
   file types: PPT, PPTX, PDF (max 50MB)]]'
 - '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and

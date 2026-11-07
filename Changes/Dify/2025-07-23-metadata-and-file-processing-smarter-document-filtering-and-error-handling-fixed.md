@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c4fa955face4bd3894580fa262567009eff98b2bede6cf381facf7e4b7e75d2
+machine_hash: 42079f082caf8100b97816d78fcbf57c19e7cab0f36e0b2e4ff2fdb158870a62
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-3-files-and-data-changes-in-v0-6-17|3 Files and Data changes in v0.6.17]]
-- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-2-files-and-data-changes-in-1-7-1|2 Files and Data changes in 1.7.1]]
+- Later: 2025-07-25 · Recraft · [[Changes/Recraft/2025-07-25-you-can-now-drag-and-drop-images-from-your-history-or-community-tab-directly-int|Drag & drop from history and community]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

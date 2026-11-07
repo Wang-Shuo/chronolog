@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e65e4965fd978b7bb31e24bc353cb22f90fda27bb25e7131f769d2f7c692f8ab
+machine_hash: 6af60766d1af2644a7dd7fa8fff2fa5013c6e90e294c4d80b38cbcae7c37d54a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,8 +52,8 @@ record:
   title: 3 Enterprise and Administration changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New
-  Viewer role in Descript Rooms (Business & Enterprise only)]]'
+- '[[Changes/Devin/2025-08-08-enhanced-enterprise-members-management|Enhanced Enterprise
+  Members Management]]'
 - '[[Changes/Replit/2025-08-08-enterprise|Enterprise]]'
 - '[[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create
   video assets with Veo 3]]'

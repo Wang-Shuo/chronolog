@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a7b704a3484d13701dd81df6d8a716f955b7c78903f3018877d660d2762a7b5
+machine_hash: 1de86ab70711f25f33e3c1b0a6eabe6ce3ac09f9e40c8260e1da497ca0027748
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.1.116
 ## Nearby in Model Support
 
 - Earlier: 2024-03-29 · Dify · [[Changes/Dify/2024-03-29-4-model-support-changes-in-0-5-11|4 Model Support changes in 0.5.11]]
-- Later: 2024-04-05 · Ollama · [[Changes/Ollama/2024-04-05-4-model-support-changes-in-v0-1-31|4 Model Support changes in v0.1.31]]
+- Later: 2024-04-02 · Superwhisper · [[Changes/Superwhisper/2024-04-02-improve-visibility-of-language-model-formatting-feature|Improve visibility of language model formatting feature]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 65998987baa1ba6601e888ca61a4a2d271a5373c0d43beeec06b7ca6fd21410b
+machine_hash: 5c7bac5a6c938ada54c5ed1d07ff2948b427ab64f1194d137d22f6538343aad5
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: More Stable Codebase Indexing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better
-  State Management]]'
-- '[[Changes/Cursor/2023-09-08-better-state-management-prevents-crashes-from-editor-using-too-much-memory|Better
-  state management - prevents crashes from editor using too much memory]]'
 - '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
   Rollouts]]'
+- '[[Changes/Superwhisper/2023-09-15-resolve-performance-regression|Resolve performance
+  regression]]'
+- '[[Changes/Superwhisper/2023-09-15-massive-performance-improvement-use-gpu-metal-for-processing|Massive
+  performance improvement, use GPU/Metal for processing]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-20-0-11-2-nightly-https-cursor-com-changelog-0-11-2-nightly-cc7b11c4|cursor-2023-09-20-0-11-2-nightly-https-cursor-com-changelog-0-11-2-nightly-cc7b11c4]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-08 · Cursor · [[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged Rollouts]]
+- Earlier: 2023-09-15 · Superwhisper · [[Changes/Superwhisper/2023-09-15-massive-performance-improvement-use-gpu-metal-for-processing|Massive performance improvement, use GPU/Metal for processing]]
 - Later: 2023-09-22 · Cursor · [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable Indexing v0.1]]
 <!-- chronolog:end -->
 

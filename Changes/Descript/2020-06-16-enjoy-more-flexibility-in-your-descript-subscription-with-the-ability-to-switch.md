@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f7c276a9a156366190b20028191b20681f7805c46dfec70421dce3ff176799b6
+machine_hash: af40378c1cf1c8e958c50ffe7b0e71f645dfed78018396d856857e63049a6dc0
 product: descript
 product_name: Descript
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2020-05-19 · Notion · [[Changes/Notion/2020-05-19-add-unlimited-content-for-free-previously-personal-users-had-to-pay-5-month-to-a|Add unlimited content for free 💸 Previously, personal users had to pay $5/month…]]
-- Later: 2021-04-21 · Notion · [[Changes/Notion/2021-04-21-upgrade-with-apple-pay-google-pay|Upgrade with Apple Pay & Google Pay 💳]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-powerful-calculator|Powerful Calculator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

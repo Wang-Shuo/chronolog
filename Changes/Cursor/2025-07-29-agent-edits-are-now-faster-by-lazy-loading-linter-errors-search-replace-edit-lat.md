@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 30d2ea6898d6e371758c924c5f0f66e617a411d85dfa6fa04ece294fc0117f7e
+machine_hash: 6dd1910d3fabf33fb97efab6d24658970f60669e37465b33351e069593d878fb
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Faster edits
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
-  up E2E tests]]'
 - '[[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability
   and Performance changes in 1.7.0]]'
+- '[[Changes/Superwhisper/2025-07-24-faster-parakeet-long-recording-support|Faster
+  Parakeet & Long Recording Support]]'
 - '[[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'

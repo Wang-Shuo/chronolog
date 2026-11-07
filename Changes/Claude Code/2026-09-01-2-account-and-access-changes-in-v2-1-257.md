@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4130d50e758a572aa1bc13c59d6014b78643f93899840b1095f3de91c2ee793b
+machine_hash: f452f93edb2842fad75a452391d082ca97f3d052cb87af771cf26414be544577
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Account and Access changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
-  Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
   the specific authentication failure (such as 401 Bad credentials) instead…]]'
 - "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
   Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
+- '[[Changes/Raycast/2026-08-31-mcp-support-for-servers-that-use-https-redirects-during-oauth|MCP
+  : Support for servers that use HTTPS redirects during OAuth]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: account-access
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|🔌 Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]
+- Earlier: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-mcp-support-for-servers-that-use-https-redirects-during-oauth|MCP : Support for servers that use HTTPS redirects during OAuth]]
 - Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2 Account and Access changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 

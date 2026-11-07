@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c37ca5e16ff0835c6a00c51ed0807e145cc633667fb42ef28eb602275ac8e0c8
+machine_hash: 817d6f156fd559df191d287bcb3c657617aa8df917300979e953a0caaccdc4da
 product: lovable
 product_name: Lovable
 record:
@@ -64,8 +64,7 @@ record:
   title: Automatic fixes for Basic scan findings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
-  and Privacy changes in v2.1.157]]'
+- '[[Changes/LM Studio/2026-05-29-security-hardening|Security hardening]]'
 - '[[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let
   free workspace members help you edit]]'
 - '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11

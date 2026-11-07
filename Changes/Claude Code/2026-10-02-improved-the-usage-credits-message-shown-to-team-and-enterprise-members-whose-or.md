@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8b571fc44f5d05306863c5bb9333e89a8dbbc1222d4cd1cf1ca3a836de2e9392
+machine_hash: a138445f690cdfe4b00b7bb55508c44aedb3a2c8602425a13d4ec3b9bca60537
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079 Update and centralize TUI subscription labels @etraut-openai]]
-- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model changes in v2026.9.8]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-ai-purchase-additional-ai-credits-directly-in-the-app-on-eligible-individual-pla|AI: Purchase additional AI credits directly in the app on eligible individual plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

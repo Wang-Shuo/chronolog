@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb05502e0c9efe61fdd9c6f4edf14f6396316866ae89abe947bdf45d98934735
+machine_hash: aaf563276e1a7ca7c82d7e1c59316ed20e22cbc1efe664e042bf3c8a25d17dac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.0.413
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-02-19-2-model-support-changes-in-ide-v1-18-3-settings-artifacts|2
-  Model Support changes in IDE v1.18.3 — Settings, Artifacts…]]'
 - '[[Changes/OpenCode/2026-02-19-support-adaptive-thinking-for-claude-sonnet-4-6|Support
   adaptive thinking for Claude Sonnet 4.6]]'
 - '[[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support
   changes in v1.2.7]]'
+- '[[Changes/Superwhisper/2026-02-19-2-model-support-changes-in-superwhisper-windows-1-2-5|2
+  Model Support changes in Superwhisper Windows 1.2.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.413
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support changes in v1.2.7]]
+- Earlier: 2026-02-19 · Superwhisper · [[Changes/Superwhisper/2026-02-19-2-model-support-changes-in-superwhisper-windows-1-2-5|2 Model Support changes in Superwhisper Windows 1.2.5]]
 - Later: 2026-02-20 · Midjourney · [[Changes/Midjourney/2026-02-20-please-note|Please Note]]
 <!-- chronolog:end -->
 

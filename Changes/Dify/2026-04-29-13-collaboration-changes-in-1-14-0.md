@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 380a34e97825b8052c923f4e183e0cfc5074d1085ceb6989eb01e1c66952233f
+machine_hash: 96be284e942bb094c4ebc56470684174b76660041c60d03d09df18d3f52d5343
 product: dify
 product_name: Dify
 record:
@@ -74,11 +74,12 @@ record:
   title: 13 Collaboration changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration
-  changes in rust-v0.123.0]]'
-- '[[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows
-  Bazel CI now uses a stable PATH and shared query startup path for better…]]'
-- '[[Changes/ElevenLabs/2026-04-27-other|Other]]'
+- '[[Changes/Raycast/2026-04-27-make-raycast-your-own-with-gorgeous-themes-opt-for-a-pre-made-one-or-design-your-4ad8a8|Make
+  Raycast your own with gorgeous themes]]'
+- '[[Changes/Raycast/2026-04-27-quicklinks-shared-quicklink-hotkeys-and-aliases-should-no-longer-be-reset-when-t|Quicklinks:
+  Shared Quicklink hotkeys and aliases should no longer be reset…]]'
+- '[[Changes/Raycast/2026-04-27-quicklinks-shared-quicklink-hotkeys-and-aliases-should-no-longer-be-reset-when-t-d2e616|Quicklinks:
+  Shared Quicklink hotkeys and aliases should no longer be reset…]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: collaboration
@@ -148,7 +149,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-other|Other]]
+- Earlier: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-quicklinks-shared-quicklink-hotkeys-and-aliases-should-no-longer-be-reset-when-t-d2e616|Quicklinks: Shared Quicklink hotkeys and aliases should no longer be reset…]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149 Reduce the surface of collaboration modes @pakrym-oai]]
 <!-- chronolog:end -->
 

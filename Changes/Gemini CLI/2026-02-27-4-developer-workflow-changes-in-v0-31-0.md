@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51da3cc9dd34b6b8c71ba15d46ba9865824248d6d7e4998945af515f51c9ccab
+machine_hash: cf190fe98b1e65ab1d991694c148035440799320515a7778773c7d6df5151334
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Developer Workflow changes in v0.31.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot
-  will post a comment on the original PR with a preview of the autofix changes…]]'
-- '[[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot
-  can automatically fix issues it finds in pull requests]]'
+- '[[Changes/Raycast/2026-02-26-2-developer-workflow-changes-in-raycast-windows-0-47|2
+  Developer Workflow changes in Raycast windows 0.47]]'
 - '[[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate
   commit message from staged changes only when staging exists]]'
+- '[[Changes/Devin/2026-02-27-devin-review-github-commit-status-checks|Devin Review:
+  GitHub Commit Status Checks]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate commit message from staged changes only when staging exists]]
+- Earlier: 2026-02-27 · Devin · [[Changes/Devin/2026-02-27-devin-review-github-commit-status-checks|Devin Review: GitHub Commit Status Checks]]
 - Later: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-auto-theme-now-uses-the-terminal-s-actual-ansi-color-palette-for-more-accurate-c|AUTO theme now uses the terminal's actual ANSI color palette for more accurate…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b0317593320610c341c3cac1d1960901823b9745fbb7808477dea63822e3fa1
+machine_hash: f94fd6fdb114eb8baa9534f4257debdafbbd201fc7126bb5437f34f8f904473c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,10 +80,10 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
-  Apps and Integrations changes in v2.1.265]]'
-- '[[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23
-  Apps and Integrations changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line|Window
+  Management : Apps launched by a custom layout can now be given command-line…]]'
+- '[[Changes/Raycast/2026-09-08-window-management-apps-launched-by-a-custom-layout-can-now-be-given-command-line-f3e19b|Window
+  Management : Apps launched by a custom layout can now be given command-line…]]'
 - '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
   Tag Added a "Use a custom connector" link to the preset connection forms…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -168,7 +168,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
-- Later: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-remote-control-is-now-always-on-the-experimental-kimi-code-experimental-remote-c|Remote Control is now always on]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-marketplace-updates|Marketplace Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

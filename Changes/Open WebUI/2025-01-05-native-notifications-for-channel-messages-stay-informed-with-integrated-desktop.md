@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 323d7f8ac3e5af30b7e6d21d977d96000001c24410a195d0050ecf62e805c0c7
+machine_hash: aaff51d109c46874e3d25f9d9405146c649e5573f025b5dd07070f53997a43c7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved environment variable setup messages on Windows]]
-- Later: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]
+- Later: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-new-and-improved-installer|New and improved installer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

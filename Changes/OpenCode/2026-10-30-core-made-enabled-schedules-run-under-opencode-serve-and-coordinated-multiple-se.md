@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c511a86fb967eb3bbf45a3b1e9b47610c53b351ac00eadd6c4862cd37a971dd
+machine_hash: e23ca73196ffdc1439a6aa5bec424dd91fe98b49a67f1e34092f822d717aec3c
 product: opencode
 product_name: OpenCode
 record:
@@ -48,10 +48,10 @@ record:
     server…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK
-  Add…]]'
 - '[[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK
   Added if and until inputs for client.experimental.schedule.create , plus…]]'
+- '[[Changes/Devin/2026-10-30-reaction-trigger-for-teams-automations|Reaction Trigger
+  for Teams Automations]]'
 - '[[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation
   and Scheduling changes in v2.2.3]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 616cdb7afac319c2b1f6fb0963a19c98b96de90d9eeba8f7b9dbb703260fce9f
+machine_hash: 60af324355d3a499bcf51c0bb8a0677ece42798dcd0a20ecb8ac1c6e8586adee
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: Persistent Sidebar Folders, Crash Fixes, and UI Enhancements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
+- '[[Changes/Devin/2026-08-12-sidebar-organization-improvements|Sidebar Organization
+  Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-12-the-sidebar-now-remembers-which-folders-you-have-collapsed-or-expanded-including|The
   sidebar now remembers which folders you have collapsed or expanded, including…]]'
 - '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2 Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-now-in-the-file-picker-you-can-drag-entire-folders-and-their-hierarchy-will-be-p|Now in the file picker you can drag entire folders and their hierarchy will…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

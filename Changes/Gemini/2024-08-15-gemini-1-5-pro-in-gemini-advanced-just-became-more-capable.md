@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 42a872f1c1003a83c834e07a23180e101b7692a62422a0fc2d9fbea48ec365bd
+machine_hash: 6b228de5794c8da5374701d59f468f7472cb4339c27663aec6d6cbe0c7baaa85
 product: gemini
 product_name: Gemini
 record:
@@ -56,10 +56,10 @@ record:
   title: Gemini 1.5 Pro in Gemini Advanced just became more capable
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-08-13-ollama-create-can-now-import-phi-3-models-from-safetensors|ollama
-  create can now import Phi-3 models from Safetensors]]'
 - '[[Changes/Dify/2024-08-14-15-model-support-changes-in-0-7-0|15 Model Support changes
   in 0.7.0]]'
+- '[[Changes/Raycast/2024-08-14-2-model-support-changes-in-raycast-macos-v1-1-81-0|2
+  Model Support changes in Raycast macos-v1 1.81.0]]'
 - '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
   support for Prompt Caching((source link)]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-15-2024-08-15-a1b0dbfe|gemini-2024-08-15-2024-08-15-a1b0dbfe]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-08-15 · Cline · [[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds support for Prompt Caching((source link)]]
-- Later: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-7-model-support-changes-in-0-7-1|7 Model Support changes in 0.7.1]]
+- Later: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-2-model-support-changes-in-v1-2-1|2 Model Support changes in v1.2.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

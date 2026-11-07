@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c5423b2dcb280d7c33b0350626b746d8f4efc967f0ad959e0ea505bdc4a98cb
+machine_hash: c3fa30668e185037a61470e5e37123cd85162c7ec9b6ac302234a79a04013c8b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -257,7 +257,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 ## Nearby in Context Window
 
 - Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type @ or / to add context and skills where you type]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window changes in v0.11.4]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-rotate-bitbucket-data-center-tokens|Rotate Bitbucket Data Center Tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

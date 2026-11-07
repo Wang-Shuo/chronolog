@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33393fd4524777b6a75b07ec52c1091c164fb11b32bea9265fa4fa16e5b26499
+machine_hash: ba8255e2297b18d273a2da93986dbaad7129eef4270dab6836e4b0dfb3e83532
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated Copilot Connectors are now generally available…]]
-- Later: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
+- Later: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-child-sessions-tree-connector|Child Sessions: Tree Connector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

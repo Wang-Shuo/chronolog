@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab79abc9feee3260f717304324103537a5b8b4eab3586d3b2764d6a7c9cd4aac
+machine_hash: 081ccb102ae177a10713b99720adf86d784fb2b2430acdb6868da2a3c35bbac5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Model Support
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As of (source link) we now stream the response…]]
-- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|📡 Chat ID Header Forwarding]]
+- Later: 2025-07-19 · LM Studio · [[Changes/LM Studio/2025-07-19-added-tool-calling-support-for-mistral-v13-tokenizer-models-with-proper-chat-tem|Added tool calling support for Mistral v13 tokenizer models (with proper chat templates)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ff7c7bc0bf7323d73ca62cd2fdac9ebb133d7f525a7d1783e7e7c47194a68c3c
+machine_hash: aba065085924f1b447e28405ebdece217eb131db2464dad01b63a1d5e0736bf0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom
-  auth headers for connected MCP servers no longer get stripped after the first…]]'
 - '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
   CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
+- '[[Changes/Devin/2026-05-13-mcp-multiline-environment-variables|MCP Multiline Environment
+  Variables]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-13-2026-05-13-1809b47f|elevenlabs-2026-05-13-2026-05-13-1809b47f]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-mcp-multiline-environment-variables|MCP Multiline Environment Variables]]
 - Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting started is easy]]
 <!-- chronolog:end -->
 

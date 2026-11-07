@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bfe0979a072a47b73d9654aef61641145b0cc862971fff6d61aa1df62b74ca8
+machine_hash: 62c9919a8aa572f6687b5abf62e7770d6092cdb0085a706748f3a0330407d5f3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: '#18633 Use app server thread names in TUI picker @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop
-  Fixed sidebar project avatars to fall back to icon.url when no override is set]]'
+- '[[Changes/Devin/2026-04-22-sso-connection-picker|SSO Connection Picker]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface

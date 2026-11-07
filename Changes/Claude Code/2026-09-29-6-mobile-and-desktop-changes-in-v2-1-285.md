@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dc1c007d40d97c57c73f0a10dcffa2c70b41c0d6c0461966118c84b11abfc86
+machine_hash: f2e8e8686cc03334832cb5a05d275456b272c2805fda46b65e85211f47c2f076
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,10 @@ record:
   title: 6 Mobile and Desktop changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
-  Mobile and Desktop changes in rust-v0.158.0]]'
 - '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
   Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
+- '[[Changes/Wispr Flow/2026-09-28-a-reminder-to-add-the-languages-you-speak-desktop|A
+  reminder to add the languages you speak (Desktop)]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'

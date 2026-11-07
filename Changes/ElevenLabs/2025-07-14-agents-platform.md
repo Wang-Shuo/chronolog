@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d87e7ae8680d86284c514a38603f93492e063555cf1d26cf0a24b1668a01ad3b
+machine_hash: bb391c09e39caa29e7d4ca912eb65a9cfc80df6e3dbf662e2f2efebfd4a1d395
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,7 +65,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-07-sdks|SDKs]]'
+- '[[Changes/AnythingLLM/2025-07-09-3-agent-mode-changes-in-v1-8-3|3 Agent Mode changes
+  in v1.8.3]]'
 - '[[Changes/Dify/2025-07-10-feat-retain-llm-setting-for-agent-node-by-fdb02983rhy-in-https-github-com-langge|feat:
   Retain llm setting for agent node]]'
 - '[[Changes/Replit/2025-07-11-agent-multi-tool-calling-upgrade|Agent multi-tool calling

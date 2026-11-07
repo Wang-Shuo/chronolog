@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f4fba4f936e6628fc7a24755338745bae222463dad1a34084a4413a125ce320a
+machine_hash: 8643c2bef2822a2f06587d9478e9aaeb26bf41d27ca75a482339b6d235c44690
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -110,8 +110,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
-  OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
+- '[[Changes/AnythingLLM/2026-02-18-new-login-page-ui-by-shatfield4-in-https-github-com-mintplex-labs-anything-llm-p|New
+  login page UI]]'
 - '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
   performance by caching authentication failures for HTTP and SSE MCP…]]'
 - '[[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account

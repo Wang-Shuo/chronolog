@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bb8c144589016572f209d8aff3cd02a7c8a5cedcbf9241e0c82e18ce401ee508
+machine_hash: 55cf0cadfea93ef4f0fbb2a7d33a805aa44ed3c05d71bab1112ff8f5d055f64d
 product: lovable
 product_name: Lovable
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2 Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-interface-experience-changes-in-v1-16-1|2 Interface Experience changes in v1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

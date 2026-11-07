@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 975c60f3a678235b26072151cd580568cbab8a4bb4055b2b518d03b5d88ea106
+machine_hash: ee4eebe13aba46891007130d8d0632afa1fd27d3863837cf93ed80aab9c94e9e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
-- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects from a chat]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-send-context-to-ai|Send Context to AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

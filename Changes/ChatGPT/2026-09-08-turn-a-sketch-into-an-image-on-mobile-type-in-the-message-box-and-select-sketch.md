@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f63392da2bf5188d063676f22b55b12a90cc22ec5b4f5b75b5226739c30dbbe9
+machine_hash: b0d4dc9df014a919400745976ddf3e299c44eed9d7b3f8a93c2b4ce1d8a6131b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Turn a sketch into an image
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
-  Increase the open-in app icon size for better visibility]]'
+- '[[Changes/Wispr Flow/2026-09-04-quality-of-life-improvements-desktop|Quality-of-Life
+  Improvements (Desktop)]]'
 - '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
   and Desktop changes in v2026.9.2]]'
 - '[[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer:

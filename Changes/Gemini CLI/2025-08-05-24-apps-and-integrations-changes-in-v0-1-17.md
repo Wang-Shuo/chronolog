@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49382b27877052557a89bf6a2ec9ad6a7505b605a177a91c1558041e426c9810
+machine_hash: e163ba89b0faa384c1d10e91207ca332acaa47241d8b0be30a670ba6781f6247
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,10 +94,9 @@ record:
   title: 24 Apps and Integrations changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21
-  Apps and Integrations changes in v0.1.16]]'
 - '[[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor:
   Use MCP icon in the navbar and update styling]]'
+- '[[Changes/Devin/2025-08-04-linear-integration-enhancements|Linear Integration Enhancements]]'
 - '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
 source_type: github_releases
@@ -188,7 +187,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26 Apps and Integrations changes in v0.1.18]]
+- Later: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-add-confirmation-toast-after-adding-an-mcp-server|Add confirmation toast after adding an MCP server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

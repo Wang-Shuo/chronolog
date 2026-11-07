@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d387f643c9a7f0d996569f65d58ea4d126ce43be4e9803e0cf71f0d065728a7e
+machine_hash: d99bcd01c956a3b2699b655dcbf2c3599ad630b58926346a97561b2f715c5330
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.89.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
-  Personal Intelligence]]'
 - '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
   and Privacy changes in rust-v0.88.0]]'
 - '[[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core
   Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]'
+- '[[Changes/AnythingLLM/2026-01-22-refactor-managed-services-in-data-handling-privacy-onboarding-step-to-use-their|Refactor
+  Managed Services in "Data Handling & Privacy" Onboarding Step to Use…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.89.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-refactor-managed-services-in-data-handling-privacy-onboarding-step-to-use-their|Refactor Managed Services in "Data Handling & Privacy" Onboarding Step to Use…]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]]
 <!-- chronolog:end -->
 

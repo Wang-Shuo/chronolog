@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faa7f18e1002ff421c5a885bc81c16788796db98e1e8cdb6243629ffd9666f33
+machine_hash: 6b9ed3fc38c25e2eccb4b2187f452f6766917c650883dffb3647cf83ca7e4352
 product: zai-api
 product_name: Z.ai API
 record:
@@ -54,8 +54,8 @@ record:
   title: Significantly improves the real-world developer experience, with more reliable…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
-  will now return an error if a single message is larger than the current…]]'
+- '[[Changes/AnythingLLM/2026-06-16-x-meeting-assistant-context-window-overflow-handling-is-much-better-now-so-small|x
+  Meeting Assistant context window overflow handling is much better now - so small…]]'
 - '[[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove
   redundant LLM request logging context plumbing]]'
 - '[[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove redundant LLM request logging context plumbing]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context Window changes in rust-v0.141.0]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-slack-preceding-thread-messages-as-context|Slack: Preceding Thread Messages as Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

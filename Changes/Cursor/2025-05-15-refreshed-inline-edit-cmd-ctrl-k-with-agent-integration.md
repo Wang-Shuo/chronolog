@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c732960a953b7de13aa48ad7aad89e47631ab7e2cb195741aba7a880de7e87cf
+machine_hash: 054e7c4f5223ada33573809ccd00c6b59daf2af2b85537e04eaf31df6968f5db
 product: cursor
 product_name: Cursor
 record:
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub connector for deep research]]
-- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations changes in 1.4.0]]
+- Later: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-upgrades-to-linear-jira-integrations|Upgrades to Linear & Jira Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d91aa6736cc0098c5f8cd0e6c3ad709998ef1c1cbd5e60bf9fadadb2386b42df
+machine_hash: 42bb47c98e20d10347ff32a2ea06e1ba9f10be529c7f7a68129805d107265d06
 product: qoder
 product_name: Qoder
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes in 1.19.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-2-files-and-data-changes-in-v1-0-106|2 Files and Data changes in v1.0.106]]
+- Later: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-generate-at-1k-or-2k-then-edit-upscale-or-vectorize-right-on-your-project-canvas|Generate at 1K or 2K, then edit, upscale, or vectorize right on your project canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

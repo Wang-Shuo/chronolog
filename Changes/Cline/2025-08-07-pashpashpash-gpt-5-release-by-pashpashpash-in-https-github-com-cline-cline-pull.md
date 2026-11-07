@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 696ab6ac44629b02d7d71b303cba399204a751da4578831a6195a8772118f4be
+machine_hash: 0a4b232d1b27349688189a81b03ef86f468a8a36015323724744b16de26514c1
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Pashpashpash/gpt 5 release
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students
-  get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]'
-- '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
-  changes in v0.1.18]]'
+- '[[Changes/LM Studio/2025-08-06-we-partnered-with-openai-to-bring-their-open-source-models-to-lm-studio-on-launc|We
+  partnered with OpenAI to bring their open-source models to LM Studio on launch day]]'
+- "[[Changes/LM Studio/2025-08-06-support-for-openai-s-gpt-oss-models|\U0001F389 Support
+  for OpenAI's gpt-oss models!]]"
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
 source_release: '[[Releases/Cline/cline-2025-08-07-v3-21-0-github-238386590-c54d764a|cline-2025-08-07-v3-21-0-github-238386590-c54d764a]]'
 source_type: github_releases

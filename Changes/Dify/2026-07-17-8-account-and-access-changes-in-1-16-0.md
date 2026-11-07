@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f9738f49ac50e018bbc72ccfd643a42c8d1a3ac8cc7a761c52c426d03590d97
+machine_hash: 9422daf6ec7f469cc92b074091764602bcdec79929bc7865a93a626791b2524c
 product: dify
 product_name: Dify
 record:
@@ -70,12 +70,12 @@ record:
   title: 8 Account and Access changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server
-  mode reconnects OAuth MCP servers from cached tokens]]'
 - '[[Changes/Ollama/2026-07-16-agent-web-search-and-fetch-now-tell-users-to-run-ollama-signin-when-authenticati|Agent
   web search and fetch now tell users to run ollama signin when authentication…]]'
 - '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
   the auth status panel title from "Cloud authentication" to "Authentication"]]'
+- '[[Changes/Devin/2026-07-17-this-release-also-includes-improved-bulk-secret-import-with-name-validation-expa|This
+  release also includes improved bulk secret import with name validation…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: account-access
@@ -138,7 +138,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
+- Earlier: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-this-release-also-includes-improved-bulk-secret-import-with-name-validation-expa|This release also includes improved bulk secret import with name validation…]]
 - Later: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth connection errors now include the underlying network cause…]]
 <!-- chronolog:end -->
 

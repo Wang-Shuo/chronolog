@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5985641a82a8698f10bc49b7c83214ba402faabba47dadd1744c84fe6ebebea5
+machine_hash: dfeec6181fa006a1bec6e937efae532c157fdb5c43bb19f1dd4f50c630b9ae49
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added a `/doctor` check that proposes trimming checked-in `CLAUDE.md` files…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud
-  project]]'
-- '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
-  Handle completion separators and popup dismissal @charliemarsh-oai]]'
 - '[[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image
   gallery in the Files tab]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent|AI
+  Chat : Reorder and edit queued messages before they''re sent]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent-675bba|AI
+  Chat : Reorder and edit queued messages before they''re sent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image gallery in the Files tab]]
+- Earlier: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent-675bba|AI Chat : Reorder and edit queued messages before they're sent]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2 Editor Experience changes in v1.0.70]]
 <!-- chronolog:end -->
 

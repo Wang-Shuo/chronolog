@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 500dc691986af98d542d01aca2f747bab5ca4a1f3a26047d734f3fd91de72813
+machine_hash: f61a9a714220e0fe509977dcaae75d73577099c045bbae32bb94ae37d3c948d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
     WPAD…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core
-  Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]'
+- '[[Changes/Raycast/2026-06-24-updater-added-privileged-daemon-process-to-ease-updates-for-non-admin-users-if-y|Updater
+  : Added privileged daemon process to ease updates for non admin users]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
 - '[[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS

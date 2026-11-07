@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: a2561dc041b7ec034723c14ce9c98554833fb6ddd6cc89f395d6c8b5400e7af6
+machine_hash: bf49dc74dd42aebea63e25e2acccb3d35e1e9eba4eeaa355a8a42da82707d79c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Retiring GPT-5.2 models
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support
-  for PDF attachments to messages to Gemini models]]'
 - '[[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After
   your testing and feedback, we''ve updated the default model from V7 to V8.1!]]'
 - '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
   what''s new in V8.1]]'
+- '[[Changes/Superwhisper/2026-06-11-2-model-support-changes-in-superwhisper-windows-1-4-13|2
+  Model Support changes in Superwhisper Windows 1.4.13]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-11 · Midjourney · [[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of what's new in V8.1]]
+- Earlier: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-2-model-support-changes-in-superwhisper-windows-1-4-13|2 Model Support changes in Superwhisper Windows 1.4.13]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
 <!-- chronolog:end -->
 

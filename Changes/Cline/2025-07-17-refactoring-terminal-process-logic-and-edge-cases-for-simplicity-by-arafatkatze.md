@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ecd92c277a7ed64c4fbee870133511e6952d72016b50dc9bdc157da97561b19
+machine_hash: b37cd96ecc1b9dc866caec8983c7420bf6ba00828beb5d95f3e2a7173862ed37
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Refactoring terminal process logic and edge cases for simplicity
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-12-experimental-codex-apply-command-to-interact-with-codex-web-https-github-com-ope|Experimental
-  codex apply command to interact with Codex Web]]'
 - '[[Changes/Cline/2025-07-15-2-developer-workflow-changes-in-v3-18-15|2 Developer
   Workflow changes in v3.18.15]]'
+- '[[Changes/AnythingLLM/2025-07-16-sticky-code-block-header-by-shatfield4-in-https-github-com-mintplex-labs-anythin|Sticky
+  code block header]]'
 - '[[Changes/OpenHands/2025-07-16-4-developer-workflow-changes-in-0-49-0|4 Developer
   Workflow changes in 0.49.0]]'
 source_release: '[[Releases/Cline/cline-2025-07-17-v3-19-6-github-233014056-18f53a4b|cline-2025-07-17-v3-19-6-github-233014056-18f53a4b]]'

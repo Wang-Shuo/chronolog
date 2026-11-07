@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b4a170c385cd09541a30b78aaa4f5e7a3dae23e7b0c42dd0d6a6ce253558958
+machine_hash: e8cfacd9a4975e315b22634193f304c60f0baecb4ce96d017ea7755fd85caec4
 product: cursor
 product_name: Cursor
 record:
@@ -49,7 +49,8 @@ record:
   title: Plugins, skills, and MCPs let you customize Cursor for your workflows
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
+- '[[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate
+  AWS Sdk to OpenAI]]'
 - '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
   Apps and Integrations changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37

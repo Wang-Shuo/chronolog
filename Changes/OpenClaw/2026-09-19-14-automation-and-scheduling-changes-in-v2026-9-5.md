@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3ab2cebc949cae0c7c81e3dec4a1edf64c2dd5f60ce95ad55d7f6b33b4c2d65
+machine_hash: 1a6ae7cb8716b69ef180ad9f900a060226d56c305a11f26257d48333b83563ec
 product: openclaw
 product_name: OpenClaw
 record:
@@ -216,7 +216,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4 Automation and Scheduling changes in v0.11.4]]
+- Later: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-simpler-create-automation-menu|Simpler Create Automation Menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

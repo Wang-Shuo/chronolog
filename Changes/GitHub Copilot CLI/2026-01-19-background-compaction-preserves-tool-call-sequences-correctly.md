@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b45c4110bff91dfbdac19eb2b05499c6cf1bfa18bf51664bbc1e47c9847d6504
+machine_hash: e9d58503e401987eadafc66daba8cc23bac8550ce3c6d4f993f8e0c2e57c0061
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Background compaction preserves tool call sequences correctly
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
-  auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
 - '[[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context
   Window changes in rust-v0.87.0]]'
+- '[[Changes/LM Studio/2026-01-16-output-cached-tokens-statistics-in-openai-compatible-v1-responses-rest-endpoint|Output
+  cached_tokens statistics in OpenAI-compatible /v1/responses REST endpoint]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-enable-infinite-sessions-with-automatic-long-running-context-management-through|Enable
   infinite sessions with automatic long-running context management through…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-386-github-278059609-7539de31|github-copilot-cli-2026-01-19-v0-0-386-github-278059609-7539de31]]'

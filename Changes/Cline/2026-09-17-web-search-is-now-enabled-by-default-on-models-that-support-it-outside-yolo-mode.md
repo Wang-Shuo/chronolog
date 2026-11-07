@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea5ecb3da209505d1e4dcbdfd0191e391b84dee8b05b990f772ebe02a59eaf36
+machine_hash: bfd763d3ce0a9e572b4bade2e9b04d5691b09111330bf242453a63f8c3e40ec1
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,7 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search
-  and Browsing changes in v2026.9.4]]'
+- '[[Changes/Devin/2026-09-16-read-only-customize-view|Read-only Customize View]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add
   --json to copilot plugin list, copilot plugin marketplace list…]]'
 - '[[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search

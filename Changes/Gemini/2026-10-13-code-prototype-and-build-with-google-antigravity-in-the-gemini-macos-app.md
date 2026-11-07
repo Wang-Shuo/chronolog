@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 732d772aeeabfb0489163eb1647d410e4cb5204c2daabc866cad92744e2de38c
+machine_hash: ef9801aee3602d1b8e104f33362e7ec6009951b8436f44247c362b40c3cc99e5
 product: gemini
 product_name: Gemini
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-12 · Windsurf · [[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]]
+- Later: 2026-10-13 · LM Studio · [[Changes/LM Studio/2026-10-13-added-cuda-13-support-on-windows-arm|Added CUDA 13 support on Windows ARM]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

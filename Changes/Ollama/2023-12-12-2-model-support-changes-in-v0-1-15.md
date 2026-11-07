@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af96369b50c93b933c716faa9825e7e97dfe9ab7ed2612011198c626f65ca0d8
+machine_hash: 6f6f52ea8c5b7c19ee0b9388c444df981107dd540e7ff3ae2cd74f55637cb91e
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-30-3-model-support-changes-in-v0-1-13|3 Model Support
-  changes in v0.1.13]]'
 - '[[Changes/Gemini/2023-12-06-bard-is-getting-its-biggest-upgrade-yet-with-gemini-pro|Bard
   is getting its biggest upgrade yet with Gemini Pro]]'
 - '[[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support
   changes in v0.1.14]]'
+- '[[Changes/Superwhisper/2023-12-10-4-model-support-changes-in-superwhisper-macos-1-19-0|4
+  Model Support changes in Superwhisper macOS 1.19.0]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-12-v0-1-15-github-133517915-5af535e3|ollama-2023-12-12-v0-1-15-github-133517915-5af535e3]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-08 · Ollama · [[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support changes in v0.1.14]]
-- Later: 2023-12-14 · Ollama · [[Changes/Ollama/2023-12-14-3-model-support-changes-in-v0-1-16|3 Model Support changes in v0.1.16]]
+- Earlier: 2023-12-10 · Superwhisper · [[Changes/Superwhisper/2023-12-10-4-model-support-changes-in-superwhisper-macos-1-19-0|4 Model Support changes in Superwhisper macOS 1.19.0]]
+- Later: 2023-12-13 · Superwhisper · [[Changes/Superwhisper/2023-12-13-show-recording-window-while-model-is-initializing|Show Recording window while model is initializing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

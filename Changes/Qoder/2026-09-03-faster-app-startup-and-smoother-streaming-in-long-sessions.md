@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc1ca951a1fe9876165119ed67296766f484b1a3c0b192a4edc94bf8ec89aa8a
+machine_hash: 802d39a5b379a73908ca5855677741dd748f0729f7b55b18eeb2b5db7485924d
 product: qoder
 product_name: Qoder
 record:
@@ -41,8 +41,9 @@ record:
   title: Faster app startup and smoother streaming in long sessions
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-02-chat-improvements|Chat improvements]]'
 - '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
+- '[[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other
+  bug fixes and performance improvements]]'
 - '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
   Linux, managed local model and embedding services are preferred…]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-03-0-1-6-2e6fa241|qoder-2026-09-03-0-1-6-2e6fa241]]'

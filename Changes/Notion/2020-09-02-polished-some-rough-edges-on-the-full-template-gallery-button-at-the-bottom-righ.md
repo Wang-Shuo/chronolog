@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 752c550c822be185f7979e59de60a0fe2f7763a35b68c0763abdbb4557aaa663
+machine_hash: 0b6bd42ea978461ee0e27e7a10d45433e2be04757449eb5b0cb1cce5c1df670b
 product: notion
 product_name: Notion
 record:
@@ -44,12 +44,12 @@ record:
     right…
   type: change
 related_changes:
-- '[[Changes/Descript/2020-07-07-clicking-in-timeline-will-cancel-range-selection|Timeline]]'
-- '[[Changes/Notion/2020-07-28-streamlined-onboarding-for-users-joining-a-workspace-via-invite-link|Streamlined
-  onboarding for users joining a workspace via invite link]]'
+- '[[Changes/Raycast/2020-08-17-improved-tooltip-with-shortcuts-each-key-is-now-separated-to-make-it-easy-to-lea|Improved
+  tooltip with shortcuts]]'
 - "[[Changes/Notion/2020-08-18-switch-between-your-work-account-personal-account-use-notion-with-multiple-email|Switch
   between your work account & personal account \U0001F504 Use Notion with multiple
   emails?]]"
+- '[[Changes/Raycast/2020-08-25-slack-community|Slack community]]'
 source_release: '[[Releases/Notion/notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b|notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-08-18 · Notion · [[Changes/Notion/2020-08-18-switch-between-your-work-account-personal-account-use-notion-with-multiple-email|Switch between your work account & personal account 🔄 Use Notion with multiple emails?]]
+- Earlier: 2020-08-25 · Raycast · [[Changes/Raycast/2020-08-25-slack-community|Slack community]]
 - Later: 2020-09-08 · Descript · [[Changes/Descript/2020-09-08-now-you-can-name-or-rename-published-pages-directly-in-the-published-pages-menu|Rename Published Pages]]
 <!-- chronolog:end -->
 

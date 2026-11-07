@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10008b331565dc10a9c01e5ffd623ddcd433e5132aa1361521b3f9c32203a04a
+machine_hash: 3ec4de46f104ddb8b982e01d6c6d8f0354c6fb743bea1413743821b151e16a7c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Voice and Audio changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice
-  and Audio changes in v2026.10.10]]'
-- '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
-  changes in 1.19.0]]'
+- '[[Changes/Raycast/2026-11-04-3-voice-and-audio-changes-in-raycast-windows-2-11|3
+  Voice and Audio changes in Raycast windows 2.11]]'
 - '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
   Audio changes in v2026.11.1]]'
+- '[[Changes/Superwhisper/2026-11-05-import-vocabulary-and-dictation-history-from-wispr-flow-aqua-voice-typeless-and|Import
+  vocabulary and dictation history from Wispr Flow, Aqua Voice, Typeless…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: voice
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and Audio changes in v2026.11.1]]
+- Earlier: 2026-11-05 · Superwhisper · [[Changes/Superwhisper/2026-11-05-import-vocabulary-and-dictation-history-from-wispr-flow-aqua-voice-typeless-and|Import vocabulary and dictation history from Wispr Flow, Aqua Voice, Typeless…]]
 - Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-2-voice-and-audio-changes-in-release-roundup-november-6-2026|2 Voice and Audio changes in Release roundup—November 6, 2026]]
 <!-- chronolog:end -->
 

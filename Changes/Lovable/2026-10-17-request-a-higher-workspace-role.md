@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9eb6c7ab8bf909c7af6e411e0c9a21b4f80fe60ec16f4ae23fc6df526c7d4022
+machine_hash: 646256a19f97952c1b8118426fa346945d2676d2398be332858a6e3250fc89a8
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large files that cannot be previewed can be downloaded from the Code tab…]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep saved /diff review comments when reopening an unchanged diff in the same…]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-rules-editor-for-devin-review|Rules Editor for Devin Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

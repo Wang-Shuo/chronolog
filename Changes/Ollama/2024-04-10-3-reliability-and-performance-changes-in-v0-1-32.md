@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca07dadc1acfd21c292df0f2ef8f0f3b387b079d4731c53ad79ca83be975d1c5
+machine_hash: bf78884780e428e23574d1df6d11f12fd5a832d7b0f8479ad6d8b5e4d5ed40d6
 product: ollama
 product_name: Ollama
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Reliability and Performance changes in v0.1.32
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv
-  3 A new version of sv1 with better performance and more ''vibey'' than sv2]]'
 - '[[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv
   4 A new version of sv2 that with improved performance (this is default)]]'
+- '[[Changes/Superwhisper/2024-03-22-realtime-view-performance-improvements|Realtime
+  view performance improvements]]'
 - '[[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-10-v0-1-32-github-150612671-ee04ba9f|ollama-2024-04-10-v0-1-32-github-150612671-ee04ba9f]]'

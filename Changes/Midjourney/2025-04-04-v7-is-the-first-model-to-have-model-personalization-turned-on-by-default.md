@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 85cfe68c24a7e045ae7b558d81c5de7d0306bc66b3e1f1ff1eba7a0936196556
+machine_hash: 727d9cfc7af55a9aa64b485c435c5205c72b523be24c45c7de1c58263b8482cc
 product: midjourney
 product_name: Midjourney
 record:
@@ -74,8 +74,8 @@ record:
   title: V7 is the first model to have model personalization turned on by default
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
-  memory condensation from settings page]]'
+- '[[Changes/LM Studio/2025-03-27-2-memory-and-personalization-changes-in-lm-studio-0-3-14|2
+  Memory and Personalization changes in LM Studio 0.3.14]]'
 - '[[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We''re
   now in ROUND 3 of the V7 image rating party]]'
 - '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'

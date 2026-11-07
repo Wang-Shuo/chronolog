@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8e7487882a50d92f7a307885931e8c01ce17d74714ce1c0f5f52545e8c4befe2
+machine_hash: e9ddd10b4b48f79e8cd9741641f54331e232fdfece3bc085f77625a9ad937fba
 product: lovable
 product_name: Lovable
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation videos just got a lot faster to make]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-smarter-codebase-search|Smarter Codebase Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

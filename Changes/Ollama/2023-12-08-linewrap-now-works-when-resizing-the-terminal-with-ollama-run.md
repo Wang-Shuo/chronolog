@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b75c11325cddff2cd801e82c6db4d698b8f588fa5c48ba5785d155403f68770
+machine_hash: 9f1731dc5849859618a23bf3e5f61094d37c8188a6f31f31d187f8f36a833688
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: Linewrap now works when resizing the terminal with `ollama run`
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer
-  Workflow changes in v0.15.0]]'
 - '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
   there''s an experimental bash mode]]'
 - '[[Changes/Dify/2023-11-21-3-developer-workflow-changes-in-0-3-31|3 Developer Workflow
   changes in 0.3.31]]'
+- '[[Changes/Raycast/2023-11-29-quit-all-applications-now-closes-all-finder-windows-by-default-you-can-disable-t|Quit
+  All Applications: Now closes all Finder windows by default]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-08-v0-1-14-github-133111252-707be4af|ollama-2023-12-08-v0-1-14-github-133111252-707be4af]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-3-developer-workflow-changes-in-0-3-31|3 Developer Workflow changes in 0.3.31]]
-- Later: 2023-12-19 · Dify · [[Changes/Dify/2023-12-19-2-developer-workflow-changes-in-0-3-34|2 Developer Workflow changes in 0.3.34]]
+- Earlier: 2023-11-29 · Raycast · [[Changes/Raycast/2023-11-29-quit-all-applications-now-closes-all-finder-windows-by-default-you-can-disable-t|Quit All Applications: Now closes all Finder windows by default]]
+- Later: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-improved-contrast-of-highlights-in-the-fix-spelling-and-grammar-ai-command|Improved contrast of highlights in the “Fix Spelling and Grammar” AI Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2f1eb889d18ce5b8be04a434c6a38bc76d009f8ad37e06010292db3b9af84f3c
+machine_hash: fa4d1579483c51011b0898677af59a229cbb24d39186c71a444ebba85d411ba3
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
     such…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes
-  in 0.8.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-15-agent-mode-changes-in-v1-0-0|15 Agent Mode
+  changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-4-agent-mode-changes-in-0-8-2|4 Agent Mode changes
   in 0.8.2]]'
 - '[[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes

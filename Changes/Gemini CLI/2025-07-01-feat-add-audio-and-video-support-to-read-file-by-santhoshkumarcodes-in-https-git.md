@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 472145f9a7f1cefd7c04482582a134c5bed7151a9b4d25acd574c2d91d5d486f
+machine_hash: 84c76ab110b97e410e5560b031641fe3fe2e5710ac6b40155470b58726699215
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-text-to-voice|Text to Voice]]
-- Later: 2025-07-07 · ElevenLabs · [[Changes/ElevenLabs/2025-07-07-speech-to-text|Speech to Text]]
+- Later: 2025-07-02 · Raycast · [[Changes/Raycast/2025-07-02-use-ai-commands-in-your-notes-to-quickly-generate-ideas-refine-your-writing-or-e|Use AI commands in your notes to quickly generate ideas, refine your writing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

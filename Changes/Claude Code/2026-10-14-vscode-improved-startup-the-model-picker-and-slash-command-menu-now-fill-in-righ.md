@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1bf9186684978fd393a39bc69cf28543d97784713f6ad3e73c2b73a8c3eaba1f
+machine_hash: f9567574207aa2e369363bc62d140eb84c8a3608e57626f989e8cbf68253b19f
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
-- Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-add-sticky-user-message-summaries-in-fullscreen-mode-when-a-user-message-scrolls|Add sticky user message summaries in fullscreen mode]]
+- Later: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-child-sessions-show-in-the-sidebar-across-the-archive-split|Child Sessions Show in the Sidebar Across the Archive Split]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

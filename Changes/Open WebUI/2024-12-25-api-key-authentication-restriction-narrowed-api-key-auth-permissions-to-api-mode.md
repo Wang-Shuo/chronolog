@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a51352fc6fd06b41859f0d7a6264bed8b72ea30e714725cd7cbf6172458d71b
+machine_hash: d2ff064fd579fd6123735027c527649370f0ba24ba6fed929fa29b1519b16766
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,10 @@ record:
   title: "**\U0001F4A1 API Key Authentication Restriction**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong
-  typing throughout the library for improved reliability and type safety]]'
 - '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
   custom sandbox for resolver]]'
+- '[[Changes/Raycast/2024-12-04-deeplinks-removed-security-alert-showing-when-opening-a-deeplink-from-quicklink|Deeplinks:
+  Removed security alert showing when opening a deeplink from quicklink]]'
 - "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
   most requested feature is here \U0001F389 You can now let Cline work more…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'

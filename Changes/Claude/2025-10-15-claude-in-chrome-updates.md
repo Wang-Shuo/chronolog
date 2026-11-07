@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2af7f62e43749cbdfbf766b450c7ee449579e8702258da48f0dd8986373d626b
+machine_hash: d9a040995d97fd5bff18cafc18eb915327aa9189738209039b09149c12f46ddb
 product: claude
 product_name: Claude
 record:
@@ -62,8 +62,8 @@ record:
   title: Claude in Chrome updates
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
-  "Get around the initial empty response from gemini-2.5-flash]]'
+- '[[Changes/AnythingLLM/2025-10-09-7-model-support-changes-in-v1-9-0|7 Model Support
+  changes in v1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved
   the error handling in the /model picker when no models are available…]]'
 - '[[Changes/Ollama/2025-10-10-thinking-models-now-support-structured-outputs-when-using-the-api-chat-api|Thinking

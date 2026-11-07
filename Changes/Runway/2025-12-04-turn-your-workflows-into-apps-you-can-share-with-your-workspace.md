@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73148c267bb6ce56515b919584dac0fd81b4207691b717c5a04ff3c182f0c101
+machine_hash: f8616702be46030931792f503b687fd702169f9aec3c9b3a23974ce56aa099c0
 product: runway
 product_name: Runway
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-04 · Google Antigravity · [[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]
-- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]
+- Later: 2025-12-05 · Devin · [[Changes/Devin/2025-12-05-various-bug-fixes-and-performance-improvements-across-the-webapp-ui-slack-integr|Various bug fixes and performance improvements across the webapp UI, Slack…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

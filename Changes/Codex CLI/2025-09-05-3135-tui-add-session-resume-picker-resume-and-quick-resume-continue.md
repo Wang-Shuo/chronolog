@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ff41e382c7264a9deb835530b15aa3e82eeb95385088ca35f14c596d0f009e5
+machine_hash: 2ef69f7089e81226d4e9facd5f59fbc11e92b324e949ffc87498274547836aac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,7 +41,8 @@ record:
   title: '[#3135] TUI: Add session resume picker (--resume) and quick resume (--continue)'
   type: change
 related_changes:
-- '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
+- '[[Changes/Raycast/2025-09-03-quick-ai-improved-rendering-of-partial-response-while-it-is-streaming-in-especia|Quick
+  AI: Improved rendering of partial response while it is streaming…]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
 - '[[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You

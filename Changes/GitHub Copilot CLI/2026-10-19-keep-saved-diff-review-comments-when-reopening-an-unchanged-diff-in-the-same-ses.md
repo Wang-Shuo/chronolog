@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b34b1d4fa331bdeee6b1c65d85eef5af667911f9da286d6dea0707575ec93b4
+machine_hash: 9351f88c7b8a21419ed0a68ac751973251ad7d52bfcd2c9f536f7eba50654aea
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     same…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat
-  refresh after updates]]'
 - '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
   files that cannot be previewed can be downloaded from the Code tab…]]'
 - '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
   role]]'
+- '[[Changes/Devin/2026-10-19-rules-editor-for-devin-review|Rules Editor for Devin
+  Review]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace role]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-rules-editor-for-devin-review|Rules Editor for Devin Review]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme): use status classes for icons and diff counts]]
 <!-- chronolog:end -->
 

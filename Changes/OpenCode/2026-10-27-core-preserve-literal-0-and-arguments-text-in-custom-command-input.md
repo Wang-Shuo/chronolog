@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c9c52c643ccd7899d1937ecad86c502b52ac9e4c363bce6f045469c54d66a723
+machine_hash: 9ef4d1c34eb7c6f2f7c6ddcc0f6b69594458170e39514a55734b376faeb5c825
 product: opencode
 product_name: OpenCode
 record:
@@ -43,9 +43,10 @@ record:
   title: Core Preserve literal $0 and $ARGUMENTS text in custom command input
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
-  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/Krea/2026-10-26-billing-is-fixed-for-accounts-subscribed-on-both-web-and-ios|Billing
+  is fixed for accounts subscribed on both web and iOS]]'
+- '[[Changes/Krea/2026-10-27-krea-3-api-sizing-and-billing-updates|Krea 3 API sizing
+  and billing updates]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work
   IQ APIs: Usage-based billing Windows, Linux, Mac…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'

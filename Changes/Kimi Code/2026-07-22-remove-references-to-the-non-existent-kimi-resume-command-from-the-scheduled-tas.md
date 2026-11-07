@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee73c9e6c0ce2819d78042eee3e2e5f718b45863e336f733af27efdc922414e4
+machine_hash: 133067ba0dd7e2c1e2b77333d4b2fa3a96ad923a13ec447cec4fe47a2bc0969d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -42,9 +42,10 @@ record:
   title: Remove references to the non-existent `kimi resume` command from the scheduled-task…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]'
-- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
-  and Scheduling changes in 1.16.0]]'
+- '[[Changes/Devin/2026-07-22-this-release-also-includes-many-smaller-fixes-and-improvements-including-icons-o|This
+  release also includes many smaller fixes and improvements, including icons…]]'
+- '[[Changes/Devin/2026-07-22-automations-consumption-visibility|Automations Consumption
+  Visibility]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-22-0-29-0-c6d21071|kimi-code-2026-07-22-0-29-0-c6d21071]]'

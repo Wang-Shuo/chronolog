@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 911af625abc22e1754e171b664ea389ca4c59661fc915fa9dcb7cbde0615ce27
+machine_hash: 330dbd6dceb1824d1b9d8bbdae14c3fd20af500e13dae052ff73fb423468cc2e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,10 +44,10 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
-- '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
-  Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/Wispr Flow/2026-05-01-scratchpad-a-notepad-that-lives-on-top-of-everything-beta-desktop|Scratchpad:
+  A notepad that lives on top of everything (Beta) (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-05-01-transforms-rewrite-any-text-with-ai-beta-desktop|Transforms:
+  Rewrite any text with AI (Beta) (Desktop)]]'
 - '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
   Desktop changes in v0.23.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-04-2026-05-04-9c04c503|elevenlabs-2026-05-04-2026-05-04-9c04c503]]'

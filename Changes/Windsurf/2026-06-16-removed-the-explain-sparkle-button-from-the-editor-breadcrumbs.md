@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa08dcce2834615682ad724efb3a1f5bc3f6165185f9701a898e30f52b0e9ad2
+machine_hash: 346c6f5b11852531e4a0e4026d323a1858c23eb684758a4373d0043787c3c51e
 product: windsurf
 product_name: Windsurf
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern, unified, and updated look and feel in Microsoft Edge…]]
-- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop Added a Home tab toggle so you can quickly switch between Home and your last tab]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-cmd-k-switch-organization-copy-org-id|Cmd+K: Switch Organization & Copy Org ID]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

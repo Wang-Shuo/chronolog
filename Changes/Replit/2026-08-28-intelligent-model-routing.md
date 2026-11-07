@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 41d99a13c87bb31f70dde4bf251057d2be9d37cbd61019a5867b0da4174bcbfa
+machine_hash: fdf737396c33518362ca42f0f1ece7558835b2c0719b43490a29a36f713cc3cf
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,9 @@ record:
   title: Intelligent model routing
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier
-  models, smart routing]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/Krea/2026-08-28-veo-2-and-veo-3-sunset|Veo 2 and Veo 3 sunset]]'
 - '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
   Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 source_release: '[[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|replit-2026-08-28-2026-08-28-1fac4f32]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
+- Later: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-4-model-support-changes-in-superwhisper-windows-1-6-2|4 Model Support changes in Superwhisper Windows 1.6.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

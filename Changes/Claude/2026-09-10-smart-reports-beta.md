@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b32ea2427b20ea77f2630b476ebb7b4ac195aa18a87691b1d5fd6599e14896fc
+machine_hash: 7c09a87dfe98f0df88141191d42576d4faa65705437f278f359b59e18cf064e3
 product: claude
 product_name: Claude
 record:
@@ -59,8 +59,7 @@ record:
   title: Smart reports (beta)
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
-  model changes now apply to the current chat by default, including…]]'
+- '[[Changes/Devin/2026-09-09-environment-build-attention|Environment Build Attention]]'
 - '[[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control
   which AI models your agents can use]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
@@ -92,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
-- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock workspace membership to your identity provider]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-safer-secret-defaults|Safer Secret Defaults]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

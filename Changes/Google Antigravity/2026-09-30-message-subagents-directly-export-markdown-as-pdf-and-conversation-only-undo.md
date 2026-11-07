@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fe7f6a9e3d831b9a4d60c48135136bd040e0565ec6ee1da017c2311820b726d6
+machine_hash: fa62eba412ea06dda4e467023d9c654a875c38fdc44df3bfa43478af39ed3e4a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,10 +49,10 @@ record:
     undo
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai|♯48190
-  Bound agent message board SSE frames before parsing @jif-oai]]'
 - '[[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode
   changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-devin-as-a-native-jira-agent|Devin as a Native Jira
+  Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval
   now takes into account messages you type while the agent is working…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad|google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad]]'

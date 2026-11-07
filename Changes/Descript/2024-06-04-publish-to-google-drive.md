@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f6af12903120d740bdf67564c408c2ae95c44576a69f36ced4e9ef90cf872f92
+machine_hash: 97317d30e4ca7d92923bae09101135628e32f8311cafe3bbaec3cb71f325689e
 product: descript
 product_name: Descript
 record:
@@ -54,8 +54,7 @@ record:
   title: Publish to Google Drive
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
-  Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Devin/2024-05-29-playbooks-library|Playbooks Library]]'
 - '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
   as always, for your support]]'
 - '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f0771ec820410f7e6e96d1af1d09a1dcf04759a7f2e1336c4858a8a64fe2deb
+machine_hash: fd7177f6b34ca8923b6f65552b2d8c4d6c1eff0b120b767cd046fa9e98b4f9ca
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
-- Later: 2026-09-15 · Claude · [[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce in Claude (beta)]]
+- Later: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-store-added-update-details-showing-which-extensions-were-updated-skipped-removed|Store : Added update details showing which extensions were updated, skipped…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

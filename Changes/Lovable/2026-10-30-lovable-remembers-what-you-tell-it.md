@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 51dad17d1e0b77f4bbb91c459208e619d2534c625315e71bace3521851ff71aa
+machine_hash: 5c0dbec6798fc223daf073727b1968d91132861c0d47ef4587c20507b8b32e6f
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Lovable remembers what you tell it
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
-  Memory and Personalization changes in rust-v0.166.0]]'
+- '[[Changes/LM Studio/2026-10-29-mac-added-maximum-memory-and-neural-engine-prefill-controls-for-splash-models|Mac
+  Added maximum-memory and Neural Engine Prefill controls for Splash models]]'
 - '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2
   Memory and Personalization changes in v0.12.5]]'
 - '[[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account

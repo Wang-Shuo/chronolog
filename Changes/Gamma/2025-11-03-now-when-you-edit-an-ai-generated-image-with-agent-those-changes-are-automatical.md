@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e02788ff627597168b31cc8deffc545d61237091bf2fb1268a3e80a0626de246
+machine_hash: 47e0e32b9143a023520707e986f8450693cac070204fa74f751a17739b39189d
 product: gamma
 product_name: Gamma
 record:
@@ -50,11 +50,12 @@ record:
   title: Now when you edit an AI-generated image with Agent, those changes are automatically…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
 - '[[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents):
   Remove legacy subagent code]]'
 - '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
   changes in rust-v0.52.0]]'
+- '[[Changes/Devin/2025-10-31-unified-agent-selection-experience|Unified Agent Selection
+  Experience]]'
 source_release: '[[Releases/Gamma/gamma-2025-11-03-690557f8b2c5060248680b81-02210261|gamma-2025-11-03-690557f8b2c5060248680b81-02210261]]'
 source_type: gamma_changelog
 theme: agent-mode
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode changes in rust-v0.52.0]]
+- Earlier: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-unified-agent-selection-experience|Unified Agent Selection Experience]]
 - Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom agents with special characters in filenames no longer fail]]
 <!-- chronolog:end -->
 

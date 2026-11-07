@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3c5972f6aeb4746a98b0875d9fbc8720fc1f314e84f04c5cd69cde045dbd52d
+machine_hash: 4dff30cf4f2ebf230687bd57615d1f10674c746aca3ceeef1450d044ccd09ccd
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Agent Mode
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes in 1.19.0]]
-- Later: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-sharepoint-list-agent-web-microsoft-365-copilot|SharePoint list agent Web (Microsoft 365 Copilot)]]
+- Later: 2026-11-04 · Krea · [[Changes/Krea/2026-11-04-turn-agent-on-or-off-with-access-controls|Turn Agent on or off with Access Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

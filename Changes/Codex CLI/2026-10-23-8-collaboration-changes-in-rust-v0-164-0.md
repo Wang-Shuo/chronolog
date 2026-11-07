@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d404656dfd7b65ee2cacec6f3bdd5a069d1b80ae54ebf6d58eb4c37df87afe45
+machine_hash: 14f413d9d22d8da7314a2006a005401707fa496eba4cf2c419e8e08769fce2a7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,8 +56,7 @@ record:
   title: 8 Collaboration changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
-  a warning on Pro and Max plans when resuming an inactive conversation would…]]'
+- '[[Changes/Devin/2026-10-19-clearer-group-chat-permissions|Clearer Group-chat Permissions]]'
 - '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
   adopt the shared known-bug contract]]'
 - '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
@@ -121,7 +120,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session Share now shows an error when it can’t discover receivers, instead…]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes in 1.18.0]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-private-sessions-from-microsoft-teams-channels|Private Sessions from Microsoft Teams Channels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f30aed6062c6e74023e2c56703f29b4d9d06985f9ba09f4845353b77a0889bb3
+machine_hash: 00b2b7058e04c45d5555fd2aa78c750a5556eb4522961bf171270a835c04788a
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
-  Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook
-  Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
   changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations|AI
+  : Improved OCR for PDFs when retrieving relevant context for AI conversations]]'
+- '[[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations-c727b1|AI
+  : Improved OCR for PDFs when retrieving relevant context for AI conversations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window changes in v0.11.1]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations-c727b1|AI : Improved OCR for PDFs when retrieving relevant context for AI conversations]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

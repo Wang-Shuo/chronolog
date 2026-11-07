@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 303f0fe5591889a74fb2cb1e273d490ca74b1d53144e3799410240c84f03f551
+machine_hash: b63018ee4e99e5758fa80f5f998c7090ca29da7f283064e8606f189116aa8307
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-correct-the-yolo-and-auto-permission-mode-descriptions-yolo-auto-approves-tool-a|Correct the YOLO and Auto permission mode descriptions]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed Remote Control sessions not showing a pending permission prompt or dialog…]]
+- Later: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-dictation-fixed-microphone-permission-issues-when-starting-dictation|Dictation : Fixed microphone permission issues when starting dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

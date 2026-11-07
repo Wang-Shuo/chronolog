@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 596a3cfd4eec257b3a1f0f74ac464b14224cc41212958aafb0a65465c235fcc5
+machine_hash: 9d4cf8359e2ab81f4e82e12eb4b33544055263afe4f45b1e43db51fc78de0c6f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -138,7 +138,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive steering prompts in the same mode combine into one pending message]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2 Search and Browsing changes in rust-v0.156.0]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-7-search-and-browsing-changes-in-v1-16-2|7 Search and Browsing changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

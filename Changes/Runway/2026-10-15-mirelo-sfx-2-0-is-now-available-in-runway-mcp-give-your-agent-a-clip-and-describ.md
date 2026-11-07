@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0d1642dd584020666e32dcddc6ef3710cd078f923f4916bd8c57d05e808d33d4
+machine_hash: deabd621be8fd5c8f52f7ae0a607394444d98c92ed9fa40a840224b216dcca1c
 product: runway
 product_name: Runway
 record:

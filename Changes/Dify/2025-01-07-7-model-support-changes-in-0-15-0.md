@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e650479a3c32d2a56be0a5dc17620697549b8c66c73bae55249706dc48e6158c
+machine_hash: 65a8125706118d324c3c34849d8754146255d7482d09ab837d2e019b189a0cb0
 product: dify
 product_name: Dify
 record:
@@ -56,11 +56,11 @@ record:
   title: 7 Model Support changes in 0.15.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes
-  in v0.70.0]]'
 - '[[Changes/DeepSeek API/2024-12-26-deepseek-chat|deepseek-chat]]'
 - "[[Changes/Open WebUI/2024-12-31-ollama-parameters-respected-resolved-an-issue-where-input-parameters-for-ollama|\U0001F6E0️
   Ollama Parameters Respected]]"
+- '[[Changes/LM Studio/2025-01-06-candidate-fix-for-huggingface-model-search-download-never-reachable-from-within|Candidate
+  fix for huggingface model search, download never reachable from within…]]'
 source_release: '[[Releases/Dify/dify-2025-01-07-0-15-0-github-193455309-4fc86c99|dify-2025-01-07-0-15-0-github-193455309-4fc86c99]]'
 source_type: github_releases
 theme: model-support
@@ -111,7 +111,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-31 · Open WebUI · [[Changes/Open WebUI/2024-12-31-ollama-parameters-respected-resolved-an-issue-where-input-parameters-for-ollama|🛠️ Ollama Parameters Respected]]
+- Earlier: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-candidate-fix-for-huggingface-model-search-download-never-reachable-from-within|Candidate fix for huggingface model search, download never reachable from within…]]
 - Later: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-5-model-support-changes-in-v0-5-5|5 Model Support changes in v0.5.5]]
 <!-- chronolog:end -->
 

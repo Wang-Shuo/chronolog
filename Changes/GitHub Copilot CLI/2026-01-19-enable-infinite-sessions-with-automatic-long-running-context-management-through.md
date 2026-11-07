@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a1c076c6359d60ff56cc35f96c6a07476282d7f56e9bf449f678978abb0b53d
+machine_hash: 089e25f8244f6ebb2692fab5d62dd12e1bef031b5fd5b67a9f045e37f019e033
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Enable infinite sessions with automatic long-running context management through…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input
-  limit for compaction]]'
 - '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
   auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
 - '[[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context
   Window changes in rust-v0.87.0]]'
+- '[[Changes/LM Studio/2026-01-16-output-cached-tokens-statistics-in-openai-compatible-v1-responses-rest-endpoint|Output
+  cached_tokens statistics in OpenAI-compatible /v1/responses REST endpoint]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806|github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806]]'
 source_type: github_releases
 theme: context-window
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context Window changes in rust-v0.87.0]]
+- Earlier: 2026-01-16 · LM Studio · [[Changes/LM Studio/2026-01-16-output-cached-tokens-statistics-in-openai-compatible-v1-responses-rest-endpoint|Output cached_tokens statistics in OpenAI-compatible /v1/responses REST endpoint]]
 - Later: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-background-compaction-preserves-tool-call-sequences-correctly|Background compaction preserves tool call sequences correctly]]
 <!-- chronolog:end -->
 

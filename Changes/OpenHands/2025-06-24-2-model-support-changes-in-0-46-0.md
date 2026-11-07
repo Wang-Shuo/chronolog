@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6624fb0a1e180b2fa06ea4a9e6109314d60e8533efb02ef8bb16a51352cac0e8
+machine_hash: ab9aa0a0b94009f13fa63d0f446abd3ea6e50a8742e452b98c480aa403a961bd
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.46.0
 ## Nearby in Model Support
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation Warnings in CLI and during LLM API calls by @xingyaoww…]]
-- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes in 1.5.0]]
+- Later: 2025-06-24 · Recraft · [[Changes/Recraft/2025-06-24-introducing-prompt-based-image-editing-https-www-recraft-ai-blog-describe-a-chan|Introducing prompt-based image editing((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

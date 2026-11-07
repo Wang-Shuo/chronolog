@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0811ea068f3250dd84e97c8142d705920f317c2f47e15cf612cde541305a7241
+machine_hash: ecd6c81563b88103823cc4c746abc8db67035f9ea144eaec6816377910877cfe
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
     edits…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
-  & Calendar, now in your settings]]'
+- '[[Changes/Recraft/2026-04-17-edit-images-with-ai-directly-in-your-browser-from-any-webpage-generate-visuals-r|Edit
+  images with AI directly in your browser, from any webpage]]'
 - '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
   Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 - '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e47f74ae207c01735236afb5ef700c7c0578c8d9662971e277f6e3e0e086b4e
+machine_hash: 4e7db0050b8dbd880a67eea8cd7fa3597e814c65e37c0e97c7f65232a804104f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: 'Improved startup: bare `claude` starts sooner on macOS'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
-  onboarding flow on first launch]]'
+- '[[Changes/Raycast/2026-08-19-core-text-fields-now-expand-your-macos-text-replacements|Core:
+  Text fields now expand your macOS Text Replacements]]'
 - '[[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for
   you playlist]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep

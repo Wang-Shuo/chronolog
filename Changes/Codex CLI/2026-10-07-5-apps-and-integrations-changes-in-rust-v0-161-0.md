@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6aedbc61203afb901094487120b2052f423d8d7e159b95ed43e49d048fbb84ed
+machine_hash: 78cbbe7c47b5c6ceacfed3c6289e11f0195a92ad1adee403675911836418257b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-07 · Cline · [[Changes/Cline/2026-10-07-when-an-mcp-tool-returns-more-output-than-fits-in-context-cline-can-now-read-the|When an MCP tool returns more output than fits in context, Cline can now read the rest]]
-- Later: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2 Apps and Integrations changes in v1.0.93]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-issue-card-titles-link-to-the-issue|Issue Card Titles Link to the Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

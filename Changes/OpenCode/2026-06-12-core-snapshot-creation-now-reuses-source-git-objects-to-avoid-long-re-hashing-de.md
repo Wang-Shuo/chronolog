@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 802f870243e8491472bd46b5ed303dba01be9da68c3dfe16360e43a51f756f32
+machine_hash: 5c1888f02b7dd536847d64748bb46c4a177a346a867a6df28156a00494afb761
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel active turns during session shutdown so foreground shell commands do not…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-macos-0-64|2 Developer Workflow changes in Raycast macos 0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

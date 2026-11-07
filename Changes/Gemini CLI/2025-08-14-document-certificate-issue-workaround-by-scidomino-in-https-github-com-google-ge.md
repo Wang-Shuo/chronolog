@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f97dd99aa3e632a52d41aba03db21829ac82bfbf928c97fd1cc766da0da7c8b
+machine_hash: 629f16549148ba9363ee3acffbf8a9f3b172f7b2a93352b6d2b3cd53e7da1ab6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-minor-fix-wrong-position-of-retry-document-indexing-task-time-elapsed-by-neatguy|minor fix: wrong position of retry_document_indexing_task time elapsed]]
-- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-resolved-silently-dropped-streaming-response-chunks-fixed-an-issue-where-the-fin|💬 Resolved Silently Dropped Streaming Response Chunks]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-workspace-chat-with-documents-overhaul-by-timothycarambat-in-https-github-com-mi|Workspace Chat with documents overhaul]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

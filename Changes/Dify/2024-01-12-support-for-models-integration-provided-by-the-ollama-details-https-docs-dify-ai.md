@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c193150a995f71ae11c195a25b7b797c3916dba5a54d8c64309064486e8200c
+machine_hash: 62f7fe220a78ca02b84119ab25f00d89ee176381b3d15b694d655d0df82c0604
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-01-11 · Ollama · [[Changes/Ollama/2024-01-11-megadolphin-https-ollama-ai-library-megadolphin-a-new-120b-version-of-the-dolphi|MegaDolphin((source link) A new 120B version…]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
+- Later: 2024-01-12 · Superwhisper · [[Changes/Superwhisper/2024-01-12-3-new-experimental-language-models-v2-german-and-nano|3 new experimental language models (v2, German and Nano)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: da6a820cf5e1f6e4a35ab7e5fc3c924ddff1e3ce36bcda27452c2665caad9498
+machine_hash: 8e434439920a4aa0c5d4e80274b64fe6c573f90fd6c7bef4b81f5e3cc3041aa2
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,9 @@ record:
   title: ClickUp integration
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
-  Integrations changes in v3.33.0]]'
 - '[[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora
   2 and Veo 3.1 in Synthesia: Prompt anything]]'
+- '[[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]'
 - '[[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign
   for React apps]]'
 source_release: '[[Releases/Replit/replit-2025-10-17-2025-10-17-32d063da|replit-2025-10-17-2025-10-17-32d063da]]'
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-16 · Synthesia · [[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora 2 and Veo 3.1 in Synthesia: Prompt anything]]
+- Earlier: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]
 - Later: 2025-10-17 · Windsurf · [[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved diagnostics for third party extensions]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6a2eb0eee32635c6e50b6ea408c552a4a335642a9968aeba6c876c2d8603dce
+machine_hash: cbd6c6c3ce97b1cb23e6b18457f2bb9bdf8988a24e96b45fbab35074ccef48e9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,12 +48,11 @@ record:
   title: 2 Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation
-  and Scheduling changes in v2.2.3]]'
-- '[[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core
-  Made enabled schedules run under opencode serve and coordinated multiple server…]]'
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-not-in-slack-channel-conditions|"Not in" Slack Channel
+  Conditions]]'
+- '[[Changes/Devin/2026-11-02-automations-settings-refresh|Automations Settings Refresh]]'
+- '[[Changes/Devin/2026-11-02-auto-scan-controls-and-schedules|Auto-scan Controls
+  and Schedules]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e]]'
 source_type: antigravity_changelog
 theme: automation-scheduling
@@ -96,7 +95,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
+- Earlier: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-auto-scan-controls-and-schedules|Auto-scan Controls and Schedules]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]]
 <!-- chronolog:end -->
 

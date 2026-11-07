@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b055e4ea5d838a6d9745d722be6712b8b127df59bef412d645ae708e810bf775
+machine_hash: b3c7abb1d5953ca3fee6e7c0dd46da92a2320d62cb9cf9dac35c9987bc8625e7
 product: replit
 product_name: Replit
 record:
@@ -43,8 +43,8 @@ record:
   title: Autoscale deployment optimizations
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-13-these-numerous-bug-fixes-and-enhancements-make-v0-15-1-more-robust-efficient-and|These
-  numerous bug fixes and enhancements make v0.15.1 more robust, efficient…]]'
+- '[[Changes/Devin/2025-01-16-solution-for-docker-storage-performance-issues|Solution
+  for Docker storage & performance issues]]'
 - '[[Changes/Open WebUI/2025-01-22-2-reliability-and-performance-changes-in-v0-5-5|2
   Reliability and Performance changes in v0.5.5]]'
 - '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
-- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These upgrades also bring faster text-to-speech generation, and add support…]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-reliability-and-performance-changes-in-v1-4-0|2 Reliability and Performance changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

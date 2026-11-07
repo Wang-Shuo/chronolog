@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8606f892fa1058f0e04f1d4326e352cd466bb394b0129036761ff2cefe9d5729
+machine_hash: 9eaab4b573824d057a7be7e946bef1e18072545aec0781600a17f16ef54dac59
 product: opencode
 product_name: OpenCode
 record:
@@ -55,12 +55,11 @@ record:
   title: Terminal Implement smooth scrolling for autocomplete dropdown navigation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
-  Experience changes in v2.0.73]]'
 - '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
   Experience changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
   Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Devin/2025-12-19-child-session-indentation|Child Session Indentation]]'
 source_release: '[[Releases/OpenCode/opencode-2025-12-19-v1-0-170-0dd16a5f|opencode-2025-12-19-v1-0-170-0dd16a5f]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2 Interface Experience changes in rust-v0.76.0]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-child-session-indentation|Child Session Indentation]]
 - Later: 2025-12-19 · Replit · [[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfb106f47bd074b7e526740e0f5011432aa8e4c66431a44fa1ba89b435fd2c9c
+machine_hash: 565ae9843e047b1bb9a1a2d48e0ff0861aa1e727893d482bc413240f1b4c3400
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: Added the ability to collapse top-level sidebar sections
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web:
-  Settings gains a Lab tab with a new multi-tab sidebar toggle]]'
+- '[[Changes/Raycast/2026-08-19-2-interface-experience-changes-in-raycast-windows-0-71|2
+  Interface Experience changes in Raycast windows 0.71]]'
 - '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
   Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
 - '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3

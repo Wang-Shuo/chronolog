@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d2b082bd52fa0d61e55edd3ebef9406744587fef38b7528044089894f7053f2
+machine_hash: 45b8e4c916418b33de222976a1ebf368e870c4509d658393b7a9cfc2f04841fd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Memory and Personalization changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175
-  chore: morpheus does not generate memories @jif-oai]]'
 - '[[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make
   the switch: Seamlessly bring your AI memories and chat history to Gemini]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-added-memory-to-make-chats-more-personal|AI
+  Chat: Added memory to make chats more personal]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: memory
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-ai-chat-added-memory-to-make-chats-more-personal|AI Chat: Added memory to make chats more personal]]
 - Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2 Memory and Personalization changes in v0.37.0]]
 <!-- chronolog:end -->
 

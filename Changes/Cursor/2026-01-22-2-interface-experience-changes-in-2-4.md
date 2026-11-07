@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2149bc04ab9cf2c11dd02459530f8a1bd85aadc496a9c677b157fa050329b40
+machine_hash: a91f7197171d627b91836bc9b8a7867b67365c7095ec4b043f49e09912094d34
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in 2.4
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface
-  Experience changes in v1.1.29]]'
 - '[[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop
   Fixed navigation issues when working with large sessions in desktop app]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-interface-experience-changes-in-v1-10-0|3 Interface
+  Experience changes in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
   slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'

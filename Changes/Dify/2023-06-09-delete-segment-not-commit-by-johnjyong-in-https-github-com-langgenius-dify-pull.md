@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ab5850f0e5ea5c9cc2112e1e530e35e28b89d57de6e439dac2d857080b7608b
+machine_hash: 4802c0689e5f3329a67cceebd79d3d8839276fb1740aa4764868429d3098e3fa
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,12 @@ record:
   title: delete segment not commit
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
-  use!]]'
-- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
+- '[[Changes/Raycast/2023-05-24-theme-studio-added-markdown-example-with-a-code-block-in-the-preview|Theme
+  Studio: Added markdown example with a code block in the preview]]'
 - '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
   in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Raycast/2023-06-07-4-developer-workflow-changes-in-raycast-macos-v1-1-53-0|4
+  Developer Workflow changes in Raycast macos-v1 1.53.0]]'
 source_release: '[[Releases/Dify/dify-2023-06-09-0-3-2-github-107950250-e90fa911|dify-2023-06-09-0-3-2-github-107950250-e90fa911]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
+- Earlier: 2023-06-07 · Raycast · [[Changes/Raycast/2023-06-07-4-developer-workflow-changes-in-raycast-macos-v1-1-53-0|4 Developer Workflow changes in Raycast macos-v1 1.53.0]]
 - Later: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small improvements]]
 <!-- chronolog:end -->
 

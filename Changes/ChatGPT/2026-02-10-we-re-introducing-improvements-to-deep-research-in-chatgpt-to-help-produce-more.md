@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eb7b98b5b72f7806093ffdc56844d262f4e0b8795fa63b435b901767d7353ecc
+machine_hash: b8e7355c5498e2d75685b5c1e0a9b905fe882b0a3dcfcf841c94f8fae50a2519
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,8 +62,8 @@ record:
   title: Updates to deep research
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
-  Experience changes in v2.1.33]]'
+- '[[Changes/Raycast/2026-02-06-run-added-shell-selection-cmd-powershell-etc-when-creating-or-editing-custom-run|Run
+  : Added shell selection (CMD, PowerShell, etc.) when creating or editing custom…]]'
 - '[[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]'
 - '[[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved
   sidebar pagination to load more items on scroll]]'

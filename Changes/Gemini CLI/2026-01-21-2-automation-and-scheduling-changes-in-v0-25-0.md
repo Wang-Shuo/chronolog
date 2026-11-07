@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60c77e0ce213de6751e1a1fdbb8536b3684e1beadeb2fb399c6a65e1b9ad2363
+machine_hash: 1f8ededf9db5500dc8a92435476052d5876a3aa8d13c81aacab1c01ee30da505
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler and cleanup module]]
-- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]]
+- Later: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-ai-commands-help-you-automate-repetitive-work-in-seconds-pick-a-pre-made-command|AI Commands help you automate repetitive work in seconds]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

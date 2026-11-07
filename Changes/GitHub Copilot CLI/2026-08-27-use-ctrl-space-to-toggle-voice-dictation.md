@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b564fb8ec77c066b2b6ba8a420395b2450f8d234bb2b0748dc72131cc8ee5aa6
+machine_hash: 4f979eeecb15bdddb76a95ad9205461cd80afbc9bbc5b1a412ec1c2ee59eb8c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: Use Ctrl+Space to toggle voice dictation
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use
-  voice for Q&A during Read Aloud in Word Windows (Word)]]'
-- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
-  Audio changes in v0.11.1]]'
+- '[[Changes/Recraft/2026-08-25-whether-you-re-refining-a-concept-at-your-desk-or-capturing-inspiration-on-the-g|Whether
+  you''re refining a concept at your desk or capturing inspiration on the go…]]'
 - '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
   Support voice-aware configuration and version-skew builds @copyberry]]'
+- '[[Changes/Superwhisper/2026-08-26-all-local-whisper-models-are-now-free-on-macos-giving-you-high-quality-voice-to|All
+  local Whisper models are now free on macOS, giving you high-quality voice…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: voice
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953 Support voice-aware configuration and version-skew builds @copyberry]]
+- Earlier: 2026-08-26 · Superwhisper · [[Changes/Superwhisper/2026-08-26-all-local-whisper-models-are-now-free-on-macos-giving-you-high-quality-voice-to|All local Whisper models are now free on macOS, giving you high-quality voice…]]
 - Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
 <!-- chronolog:end -->
 

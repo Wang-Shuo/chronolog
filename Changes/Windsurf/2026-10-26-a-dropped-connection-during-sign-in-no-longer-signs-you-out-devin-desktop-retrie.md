@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7772117a3b5fca4768db7b44b919f4a8f3870e0b4e74735c12a56a53de670cb
+machine_hash: 5da2a7eb95f57edd20b8f330f876cb90de81b86481842c5cca7b09814e04c288
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,11 +43,11 @@ record:
   title: A dropped connection during sign-in no longer signs you out
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved
-  the message shown when a pasted sign-in code is refused]]'
 - '[[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
   scope: OAuth clients can request the realtime_translation scope]]'
+- '[[Changes/Krea/2026-10-26-try-any-tool-before-signing-up|Try any tool before signing
+  up]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth scope: OAuth clients can request the realtime_translation scope]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-try-any-tool-before-signing-up|Try any tool before signing up]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3 Account and Access changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 

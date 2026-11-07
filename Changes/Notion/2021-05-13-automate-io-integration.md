@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f057354364d49ca5273754a0292ec45c78982e1dc0566e60e63c5310cc052bec
+machine_hash: d53b1ba060f829cb5af860075fdb93afdf71cb1247beac9d5020625849515214
 product: notion
 product_name: Notion
 record:
@@ -63,12 +63,12 @@ record:
   title: Automate.io integration
   type: change
 related_changes:
-- '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with
-  volume automation]]'
-- '[[Changes/Descript/2019-10-14-video-and-volume-automation-ui-improvements-and-bug-fixes|Video
-  and volume automation UI improvements and bug fixes]]'
-- "[[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate
-  user and group provisioning with Notion's SCIM API \U0001F501]]"
+- '[[Changes/Raycast/2020-12-10-calendar-select-first-upcoming-meeting-in-my-schedule-command|Calendar:
+  Select first upcoming meeting in My Schedule command]]'
+- '[[Changes/Raycast/2021-02-18-calendar-in-my-schedule-the-welcome-greeting-with-details-about-today-s-events-w|Calendar:
+  In My Schedule, the Welcome greeting with details about today''s events…]]'
+- '[[Changes/Raycast/2021-05-12-2-automation-and-scheduling-changes-in-raycast-macos-v1-1-14-0|2
+  Automation and Scheduling changes in Raycast macos-v1 1.14.0]]'
 source_release: '[[Releases/Notion/notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d|notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-automate-user-and-group-provisioning-with-notion-s-scim-api|Automate user and group provisioning with Notion's SCIM API 🔁]]
-- Later: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting news! We're acquiring Automate.io!]]
+- Earlier: 2021-05-12 · Raycast · [[Changes/Raycast/2021-05-12-2-automation-and-scheduling-changes-in-raycast-macos-v1-1-14-0|2 Automation and Scheduling changes in Raycast macos-v1 1.14.0]]
+- Later: 2021-06-03 · Raycast · [[Changes/Raycast/2021-06-03-wwdc21|WWDC21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

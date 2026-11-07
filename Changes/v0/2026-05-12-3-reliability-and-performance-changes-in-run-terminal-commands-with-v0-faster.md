@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72030203a4b5a2f8f5ece6c1bd862877b1d52fb0f3b77fd02597c7fe8acc50cb
+machine_hash: 8529b375065ba193de5383e68e27db10419dbd87fbb82a8d678f0f1d4f6ec2c9
 product: v0
 product_name: v0
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in Run terminal commands with v0, faster…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-cli-starts-faster-on-terminals-with-limited-osc-color-query-support-shaving-up-t|CLI
-  starts faster on terminals with limited OSC color query support, shaving up…]]'
-- '[[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow
-  stability — restored workflow-version loading through the backend API…]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
   Reliability and Performance changes in v0.42.0]]'
+- '[[Changes/Raycast/2026-05-12-3-reliability-and-performance-changes-in-raycast-windows-0-58|3
+  Reliability and Performance changes in Raycast windows 0.58]]'
+- '[[Changes/Raycast/2026-05-12-clipboard-history-improved-rendering-performance-of-long-unbroken-strings-in-tex|Clipboard
+  History : Improved rendering performance of long unbroken strings in text…]]'
 source_release: '[[Releases/v0/v0-2026-05-12-2026-05-12-83608f42|v0-2026-05-12-2026-05-12-83608f42]]'
 source_type: v0_changelog
 theme: reliability-performance
@@ -92,7 +92,7 @@ Source: https://v0.app/changelog#2026-05-12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2 Reliability and Performance changes in v0.42.0]]
+- Earlier: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-clipboard-history-improved-rendering-performance-of-long-unbroken-strings-in-tex|Clipboard History : Improved rendering performance of long unbroken strings in text…]]
 - Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention file search performance]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3624689c05c2b631a5a3ceca33d0e8277283d248f8597a3765c1ac43f63afb7f
+machine_hash: dc7e4a85e14d6fc656dde0375d417201ba32e52fc82c95727a190b102068fe97
 product: aider
 product_name: Aider
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-feat-add-datasets-detail-context-and-provider-for-improved-data-vali-by-wtw0313|feat: add datasets detail context and provider for improved data vali…]]
-- Later: 2025-03-29 · Gemini · [[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our 2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-2-context-window-changes-in-lm-studio-0-3-14|2 Context Window changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

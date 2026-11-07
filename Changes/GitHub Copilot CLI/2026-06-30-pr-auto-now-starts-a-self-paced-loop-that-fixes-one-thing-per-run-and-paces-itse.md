@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89e8e89ecd463f9e1877ebb33dd3645935e8f168f157bb4242ef8f3cd7183d6c
+machine_hash: f97e2249eb2939aa10ba38b920725b34316a9b7c127fef7594196526629695a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,7 @@ record:
     itself…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
-  and Scheduling changes in 1.15.0]]'
+- '[[Changes/Devin/2026-06-26-run-once-automation-schedules|Run-Once Automation Schedules]]'
 - '[[Changes/Kimi Code/2026-06-26-add-a-hint-to-the-per-turn-step-limit-error-pointing-users-to-the-loop-control-m|Add
   a hint to the per-turn step limit error pointing users…]]'
 - '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 21ad5eca82a58b9afdfd7ca0f8c795fad6be8bdb8d23dd69da6e0c3b6ddf6a51
+machine_hash: e031a5b6546dd533ab9a1a49205469bb5803ae7189edf3266bd30cd8b3e0f84c
 product: notion
 product_name: Notion
 record:
@@ -51,12 +51,11 @@ record:
   title: "Upgrade with Apple Pay & Google Pay \U0001F4B3"
   type: change
 related_changes:
-- '[[Changes/Descript/2019-01-11-team-subscriptions-give-you-centralized-billing-and-user-account-management|Team
-  subscriptions give you centralized billing and user account management]]'
-- "[[Changes/Notion/2020-05-19-add-unlimited-content-for-free-previously-personal-users-had-to-pay-5-month-to-a|Add
-  unlimited content for free \U0001F4B8 Previously, personal users had to pay $5/month…]]"
 - '[[Changes/Descript/2020-06-16-enjoy-more-flexibility-in-your-descript-subscription-with-the-ability-to-switch|Subscription
   Modal]]'
+- '[[Changes/Raycast/2020-08-03-powerful-calculator|Powerful Calculator]]'
+- '[[Changes/Raycast/2020-12-02-calculator-use-system-currency-as-default-to-allow-quicker-conversions-f-e-if-yo|Calculator:
+  Use system currency as default to allow quicker conversions, f.e. if you…]]'
 source_release: '[[Releases/Notion/notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15|notion-2021-04-21-https-www-notion-com-releases-2021-04-21-ceb95a15]]'
 source_type: notion_changelog
 theme: pricing-model
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2020-06-16 · Descript · [[Changes/Descript/2020-06-16-enjoy-more-flexibility-in-your-descript-subscription-with-the-ability-to-switch|Subscription Modal]]
+- Earlier: 2020-12-02 · Raycast · [[Changes/Raycast/2020-12-02-calculator-use-system-currency-as-default-to-allow-quicker-conversions-f-e-if-yo|Calculator: Use system currency as default to allow quicker conversions, f.e. if you…]]
 - Later: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-invoices-for-your-notion-subscription-are-now-more-detailed-and-easier-to-read|Invoices for your Notion subscription are now more detailed and easier to read]]
 <!-- chronolog:end -->
 

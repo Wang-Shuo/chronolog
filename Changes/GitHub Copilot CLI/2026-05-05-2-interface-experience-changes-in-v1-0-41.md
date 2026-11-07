@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2876d4d5aaaf38f56a864558f7e68a9f298826a55bbe182cefc44a88b55f9fa0
+machine_hash: 6e1a9e8fdbf798bfdd2c6aab4e59cd74e7aca5c55bd143e3e436acf2d57f95a4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v1.0.41
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
-  Interface Experience changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-snippets-quickly-create-snippets-from-ai-chat-composer-or-notes-through-the-edit|Snippets:
+  Quickly create snippets from AI chat, composer or notes through the edit menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3
   Interface Experience changes in v1.0.40]]'
 - '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 781fadf1fc45323750a9e3061ecb15b09f7006c284578e539ed9d15962e112a6
+machine_hash: b23ce1021d2c5220e84382c698f074914f8c45abece8fefa255a7cbdec4db591
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
-- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-32-agent-mode-changes-in-1-18-0|32 Agent Mode changes in 1.18.0]]
+- Later: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-choose-your-own-default-agent|Choose Your Own Default Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

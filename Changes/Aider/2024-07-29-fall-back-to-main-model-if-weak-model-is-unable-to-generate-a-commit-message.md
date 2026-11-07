@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efdfe6cfdbc6e82d66f81ff1a368620b22df70b2924a19ca45ffdaeab8e00196
+machine_hash: 20df23bce794ebe86bbc29b400cab1743a4411dfbb30bc3aa4246b836df08816
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,12 @@ record:
   title: Fall back to main model if weak model is unable to generate a commit message
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2024-07-24-deepseek-coder|deepseek-coder]]'
 - '[[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing
   Gemini 1.5 Flash to Gemini]]'
 - '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
   in v0.3.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-47-model-support-changes-in-v1-0-0|47 Model Support
+  changes in v1.0.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes in v0.3.0]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-47-model-support-changes-in-v1-0-0|47 Model Support changes in v1.0.0]]
 - Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]
 <!-- chronolog:end -->
 

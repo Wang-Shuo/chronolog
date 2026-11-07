@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 369909ad6df06912232b8b336dcdf6227eab5aef238b048a07cad4a1400fca45
+machine_hash: 7a0bc3cb0a67cd1504ef3d68af716991e55424a8fad178f399bf2cb5bd904027
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Added claude-sonnet-4-5 model support
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-30-docs-update-documentation-for-claude-sonnet-4-5-release-by-nickbaumann98-in-http|docs:
-  update documentation for Claude Sonnet 4.5 release]]'
 - '[[Changes/Gemini CLI/2025-10-01-4-model-support-changes-in-v0-7-0|4 Model Support
   changes in v0.7.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-model-s-list-to-ensure-that-a-user-only-sees-models-they-have-acces|Improved
   the /models list to ensure that a user only sees models they have access…]]'
+- '[[Changes/LM Studio/2025-10-01-4-model-support-changes-in-lm-studio-0-3-28|4 Model
+  Support changes in LM Studio 0.3.28]]'
 source_release: '[[Releases/OpenHands/openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33|openhands-2025-10-01-0-58-0-github-251502981-7f6d8b33]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-the-model-s-list-to-ensure-that-a-user-only-sees-models-they-have-acces|Improved the /models list to ensure that a user only sees models they have access…]]
+- Earlier: 2025-10-01 · LM Studio · [[Changes/LM Studio/2025-10-01-4-model-support-changes-in-lm-studio-0-3-28|4 Model Support changes in LM Studio 0.3.28]]
 - Later: 2025-10-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-02-2-model-support-changes-in-v0-0-333|2 Model Support changes in v0.0.333]]
 <!-- chronolog:end -->
 

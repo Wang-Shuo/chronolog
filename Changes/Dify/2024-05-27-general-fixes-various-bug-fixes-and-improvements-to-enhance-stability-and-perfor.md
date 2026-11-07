@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0508fa0696b9d3429ce607d94e31743262c3c5c3cdb7122f0a347caecdda3b2a
+machine_hash: ab0e178638eecc59aba9928fbde2dc6594aa5988286aeeb172dc0a88858fd8b7
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
     and performance'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-10-ollama-will-now-more-accurately-estimate-how-much-memory-is-available-on-multi-g|Ollama
-  will now more accurately estimate how much memory is available on multi-GPU…]]'
-- '[[Changes/Ollama/2024-05-15-a-new-command-is-now-available-ollama-ps-this-command-displays-currently-loaded|A
-  new command is now available: ollama ps]]'
+- '[[Changes/Raycast/2024-05-15-emoji-search-enhanced-performance-for-navigating-emojis|Emoji
+  Search: Enhanced performance for navigating emojis]]'
 - '[[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New
   experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]'
+- '[[Changes/Superwhisper/2024-05-22-improved-performance-for-response-rendering-in-recording-window|Improved
+  performance for response rendering in recording window]]'
 source_release: '[[Releases/Dify/dify-2024-05-27-0-6-9-github-157655872-c2725bb5|dify-2024-05-27-0-6-9-github-157655872-c2725bb5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]
+- Earlier: 2024-05-22 · Superwhisper · [[Changes/Superwhisper/2024-05-22-improved-performance-for-response-rendering-in-recording-window|Improved performance for response rendering in recording window]]
 - Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-batch-multiple-embeddings-introduced-rag-embedding-openai-batch-size-to-process|🧩 Batch Multiple Embeddings]]
 <!-- chronolog:end -->
 

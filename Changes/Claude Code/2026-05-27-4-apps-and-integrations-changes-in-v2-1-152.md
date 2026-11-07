@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a85831ba82501bc8b85e155434f7d79ac880f2cf02763f9c220d364d467a585a
+machine_hash: 953518036d9f6e59cc7c2dc43604358c94ed7fd90630ffe08971390c506c80cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,9 +50,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-sdk-releases|SDK Releases]]'
 - '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
   servers available on all plans]]'
+- '[[Changes/AnythingLLM/2026-05-26-2-apps-and-integrations-changes-in-v1-13-0|2 Apps
+  and Integrations changes in v1.13.0]]'
 - '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
   Apps and Integrations changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'

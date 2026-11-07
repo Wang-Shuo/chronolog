@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe24f763719279ac0fd72a7fb2a319a113779df6e8e98891daa7077239466cac
+machine_hash: 2d77e8dc2cb8438f9ae6147fe08ea727f2de05ffe9f041482684bfa37fff94b5
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,8 +48,8 @@ record:
   title: Random styles in draft mode
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
-  Experience changes in v1.17.10]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-interface-experience-changes-in-v1-15-0|2 Interface
+  Experience changes in v1.15.0]]'
 - '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
   Experience changes in 1.15.0]]'
 - '[[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5

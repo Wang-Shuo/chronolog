@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-05 · Accessibility and Localization: [VSCo
   Added a screen reader announcement, "Message queued.", when you send a message while
   Claude…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2146
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4755ab2a2f75edfc88adcbbc276cf32804f81efcf3fe2fa83793debc82eba1a0
+machine_hash: 530acaf486306c8b026d676f636959158ca2bd2aa9498d6b7ae6f12a6aa23c67
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2 Accessibility and Localization changes in v2.1.288]]
-- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2 Accessibility and Localization changes in v2026.10.1]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-root-search-added-direct-search-results-for-more-settings-including-accessibilit|Root Search : Added direct search results for more settings, including Accessibility…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

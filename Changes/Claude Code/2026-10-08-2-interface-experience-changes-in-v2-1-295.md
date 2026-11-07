@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 131027969726a9789a5e2ab14d81f7a9c04faf83c6e68c39715378145b8e31c4
+machine_hash: a95cf262b9e750b9567bb04df3038428075a8ec37ac5c29dbcc16d2b697e9a2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: 2 Interface Experience changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
-  Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Devin/2026-10-07-sidebar-polish|Sidebar Polish]]'
 - '[[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived
   conversations in the sidebar now keep their status and last-updated time…]]'
 - '[[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd:

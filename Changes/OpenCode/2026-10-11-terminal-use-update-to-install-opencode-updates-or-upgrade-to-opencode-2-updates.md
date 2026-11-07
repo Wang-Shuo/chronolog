@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e35732615cada008fb862a7997addade0ec839ddc8367423fba5904e51ff21c
+machine_hash: 0566002b54ce7abce2ff076527ab483c6591f17f2ce5baf5329a33b50c18b3fd
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Terminal Use /update to install OpenCode updates or upgrade to OpenCode 2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
+- '[[Changes/Raycast/2026-10-09-4-developer-workflow-changes-in-raycast-windows-2-7|4
+  Developer Workflow changes in Raycast windows 2.7]]'
 - '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
   Workflow changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer

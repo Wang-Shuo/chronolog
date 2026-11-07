@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91ea69196f48c07e53299372930db3d0c18c155458f13ffcc733a8ca446f662f
+machine_hash: 2d04e0ea3ec8aa9dcdc443432fa7b60b90357c2a3248f88cef0110f5e826e1a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: '#26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
-- '[[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize
-  the web app''s components into area subdirectories…]]'
 - '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
   and Desktop changes in v1.17.10]]'
+- '[[Changes/Wispr Flow/2026-06-24-keep-dictating-when-you-dock-your-laptop-clamshell-mode-desktop|Keep
+  dictating when you dock your laptop (clamshell mode) (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-24-let-flow-pick-the-right-microphone-automatically-desktop|Let
+  Flow pick the right microphone automatically (Desktop)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile and Desktop changes in v1.17.10]]
+- Earlier: 2026-06-24 · Wispr Flow · [[Changes/Wispr Flow/2026-06-24-let-flow-pick-the-right-microphone-automatically-desktop|Let Flow pick the right microphone automatically (Desktop)]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install it on any platform (macOS, Linux, Windows) with a single command and no…]]
 <!-- chronolog:end -->
 

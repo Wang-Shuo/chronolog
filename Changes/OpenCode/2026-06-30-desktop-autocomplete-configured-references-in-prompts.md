@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba968f437080e0319674c3f1b0bc7b2423a78c4fa9d160d25c1a9f075a98631b
+machine_hash: 4fd1e882151a684ca9c6311068b987f96ae8d5651cafd498ba127b4196a8f27d
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor Experience changes in v2026.6.11]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2 Editor Experience changes in v1.0.68]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-pr-link-preference|PR-Link Preference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

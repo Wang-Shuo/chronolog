@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a24f598c18dff4089401c34c97912e73670f4bbd1eb41ec08dd9269bdc55e396
+machine_hash: bfcc3e84e86581f13729ce06af74ba14af0332ce4a14e933d0f9731097432b2b
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,12 +47,12 @@ record:
     Chat)
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-03-21-two-versions-of-sref-moodboards-now-available|Two
-  Versions of SREF / Moodboards now available]]'
 - '[[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers
   & Models xAI Responses API]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
   Release Candidate]]'
+- '[[Changes/Devin/2026-03-24-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-24-2026-03-24-bbda4f48|microsoft-365-copilot-2026-03-24-2026-03-24-bbda4f48]]'
 source_type: m365_copilot_changelog
 theme: reliability-performance
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0 Release Candidate]]
+- Earlier: 2026-03-24 · Devin · [[Changes/Devin/2026-03-24-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2 Reliability and Performance changes in v1.3.2 + 1]]
 <!-- chronolog:end -->
 

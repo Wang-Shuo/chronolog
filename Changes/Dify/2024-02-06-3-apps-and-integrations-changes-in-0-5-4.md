@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1de369489f754719abc55f8ca5258396370da4f5c895e0990e0085a3b67a7ee
+machine_hash: 4ac2d8ce521292e780a3e246fb5cf3ea1b6b084bfe50322e66b08506e791d25c
 product: dify
 product_name: Dify
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-2-apps-and-integrations-changes-in-0-5-3|2 Apps and Integrations changes in 0.5.3]]
-- Later: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-chore-add-type-files-and-unit-test-ci-for-node-js-sdk-by-tseian-in-https-github|Chore: Add type files and unit test ci for Node.js SDK]]
+- Later: 2024-02-07 · Raycast · [[Changes/Raycast/2024-02-07-2-apps-and-integrations-changes-in-raycast-macos-v1-1-67-0|2 Apps and Integrations changes in Raycast macos-v1 1.67.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

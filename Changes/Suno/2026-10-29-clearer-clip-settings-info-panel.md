@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 90a51611272e9fd15a068e0079f5359c525bfadaf9ba2c748c4b75b5c186e83f
+machine_hash: a97c165aaa2580669c4d8ecaebb8710f1379e67af6c7dfea0b9b16f3e66cf56a
 product: suno
 product_name: Suno
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-inspect-background-shells|Inspect Background Shells]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-restored-copying-user-messages-from-an-open-actions-menu|Desktop Restored copying user messages from an open actions menu]]
+- Later: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-ctrl-win-can-now-be-used-for-push-to-talk-toggle-recording-and-mode-shortcuts-an|Ctrl+Win can now be used for push to talk, toggle recording, and mode shortcuts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 732daa67a05291e30548fe18494f113049ea46e28e6f1c1e4b1115c2e833ad12
+machine_hash: 3f0206feee97761ff72562a82ce53f9c617b8529479ba7d6468ae09a08a962e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Projects and Workspaces changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude
-  CLI session tools]]'
+- '[[Changes/Krea/2026-10-26-krea-3-edit-keeps-your-session-history|Krea 3 Edit keeps
+  your session history]]'
 - '[[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects
   and Workspaces changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-57342-separate-tui-session-resume-preparation-from-activation-bc-openai|♯57342

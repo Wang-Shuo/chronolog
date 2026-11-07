@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56e4b3931ddcdf83fb2d28d121f948c89468dcd77012dd5082da896f5b839124
+machine_hash: 4ab87fe9a64ce443bb938d8dc279f2e55ccc0aee43b88bfb0bcfa360002853f0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 'Status bar shows @files and #issues hints while typing, and /help hint…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-tui-command-and-tui-setting-run-tui-fullscreen-to-switch-to-flicker-free-r|Added
-  /tui command and tui setting]]'
 - '[[Changes/Claude Code/2026-04-15-2-interface-experience-changes-in-v2-1-110|2 Interface
   Experience changes in v2.1.110]]'
 - '[[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved
   the extended-thinking indicator with a rotating progress hint]]'
+- '[[Changes/Devin/2026-04-15-inline-session-rename|Inline Session Rename]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47|github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved the extended-thinking indicator with a rotating progress hint]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-interface-experience-changes-in-v2-1-111|3 Interface Experience changes in v2.1.111]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-inline-session-rename|Inline Session Rename]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-introducing-hyperkey-it-turns-a-single-key-into-a-powerful-shortcut-modifier-so|Introducing Hyperkey: it turns a single key into a powerful shortcut modifier…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

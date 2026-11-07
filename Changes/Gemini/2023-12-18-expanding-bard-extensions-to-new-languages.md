@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 1d31e0608b4545e94db5bfdc690fe620330982261ac93fa1a9462345dea6afc7
+machine_hash: 57f9cbee188710e29db7aebb9c4ec914990a7fd16ed13a6a275d18ccdb602df5
 product: gemini
 product_name: Gemini
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI Speaker authorization has been simplified, so you can Upload a consent statement…]]
-- Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy changes in 0.5.7]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-grabbing-your-text-selection-is-now-faster-when-accessibility-permission-is-enab|Grabbing your text selection is now faster when accessibility permission is enabled]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 715c20f480adace237b70532c3725cbbd9ea2fcd5e6693ef7c1d350d03bac779
+machine_hash: 7c0f18e8f678928562ed9728a5960ebe8895757b0b30138f41ee8c35a9ce53fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation): give the drawer tab strip real tab semantics]]
-- Later: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read user settings only from ~/.copilot/settings.json]]
+- Later: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-analytics|Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f4f112c42845872b078a221071b37930fd69371be5de97d7dc32aeebbd3530b1
+machine_hash: 83002c73d0d70320ca57d5f662db7a519abbb7075639e5dfbc6294077c810e07
 product: lovable
 product_name: Lovable
 record:
@@ -43,8 +43,8 @@ record:
   title: SVG previews in chat
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
-  Experience changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-better-latex-rendering-support|x Better LaTex
+  rendering support]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
   Interface Experience changes in v1.0.61]]'
 - '[[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2 Interface Experience changes in Kimi Code 0.12.0]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]]
+- Later: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-meeting-mode-now-respects-language-selection-in-ai-summary|Meeting mode now respects language selection in AI summary]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

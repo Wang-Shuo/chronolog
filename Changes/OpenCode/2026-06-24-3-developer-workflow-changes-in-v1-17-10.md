@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 136eca740bebe7a20625287b34d8f442e1dd17f6d3a4865711b1e3d13b5f8383
+machine_hash: 40de62e450395042e80f7fa341e928d2ddd9a36d2ebbd7aab586b4a1df377c41
 product: opencode
 product_name: OpenCode
 record:
@@ -44,7 +44,8 @@ record:
   title: 3 Developer Workflow changes in v1.17.10
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
+- '[[Changes/Devin/2026-06-24-split-view-auto-disable-on-narrow-panels|Split View
+  Auto-Disable on Narrow Panels]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
 - '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
@@ -92,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.17.10
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show the command in running Bash tool cards and allow expanding it with Ctrl+O…]]
-- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-capture-window-new-capture-window-command-to-capture-a-raycast-window-to-share-i|Capture Window : New Capture Window command to capture a Raycast window to share…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

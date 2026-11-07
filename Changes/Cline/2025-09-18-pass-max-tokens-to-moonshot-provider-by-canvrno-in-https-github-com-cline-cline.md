@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be78a6ded7062024118c28c6dbd5cd4fcccb7ff967d34f96a5f45239b551d986
+machine_hash: 1642df9ecfbda76f1da3859de3033afc4526df0fc625e0ec5e607d811e54d918
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Pass max_tokens to moonshot provider
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context
-  Window changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-context-window-changes-in-lm-studio-0-3-26|2 Context
+  Window changes in LM Studio 0.3.26]]'
 - '[[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window
   changes in v0.5.3]]'
 - '[[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window

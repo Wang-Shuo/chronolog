@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fc28562edae32805e02e19f922d643064fe97e29290336249cc182f36f975736
+machine_hash: 31ef77ddca8699a3f18bcf907c9638734ff11316ca49113d063154a43efbcd4c
 product: notion
 product_name: Notion
 record:
@@ -46,10 +46,10 @@ record:
   title: Write & run code in Notion with the Replit embed
   type: change
 related_changes:
-- '[[Changes/Descript/2021-05-12-you-can-now-edit-properties-of-multiple-clips-e-g-scale-position-volume-at-the-s|Batch
-  clip editing]]'
 - '[[Changes/Notion/2021-05-13-un-indenting-nested-bullets-and-numbered-lists-with-shift-tab-or-the-button-on-m|Un-indenting
   nested bullets and numbered lists with Shift + Tab or the  / ← button…]]'
+- '[[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets:
+  Expansion preserves the delimiter, if entered to trigger completion]]'
 - '[[Changes/Descript/2021-07-07-released-a-fix-for-an-issue-where-the-editor-text-would-flicker-after-scrolling|Released
   a fix for an issue where the editor text would flicker after scrolling…]]'
 source_release: '[[Releases/Notion/notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82|notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82]]'

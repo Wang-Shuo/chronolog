@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 929e2405a0393ec4007cfeddb498354799b154a2a79115edc21c5779249a7169
+machine_hash: 9ed6d78f3f307109d30da3eab6f1ef95a80717242ad65e5da5f6f385d384a76c
 product: v0
 product_name: v0
 record:
@@ -52,8 +52,8 @@ record:
   title: v0 iOS App
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-3-mobile-and-desktop-changes-in-rust-v0-47-0|3 Mobile
-  and Desktop changes in rust-v0.47.0]]'
+- '[[Changes/Raycast/2025-10-17-keyboard-added-keyboard-button-switch-for-iphone-se|Keyboard
+  : Added keyboard button switch for iPhone SE]]'
 - '[[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting
   today, project sharing is available to all ChatGPT users, including…]]'
 - '[[Changes/Cline/2025-10-23-fixing-banner-to-not-show-cli-release-for-windows-users-by-arafatkatze-in-https|Fixing

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df410757748d5b1e7df95677eaab09d87c50767854f5f63b3d821883dfae0d16
+machine_hash: d7a2bcb3586d5a34015651cd61d8ce0f55a4b43ae8dde68b7055c147fda00af9
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: 8 Reliability and Performance changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
-  add cached string width function for performance optimization]]'
+- '[[Changes/LM Studio/2025-09-24-improved-memory-usage-estimation-used-for-model-loading-guardrails|Improved
+  memory usage estimation used for model loading guardrails]]'
 - '[[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5
   Reliability and Performance changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability

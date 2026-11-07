@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 035d1a9403df1062065db3468a957ad48f4e043d4580d89286d4575a1bab1d51
+machine_hash: 844c155aa1e1cdef8c3d4e0d55508d53b7517bb266f70e2b5747be6abe0ec6d2
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big
-  projects load quicker]]'
 - '[[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile
   now loads 60%+ faster]]'
 - '[[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker
   default effects]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-performance-improvements-when-loading-the-chat-actions-menu|AI
+  Chat: Performance improvements when loading the chat actions menu]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-1-github-111483725-fed36512|aider-2023-07-08-v0-8-1-github-111483725-fed36512]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker default effects]]
+- Earlier: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-ai-chat-performance-improvements-when-loading-the-chat-actions-menu|AI Chat: Performance improvements when loading the chat actions menu]]
 - Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More robust handling of filepaths, to avoid 8.3 windows filenames]]
 <!-- chronolog:end -->
 

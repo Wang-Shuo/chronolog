@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea04629d15a3d1f4c6eb14cc863f2851a54bb05c231c5de32952da992ce49aea
+machine_hash: 4f70192842e3997cfc1a5cd0dcfa5fd9c7a2dabe446ee562f9d70cbf8d3db565
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,11 @@ record:
   title: Returned 400 instead of 500 when `file` field is missing from audio-to-text…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-07-27-voices|Voices]]'
 - '[[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and
   Audio changes in v0.11.0]]'
+- '[[Changes/Superwhisper/2026-07-27-new-cohere-transcribe-voice-model-on-device|New
+  Cohere Transcribe voice model (on-device)]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'
 source_type: github_releases
 theme: voice
@@ -92,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-4-voice-and-audio-changes-in-v0-11-0|4 Voice and Audio changes in v0.11.0]]
-- Later: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
+- Earlier: 2026-07-27 · Superwhisper · [[Changes/Superwhisper/2026-07-27-new-cohere-transcribe-voice-model-on-device|New Cohere Transcribe voice model (on-device)]]
+- Later: 2026-07-28 · Raycast · [[Changes/Raycast/2026-07-28-2-voice-and-audio-changes-in-raycast-ios-1-3-4|2 Voice and Audio changes in Raycast ios 1.3.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: ca7d82ba7e450068a59080e1ca38af13e3c0a4c43fe909c074641b16f9d5ddef
+machine_hash: 4b5b1257a096449dbb5f40a9a59523335caf888f0cc0e55287f251e716f63899
 product: gemini
 product_name: Gemini
 record:

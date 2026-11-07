@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ce600617813ce4dc82b7c0b6e5e342b1959fab392f519918f1575f60aad0ed20
+machine_hash: 0eb519a706493c88cc57ac066bd331c675ea2bebf51004bb9ddaeb948adb5300
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,8 +56,8 @@ record:
   title: 'Wave 14: Arena Mode'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
-  server supports changing models during a session]]'
+- '[[Changes/LM Studio/2026-01-30-added-parallel-flag-to-lms-load-command-to-allow-loading-a-model-with-specified|Added
+  --parallel  flag to lms load command to allow loading a model…]]'
 - '[[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop
   Free model layout improvements in app]]'
 - '[[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 971fb735290b674d2ef8e6ed244d9cd5085199e06d4a91ba3469bffd7b7ecdc0
+machine_hash: 580dfdb8260b3d6d2e17a85efdd6a55909acb63690c8ec5cc2e172583ef04f01
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.8
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-27 · OpenHands · [[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed terminal truncation to trim middle of long outputs instead of suffix]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-2-developer-workflow-changes-in-v0-1-10|2 Developer Workflow changes in v0.1.10]]
+- Later: 2025-07-02 · Raycast · [[Changes/Raycast/2025-07-02-notes-new-create-dictated-note-command-and-shortcuts-action-will-open-a-new-note|Notes: New Create Dictated Note command and Shortcuts action will open a new note…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 958a4b8ab6f4def5a55ed08d4a321e67be1470f662b19c486aec8a7292de0673
+machine_hash: aba79c7114cceb4efbff271328acd4712d36b439a959c05e0921b972d5b85353
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     the active…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
-  the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
+- '[[Changes/Devin/2026-07-03-blueprint-permission-descriptions|Blueprint Permission
+  Descriptions]]'
 - '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed
   /remote-control sessions showing the wrong permission mode in the mobile…]]'
 - '[[Changes/OpenHands/2026-07-06-4-safety-and-privacy-changes-in-1-9-0|4 Safety and

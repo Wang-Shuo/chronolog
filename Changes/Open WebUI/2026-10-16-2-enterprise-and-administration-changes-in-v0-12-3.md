@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6e41b3fa180290d8fda15dfce1c773352c576631b26d71b3ff99da147352b2c
+machine_hash: 9b90c5ab6611b4875dd08cb775b7df4e4466bd8f08f7c5bc117c70782b40dd11
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,10 +51,10 @@ record:
   title: 2 Enterprise and Administration changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-14-locked-use-beta-on-macos-14-4-or-later-enable-locked-use-in-settings-computer-us|Locked
-  use (Beta)]]'
 - '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
   are now open to labs at U.S. universities]]'
+- '[[Changes/Krea/2026-10-15-zero-data-retention-for-krea-3|Zero Data Retention for
+  Krea 3]]'
 - '[[Changes/Lovable/2026-10-15-export-audit-logs-to-your-siem-or-cloud-storage|Export
   audit logs to your SIEM or cloud storage]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'

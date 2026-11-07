@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31fb5e9d2c1ff6a403f06a5348da849585132c2c4fe1660bdbcde324a5d20248
+machine_hash: 06443e6eea639f594bed1eae7e314ed1bc8348b22352de5200a635bd69bead0a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -73,11 +73,11 @@ record:
   title: 8 Interface Experience changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
-  Interface Experience changes in rust-v0.76.0]]'
 - '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
   Implement smooth scrolling for autocomplete dropdown navigation]]'
 - '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
+- '[[Changes/Raycast/2025-12-20-you-ve-probably-seen-these-in-raycast-when-your-search-term-doesn-t-have-any-mat|You''ve
+  probably seen these in Raycast, when your search term doesn''t have any…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: interface-experience
@@ -138,7 +138,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Replit · [[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]
+- Earlier: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-you-ve-probably-seen-these-in-raycast-when-your-search-term-doesn-t-have-any-mat|You've probably seen these in Raycast, when your search term doesn't have any…]]
 - Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]
 <!-- chronolog:end -->
 

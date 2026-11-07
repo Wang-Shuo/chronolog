@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5ba64c876ce19c5f6354737c9b0b8da4629d1859897dd4351d32b34c757ee54f
+machine_hash: aed548312634fcab559546c71b2721d9f265d2e0b5a64743715c89beef60180b
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,11 @@ record:
   title: 'feat: app sidebar support collapse'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
-  previews: We made it easier to see what codeblock you''re @''ing]]'
-- '[[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label
-  and Speaker Menu changes]]'
 - '[[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed
   a confusing tooltip in the media library showing In-point selection…]]'
+- '[[Changes/Raycast/2024-01-10-ai-emoji-suggestions|AI Emoji Suggestions]]'
+- '[[Changes/Raycast/2024-01-10-3-interface-experience-changes-in-raycast-macos-v1-1-65-0|3
+  Interface Experience changes in Raycast macos-v1 1.65.0]]'
 source_release: '[[Releases/Dify/dify-2024-01-12-0-4-6-github-136769708-0106068b|dify-2024-01-12-0-4-6-github-136769708-0106068b]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed a confusing tooltip in the media library showing In-point selection…]]
-- Later: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-3-interface-experience-changes-in-raycast-macos-v1-1-65-0|3 Interface Experience changes in Raycast macos-v1 1.65.0]]
+- Later: 2024-01-14 · Superwhisper · [[Changes/Superwhisper/2024-01-14-onboarding-flow-activation-bug-fix|Onboarding flow activation bug fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

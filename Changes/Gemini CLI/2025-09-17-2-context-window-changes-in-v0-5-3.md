@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b22a9e883fbc772d4672a1f45eafa138ecbbd64dcc713cb4a0b0eb32367a27d
+machine_hash: b6891870a3e622951e8dca8d60e4c93f135942edbbb7907fd5220088cf8fb9db
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-added-per-provider-thinking-tokens-configurability|Added
-  per-provider thinking tokens configurability]]'
 - '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
   triggers]]'
 - '[[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context
   Window changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-context-window-changes-in-lm-studio-0-3-26|2 Context
+  Window changes in LM Studio 0.3.26]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c|gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.5.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context Window changes in rust-v0.36.0]]
+- Earlier: 2025-09-15 · LM Studio · [[Changes/LM Studio/2025-09-15-2-context-window-changes-in-lm-studio-0-3-26|2 Context Window changes in LM Studio 0.3.26]]
 - Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-2-context-window-changes-in-v0-6-29|2 Context Window changes in v0.6.29]]
 <!-- chronolog:end -->
 

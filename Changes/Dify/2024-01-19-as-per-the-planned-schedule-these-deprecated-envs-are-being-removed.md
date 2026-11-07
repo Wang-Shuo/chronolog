@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 8c8dc4ef214b7c70dd52116ee9173233c055f26f13d7103d5616a290a8a40fac
+machine_hash: e14d0708f06142a7974226fb98f903ddefbf3ac75f5459f20d5222712ae72535
 product: dify
 product_name: Dify
 record:
@@ -43,7 +43,8 @@ record:
   title: As per the planned schedule, these deprecated envs are being removed
   type: change
 related_changes:
-- '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
+- '[[Changes/Raycast/2023-11-15-make-rise-your-default-calendar-to-open-events-in-it-set-it-up-via-raycast-prefe|Make
+  Rise your default calendar to open events in it]]'
 - '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
   data clean schedule]]'
 - '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter

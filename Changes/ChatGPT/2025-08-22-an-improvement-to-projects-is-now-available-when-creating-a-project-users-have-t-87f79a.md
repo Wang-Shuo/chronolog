@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4e98cb36a27d15f948dbf7d7993726c3051b389daf03bde02e024259f34b53e0
+machine_hash: 075a1b44c4eed27ce3c07d69d5046d343df291c6a6aaa492a78f4434175b6bd1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,10 +67,10 @@ record:
   title: An improvement to projects is now available
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
-  drop load-memory-from-include-directories option from cli args]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
   Memory and Personalization changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-well-now-we-have-the-best-of-both-worlds-documents-are-scoped-to-a-workspace-thr|Well,
+  now we have the best of both worlds]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d414876b41fc4cd555345084da92a5c8cceaf6815163fa541f4cca81a3cd58e8
+machine_hash: 7f72987ac3d2d6a823ff38dc385ba38526991ac8351cb5223201e930596fc428
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-11-testcontainers-tests-we-re-serious-about-stability-neatguycoding-and-others-have|Testcontainers
-  Tests: We''re serious about stability!]]'
 - '[[Changes/Lovable/2025-08-11-visual-edits-v2|Visual edits v2]]'
 - '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
+- '[[Changes/Devin/2025-08-12-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]
+- Earlier: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 - Later: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag & drop support - Simply drag images directly into the avatar creation…]]
 <!-- chronolog:end -->
 

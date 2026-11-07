@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 414efcfe4ccd06be330ee901f3c405d6f7c46dc2ed21d5036a5a702773d040bc
+machine_hash: b09acaa78ec7558e2a8b7421d0d47a014dfb0a0b14dfb1596874305411a31a01
 product: synthesia
 product_name: Synthesia
 record:

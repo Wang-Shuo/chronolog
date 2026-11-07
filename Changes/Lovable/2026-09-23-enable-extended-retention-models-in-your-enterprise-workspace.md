@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e62fd45e7729d82cca4388e0f6ea75d0ae5cdf02d90224a3eab5476bc872ef0
+machine_hash: a1795f35f075e6208f2f1558505c1869773a75384a464068fd44e24e070f0cb4
 product: lovable
 product_name: Lovable
 record:
@@ -58,8 +58,8 @@ record:
   title: Enable extended-retention models in your Enterprise workspace
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
-  Support changes in rust-v0.156.1]]'
+- '[[Changes/Devin/2026-09-23-capability-picker-names-the-models|Capability Picker
+  Names the Models]]'
 - '[[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]'
 - '[[Changes/Lovable/2026-09-23-claude-models-for-your-app-s-ai-features|Claude models
   for your app''s AI features]]'

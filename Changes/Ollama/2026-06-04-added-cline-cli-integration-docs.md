@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cdc384a0f26ab3076f61c2d8aa2388dd75d321e4658e6863bca285a340b5fabe
+machine_hash: 2cced63c2e65bad8c672c2bce041f179e93cb0147afecca4fa968c1acc9d39a3
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP tools added or removed by a server mid-turn are now available immediately…]]
+- Later: 2026-06-04 · Raycast · [[Changes/Raycast/2026-06-04-root-search-improved-ranking-for-localized-apps-and-settings-when-using-the-non|Root Search: Improved ranking for localized apps and settings when using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

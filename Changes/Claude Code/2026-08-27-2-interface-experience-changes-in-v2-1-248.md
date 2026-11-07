@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 979f18e9dfc29f6896caabc36753c5ef56bc3394aa591b094d407e0af44ad3cd
+machine_hash: 5dd08d9fba6803a6b7e3146291efcfd9f3f6dda8b731e53e9ce74ca1c87efb53
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Interface Experience changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
-  Interface Experience changes in rust-v0.150.0]]'
 - '[[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2
   Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
   removed from the dashboard sidebar]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-interface-experience-changes-in-v1-16-1|2 Interface
+  Experience changes in v1.16.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources removed from the dashboard sidebar]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-interface-experience-changes-in-v1-16-1|2 Interface Experience changes in v1.16.1]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3 Interface Experience changes in v1.0.81]]
 <!-- chronolog:end -->
 

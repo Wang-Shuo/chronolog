@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4c82d8120dfbf8cd610ecda0a51e2780dbf73d780c483af3dcfcc92fb24749a
+machine_hash: 8f75d2cdffed7f1a03b4e2f90f4350a48c543d083e68c190fc196ccc86ba7267
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Voice and Audio changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  returns to WhatsApp in the EEA]]'
-- '[[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice
-  and Audio changes in v2026.7.1]]'
+- '[[Changes/Superwhisper/2026-07-13-parakeet-japanese-voice-model|Parakeet Japanese
+  voice model]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
   /voice devices to choose and persist the microphone for voice mode]]'
+- '[[Changes/Raycast/2026-07-16-applications-improve-audio-playing-detection-for-auto-quit-apps|Applications
+  : Improve audio playing detection for Auto-Quit apps]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: voice
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add /voice devices to choose and persist the microphone for voice mode]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-applications-improve-audio-playing-detection-for-auto-quit-apps|Applications : Improve audio playing detection for Auto-Quit apps]]
 - Later: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99ac3f370442daac549b84cb417c36152a9e8e16cdbb5cfeedbe242f5beb25c5
+machine_hash: 6e5eb9cfc26f85a8072d98ae7832c245fdb3e7be14c99c427541b87a0ec48b62
 product: descript
 product_name: Descript
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved aliasing issues when downscaling images and video
   type: change
 related_changes:
-- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
-  Alpha Text to Video]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto
+  Quit: Apps will not be automatically terminated while actively playing music…]]'
 - '[[Changes/Descript/2024-08-14-regenerate-with-sequences|Regenerate with Sequences]]'
 - '[[Changes/Descript/2024-08-14-we-ve-added-vp9-to-the-list-of-unsupported-https-help-descript-com-hc-en-us-arti|Descript
   adds VP9 to the list…]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a54b99e2c2d0ecf58d7c8d5c19323b6a62d2d506f7205be1688d20027be66983
+machine_hash: ec9a8afd236cf38e9d0031c74a5981d3e4c6d704d745071fe89a1d4c16b1bdfe
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,8 +56,7 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode
-  changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-agent-dropdown-improvements|Agent Dropdown Improvements]]'
 - '[[Changes/ElevenLabs/2025-10-07-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-10-07-agents-platform-821aa5|Agents Platform]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-07-2025-10-07-a74f7acb|elevenlabs-2025-10-07-2025-10-07-a74f7acb]]'
@@ -107,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode changes in rust-v0.44.0]]
+- Earlier: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-agent-dropdown-improvements|Agent Dropdown Improvements]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
 <!-- chronolog:end -->
 

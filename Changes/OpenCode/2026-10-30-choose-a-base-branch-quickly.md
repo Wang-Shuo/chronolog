@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e8575d90e4a6c5b3064fde62cac9a3fc0f48f87c94d2ce12ae2f70376bdf1580
+machine_hash: 4d76204cbf3eda6833b152cd287587ad982b603cfc96443a534b9f722f835f94
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: Choose a Base Branch Quickly
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
-  Workflow changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-github-file-anchors-open-the-review-at-that-file|GitHub
+  File Anchors Open the Review at That File]]'
 - '[[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell
   Mode Shortcuts]]'
 - '[[Changes/OpenCode/2026-10-30-3-developer-workflow-changes-in-v2-2-4|3 Developer

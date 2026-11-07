@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 571a8bc59047ac5d204bf8f6d10c39ba4963a3db40caa3cab1f05e4435015751
+machine_hash: 72b86a18bf8ed8ec506eebb1c77c4ce19e22601fc9356046dc8ea0a769a2677c
 product: cline
 product_name: Cline
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat: enable/disable an installed MCP server from its card]]
-- Later: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]
+- Later: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-mcp-execution-from-devin-s-servers|MCP Execution from Devin's Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

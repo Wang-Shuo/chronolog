@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 752c9b7919a5d3265593e1a7c58c4b9d265b629dc3d2ee249d7a98b990e4c553
+machine_hash: c4d74d397540f8602d4284550879eab4c99ee7c360703ec8be84b5b166aceac9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-04 · Windsurf · [[Changes/Windsurf/2025-12-04-gpt-5-1-codex-max|GPT-5.1-Codex Max]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model Support changes in rust-v0.66.0]]
+- Later: 2025-12-05 · Raycast · [[Changes/Raycast/2025-12-05-4-model-support-changes-in-raycast-ios-1-2-0|4 Model Support changes in Raycast ios 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9297830dbec97132a772933fd7ae40f7ba5c39522ea77e6fc5ab1ef77a18295b
+machine_hash: fb1f1c6e4a71a09d328ba2bd5d79644e65a925e7ebebdf0a3f91a5f312d24109
 product: descript
 product_name: Descript
 record:
@@ -50,11 +50,12 @@ record:
   title: Regenerate with Sequences
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-import-media-from-a-youtube-and-giphy|Import media
-  from a YouTube and GIPHY]]'
-- '[[Changes/Descript/2024-06-04-media|Media]]'
+- '[[Changes/Raycast/2024-06-19-calendar-you-can-now-join-facetime-and-chorus-ai-video-meetings-right-from-rayca|Calendar:
+  You can now join FaceTime and chorus.ai video meetings right from Raycast]]'
 - '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
   Alpha Text to Video]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto
+  Quit: Apps will not be automatically terminated while actively playing music…]]'
 source_release: '[[Releases/Descript/descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9|descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9]]'
 source_type: canny_changelog
 theme: multimodal
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Earlier: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto Quit: Apps will not be automatically terminated while actively playing music…]]
 - Later: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-improved-aliasing-issues-when-downscaling-images-and-video|Improved aliasing issues when downscaling images and video]]
 <!-- chronolog:end -->
 

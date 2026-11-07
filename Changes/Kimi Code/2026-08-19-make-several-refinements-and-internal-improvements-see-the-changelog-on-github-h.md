@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05df10ac86ca11a05d270619c412df913e05e495a58af2429ebc9b50ae369768
+machine_hash: f7643ca04c690ab325c8ddad5db183a935950ed35b7381b6e5c9f96b3b52f212
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,11 +44,11 @@ record:
   title: Make several refinements and internal improvements
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-sdk-releases|SDK Releases]]'
-- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
-  Apps and Integrations changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
   in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Devin/2026-08-19-new-mcp-marketplace-entry|New MCP Marketplace Entry]]'
+- '[[Changes/Devin/2026-08-19-slack-mute-moves-the-session-to-the-webapp|Slack Mute
+  Moves the Session to the Webapp]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-19-0-37-2-ec97b33f|kimi-code-2026-08-19-0-37-2-ec97b33f]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
+- Earlier: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-slack-mute-moves-the-session-to-the-webapp|Slack Mute Moves the Session to the Webapp]]
 - Later: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access for Amazon Redshift]]
 <!-- chronolog:end -->
 

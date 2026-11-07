@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d60ab1e968c56c50b0438793bc66b9e84ef5e3d962ef19579c06eff95cdff4e3
+machine_hash: 26218424e633b06e18e8b1770e5ba2a2a6d15961d0f7961bd2016011c152b93f
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,7 @@ record:
   title: Extension marketplace supports custom URLs
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]'
+- '[[Changes/Devin/2025-07-28-slack-thread-mode-preference|Slack Thread Mode Preference]]'
 - '[[Changes/Dify/2025-07-28-2-apps-and-integrations-changes-in-1-7-1|2 Apps and Integrations
   changes in 1.7.1]]'
 - '[[Changes/ElevenLabs/2025-07-28-sdks|SDKs]]'

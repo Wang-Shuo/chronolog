@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8bcb71a347c0afca7f458218c792f12dbcbc353e1eecc5a3faf960c5241502d9
+machine_hash: b186ba13ecd4064589cee2892404299bf05945603a3ad02b9de21aef7ec56b3e
 product: cursor
 product_name: Cursor
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-03 · Windsurf · [[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements to import behavior during onboarding]]
-- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|🛠️ Tooltip & Translation Clarity]]
+- Later: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-5-interface-experience-changes-in-v1-8-2|5 Interface Experience changes in v1.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

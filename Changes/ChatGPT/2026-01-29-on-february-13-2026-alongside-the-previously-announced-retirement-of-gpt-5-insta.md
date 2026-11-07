@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: bf739d1b627e2356bcf9c99629bcefc0542ed7187e9e0086d584302464d06c83
+machine_hash: 1147f21722dbbc96e5879220b7549a2dcf336c41cc2f684247d56722d40fdfc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,10 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
-  in v3.55.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
   changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-19-model-support-changes-in-lm-studio-0-4-0|19 Model
+  Support changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support
   changes in v1.1.37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 593c34394730066c4c1287a83280898645c351f3f6c1a968da7b64e4a8815539
+machine_hash: b128320ceba41fd092cd366c12477c34b41d6d6a788cc6692266dcaa8f8a9599
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,10 @@ record:
   title: Performance improvement of UI during long sessions
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-12-31-2-reliability-and-performance-changes-in-v0-5-3|2
-  Reliability and Performance changes in v0.5.3]]'
 - '[[Changes/Replit/2025-01-03-custom-domain-error-handling|Custom domain error handling]]'
 - '[[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3
   Reliability and Performance changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-mlx-updates-apple-silicon|MLX updates (Apple Silicon)]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-07-0-19-0-github-193581612-a242e2a9|openhands-2025-01-07-0-19-0-github-193581612-a242e2a9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3 Reliability and Performance changes in v0.5.4]]
+- Earlier: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-mlx-updates-apple-silicon|MLX updates (Apple Silicon)]]
 - Later: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite 3.1 Dense((source link)]]
 <!-- chronolog:end -->
 

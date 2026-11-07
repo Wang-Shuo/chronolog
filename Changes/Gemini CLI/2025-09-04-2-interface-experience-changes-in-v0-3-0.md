@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c1e15c18e2c4a0b7b57f4f1c28a57bdf8f7cb53f82b6c214454baf27a9e94cd
+machine_hash: 869e3c531c0810fade6de4f0b6a02f3dcb707770ddb2467006b4be1570728239
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Interface Experience changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
-  README/docs refactor and navigation (♯2724)]]'
 - '[[Changes/Descript/2025-08-29-everyone-can-manually-control-this-setting-in-the-labs-section-the-settings-menu|Everyone
   can manually control this setting in the Labs section the Settings menu]]'
 - '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
+- '[[Changes/Raycast/2025-09-03-quick-ai-improved-rendering-of-partial-response-while-it-is-streaming-in-especia|Quick
+  AI: Improved rendering of partial response while it is streaming…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]
+- Earlier: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-quick-ai-improved-rendering-of-partial-response-while-it-is-streaming-in-especia|Quick AI: Improved rendering of partial response while it is streaming…]]
 - Later: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You can hover over styles and press 'Try Style…]]
 <!-- chronolog:end -->
 

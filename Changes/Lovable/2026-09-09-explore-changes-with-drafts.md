@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd190072a92fde6a9f3e54db18a2b46fca24a047270cb3c9311acad188e80e38
+machine_hash: 8898dbf190523b4fb68bc6193b249b5b9bc1e0483129f71e5ca85918e62447c5
 product: lovable
 product_name: Lovable
 record:
@@ -55,10 +55,8 @@ record:
   title: Explore changes with drafts
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway
-  Adobe Plugins]]'
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Devin/2026-09-09-faster-tab-switching|Faster Tab Switching]]'
+- '[[Changes/Devin/2026-09-09-desktop-tab-on-touch-devices|Desktop Tab on Touch Devices]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2
   Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 281bf341e44df522226d9603abd152c5dbc5a2e015df39e0ca8fc83f4093d6bf
+machine_hash: 8da13c4f4057662e59b2f51d3f4e23e038ef41596e7655df1770e91520352a10
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-2-developer-workflow-changes-in-0-6-14|2 Developer Workflow
-  changes in 0.6.14]]'
 - "[[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|\U0001FAB2
   Debug Logs: Fixed an issue where debug logs were not being logged properly]]"
+- '[[Changes/Raycast/2024-07-17-4-developer-workflow-changes-in-raycast-macos-v1-1-79-0|4
+  Developer Workflow changes in Raycast macos-v1 1.79.0]]'
 - '[[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer
   Workflow changes in 0.8.1]]'
 source_release: '[[Releases/Dify/dify-2024-07-23-0-6-15-github-166727210-9df490d0|dify-2024-07-23-0-6-15-github-166727210-9df490d0]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer Workflow changes in 0.8.1]]
-- Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-provide-feedback-to-tool-use-like-terminal-commands-and-file-edits|Provide feedback to tool use like terminal commands and file edits]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-6-developer-workflow-changes-in-v1-0-0|6 Developer Workflow changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

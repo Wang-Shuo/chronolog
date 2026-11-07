@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d654b6935ed67f9e9bfea4e65e1c2d90ac4b13afcde8b3fcfcd3ee58a7d4b1e
+machine_hash: 240620c891cbbc8bf3fcfaefbb5e01ecb30572a58bcdcdbb57c9741457cd9d8b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search
-  and Browsing changes in v2026.9.5]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
-  steering prompts in the same mode combine into one pending message]]'
 - '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
   and Browsing changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-7-search-and-browsing-changes-in-v1-16-2|7 Search
+  and Browsing changes in v1.16.2]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-web-browsing-is-now-enabled-by-default-for-agents|x
+  Web browsing is now enabled by default for agents]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: search-browsing
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search and Browsing changes in v0.11.4]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-web-browsing-is-now-enabled-by-default-for-agents|x Web browsing is now enabled by default for agents]]
 - Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved /deep-research reliability on long research briefs by removing unused…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85fd1f6ca38f794b7e02f6aca4c7202ad0479e7028a1498a757bc17f9b485015
+machine_hash: fe0880db2633908ccc7a582f044499b8bbe55878290c378a2279168e2c6b3053
 product: v0
 product_name: v0
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Collaboration changes in Slash commands, the Shopify…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
-  changes in v1.0.71]]'
 - '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes
   in 1.16.0]]'
+- '[[Changes/Raycast/2026-07-20-notes-you-can-now-share-a-note-as-an-image|Notes :
+  You can now share a note as an image]]'
 - '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
   changes in rust-v0.145.0]]'
 source_release: '[[Releases/v0/v0-2026-07-21-2026-07-21-009a4b0a|v0-2026-07-21-2026-07-21-009a4b0a]]'

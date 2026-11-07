@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2545542033549de0e8c0bc683879bbf6dc65d9d9823baae8fac40c3abc4399af
+machine_hash: 2336a5aae6f54daf8a61cf94fe18ef9964e3a2ccca083434875bdaf1e0aeddc1
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,7 @@ record:
     setup
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
-  Apps and Integrations changes in rust-v0.128.0]]'
+- '[[Changes/Devin/2026-05-01-jira-project-mapping-redesign|Jira Project Mapping Redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
 - '[[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add

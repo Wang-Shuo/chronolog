@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0ddb5374ce028faf8232643dc2113200558de0ab786859204b12a0edb96cbf72
+machine_hash: bc4e318d74fc6912ec14e77539cfdf17bbaed0ee2b7b19a75f8cb36c2d4b7af4
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,9 @@ record:
   title: Low credit alert**
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
-  visible in /status]]'
 - '[[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get
   user subscription((source link)]]'
+- '[[Changes/Recraft/2025-11-21-cost-per-generation|Cost per generation]]'
 - '[[Changes/Dify/2025-11-26-3-pricing-model-changes-in-1-10-1|3 Pricing Model changes
   in 1.10.1]]'
 source_release: '[[Releases/Lovable/lovable-2025-11-26-2025-11-26-b469983e|lovable-2025-11-26-2025-11-26-b469983e]]'

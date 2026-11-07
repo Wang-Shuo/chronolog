@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0767d2c3d3305bea78fd7112a9d1080cbc8fb5e01c194b91569966ade927c91f
+machine_hash: 508726e04bcbf6d3bcb5af9eae02eed0804b28cb197c934215bf2865c611553a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,12 +43,12 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-04-desktop-faster-end-to-end-tests|Desktop Faster end-to-end
-  tests]]'
-- '[[Changes/OpenCode/2026-02-04-prevent-memory-leaks-from-abortcontroller-closures|Prevent
-  memory leaks from AbortController closures]]'
 - '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
+- '[[Changes/Devin/2026-02-06-devin-review-auto-review-settings|Devin Review: Auto-Review
+  Settings]]'
+- '[[Changes/Devin/2026-02-06-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-09-2026-02-09-4b81b7a2|elevenlabs-2026-02-09-2026-02-09-4b81b7a2]]'
 source_type: elevenlabs_changelog
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
+- Earlier: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-we-ve-also-updated-our-lip-sync-model-for-translated-videos-it-s-hella-good-now|Descript updates our lip sync model for translated videos]]
 <!-- chronolog:end -->
 

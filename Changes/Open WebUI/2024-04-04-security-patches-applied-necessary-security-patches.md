@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ecb4f95cbeab99436cc741ecce13f34e6c725d7bb1f55cf05e8dd1fd5526cd4
+machine_hash: 39942b66690035b909a47d0edd0a18c1d32a3c96a6b2f909499118a1a52bc81f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -41,12 +41,12 @@ record:
   title: "\U0001F512 **Security Patches**: Applied necessary security patches"
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI
-  Speaker authorization has been simplified, so you can Upload a consent statement…]]'
-- '[[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding
-  Bard Extensions to new languages]]'
+- '[[Changes/Raycast/2024-01-10-grabbing-your-text-selection-is-now-faster-when-accessibility-permission-is-enab|Grabbing
+  your text selection is now faster when accessibility permission is enabled]]'
 - '[[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy
   changes in 0.5.7]]'
+- '[[Changes/Superwhisper/2024-03-13-if-user-has-completed-onboarding-do-not-continue-prompting-for-accessiblity-perm|If
+  user has completed onboarding, do not continue prompting for accessiblity permission]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac|open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac]]'
 source_type: github_releases
 theme: safety-privacy
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy changes in 0.5.7]]
+- Earlier: 2024-03-13 · Superwhisper · [[Changes/Superwhisper/2024-03-13-if-user-has-completed-onboarding-do-not-continue-prompting-for-accessiblity-perm|If user has completed onboarding, do not continue prompting for accessiblity permission]]
 - Later: 2024-04-10 · Open WebUI · [[Changes/Open WebUI/2024-04-10-share-chat-permission-resolved-issue-with-chat-sharing-permissions|🔒 Share Chat Permission: Resolved issue with chat sharing permissions]]
 <!-- chronolog:end -->
 

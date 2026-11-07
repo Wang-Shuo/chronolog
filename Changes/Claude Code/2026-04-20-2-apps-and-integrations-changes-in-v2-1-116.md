@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79dd998b369bfdfdee2376da4a9894b35d4d17edcaaa655f7f2ef18cea133276
+machine_hash: 34c7867ad24f08e1fd4060742b7c7d72d9d5d054bf62954b258c32f8dd7db767
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core
-  Let plugin tools return metadata in execute results]]'
+- '[[Changes/Recraft/2026-04-17-framer-plugin-https-www-framer-com-marketplace-plugins-recraft|Framer
+  plugin((source link)]]'
 - '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
 - '[[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps
   and Integrations changes in v1.14.18 + 1]]'

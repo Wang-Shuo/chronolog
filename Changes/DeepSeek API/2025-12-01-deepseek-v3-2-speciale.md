@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 621b32881297cd555df6334c4dd50c1c080f378de168d5d6f81991d5af40382b
+machine_hash: e84abe0d9cf648319f5d6f296b9808174f98aa725b27a41bcf28d0a3b872b1b5
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -49,10 +49,10 @@ record:
   title: DeepSeek-V3.2-Speciale
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-low-credit-alert|Low credit alert]]'
 - '[[Changes/Replit/2025-11-26-stripe-integrated-payments-for-core-users|Stripe Integrated
   Payments for Core Users]]'
 - '[[Changes/ElevenLabs/2025-11-27-workspaces|Workspaces]]'
+- '[[Changes/Recraft/2025-11-28-cost-per-generation|Cost per generation]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2025-12-01-2025-12-01-51958c5b|deepseek-api-2025-12-01-2025-12-01-51958c5b]]'
 source_type: deepseek_changelog
 theme: pricing-model
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-workspaces|Workspaces]]
+- Earlier: 2025-11-28 · Recraft · [[Changes/Recraft/2025-11-28-cost-per-generation|Cost per generation]]
 - Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]
 <!-- chronolog:end -->
 

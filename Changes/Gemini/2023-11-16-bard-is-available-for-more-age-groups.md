@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 916dfe70fe448c46f916909cc64f4cd19997a85124487a5a568a8a7508c02686
+machine_hash: 631e0ddc600ca32439704f29f9189808b4cc798597d7e2298aea2b1c6fb5f6bc
 product: gemini
 product_name: Gemini
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]
-- Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- Later: 2023-11-17 · Superwhisper · [[Changes/Superwhisper/2023-11-17-onboarding-flow-improvements|Onboarding flow improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

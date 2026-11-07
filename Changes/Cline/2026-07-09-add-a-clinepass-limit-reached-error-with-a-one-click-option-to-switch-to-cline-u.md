@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 070a9e4b1a3aa636ba180bd891a7cef11a937e596e211b8ecd2f1488b002a4a1
+machine_hash: 878234c6ed24ed017a932214f2dd01b0eec13f00ff9a9e4638da74a0ef2f1d06
 product: cline
 product_name: Cline
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f8263aebd444a0503226ce2a782ac444927ba58ee27d8653af5cd88adab1e17
+machine_hash: 323e8bb90168ed68ccc83af9293e897d8c66e7d5fc098a1e800e35d22baefbdc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Voice and Audio changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-23-voices|Voices]]'
-- '[[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️
-  Voice dictation shortcut. Users can now toggle voice dictation using…]]'
+- '[[Changes/Superwhisper/2026-02-23-elevenlabs-scribe-experimental|ElevenLabs Scribe
+  (experimental)]]'
+- '[[Changes/Superwhisper/2026-02-23-realtime-streaming|Realtime Streaming]]'
 - '[[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate
   prompts by holding the spacebar to record and transcribe voice input…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️ Voice dictation shortcut. Users can now toggle voice dictation using…]]
+- Earlier: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-realtime-streaming|Realtime Streaming]]
 - Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
 <!-- chronolog:end -->
 

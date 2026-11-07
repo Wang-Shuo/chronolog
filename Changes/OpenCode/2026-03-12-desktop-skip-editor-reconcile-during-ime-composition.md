@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 061d73d2e1c7ea3906e11d34538cfc7c06796f64a1fc22733d18b612734205d3
+machine_hash: 766654d85bc5998c2821c56ce4039a93cac73e74eb016236c89cf365997c67fa
 product: opencode
 product_name: OpenCode
 record:
@@ -39,12 +39,12 @@ record:
   title: Desktop Skip editor reconcile during IME composition
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-03-10-expanded-ai-skill-inferencing-for-e3-and-e5-users-windows-web-microsoft-365-copi|Expanded
-  AI skill inferencing for E3 and E5 users Windows…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit
   images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
+- '[[Changes/Raycast/2026-03-11-ai-edit-highlights-are-now-supported-in-ai-commands-like-fix-spelling-and-gramma|AI
+  : Edit highlights are now supported in AI Commands (Like fix spelling and grammar)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-12-v1-2-25-4fca2d35|opencode-2026-03-12-v1-2-25-4fca2d35]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document node limitation for shift+tab]]
+- Earlier: 2026-03-11 · Raycast · [[Changes/Raycast/2026-03-11-ai-edit-highlights-are-now-supported-in-ai-commands-like-fix-spelling-and-gramma|AI : Edit highlights are now supported in AI Commands (Like fix spelling and grammar)]]
 - Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax highlighting in /diff with support for 17 programming languages]]
 <!-- chronolog:end -->
 

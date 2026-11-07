@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1828b0c90836ac86cab0db3a45ad280dda3eea8d3d287608b8d4efd667e5d15b
+machine_hash: 624e1c904c35a9aa16c45784f3c9e2314b367a762d212ad14d134724e61796fe
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Desktop Added keyboard navigation and shortcuts to the question dock
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
-  session picker loads significantly faster, especially with large session histories]]'
+- '[[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad-5bb922|Importer
+  : Avoid mapping hotkey characters to the number pad]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
   is now an interactive version picker]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c4d1e1e05a259ff27add9928c93ce240be52883e6b55c88d9964d21fb6d8605c
+machine_hash: a12b9d8c2c88e73d2fb9f99824ca1c30173d4fee9468ab536c78acc997535c13
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Require AgentSwarm tool calls to run alone in a model response
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
-  what''s new in V8.1]]'
+- '[[Changes/Superwhisper/2026-06-11-2-model-support-changes-in-superwhisper-windows-1-4-13|2
+  Model Support changes in Superwhisper Windows 1.4.13]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added

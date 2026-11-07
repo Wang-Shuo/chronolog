@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 363a629234bcff63f5b106f952e3c001909a898642a6596553698b0cd903dc92
+machine_hash: b3115619c59cab91b290cac47b47b2114562efc738689a4d97a00454050755b5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,10 +53,10 @@ record:
   title: 2 Search and Browsing changes in v0.8.6
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
-  limits for search results]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
   /research command for deep research with exportable reports]]'
+- '[[Changes/Raycast/2026-02-26-applications-open-recent-files-directly-from-application-search-results|Applications
+  : Open recent files directly from application search results]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-01-v0-8-6-github-291846033-263bca05|open-webui-2026-03-01-v0-8-6-github-291846033-263bca05]]'

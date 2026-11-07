@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 309a82723e24addd224a80b9b38dff52917c61165b8a243bd7c321143cd1f5dd
+machine_hash: a5467f78679256a9fc8042e6e8f6aada0da1bc81f2d282ac4528586c2b973f46
 product: descript
 product_name: Descript
 record:
@@ -55,12 +55,12 @@ record:
   title: You can hear a before and after sample below
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
-  Audio Input Echo Cancellation]]"
 - '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
   changes in v0.71.0]]'
 - '[[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription
   language]]'
+- '[[Changes/AnythingLLM/2025-01-29-audio-file-validations-by-shatfield4-in-https-github-com-mintplex-labs-anything|Audio
+  file validations]]'
 source_release: '[[Releases/Descript/descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1|descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1]]'
 source_type: canny_changelog
 theme: voice
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-01-28 · Descript · [[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription language]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-audio-file-validations-by-shatfield4-in-https-github-com-mintplex-labs-anything|Audio file validations]]
 - Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|🎤 Kokoro-JS TTS Support]]
 <!-- chronolog:end -->
 

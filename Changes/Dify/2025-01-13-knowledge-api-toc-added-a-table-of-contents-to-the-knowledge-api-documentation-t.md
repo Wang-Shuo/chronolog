@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6895d646bb1778ed0f5113fc8d8a267124c93f01b8309d4ffd65c0b56efc592e
+machine_hash: c7da45b03d8e6fd927735a0fab1520c7e6d0fe1cc83ba6cf1f080ede861d55af
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,7 @@ record:
   title: '**Knowledge API ToC**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
-  Experience changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-ui-improvements|UI improvements]]'
 - '[[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]'
 - '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Dify/dify-2025-01-13-0-15-1-github-194401770-ca73c71e|dify-2025-01-13-0-15-1-github-194401770-ca73c71e]]'
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]
-- Later: 2025-01-14 · Descript · [[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]
+- Later: 2025-01-13 · Superwhisper · [[Changes/Superwhisper/2025-01-13-onboarding-rebuild-super-mode-release|Onboarding Rebuild & Super Mode Release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

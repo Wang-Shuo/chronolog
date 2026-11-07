@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 289a40d8c5b1fef502971d5f230750f0a3a44ddfc50c6229a93e59279a82f464
+machine_hash: 943fd4f2b2444878116cf84df1e974ff7e308b624b4a698ce0ff8a0d83dae585
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Safety and Privacy changes in v0.44.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-safety-and-privacy-changes-in-v1-0-52|2
-  Safety and Privacy changes in v1.0.52]]'
+- '[[Changes/AnythingLLM/2026-05-26-this-is-we-believe-a-fundamental-shift-in-how-ai-assistants-work-for-the-first-t|This
+  is, we believe, a fundamental shift in how AI assistants work]]'
 - '[[Changes/Codex CLI/2026-05-26-7-safety-and-privacy-changes-in-rust-v0-134-0|7
   Safety and Privacy changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety

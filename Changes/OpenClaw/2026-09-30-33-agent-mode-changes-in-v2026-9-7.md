@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 706c4ad1d11ccc86df166457b39b20872608145f6fd87062944212757e00e72e
+machine_hash: e596f37a6164dc38cfacec2d2ec7d17b0f8829541dc8dc266d03a4b120af2878
 product: openclaw
 product_name: OpenClaw
 record:
@@ -325,7 +325,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-you-can-now-send-a-message-directly-to-a-subagent-from-the-message-box-without-g|Send a message directly to a subagent from the message box, without going through…]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode changes in v2.1.287]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-apply-workspace-temperature-to-agents-and-omit-the-parameter-when-unset-by-shatf|Apply workspace temperature to agents and omit the parameter when unset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc9b7b348decfbe0fc9d53f609dce187ba4eb80a8717b35ef4b583de1083556f
+machine_hash: ce42f0a67d65897c132e4ce0fefe2b0d9927814079a8863831317bf84615a51d
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: Feat/add email support for pro and team
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add
-  links to a feedback sharing site]]'
+- '[[Changes/Raycast/2024-07-03-affiliate-program-you-can-now-earn-30-commission-by-joining-our-affiliate-progra|Affiliate
+  Program: You can now earn 30% commission by joining our Affiliate Program…]]'
 - '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
   move image agnostic util to shared runtime util]]'
 - '[[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend:

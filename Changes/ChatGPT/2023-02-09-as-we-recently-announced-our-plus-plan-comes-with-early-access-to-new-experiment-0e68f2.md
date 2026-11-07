@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a88224ab64fb80b154848fe8a98567903f645b37f7cb7543fcc6849e829bbf20
+machine_hash: 99b893234087131a9763b4b57fcd1a502105a407c0e5ceb81476e95c71ca41d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: As we recently announced, our Plus plan comes with early access to new, experimental…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-  generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+- '[[Changes/Raycast/2023-01-18-bottom-left-menu-you-can-now-click-on-the-name-of-any-command-in-the-bottom-left|Bottom-left
+  menu : You can now click on the name of any command in the bottom-left…]]'
 - '[[Changes/Descript/2023-01-23-made-it-easier-to-apply-changes-from-one-scene-to-all-scenes-that-a-layer-spans|Made
   it easier to apply changes from one scene to all scenes that a layer spans]]'
 - '[[Changes/Descript/2023-02-06-the-jump-to-markers-menu-is-now-on-the-top-right-of-the-script-when-you-add-mark|The

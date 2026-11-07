@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0e596def29e1de09bd636f4b4c83c17a43432db4810f926e01e6600f81b24fb
+machine_hash: 50df74bc9aff500b0f77be7c520affa2b8f21423c7c82ea7e478ab4d46e75e46
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in v1.17.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
-  Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-tray-fixes-when-app-starts-in-background-or-desktop-assistant-feature-is-toggl|x
+  Tray Fixes when app starts in background or Desktop Assistant feature is toggled]]'
 - '[[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect
   Git Bash installed through Scoop and other Git shims on Windows]]'
 - '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1a10c010dfd2a78a7d64f44ae56e8e10f750a90c2fc47e693a99327bdd3f2d8c
+machine_hash: e25b95c36742685a2f99e752b827660a3da2a939aab3dee0db353ce506395195
 product: replit
 product_name: Replit
 record:
@@ -45,9 +45,10 @@ record:
   title: Use Stripe in collaborative workspaces
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
-- '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
-  changes in rust-v0.137.0]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team|Teams:
+  Share AI Commands with your whole team]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team-cb10ee|Teams:
+  Share AI Commands with your whole team]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
   the Mission Control sharing status of synced sessions in the /session info view]]'
 source_release: '[[Releases/Replit/replit-2026-06-05-2026-06-05-95c49499|replit-2026-06-05-2026-06-05-95c49499]]'

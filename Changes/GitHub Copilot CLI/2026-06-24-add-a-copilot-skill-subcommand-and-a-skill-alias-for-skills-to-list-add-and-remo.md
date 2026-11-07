@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90c62d177d71fbe4ab77cafed0a5966954da7fb783a354d711cd4d5d05039504
+machine_hash: 9c46c13c2c3d7bf5f21da06e0a0a80b948461202f83f52090ec6d651b548ed85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     list, add…
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
-  on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
-- '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
-  code-mode: preserve initial yield at completion @cconger]]'
+- '[[Changes/Raycast/2026-06-22-notes-you-can-now-pin-or-unpin-notes-from-the-editor-menu|Notes
+  : You can now pin or unpin notes from the editor menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
   Editor Experience changes in v1.0.64]]'
+- '[[Changes/Devin/2026-06-24-pin-unpin-sessions-from-command-palette|Pin/Unpin Sessions
+  from Command Palette]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd|github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9 Editor Experience changes in v1.0.64]]
+- Earlier: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-pin-unpin-sessions-from-command-palette|Pin/Unpin Sessions from Command Palette]]
 - Later: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show subcommand suggestions after Tab-completing a slash command name]]
 <!-- chronolog:end -->
 

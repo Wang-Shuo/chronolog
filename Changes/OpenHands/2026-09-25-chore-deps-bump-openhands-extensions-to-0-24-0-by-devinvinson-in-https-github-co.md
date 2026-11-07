@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ceeace01433ae3ffc961440b233fa96246c87888e2969d17ccce044c01d8a95
+machine_hash: e3af4e874162a5f6b0c2ea8e9c07b5b494c05f222cf4dba04af58dd95e1d7b91
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 'chore(deps): bump @openhands/extensions to 0.24.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
-  Apps and Integrations changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
-  Apps and Integrations changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-pr-link-hover-card-opens-the-owning-session|PR Link
+  Hover Card Opens the Owning Session]]'
+- '[[Changes/Devin/2026-09-25-devin-can-target-a-specific-uploaded-plugin|Devin Can
+  Target a Specific Uploaded Plugin]]'
 - '[[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App
   + chat connectors: Discord and Google Business Profile]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d96e11339be99a5a89cfbb5870a27ccca98604d4d92b173dc4ef3123f2f5f09
+machine_hash: ca3eacd7ef459af8c5dc9c3e98407662e6d35441dc733527155e94ce56861cfa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: '#18662 feat: add metric to track the number of turns with memory usage @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
-  Reliability and Performance changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
   Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Devin/2026-04-22-merge-time-reduction-in-review|Merge Time Reduction
+  in Review]]'
 - '[[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2
   Reliability and Performance changes in v0.21.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'

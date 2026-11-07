@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88e9b36358591432dbfb731b7addea422c78867ba2ba28b0e9c490053b3ffd11
+machine_hash: ead619de3cb8c27a7a7abfe4f2ade211e15e105444b8e067f667cc0744024fb0
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -40,8 +40,8 @@ record:
   title: 'web: Add a flat/by-workspace tab to the mobile session list'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
-  Experience changes in v0.11.1]]'
+- '[[Changes/AnythingLLM/2026-08-27-however-this-had-the-unintended-side-effect-of-canceling-inference-when-navigati|However,
+  this had the unintended side effect of canceling inference when navigating…]]'
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
   it into a real repo, whenever you want]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add

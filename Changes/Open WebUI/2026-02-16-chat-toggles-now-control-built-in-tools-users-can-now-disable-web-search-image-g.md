@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fbfb8cbbbeed4aa2ea2fca24a2783c9d63bcaf544217134377da8aa0e2e95fc4
+machine_hash: 68c153d920d5d5032fbf6ca3ca43fe3f999e8edf1a1a45e7f5f67ef0c4cb9edf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,8 +64,8 @@ record:
     search…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
-  decision-making Small requests…]]'
+- '[[Changes/LM Studio/2026-01-28-adds-download-copy-and-reveal-in-working-directory-buttons-to-generated-images-i|Adds
+  download, copy, and reveal in working directory buttons to generated images in chat]]'
 - '[[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image
   generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]'
 - '[[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation changes in v0.8.0]]
-- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-video-stack|Video Stack]]
+- Later: 2026-02-18 · Recraft · [[Changes/Recraft/2026-02-18-we-ve-just-launched-recraft-v4-our-most-advanced-image-generation-model-yet-it-s|We’ve just launched Recraft V4, our most advanced image generation model yet]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

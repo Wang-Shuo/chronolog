@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 66795c3b86f6a01a1df95af5894f827ddac389aafcfc78b25268c07560c57627
+machine_hash: 94eecd1c303197e38d58f3e5e9bafa66eb1aed59ce5079951b6f138e1e46156a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Preserve pasted prompt content when changing models through Ctrl+X /model
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
-  in 1.16.0]]'
 - '[[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using
   an API key for Kimi coding models now also fetches the latest model list…]]'
+- '[[Changes/Superwhisper/2026-07-17-new-model-availability-status-indicators|New
+  model availability status indicators]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'

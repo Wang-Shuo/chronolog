@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49d43da071518c199739d876e6d36c6ac8394971d05e361e5c30d5135f7eb557
+machine_hash: ad71b13d5ee40c1e1b3e3c8f75bb90d351b7e828747ae7273d78f510e4098341
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Safety and Privacy changes in v1.0.93
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-fix-consume-consent-aware-website-posthog-handoff-by-malhotra5-in-https-github-c|fix:
-  consume consent-aware website PostHog handoff]]'
-- '[[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety
-  and Privacy changes in v2.1.293]]'
 - '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
   Safety and Privacy changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-security-profiles-teams-group-chats|Security Profiles:
+  Teams Group Chats]]'
+- '[[Changes/Devin/2026-10-07-devin-review-permissions|Devin Review Permissions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062|github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.93
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9 Safety and Privacy changes in rust-v0.161.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-devin-review-permissions|Devin Review Permissions]]
 - Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On macOS, if privacy settings block Antigravity from reading a file or folder you…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 37d2ae69d7402132a8a7196ec35eafa087f0f259c775c52dd5b095a56ec8c02a
+machine_hash: b2a9acfb5efd935c1d6374a683a0376be579f200bc05db016dda21c080f48b79
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,8 +42,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
+- '[[Changes/AnythingLLM/2025-04-18-3-agent-mode-changes-in-v1-8-0|3 Agent Mode changes
+  in v1.8.0]]'
 - '[[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress
   UX]]'
 - '[[Changes/ElevenLabs/2025-04-21-agents-platform|Agents Platform]]'

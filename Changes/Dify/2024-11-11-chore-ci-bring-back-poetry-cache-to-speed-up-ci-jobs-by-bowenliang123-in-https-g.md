@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee1f22d84e141bf453f2df42377d8d54ecdda9a696afa1e95126422cd71815a2
+machine_hash: 09c6497a71ecdf137ab6cee5b68e0eb9e25fa21280aaa2888ccce914fe21a4e7
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'chore(ci): bring back poetry cache to speed up CI jobs'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|\U0001F6E0️
-  Tool Parameters Issue]]"
-- '[[Changes/Dify/2024-10-28-improved-file-handling-in-http-requests-your-http-requests-within-workflows-are|Improved
-  File Handling in HTTP Requests: Your HTTP requests within workflows…]]'
+- '[[Changes/Superwhisper/2024-10-28-performance-improvements-for-shorter-recordings|Performance
+  improvements for shorter recordings]]'
 - '[[Changes/Dify/2024-11-05-3-reliability-and-performance-changes-in-0-11-0|3 Reliability
   and Performance changes in 0.11.0]]'
+- '[[Changes/Superwhisper/2024-11-08-faster-event-handling-and-performance-improvements|Faster
+  event handling and performance improvements]]'
 source_release: '[[Releases/Dify/dify-2024-11-11-0-11-1-github-184645691-184d9522|dify-2024-11-11-0-11-1-github-184645691-184d9522]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-3-reliability-and-performance-changes-in-0-11-0|3 Reliability and Performance changes in 0.11.0]]
+- Earlier: 2024-11-08 · Superwhisper · [[Changes/Superwhisper/2024-11-08-faster-event-handling-and-performance-improvements|Faster event handling and performance improvements]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-duckduckgo-rate-limit-fix-addressed-issues-with-duckduckgo-search-integration-en|🔍 DuckDuckGo Rate Limit Fix]]
 <!-- chronolog:end -->
 

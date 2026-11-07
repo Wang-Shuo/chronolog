@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1420caf144c9edf6a1089e932b9253207ca9b9aab75c3ff4ff0f29d596652c0a
+machine_hash: 8a73a3ab68d59cfff4bcdcea50fbe47bc9ba76e8fd8667c0d594fc614643cece
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,9 @@ record:
   title: Copilot++ now has chunked streaming (currently in Beta)!
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4
-  models will no longer fail to load from out of memory errors]]'
-- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
-  will no longer error if loading models larger than system memory if disk…]]'
+- '[[Changes/Devin/2024-07-15-devin-is-now-faster|Devin is now faster!]]'
+- '[[Changes/Raycast/2024-07-17-misc-reduced-memory-footprint-added-a-cache-diagnostics-tool-to-gather-logs-abou|Misc:
+  Reduced memory footprint]]'
 - '[[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit
   faster with GIFs, Direct Cut, and Shortcuts]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e31f970bba0aa6916edbf696b060e55f93c1f2365c2cf5b0cdd63bf9b71c4abc
+machine_hash: 20674d2cbcd3b7952acd60f461d60c36d07c92d73d3c6c1ce693ccd7c2f176bc
 product: dify
 product_name: Dify
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Pricing Model changes in 0.15.1
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-13-billing-updates-all-usage-limits-for-agent-have-been-removed-and-the-credits-inc|Billing
-  updates: All usage limits for Agent have been removed, and the credits…]]'
 - '[[Changes/ElevenLabs/2024-12-19-launches|Launches]]'
+- '[[Changes/Devin/2024-12-24-devin-is-now-generally-available|Devin is now generally
+  available!]]'
 - '[[Changes/Replit/2025-01-03-neon-database-improvements|Neon database improvements]]'
 source_release: '[[Releases/Dify/dify-2025-01-13-0-15-1-github-194401770-ca73c71e|dify-2025-01-13-0-15-1-github-194401770-ca73c71e]]'
 source_type: github_releases
@@ -84,7 +84,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.1
 ## Nearby in Pricing Model
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-neon-database-improvements|Neon database improvements]]
-- Later: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-projects|Projects]]
+- Later: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-introducing-usage-based-billing|Introducing usage based billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20ef25b0c922d83ef44aa332d890c9f455210da0e4ae2757ff1a102b58cf1f36
+machine_hash: eb732a31be3b6393f29f23e52d05ccd333b29982a5754b54f62e47dcd5f1869f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
-  Improved opencode login transport error messages]]'
 - '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
   interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
   bearer token authentication for BYOK Anthropic models]]'
+- '[[Changes/LM Studio/2026-04-09-add-oauth-support-for-mcp-servers|Add OAuth support
+  for MCP servers]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: account-access
@@ -96,8 +96,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support bearer token authentication for BYOK Anthropic models]]
-- Later: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions Added configurable OAuth redirect URIs for remote MCP servers]]
+- Earlier: 2026-04-09 · LM Studio · [[Changes/LM Studio/2026-04-09-add-oauth-support-for-mcp-servers|Add OAuth support for MCP servers]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-unlink-github-enterprise-server-oauth|Unlink GitHub Enterprise Server OAuth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

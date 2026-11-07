@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2aa0318068f439556c1eb294cbbe46920eb76e6a1d20764c7cf167f123278c44
+machine_hash: 6106459cb058c600c133f206deb2d4401ed86d8ee8361379ba2b66e87e73d943
 product: opencode
 product_name: OpenCode
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
-- Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading remote sessions using GraphQL ID or session picker]]
+- Later: 2026-01-07 · Superwhisper · [[Changes/Superwhisper/2026-01-07-model-picker-design-update|Model picker design update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

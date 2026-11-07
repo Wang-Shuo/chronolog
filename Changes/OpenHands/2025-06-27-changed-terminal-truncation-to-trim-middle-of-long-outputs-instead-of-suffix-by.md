@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52af465c0d286ef80fde752ecdcd879168180e2f45531e0a6ff3a8837f775add
+machine_hash: 71f120f750c9b52a2bd4c5987bd0878d771ef0a1c78ae311edbb15c3a84d47a3
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: Changed terminal truncation to trim middle of long outputs instead of suffix
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow
-  changes in 1.5.0]]'
+- '[[Changes/Raycast/2025-06-26-2-developer-workflow-changes-in-raycast-windows-0-25|2
+  Developer Workflow changes in Raycast windows 0.25]]'
 - '[[Changes/Aider/2025-06-27-3-developer-workflow-changes-in-v0-85-0|3 Developer
   Workflow changes in v0.85.0]]'
 - '[[Changes/Aider/2025-06-27-co-authored-by-attribution-is-now-enabled-by-default-for-commit-messages|Co-authored-by

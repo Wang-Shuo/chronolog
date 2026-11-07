@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e35e914662d35215d523927aabe82e77b072f1081a7308fe40618896f2d24798
+machine_hash: d66f1792ea9e7a02a32d2678afd9f1c87f8ba74a6f221bc8a8b4241986508fb1
 product: cursor
 product_name: Cursor
 record:
@@ -107,7 +107,7 @@ Source: https://cursor.com/changelog/2-4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced memory usage for GLM-4.7-Flash models]]
-- Later: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved overall stability and reliability]]
+- Later: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-repo-setup-ai-suggestions|Repo Setup AI Suggestions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

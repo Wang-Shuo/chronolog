@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b9950944b8b61c609675eed489e1f8179e09939a4b3af2f703ade17163df69a
+machine_hash: f8191b3e13c8a4c61a1d0a7d8bffc3cb20b3ab473133a105d4c9494ca9988cff
 product: dify
 product_name: Dify
 record:
@@ -64,12 +64,12 @@ record:
   title: 11 Model Support changes in 0.6.7
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-07-6-model-support-changes-in-v0-1-34|6 Model Support
-  changes in v0.1.34]]'
-- '[[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added
-  native support for Deepseek…]]'
-- '[[Changes/Open WebUI/2024-05-08-2-model-support-changes-in-v0-1-124|2 Model Support
-  changes in v0.1.124]]'
+- '[[Changes/Raycast/2024-05-08-ai-chat-you-can-now-set-the-default-settings-to-use-when-creating-a-new-chat-hea|AI
+  Chat : You can now set the default settings to use when creating a new chat]]'
+- '[[Changes/Superwhisper/2024-05-08-recommend-smaller-model-to-intel-users|Recommend
+  smaller model to Intel users]]'
+- '[[Changes/Superwhisper/2024-05-08-help-text-for-adding-gpt-4-and-ollama-model-connections|Help
+  text for adding GPT-4 and Ollama model connections]]'
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'
 source_type: github_releases
 theme: model-support
@@ -126,7 +126,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-2-model-support-changes-in-v0-1-124|2 Model Support changes in v0.1.124]]
+- Earlier: 2024-05-08 · Superwhisper · [[Changes/Superwhisper/2024-05-08-help-text-for-adding-gpt-4-and-ollama-model-connections|Help text for adding GPT-4 and Ollama model connections]]
 - Later: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]
 <!-- chronolog:end -->
 

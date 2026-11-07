@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffbce1f585f3510b33bcc8a7de27fd638f7eff9517f1ccde2aaccbfab479b0fa
+machine_hash: fff08ee92e83c92974b9a7fe205f8b97a3cd604f2e43b90dbac7ec47ddf29a13
 product: v0
 product_name: v0
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
-  Drive sidebar, and Settings redesigns]]'
-- '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
-  markdown rendering for session output by default]]'
+- '[[Changes/Recraft/2026-05-14-dreamier-3d-and-illustrations|Dreamier 3D and illustrations]]'
+- '[[Changes/Krea/2026-05-15-style-refs-in-the-gallery-arrow-navigation|Style refs
+  in the gallery + arrow navigation]]'
 - '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
   the menu bar on Linux and Windows]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'

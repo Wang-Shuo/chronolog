@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfcf890c5569ce4d1b62f373606e344a2ef68b6f84cc1cd89274d2cb75a6410b
+machine_hash: c6aac7e94af0187eea52b5ce6561e833a4055e13b3710c2e591362453a9a0d5f
 product: notion
 product_name: Notion
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-descript-now-has-support-for-macos-big-sur-this-comes-by-way-of-a-brand-new-vide|Big Sur Support and Performance Improvements]]
-- Later: 2021-03-23 · Notion · [[Changes/Notion/2021-03-23-you-can-now-upgrade-from-a-free-personal-plan-personal-pro-plan-from-the-ios-app|Upgrade from a free Personal Plan → Personal Pro Plan from the iOS app]]
+- Later: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar: Added support for Around to join meetings in the desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08eaef296d62a1d4a9e9c72ef966924eca615bf41527afe0de4af90ecac14b51
+machine_hash: bde7f0d00b8d7e00b7a02abb5080b3a5217ee52786183414187f48c2b466fe33
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in v3.32.6
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
-  Planning Improvements]]'
-- '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
-  thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Raycast/2025-09-18-app-icons-updated-custom-app-icons-with-a-nested-concentric-border-to-align-with|App
+  Icons : Updated custom app icons with a nested concentric border to align…]]'
+- '[[Changes/Superwhisper/2025-09-23-macos-26-design-ultra-translation-updates|macOS
+  26 Design & Ultra Translation Updates]]'
 - '[[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating
   and editing files with Claude for Pro plans and mobile]]'
 source_release: '[[Releases/Cline/cline-2025-10-01-v3-32-6-github-251594849-7d74d052|cline-2025-10-01-v3-32-6-github-251594849-7d74d052]]'

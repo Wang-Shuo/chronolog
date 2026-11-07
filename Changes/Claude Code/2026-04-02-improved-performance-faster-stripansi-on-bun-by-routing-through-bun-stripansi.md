@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8e90ef2c396be38d350a3eed86a9bde2b47ab76ced2a917ca4a375feaf1422c
+machine_hash: 5a91e3f019ca2946d9c0136aef6a83b24d4aca712fa037a9f3b03c42261bb93f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: 'Improved performance: faster `stripAnsi` on Bun by routing through `Bun.stripANSI`'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
-  Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Devin/2026-04-01-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli):
   background IDE client to speed up initialization]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved

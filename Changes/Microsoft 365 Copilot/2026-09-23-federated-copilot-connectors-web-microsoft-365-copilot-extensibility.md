@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6fa2ef5d18a5ad71c8f4e7fc80580f254e3fd0f32d370facb1f49bc702807468
+machine_hash: 0655d5690df38bd648a2cf7ed7b1a02d4b7767b6812072c03b610bdc209aef23
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -60,7 +60,8 @@ record:
   title: Federated Copilot Connectors [Web] (Microsoft 365 Copilot extensibility)
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
+- '[[Changes/Devin/2026-09-23-plugin-mcps-appear-in-customize-mcps|Plugin MCPs Appear
+  in Customize → MCPs]]'
 - '[[Changes/Lovable/2026-09-23-app-chat-connectors-aws-api-azure-cloud-api-azure-graph-entra-api-google-cloud-a|App
   + chat connectors]]'
 - '[[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector

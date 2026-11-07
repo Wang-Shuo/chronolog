@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 111361499ed8fd3b1fb3e12022ab04e9e101d2de7cd5e0e30e7d730cf9ef2a8a
+machine_hash: ce83e97aad82371f84bc066062c725765f68f582daa8feb2dd40d1b1d842b26e
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,11 @@ record:
   title: Improved code-server loading speed for fresh VMs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
-  shell commands on Windows by skipping PowerShell profile loading]]'
 - '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
   actionable suggestions to /context command]]'
 - '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
   Trim session render work in app for improved performance]]'
+- '[[Changes/Superwhisper/2026-03-12-performance|Performance]]'
 source_release: '[[Releases/v0/v0-2026-03-12-2026-03-12-6e6ec641|v0-2026-03-12-2026-03-12-6e6ec641]]'
 source_type: v0_changelog
 theme: reliability-performance
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop Trim session render work in app for improved performance]]
+- Earlier: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-performance|Performance]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4 Reliability and Performance changes in v0.18.0]]
 <!-- chronolog:end -->
 

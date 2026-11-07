@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c9fa9cbb902fd3fbb264daa72a722d1639a19a2f381dee8aa9c835e4c4d7e23
+machine_hash: 5c69a4681a953190530282a349ad87f3944baf4ad8d28c1fda578f8e1a58fb67
 product: notion
 product_name: Notion
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved Calendar view on iPad & Android tablets
   type: change
 related_changes:
-- '[[Changes/Descript/2021-05-11-descript-now-supports-live-transcription-https-help-descript-com-hc-en-us-articl|Live
-  Transcription in Windows App]]'
 - "[[Changes/Notion/2021-05-13-2-mobile-and-desktop-changes-in-start-building-with-the-api|2
   Mobile and Desktop changes in Start building with the API \U0001F477\U0001F3FB♀️\U0001F477\U0001F3FE♂️]]"
+- '[[Changes/Raycast/2021-06-16-contacts-added-action-to-call-phone-number-with-iphone|Contacts:
+  Added action to call phone number with iPhone]]'
 - '[[Changes/Notion/2021-07-14-brand-new-formatting-toolbar-on-ios-android|Brand new
   formatting toolbar on iOS & Android]]'
 source_release: '[[Releases/Notion/notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82|notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82]]'

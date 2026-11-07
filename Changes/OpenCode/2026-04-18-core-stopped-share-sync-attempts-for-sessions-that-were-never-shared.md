@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fb9c208fdf39ff1c7f38b9aaa2790a5fbb5f9863d5f54ecd5f3e08acd6196f3
+machine_hash: dc1e0a07496bca999b1506ec53998fb5a388269657db2a316fc4bc4c441226d6
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: Core Stopped share sync attempts for sessions that were never shared
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
-  changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/Raycast/2026-04-15-quicklinks-hotkeys-should-no-longer-reset-at-startup-for-shared-quicklinks|Quicklinks:
+  Hotkeys should no longer reset at startup for shared Quicklinks]]'
 - '[[Changes/Descript/2026-04-16-announcing-the-descript-customer-obsession-hackathon-telethon-may-14-15|Announcing—the
   Descript Customer Obsession Hackathon Telethon (May 14–15)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-18-v1-4-11-5f967041|opencode-2026-04-18-v1-4-11-5f967041]]'

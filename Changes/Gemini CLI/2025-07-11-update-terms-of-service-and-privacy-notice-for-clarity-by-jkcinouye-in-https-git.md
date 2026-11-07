@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e07e1c88712e6cec0754a4c5ced8cc59cd9c4430ef2ea3f065c2e6703bb570b5
+machine_hash: 74ae49b14a42e4ed7594f1e8375a08e69b517445ee52f3d3140be3f5b61d7457
 product: gemini-cli
 product_name: Gemini CLI
 record:

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 58d57ddb69348e356a5efda0a1db1be8c0e4411beaf80f18093b13605997ec40
+machine_hash: 9fa455cc910b047d39968f3706822c5ce3f4d6404d8a74d15543bd300f6a7979
 product: lovable
 product_name: Lovable
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added better error states for onboarding users during authentication flow]]
-- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]
+- Later: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-authentication-removed-the-required-login-step-before-getting-started|Authentication : Removed the required login step before getting started]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

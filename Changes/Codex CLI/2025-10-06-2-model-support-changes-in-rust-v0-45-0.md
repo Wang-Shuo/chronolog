@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0052de5428b1d9a5d7bdadf4b92c0bce157675f3fdefa75441a67ca8fb25b49e
+machine_hash: 2fbbd8fb3c1799c265d4c73b0ff690203178b7f3f966dc6c083628fa28bbd165
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.45.0
 ## Nearby in Model Support
 
 - Earlier: 2025-10-03 · Ollama · [[Changes/Ollama/2025-10-03-ollama-flash-attention-can-now-be-overridden-to-0-for-models-that-have-flash-att|OLLAMA_FLASH_ATTENTION can now be overridden to 0 for models that have flash…]]
-- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]]
+- Later: 2025-10-06 · LM Studio · [[Changes/LM Studio/2025-10-06-2-model-support-changes-in-lm-studio-0-3-29|2 Model Support changes in LM Studio 0.3.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

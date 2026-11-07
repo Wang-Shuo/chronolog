@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81748d4483d17631140693b37d1fed9eb694af38c2248bf651a1837d1e45c337
+machine_hash: 3b9b55b0504be5535cfe225a9b9a8fb53f04ce7f7c60973dc943cb419b1b5f5f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -151,7 +151,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
-- Later: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool from a pasted API key]]
+- Later: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-krea-plugin-for-chatgpt|Krea plugin for ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

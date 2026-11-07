@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8f0b6816ce9e50eecebeca2c5bc476b107471035c9a2e238c3572d7f00fc90c4
+machine_hash: 288c5626ddfb4bb0539758b1e761d9a8471a3b8a7dd3b7ba2fd5423e65330c11
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,9 +44,10 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-introducing-speech-engine|Introducing Speech Engine]]'
 - '[[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational
   mode has been improved across text and voice input]]'
+- '[[Changes/Superwhisper/2026-05-29-3-voice-and-audio-changes-in-superwhisper-macos-2-15-0|3
+  Voice and Audio changes in Superwhisper macOS 2.15.0]]'
 - '[[Changes/ElevenLabs/2026-06-01-dubbing|Dubbing]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-06-01-2026-06-01-63e7e167|elevenlabs-2026-06-01-2026-06-01-63e7e167]]'
 source_type: elevenlabs_changelog
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
+- Earlier: 2026-05-29 · Superwhisper · [[Changes/Superwhisper/2026-05-29-3-voice-and-audio-changes-in-superwhisper-macos-2-15-0|3 Voice and Audio changes in Superwhisper macOS 2.15.0]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24371a427e0766ef2cad2c6085b47740692198ca1750fa188a8ba9dea1458ff0
+machine_hash: 1b526ce125ef6bb04d62f0695eac0166dc89db9bd965a5b15f235e30602c540b
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Developer Workflow changes in 0.5.3
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-11-improvement-introduce-super-linter-actions-to-check-style-for-shell-script-docke|improvement:
-  introduce Super-Linter actions to check style for shell script…]]'
 - '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
 - '[[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer
   Workflow changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-another-new-action-this-time-to-disable-commands-from-the-root-search-search-for|Another
+  new action, this time to disable commands from the root search]]'
 source_release: '[[Releases/Dify/dify-2024-02-01-0-5-3-github-139471716-c501b05b|dify-2024-02-01-0-5-3-github-139471716-c501b05b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-20 · Ollama · [[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer Workflow changes in v0.1.21]]
+- Earlier: 2024-01-24 · Raycast · [[Changes/Raycast/2024-01-24-another-new-action-this-time-to-disable-commands-from-the-root-search-search-for|Another new action, this time to disable commands from the root search]]
 - Later: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-ollama-serve-will-now-print-prompt-when-ollama-debug-1-is-set|ollama serve will now print prompt when OLLAMA_DEBUG=1 is set]]
 <!-- chronolog:end -->
 

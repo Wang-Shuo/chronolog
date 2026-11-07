@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28a05eb80344ee6207ac81c2aa002f1391a6f25ab72e206edb8bb8fee28abee2
+machine_hash: 62eb4c1a95b2c968d69c40e37283f340609569ed9d682ca192137b22977b38f1
 product: opencode
 product_name: OpenCode
 record:
@@ -39,9 +39,9 @@ record:
   title: Core Autocomplete configured @mentions in prompts
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
 - '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/Krea/2026-05-13-recipients-can-generate-using-your-moodboard-but-not-edit-it|Recipients
+  can generate using your moodboard, but not edit it]]'
 - '[[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections
   from one tab]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'

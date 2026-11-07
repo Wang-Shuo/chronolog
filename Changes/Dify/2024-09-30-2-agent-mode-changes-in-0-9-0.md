@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf48180988e85f6b05eded906b90d946b06f3fd6535bde4c0217d09acf8d859b
+machine_hash: 92124d16918a055d7bef28d17ea2b3489b93b05b1c17616a401aeba6e008df8d
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in 0.9.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-04-user-agent-in-comfyui-added-default-headers-in-comfyui-to-fix-access-issues-impr|\U0001F6E0️
-  User Agent in ComfyUI]]"
-- '[[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files
-  display updated content after agent edit]]'
 - '[[Changes/Dify/2024-09-10-refactor-api-core-improve-type-hints-and-apply-ruff-formatter-in-agent-runner-an|refactor(api/core):
   Improve type hints and apply ruff formatter in agent runner…]]'
+- '[[Changes/AnythingLLM/2024-09-11-3-agent-mode-changes-in-v1-2-2|3 Agent Mode changes
+  in v1.2.2]]'
+- '[[Changes/AnythingLLM/2024-09-11-you-can-now-use-agent-to-run-skills-via-the-developer-api-nice|Use
+  @agent to run skills via the developer API]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,8 +92,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-refactor-api-core-improve-type-hints-and-apply-ruff-formatter-in-agent-runner-an|refactor(api/core): Improve type hints and apply ruff formatter in agent runner…]]
-- Later: 2024-10-13 · ElevenLabs · [[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents Platform Beta: Agents Platform is now in beta]]
+- Earlier: 2024-09-11 · AnythingLLM · [[Changes/AnythingLLM/2024-09-11-you-can-now-use-agent-to-run-skills-via-the-developer-api-nice|Use @agent to run skills via the developer API]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-2-agent-mode-changes-in-v1-2-3|2 Agent Mode changes in v1.2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

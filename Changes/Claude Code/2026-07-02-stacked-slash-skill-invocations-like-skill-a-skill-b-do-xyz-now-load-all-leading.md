@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 795044c093536d79cbe455b1a64f5c2d7377bd6cbff1ec3911a61afbf8931a8a
+machine_hash: c38b11c0c509c57f3172400b198048bfca33151fd18f14239cb30b45cb75d32c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     all leading…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
-- '[[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins
-  can now provide slash commands via a commands field in their manifest…]]'
+- '[[Changes/Krea/2026-07-01-media-url-inputs-are-consistent-across-the-api|Media
+  URL inputs are consistent across the API]]'
+- '[[Changes/Krea/2026-07-01-choose-a-workspace-when-connecting-to-mcp|Choose a workspace
+  when connecting to MCP]]'
 - '[[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new
   MCP connections for Custom Agents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'

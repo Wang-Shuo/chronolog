@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9744170bc396c21e1b69a18e6e0f70ffa096895249ba993dec87e12bc001819c
+machine_hash: 33c8c891cbf854d872db90a3757c8971f6f9fb18b569255552842405e2fce710
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 'refactor(todo): improve performance and readability of todo component'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
-- '[[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add
-  Vulkan memory detection for Intel GPU using DXGI+PDH]]'
-- '[[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3
-  Reliability and Performance changes in v0.6.35]]'
+- '[[Changes/Raycast/2025-11-06-file-search-improved-filesystem-indexing-performance-and-greatly-reduced-the-imp|File
+  Search : Improved filesystem indexing performance and greatly reduced…]]'
+- '[[Changes/Devin/2025-11-07-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Devin/2025-11-07-direct-attachment-download|Direct Attachment Download]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3 Reliability and Performance changes in v0.6.35]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-direct-attachment-download|Direct Attachment Download]]
 - Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved rendering performance in Ollama's new app, especially when rendering code]]
 <!-- chronolog:end -->
 

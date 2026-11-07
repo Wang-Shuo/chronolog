@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90ce9e1eba9ff4108fbbf2f4b0eaa9f18d5aff735353daf145b2fec56e6d609e
+machine_hash: 0442b2102372a23ae6b6ccf90a368a1ef9cf96e28f2dcef49d2385e071aa3deb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.196
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
-  the permissions request dialog to display a clear description of the action…]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-readable-pr-review-label-colors|Readable PR Review Label
+  Colors]]'
 - '[[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2
   Developer Workflow changes in Kimi Code 0.20.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'

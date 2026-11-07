@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 113763ec23e443b80485cf80e97a75dd2bf69e1e6195f3c00ef1088d48ad102f
+machine_hash: 2c51408c2e8a809242acc7d242d20ef36feda87e766b57a6c39694af5c191bfb
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'docs: refresh AGENTS.md guidance'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
-  always show the LLM selector; move agent-profile switching to the tools menu]]'
+- '[[Changes/Superwhisper/2026-07-29-grok-build-is-now-supported-as-a-coding-agent-in-the-app|Grok
+  build is now supported as a coding agent in the app]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
   Mode changes in v1.0.76]]'
 - '[[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 483fa13d7843833ca08b379994a1dbb023de812f4a3a1479554c8111a478e592
+machine_hash: d6f8fb5c6ed11185d63d8b9d2103def58ce75e3e0a01f95149b3108872c05c3e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in ElevenLabs updates — 2026-11-02
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-desktop-restored-copying-user-messages-from-an-open-actions-menu|Desktop
-  Restored copying user messages from an open actions menu]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop
   Kept the current @ and command-menu selection stable while results update…]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop
   Added the missing top inset to the search field in the recently closed menu]]'
+- '[[Changes/Raycast/2026-10-31-onboarding-added-a-new-onboarding-experience|Onboarding:
+  Added a new onboarding experience]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: interface-experience
@@ -110,7 +110,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop Added the missing top inset to the search field in the recently closed menu]]
+- Earlier: 2026-10-31 · Raycast · [[Changes/Raycast/2026-10-31-onboarding-added-a-new-onboarding-experience|Onboarding: Added a new onboarding experience]]
 - Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5 Interface Experience changes in HUB v2.29.0 — Voice mode, remote…]]
 <!-- chronolog:end -->
 

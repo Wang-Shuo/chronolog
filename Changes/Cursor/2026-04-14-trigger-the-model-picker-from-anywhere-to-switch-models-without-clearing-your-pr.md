@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6a9d3b1da8012f9af075feea78365acd644c045eca79aac0b7afaed0413569d1
+machine_hash: 4633a8f09c81213d7e0ebef8d6e341b506325ed1c0ffd3259bf91876b9e99ccd
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
-- Later: 2026-04-14 · Midjourney · [[Changes/Midjourney/2026-04-14-what-s-next|What’s next?]]
+- Later: 2026-04-14 · Krea · [[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

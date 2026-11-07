@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6da7a0f23a59e40b8d7138c152445af53a5afe181c554678014f37fde2b9c32f
+machine_hash: c715db88e558e9775713c4c48862474a7548a9b0fbb12f6b57e2fd1ac1be1c76
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
   title: Terminal Show remote config authentication errors during startup and exit…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
-  two-factor authentication for your workspace]]'
-- '[[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account
-  and Access changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall|MCP
+  : Added Reset Sign In so you can retry an incomplete sign-in without…]]'
+- '[[Changes/Raycast/2026-09-11-mcp-added-reset-sign-in-so-you-can-retry-an-incomplete-sign-in-without-reinstall-c8b722|MCP
+  : Added Reset Sign In so you can retry an incomplete sign-in without…]]'
 - '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
   Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-14-v1-18-31-8ff51f8b|opencode-2026-09-14-v1-18-31-8ff51f8b]]'

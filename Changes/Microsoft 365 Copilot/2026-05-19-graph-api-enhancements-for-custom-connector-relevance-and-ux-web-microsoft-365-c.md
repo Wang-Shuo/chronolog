@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4e6b3efa53fa13cf578495a0f28fd55a066e2181ef1fa9f50a31dd56ac32f19d
+machine_hash: 85458abe321a33b9d47b0dbae22847d4ea8441c27867a5497f3af4b9e6c2df9a
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9 Apps and Integrations changes in v1.0.49]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9 Apps and Integrations changes in rust-v0.132.0]]
+- Later: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-applications-use-alternate-name-for-creator-studio-apps|Applications: Use alternate name for Creator Studio apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

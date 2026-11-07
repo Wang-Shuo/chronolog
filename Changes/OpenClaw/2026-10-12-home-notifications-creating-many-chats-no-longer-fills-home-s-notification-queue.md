@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 265d3bc8a6df2d16518a6efddf0d6f305636b3422dc5bcfc0a5d8df67776eb39
+machine_hash: af3a698fa52360d712155d8ea9d5ea8d6e4bc6bcb7b23df9ee6a625a91612440
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: Home notifications
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September
-  database compatibility]]'
+- '[[Changes/Wispr Flow/2026-10-09-an-idle-teams-window-no-longer-triggers-meeting-pop-ups-notetaker|An
+  idle Teams window no longer triggers meeting pop-ups (Notetaker)]]'
 - '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
   changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration

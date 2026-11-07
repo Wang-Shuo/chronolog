@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1552a4cc8f672418d7961dce86fd47908b0195e9344e5f4009a144661a322aee
+machine_hash: 4c5fc8ecd2c5c62cc5ca84b3f1d458f41bd9ed87add44c60af73e05cdac91f52
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,10 +53,9 @@ record:
   title: 4 Enterprise and Administration changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
-- '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
-  member profiles are now private by default]]'
+- '[[Changes/Devin/2026-07-10-this-release-also-includes-a-working-organization-filter-on-the-enterprise-sessi|This
+  release also includes a working organization filter on the enterprise sessions…]]'
+- '[[Changes/Devin/2026-07-10-redesigned-account-switcher|Redesigned Account Switcher]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
   sessions refresh enterprise managed settings hourly]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'

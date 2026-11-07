@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81de877b7f450c2bb79df27274e30aaebef34a3837c7a95b9e0c40d182bb9c3c
+machine_hash: c7165ac30b91a5d734b92f03b301f2cb16ed085cb3c7fbe88c41e9846e8b483a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,14 @@ record:
   title: This is a limited preview with participating integrations
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-you-can-now-discover-install-and-manage-plugins-within-the-customizations-tab-wi|Discover,
-  install and manage plugins within the Customizations tab, with curated…]]'
-- '[[Changes/Google Antigravity/2026-09-28-slash-commands-provided-by-plugins-now-show-their-plugin-name-in-the-menu-can-be|Slash
-  commands provided by plugins now show their plugin name in the / menu, can…]]'
-- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
-  MCP browser launch failures are now reported when the launcher exits immediately]]'
+- '[[Changes/Raycast/2026-09-28-we-updated-a-few-extensions-ollama-ai-ai-by-vercel-cerebras-groq-lm-studio-etc-d|We
+  updated a few extensions: Ollama AI , AI by Vercel , Cerebras , Groq , LM Studio
+  , etc]]'
+- '[[Changes/Raycast/2026-09-28-we-updated-a-few-extensions-ollama-ai-ai-by-vercel-cerebras-groq-lm-studio-etc-d-41fe25|We
+  updated a few extensions: Ollama AI , AI by Vercel , Cerebras , Groq , LM Studio
+  , etc]]'
+- '[[Changes/Raycast/2026-09-28-applications-added-support-for-finding-apps-by-alternate-names-and-spotlight-key|Applications
+  : Added support for finding apps by alternate names and Spotlight…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -79,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-28 · OpenCode · [[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core MCP browser launch failures are now reported when the launcher exits immediately]]
+- Earlier: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-applications-added-support-for-finding-apps-by-alternate-names-and-spotlight-key|Applications : Added support for finding apps by alternate names and Spotlight…]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work with interactive plugin extensions]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93d5ce36c2333090fa99d415fefe155f4d8f7f11c827ddf6c54837a1a94f0dbb
+machine_hash: 1b5692aa2ec40a849abbf57aa85629dbda7167c4e5d8e33f0d9b266fc2aa87f8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Reliability and Performance changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain
-  verification improvements]]'
+- '[[Changes/LM Studio/2025-11-04-increase-image-resize-limits-to-1024x1024-for-improved-image-processing-performa|Increase
+  image resize limits to 1024x1024 for improved image processing performance…]]'
 - '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
 - '[[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add
   Vulkan memory detection for Intel GPU using DXGI+PDH]]'
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add Vulkan memory detection for Intel GPU using DXGI+PDH]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo): improve performance and readability of todo component]]
+- Later: 2025-11-06 · Raycast · [[Changes/Raycast/2025-11-06-file-search-improved-filesystem-indexing-performance-and-greatly-reduced-the-imp|File Search : Improved filesystem indexing performance and greatly reduced…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

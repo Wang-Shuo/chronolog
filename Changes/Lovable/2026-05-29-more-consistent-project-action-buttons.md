@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e1d22226237503b0ce88acfed7129fba93b54eab6ff96171a91e19354eafa7ce
+machine_hash: a6c5336e27d6e211628eb5440415d3359d022c766e9043ce888980cde6d7b6ba
 product: lovable
 product_name: Lovable
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate shared tool service typing to the tool support layer]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|🔐 Shared-chat file write protection. Access to a file through a shared chat now…]]
+- Later: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-team-added-support-for-moving-quicklinks-and-snippets-between-personal-and-team|Team: Added support for moving Quicklinks and Snippets between personal and team spaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

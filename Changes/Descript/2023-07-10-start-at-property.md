@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 62fbb275a23e47a27bcfb5544c2c0c206c55c66f18473165cd4f6fe8c7e96a10
+machine_hash: d20f1962b4b3ea02f8d30246541853b863b58d085bbd25c714968b9b8ed5a4ef
 product: descript
 product_name: Descript
 record:
@@ -52,8 +52,8 @@ record:
   title: Start at… property**
   type: change
 related_changes:
-- '[[Changes/Descript/2023-02-21-you-can-easily-change-your-video-thumbnail-to-any-frame-from-your-video|You
-  can easily change your video thumbnail to any frame from your video]]'
+- '[[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2
+  Multimodal Input changes in Raycast macos-v1 1.48.0]]'
 - '[[Changes/Synthesia/2023-03-09-now-with-just-one-click-you-can-easily-edit-your-videos-we-re-also-introducing-v|The
   EDIT Button is here!]]'
 - '[[Changes/Descript/2023-03-29-optimized-video-files-for-playback|Optimized video

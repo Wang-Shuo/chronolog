@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acaee26f1367edd288242d04dd64ac0138834427b9f16146740fdf7802b8320a
+machine_hash: d80f6c5a46e03d771760f53baae08b033bfb9e7bed3ed522216676cab85df65c
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Context Window changes in v4.1.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
-  Window changes in v2.1.223]]'
 - '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
   Window changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-personal-access-tokens|Personal Access Tokens]]'
 - '[[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core
   Repeated compaction now keeps earlier tool-call history in summaries instead…]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'

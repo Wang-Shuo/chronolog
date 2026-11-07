@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c54781b5a777a28934cc31ebbc1daaac02dc2799a36936e595a343312621af6b
+machine_hash: 69ee8e8d4c06959d3d9ee4a45abe967604c792d4aaeb3892446a5a82c5294df0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,7 +63,8 @@ record:
   title: Connect multiple accounts to plugins in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-09-15-wispr-flow-notetaker-is-now-live-on-windows-notetaker|Wispr
+  Flow Notetaker is now live on Windows (Notetaker)]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4
   Mobile and Desktop changes in v1.0.85]]'
 - '[[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]'

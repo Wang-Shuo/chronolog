@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 589b5b721fc4f7c37bb73eaffdadfb6fe420095cc6cd03d193926ea486e0f272
+machine_hash: d19b2959c6f0c03175939afa6f8bf6b455838f1fcaac504f3a1f37698ed76403
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     LaTeX rendering"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
-  Sidebar UI Update]]"
-- '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
-  Settings: We moved all our settings to be accessible by the gear in the top right]]'
+- '[[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu|Add menubar items
+  to main menu]]'
+- '[[Changes/Superwhisper/2024-03-25-add-menubar-items-to-main-menu-f0b981|Add menubar
+  items to main menu]]'
 - '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
   (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac|open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac]]'

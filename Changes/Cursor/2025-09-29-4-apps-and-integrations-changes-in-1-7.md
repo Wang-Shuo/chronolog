@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62a0345c439d9053c5d374ec4c291ecacd174e7735aa34abb61b9c4a5922b88e
+machine_hash: 7319e478bdbd23019f3eabeb6de4d1e32392eb8bef7098d231217f0935ae7b92
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Apps and Integrations changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename
-  MCP tab ''Installed'' to ''Configure'']]'
-- '[[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps
-  and Integrations changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
   Apps and Integrations changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-bitbucket-integration-beta|Bitbucket Integration (Beta)]]'
+- '[[Changes/Devin/2025-09-26-mcp-observability-for-enterprises|MCP Observability
+  for Enterprises]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -109,7 +108,7 @@ Source: https://cursor.com/changelog/1-7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4 Apps and Integrations changes in rust-v0.42.0]]
+- Earlier: 2025-09-26 · Devin · [[Changes/Devin/2025-09-26-mcp-observability-for-enterprises|MCP Observability for Enterprises]]
 - Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-5-apps-and-integrations-changes-in-1-9-1|5 Apps and Integrations changes in 1.9.1]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 609f5db39ec84e9b8be9ff02ca026af1f25d0ad2b41da54fe90048d099a60464
+machine_hash: 502934a1e3f36d15cb1e1c12b6c2f4515908235eb5284eb70cde476d8da1952f
 product: v0
 product_name: v0
 record:
@@ -53,8 +53,7 @@ record:
   title: 4 Interface Experience changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2
-  Interface Experience changes in Kimi Code 0.36.0]]'
+- '[[Changes/Devin/2026-08-14-sidebar-improvements|Sidebar Improvements]]'
 - '[[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web:
   Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]'
 - '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'

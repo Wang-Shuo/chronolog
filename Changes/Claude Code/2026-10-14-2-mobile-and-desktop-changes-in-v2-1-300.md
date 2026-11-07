@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ced939c6f0de52c10374ee7b2ec5ab44f8ce745ab68f419ce46cd4a2f3b95da
+machine_hash: bc1526cec65f986d7bbb0ce93a6f9440e25e96890e79b9f0545b3925e0fd79e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-2-mobile-and-desktop-changes-in-v2026-10-2|2 Mobile
-  and Desktop changes in v2026.10.2]]'
 - '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 - '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
   prototype, and build with Google Antigravity in the Gemini macOS app]]'
+- '[[Changes/LM Studio/2026-10-13-added-cuda-13-support-on-windows-arm|Added CUDA
+  13 support on Windows ARM]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code, prototype, and build with Google Antigravity in the Gemini macOS app]]
+- Earlier: 2026-10-13 · LM Studio · [[Changes/LM Studio/2026-10-13-added-cuda-13-support-on-windows-arm|Added CUDA 13 support on Windows ARM]]
 - Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-add-kimi-app-path-to-open-a-new-desktop-chat-in-the-current-or-specified-directo|Add kimi app path to open a new desktop chat in the current or specified directory]]
 <!-- chronolog:end -->
 

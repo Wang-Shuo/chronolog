@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90561f989a3f7456bbd49faba9754ef4575176fe2e7e9756239fe12c7cbaa0b2
+machine_hash: 4f8770763eaafaa95e7627354d083359f058d4d26e035f6a8160ee8481f609ba
 product: opencode
 product_name: OpenCode
 record:
@@ -173,7 +173,7 @@ Source: https://opencode.ai/changelog/v1.1.29
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile and Desktop changes in v1.1.30]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-mobile-and-desktop-changes-in-v1-10-0|3 Mobile and Desktop changes in v1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

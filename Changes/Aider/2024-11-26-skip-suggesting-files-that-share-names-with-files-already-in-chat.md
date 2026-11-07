@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f2584e261cf65226ae09bab51b191c55ed17b690dda9a5552fa444f642e1014
+machine_hash: 72afd064d769658b54dc25b71898b1dd7e71c1f1a819e74ad9cc19fd8a060b47
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Skip suggesting files that share names with files already in chat
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
-  opt-in analytics((source link) with no…]]'
+- '[[Changes/Devin/2024-11-01-you-ll-receive-warnings-if-devin-is-about-to-sleep|You''ll
+  receive warnings if Devin is about to sleep]]'
 - '[[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme
   sharing link]]'
 - '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
-- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-easy-scheduling-with-notion-calendar|Easy scheduling with Notion Calendar]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0ef020b745bc0a96ac58280b7d8e4709e63b8913038e2c96f7610d5e98b4dc92
+machine_hash: 358c69700316e675b3feecc6f73862e2e0d85888f5313e604336b5775964ccca
 product: notion
 product_name: Notion
 record:
@@ -46,8 +46,8 @@ record:
   title: Analyze PDFs & images
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat:
-  return page number of pdf documents upon retrieval]]'
+- '[[Changes/AnythingLLM/2024-09-11-feature-use-escape-key-to-close-documents-modal-by-timothycarambat-in-https-gith|Feature/use
+  escape key to close documents modal]]'
 - "[[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|\U0001F4C4
   Enhanced PDF Citations]]"
 - '[[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar

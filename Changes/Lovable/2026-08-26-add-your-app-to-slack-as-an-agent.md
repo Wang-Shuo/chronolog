@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a85d8150d81068d62da97dab7e831ffa1cea8d43f82d8f75caf2f3946de92c34
+machine_hash: 38cf62ed58c4337c1e2df8cb52ef3c9c47fbf2e269e56c06b645a0806368049c
 product: lovable
 product_name: Lovable
 record:
@@ -57,8 +57,8 @@ record:
   title: Add your app to Slack as an agent
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
-  Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
+- '[[Changes/Raycast/2026-08-25-2-agent-mode-changes-in-raycast-macos-2-0|2 Agent
+  Mode changes in Raycast macos 2.0]]'
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
 - '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode changes in v2.1.248]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-agent-mode-changes-in-v1-16-1|2 Agent Mode changes in v1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

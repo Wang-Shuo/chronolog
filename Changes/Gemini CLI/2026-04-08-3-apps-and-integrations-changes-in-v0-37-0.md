@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a634148f89e53959de85d2f2afa801dc9f304c39a94c3d332600c64c87c4e9af
+machine_hash: 5c1a0891bbb8370b0866f08d99e1913e70be09c40232aab58b407d015351117c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,10 @@ record:
   title: 3 Apps and Integrations changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure
-  OpenAI BYOK defaults to the GA versionless v1 route when no API version…]]'
-- '[[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot
-  MCP Support]]'
 - '[[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor
   introduces updates to Bugbot including the ability to self-improve in real…]]'
+- '[[Changes/Devin/2026-04-08-mcp-marketplace-upgrades|MCP Marketplace Upgrades]]'
+- '[[Changes/Devin/2026-04-08-mcp-audit-logs|MCP Audit Logs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -95,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-this-release-introduces-updates-to-bugbot-including-the-ability-to-self-improve|Cursor introduces updates to Bugbot including the ability to self-improve in real…]]
+- Earlier: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-mcp-audit-logs|MCP Audit Logs]]
 - Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]]
 <!-- chronolog:end -->
 

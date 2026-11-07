@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a56f3381755d8f03f59361b67fe506c47ebee14aa4a3b5d670b8ea862494624d
+machine_hash: 97d5525cc9161eb9736c3f027b8f3c15836b0bcb7e7e45375407aec7595df789
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.3
 ## Nearby in Model Support
 
 - Earlier: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-please-note|Please Note]]
-- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model Support changes in rust-v0.104.0]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-4-model-support-changes-in-v1-11-0|4 Model Support changes in v1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

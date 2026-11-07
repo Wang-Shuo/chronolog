@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c410cd79090b2a02f1d8c0abf4d12d680e4d09829a0de3e4965d66aedb5459be
+machine_hash: deeb4fc3d0684012049d2fcb8b68dafe8df365b55ddabbc6eace905c87448a75
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +92,7 @@ Source: https://opencode.ai/changelog/v1.14.30
 ## Nearby in Model Support
 
 - Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes in 1.14.0]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model Support changes in rust-v0.128.0]]
+- Later: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-model-favorites-ui|Model favorites UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

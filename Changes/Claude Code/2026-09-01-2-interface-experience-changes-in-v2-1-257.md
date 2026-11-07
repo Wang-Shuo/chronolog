@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 400015d584493a59def104082eaf6eb52d351d77b2f5964c6dcf40c4e13e401c
+machine_hash: f1e4330b7037987a3bbf9ae85aef6e9653ac961b19fa378cbf2b8e7aafd14d4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-30-set-a-goal-for-lovable|Set a goal for Lovable]]'
 - '[[Changes/Open WebUI/2026-08-31-accessibility-mode-reaches-the-menus-accessibility-mode-now-marks-the-menu-entry|♿
   Accessibility mode reaches the menus. Accessibility mode now marks the menu…]]'
 - '[[Changes/Open WebUI/2026-08-31-3-interface-experience-changes-in-v0-11-2|3 Interface
   Experience changes in v0.11.2]]'
+- '[[Changes/Raycast/2026-08-31-2-interface-experience-changes-in-raycast-ios-1-3-6|2
+  Interface Experience changes in Raycast ios 1.3.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-3-interface-experience-changes-in-v0-11-2|3 Interface Experience changes in v0.11.2]]
+- Earlier: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-2-interface-experience-changes-in-raycast-ios-1-3-6|2 Interface Experience changes in Raycast ios 1.3.6]]
 - Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3 Interface Experience changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 

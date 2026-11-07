@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72a852cc6751683dacdfbd482280a50c49a218269032aecba5413b47bbdfdd78
+machine_hash: 8bc1c0c6e02fde8c2562cd8ddbca2ad2cb57ba55b5e24c4af56e82ee6ca4d278
 product: suno
 product_name: Suno
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Music Generation
 
 - Earlier: 2026-10-23 · Suno · [[Changes/Suno/2026-10-23-iphone-duo-support-new-phone-same-suno-the-app-is-now-built-to-fit-the-iphone-du|Updates for Suno on iOS]]
-- Later: 2026-11-06 · Suno · [[Changes/Suno/2026-11-06-a-new-prompt-every-day-to-inspire-your-next-song|A new prompt every day, to inspire your next song]]
+- Later: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-muffle-now-works-alongside-finetune-and-soundsource-and-steps-aside-for-backgrou|Muffle now works alongside FineTune and SoundSource, and steps aside for Background Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9797119ff8ed3676c4edc55b72ed7b2e99f2cc3bb715b704a176840bb07076b1
+machine_hash: 8bb50063f348c8b2cb9006e46801584c603c13a0e64937e7fa901f64c8a97735
 product: openhands
 product_name: OpenHands
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini 3.7 Flash for your app's AI features]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model Support changes in rust-v0.148.0]]
+- Later: 2026-08-17 · Superwhisper · [[Changes/Superwhisper/2026-08-17-redesigned-the-model-details-sheet-with-a-cleaner-layout-download-size-info-and|Redesigned the model details sheet with a cleaner layout, download size info…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c166f06f7a5b17b9d58e1311cb479cf9739e20eaf5981aff3d1b8177076b438d
+machine_hash: 5c1ae5943bd52233fc035609f0ffac113e258c3edd92a74a6f5ec737dcb9744b
 product: cline
 product_name: Cline
 record:
@@ -57,8 +57,8 @@ record:
     editor, you…
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
-  Gemini to remember the things you care about]]'
+- '[[Changes/Raycast/2025-03-19-focus-added-a-toggle-in-the-extension-setting-to-allow-all-websites-in-allow-mod|Focus:
+  Added a toggle in the extension setting to allow all websites in Allow mode…]]'
 - '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
   commands to switch between model types]]'
 - '[[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]'

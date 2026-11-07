@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b891b1b4bf53d83f0bc83a86b45f0e685b23facc0fafeaba62cb7bf7c22546da
+machine_hash: fd64f155054400c8ccd4f01e49046bec6b3cd8f3ac2f94e1b39c31f66afc5e2d
 product: opencode
 product_name: OpenCode
 record:
@@ -62,8 +62,8 @@ record:
   title: 11 Mobile and Desktop changes in v1.17.11
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
-  and Desktop changes in v1.17.10]]'
+- '[[Changes/Wispr Flow/2026-06-24-let-flow-pick-the-right-microphone-automatically-desktop|Let
+  Flow pick the right microphone automatically (Desktop)]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
   PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
 - '[[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install

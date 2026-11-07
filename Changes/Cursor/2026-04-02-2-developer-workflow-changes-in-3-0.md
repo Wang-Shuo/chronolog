@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ec4eee7262add4a3f78b7957eff159b2b17ed685b709fb4b35e73a62c1b0f52
+machine_hash: 1c7e143bf939e0393fea47e35115f4ceb25963ac73b8964333e08288784351a2
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Developer Workflow changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
-  Workflow changes in v2.1.89]]'
+- '[[Changes/Devin/2026-04-01-streaming-terminals|Streaming Terminals]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer
   Workflow changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2
@@ -95,7 +94,7 @@ Source: https://cursor.com/changelog/3-0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2 Developer Workflow changes in v1.0.15]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-new-slash-command|/new Slash Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

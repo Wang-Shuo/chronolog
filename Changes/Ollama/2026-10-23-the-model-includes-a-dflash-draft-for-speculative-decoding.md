@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 902fe6e0eb3874f8047cd6647131b2c8d64c6a8ddad835fe781544ae3af73fb3
+machine_hash: 1c5dd6c8c9a25a2dc9e8f3868949e73735fd1062c536eba9e1c44bdc00e806d4
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: The model includes a DFlash draft for speculative decoding
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support
-  changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
   Support changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-llm-filter-in-the-v3-api-and-terraform-provider|LLM
+  Filter in the v3 API and Terraform Provider]]'
 - '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:
   archive storage supports configurable S3 addressing style]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-23-v0-40-10-github-421968618-3a4b8b84|ollama-2026-10-23-v0-40-10-github-421968618-3a4b8b84]]'

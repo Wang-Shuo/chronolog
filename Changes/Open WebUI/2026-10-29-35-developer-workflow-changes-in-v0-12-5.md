@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eca173988d1e8a1d3c53a9321a481be42cbfa79e045329d199062cefd72ea1e
+machine_hash: 966a04f94dec447b488bc1bd9dbc0085157028f44f5882bc5e369536bd567538
 product: open-webui
 product_name: Open WebUI
 record:
@@ -223,10 +223,9 @@ record:
   title: 35 Developer Workflow changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
-  Workflow changes in v2.2.0]]'
-- '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
-  bump shell-quote and DOMPurify dependencies]]'
+- '[[Changes/Devin/2026-10-28-pull-request-tabs|Pull Request Tabs]]'
+- '[[Changes/Raycast/2026-10-28-system-actions-added-an-auto-dark-mode-command-that-switches-windows-between-lig|System
+  Actions : Added an Auto Dark Mode command that switches Windows between light…]]'
 - '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
   Developer Workflow changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 51db78ffb5b3bbf9364e314062262aae684a68007f79b97316e2b7c197d80265
+machine_hash: 754fd566b12e8d7349e7a62326070506c9867e7b815354035156ffc89ef24cf4
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Connectors support for remixing
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add
-  MCP tool usage to GLM prompt]]'
 - '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
   Add modelReasoningEffort option to TypeScript SDK]]'
+- '[[Changes/Devin/2025-11-07-redshift-mcp-production-ready|Redshift MCP Production
+  Ready]]'
 - '[[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps
   and Integrations changes in v0.13.0]]'
 source_release: '[[Releases/Replit/replit-2025-11-07-2025-11-07-67163a16|replit-2025-11-07-2025-11-07-67163a16]]'

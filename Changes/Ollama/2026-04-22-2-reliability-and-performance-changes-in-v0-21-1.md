@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad3f35ffaa22ff070b8704bb2c893040bf46450ed3f4dfa7e9989e17df90677a
+machine_hash: 66a637b951b45138d08703c37c4023778b9c2136915f4097d8dcd9376f02391e
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v0.21.1
   type: change
 related_changes:
-- '[[Changes/Granola/2026-04-21-granola-chat-is-rebuilt-to-be-agentic-faster-across-your-notes-team-space-and-wh|Granola
-  Chat just got smarter]]'
 - '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
   Reliability and Performance changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
   Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Devin/2026-04-22-merge-time-reduction-in-review|Merge Time Reduction
+  in Review]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27|ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.21.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
+- Earlier: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-merge-time-reduction-in-review|Merge Time Reduction in Review]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662 feat: add metric to track the number of turns with memory usage @jif-oai]]
 <!-- chronolog:end -->
 

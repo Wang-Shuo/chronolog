@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6edf80eec68b7bd5dbf454df8fb3a51cab5e002d60808484d1f7fb033f02bb7c
+machine_hash: b905954697b061050ee0cefcdf3d0914b830fa6f2841355537ec84f51123c4ef
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4 Developer Workflow changes in rust-v0.121.0]]
-- Later: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]]
+- Later: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-close-pr-or-convert-to-draft-in-review-ui|Close PR or Convert to Draft in Review UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

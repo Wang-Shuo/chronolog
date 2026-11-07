@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 020828d521a140e7655b2f57c83c41cdeff27e3265df236f432eddd6ee929c2d
+machine_hash: dd410adc5da3c4ba0f7e9f85c95cc7afc6c2b9b93712cda43800316957f09857
 product: openclaw
 product_name: OpenClaw
 record:
@@ -66,12 +66,11 @@ record:
   title: 5 Editor Experience changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience
-  changes in 1.17.1]]'
-- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
-  with Bitbucket Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
   Experience changes in v2.1.269]]'
+- '[[Changes/Devin/2026-09-11-clearer-machine-startup-in-the-computer-tab|Clearer
+  Machine Startup in the Computer Tab]]'
+- '[[Changes/Devin/2026-09-11-customize-editor-improvements|Customize Editor Improvements]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -136,7 +135,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-customize-editor-improvements|Customize Editor Improvements]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor Experience changes in v2.1.271]]
 <!-- chronolog:end -->
 

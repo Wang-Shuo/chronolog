@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8a3a3326ef83013766cbb68d055bbb143cc4eaa0284f375066e22833e2b17c71
+machine_hash: 3c5d82b8846e4442413de2565eb3d7b357cfcdb20bf42d9a2c1221f9abf160ee
 product: opencode
 product_name: OpenCode
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
+- Later: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-smarter-faster-backspace-ios|Smarter, Faster Backspace (iOS)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

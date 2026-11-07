@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b4140d996a3975d00ab3dd4d1d74380038b2284f884ac6dd17cd419bbc95383
+machine_hash: 0fbe754df9c597c01c460e50cc5ce600324aa71c0c3aa61df4fb6a028b26d4f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Collaboration changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
-  Reduce the surface of collaboration modes @pakrym-oai]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Devin/2026-05-01-linear-team-mapping-improvements|Linear Team Mapping
+  Improvements]]'
 - '[[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share
   avatar outfits and spaces]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'

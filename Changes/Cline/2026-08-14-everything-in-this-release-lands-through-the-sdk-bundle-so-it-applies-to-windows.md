@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bacf5adacd40fe9546861340ec73a379878efc9aa4be1bcdaa3eabd5f6f7d9e0
+machine_hash: 8a9e09923dcc3b7d1a02f73185de4b2fba86dce48fdfc722cf4d41116cdcfafc
 product: cline
 product_name: Cline
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
-- Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-connect-more-mcp-servers|Connect more MCP servers]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-slack-thread-follow-ups|Slack Thread Follow-Ups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

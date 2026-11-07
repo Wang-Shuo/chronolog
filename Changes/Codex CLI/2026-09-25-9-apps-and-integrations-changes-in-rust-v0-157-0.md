@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 906b44d7feb1fb947d51dc9a8b59edeed1bc66d930e3efd8f9e3b1f06815f331
+machine_hash: bfc817e1aa7a4f4ec0af301da27af4a1bb7fcdbfb2e235d36db5cf3fa1a8c33a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14 Apps and Integrations changes in v2.1.283]]
-- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-app-chat-connectors-discord-and-google-business-profile|App + chat connectors: Discord and Google Business Profile]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-org-admins-can-change-access-on-plugin-mcps|Org Admins Can Change Access on Plugin MCPs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

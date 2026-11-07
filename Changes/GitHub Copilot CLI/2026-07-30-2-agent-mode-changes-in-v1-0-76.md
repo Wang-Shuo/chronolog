@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ca8f2ed21a743854a22da25afea1e7eaccd1f68712ae69217b340682fef9542
+machine_hash: 8fa24fda57d891cda885a2c56afedc8d9bc94837341de784b34fd598732d2711
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-29-enable-adaptive-card-refresh-in-custom-engine-agents-web-microsoft-365-copilot-e|Enable
-  adaptive card refresh in custom engine agents…]]'
-- '[[Changes/Microsoft 365 Copilot/2026-07-29-sharepoint-list-support-in-agent-builder-windows-web-microsoft-365-copilot-exten|SharePoint
-  list support in Agent Builder Windows…]]'
 - '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
   always show the LLM selector; move agent-profile switching to the tools menu]]'
+- '[[Changes/Recraft/2026-07-29-meet-the-design-agent-in-recraft-studio|Recraft Design
+  Agent]]'
+- '[[Changes/Superwhisper/2026-07-29-grok-build-is-now-supported-as-a-coding-agent-in-the-app|Grok
+  build is now supported as a coding agent in the app]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat: always show the LLM selector; move agent-profile switching to the tools menu]]
+- Earlier: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-grok-build-is-now-supported-as-a-coding-agent-in-the-app|Grok build is now supported as a coding agent in the app]]
 - Later: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent Mode changes in Kimi Code 0.31.0]]
 <!-- chronolog:end -->
 

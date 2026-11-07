@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b23fe02fa08ae9c66999c87af9d83c085b19eaab7c61f51b80bf9ced47ec9fad
+machine_hash: 458e26bcc51dc336cc1126c12abc5f86cb213fc5d187aa118a0f5e8b886e8c43
 product: v0
 product_name: v0
 record:
@@ -46,7 +46,8 @@ record:
   title: React2Shell Vulnerability Patch
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]]'
+- '[[Changes/AnythingLLM/2025-12-09-5-agent-mode-changes-in-v1-9-1|5 Agent Mode changes
+  in v1.9.1]]'
 - '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
   feat: add is-mutating detection for shell command handler @jif-oai]]'
 - '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):

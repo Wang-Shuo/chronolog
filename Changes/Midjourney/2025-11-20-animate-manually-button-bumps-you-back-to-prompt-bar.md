@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d23439bd4241bf74dd91cf05020188248a3838ad53a2feb608d5aa9002bce61e
+machine_hash: 2111afc2114ef8cf0744f80b1fcf668e5ea608620981ae5c8ecb9d67b04f6803
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,8 @@ record:
   title: Animate manually button bumps you back to prompt bar
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch
-  to alternate buffer mode before rendering Ink]]'
+- '[[Changes/Raycast/2025-11-15-there-is-a-brand-new-way-to-set-shortcuts-for-your-favourite-commands-and-apps-a|There
+  is a brand new way to set shortcuts for your favourite commands and apps…]]'
 - '[[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle
   "Don''t Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]'
 - '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)

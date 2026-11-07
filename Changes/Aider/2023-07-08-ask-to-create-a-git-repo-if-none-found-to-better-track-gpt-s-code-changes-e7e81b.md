@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 133536c4ed91e6b97af7022e30bab6015f7967201d5c7bcb77c2dfe9381a4422
+machine_hash: 53a720578ca30d4650164c3bdd90955b679aefc40ac1683667d71859e6ca7639
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: Ask to create a git repo if none found, to better track GPT's code changes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
-  was failing on some non-git folders]]'
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
-  Run & debug in Cursor again (the toolbar is back)]]'
+- '[[Changes/Raycast/2023-07-06-highlighting-of-changes|Highlighting of Changes]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-chats-are-now-saved-correctly-after-running-an-ask-ai-command|AI
+  Chat: Chats are now saved correctly after running an Ask AI command]]'
 - '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes|Ask
   to create a git repo if none found, to better track GPT''s code changes]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-1-github-111483725-fed36512|aider-2023-07-08-v0-8-1-github-111483725-fed36512]]'

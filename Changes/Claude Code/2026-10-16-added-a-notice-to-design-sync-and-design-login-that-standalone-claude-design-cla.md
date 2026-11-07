@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29501a422ad4b530a82e66ba9ec4f513522991fcaf3893f6b28378f79f5bf8da
+machine_hash: 7b6c9bbbec6a41a1e7f2dbf8665a0b2a404211d55a28bf4383cf72a68d38dd78
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-login-pages-include-sign-in-with-lovable-by-default|Login pages include Sign in with Lovable by default]]
-- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your app]]
+- Later: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-saml-single-logout-on-sign-out|SAML Single Logout on Sign-out]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

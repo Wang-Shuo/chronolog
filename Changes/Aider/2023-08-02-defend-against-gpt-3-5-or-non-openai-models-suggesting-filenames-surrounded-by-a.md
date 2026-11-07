@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccca235c88cd51da5b1fcb8d0625cafa2ceac3049697ce6d1edd72504609cc31
+machine_hash: c0e199956a6714bc80792ad0b8afece6232b5f465bb4ec9b8d24dc6e5f5899d4
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
     by asterisks
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-07-26-3-model-support-changes-in-v0-0-12|3 Model Support
-  changes in v0.0.12]]'
 - '[[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename
   models you''ve pulled or created with ollama cp]]'
+- '[[Changes/Raycast/2023-07-27-gpt-4-everywhere-on-your-mac|GPT-4 Everywhere on Your
+  Mac]]'
 - '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 source_release: '[[Releases/Aider/aider-2023-08-02-v0-11-0-github-114871173-07ca5a65|aider-2023-08-02-v0-11-0-github-114871173-07ca5a65]]'
 source_type: github_releases

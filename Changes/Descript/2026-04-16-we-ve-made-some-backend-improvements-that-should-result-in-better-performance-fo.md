@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 195f4b2363d65bb254cceeb545f4b231fb1051f64cd919ddb330cffe4c34d303
+machine_hash: 6352e05b82aed1def7570e674518b89553873959f9a8ef8dfa1dbc38b4e7b676
 product: descript
 product_name: Descript
 record:
@@ -55,10 +55,10 @@ record:
   title: We’ve made some backend improvements that should result in better performance…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-14-we-launched-custom-agents-a-few-weeks-ago-and-teams-are-building-faster-than-we|We
-  launched Custom Agents a few weeks ago, and teams are building faster than we can…]]'
-- '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
-  stability exec server @jif-oai]]'
+- '[[Changes/Devin/2026-04-15-faster-sidebar-session-loading|Faster Sidebar Session
+  Loading]]'
+- '[[Changes/Devin/2026-04-15-this-release-also-includes-a-range-of-smaller-fixes-and-polish-including-a-prope|This
+  release also includes a range of smaller fixes and polish, including a proper…]]'
 - '[[Changes/Descript/2026-04-16-new-transitions|New Transitions]]'
 source_release: '[[Releases/Descript/descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2|descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2]]'
 source_type: canny_changelog
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix: stability exec server @jif-oai]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-this-release-also-includes-a-range-of-smaller-fixes-and-polish-including-a-prope|This release also includes a range of smaller fixes and polish, including a proper…]]
 - Later: 2026-04-16 · Windsurf · [[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]
 <!-- chronolog:end -->
 

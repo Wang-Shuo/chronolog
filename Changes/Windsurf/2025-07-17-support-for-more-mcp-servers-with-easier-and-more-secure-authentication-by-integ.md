@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 42bce0ff1dc5140b2478d6fff37710ee50cb848a615c9b0649e187c02d6b23a6
+machine_hash: 2e68fba856211128cc41776c0e5cf91b18efd72f7e6ce09e51e8c2f2ae7ca79a
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,8 +61,8 @@ record:
   title: Support for more MCP servers with easier and more secure authentication…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
-  AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
+- '[[Changes/AnythingLLM/2025-07-09-flag-to-disable-login-ui-and-endpoints-for-credentialed-auth-by-timothycarambat|Flag
+  to disable login UI and endpoints for credentialed auth]]'
 - '[[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add
   NO_BROWSER environment variable to trigger offline oauth flow]]'
 - '[[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account

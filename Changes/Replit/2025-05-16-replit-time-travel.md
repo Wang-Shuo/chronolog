@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1b1f393138f9934bc545c760964f3adc0bb629b48f24fccc3d373a1ca5c16210
+machine_hash: ac504f37700be3985d71106a6fbcf8d7e477972fb8cfd7321d63ac45cb4b1d21
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Replit time travel
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased
-  default context window to 4096 tokens]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-option-to-control-koboldcpp-max-response-tokens-by-shatfield4-in-https-githu|Add
+  option to control KoboldCPP max response tokens]]'
 - '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
   changes in v0.83.0]]'
 - '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your

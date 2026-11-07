@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 68cbfb9d3f7acb57997162ac7aaedca4f7d687fb925f1170f5acf563ad025be6
+machine_hash: b05e31f34eeab4050045df2c17bf432fdaf28bc1cb84afce5055c9e48c82d8ef
 product: ollama
 product_name: Ollama
 record:
@@ -47,12 +47,12 @@ record:
     improves…
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-07-stablelm2-12b-https-ollama-com-library-stablelm2-12b-a-new-12b-version-of-the-st|StableLM2
-  12B((source link) A new 12B version…]]'
 - '[[Changes/Ollama/2024-05-10-ollama-will-now-more-accurately-estimate-how-much-memory-is-available-on-multi-g|Ollama
   will now more accurately estimate how much memory is available on multi-GPU…]]'
 - '[[Changes/Ollama/2024-05-15-a-new-command-is-now-available-ollama-ps-this-command-displays-currently-loaded|A
   new command is now available: ollama ps]]'
+- '[[Changes/Raycast/2024-05-15-emoji-search-enhanced-performance-for-navigating-emojis|Emoji
+  Search: Enhanced performance for navigating emojis]]'
 source_release: '[[Releases/Ollama/ollama-2024-05-22-v0-1-39-github-156776386-fd903deb|ollama-2024-05-22-v0-1-39-github-156776386-fd903deb]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-05-15 · Ollama · [[Changes/Ollama/2024-05-15-a-new-command-is-now-available-ollama-ps-this-command-displays-currently-loaded|A new command is now available: ollama ps]]
-- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-general-fixes-various-bug-fixes-and-improvements-to-enhance-stability-and-perfor|General Fixes: Various bug fixes and improvements to enhance stability and performance]]
+- Earlier: 2024-05-15 · Raycast · [[Changes/Raycast/2024-05-15-emoji-search-enhanced-performance-for-navigating-emojis|Emoji Search: Enhanced performance for navigating emojis]]
+- Later: 2024-05-22 · Superwhisper · [[Changes/Superwhisper/2024-05-22-improved-performance-for-response-rendering-in-recording-window|Improved performance for response rendering in recording window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

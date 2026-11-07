@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 29d0c64b2e2747658f6a078d2a122084aa6b45cc813b056d09467826014e0217
+machine_hash: 93ef6ce37d8d12b2ce74719659a5f8c19bb2bd5f31d71945508138bd083df78f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,12 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support
-  changes in v0.36.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-01-remove-support-for-gpt-5-1-codex-gpt-5-1-codex-mini-and-gpt-5-1-codex-max-models|Remove
-  support for gpt-5.1-codex, gpt-5.1-codex-mini, and gpt-5.1-codex-max models]]'
+- '[[Changes/AnythingLLM/2026-04-02-2-model-support-changes-in-v1-12-0|2 Model Support
+  changes in v1.12.0]]'
 - '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
   (Mixture of Experts model with 4B active parameters)]]'
+- '[[Changes/Recraft/2026-04-03-we-ve-added-veo-3-1-lite-a-cost-efficient-video-model-for-fast-generation-and-hi|Recraft
+  adds Veo 3.1 Lite, a cost-efficient video model for fast generation…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492|github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-02 · Ollama · [[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B (Mixture of Experts model with 4B active parameters)]]
+- Earlier: 2026-04-03 · Recraft · [[Changes/Recraft/2026-04-03-we-ve-added-veo-3-1-lite-a-cost-efficient-video-model-for-fast-generation-and-hi|Recraft adds Veo 3.1 Lite, a cost-efficient video model for fast generation…]]
 - Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-2-model-support-changes-in-v1-3-15-1|2 Model Support changes in v1.3.15 + 1]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c3f34042d1a19223781fe9124c3c6cbc0df23e9f4383aa63c607102107d9930
+machine_hash: 2158b8fec00f0630f28ad40ba29d3792cf5759b36fa0a1ac63e0ad6b23b12f91
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,11 @@ record:
   title: Cleaned up chat styling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface
-  Experience changes in 0.1.2]]'
 - '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
   Experience changes in 0.1.5]]'
 - '[[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes
   autoupdate to notify you when there''s a new version]]'
+- '[[Changes/Raycast/2023-03-29-quick-paste-insert|Quick Paste/Insert]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-changes-autoupdate-to-notify-you-when-there-s-a-new-version|Changes autoupdate to notify you when there's a new version]]
+- Earlier: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-quick-paste-insert|Quick Paste/Insert]]
 - Later: 2023-04-03 · Descript · [[Changes/Descript/2023-04-03-export-scene-you-can-now-export-just-the-selected-scene-by-selecting-a-scene-and|Export scene: You can now export just the selected scene by selecting a scene…]]
 <!-- chronolog:end -->
 

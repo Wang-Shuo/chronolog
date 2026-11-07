@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e332cd80f71e364ab3d9aa653bdafa3cbc35bff2046b129b290790f5262f465d
+machine_hash: 3a4e382a5bf589bb27d5dd035a57c43bc6c4f6783287eb4eeed2a6eb482d54c9
 product: replit
 product_name: Replit
 record:
@@ -46,10 +46,10 @@ record:
   title: Agent v2 is now available
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
 - '[[Changes/ElevenLabs/2025-03-24-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-03-24-agents-platform-e22490|Agents Platform]]'
+- '[[Changes/AnythingLLM/2025-03-27-enable-use-of-agent-in-slash-commands-by-shatfield4-in-https-github-com-mintplex|Enable
+  use of @agent in slash commands]]'
 source_release: '[[Releases/Replit/replit-2025-03-28-2025-03-28-e7e91c08|replit-2025-03-28-2025-03-28-e7e91c08]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-03-24 · ElevenLabs · [[Changes/ElevenLabs/2025-03-24-agents-platform-e22490|Agents Platform]]
+- Earlier: 2025-03-27 · AnythingLLM · [[Changes/AnythingLLM/2025-03-27-enable-use-of-agent-in-slash-commands-by-shatfield4-in-https-github-com-mintplex|Enable use of @agent in slash commands]]
 - Later: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

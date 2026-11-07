@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca1b12fb698d1ed69e5f763705a626dad6bcfebcce945ea077bd1f43175b8095
+machine_hash: 071b6007b9be469ad7e41fd11229df4f9d32be2299f7e950ea8ba9cc771baa65
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in v0.3.9
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-4-model-support-changes-in-0-6-13|4 Model Support changes
-  in 0.6.13]]'
+- '[[Changes/Superwhisper/2024-07-09-deprecate-ultra-turbo-model|Deprecate Ultra Turbo
+  model]]'
 - '[[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update
   model provider configuration for Triton Inference Server and X…]]'
 - '[[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]'

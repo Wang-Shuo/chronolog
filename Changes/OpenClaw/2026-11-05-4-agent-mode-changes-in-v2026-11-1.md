@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b578a561bbaab8a44b0a0d7255112766d2b13f2986652c17e40cd7e6665c4711
+machine_hash: db2e792056a763c3027a9f50b2d3fe4de91c7fbea64ee8f7fda105ab961b74d9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Agent Mode changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-11-04-3-agent-mode-changes-in-kimi-code-2-5-0|3 Agent
-  Mode changes in Kimi Code 2.5.0]]'
+- '[[Changes/Krea/2026-11-04-turn-agent-on-or-off-with-access-controls|Turn Agent
+  on or off with Access Controls]]'
 - '[[Changes/Microsoft 365 Copilot/2026-11-04-sharepoint-list-agent-web-microsoft-365-copilot|SharePoint
   list agent Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-11-04-agents-usage-report-web-microsoft-365-admin-center|Agents

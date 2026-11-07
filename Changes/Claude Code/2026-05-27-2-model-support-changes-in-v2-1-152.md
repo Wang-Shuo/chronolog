@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b09216c4f3a2eda9d5aec817296123d912add4a1f6f70ad3b4bfa67bf5912a7d
+machine_hash: 38c4ed9d086f45a69aa0cf509ccf3cccb1d8bb8884a0e5b309886285e058a25e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
-  in v3.85.0]]'
+- '[[Changes/AnythingLLM/2026-05-26-11-model-support-changes-in-v1-13-0|11 Model Support
+  changes in v1.13.0]]'
 - '[[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model
   Support changes in Kimi Code 0.2.0]]'
 - '[[Changes/Kimi Code/2026-05-26-2-model-support-changes-in-kimi-code-0-3-0|2 Model

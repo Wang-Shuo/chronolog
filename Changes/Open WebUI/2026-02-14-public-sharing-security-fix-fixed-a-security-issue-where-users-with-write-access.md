@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5c9085fb8a58c2d4511cca80deb9fd521ce98cd8919d49de80b4ac6b636d239
+machine_hash: 399f19df5b31657df36a3a8d043d4620ec29f66e2f178392b511cf249bf82b73
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
     users with write…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission
-  prompts with long diffs are scrollable in alt-screen mode]]'
 - '[[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety
   and Privacy changes in v0.8.0]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
+- '[[Changes/Devin/2026-02-13-secure-mode-for-all-organizations|Secure Mode for All
+  Organizations]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
 source_type: github_releases
 theme: safety-privacy
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]]
+- Earlier: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-secure-mode-for-all-organizations|Secure Mode for All Organizations]]
 - Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]]
 <!-- chronolog:end -->
 

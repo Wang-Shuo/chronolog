@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fffafa18a578ae6ecf418a3417b3a2633b14a1f69e123d39cd087ab4e61b3379
+machine_hash: 3f5f4ab71376cbf02279112c5b380c463c20bc26a420a33424df470c5f716345
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-music|Music]]
-- Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-mcp|MCP]]
+- Later: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-3-apps-and-integrations-changes-in-raycast-windows-0-48|3 Apps and Integrations changes in Raycast windows 0.48]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

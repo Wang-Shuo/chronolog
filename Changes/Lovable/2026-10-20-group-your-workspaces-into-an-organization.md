@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6f109b99ab9c17fc409615ee45de6911fa1b2bf66844ae170feecd7d222290a8
+machine_hash: 404ef0f1304ababa6187f59d1893164ec1f922b1621ee3d4655a6e47f2a57db8
 product: lovable
 product_name: Lovable
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model picker marks your administrator-managed model as the default when it is available]]
-- Later: 2026-10-21 · Lovable · [[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption by department without SCIM]]
+- Later: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-request-access-link-for-repositories-not-yet-in-devin|Request-access Link for Repositories Not Yet in Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

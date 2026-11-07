@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7212ede86cc9a9ded2640428e9ddd14ffecb7f4096b33ad2c133501b5fa65697
+machine_hash: 2a9d09885017b695945321fd2695f9490a5d7df9a3cf4fd121cbd9a94cb91763
 product: descript
 product_name: Descript
 record:
@@ -47,10 +47,10 @@ record:
   title: Get a deleted project back
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
-  Experience changes in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface
-  Experience changes in 1.19.0]]'
+- '[[Changes/Raycast/2026-11-04-tip-assign-a-hotkey-like-control-a-to-dictate-to-ai-for-even-quicker-access|Tip:
+  Assign a hotkey like Control + A to Dictate to AI for even quicker access]]'
+- '[[Changes/Superwhisper/2026-11-05-2-interface-experience-changes-in-superwhisper-macos-3-2-0|2
+  Interface Experience changes in Superwhisper macOS 3.2.0]]'
 - '[[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13
   Interface Experience changes in rust-v0.167.0]]'
 source_release: '[[Releases/Descript/descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4|descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4]]'

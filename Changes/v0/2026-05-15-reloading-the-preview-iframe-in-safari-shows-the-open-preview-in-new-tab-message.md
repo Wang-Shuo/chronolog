@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32534a61c123a7d52ec6c7d2876ca8c667b41d6f02951b069df95f9b7a3b9415
+machine_hash: 7ac0bc6c036e3782323ff745e7f12181236db4881fad37c47c295d4487437cd6
 product: v0
 product_name: v0
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now extends to the theme panel]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954 Fix goal update and add /goal edit command in TUI @etraut-openai]]
+- Later: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-checks-tab-always-visible|Checks Tab Always Visible]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb9314ab2e84162d46db08cc7249b331d7083126821e0e616bcb613cf338c702
+machine_hash: 13ebf8d6ea005ebbc25fcd2db21c6a58eebdd0d27bb93280c96d77ad16d543f6
 product: ollama
 product_name: Ollama
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Reliability and Performance changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-08-2-reliability-and-performance-changes-in-v0-1-19|2
-  Reliability and Performance changes in v0.1.19]]'
-- '[[Changes/Dify/2024-01-11-web-bump-next-js-to-14-0-for-faster-local-server-startup-by-bowenliang123-in-htt|web:
-  bump Next.js to 14.0 for faster local server startup]]'
-- '[[Changes/Ollama/2024-01-11-2-reliability-and-performance-changes-in-v0-1-20|2
-  Reliability and Performance changes in v0.1.20]]'
+- '[[Changes/Superwhisper/2024-01-12-2-reliability-and-performance-changes-in-superwhisper-macos-1-22-1|2
+  Reliability and Performance changes in Superwhisper macOS 1.22.1]]'
+- '[[Changes/Superwhisper/2024-01-12-performance-improvements-to-ui-and-model-running|Performance
+  improvements to UI and model running]]'
+- '[[Changes/Superwhisper/2024-01-13-2-reliability-and-performance-changes-in-superwhisper-macos-1-22-2|2
+  Reliability and Performance changes in Superwhisper macOS 1.22.2]]'
 source_release: '[[Releases/Ollama/ollama-2024-01-20-v0-1-21-github-137801319-d665d0af|ollama-2024-01-20-v0-1-21-github-137801319-d665d0af]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,8 +87,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-01-11 · Ollama · [[Changes/Ollama/2024-01-11-2-reliability-and-performance-changes-in-v0-1-20|2 Reliability and Performance changes in v0.1.20]]
-- Later: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-refine-faster-rsa-implement-by-yeuoly-in-https-github-com-langgenius-dify-pull-2|refine: faster rsa implement]]
+- Earlier: 2024-01-13 · Superwhisper · [[Changes/Superwhisper/2024-01-13-2-reliability-and-performance-changes-in-superwhisper-macos-1-22-2|2 Reliability and Performance changes in Superwhisper macOS 1.22.2]]
+- Later: 2024-01-24 · Raycast · [[Changes/Raycast/2024-01-24-application-uninstaller-uninstalling-big-applications-is-now-much-faster-and-you|Application Uninstaller: Uninstalling big applications is now much faster and you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

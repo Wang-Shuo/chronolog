@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 464541e1aad87972d1ee2c91acaf367d7bf8c1c63367a352faa4430e00404b75
+machine_hash: 3015af757a2937ee6bc4947ab561ad9f432e5c83c92f0fc3cf1b038616c5464b
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in 2.2
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-05-fast-mode-handles-more-autonomously|Fast Mode handles
-  more autonomously]]'
 - '[[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally
   available]]'
+- '[[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats
+  view with typing speed and time saved]]'
 - '[[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized
   preview loading performance when using Design Mode]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'

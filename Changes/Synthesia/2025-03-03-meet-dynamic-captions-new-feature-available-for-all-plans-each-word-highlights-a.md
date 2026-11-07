@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cde33e455b1711fd3d119b8a83ad14ee4ad968e5d1b1e460ef44f4f3a70b918a
+machine_hash: d5395a91d60d514f0bb01915dd2db8bf6d33e586a49650c9acf1b2c69edff55c
 product: synthesia
 product_name: Synthesia
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-03-03 · ElevenLabs · [[Changes/ElevenLabs/2025-03-03-speech-to-text|Speech to Text]]
-- Later: 2025-03-10 · ElevenLabs · [[Changes/ElevenLabs/2025-03-10-voices|Voices]]
+- Later: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-speech-to-text-typo-correction-by-yashschandra-in-https-github-com-mintplex-labs|speech to text typo correction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

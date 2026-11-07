@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fa8cf448a262e3a88e0500b2077bcbba27a5fb6c40f2516d5a28b0abe0851ea7
+machine_hash: 95b88695a4d0ce1a59e0714fa875321122ae45072d9d31cba6ab9e296afdaab2
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Find a Replit Solutions Partner
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search
-  and Browsing changes in v2026.10.1]]'
-- "[[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|\U0001F9F0
-  Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]"
 - "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9
   Built-in tools with a custom tools parameter. A model with a custom parameter…]]"
+- '[[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings|AI
+  Skills : Browse installed extension skills in AI settings]]'
+- '[[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings-8d0d0e|AI
+  Skills : Browse installed extension skills in AI settings]]'
 source_release: '[[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|replit-2026-10-16-2026-10-16-3443a38d]]'
 source_type: replit_changelog
 theme: search-browsing
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|🧩 Built-in tools with a custom tools parameter. A model with a custom parameter…]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-skills-browse-installed-extension-skills-in-ai-settings-8d0d0e|AI Skills : Browse installed extension skills in AI settings]]
 - Later: 2026-10-17 · DeepSeek API · [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up the in-house search API]]
 <!-- chronolog:end -->
 

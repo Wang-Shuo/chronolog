@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b4a40b2aed4168cb37b836b56acde4d0809c99b7b7f2f4f54f6bcbe6a716b2f
+machine_hash: ca0361110cf13c91b2ffc9ef498bc885e075049bab4b14f3207db547be0782b4
 product: v0
 product_name: v0
 record:
@@ -91,7 +91,7 @@ Source: https://v0.app/changelog#2026-06-08
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-elevenagents|ElevenAgents]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode changes in rust-v0.139.0]]
+- Later: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-improve-agent-summarizer-tool-by-shatfield4-in-https-github-com-mintplex-labs-an|Improve agent summarizer tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 74fb217e5b5967c2e53561dd0e7d200da281c205e0a8a6398fdb91cee85ec8bb
+machine_hash: d6f2e0cd10873ec6fbd69d1956ccdd10535ee327c6feeeb62717c91c854fb50e
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
   title: AI Review (beta)
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-08-2-model-support-changes-in-v0-1-14|2 Model Support
-  changes in v0.1.14]]'
 - '[[Changes/Ollama/2023-12-12-2-model-support-changes-in-v0-1-15|2 Model Support
   changes in v0.1.15]]'
+- '[[Changes/Superwhisper/2023-12-13-show-recording-window-while-model-is-initializing|Show
+  Recording window while model is initializing]]'
 - '[[Changes/Ollama/2023-12-14-3-model-support-changes-in-v0-1-16|3 Model Support
   changes in v0.1.16]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'

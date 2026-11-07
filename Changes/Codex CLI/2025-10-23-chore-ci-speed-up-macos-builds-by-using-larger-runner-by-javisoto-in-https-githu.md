@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52c2db22faf1616ca1abcb54a951e438487a9cd2322998666213c305af598e79
+machine_hash: 8beff0baefb6dba90bf9c54355691086a290afbbfcf7d0fd8bf88107b9bc3752
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'chore(ci): Speed up macOS builds by using larger runner'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
-  and Performance changes in 1.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made
   improvements to the memory footprint of Copilot CLI, especially when dealing…]]'
+- '[[Changes/Superwhisper/2025-10-22-parakeet-vocabulary-scrollbars-in-settings-stability-improvements|Parakeet
+  Vocabulary, Scrollbars in settings, Stability improvements]]'
 - '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
   work: Upload notes, proposals, and contracts so collaborators can draft…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba|codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba]]'

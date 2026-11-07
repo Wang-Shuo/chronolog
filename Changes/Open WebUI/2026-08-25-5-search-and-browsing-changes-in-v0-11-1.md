@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cb7fe2b22b77f87b317b21610dd5f312e143490de8ffa5acf76114501e67fb6
+machine_hash: 58f501994e14f8a36c12f13763aa473156f49dacd15fdfcd1914f32e5ff01a83
 product: open-webui
 product_name: Open WebUI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-open-outlook-emails-within-copilot-chat-windows-mac-web-microsoft-365-copilot|Open Outlook emails within Copilot Chat Windows, Mac, Web (Microsoft 365 Copilot)]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See how each app page appears in search results and link previews]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ai-ask-user-question-tool-can-be-collapsed-to-make-browsing-conversation-easier|AI : Ask User Question tool can be collapsed to make browsing conversation easier…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

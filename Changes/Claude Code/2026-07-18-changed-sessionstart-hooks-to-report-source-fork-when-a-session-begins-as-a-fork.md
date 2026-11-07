@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd2a0be3f9bd10c0d05b012fbbcfa94b56818ef7126c63f385cb81742d56904c
+machine_hash: f42b27faade13bd7915aba5a657f8b6e90b484ebf98af4d3fd2495bf02186f6c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     as a fork…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
-  support]]'
+- '[[Changes/Devin/2026-07-17-enterprise-grade-plugin-governance|Enterprise-Grade
+  Plugin Governance]]'
 - '[[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and
   Integrations changes in 1.16.0]]'
 - '[[Changes/Replit/2026-07-17-integrations|Integrations]]'

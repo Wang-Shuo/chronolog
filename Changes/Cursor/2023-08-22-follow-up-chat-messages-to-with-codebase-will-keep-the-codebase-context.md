@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cce6ac657e7a7302478348b63f42ca40a35d666c5267fa32faa19cf2480c47f
+machine_hash: bcc2235e97a14f29778db5669c961acd086b6dd38d41be6707ec46fd06eb8b35
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Follow-up chat messages to "with codebase" will keep the codebase context
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
-  summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
   summarize chat history to avoid exhausting context window]]'
+- '[[Changes/Raycast/2023-08-09-ai-continue-your-translate-command-translations-in-the-ai-chat-to-add-more-conte|AI
+  : Continue your “Translate” command translations in the AI Chat to add more context]]'
 - '[[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add
   context to api documentation for /api/generate]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'

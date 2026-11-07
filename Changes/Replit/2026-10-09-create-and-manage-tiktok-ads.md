@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 528851c553583b329da697d6e62344c1f8a4d335424e1ee52bddd7b4f744f44b
+machine_hash: ce6a9b23f04fb2db3b0182889c3db4ae34d2193412e342a59fd46d3b1d819e5c
 product: replit
 product_name: Replit
 record:
@@ -60,12 +60,11 @@ record:
   title: Create and manage TikTok Ads
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
-  Ctrl+C at the idle prompt of an attached background session to leave…]]'
-- '[[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2
-  Automation and Scheduling changes in v2026.9.9]]'
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
+- '[[Changes/Devin/2026-10-09-failure-notification-backoff|Failure notification backoff]]'
+- '[[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-windows-2-7|2
+  Automation and Scheduling changes in Raycast windows 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-macos-2-7|2
+  Automation and Scheduling changes in Raycast macos 2.7]]'
 source_release: '[[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|replit-2026-10-09-2026-10-09-58884c93]]'
 source_type: replit_changelog
 theme: automation-scheduling
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-macos-2-7|2 Automation and Scheduling changes in Raycast macos 2.7]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10 Automation and Scheduling changes in v0.12.0]]
 <!-- chronolog:end -->
 

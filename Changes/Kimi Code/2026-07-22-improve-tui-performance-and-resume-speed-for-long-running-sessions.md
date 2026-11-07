@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4be698fda3d7db322e093c884c87d6a13e8a964e8ca4f4e8091153f212cfc690
+machine_hash: c946fc8061d89d0d09bfa517839e3a6bd8d859120c025474c93d49204fc99378
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,12 +41,11 @@ record:
   title: Improve TUI performance and resume speed for long-running sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
-  a periodic progress heartbeat for long-running tool calls that previously went…]]'
 - '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
   warnings when transcript writes are failing (e.g. disk full) or when session…]]'
 - '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
   Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Devin/2026-07-22-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-22-0-29-0-c6d21071|kimi-code-2026-07-22-0-29-0-c6d21071]]'
 source_type: kimi_code_changelog
 theme: reliability-performance
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3 Reliability and Performance changes in rust-v0.145.0]]
+- Earlier: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-performance-improvements|Performance Improvements]]
 - Later: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5a8c74fff9aa7f9fb420c87c5d721d330eaaa9a68d2b3d7da9c83e7e297e2789
+machine_hash: 5b7ce54a16a18c113450a577b8a176aa8bf6d4cb656b68bb6539c83fd5d3f298
 product: notion
 product_name: Notion
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-01-08 · Ollama · [[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing context size with num_ctx will now work…]]
-- Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat: add xinference llm context size]]
+- Later: 2024-01-30 · Superwhisper · [[Changes/Superwhisper/2024-01-30-include-clipboard-context-in-llm|Include clipboard context in LLM]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

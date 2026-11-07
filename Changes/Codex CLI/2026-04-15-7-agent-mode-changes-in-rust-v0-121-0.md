@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 918c608e9f7759d0d10ffec603b5991378faa265ffb784927dfc82249486941e
+machine_hash: 02bc3a4d1359445279de586d7b49f0b5862b1b5b5c88e8cc99b4a307d7df72d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI Autofill in databases, powered by Custom Agents]]
-- Later: 2026-04-15 · Notion · [[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule meetings with Notion Agent]]
+- Later: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-acp-summarizer|ACP Summarizer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

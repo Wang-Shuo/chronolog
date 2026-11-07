@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f565338fea680978904d9c75b30cb85af29d2451b795de307d89e77d117e8eb
+machine_hash: bf5b09798ab9e95acc3e5c0256ab7ed55d2501a4075013c2a23674e9fe130ff4
 product: notion
 product_name: Notion
 record:
@@ -40,8 +40,8 @@ record:
   title: "Pages load faster on Android \U0001F4C8"
   type: change
 related_changes:
-- '[[Changes/Synthesia/2021-07-16-automatically-speed-up-or-slow-down-the-background-video-so-that-it-s-duration-m|Match
-  to script]]'
+- '[[Changes/Raycast/2021-07-29-improve-cold-start-performance-enhance-in-app-updates|Improve
+  cold start performance, enhance in-app updates]]'
 - '[[Changes/Descript/2021-08-24-2-reliability-and-performance-changes-in-version-21-release|2
   Reliability and Performance changes in Version 21 Release]]'
 - '[[Changes/Descript/2021-09-03-improved-speed-of-uploaded-files-to-descript-servers|Improved
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2021-09-03 · Descript · [[Changes/Descript/2021-09-03-improved-speed-of-uploaded-files-to-descript-servers|Improved speed of uploaded files to Descript servers]]
-- Later: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-pages-with-large-images-now-load-faster-on-mobile|Pages with large images now load faster on mobile]]
+- Later: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-improved-performance-in-the-root-search|Improved performance in the root search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

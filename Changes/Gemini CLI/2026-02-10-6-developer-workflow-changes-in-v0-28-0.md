@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dda0a61946b39a39a5995fa58e5e2134d76e9edf717d86f62c2d9020fc2ba33e
+machine_hash: 78f0a9686808ca03dd468cd5426abe8914c6b95da81730fa8c0e7659c579d98f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 6 Developer Workflow changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer
-  Workflow changes in v1.1.52]]'
+- '[[Changes/Raycast/2026-02-06-run-updated-command-icons-with-a-fresh-design|Run
+  : Updated command icons with a fresh design]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
   /changelog command to view release notes]]'
 - '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved

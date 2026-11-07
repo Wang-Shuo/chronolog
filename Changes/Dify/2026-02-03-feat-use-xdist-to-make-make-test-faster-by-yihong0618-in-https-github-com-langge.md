@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8a5ce09fc8c61dcf8bfa5d0ab7cc66b7afe24d23c374533234fe89769105f62
+machine_hash: 6e24ff27f095ad7ab779dd9508eb5e2148f28851eb53265885c32e85069744e8
 product: dify
 product_name: Dify
 record:
@@ -41,11 +41,11 @@ record:
   title: 'feat: use xdist to make make test faster'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3
-  Reliability and Performance changes in rust-v0.93.0]]'
 - '[[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]'
 - '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
   memory usage for --resume (68% reduction for users with many sessions)…]]'
+- '[[Changes/Devin/2026-02-03-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
+- Earlier: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-02-03 · Google Antigravity · [[Changes/Google Antigravity/2026-02-03-2-reliability-and-performance-changes-in-ide-v1-16-5-bug-fixes|2 Reliability and Performance changes in IDE v1.16.5 — Bug Fixes]]
 <!-- chronolog:end -->
 

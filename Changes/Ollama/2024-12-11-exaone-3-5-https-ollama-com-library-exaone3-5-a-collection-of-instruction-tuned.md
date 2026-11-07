@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b83087d987298e9aeba70b743d4d865edc47dc8c03b57932c9d28f153c95a83
+machine_hash: a80a6b7cb82a3ca9f5a60a9d027d9871e52df59a7190bd9da30efebb9e888a2d
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In the future, we plan for the characters, worlds, and other materials you create…]]
-- Later: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes in v0.69.0]]
+- Later: 2024-12-12 · Superwhisper · [[Changes/Superwhisper/2024-12-12-new-medically-focused-nova-medical-cloud-model|New medically focused 'Nova Medical (Cloud)' model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

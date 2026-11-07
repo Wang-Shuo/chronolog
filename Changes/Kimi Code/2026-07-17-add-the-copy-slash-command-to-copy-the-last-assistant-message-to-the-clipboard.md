@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae1530d88adb060d9c244ebb44c88584bda321cebf6633fe0b4686254254a949
+machine_hash: 35ca127d96d8a1f792f58611d637baef05c07a7ecc32ee851ac0dc47271281a0
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Add the /copy slash command to copy the last assistant message to the clipboard
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
-  Fixed startup readiness so WSL server loading is included before the desktop…]]'
+- '[[Changes/Raycast/2026-07-16-2-developer-workflow-changes-in-raycast-windows-0-69|2
+  Developer Workflow changes in Raycast windows 0.69]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 - '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow

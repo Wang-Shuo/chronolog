@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 770e6dabf0b62a20beedf6fed2e864643cc44d5be0b28763398886e14624d9bc
+machine_hash: 03c1e8fa21922bd5f8fa8f02aeded28584ed5c5f28de40ee5472e165f70c241b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,11 @@ record:
   title: Dictate prompts by holding the spacebar to record and transcribe voice input…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-23-removed-endpoints|Removed Endpoints]]'
-- '[[Changes/ElevenLabs/2026-02-23-voices|Voices]]'
-- '[[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️
-  Voice dictation shortcut. Users can now toggle voice dictation using…]]'
+- '[[Changes/Superwhisper/2026-02-23-2-voice-and-audio-changes-in-superwhisper-macos-2-10-0|2
+  Voice and Audio changes in Superwhisper macOS 2.10.0]]'
+- '[[Changes/Superwhisper/2026-02-23-elevenlabs-scribe-experimental|ElevenLabs Scribe
+  (experimental)]]'
+- '[[Changes/Superwhisper/2026-02-23-realtime-streaming|Realtime Streaming]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: voice
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️ Voice dictation shortcut. Users can now toggle voice dictation using…]]
+- Earlier: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-realtime-streaming|Realtime Streaming]]
 - Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
 <!-- chronolog:end -->
 

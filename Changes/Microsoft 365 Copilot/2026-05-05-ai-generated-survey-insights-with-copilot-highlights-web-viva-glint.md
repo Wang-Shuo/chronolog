@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a4111eb6a21e4ae225775891d9abf785880ff85b8fc4048975315ba44ad18a57
+machine_hash: b362c58c2a2511e2a3ca19e4a468b55fdbdbbf9198ea1014d3c604a57f02f851
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -57,8 +57,8 @@ record:
   title: AI-generated survey insights with Copilot Highlights [Web] (Viva Glint)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core
-  Reduced memory growth in long-running bash tool usage]]'
+- '[[Changes/Raycast/2026-04-30-ai-significant-performance-and-stability-improvements-when-streaming-in-chat|AI:
+  Significant performance and stability improvements when streaming in chat]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve

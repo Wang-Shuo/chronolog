@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7edc874ca1f7fc479e94085507d5968dfddab50cd0282235b2096a9541a5d582
+machine_hash: 2c8df0623c1c172757c2e5f6769f241db552ed92d16450eb459c21fa2d3002f0
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Connect your app to Pledge
   type: change
 related_changes:
-- '[[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet
-  v2 Background Removal]]'
-- '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
-  use of plugins and tools to carry out tasks]]'
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
+- '[[Changes/Devin/2026-10-16-enterprise-setting-to-hide-the-legacy-mcp-marketplace|Enterprise
+  Setting to Hide the Legacy MCP Marketplace]]'
+- '[[Changes/Krea/2026-10-16-check-your-balance-from-krea-mcp|Check your balance from
+  Krea MCP]]'
+- '[[Changes/Krea/2026-10-16-krea-3-api-resolution-and-priority|Krea 3 API resolution
+  and priority]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3 Apps and Integrations changes in v2.1.302]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-krea-3-api-resolution-and-priority|Krea 3 API resolution and priority]]
 - Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance warnings]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3fe02ce3d171048f0ce3acfcb641a7db57ed77685569ee85853d18e9b0a31d0
+machine_hash: decc11929133d914d5b9c0599e5f90bdc00e1a445951df120414cc2d8e8c868d
 product: descript
 product_name: Descript
 record:
@@ -49,10 +49,12 @@ record:
   title: Screen recorder on Windows
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-06-09-3-mobile-and-desktop-changes-in-v0-9-1|3 Mobile and
-  Desktop changes in v0.9.1]]'
-- '[[Changes/Replit/2025-06-13-mobile-app-update|Mobile app update]]'
-- '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Raycast/2025-06-17-misc-content-is-now-available-in-spotlight-search-you-can-now-search-for-your-fr|Misc
+  : Content is now available in Spotlight search]]'
+- '[[Changes/Raycast/2025-06-17-2-mobile-and-desktop-changes-in-raycast-ios-1-0-5|2
+  Mobile and Desktop changes in Raycast ios 1.0.5]]'
+- '[[Changes/Raycast/2025-06-17-unleash-your-creativity-anywhere-with-this-update-you-can-now-effortlessly-creat|Unleash
+  your creativity anywhere!]]'
 source_release: '[[Releases/Descript/descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3|descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3]]'
 source_type: canny_changelog
 theme: mobile-desktop
@@ -85,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]
+- Earlier: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-unleash-your-creativity-anywhere-with-this-update-you-can-now-effortlessly-creat|Unleash your creativity anywhere!]]
 - Later: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If you're on Desktop, we also release an update that requires a restart]]
 <!-- chronolog:end -->
 

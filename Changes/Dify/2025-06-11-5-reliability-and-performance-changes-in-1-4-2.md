@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11ce351fd5a5938cd85276a86b5f9587e77351b3766fb85c0467f9c9e79bb0ad
+machine_hash: 9a4ec91d3872f1632239e1288b3c971e23f10bff0ddee0980c9c026c84b77a83
 product: dify
 product_name: Dify
 record:
@@ -53,7 +53,8 @@ record:
   title: 5 Reliability and Performance changes in 1.4.2
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]'
+- '[[Changes/Superwhisper/2025-06-05-custom-providers-performance-tracking|Custom
+  Providers & Performance Tracking]]'
 - '[[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
   macOS app is now a native application and starts much faster while requiring…]]'
 - "[[Changes/Open WebUI/2025-06-10-pinecone-vector-search-optimizations-applied-latest-best-practices-from-pinecone|\U0001F680

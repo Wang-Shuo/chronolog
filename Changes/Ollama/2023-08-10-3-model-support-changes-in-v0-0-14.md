@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4e1ee55a4f5286d8115b8c8c71b30cc529db017723ebd82311d1c12aad2712b
+machine_hash: d6b37d1d885de3a39093af2f636c2d9d8f995c75a2c0954b89a263da5fbeda64
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,13 @@ record:
   title: 3 Model Support changes in v0.0.14
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When
-  running ollama run, the /show command can be used to inspect the current model]]'
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
-  to ChatGPT]]'
+- '[[Changes/Superwhisper/2023-08-03-added-nano-model-between-the-smallest-fast-model-and-the-standard-model|Added
+  "Nano" model, between the smallest "Fast" model and the "Standard" model]]'
 - '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Raycast/2023-08-09-gpt-4-subscription-added-an-option-to-cancel-a-subscription-on-the-account-setti|GPT-4
+  subscription : added an option to cancel a subscription on the account settings
+  page]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b|ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.0.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
+- Earlier: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-gpt-4-subscription-added-an-option-to-cancel-a-subscription-on-the-account-setti|GPT-4 subscription : added an option to cancel a subscription on the account settings page]]
 - Later: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
 <!-- chronolog:end -->
 

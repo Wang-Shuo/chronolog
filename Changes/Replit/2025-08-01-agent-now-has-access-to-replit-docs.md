@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5d984870a1a7cc913b81d633f2fdbb43c29845386bac5dbf2fae385458883601
+machine_hash: 4715d175b68153b39cd6f51fdc6f610e5c193f01ebc9a4a1e126b6e5fa4d09b9
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,9 @@ record:
   title: Agent now has access to Replit Docs
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in
-  1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes
   in v0.1.15]]'
+- '[[Changes/Devin/2025-07-31-input-dropdown-cleanup|Input Dropdown Cleanup]]'
 - '[[Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only|Improved
   the resolver summary generation by instructing the agent to focus only…]]'
 source_release: '[[Releases/Replit/replit-2025-08-01-2025-08-01-3bbceb1a|replit-2025-08-01-2025-08-01-3bbceb1a]]'

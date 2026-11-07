@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 771201e64dd4a56868531ae04c466db544b05abd4b92b9e4f8f3629946f57dbd
+machine_hash: 7dd0ca58c7dffd4935c47505729c90a6fc2f5aed177b0f93e73ed20d974a202e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -69,12 +69,12 @@ record:
   title: Advanced Search, Automations, and grouped agent actions
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11
-  Automation and Scheduling changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
   background sessions whose scheduled task is gone]]'
 - '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
   Automation and Scheduling changes in v1.25.0]]'
+- '[[Changes/Devin/2026-10-07-settings-dialogs-use-the-updated-form-styling|Settings
+  Dialogs Use the Updated Form Styling]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405|google-antigravity-2026-10-07-rel-hub-2-21-1-b2504405]]'
 source_type: antigravity_changelog
 theme: automation-scheduling
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-settings-dialogs-use-the-updated-form-styling|Settings Dialogs Use the Updated Form Styling]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
 <!-- chronolog:end -->
 

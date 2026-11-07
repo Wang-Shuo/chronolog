@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fcd5d065f499cd03dcab51c154495eac2d9b736ff2e2badeb04645c9e92a6a58
+machine_hash: 35418489419f543027d5aa468b9fec92e6994678e73b920969fc53c5bba67a26
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands|chore: bump agent-server to 1.56.0]]
-- Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes in v1.29.0]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-ad-multiplier-skill-is-back|Ad Multiplier skill is back]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

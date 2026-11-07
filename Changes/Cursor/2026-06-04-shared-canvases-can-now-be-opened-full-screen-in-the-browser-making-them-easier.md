@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eccd87a15ad793358ed99cd164aa0d3ed366f5c37495cb5e6a60ce127ef07582
+machine_hash: 0bca927e97232ee51fe5f8d83a4bc6f848a6d0195ca0fe284542488c8156b14e
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     easier…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2
-  Interface Experience changes in Kimi Code 0.9.0]]'
+- '[[Changes/Raycast/2026-06-03-2-interface-experience-changes-in-raycast-windows-0-62|2
+  Interface Experience changes in Raycast windows 0.62]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
 - '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2

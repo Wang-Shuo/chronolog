@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72755546021762c920e8832f1b5b8a77731b8f7270e248df48f7d2bf29d14400
+machine_hash: c3215ec7fa582295f18aaebfbb4e4ed74cb79ced2e93e620ad3a8518bcbd953e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 9 Collaboration changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
-  /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Devin/2026-09-18-mentions-and-session-links-in-microsoft-teams|Mentions
+  and Session Links in Microsoft Teams]]'
 - '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
   changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration

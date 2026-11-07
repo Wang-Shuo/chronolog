@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1b7ad82e1e1f57b71468bb11ac39eae406038e6619c1e244837bd246ff239f4
+machine_hash: aba45d5f2f78fd03aab3a71e1ccbbcd1202ae37ae106ebab33140f1f64a29a09
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Interface Experience changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
-  Interface Experience changes in v1.0.33]]'
 - '[[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface
   Experience changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop
   Fixed sidebar project avatars to fall back to icon.url when no override is set]]'
+- '[[Changes/Devin/2026-04-22-sso-connection-picker|SSO Connection Picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop Fixed sidebar project avatars to fall back to icon.url when no override is set]]
+- Earlier: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-sso-connection-picker|SSO Connection Picker]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-interface-experience-changes-in-v2-1-118|2 Interface Experience changes in v2.1.118]]
 <!-- chronolog:end -->
 

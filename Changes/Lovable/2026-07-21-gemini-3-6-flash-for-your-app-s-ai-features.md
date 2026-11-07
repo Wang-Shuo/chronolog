@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f4af8a170cf751f2e0631afcf9f83566a2aa3bc605a6394ba2c34b5eaadc42e5
+machine_hash: add71daaf64102d1e14b3d4633834b4a1a4ac8acdb1df0d6a58b6cbcb9111ee7
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Gemini 3.6 Flash for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
-  changes in v1.18.4]]'
+- '[[Changes/Superwhisper/2026-07-20-experimental-s1-mini-model-and-tone-settings-for-more-control-over-your-transcri|Experimental
+  S1-mini model and Tone settings for more control over your transcriptions]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
   Support changes in rust-v0.145.0]]'
 - '[[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6

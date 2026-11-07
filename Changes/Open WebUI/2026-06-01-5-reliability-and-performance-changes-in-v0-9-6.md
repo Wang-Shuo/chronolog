@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9df27b5147333380297723fe58baee627ae3b25a0bd670e5d0b4ea831ea73ca3
+machine_hash: e5536a4ecedbcff368cdbdba8ca16b283dc3ec32016c5c280afcd380e958b6ee
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,11 +61,11 @@ record:
   title: 5 Reliability and Performance changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload
-  large base64 media payloads from wire.jsonl into external blob files…]]'
 - '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
   performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Superwhisper/2026-05-29-improved-waveform-display-performance|Improved
+  waveform display performance]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -123,7 +123,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved performance of long and resumed conversations by eliminating redundant…]]
+- Earlier: 2026-05-29 · Superwhisper · [[Changes/Superwhisper/2026-05-29-improved-waveform-display-performance|Improved waveform display performance]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]]
 <!-- chronolog:end -->
 

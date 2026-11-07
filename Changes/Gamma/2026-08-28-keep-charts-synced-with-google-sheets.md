@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 78a54a18260771637a42efb1443bf3968d37261f874e6b555edf31afc7bf7ccc
+machine_hash: ce5fdda62857eb4a52d55aabf7958efd639e874b449defa1a575694e7b073c4a
 product: gamma
 product_name: Gamma
 record:
@@ -44,12 +44,12 @@ record:
   title: Keep charts synced with Google Sheets
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-08-27-click-edit-in-the-lower-right-in-the-lightbox|Click
-  ‘edit’ in the lower right in the lightbox]]'
-- '[[Changes/Midjourney/2026-08-27-type-edit-url-on-discord|Type --edit url... on
-  Discord]]'
 - '[[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click
   the ‘edit’ tab on the left and upload an image]]'
+- '[[Changes/Devin/2026-08-28-split-editor-groups-in-the-session-workspace|Split Editor
+  Groups in the Session Workspace]]'
+- '[[Changes/Devin/2026-08-28-code-scan-validation-severities|Code Scan Validation
+  Severities]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'
 source_type: gamma_changelog
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click the ‘edit’ tab on the left and upload an image]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-code-scan-validation-severities|Code Scan Validation Severities]]
 - Later: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview reloads while you edit]]
 <!-- chronolog:end -->
 

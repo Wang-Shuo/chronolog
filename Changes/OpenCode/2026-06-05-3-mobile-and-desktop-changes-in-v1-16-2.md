@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8355a06139cff489a49a03ed833d1f2150e96c7881fb28c89f1dcfeb6e6412b7
+machine_hash: 17f44284816c73e52fb80e5ce70bf878e6f9b3aa36216feb6ae8d698fa33de9c
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Mobile and Desktop changes in v1.16.2
   type: change
 related_changes:
-- '[[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two
-  new iOS updates for more streamlined creation]]'
 - '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
   a new command for Devin Desktop to rerun the migration from Windsurf]]'
+- '[[Changes/Wispr Flow/2026-06-04-an-update-on-wispr-flow-reliability-desktop|An
+  Update on Wispr Flow Reliability (Desktop)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
   Mobile and Desktop changes in v1.0.60]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'

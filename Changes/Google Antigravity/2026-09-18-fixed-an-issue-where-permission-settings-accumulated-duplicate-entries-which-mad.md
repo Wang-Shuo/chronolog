@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 8c9d1adb83f622f7a8f90eae135f7ed9a31b243a55ab1f808020aa6ddd25ccfa
+machine_hash: b076f59dbc57cdc5fe3a4ac5e561625f9e921a91e1b3126231cae338d12e6b6e
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,12 +47,12 @@ record:
     made…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-7-safety-and-privacy-changes-in-rust-v0-155-0|7
-  Safety and Privacy changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
   policy now reports local-network access using your configured setting]]'
 - '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
   and Privacy changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-email-notifications-for-enterprise-and-security-profile-organizations|Email
+  Notifications for Enterprise and Security-Profile Organizations]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09|google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09]]'
 source_type: antigravity_changelog
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety and Privacy changes in v2.1.277]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-email-notifications-for-enterprise-and-security-profile-organizations|Email Notifications for Enterprise and Security-Profile Organizations]]
 - Later: 2026-09-18 · Kimi Code · [[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop asking for approval of bash commands that cannot be statically analyzed in Ask…]]
 <!-- chronolog:end -->
 

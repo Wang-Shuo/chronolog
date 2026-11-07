@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1d75983543ee1a2cae66392ff14604d798d7c4f4aea69c9744a119393b0f282
+machine_hash: 8beacbe568577233b82c2f25ffa6f7d16ba699b954a119854e5dfc93ca8c5d37
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
     login
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google
-  sign-in client secrets are now masked in console and log-tail output]]'
+- '[[Changes/Raycast/2026-10-29-ai-chat-offer-browser-sign-in-for-mcp-email-links|AI
+  Chat: Offer browser sign-in for MCP email links]]'
 - '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
   the cloud session error shown while a request refused for your claude.ai…]]'
 - '[[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f38aeee8afdf3b7deee904a76e5c6b6d044e181aca747e3580efa68e97dcecb7
+machine_hash: 38d4d6dc31b9cef30fe5dd030c012d0ed612eabe20919eec319ef56729b1953f
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,12 @@ record:
     session'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict
-  external invites to verified email domains]]'
 - '[[Changes/Qoder/2026-08-27-harness-for-complex-tasks-qoder-s-harness-keeps-planning-execution-verification|Harness
   for complex tasks]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-new-org-permission-manage-personal-automations|New Org
+  Permission: Manage Personal Automations]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-28-0-39-1-ad96c726|kimi-code-2026-08-28-0-39-1-ad96c726]]'
 source_type: kimi_code_changelog
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-new-org-permission-manage-personal-automations|New Org Permission: Manage Personal Automations]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 

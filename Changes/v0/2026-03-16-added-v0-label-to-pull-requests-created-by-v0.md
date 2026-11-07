@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75a924aa1cf5d0d14c8c1a1c0f4893993534762354af297c492c378dd6b7d646
+machine_hash: 0f2c5bff9ee64d371b09f629f66917528a2b661f4936d53d63bc3161cd5772ec
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Added "v0" label to pull requests created by v0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
-  Workflow changes in v2.1.76]]'
 - '[[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2
   Developer Workflow changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
   Developer Workflow changes in v1.0.6]]'
+- '[[Changes/Raycast/2026-03-16-2-developer-workflow-changes-in-raycast-windows-0-49|2
+  Developer Workflow changes in Raycast windows 0.49]]'
 source_release: '[[Releases/v0/v0-2026-03-16-2026-03-16-c52d3abb|v0-2026-03-16-2026-03-16-c52d3abb]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4 Developer Workflow changes in v1.0.6]]
+- Earlier: 2026-03-16 · Raycast · [[Changes/Raycast/2026-03-16-2-developer-workflow-changes-in-raycast-windows-0-49|2 Developer Workflow changes in Raycast windows 0.49]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]]
 <!-- chronolog:end -->
 

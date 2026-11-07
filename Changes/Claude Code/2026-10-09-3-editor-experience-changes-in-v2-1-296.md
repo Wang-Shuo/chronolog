@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 755851d27f86d8823e5d4045c39184722ccb1a022445b0098e36425612ac1578
+machine_hash: da273f9c8d730cc3304d417a7b60e92507a1265863ca40956cdc072550ec9de9
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor Experience changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-transcript-diff-cards-for-large-edits|Transcript diff cards for large edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

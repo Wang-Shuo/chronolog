@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2b294af9867a9bb87b673eb0d588e20e44d8052a25a79bacd7e227c8cc8545c3
+machine_hash: f05976b5c2b82dcef9b96f4af0537bfd4df93be6b02f719cf54afef7419c6b30
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:

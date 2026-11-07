@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8099eef8612413c84680fc435eb267231a0288858325554a7c7d12da24df61df
+machine_hash: 8e48559c81e8c3385ab92c1cb69ac7ac5dddc4e79a1e49b71396032a912ec59e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-05-10 · Cline · [[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add ability to generate commit message via cline (Thanks zapp88!)]]
-- Later: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow changes in 1.4.1]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf|Add lms chat command to the CLI to chat with a model in the terminal (Thanks @mayfer!)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d6ee2a1718ae533281a42844b254b697dc9f32e218eccca159b407b5e89b0f5
+machine_hash: 73c089e8242a74970d0ca3fa45996c60e47d269e0fea63123fc24299787a55a6
 product: opencode
 product_name: OpenCode
 record:
@@ -39,10 +39,10 @@ record:
   title: Core Bump plugin version
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
-  and Integrations changes in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
   show server-name displays server details and available tools]]'
+- '[[Changes/LM Studio/2026-01-28-updated-style-for-integrations-panel-and-select|Updated
+  style for Integrations panel and select]]'
 - '[[Changes/OpenCode/2026-01-28-2-apps-and-integrations-changes-in-v1-1-40-1|2 Apps
   and Integrations changes in v1.1.40 + 1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-38-b8449de4|opencode-2026-01-28-v1-1-38-b8449de4]]'

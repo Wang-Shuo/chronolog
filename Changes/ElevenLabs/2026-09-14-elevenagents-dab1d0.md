@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e7949645a08c0f75a8477d0a200afe512616913e2fd717330e4343057e04a195
+machine_hash: 3a1942b6d6b5d27fe725d48c71d385897b51f45c2d198065239f9da2c1daf0f1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time voice: Improved connection stability, reducing the likelihood…]]
-- Later: 2026-09-16 · Synthesia · [[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate B-roll with Flux 3 from Black Forest Labs]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-live-voice-mode|Live Voice Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ec30fbefc932f0d9ec0d4d56d4e009abca7d2ee46b658c27e52ebd73bf6952b
+machine_hash: f78044fc67319899b8ea46fc70fa3626fe6b63513a374a66a74d8848649ad38a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved network error messages
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-10-interface-experience-changes-in-rust-v0-119-0|10
-  Interface Experience changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-slash-command-picker-shows-full-skill-descriptions-and-a-refined-scrollbar|Slash
   command picker shows full skill descriptions and a refined scrollbar]]'
+- '[[Changes/Raycast/2026-04-10-raycast-notes-added-show-notes-toggle-in-menu-bar-and-escape-key-loses-focus-set|Raycast
+  Notes: Added “Show Notes Toggle in Menu Bar” and “Escape Key Loses Focus” settings]]'
 - '[[Changes/Codex CLI/2026-04-11-2-interface-experience-changes-in-rust-v0-120-0|2
   Interface Experience changes in rust-v0.120.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'

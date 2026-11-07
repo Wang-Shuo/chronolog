@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b10dca4e14fbba082a8ce4250f0a2608e4c368e9aa7a181af626b762615214cc
+machine_hash: c8d5324c1d64d0d91bfaae202559c974f6e5b6b93f0f5488eb084a1ef3ad5538
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,8 +42,8 @@ record:
   title: "**\U0001F4AC Chat Functionality**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-05-2-model-support-changes-in-v0-2-5|2 Model Support
-  changes in v0.2.5]]'
+- '[[Changes/Superwhisper/2024-06-06-vocabulary-support-for-all-models-whisperkit-deepgram|Vocabulary
+  support for all models (whisperkit/deepgram)]]'
 - '[[Changes/Ollama/2024-06-07-2-model-support-changes-in-v0-1-42|2 Model Support
   changes in v0.1.42]]'
 - '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63d770eba89662d622d60cac7e1142a666382f0b338e33540bdb8df14884669f
+machine_hash: 517cb3b28c8dc07b8de8910d15db9c379970aed2f9768acfb8881cc559fb1e0f
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Model Support changes in v1.1.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2025-12-31-5-model-support-changes-in-v1-0-219|5 Model Support
-  changes in v1.0.219]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
   picker shows clearer message with settings link when models are unavailable]]'
+- '[[Changes/Superwhisper/2026-01-02-model-library|Model Library]]'
 - '[[Changes/OpenCode/2026-01-04-3-model-support-changes-in-v1-1-1|3 Model Support
   changes in v1.1.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-05-v1-1-2-270e2be1|opencode-2026-01-05-v1-1-2-270e2be1]]'

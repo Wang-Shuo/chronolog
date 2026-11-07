@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 461bcfbeaa3fad48a39b41e9290bd1dd590743c405886f66114d5d10367d7e05
+machine_hash: 67925cce03d05e9c963af77ee0b847f5a87fc11d8a5d70f17dfeaf3cc79244d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: Added `requiredMinimumVersion` and `requiredMaximumVersion` managed settings
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins
-  can move users between teams through the dashboard, API, or CSV]]'
-- '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'
+- '[[Changes/Devin/2026-06-03-devin-review-enrolled-users-spend-limits-and-ghes-gitlab-support|Devin
+  Review: Enrolled Users, Spend Limits, and GHES/GitLab Support]]'
+- '[[Changes/Devin/2026-06-03-sso-scim-jit-provisioning-and-enterprise-redirect|SSO/SCIM:
+  JIT Provisioning and Enterprise Redirect]]'
 - '[[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling
   out ads in the UK]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'

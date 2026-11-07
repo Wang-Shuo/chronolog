@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e91fc00e2d8ecbd80e9b175f1831655f73dbf8cfac943f57277c2a384a9e49bf
+machine_hash: 8eee7ee5f1e6b165ce5269e5a4a0c59b3d1d380f6fa7d37502f6dc16962c2fd4
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v0.16.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
-  in chat]]'
 - '[[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove
   the suggested api for completion app]]'
+- '[[Changes/Raycast/2023-10-18-misc-you-can-now-customize-the-path-environment-variable-passed-when-launching-a|Misc
+  : You can now customize the PATH environment variable passed when launching…]]'
 - '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
   changes in v0.16.0]]'
 source_release: '[[Releases/Aider/aider-2023-10-31-v0-16-1-github-127439332-25a9853c|aider-2023-10-31-v0-16-1-github-127439332-25a9853c]]'
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.16.1
 ## Nearby in Editor Experience
 
 - Earlier: 2023-10-29 · Aider · [[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience changes in v0.16.0]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K diffs: these now obey word-wrap!]]
+- Later: 2023-11-02 · Raycast · [[Changes/Raycast/2023-11-02-smarter-quick-ai|Smarter Quick AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

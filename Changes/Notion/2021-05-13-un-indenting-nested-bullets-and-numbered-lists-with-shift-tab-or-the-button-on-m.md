@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fee1514dc96c339b510dd6a8bdd8f8c6c1715533796d3d86b1927d69189fb412
+machine_hash: f1e213c0bbc48f7c29ab0dabd587f6e2ee601fcdcfa1b51bb577d6b2aa1042ab
 product: notion
 product_name: Notion
 record:
@@ -48,8 +48,8 @@ record:
     button…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-along-with-our-editor-workflow-changes-and-various-other-keyboard-shortcuts-desc|Spacebar
-  now toggles playback / pause]]'
+- '[[Changes/Raycast/2021-04-13-preferences-preview-preferences-tab-was-renamed-to-advanced|Preferences:
+  "Preview" preferences tab was renamed to "Advanced"]]'
 - '[[Changes/Descript/2021-05-11-we-re-happy-to-announce-the-launch-of-quick-editor-https-help-descript-com-hc-en|Quick
   Editor]]'
 - '[[Changes/Descript/2021-05-12-you-can-now-edit-properties-of-multiple-clips-e-g-scale-position-volume-at-the-s|Batch
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2021-05-12 · Descript · [[Changes/Descript/2021-05-12-you-can-now-edit-properties-of-multiple-clips-e-g-scale-position-volume-at-the-s|Batch clip editing]]
-- Later: 2021-07-07 · Descript · [[Changes/Descript/2021-07-07-released-a-fix-for-an-issue-where-the-editor-text-would-flicker-after-scrolling|Released a fix for an issue where the editor text would flicker after scrolling…]]
+- Later: 2021-06-03 · Raycast · [[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets: Expansion preserves the delimiter, if entered to trigger completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

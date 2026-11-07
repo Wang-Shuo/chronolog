@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea09ec1081411bc71eaadf923c8b6632c41bc2be9dcf71e569a9d637bfaa47c2
+machine_hash: b6fe0de65779dd6cde2df2ef77e015ddac71f1d98d8cee516d1168c5f5cf060b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,10 +52,9 @@ record:
   title: 3 Collaboration changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes
-  in 1.17.1]]'
 - '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
   chats are easier to discover and collaborate on]]'
+- '[[Changes/Devin/2026-09-11-teams-parity-improvements|Teams Parity Improvements]]'
 - '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
   settings for connections]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
@@ -119,7 +118,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing settings for connections]]
-- Later: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every AI skill your team needs, in one library]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration changes in Raycast macos 2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

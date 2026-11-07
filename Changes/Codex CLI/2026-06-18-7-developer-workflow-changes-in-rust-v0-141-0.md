@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1750d1b64ed8a955ce0ff5375a2ef7c918decd98b1a8e7acb22f17afb2c6dec9
+machine_hash: cec48d1dbba0ead87f199532e9194dd69db3c37ebb39e6b324da88ae5cea410b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip debug TPS when the output stream is too short to measure reliably]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-extensions-use-built-in-ai-extensions-like-file-explorer-selected-text-termin|AI Extensions : Use built-in AI extensions like @file-explorer , @selected-text…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

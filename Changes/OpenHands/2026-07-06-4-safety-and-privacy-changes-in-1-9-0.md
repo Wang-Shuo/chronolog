@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c5aa01d6b5f004a1a40114207a302c5a3389710421ecaa78e42123f24e0f4f3
+machine_hash: 635189217c788f0adecd679b7cdf7a0099e1cc1e88a3f95f909a488d044d30d2
 product: openhands
 product_name: OpenHands
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Safety and Privacy changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
-  and Privacy changes in v0.10.2]]'
-- '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
-  the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
+- '[[Changes/Devin/2026-07-03-security-scan-remediation-api|Security Scan Remediation
+  API]]'
+- '[[Changes/Devin/2026-07-03-blueprint-permission-descriptions|Blueprint Permission
+  Descriptions]]'
 - '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed
   /remote-control sessions showing the wrong permission mode in the mobile…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'

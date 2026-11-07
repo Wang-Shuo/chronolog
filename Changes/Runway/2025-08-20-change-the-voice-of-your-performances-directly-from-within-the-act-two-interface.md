@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e09a09bd0a0fbac9ad5d0f0578e5ed0c8e5a1f8008613f528466f03d72b34279
+machine_hash: 88c72941ef562c30e000501ffa51317ebf384bcb388304aa7eb1090653f42b72
 product: runway
 product_name: Runway
 record:
@@ -43,8 +43,8 @@ record:
   title: Voices
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-09-admin-first-whisper-language-priority-the-global-whisper-language-setting-now-ac|\U0001F5E3️
-  Admin-First Whisper Language Priority]]"
+- '[[Changes/AnythingLLM/2025-08-15-stt-append-spoken-text-by-timothycarambat-in-https-github-com-mintplex-labs-anyt|STT
+  append spoken text]]'
 - '[[Changes/ElevenLabs/2025-08-20-voice-management|Voice Management]]'
 - '[[Changes/ElevenLabs/2025-08-20-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/Runway/runway-2025-08-20-2025-08-20-voices-576c7146|runway-2025-08-20-2025-08-20-voices-576c7146]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4856a4892f666b3fc9d0b92b6174e555f04889140f741fcf585cd1026550c3f3
+machine_hash: a30b9a54afc933d9ab687e0c4d440c7ad07665c400bad3c27c9a624bf1eb0c83
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the cloud session error shown while a request refused for your claude.ai…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-29-plugins-that-connect-to-an-account-now-have-an-accounts-tab-on-their-page-where|Plugins
-  that connect to an account now have an Accounts tab on their page, where you…]]'
 - '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
   click using Google]]'
 - '[[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google
   sign-in client secrets are now masked in console and log-tail output]]'
+- '[[Changes/Raycast/2026-10-29-ai-chat-offer-browser-sign-in-for-mcp-email-links|AI
+  Chat: Offer browser sign-in for MCP email links]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: account-access
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google sign-in client secrets are now masked in console and log-tail output]]
+- Earlier: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-ai-chat-offer-browser-sign-in-for-mcp-email-links|AI Chat: Offer browser sign-in for MCP email links]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]
 <!-- chronolog:end -->
 

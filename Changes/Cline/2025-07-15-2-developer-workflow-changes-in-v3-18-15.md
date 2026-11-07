@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2d50f4d91ca6d3ac2f6d0e0372fc4e09d767d112a31ca261f26cc8f792ef2ac
+machine_hash: 8266e87009734a5c683fa5c3c3377535eebc1efb805a9238b31a7acf22353583
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.18.15
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-07-12 · Codex CLI · [[Changes/Codex CLI/2025-07-12-experimental-codex-apply-command-to-interact-with-codex-web-https-github-com-ope|Experimental codex apply command to interact with Codex Web]]
-- Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-4-developer-workflow-changes-in-0-49-0|4 Developer Workflow changes in 0.49.0]]
+- Later: 2025-07-16 · AnythingLLM · [[Changes/AnythingLLM/2025-07-16-sticky-code-block-header-by-shatfield4-in-https-github-com-mintplex-labs-anythin|Sticky code block header]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

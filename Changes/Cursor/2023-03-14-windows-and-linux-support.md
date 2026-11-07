@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3612f8df83111dc0c092eaaa23c86409e764af08f025da78ea17f23c2ba6572b
+machine_hash: 33109ba067ec7b8510d56ea71c704087fc9a05afcaa17c9a6e317d9c999ee078
 product: cursor
 product_name: Cursor
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made updates to the mobile search experience that improved load times]]
-- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT app for iOS in more countries]]
+- Later: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-history|History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

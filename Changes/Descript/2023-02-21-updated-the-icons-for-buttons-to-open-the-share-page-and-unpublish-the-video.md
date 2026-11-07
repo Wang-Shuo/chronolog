@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bde7ef1125d0b8b40d620554903eadd8c8031dcf06212805f9187317b3e77a09
+machine_hash: 4bbce8e56e7c8b3f87caf77837d799e2ae27cb69af128bbbd6af23c89f33bcba
 product: descript
 product_name: Descript
 record:
@@ -44,11 +44,11 @@ record:
   title: Updated the icons for buttons to open the share page and unpublish the video
   type: change
 related_changes:
-- '[[Changes/Descript/2022-06-02-in-this-release-we-ve-got-a-new-feature-that-enables-you-to-write-your-script-as|In
-  this release we''ve got a new feature that enables you to write your script…]]'
 - '[[Changes/Descript/2022-11-15-green-screen-https-help-descript-com-hc-en-us-articles-10327693275405-green-scre|Green…]]'
 - '[[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video
   timeline dragging]]'
+- '[[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar:
+  You can now join Cal.com video meetings right from Raycast]]'
 source_release: '[[Releases/Descript/descript-2023-02-21-63f548b5edfa71375d3f58e1-41e64e91|descript-2023-02-21-63f548b5edfa71375d3f58e1-41e64e91]]'
 source_type: canny_changelog
 theme: multimodal
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-video-timeline-dragging-the-default-click-and-drag-behavior-in-the-timeline-for|Video timeline dragging]]
-- Later: 2023-03-09 · Synthesia · [[Changes/Synthesia/2023-03-09-now-with-just-one-click-you-can-easily-edit-your-videos-we-re-also-introducing-v|The EDIT Button is here!]]
+- Earlier: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-calendar-you-can-now-join-cal-com-video-meetings-right-from-raycast|Calendar: You can now join Cal.com video meetings right from Raycast]]
+- Later: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2 Multimodal Input changes in Raycast macos-v1 1.48.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 519f43e4c3ce68c77b6ad3ed049fa115b136f682159273bbbf6fa849a048ae38
+machine_hash: 8ea4e7b9cea619c3c7dc415242a54707df1c62dc1c0dedfacb1dd7bf77ba2442
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,11 @@ record:
   title: Improved overall stability and reliability
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-2-reliability-and-performance-changes-in-v0-25-0|2
-  Reliability and Performance changes in v0.25.0]]'
-- '[[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced
-  memory usage for GLM-4.7-Flash models]]'
 - '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
   and Performance changes in 2.4]]'
+- '[[Changes/Devin/2026-01-22-repo-setup-ai-suggestions|Repo Setup AI Suggestions]]'
+- '[[Changes/Devin/2026-01-22-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-23-v1-13-12-3d003c56|windsurf-2026-01-23-v1-13-12-3d003c56]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
+- Earlier: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-01-24 · Google Antigravity · [[Changes/Google Antigravity/2026-01-24-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 

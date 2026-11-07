@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fb60b2956bef67c73439b40b73200ff7f11ad2715f76c5eea17757a50a809b2
+machine_hash: 6fdedb98539830e64c8ca84d25e929ace4e4b300374116496f247c1c0d6c1ade
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,7 @@ record:
   title: 4 Safety and Privacy changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal
-  Fixed permission replies using remote workspaces so they are sent…]]'
+- '[[Changes/Devin/2026-04-22-view-consumption-permission|View Consumption Permission]]'
 - '[[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better
   MLX thread safety for array management]]'
 - '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed

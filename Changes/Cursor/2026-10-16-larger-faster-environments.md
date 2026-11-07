@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f81b8ca393c43b22037d7879ffc071599142c1d52837794652589e615a17ef2e
+machine_hash: 5b34e516596e64992cfc6657cfad8ac3e9681c0f93246b41ba0b9e5468fa3804
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Later: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-faster-krea-agent|Faster Krea Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

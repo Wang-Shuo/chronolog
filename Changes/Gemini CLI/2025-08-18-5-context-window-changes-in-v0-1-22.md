@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f2e5f6fa9d55aba4fcbe98b01f9e4474ae34f0019320e0f5740db6be005b129
+machine_hash: a010996d49368775140038c4cb9be5e202e529a53c341b940eb2e88409703d86
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,12 +51,11 @@ record:
   title: 5 Context Window changes in v0.1.22
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-6-context-window-changes-in-v0-1-21|6 Context Window
-  changes in v0.1.21]]'
 - '[[Changes/Cline/2025-08-15-auto-compact-context-management-by-0xtoshii-in-https-github-com-cline-cline-pull|auto
   compact - context management]]'
 - '[[Changes/Cline/2025-08-16-2-context-window-changes-in-v3-25-3|2 Context Window
   changes in v3.25.3]]'
+- '[[Changes/Devin/2025-08-16-github-connection-management|GitHub Connection Management]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
 source_type: github_releases
 theme: context-window
@@ -102,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-2-context-window-changes-in-v3-25-3|2 Context Window changes in v3.25.3]]
+- Earlier: 2025-08-16 · Devin · [[Changes/Devin/2025-08-16-github-connection-management|GitHub Connection Management]]
 - Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-context-window-changes-in-rust-v0-23-0|2 Context Window changes in rust-v0.23.0]]
 <!-- chronolog:end -->
 

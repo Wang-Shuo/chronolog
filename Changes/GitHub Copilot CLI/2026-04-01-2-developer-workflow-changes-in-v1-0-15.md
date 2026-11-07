@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e278f80f963313b1af00f3453b45c34bccbaf883607069903786069cc8647b7
+machine_hash: 2c7b26dc733f22c1432ea2b2b07582b689373f3d62ac14840646028e29b65532
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.15
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer
-  Workflow changes in v1.3.12 + 2]]'
-- '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
-  Workflow changes in v2.1.89]]'
+- '[[Changes/Devin/2026-04-01-bash-syntax-highlighting|Bash Syntax Highlighting]]'
+- '[[Changes/Devin/2026-04-01-streaming-terminals|Streaming Terminals]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer
   Workflow changes in v0.36.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28|github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28]]'

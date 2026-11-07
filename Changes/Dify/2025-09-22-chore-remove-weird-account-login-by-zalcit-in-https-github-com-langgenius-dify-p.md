@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 497d77962f6a49db66c8c074fbe99055628154740ae0dcef9937cbef53bb29dd
+machine_hash: eab8317520f60c4f1835f563c7648f5d7a948dd58888753d6c8b2299ddcd3123
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,12 @@ record:
   title: 'chore: remove weird account login'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-python-sdk|Python SDK]]'
 - '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
   Authentication Components and Hooks]]'
 - "[[Changes/Open WebUI/2025-09-17-oauth-token-retrieval-logic-was-refactored-improving-the-reliability-and-consist|\U0001F512
   OAuth token retrieval logic was refactored, improving the reliability…]]"
+- '[[Changes/Devin/2025-09-19-removed-login-hint-in-new-user-authentication-flow-due-to-inconsistent-behavior|Removed
+  login\hint in new user authentication flow due to inconsistent behavior…]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'
 source_type: github_releases
 theme: account-access
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-oauth-token-retrieval-logic-was-refactored-improving-the-reliability-and-consist|🔒 OAuth token retrieval logic was refactored, improving the reliability…]]
+- Earlier: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-removed-login-hint-in-new-user-authentication-flow-due-to-inconsistent-behavior|Removed login\hint in new user authentication flow due to inconsistent behavior…]]
 - Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-account-and-access-changes-in-v0-6-31|2 Account and Access changes in v0.6.31]]
 <!-- chronolog:end -->
 

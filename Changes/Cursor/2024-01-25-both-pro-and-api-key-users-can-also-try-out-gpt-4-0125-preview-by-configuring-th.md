@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9bca851094b3126de87f7964ceb5d30c1a554cc0fa242e458b282692edf5bec6
+machine_hash: af29d176561299d51d7a2df0139abace2e9ffa1781b9c5861dc7cc734ff0c87c
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,11 @@ record:
   title: Both pro and API key users can also try out gpt-4-0125-preview by configuring…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-19-add-jina-embeddings-v2-base-de-model-configuration-by-joshua20231026-in-https-gi|Add
-  jina-embeddings-v2-base-de model configuration]]'
-- '[[Changes/Ollama/2024-01-20-8-model-support-changes-in-v0-1-21|8 Model Support
-  changes in v0.1.21]]'
+- '[[Changes/Superwhisper/2024-01-23-llm-crash-bugfix|LLM crash bugfix]]'
 - '[[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes
   in 0.5.0]]'
+- '[[Changes/Superwhisper/2024-01-24-when-creating-new-mode-from-template-language-model-will-be-turned-on-by-default|When
+  creating new mode from template language model will be turned on by default]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: model-support
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes in 0.5.0]]
+- Earlier: 2024-01-24 · Superwhisper · [[Changes/Superwhisper/2024-01-24-when-creating-new-mode-from-template-language-model-will-be-turned-on-by-default|When creating new mode from template language model will be turned on by default]]
 - Later: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes in 0.5.1]]
 <!-- chronolog:end -->
 

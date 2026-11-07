@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c1f4e3d9af4a7ca520ea86f34686210b18bb0be9a99f1df3737261fa374dc84
+machine_hash: 9369d139c3870441334a4f300d61a78700cc8f3bc78caf5299b46a24eeee63ad
 product: dify
 product_name: Dify
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]
-- Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and Data changes in v0.3.31]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-improve-remove-document-ux-by-shatfield4-in-https-github-com-mintplex-labs-anyth|Improve remove document UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

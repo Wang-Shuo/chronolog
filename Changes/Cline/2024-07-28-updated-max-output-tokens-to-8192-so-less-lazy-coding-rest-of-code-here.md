@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae023ac9ebdd1f918f4f7558b1e5e351571e9bfbd499379884a53a3e7cc892d8
+machine_hash: 6e055d71fbd5814f75bbc7f2e13d6aeb1ea7654de4502f162f40deb3fe912c37
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Updated max output tokens to 8192 so less lazy coding (`// rest of code here...`)
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral
-  Nemo((source link) A state-of-the-art 12B…]]'
 - '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
   Large 2((source link)]]'
+- '[[Changes/AnythingLLM/2024-07-26-6-context-window-changes-in-v1-0-0|6 Context Window
+  changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix)
   colima: use a docker context specific to runner; prevent duplicate start]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-4-github-167496281-a4c8079a|cline-2024-07-28-v1-0-4-github-167496281-a4c8079a]]'

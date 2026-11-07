@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8aaff5e0ec6e97da1136f1d5d5ed040204cdeac4173cde061be9e98f2f930e0a
+machine_hash: 00b5d71142914bf09135132eb81679b68889f965ffb540cde2a8b117587618fc
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,9 @@ record:
   title: 5 Apps and Integrations changes in 1.4.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps
-  and Integrations changes in v0.6.10]]'
 - '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
   integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/Devin/2025-05-22-deepwiki-mcp-server|DeepWiki MCP Server]]'
 - '[[Changes/Open WebUI/2025-05-26-4-apps-and-integrations-changes-in-v0-6-11|4 Apps
   and Integrations changes in v0.6.11]]'
 source_release: '[[Releases/Dify/dify-2025-05-27-1-4-1-github-221175130-8bd5e73e|dify-2025-05-27-1-4-1-github-221175130-8bd5e73e]]'

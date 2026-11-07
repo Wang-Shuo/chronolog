@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ff6493e7e0b5c20c49dc57334b84d68e58f198efe8d4d474c74848e2172ad18
+machine_hash: 8150cd33ecf39b99ea5ff15d70cba62499e2d008fd10c44589502a155501a950
 product: v0
 product_name: v0
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Editor Experience changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
-  projects from links in the command palette]]'
 - '[[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI:
   Import, record and edit MIDI directly on the timeline, play using a MIDI…]]'
+- '[[Changes/Devin/2026-08-14-smarter-re-review-behavior-in-devin-review|Smarter Re-Review
+  Behavior in Devin Review]]'
 - '[[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download
   your codebase from Git settings]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'

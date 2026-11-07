@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6c26ccadde4e0c66cb0229571fdf03ab4ef181c95dabfce9283b518c87a58c0
+machine_hash: e25e8d028ea639879ea7bd14b6ec29ce85857e0074f9cfb97b5a235922e0e314
 product: synthesia
 product_name: Synthesia
 record:

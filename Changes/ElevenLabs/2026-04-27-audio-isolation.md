@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 93f2069e75750774c4affa2fcdd64c9abb65002df51230351af6f73dc74d1a67
+machine_hash: cbd7436137a51ed54e667884c8c1b7b947356eac9f43e63c5065b5e5e615b02d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,9 +51,10 @@ record:
   title: Audio Isolation
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-20-other|Other]]'
-- '[[Changes/Open WebUI/2026-04-21-4-voice-and-audio-changes-in-v0-9-0|4 Voice and
-  Audio changes in v0.9.0]]'
+- '[[Changes/Wispr Flow/2026-04-24-quick-dictation-to-notes-shortcut-ios|Quick Dictation
+  to Notes shortcut (iOS)]]'
+- '[[Changes/Wispr Flow/2026-04-24-copy-button-after-dictation-android|Copy button
+  after dictation (Android)]]'
 - '[[Changes/ElevenLabs/2026-04-27-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-27-2026-04-27-7b6333fc|elevenlabs-2026-04-27-2026-04-27-7b6333fc]]'
 source_type: elevenlabs_changelog
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-voice-and-audio-changes-in-v0-9-0|4 Voice and Audio changes in v0.9.0]]
+- Earlier: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-copy-button-after-dictation-android|Copy button after dictation (Android)]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode Voice dictation now respects the accessibility.voice.speechLanguage…]]
 <!-- chronolog:end -->
 

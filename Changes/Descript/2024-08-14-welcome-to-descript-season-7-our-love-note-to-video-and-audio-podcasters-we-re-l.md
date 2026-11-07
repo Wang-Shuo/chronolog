@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6046b4a2949247f2a180e5e5f977e8ccf20928ccc7caf7f52b9680cf7e95a4e7
+machine_hash: a717d4f29011538750685a353ecc1be80b9a156105bcbeac75f85e93e4a5e595
 product: descript
 product_name: Descript
 record:
@@ -56,10 +56,10 @@ record:
   title: Welcome to Descript Season 7 — our love note to video and audio podcasters
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation
-  w/ dubbing is now in Beta]]'
 - "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
   ElevenLabs Voice Adaptations]]"
+- '[[Changes/AnythingLLM/2024-08-08-speech-to-text-hotkey-by-rrojaski-in-https-github-com-mintplex-labs-anything-llm|Speech
+  to text hotkey]]'
 - '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
   to Speech]]'
 source_release: '[[Releases/Descript/descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9|descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9]]'

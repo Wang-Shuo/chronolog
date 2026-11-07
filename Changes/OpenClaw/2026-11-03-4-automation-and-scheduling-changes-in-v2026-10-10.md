@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93f2d1992a94fd753ea6d3081f5b7c854738a397479bc7677d7fc0d686392d3d
+machine_hash: 4eb90a09e3d3302fbeff34e244e590d24f4c2f963fd0b6ed49e4b49049e761e5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Automation and Scheduling changes in v2026.10.10
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-auto-scan-controls-and-schedules|Auto-scan Controls
+  and Schedules]]'
 - '[[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2
   Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]]'
 - '[[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 896609d67f59f59851e8aa1b781c6c455258a99d9d4555d71d5e83367c879d2a
+machine_hash: 4a96b867456da9973e3a833a6953b03f4c471599e626c51bebeabb5e256b036b
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,11 @@ record:
   title: Add an RPC to the host bridge to reveal a directory in the IDE file explorer
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-9-editor-experience-changes-in-v0-1-22|9 Editor
-  Experience changes in v0.1.22]]'
 - '[[Changes/Cline/2025-08-20-2-editor-experience-changes-in-v3-26-0|2 Editor Experience
   changes in v3.26.0]]'
 - '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
   Experience changes in rust-v0.23.0]]'
+- '[[Changes/Recraft/2025-08-20-edit-and-variate|Edit and variate]]'
 source_release: '[[Releases/Cline/cline-2025-08-21-v3-26-1-github-241364387-1ab48885|cline-2025-08-21-v3-26-1-github-241364387-1ab48885]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor Experience changes in rust-v0.23.0]]
+- Earlier: 2025-08-20 · Recraft · [[Changes/Recraft/2025-08-20-edit-and-variate|Edit and variate]]
 - Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]]
 <!-- chronolog:end -->
 

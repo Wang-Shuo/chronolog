@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dae7756c0e932b8147f96d06bddacb43f1800d632beecc1a1e74099b0c490161
+machine_hash: 232e00a6c6aadf1550777db579d4eaf0ca4d7d1d8d3b511b79890e7b7994e7ed
 product: descript
 product_name: Descript
 record:
@@ -56,7 +56,8 @@ record:
   title: Better audio duration matching for translation dubbing
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]'
+- '[[Changes/Raycast/2025-11-12-dictation-faster-improved-dictation-in-90-languages-available-from-the-keyboard|Dictation:
+  Faster & improved dictation in 90+ languages]]'
 - '[[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio
   changes in v3.37.0]]'
 - '[[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat:

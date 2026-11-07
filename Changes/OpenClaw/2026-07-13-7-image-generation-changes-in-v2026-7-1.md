@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58e7e34ac7ff9b3c810803c462f15042210b903cde349df97cdced6f5876d1d6
+machine_hash: bf2a8d574a60692aa240e5f248e5dfbefb61fd936f27ff83f3474bf297217ca9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -141,7 +141,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 ## Nearby in Image Generation
 
 - Earlier: 2026-07-10 · Runway · [[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano Banana 2 Lite]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image Generation changes in rust-v0.145.0]]
+- Later: 2026-07-15 · Recraft · [[Changes/Recraft/2026-07-15-we-ve-added-seedream-5-0-pro-for-image-generation-in-recraft-studio-available-to|Recraft adds Seedream 5.0 Pro for image generation in Recraft Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

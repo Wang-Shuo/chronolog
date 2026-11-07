@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd25730ab6e781d4da6498729571797439861fc602183e3b2e5a6d06b433a134
+machine_hash: 4b0422a42c6418b4996ed0866b800d5a50bd3c4cc0e30ce017e36f57a0436719
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Model Support changes in rust-v0.106.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model
-  Support changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-8-model-support-changes-in-v0-30-0|8 Model Support
   changes in v0.30.0]]'
+- '[[Changes/LM Studio/2026-02-25-2-model-support-changes-in-lm-studio-0-4-5|2 Model
+  Support changes in LM Studio 0.4.5]]'
 - '[[Changes/Windsurf/2026-02-25-new-model-picker|New Model Picker]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 77b62ed2b4ad048a250f9163cb34383327efcde1d985dd886d5a810371f6b618
+machine_hash: e32e2205359560d4fa274a8359190c3f73fd5fe69ff7df038dd98f2493e09fea
 product: descript
 product_name: Descript
 record:
@@ -43,12 +43,12 @@ record:
   title: Updates desktop app to support configuration change
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs
-  on iOS Devices]]'
-- '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
-  app signup: Added signup endpoints for the new Core mobile app]]'
+- '[[Changes/AnythingLLM/2025-03-27-nvidia-nim-support-anythingllm-desktop-only-https-docs-anythingllm-com-nvidia-ni|NVIDIA
+  NIM support - AnythingLLM Desktop…]]'
 - '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
   Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Raycast/2025-04-09-macos-support-raycast-now-requires-macos-13-or-later-if-you-are-still-running-ma|macOS
+  Support: Raycast now requires macOS 13 or later]]'
 source_release: '[[Releases/Descript/descript-2025-04-10-67f8519c8ffb1416956dbeb4-aaa05150|descript-2025-04-10-67f8519c8ffb1416956dbeb4-aaa05150]]'
 source_type: canny_changelog
 theme: mobile-desktop
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX Improvements: Whether it’s fixing layout issues on mobile…]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-macos-support-raycast-now-requires-macos-13-or-later-if-you-are-still-running-ma|macOS Support: Raycast now requires macOS 13 or later]]
 - Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed failure of Docker containers to start on Windows]]
 <!-- chronolog:end -->
 

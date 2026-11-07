@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68b4eeda1c0be1460c614c0551210ba45663e80008cddc1ff66db0e454ee76d4
+machine_hash: fa2f5c31ff5067bc4fdf24f9ddfd22c6c7318ce8693c52df279ea60a9c07d002
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Apps and Integrations changes in 0.6.8
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-2-apps-and-integrations-changes-in-0-6-4|2 Apps and Integrations
-  changes in 0.6.4]]'
 - '[[Changes/Dify/2024-05-02-2-apps-and-integrations-changes-in-0-6-6|2 Apps and Integrations
   changes in 0.6.6]]'
 - '[[Changes/Dify/2024-05-09-3-apps-and-integrations-changes-in-0-6-7|3 Apps and Integrations
   changes in 0.6.7]]'
+- '[[Changes/Devin/2024-05-13-organizations-integration-for-slack|Organizations Integration
+  for Slack]]'
 source_release: '[[Releases/Dify/dify-2024-05-13-0-6-8-github-155567404-54e0e464|dify-2024-05-13-0-6-8-github-155567404-54e0e464]]'
 source_type: github_releases
 theme: apps-integrations
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-3-apps-and-integrations-changes-in-0-6-7|3 Apps and Integrations changes in 0.6.7]]
+- Earlier: 2024-05-13 · Devin · [[Changes/Devin/2024-05-13-organizations-integration-for-slack|Organizations Integration for Slack]]
 - Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09d0eaf9d367e3a2dd7ec94b417ab505fe826b013156312f6756f31425054180
+machine_hash: fa3f57c8a95628a29df2e386ea4e98462b67f107fd378b82ba97db237393c823
 product: heygen
 product_name: HeyGen
 record:
@@ -41,10 +41,9 @@ record:
   title: '"Look at the camera, lean in, stay serious."'
   type: change
 related_changes:
-- '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
-  Agent]]'
 - '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
   support)]]'
+- '[[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]'
 - '[[Changes/HeyGen/2026-05-18-the-thing-that-makes-a-video-feel-real-isn-t-just-the-camera-or-the-lighting-it|The
   thing that makes a video feel real isn''t just the camera or the lighting]]'
 source_release: '[[Releases/HeyGen/heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6|heygen-2026-05-18-https-heygen-noticeable-news-publications-introducing-custom-mot-2f2333e6]]'
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision support)]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-video-recording-download|Video Recording Download]]
 - Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini Omni is your creative partner for video creation]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30ddb6eea0efb1de7b6e9c89b049df7783b2c244d7f671ae3a57c3aef8a0b3fb
+machine_hash: a9bfe61122214da5849c8a280561c4073ddab36f6b62f28ec6f2ae9f502902d9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,10 +47,10 @@ record:
     Node…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-move-the-open-conversation-up-or-down-in-the-sidebar-with-alt-shift|Move
-  the open conversation up or down in the sidebar with Alt+Shift+Up…]]'
 - '[[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3
   Interface Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-polished-the-mobile-model-picker-and-sidebar|Polished
+  the mobile model picker and sidebar]]'
 - '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog

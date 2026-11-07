@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b9c2aaf8a1a1db03fe43285505bd7f5f4770cbb2784e4d2b6ea67e6b4fb867c2
+machine_hash: bdc1d7c37f1916af7e49dc7d43c666f100e35b6375085ae681bc11334b02050a
 product: descript
 product_name: Descript
 record:
@@ -61,8 +61,8 @@ record:
   title: Publish becomes Export
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
-  Experience changes in 0.25.0]]'
+- '[[Changes/Raycast/2025-02-19-2-interface-experience-changes-in-raycast-macos-v1-1-92-0|2
+  Interface Experience changes in Raycast macos-v1 1.92.0]]'
 - '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
   new Folders menu is available on both the Create and Organize pages]]'
 - "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D

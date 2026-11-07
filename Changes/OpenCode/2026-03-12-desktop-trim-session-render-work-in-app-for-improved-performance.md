@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0ffe0effc8bb926cab87cb6f312c3814d96c538e64af33f917437db2fea6297
+machine_hash: 71f23c1c8fd906c17aa0e0a4fc2320ab89944b2b4eba2c4b3269c60a48de5a6e
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,8 @@ record:
   title: Desktop Trim session render work in app for improved performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
-  Reliability and Performance changes in v2.1.73]]'
+- '[[Changes/Devin/2026-03-11-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
   shell commands on Windows by skipping PowerShell profile loading]]'
 - '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
-- Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved code-server loading speed for fresh VMs]]
+- Later: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-performance|Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

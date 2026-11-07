@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 226f243710a9e03fa5fb26dea544e77c85a1f76c398d65035b98a7aeb64e3d4f
+machine_hash: 44468d2f9f353b7e427348e367a3bc7c323496a742b0713db713cb0f28bdfa02
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-voice-recording-while-devin-is-working|Voice Recording While Devin Is Working]]
 - Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll, B-Roll, audio, captions, and motion graphics are no longer separate steps…]]
 <!-- chronolog:end -->
 

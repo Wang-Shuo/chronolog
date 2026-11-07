@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c9819a1859b2c3dc3694492ec3ae287b44c5c246487b5a7444f03c47026b24e
+machine_hash: 0f157def5986f6bd5cdfce1a0291fbdf6ac8c8e488c89bff12f654ea5d18e8db
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
     current model
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-07-26-you-can-now-rename-models-you-ve-pulled-or-created-with-ollama-cp|Rename
-  models you''ve pulled or created with ollama cp]]'
+- '[[Changes/Raycast/2023-07-27-gpt-4-everywhere-on-your-mac|GPT-4 Everywhere on Your
+  Mac]]'
 - '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 - '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'

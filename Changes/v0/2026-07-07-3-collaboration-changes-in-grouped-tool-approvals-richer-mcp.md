@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4409a93b0c6c222d1abd4f7df7ea81103887cad809df3e3c2332487baef9169d
+machine_hash: 0ce3fc0bd059e2c6ee64e81ea0c03a2bb43c6cc1542d5391fc59c85e087f034d
 product: v0
 product_name: v0
 record:
@@ -51,10 +51,9 @@ record:
   title: 3 Collaboration changes in Grouped tool approvals, richer MCP…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
-  changes in v2026.6.11]]'
-- '[[Changes/Notion/2026-07-01-your-agents-shouldn-t-be-stuck-in-one-off-chats-now-you-can-bring-multiple-agent|Your
-  agents shouldn’t be stuck in one-off chats]]'
+- '[[Changes/Raycast/2026-07-02-ai-share-code-blocks-to-ray-so|AI : Share code blocks
+  to ray.so]]'
+- '[[Changes/Devin/2026-07-03-api-default-devin-version|API Default Devin Version]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'

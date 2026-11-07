@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fce369776852ae4b0261ac05ad0012e54d644802ce744b614c89d31ae5419dfb
+machine_hash: 8604a08a037d482cbf8dd3e1e2464a982b2cd7a35c6ad7c76dcbc0f6630c2077
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,7 @@ record:
   title: Add linter check for proto files and add auto-formatting
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-4-developer-workflow-changes-in-rust-v0-48-0|4 Developer
-  Workflow changes in rust-v0.48.0]]'
+- '[[Changes/Devin/2025-10-24-gitlab-pr-comments|GitLab PR Comments]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-running-many-standard-bash-powershell-commands-that-are-known-to-be-readonly|Running
   many standard bash/PowerShell commands that are known to be readonly]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-3-developer-workflow-changes-in-v0-0-350|3 Developer Workflow changes in v0.0.350]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]
+- Later: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-file-search-added-a-new-open-in-terminal-action|File Search : Added a new Open in Terminal action]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

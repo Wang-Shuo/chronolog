@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ba5ac8463ae75eca50511a2d8edcaf96dbf42b3c27b0f67b1199118ced18815c
+machine_hash: 1ab6c672601e6619a511bd7fb791f16cd5a8f115d2acda38461e4d123b05db19
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: Add MCP support for CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
-  marketplace supports custom URLs]]'
-- '[[Changes/Gemini CLI/2025-07-30-19-apps-and-integrations-changes-in-v0-1-15|19
-  Apps and Integrations changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-2-apps-and-integrations-changes-in-raycast-macos-v1-1-102-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.102.0]]'
 - '[[Changes/Cline/2025-07-31-2-apps-and-integrations-changes-in-v3-20-3|2 Apps and
   Integrations changes in v3.20.3]]'
+- '[[Changes/Devin/2025-07-31-linear-mapping-ux-improvements|Linear Mapping UX Improvements]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-31-0-51-0-github-236587724-6004c286|openhands-2025-07-31-0-51-0-github-236587724-6004c286]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-2-apps-and-integrations-changes-in-v3-20-3|2 Apps and Integrations changes in v3.20.3]]
+- Earlier: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-linear-mapping-ux-improvements|Linear Mapping UX Improvements]]
 - Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21 Apps and Integrations changes in v0.1.16]]
 <!-- chronolog:end -->
 

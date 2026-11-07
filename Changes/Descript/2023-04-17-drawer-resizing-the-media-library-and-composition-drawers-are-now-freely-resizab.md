@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e8e509cf0801e81445d4d7536cbdbfbedad96a851ca75a1aabfbe4b88249c71
+machine_hash: dab2522ee11813b0b3229a0f8251088e9f63d8760d1563a8edd29001dbdaa5f6
 product: descript
 product_name: Descript
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work with cmd-Z]]
-- Later: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental support for multi-file diffs]]
+- Later: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-quick-ai-beta|Quick AI Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

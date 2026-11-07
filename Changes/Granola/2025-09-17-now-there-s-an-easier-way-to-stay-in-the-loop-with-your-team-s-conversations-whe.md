@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c499444a28068e531448ae81eb987f5336f129f9d40b2c79d626a1be5ce05bb1
+machine_hash: 0f368dfa08f63bfd5433e4d98a77df19fc8706c23bf677476b21d135258b0204
 product: granola
 product_name: Granola
 record:
@@ -48,10 +48,10 @@ record:
   title: 'Shared with me: a new way to keep up-to-date with important conversations'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
-  Changes]]'
 - '[[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing
   Manus collaboration]]'
+- '[[Changes/Recraft/2025-09-12-we-ve-added-the-ability-to-seamlessly-switch-between-a-personal-account-and-a-te|Personal
+  & Team Workspace switcher]]'
 - '[[Changes/Gamma/2025-09-16-gamma-for-teams-effortlessly-on-brand|Gamma for teams:
   Effortlessly on-brand]]'
 source_release: '[[Releases/Granola/granola-2025-09-17-https-www-granola-ai-updates-shared-with-me-29db04cf|granola-2025-09-17-https-www-granola-ai-updates-shared-with-me-29db04cf]]'

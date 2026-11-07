@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bbbfeb94f36ac7ed47377f74b28d91f8029738c1a062e2bd7471995bb459a2fd
+machine_hash: 29c6bf40c18bef5fe29c656dbde5f6b4bddc234edd9ea08830f4a49daa02ef68
 product: midjourney
 product_name: Midjourney
 record:
@@ -57,12 +57,11 @@ record:
     we're…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2
-  Interface Experience changes in rust-v0.160.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
-  text selection stays on the same visible line when the footer grows or shrinks]]'
 - '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
   $.ui.selection() for mods]]'
+- '[[Changes/Devin/2026-10-02-sidebar-search-and-filters|Sidebar Search and Filters]]'
+- '[[Changes/Devin/2026-10-02-test-recording-viewer-fullscreen|Test Recording Viewer
+  Fullscreen]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-02-https-updates-midjourney-com-alpha-changelog-10-1-26-83e7ba5a|midjourney-2026-10-02-https-updates-midjourney-com-alpha-changelog-10-1-26-83e7ba5a]]'
 source_type: midjourney_changelog
 theme: interface-experience
@@ -96,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
-- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-test-recording-viewer-fullscreen|Test Recording Viewer Fullscreen]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-new-navigation|New Navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

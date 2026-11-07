@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1bb9b0cb85f7dcb2fd589e70c2095ce1476e197664b6d39f834cdd5348a4dbc
+machine_hash: 82f2ad0d2e00293d02f1c5f1bda95dbd088226cd244568de1254ca2712a13304
 product: v0
 product_name: v0
 record:
@@ -42,12 +42,12 @@ record:
   title: Review the code diff against the base branch
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
-  Experience changes in v2.1.257]]'
-- '[[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor
-  Experience changes in v2026.8.2]]'
 - '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
   Session renames now save reliably from the title editor and tab context menu]]'
+- '[[Changes/Raycast/2026-09-01-root-search-tab-now-performs-primary-action-if-ai-or-tab-to-quick-ai-is-disabled|Root
+  Search : Tab now performs primary action if AI or Tab to Quick AI is disabled]]'
+- '[[Changes/Raycast/2026-09-01-root-search-tab-now-performs-primary-action-if-ai-or-tab-to-quick-ai-is-disabled-2c4967|Root
+  Search : Tab now performs primary action if AI or Tab to Quick AI is disabled]]'
 source_release: '[[Releases/v0/v0-2026-09-01-2026-09-01-13cb07e2|v0-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop Session renames now save reliably from the title editor and tab context menu]]
-- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web: Add a code wrap toggle to the diff panel and streamline its header]]
+- Earlier: 2026-09-01 · Raycast · [[Changes/Raycast/2026-09-01-root-search-tab-now-performs-primary-action-if-ai-or-tab-to-quick-ai-is-disabled-2c4967|Root Search : Tab now performs primary action if AI or Tab to Quick AI is disabled]]
+- Later: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-redesigned-findings-tab|Redesigned Findings Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

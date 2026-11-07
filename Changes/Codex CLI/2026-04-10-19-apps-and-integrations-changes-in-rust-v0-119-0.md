@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae17023d4b1c82b3ac669ab38a3d7982b783347ad2cf5d65aa8a7952535af428
+machine_hash: 5c5ea21db2617c0f4849a16c3c240cb7dfd698c41ffefbb0362edaa95027b67a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -172,7 +172,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4 Apps and Integrations changes in v2.1.101]]
-- Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-pretooluse-hooks-now-respect-modifiedargs-updatedinput-and-additionalcontext-fie|preToolUse hooks now respect modifiedArgs/updatedInput, and additionalContext fields]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-personal-mcp-servers|Personal MCP Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

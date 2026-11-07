@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf73b9f725398da8a709eade41d1cc1a972b37e46684a574123d8374736522b5
+machine_hash: 2113ac20623ab53e6f3eca6c3db48756a01c14ed525aecf1addd022a13f4e7ad
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-notes-choose-a-custom-editor-text-size-from-12-to-32-pt-or-keep-following-your-d|Notes : Choose a custom editor text size from 12 to 32 pt, or keep following…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

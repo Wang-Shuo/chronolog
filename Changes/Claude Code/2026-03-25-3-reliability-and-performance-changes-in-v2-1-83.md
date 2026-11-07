@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c8d4b11774bf3d7243eb043526e53856cd8344895aa1f19b92373e99a6258b5
+machine_hash: 30295dbbad055e75aac454e657733a5a0d55e9c2422b0365ab4b3995828cb14a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Reliability and Performance changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
-  Release Candidate]]'
+- '[[Changes/Devin/2026-03-24-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize
   and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2

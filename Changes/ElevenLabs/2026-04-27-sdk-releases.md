@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 270e824a0d111a42e841588f9dc60f12397b131ae7eddedd418c8e82f3a3d61e
+machine_hash: 067e58d0ead7b93783860037037f06145e5abc00ad5269ff37cdc7018749797b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions : Restored ability to delete tokens by clicking × in tag picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

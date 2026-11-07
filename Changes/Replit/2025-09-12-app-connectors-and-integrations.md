@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 474080a3b667d00e519f40572642833f98ccf44e64605cac7ebb57395282958e
+machine_hash: b0f28f198be8ce53d9e2b9d2d145fcf811455c6a0feb8edb0076a0bc1fd5622e
 product: replit
 product_name: Replit
 record:
@@ -50,10 +50,9 @@ record:
   title: App connectors and integrations
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]'
-- '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
-  changes in 1.6]]'
 - '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
+- '[[Changes/Devin/2025-09-12-integrations-page-access|Integrations page access]]'
+- '[[Changes/Devin/2025-09-12-slack-ux-improvements|Slack UX improvements]]'
 source_release: '[[Releases/Replit/replit-2025-09-12-2025-09-12-019d2e90|replit-2025-09-12-2025-09-12-019d2e90]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]
+- Earlier: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-slack-ux-improvements|Slack UX improvements]]
 - Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5 Apps and Integrations changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 

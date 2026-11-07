@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bbed58a13dbc8d8f4f0cbae3b06e99961ccf8fd63586eb051fd1051887046e13
+machine_hash: 752712bf347e26a6a2fc3a4e9092c1d45afca27887c7176932cd55bf358bc660
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -57,7 +57,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It''s
+  true: coding agents can be overconfident]]'
 - '[[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine
   if every idea could become an AI agent]]'
 - '[[Changes/Replit/2025-05-16-ask-agent-to-add-a-database|Ask Agent to add a database]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0eb91ca4b131513e6151314ead33f05f8885102a1d1ae028dd8b49be7413876
+machine_hash: 4d85508cf515a8918fe2da5255c7df01c2038229b3c542d4dbb39a5e767f48e4
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Automation and Scheduling changes in v1.24.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9
-  Automation and Scheduling changes in v2026.9.6]]'
-- '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
-  consume SDK 1.49.5 and Automation 1.15.0]]'
-- '[[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud
-  automations: Create scheduled tasks through conversation or manual…]]'
+- '[[Changes/Devin/2026-09-25-linear-triggered-sessions-can-start-child-sessions|Linear-Triggered
+  Sessions Can Start Child Sessions]]'
+- '[[Changes/Devin/2026-09-25-run-sessions-on-a-shared-outpost|Run Sessions on a Shared
+  Outpost]]'
+- '[[Changes/Devin/2026-09-25-create-code-scan-automations-via-the-api|Create Code-Scan
+  Automations via the API]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -91,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud automations: Create scheduled tasks through conversation or manual…]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-create-code-scan-automations-via-the-api|Create Code-Scan Automations via the API]]
 - Later: 2026-09-28 · Manus · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]]
 <!-- chronolog:end -->
 

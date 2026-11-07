@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 229aa5f36e424112f1fd41322cffad25f651e42e39a774b3ae660cca1fff4175
+machine_hash: e894845c2bd04399ddf264441712ef9d960ba34c5edc2d3f1a917a6911ec72e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Agent Mode changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode
-  changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-apply-workspace-temperature-to-agents-and-omit-the-parameter-when-unset-by-shatf|Apply
+  workspace temperature to agents and omit the parameter when unset]]'
 - '[[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode
   changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode changes in rust-v0.160.0]]
-- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-4-agent-mode-changes-in-v2026-9-8|4 Agent Mode changes in v2026.9.8]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-transcript-polish|Transcript Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

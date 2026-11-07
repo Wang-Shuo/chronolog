@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91e0b3775929bf7db7bb502e33c19c84f803d0756e73c0eddba472c637ade807
+machine_hash: 39f34722cdeee2b1be7b3b848944597f8b98fddf4486d9091eac0f8a0bd0ac52
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added clickable file attachments in chat
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-6-files-and-data-changes-in-1-15-0|6 Files and Data changes
-  in 1.15.0]]'
 - '[[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs:
   document max think level]]'
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
   finance in ChatGPT expands to Plus users and Android]]'
+- '[[Changes/LM Studio/2026-06-26-chat-to-pdf-export-updated-to-include-styled-markdown|Chat
+  to PDF export updated to include styled markdown]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: file-data
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
+- Earlier: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-chat-to-pdf-export-updated-to-include-styled-markdown|Chat to PDF export updated to include styled markdown]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and Data changes in v0.10.0]]
 <!-- chronolog:end -->
 

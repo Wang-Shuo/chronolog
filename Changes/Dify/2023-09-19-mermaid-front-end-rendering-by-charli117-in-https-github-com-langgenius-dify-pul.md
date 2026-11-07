@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20da24c19e1448e3b6a612852b4de5443ab67d8334c2ee01477a461acc53e7fe
+machine_hash: b873fb3bad83d6c42fd4540b6e0a5d452f6fbd3cc6c0c83e2ce3a0970d96440e
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: Mermaid front end rendering
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
-  error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
   to the VS Code sidebar orientation]]'
 - '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
   you''ve configured your browser to use one of these supported languages, you''ll…]]'
+- '[[Changes/Superwhisper/2023-09-14-scroll-only-follows-arrow-key-selection|Scroll
+  only follows arrow key selection]]'
 source_release: '[[Releases/Dify/dify-2023-09-19-0-3-23-github-121733755-0e2f942d|dify-2023-09-19-0-3-23-github-121733755-0e2f942d]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
-- Later: 2023-10-02 · Descript · [[Changes/Descript/2023-10-02-new-view-options-in-drive-view|New View Options in Drive View]]
+- Earlier: 2023-09-14 · Superwhisper · [[Changes/Superwhisper/2023-09-14-scroll-only-follows-arrow-key-selection|Scroll only follows arrow key selection]]
+- Later: 2023-09-21 · Raycast · [[Changes/Raycast/2023-09-21-sonoma-ready|Sonoma ready]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31df40d17ecf625166ba94b694ec27bb65a8ed4bf38c42d0ee8dbce1c004db8a
+machine_hash: 74231bdd9977d8d2b8a0bdc8157f5cbfc701a152f213f005baaed86990c81530
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: Large pastes are now handled as attachments for more plans
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports
-  1M lossless context, significantly improving long-horizon task capabilities…]]'
-- '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
-  improves the real-world developer experience, with more reliable…]]'
+- '[[Changes/Devin/2026-06-17-slack-preceding-thread-messages-as-context|Slack: Preceding
+  Thread Messages as Context]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
+- '[[Changes/Devin/2026-06-19-pr-context-visible-while-waiting-for-ci|PR Context Visible
+  While Waiting for CI]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context Window changes in rust-v0.141.0]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-pr-context-visible-while-waiting-for-ci|PR Context Visible While Waiting for CI]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]]
 <!-- chronolog:end -->
 

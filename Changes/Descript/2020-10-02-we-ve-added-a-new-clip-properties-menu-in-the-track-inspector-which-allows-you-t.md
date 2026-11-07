@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b430e5f274570860625a85275c7f01eda070b1171b08c61e654d20788e1c92b
+machine_hash: 6c1e2f95f99f61fc0f839a14127716c49ee7de556377b3a77675b818b5c86eb6
 product: descript
 product_name: Descript
 record:
@@ -44,12 +44,12 @@ record:
   title: Clip Properties Menu Accessible
   type: change
 related_changes:
-- '[[Changes/Descript/2020-09-08-now-you-can-name-or-rename-published-pages-directly-in-the-published-pages-menu|Rename
-  Published Pages]]'
-- '[[Changes/Descript/2020-09-08-we-ve-recently-updated-our-drive-switching-view-in-the-left-hand-sidebar-of-the|Re-designed
-  Drive Switcher View]]'
+- '[[Changes/Raycast/2020-09-22-jira-added-support-for-new-date-picker-and-date-time-picker-fields-when-creating|Jira:
+  Added support for new date picker and date-time picker fields when creating issues]]'
 - "[[Changes/Notion/2020-09-29-log-out-of-notion-from-all-your-devices-remotely|Log
   out of Notion from all your devices, remotely \U0001F4E1]]"
+- '[[Changes/Raycast/2020-09-30-improved-date-picker-to-match-more-autocompletions-and-show-time-in-hint|Improved
+  date picker to match more autocompletions and show time in hint]]'
 source_release: '[[Releases/Descript/descript-2020-10-02-5f777547c109b23b69065498-3dc8a498|descript-2020-10-02-5f777547c109b23b69065498-3dc8a498]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-09-29 · Notion · [[Changes/Notion/2020-09-29-log-out-of-notion-from-all-your-devices-remotely|Log out of Notion from all your devices, remotely 📡]]
-- Later: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-now-you-can-drag-a-file-on-to-a-selection-of-text-to-make-sure-that-the-length-o|Drag file onto a selection]]
+- Earlier: 2020-09-30 · Raycast · [[Changes/Raycast/2020-09-30-improved-date-picker-to-match-more-autocompletions-and-show-time-in-hint|Improved date picker to match more autocompletions and show time in hint]]
+- Later: 2020-10-21 · Raycast · [[Changes/Raycast/2020-10-21-root-search-added-initial-command-suggestions-based-on-the-onboarding-selections|Root Search : Added initial command suggestions based on the onboarding selections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

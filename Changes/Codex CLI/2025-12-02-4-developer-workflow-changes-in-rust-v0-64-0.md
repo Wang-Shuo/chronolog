@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f02d819b65b7c74c080d9dc788fba379211578c022779ca547bb4bfadce409a
+machine_hash: 979251409a1adbb07924d97d525171b30435561691452c6349f3b46d907d2d66
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,9 @@ record:
   title: 4 Developer Workflow changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow
-  changes in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat:
   add click-to-focus support for interactive shell]]'
+- '[[Changes/Raycast/2025-11-27-confetti|Confetti]]'
 - '[[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer
   Workflow changes in v3.39.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f300fb8b0755429db18a1554be50791bcce40f36585fc20a08028dcd32261971
+machine_hash: 4e0bb6415f4737ec0561c3f480e466e66b39612a35d3f6d9ab5280abdac025b1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -153,7 +153,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 ## Nearby in Model Support
 
 - Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse every model, and see which is best for the job]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat: add GPT-6 Astra model support]]
+- Later: 2026-09-16 · Krea · [[Changes/Krea/2026-09-16-org-wide-usage-reporting|Org-wide Usage reporting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

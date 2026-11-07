@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9ce95072d5b9e206d7b961820221c335f5d1a6f4875ae04fbbb432448b38f4c4
+machine_hash: 174d2aa09da25000bfbe416e54d8cd71b9854395593650b3a54f94cf0a9d085d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
     to view…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-14-refresh-provider-model-metadata-before-opening-the-model-picker|Refresh
-  provider model metadata before opening the model picker]]'
 - '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
   /import for selectively importing setup, project configuration, and recent…]]'
 - '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
   Interface Experience changes in rust-v0.140.0]]'
+- '[[Changes/Superwhisper/2026-06-16-refined-a-range-of-visual-and-interaction-details-across-the-share-card-super-pi|Refined
+  a range of visual and interaction details across the share card, Super…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3 Interface Experience changes in rust-v0.140.0]]
+- Earlier: 2026-06-16 · Superwhisper · [[Changes/Superwhisper/2026-06-16-refined-a-range-of-visual-and-interaction-details-across-the-share-card-super-pi|Refined a range of visual and interaction details across the share card, Super…]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]]
 <!-- chronolog:end -->
 

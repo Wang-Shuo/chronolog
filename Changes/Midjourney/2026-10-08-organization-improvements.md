@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 59b30adf1568b5df311a1c8811e8d0d8d1a0096235046cca8dec78f4c47d9d9a
+machine_hash: 60a316781599d74a8157d88b5b35913bb181fb40365aa80e4e89b44908135235
 product: midjourney
 product_name: Midjourney
 record:
@@ -59,8 +59,8 @@ record:
   title: ORGANIZATION IMPROVEMENTS
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2
-  Memory and Personalization changes in v2026.9.8]]'
+- '[[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index-ee1d12|File
+  Search : The file indexer uses about 60% less memory when it updates its index]]'
 - '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
   Remove personality plumbing from the TUI @etraut-openai]]'
 - '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223

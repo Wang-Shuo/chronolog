@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af7d01b40259c3f98a6c74241d7d4812bb72dc7ffe2c2a88eb99a26a774db6e6
+machine_hash: c76ca8e4a756a54cf58f823f9801b24173d34bb0e287f94a7ef9fb413e0f4802
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(workflow): Add variable node jump navigation and persist node dimensions/position'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
-  Experience changes in v3.17.0]]'
+- '[[Changes/LM Studio/2025-05-23-3-interface-experience-changes-in-lm-studio-0-3-16|3
+  Interface Experience changes in LM Studio 0.3.16]]'
 - '[[Changes/Lovable/2025-05-24-improvements|Improvements]]'
 - '[[Changes/Open WebUI/2025-05-26-2-interface-experience-changes-in-v0-6-11|2 Interface
   Experience changes in v0.6.11]]'

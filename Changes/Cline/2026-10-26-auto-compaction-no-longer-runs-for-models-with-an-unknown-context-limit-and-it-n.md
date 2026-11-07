@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f01f97ba67b81b24dc54f5aecc2df0fae5f71ec1b3c2a4211e554132b9f9add
+machine_hash: 3445d1b960718f0850b87484d50e0093ec811f13f084afca29facf6d5e11a7b4
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,10 @@ record:
     and it no…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context
-  Window changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
   changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-2-context-window-changes-in-v1-19-0|2 Context
+  Window changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context
   Window changes in v2.1.311]]'
 source_release: '[[Releases/Cline/cline-2026-10-26-v4-1-26-github-424033561-1dc8e551|cline-2026-10-26-v4-1-26-github-424033561-1dc8e551]]'

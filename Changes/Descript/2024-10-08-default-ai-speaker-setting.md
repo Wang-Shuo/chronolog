@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2c90fbfe708949673af1f88773ea7d3314da9b64f62877e55da395312f056003
+machine_hash: 144fd1a47762ce2e86a66617a1c4001814254d420f5ed2846263e3c7213e0d90
 product: descript
 product_name: Descript
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and Audio changes in v0.3.31]]
-- Later: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-guest-transcriptions-now-adhere-to-the-host-s-transcription-settings|Guest transcriptions now adhere to the host’s transcription settings]]
+- Later: 2024-10-09 · Superwhisper · [[Changes/Superwhisper/2024-10-09-modes|Modes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

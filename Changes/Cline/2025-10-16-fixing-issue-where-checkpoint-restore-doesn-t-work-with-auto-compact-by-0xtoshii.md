@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d56223dd01d4da00f3e8648edc86d290ed771af0924f2dc9ff471d4c0016d91
+machine_hash: 61da6f02e99156ea9479fdf88dfdd063c778db3337cc4efeba4f4097518a7f04
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: fixing issue where checkpoint restore doesn't work with auto-compact
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-4706-fix-command-output-truncation-that-sometimes-used-too-much-of-the-context-w|♯4706
-  Fix command output truncation that sometimes used too much of the context window]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-updated-the-context-truncation-message-s-color-from-an-error-color-to-a-warning|Updated
   the context truncation message''s color from an error color to a warning color]]'
+- '[[Changes/AnythingLLM/2025-10-09-agent-system-prompt-passthrough-user-context-awareness|Agent
+  system prompt passthrough + user context awareness]]'
 - '[[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make
   context line permanent]]'
 source_release: '[[Releases/Cline/cline-2025-10-16-v3-33-0-github-255077310-b9a1872c|cline-2025-10-16-v3-33-0-github-255077310-b9a1872c]]'

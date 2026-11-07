@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6610d7dd1f804272763ad1631e77a2c82ae9b4b2dfcc0fe95b56892f0f3710a7
+machine_hash: 69db1cb5bd7be202480bf90f8e77cc70d07ce59c7111f2dab1552b04edbefdff
 product: claude
 product_name: Claude
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2 Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]
-- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add runtime support for dynamic MCP server updates, reference skills, replay…]]
+- Later: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-ultra-and-fast-mid-session-toggles|ultra and !fast Mid-Session Toggles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

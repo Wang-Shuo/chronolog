@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 729c3403e16f0f6ec518f294691f4bf33c95239adae1fb57635090b0268af5c1
+machine_hash: b2017b7ea8636f418d86a9a496c49b454d1d4deb7074b7f0283d600672ae9b42
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,9 +45,10 @@ record:
     directory
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 - '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
   prototype, and build with Google Antigravity in the Gemini macOS app]]'
+- '[[Changes/LM Studio/2026-10-13-added-cuda-13-support-on-windows-arm|Added CUDA
+  13 support on Windows ARM]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-10-14-2-2-0-c9b38331|kimi-code-2026-10-14-2-2-0-c9b38331]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8ae06cda90f730904b3e211b7ea51f5118912c658a7684611c2b061d0fc50a04
+machine_hash: 939ee985d8d1ff8f1be667113e259aef0bd597c681819db6dfbeaeac5babd05c
 product: descript
 product_name: Descript
 record:
@@ -55,12 +55,12 @@ record:
   title: Editor Updates**
   type: change
 related_changes:
-- '[[Changes/Notion/2024-09-25-generate-edit-docs-in-your-own-style|Generate & edit
-  docs in your own style]]'
 - "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
   Chat Rename Tab Update]]"
 - '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
   changes in v0.58.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-1417-completion-timeout-by-timothycarambat-in-https-github-com-mintplex-labs-any|1417
+  completion timeout]]'
 source_release: '[[Releases/Descript/descript-2024-10-08-670564dc958faa93e6166a33-dd601db4|descript-2024-10-08-670564dc958faa93e6166a33-dd601db4]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience changes in v0.58.0]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-1417-completion-timeout-by-timothycarambat-in-https-github-com-mintplex-labs-any|1417 completion timeout]]
 - Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc7cf612a273d1052f8357bff51564473de4864964878de5d8d87805eb765b91
+machine_hash: 6492eaf759ece1ac08698fc3043ce78ecaa26ee8130ce483d8f8b24f53bf58bf
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Interface Experience changes in v1.14.44 + 2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
+- '[[Changes/Raycast/2026-05-08-ability-to-make-more-tweaks-to-an-an-existing-hotkey-at-any-point-just-by-reopen|Ability
+  to make more tweaks to an an existing hotkey at any point just by reopening…]]'
+- '[[Changes/Raycast/2026-05-08-subtle-suggestions-of-hotkey-types-to-record|Subtle
+  suggestions of hotkey types to record]]'
 - '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
   Experience changes in v0.9.3]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-09-v1-14-44-6cb8a034|opencode-2026-05-09-v1-14-44-6cb8a034]]'

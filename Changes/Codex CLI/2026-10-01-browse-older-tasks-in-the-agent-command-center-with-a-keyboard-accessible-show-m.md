@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 52c6747fe4167306d8997c7ba927cb621e131944d43bcda38964771bc65fc929
+machine_hash: 7531d4f8071c952b51578b3acd9c47f6efd99ed821e557264870f6e50bd6f82f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: Browse older tasks in the agent command center with a keyboard-accessible…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
-  using web search can now perform up to ten searches per response, up from three]]'
 - '[[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search
   and Browsing changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-feat-add-firecrawl-agent-web-search-provider-by-juampihernandez-in-https-github|feat:
+  add Firecrawl agent web-search provider]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: badb6caf8cd7978b491f48899d7fce8c7ed76159dda571a5e01d1746cfe04a8c
+machine_hash: 98bc44621d56c2b6651cef37982a7d933a6a1031221245d8c8fb72f8cc7675f6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The command palette now opens over a dimmed backdrop with enter and exit animations…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6 Developer Workflow changes in v1.0.85]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-blueprint-source-in-the-v3-api|Blueprint Source in the v3 API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

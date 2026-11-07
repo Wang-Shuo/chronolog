@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f02b8417ea748368aaf4c2b6acd1c839af8a4e4cea20935a07d2861d21ff9ab
+machine_hash: c8f31192122fee50a993f59b5f2beea81cc7eb75ff0a9b49b5c1395ac671823a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Model Support changes in v0.3.33
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-21-2-model-support-changes-in-v0-4-0|2 Model Support changes
-  in v0.4.0]]'
 - '[[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes
   in v0.60.0]]'
+- '[[Changes/LM Studio/2024-10-22-8-model-support-changes-in-lm-studio-0-3-5|8 Model
+  Support changes in LM Studio 0.3.5]]'
 - '[[Changes/Dify/2024-10-23-6-model-support-changes-in-0-10-1|6 Model Support changes
   in 0.10.1]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
@@ -91,7 +91,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.33
 ## Nearby in Model Support
 
 - Earlier: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-6-model-support-changes-in-0-10-1|6 Model Support changes in 0.10.1]]
-- Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-merged-response-loss-in-multi-model-chats-addressed-an-issue-where-responses-in|🔗 Merged Response Loss in Multi-Model Chats]]
+- Later: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-3-model-support-changes-in-v1-2-4|3 Model Support changes in v1.2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

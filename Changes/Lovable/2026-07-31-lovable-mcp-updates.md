@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 97c050d38dc86338b1f7e356c0e3ebb1cfd8e30730e586f4c63a4ceca45dc975
+machine_hash: d3dce8c3ca302865de7271dd87bb569f00abeb15a1171a3952ebb3c88c9b3d4c
 product: lovable
 product_name: Lovable
 record:
@@ -44,12 +44,10 @@ record:
   title: Lovable MCP updates
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins
-  can contribute system prompt instructions through systemPrompt…]]'
-- '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
-  enable/disable an installed MCP server from its card]]'
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
+- '[[Changes/Devin/2026-07-31-mcp-execution-from-devin-s-servers|MCP Execution from
+  Devin''s Servers]]'
+- '[[Changes/Devin/2026-07-31-connectors-page-improvements|Connectors Page Improvements]]'
+- '[[Changes/Devin/2026-07-31-slack-access-defaults|Slack Access Defaults]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-31-2026-07-31-9665255c|lovable-2026-07-31-2026-07-31-9665255c]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -78,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and Integrations changes in v4.1.0]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-slack-access-defaults|Slack Access Defaults]]
 - Later: 2026-07-31 · Notion · [[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post a recap to Slack or email with decisions and next steps]]
 <!-- chronolog:end -->
 

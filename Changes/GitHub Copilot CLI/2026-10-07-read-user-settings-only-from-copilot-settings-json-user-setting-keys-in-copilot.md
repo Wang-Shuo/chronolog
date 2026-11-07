@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 709636bef650b0be44305696b4ccb7e450d4600a4ed8fbdcbb27701f9eb73ea6
+machine_hash: 8bd1a2acfebb830e955f9648595e6ce69877e4b0c97cac5472d7b96dbcd944f4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: Read user settings only from ~/.copilot/settings.json
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
-  prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
-- '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):
-  give the drawer tab strip real tab semantics]]'
 - '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
   the Bash edit diff note to say the listed files changed while the command…]]'
+- '[[Changes/Devin/2026-10-07-analytics|Analytics]]'
+- '[[Changes/Devin/2026-10-07-preview-chips-are-links|Preview Chips Are Links]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062|github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved the Bash edit diff note to say the listed files changed while the command…]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-preview-chips-are-links|Preview Chips Are Links]]
 - Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File edits, terminal commands, and file reads between agent replies now group…]]
 <!-- chronolog:end -->
 

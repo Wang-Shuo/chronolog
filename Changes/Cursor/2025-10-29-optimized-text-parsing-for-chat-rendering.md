@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61277a14899075a97cfdc32d8268d1cddbe84663867b42d86f682489fa1733fd
+machine_hash: 342587c6056393b1b61367b79e30b712e2919d6e517577dfa1829bebacaf1e5d
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,10 @@ record:
   title: Optimized text parsing for chat rendering
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
-  drop citation rendering]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Superwhisper/2025-10-24-main-menu-for-app-now-matches-app-menu|Main menu
+  for app now matches app menu]]'
+- '[[Changes/Raycast/2025-10-27-the-keyboard-shortcut-infrastructure-has-been-revamped-to-support-more-shortcut|The
+  Keyboard Shortcut infrastructure has been revamped to support more shortcut…]]'
 - '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
   and drop now works from Brand Studio and Editor sidebar]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'

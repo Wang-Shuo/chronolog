@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83809f25e48de8adef625b2c31986c0c845787f41a6304ceb3857bab343cbd1a
+machine_hash: 8706366a38486c62681b92a4e477f493c3fbbc4e9dfdea7edfb199e71b6249ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Compaction messages show clearer command hints to view checkpoint summaries
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify
-  compaction timeline entries]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core):
   enhanced anchored iterative context compression with self-verification]]'
+- '[[Changes/LM Studio/2026-01-28-bring-back-context-fullness-indicator-and-current-input-token-counter|Bring
+  back context fullness indicator and current input token counter]]'
 - '[[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle
   Venice cache creation tokens]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'

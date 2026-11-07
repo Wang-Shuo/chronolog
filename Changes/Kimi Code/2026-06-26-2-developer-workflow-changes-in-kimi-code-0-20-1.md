@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44ad057b72595b22f01db9fbab895803d053b5666bad330edba49907ef50d496
+machine_hash: 6019a7771fe17639e323b631e5103473f8a173fe4dc29530b0d9c09ac0f3c67f
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in Kimi Code 0.20.1
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
-  add eval:inventory CLI command and reporting logic]]'
 - '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
   the permissions request dialog to display a clear description of the action…]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
+- '[[Changes/Devin/2026-06-26-readable-pr-review-label-colors|Readable PR Review Label
+  Colors]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-1-b7b3200e|kimi-code-2026-06-26-0-20-1-b7b3200e]]'
 source_type: kimi_code_changelog
 theme: developer-workflow
@@ -86,7 +86,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
+- Earlier: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-readable-pr-review-label-colors|Readable PR Review Label Colors]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]]
 <!-- chronolog:end -->
 

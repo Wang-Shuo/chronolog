@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 75f40e347b2ceecd4a158ddc219a9e220281fd7041ae7ca1ac5650549005e06f
+machine_hash: 026c39738a705f780abe61432210f6a00551da5b7f902234c482e6fd4b1c35f1
 product: notion
 product_name: Notion
 record:
@@ -51,10 +51,10 @@ record:
   title: Databases got a makeover
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
-  tooltip for suggested tasks]]'
 - '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
   rendering bugs resolved (toolcall display, overflow issues)]]'
+- '[[Changes/AnythingLLM/2025-07-09-2-interface-experience-changes-in-v1-8-3|2 Interface
+  Experience changes in v1.8.3]]'
 - '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
   changes in 1.6.0]]'
 source_release: '[[Releases/Notion/notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd|notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience changes in 1.6.0]]
-- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface Experience changes in v0.6.16]]
+- Later: 2025-07-10 · Superwhisper · [[Changes/Superwhisper/2025-07-10-settings-redesign-parakeet-launch|Settings Redesign & Parakeet Launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

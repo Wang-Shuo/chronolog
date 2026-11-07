@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e1e0adf7f31a893c9eabc549c64b42f2352c9fc478ece8593bd1809484fa1f1
+machine_hash: 889a7958eca8d3ae50d552a3ba3cbbb7e180c5763e372f946a967945548f5d12
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,9 @@ record:
   title: Project monitoring catches errors in your visitors' browsers
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core
-  When edit can''t find oldString , the error shows the file''s closest lines…]]'
 - '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
   Experience changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-findings-improvements|Findings Improvements]]'
 - '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
   assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-02-2026-11-02-7efe9660|lovable-2026-11-02-2026-11-02-7efe9660]]'
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG assets: SVG uploads to Assets stay SVG and render as vectors, including…]]
-- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The Overview panel's Review row and the Review tab header now show total added…]]
+- Later: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-edit-your-favorite-change-its-colors-or-ask-for-variations|Edit your favorite, change its colors, or ask for variations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

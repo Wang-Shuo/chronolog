@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b75dcec0dad0b5666f121992b7147fbc865011ae5348621da24a024451cacfdc
+machine_hash: 55d40bb270e3dfb2a5e1df5b7ddd6bff6c3b3a51eee60c11ab61e4958433649e
 product: ollama
 product_name: Ollama
 record:
@@ -49,12 +49,12 @@ record:
     designed…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-4-model-support-changes-in-rust-v0-106-0|4 Model
-  Support changes in rust-v0.106.0]]'
 - '[[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes
   in v3.68.0]]'
 - '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
   changes in v0.31.0]]'
+- '[[Changes/LM Studio/2026-02-27-connect-to-remote-instances-of-lm-studio-load-your-models-and-use-them-as-if-the|Connect
+  to remote instances of LM Studio, load your models, and use them as if they…]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-27-v0-17-4-github-291188052-d7cfa045|ollama-2026-02-27-v0-17-4-github-291188052-d7cfa045]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support changes in v0.31.0]]
+- Earlier: 2026-02-27 · LM Studio · [[Changes/LM Studio/2026-02-27-connect-to-remote-instances-of-lm-studio-load-your-models-and-use-them-as-if-the|Connect to remote instances of LM Studio, load your models, and use them as if they…]]
 - Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support changes in v0.8.6]]
 <!-- chronolog:end -->
 

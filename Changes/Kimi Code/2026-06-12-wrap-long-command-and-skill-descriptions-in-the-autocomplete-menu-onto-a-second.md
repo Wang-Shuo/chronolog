@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dad3fbef134e349bd72c6c0053f91858313a4a0c242bdd3e4847f25cd9228499
+machine_hash: 5498ae4952ec21b59767af5796893e7803106c4f98a636710c0b299c0c4d4798
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -55,12 +55,11 @@ record:
     second line…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
-  Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 - '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
   wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
+- '[[Changes/Devin/2026-06-12-session-folders|Session Folders]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-12-0-14-1-5e25c990|kimi-code-2026-06-12-0-14-1-5e25c990]]'
 source_type: kimi_code_changelog
 theme: interface-experience
@@ -96,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3 Interface Experience changes in v1.0.62]]
+- Earlier: 2026-06-12 · Devin · [[Changes/Devin/2026-06-12-session-folders|Session Folders]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-focus-toggle-focus-session-starts-or-stops-focusing-with-a-single-command-useful|Focus: Toggle Focus Session starts or stops focusing with a single command, useful…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

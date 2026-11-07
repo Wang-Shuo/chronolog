@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8bd1e5c7df017779fb43776ba942812b7195e0e9eab6c0b7102b6471a6723e4a
+machine_hash: e5e78e07f5b867244c3c0a2568e696a5cd1427f0ed333f971f084dc90ccb3333
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps): add authenticated backend view helper]]
-- Later: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed plugin setup retries hourly or after policy changes instead of on every…]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-microsoft-365-mcp|Microsoft 365 MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f120dda021cf67c2712eb0b31c18654b78bfc24a63450ea1dd9ddc8ab210528
+machine_hash: bec27a45e0f77d2ea6166654864002557d02b5d4ddc056dfb3f2ad39e5958048
 product: openclaw
 product_name: OpenClaw
 record:
@@ -243,7 +243,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
-- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice and Audio changes in rust-v0.157.0]]
+- Later: 2026-09-23 · Superwhisper · [[Changes/Superwhisper/2026-09-23-improved-handling-of-longer-recordings-with-the-s1-mini-model-for-more-reliable|Improved handling of longer recordings with the S1-mini model for more reliable…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

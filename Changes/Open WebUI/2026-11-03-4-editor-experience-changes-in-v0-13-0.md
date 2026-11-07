@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ea01761efc2bfccaf42863e0816e88d23ba931e988450e0bd80e486a672972c
+machine_hash: ebc9f55856bf8224e3bebf49a6eb5ffaa3d1fef1d40e975d8750715700818b91
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,10 @@ record:
   title: 4 Editor Experience changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
-  assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
 - '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
   monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Recraft/2026-11-02-edit-your-favorite-change-its-colors-or-ask-for-variations|Edit
+  your favorite, change its colors, or ask for variations]]'
 - '[[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The
   Overview panel''s Review row and the Review tab header now show total added…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'

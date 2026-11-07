@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7656ff322f05bb4a03b80df30402efea1eb487169cef8f6728447030f8c4640
+machine_hash: 180056e786181934525312a262f50e51ccf08a4ed80fc2d98b4bb15ddd7bfbb3
 product: notion
 product_name: Notion
 record:
@@ -47,8 +47,8 @@ record:
   title: Dependencies
   type: change
 related_changes:
-- '[[Changes/Notion/2022-11-17-made-it-easier-to-edit-links-whether-you-re-linking-to-a-notion-page-or-a-url-we|Made
-  it easier to edit links, whether you’re linking to a Notion page or a URL]]'
+- '[[Changes/Raycast/2022-11-23-export-settings-data-you-can-now-edit-and-view-the-export-password-in-the-comman|Export
+  Settings & Data]]'
 - '[[Changes/Synthesia/2022-12-14-the-rich-text-editor-is-now-available-for-all-accounts-simplifies-adding-pauses|Rich
   Text Editor]]'
 - '[[Changes/Notion/2022-12-15-easier-edits-for-databases-in-list-view|Easier edits
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2022-12-14 · Synthesia · [[Changes/Synthesia/2022-12-14-the-rich-text-editor-is-now-available-for-all-accounts-simplifies-adding-pauses|Rich Text Editor]]
-- Later: 2023-01-24 · Synthesia · [[Changes/Synthesia/2023-01-24-we-ve-given-our-video-editor-a-complete-redesign-not-only-does-it-look-great-but|Synthesia STUDIO got a fresh new look!]]
+- Later: 2022-12-15 · Raycast · [[Changes/Raycast/2022-12-15-system-settings-are-now-grouped-separately-from-applications-under-the-extension|System Settings are now grouped separately from Applications under the Extensions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

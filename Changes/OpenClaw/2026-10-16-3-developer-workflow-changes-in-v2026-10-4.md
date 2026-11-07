@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 377f0033d8d601d5013616000d6d6b28ae71266704e753b09a0e530d9d19e4de
+machine_hash: c4b1edf96fd13934b6791924313f8322ddb7e00979186e82b95c958917628d3d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,10 +51,9 @@ record:
   title: 3 Developer Workflow changes in v2026.10.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
-  Developer Workflow changes in rust-v0.163.0]]'
-- '[[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark
-  All as Read is now available from the command palette whenever you have unread…]]'
+- '[[Changes/Devin/2026-10-16-list-and-search-pull-requests|List and Search Pull Requests]]'
+- '[[Changes/Devin/2026-10-16-bitbucket-cloud-merge-readiness|Bitbucket Cloud Merge
+  Readiness]]'
 - '[[Changes/Open WebUI/2026-10-16-20-developer-workflow-changes-in-v0-12-3|20 Developer
   Workflow changes in v0.12.3]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 196dd9edd4807b44a1445f0b9b2d6c3eae68165d123e11e063a3123072643608
+machine_hash: 0735faf9482973e81baaaad06b8ec57fb786f315cb12b78d879c219c5c064f88
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Agent Mode changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-04-21-employee-self-service-agent-new-rich-landing-page-microsoft-365-copilot-app|Employee
-  Self-Service agent: New rich landing page (Microsoft 365 Copilot app)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share
   agents to Teams Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop
   Added a setting to hide the session progress bar while the agent is working]]'
+- '[[Changes/AnythingLLM/2026-04-22-10-agent-mode-changes-in-v1-12-1|10 Agent Mode
+  changes in v1.12.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop Added a setting to hide the session progress bar while the agent is working]]
+- Earlier: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-10-agent-mode-changes-in-v1-12-1|10 Agent Mode changes in v1.12.1]]
 - Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-kimi-cli-with-kimi-k2-6-excels-at-long-horizon-agentic-execution-tasks-through-a|Kimi CLI with Kimi K2.6 excels at long horizon agentic execution tasks through…]]
 <!-- chronolog:end -->
 

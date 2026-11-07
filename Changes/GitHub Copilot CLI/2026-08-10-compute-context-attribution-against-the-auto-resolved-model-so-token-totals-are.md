@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b0d693e2ed9895686ea3c02a95e96d048f42aabb4a7029d5224c2008deed158
+machine_hash: d8428378e6d627b5695ef6af9ffb6a473ccce9c072dc8f9c02dbe3227c352baf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,8 +54,7 @@ record:
   title: Compute /context attribution against the Auto-resolved model so token totals…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
-  Window changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-personal-access-tokens|Personal Access Tokens]]'
 - '[[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core
   Repeated compaction now keeps earlier tool-call history in summaries instead…]]'
 - '[[Changes/Cline/2026-08-09-2-context-window-changes-in-v4-1-7|2 Context Window

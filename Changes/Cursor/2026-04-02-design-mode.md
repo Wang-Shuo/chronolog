@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a02718712785c4adbb337ca2a375388ad8f8eace91d6625d451fea163c3bacdb
+machine_hash: 513db4aad8bf70547eb3e8b6e69cdf75a9211fef42f14846a02838ab57cc74cd
 product: cursor
 product_name: Cursor
 record:
@@ -55,9 +55,10 @@ record:
   title: Design Mode
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]'
 - '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
   changes in v0.36.0]]'
+- '[[Changes/AnythingLLM/2026-04-02-8-agent-mode-changes-in-v1-12-0|8 Agent Mode changes
+  in v1.12.0]]'
 - '[[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in
   3.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
@@ -112,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-8-agent-mode-changes-in-v1-12-0|8 Agent Mode changes in v1.12.0]]
 - Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
 <!-- chronolog:end -->
 

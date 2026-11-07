@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 02aa2f5ce6dbb9963b2d07a2768283e559288a7be56778bf84869a3770f19f65
+machine_hash: 538bc5c58601f130cf574c407499a69e431e852d46bd6d88ea27313fd54675f4
 product: manus
 product_name: Manus
 record:
@@ -60,10 +60,10 @@ record:
   title: Introducing Manus 2.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
-  consume SDK 1.49.5 and Automation 1.15.0]]'
-- '[[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud
-  automations: Create scheduled tasks through conversation or manual…]]'
+- '[[Changes/Devin/2026-09-25-run-sessions-on-a-shared-outpost|Run Sessions on a Shared
+  Outpost]]'
+- '[[Changes/Devin/2026-09-25-create-code-scan-automations-via-the-api|Create Code-Scan
+  Automations via the API]]'
 - '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
   Automation and Scheduling changes in v1.24.0]]'
 source_release: '[[Releases/Manus/manus-2026-09-28-g8j8nphvwgqyv5g4jyap9l-6132644e|manus-2026-09-28-g8j8nphvwgqyv5g4jyap9l-6132644e]]'

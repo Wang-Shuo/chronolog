@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a981f1e3a608d3ce980c864788ecc6b7cee2ac8d9e8ca85714f6c66b97543e9
+machine_hash: 963ba77a757090d84c67394d2eab1381e57e0fab44eae49678caeefbf1e355b2
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Files and Data changes in 1.7.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-3-files-and-data-changes-in-v0-6-16|3 Files and
-  Data changes in v0.6.16]]'
-- '[[Changes/Open WebUI/2025-07-19-3-files-and-data-changes-in-v0-6-17|3 Files and
-  Data changes in v0.6.17]]'
 - '[[Changes/Dify/2025-07-23-metadata-and-file-processing-smarter-document-filtering-and-error-handling-fixed|Metadata
   and File Processing]]'
+- '[[Changes/Recraft/2025-07-25-you-can-now-drag-and-drop-images-from-your-history-or-community-tab-directly-int|Drag
+  & drop from history and community]]'
+- '[[Changes/Recraft/2025-07-26-recraft-now-autogenerates-a-bird-s-eye-preview-for-every-project-giving-you-a-qu|Automatic
+  bird’s-eye view for projects]]'
 source_release: '[[Releases/Dify/dify-2025-07-28-1-7-1-github-235626993-47ad2206|dify-2025-07-28-1-7-1-github-235626993-47ad2206]]'
 source_type: github_releases
 theme: file-data
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-metadata-and-file-processing-smarter-document-filtering-and-error-handling-fixed|Metadata and File Processing]]
+- Earlier: 2025-07-26 · Recraft · [[Changes/Recraft/2025-07-26-recraft-now-autogenerates-a-bird-s-eye-preview-for-every-project-giving-you-a-qu|Automatic bird’s-eye view for projects]]
 - Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-files-and-data-changes-in-v0-6-19|2 Files and Data changes in v0.6.19]]
 <!-- chronolog:end -->
 

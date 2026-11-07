@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 778e56afb1b998323f1942510dea53e6513fa81e671162a835c1c22bf9309179
+machine_hash: eb717d978805551ace03a326d7c9d376216cb3ecac96815a1702432f093e1589
 product: qoder
 product_name: Qoder
 record:
@@ -45,12 +45,12 @@ record:
   title: 'File openin: Choose whether to open each file type in the desktop app…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-16-mobile-and-desktop-changes-in-v2026-9-4|16 Mobile
-  and Desktop changes in v2026.9.4]]'
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-reach-the-official-app-store-listing-straight-from-the-iphone-setup|Reach
-  the official App Store listing straight from the iPhone setup guide]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable
   desktop access for Azure cloud workers , whether OpenClaw manages them…]]'
+- '[[Changes/Raycast/2026-09-11-window-management-added-minimize-on-this-display-a-per-monitor-show-desktop-that|Window
+  Management : Added Minimize on This Display , a per-monitor Show Desktop…]]'
+- '[[Changes/Raycast/2026-09-11-ui-ensured-macos-text-replacements-work-across-all-editing-surfaces|UI
+  : Ensured macOS text replacements work across all editing surfaces]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-12-0-2-5-3d17b336|qoder-2026-09-12-0-2-5-3d17b336]]'
 source_type: qoder_changelog
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable desktop access for Azure cloud workers , whether OpenClaw manages them…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-ui-ensured-macos-text-replacements-work-across-all-editing-surfaces|UI : Ensured macOS text replacements work across all editing surfaces]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
 <!-- chronolog:end -->
 

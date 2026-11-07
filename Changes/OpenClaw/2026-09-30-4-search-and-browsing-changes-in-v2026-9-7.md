@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c828f5f3899e28ff9a6b34d83a72dd509cf48fee9baea7b288cc75c65146aae0
+machine_hash: 101bbef8aca8d925db944d4209d79b8655a340aeb2442a306c1b0e200ae35462
 product: openclaw
 product_name: OpenClaw
 record:
@@ -59,11 +59,12 @@ record:
   title: 4 Search and Browsing changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-09-24-search-archive|SEARCH & ARCHIVE]]'
 - '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
   Search and Browsing changes in rust-v0.157.0]]'
 - '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
   using web search can now perform up to ten searches per response, up from three]]'
+- '[[Changes/Devin/2026-09-30-ask-devin-recognizes-commented-out-code|Ask Devin Recognizes
+  Commented-Out Code]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: search-browsing
@@ -120,8 +121,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models using web search can now perform up to ten searches per response, up from three]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-ask-devin-recognizes-commented-out-code|Ask Devin Recognizes Commented-Out Code]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-feat-add-firecrawl-agent-web-search-provider-by-juampihernandez-in-https-github|feat: add Firecrawl agent web-search provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

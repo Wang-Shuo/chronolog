@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f3fa5ff8e574723084aba8b85483c79e83d2216828f08dbf25141c7316a5c5b
+machine_hash: be53b26b5a924e06949a87601061b4c159ff4b288f15841415b8ea49c2d00fa6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,11 +56,11 @@ record:
   title: "**\U0001F5A5️ Code Interpreter**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model
-  response in Canvas]]'
 - '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
 - '[[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes
   in 0.15.2]]'
+- '[[Changes/AnythingLLM/2025-01-29-2-files-and-data-changes-in-v1-4-0|2 Files and
+  Data changes in v1.4.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce|open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce]]'
 source_type: github_releases
 theme: file-data
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes in 0.15.2]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-files-and-data-changes-in-v1-4-0|2 Files and Data changes in v1.4.0]]
 - Later: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
 <!-- chronolog:end -->
 

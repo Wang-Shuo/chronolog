@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d20adc37f93e1147d50f0a2413fb1727e7d15502ebf7662c2f3a88c305bf8ee
+machine_hash: 73a0ea52e113801c1462c7e32353c68548d8e7407accfa5d1495119b64bd368c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -176,7 +176,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Model Support
 
 - Earlier: 2025-08-05 · Codex CLI · [[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces the --oss flag so Codex CLI can be used with the new open-weight models…]]
-- Later: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support changes in v0.11.0]]
+- Later: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-by-default-filter-staff-picks-to-models-that-can-fit-on-your-device|By default, filter Staff Picks to models that can fit on your device]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

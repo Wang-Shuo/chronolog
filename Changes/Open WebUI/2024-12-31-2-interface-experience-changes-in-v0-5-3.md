@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e88e0cb3a3a7fc48a1de973c59abec3853a7a1c1784e378a7dfa80989ef143a1
+machine_hash: ff2a35542211e7a15a5993fca38335d5ff6cd6cb0473771a3d3697d129ef7b54
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Interface Experience changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When
-  you’re ready to swap in your final content, just select the Placeholder layer…]]'
+- '[[Changes/Devin/2024-12-24-more-options-to-customize-devin|More options to customize
+  Devin]]'
 - "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
   Quick Screen Capture Button]]"
 - '[[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 930c592978b5d214b032f775df92534d5ee601423407beeb15c0f5b4b1079c1b
+machine_hash: 96ca1fa5b5e42cf8cc6a8037de763a0c41b1c26ddb306f426425f4cb5af51f91
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Reliability and Performance changes in v0.5.5
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite
-  3.1 Dense((source link)]]'
 - '[[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability
   and Performance changes in v0.71.0]]'
 - '[[Changes/Dify/2025-01-13-these-numerous-bug-fixes-and-enhancements-make-v0-15-1-more-robust-efficient-and|These
   numerous bug fixes and enhancements make v0.15.1 more robust, efficient…]]'
+- '[[Changes/Devin/2025-01-16-solution-for-docker-storage-performance-issues|Solution
+  for Docker storage & performance issues]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,7 +87,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-these-numerous-bug-fixes-and-enhancements-make-v0-15-1-more-robust-efficient-and|These numerous bug fixes and enhancements make v0.15.1 more robust, efficient…]]
+- Earlier: 2025-01-16 · Devin · [[Changes/Devin/2025-01-16-solution-for-docker-storage-performance-issues|Solution for Docker storage & performance issues]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
 <!-- chronolog:end -->
 

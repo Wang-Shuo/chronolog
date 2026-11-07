@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3367f86ecf614c1ba7e5087284f99db21faf6384efed3d0feb0e48a0e6ab3eb2
+machine_hash: 1fb04685777a5ae529c6050f2ed3fe7016137e41d7cfc91bb2aa1b8eb7414544
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Voice and Audio changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]'
 - '[[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade
   unsupported audio/video to placeholder text and reattach tool result media…]]'
+- '[[Changes/Raycast/2026-06-12-3-voice-and-audio-changes-in-raycast-windows-0-64|3
+  Voice and Audio changes in Raycast windows 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
   runtime download dialog no longer reopens in a loop after an install failure]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

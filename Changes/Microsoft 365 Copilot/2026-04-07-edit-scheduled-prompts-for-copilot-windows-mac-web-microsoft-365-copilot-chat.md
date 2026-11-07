@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f50f220c16d09c6f54350a49e8ca9408afe9bd32558fe155b165a9ec3bf242f8
+machine_hash: b8522fe5d8919ed664f5f7f97786e35e8a305c9fcabb5489470aaf1d831c8352
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,11 +47,10 @@ record:
     chat)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core):
-  migrate hook tests to scheduler]]'
-- '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
-  the browser automation tool surface and tightened the subagent to use…]]'
 - '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
+- '[[Changes/Devin/2026-04-03-linear-assignee-filter|Linear Assignee Filter]]'
+- '[[Changes/Raycast/2026-04-03-calendar-improve-auto-join-scheduler-reliability-during-sleep-wake-cycles|Calendar:
+  Improve auto-join scheduler reliability during sleep/wake cycles]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-04-07-2026-04-07-1ced55b5|microsoft-365-copilot-2026-04-07-2026-04-07-1ced55b5]]'
 source_type: m365_copilot_changelog
 theme: automation-scheduling
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-project-comments|Project comments]]
+- Earlier: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-calendar-improve-auto-join-scheduler-reliability-during-sleep-wake-cycles|Calendar: Improve auto-join scheduler reliability during sleep/wake cycles]]
 - Later: 2026-04-07 · Z.ai API · [[Changes/Z.ai API/2026-04-07-designed-for-long-horizon-tasks-glm-5-1-can-work-independently-for-up-to-8-hours|Designed for long-horizon tasks, GLM-5.1 can work independently for up to 8 hours…]]
 <!-- chronolog:end -->
 

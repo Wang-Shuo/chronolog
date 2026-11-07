@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fae681dbc5a631909f637d3b7c4c10d25a3a85c21b277e9a8f58b581b996e4c
+machine_hash: b02981efda36cb39d1ede656a330301506959ad972662995ffdcf64161d823e6
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Automation and Scheduling changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations):
-  express the activity track height in CSS]]'
-- '[[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations):
-  hide the GitHub token secret field on self-hosted instances…]]'
 - '[[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations):
   reflect the built-in integration''s connection state in the setup…]]'
+- '[[Changes/Devin/2026-10-23-playbooks-are-moving-to-skills|Playbooks Are Moving
+  to Skills]]'
+- '[[Changes/Devin/2026-10-23-github-issue-assignment-triggers-and-devin-prefix-filter|GitHub
+  Issue Assignment Triggers and @Devin-prefix Filter]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-feat-automations-reflect-the-built-in-integration-s-connection-state-in-the-setu|feat(automations): reflect the built-in integration's connection state in the setup…]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-github-issue-assignment-triggers-and-devin-prefix-filter|GitHub Issue Assignment Triggers and @Devin-prefix Filter]]
 - Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-3-automation-and-scheduling-changes-in-v1-32-0|3 Automation and Scheduling changes in v1.32.0]]
 <!-- chronolog:end -->
 

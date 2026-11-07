@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a3eecbee5459344a2236902ad9e6ade5914cc4bf2150b878fb8e502784e9568
+machine_hash: c0a88ff7e0025547a0c6c9a57affd7f921f6778867613a83ad741eb496a77c1e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data changes in 1.13.1]]
-- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs: document npm deprecation warnings as safe to ignore]]
+- Later: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-feat-add-document-count-indicators-to-workspace-document-management-modal-by-ang|feat: Add document count indicators to workspace document management modal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc9b49dc38f9445ba2ae4566cc1098f48058a82f276bd3291de0b6f59176963e
+machine_hash: 751e986bbbb069c32a422a438c232a427cdf5b0ec98267bc7334a56daae55bd8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,11 +55,11 @@ record:
   title: 4 Interface Experience changes in v0.6.16
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
 - '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
   changes in 1.6.0]]'
 - '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
+- '[[Changes/Superwhisper/2025-07-10-settings-redesign-parakeet-launch|Settings Redesign
+  & Parakeet Launch]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'
 source_type: github_releases
 theme: interface-experience
@@ -110,8 +110,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]
-- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
+- Earlier: 2025-07-10 · Superwhisper · [[Changes/Superwhisper/2025-07-10-settings-redesign-parakeet-launch|Settings Redesign & Parakeet Launch]]
+- Later: 2025-07-16 · AnythingLLM · [[Changes/AnythingLLM/2025-07-16-2-interface-experience-changes-in-v1-8-4|2 Interface Experience changes in v1.8.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

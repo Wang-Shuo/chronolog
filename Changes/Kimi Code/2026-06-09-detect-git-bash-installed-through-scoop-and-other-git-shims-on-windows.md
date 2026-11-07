@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5001aaf7b95a814bf44968d3954f2b718c5a42d6f0275c92890fed95f7c481e7
+machine_hash: 01f0bc5b06171388ccef3fe8a1289ef84ca09c9dd205a38c3dae1190006e9031
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Detect Git Bash installed through Scoop and other Git shims on Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
-  image previews after sending]]'
-- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
-  on Windows now stops retrying within a session once claude.exe…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
   Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-introducing-locally-lm-studio-s-mobile-app-available-on-iphone-and-ipad|Introducing
+  Locally, LM Studio''s mobile app]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-tray-fixes-when-app-starts-in-background-or-desktop-assistant-feature-is-toggl|x
+  Tray Fixes when app starts in background or Desktop Assistant feature is toggled]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-09-0-12-0-fb6901e1|kimi-code-2026-06-09-0-12-0-fb6901e1]]'
 source_type: kimi_code_changelog
 theme: mobile-desktop
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4 Mobile and Desktop changes in rust-v0.138.0]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-x-tray-fixes-when-app-starts-in-background-or-desktop-assistant-feature-is-toggl|x Tray Fixes when app starts in background or Desktop Assistant feature is toggled]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
 <!-- chronolog:end -->
 

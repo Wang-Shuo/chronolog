@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56707004db445bb8575cdaee7934efa74c35e6fccdd34b41920d52a3e6b730e3
+machine_hash: f57f2f3a7f0a30e87c95a6a479a6e6f2accc2e374c053c80e0c0914cec53a096
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in v1.17.14
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show
-  draft pull requests with a distinct draft status instead of displaying them as open]]'
 - '[[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich
   PATH from the user''s login shell at startup, so shell commands find…]]'
+- '[[Changes/Raycast/2026-07-03-windows-management-you-can-now-minimize-current-window-with-the-minimize-command|Windows
+  Management : You can now minimize current window with the Minimize command]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
   /review pr back to a fast single-pass review]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-06-v1-17-14-6f861196|opencode-2026-07-06-v1-17-14-6f861196]]'

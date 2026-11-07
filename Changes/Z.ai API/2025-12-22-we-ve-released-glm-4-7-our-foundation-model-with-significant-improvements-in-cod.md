@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bee44eb8e04f54c70ff311cc7ffd5ebaea9463050cb4a09993ee2059a10ef136
+machine_hash: 840f37365af9d955b7f3d2df29aef23683f1ad54b22bce5d65d9c367875ec3f4
 product: zai-api
 product_name: Z.ai API
 record:
@@ -62,8 +62,7 @@ record:
   title: We’ve released GLM-4.7, our foundation model with significant improvements…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
+- '[[Changes/Devin/2025-12-19-copy-pr-context-button|Copy PR Context Button]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
   /context command to visualize token usage]]'
 - '[[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build

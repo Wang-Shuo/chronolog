@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f582b8874d57ff9d20f582035bb8fea3c07427e408d78e7c841cef6641f61c1
+machine_hash: 9815a117fe234cd50b6cec77efa7c4b99721b8ade3b32ba404b318c3ae1baccf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
-  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 - '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
   Experience changes in v3.17.0]]'
+- '[[Changes/LM Studio/2025-05-23-3-interface-experience-changes-in-lm-studio-0-3-16|3
+  Interface Experience changes in LM Studio 0.3.16]]'
 - '[[Changes/Lovable/2025-05-24-improvements|Improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
 source_type: github_releases

@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29117576ce0281646a773e0fb22a3d434f1d79e847925ec7725bfc5a3c89f1ca
+machine_hash: a78382a02e33c5789ecee33a89dad32eea1f55e0228bda636eb1d49e3302fdcc
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Account and Access changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
-  Support staging OAuth client ID overrides @apanasenko-oai]]'
 - '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
   the web OAuth login dialog so the order of steps is unambiguous]]'
+- '[[Changes/Devin/2026-06-19-gitlab-user-identity-linking|GitLab User Identity Linking]]'
 - '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
   users opening a shared or public chat are no longer redirected to sign…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'

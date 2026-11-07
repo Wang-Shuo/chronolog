@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a6f885e8c337629d0e7a5503c1d1b18e3cbcb59115cbc23b12fca79d715adb1c
+machine_hash: 9663c06866450a3c1281c6454e2b49075e475889c192f250d24b043d7a106c99
 product: descript
 product_name: Descript
 record:
@@ -51,9 +51,9 @@ record:
   title: Speaker Label and Speaker Menu changes
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The
-  escape key no longer resets your Tool selection]]'
 - '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
+- '[[Changes/Superwhisper/2023-12-15-show-app-icon-in-dock-when-onboarding-or-settings-is-open|Show
+  app icon in dock when onboarding or settings is open]]'
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
   previews: We made it easier to see what codeblock you''re @''ing]]'
 source_release: '[[Releases/Descript/descript-2023-12-18-658093f19d17b2db493d619c-9a7277e4|descript-2023-12-18-658093f19d17b2db493d619c-9a7277e4]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
-- Later: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed a confusing tooltip in the media library showing In-point selection…]]
+- Later: 2023-12-18 · Superwhisper · [[Changes/Superwhisper/2023-12-18-sidebar-hide-button|Sidebar hide button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

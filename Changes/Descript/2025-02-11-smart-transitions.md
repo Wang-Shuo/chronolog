@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 068368ce38d3cd63c3eb2d92fa69630e9472b09a2698026bdf3be5c24c6efe3f
+machine_hash: 06ebb9fe310901938e49cdebb71ef2855deef9a310f257abcf516284eef1ab8d
 product: descript
 product_name: Descript
 record:
@@ -55,9 +55,9 @@ record:
   title: Smart Transitions
   type: change
 related_changes:
-- '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
   keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
+- '[[Changes/Superwhisper/2025-02-10-onboarding-crash-fix|Onboarding Crash Fix]]'
 - '[[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]'
 source_release: '[[Releases/Descript/descript-2025-02-11-67ab977b354800cdb65c181c-b474aa11|descript-2025-02-11-67ab977b354800cdb65c181c-b474aa11]]'
 source_type: canny_changelog
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-09 · Cline · [[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]
-- Later: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to your doc 👀]]
+- Earlier: 2025-02-10 · Superwhisper · [[Changes/Superwhisper/2025-02-10-onboarding-crash-fix|Onboarding Crash Fix]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-chore-onboarding-language-translations-by-timothycarambat-in-https-github-com-mi|CHORE Onboarding language translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

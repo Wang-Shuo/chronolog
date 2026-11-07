@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43e8203139fe02bcdd3895bdce02d025bad9c3e11715501663087d283ae26b38
+machine_hash: d9f5c49af8dcc0342413a2a1165538a070bc10daf36c1efc244e7f974a178f77
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer Workflow changes in v2.1.81]]
-- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer Workflow changes in v1.3.0]]
+- Later: 2026-03-20 · Raycast · [[Changes/Raycast/2026-03-20-misc-access-command-details-from-search-home|Misc: Access command details from search/home]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

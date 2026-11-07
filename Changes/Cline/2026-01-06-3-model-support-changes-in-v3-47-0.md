@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b426c4026e968e6c67d34b1e6c654fc7f5c76e6517db6ceed345b10c4a99ef2
+machine_hash: 8cfb11023658a4b0fc64cbf87e40e2ad16598a011c9623318f918dc101db6539
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in v3.47.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-04-3-model-support-changes-in-v1-1-1|3 Model Support
-  changes in v1.1.1]]'
 - '[[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support
   changes in v1.1.2]]'
 - '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
   Filter out empty messages and reasoning for Anthropic API compatibility]]'
+- '[[Changes/Superwhisper/2026-01-05-new-parakeet-multi-language-model-experimental-feature|NEW
+  Parakeet Multi-language model (Experimental feature)]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.47.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core Filter out empty messages and reasoning for Anthropic API compatibility]]
+- Earlier: 2026-01-05 · Superwhisper · [[Changes/Superwhisper/2026-01-05-new-parakeet-multi-language-model-experimental-feature|NEW Parakeet Multi-language model (Experimental feature)]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model Support changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

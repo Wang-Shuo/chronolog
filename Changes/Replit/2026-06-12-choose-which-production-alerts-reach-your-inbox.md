@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: dfd7ad3d12ae800c57c10eab3bfd1434e18f122c0cc52b7305323a945363963c
+machine_hash: 390dafa48310fc861d04e1ddfcbce955f48f528107172b3e558ff4a1988697c0
 product: replit
 product_name: Replit
 record:
@@ -63,12 +63,12 @@ record:
   title: Choose which production alerts reach your inbox
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
-  and Privacy changes in v2.1.172]]'
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
-  you push]]'
 - '[[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users
   can select the sandbox grouping strategy]]'
+- '[[Changes/Raycast/2026-06-12-ai-tool-call-permission-description-is-parsed-as-markdown-allowing-for-richer-co|AI
+  : Tool call permission description is parsed as Markdown, allowing for richer content]]'
+- '[[Changes/Raycast/2026-06-12-ai-tool-call-permission-description-is-parsed-as-markdown-allowing-for-richer-co-eb1600|AI
+  : Tool call permission description is parsed as Markdown, allowing for richer content]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'
 source_type: replit_changelog
 theme: safety-privacy
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users can select the sandbox grouping strategy]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-ai-tool-call-permission-description-is-parsed-as-markdown-allowing-for-richer-co-eb1600|AI : Tool call permission description is parsed as Markdown, allowing for richer content]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-safety-and-privacy-changes-in-v1-0-62|2 Safety and Privacy changes in v1.0.62]]
 <!-- chronolog:end -->
 

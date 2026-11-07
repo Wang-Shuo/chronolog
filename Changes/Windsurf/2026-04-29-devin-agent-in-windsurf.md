@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 77735bbfb8bce109215acf812df31403fc1aad1cdd3b4483e89053a668df26c6
+machine_hash: ac55a0b9707d8543c1aa460a258bb6106aa52462631e1b19f7eb82002ddf5878
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,12 +50,12 @@ record:
   title: Devin Agent in Windsurf
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press
-  ctrl+x → b to move the current running task or shell command to the background]]'
 - '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
   Agent Mode changes in Build programmatic agents…]]'
 - '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
   1.14.0]]'
+- '[[Changes/Superwhisper/2026-04-29-added-support-for-pi-coding-agent|Added support
+  for Pi coding agent]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-29-v2-1-29-94aaef5d|windsurf-2026-04-29-v2-1-29-94aaef5d]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in 1.14.0]]
+- Earlier: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-added-support-for-pi-coding-agent|Added support for Pi coding agent]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent Mode changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

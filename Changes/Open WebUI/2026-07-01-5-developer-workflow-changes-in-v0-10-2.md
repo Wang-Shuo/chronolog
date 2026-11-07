@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75db70c86d56c1dd45857ab52b570172932827279acdb8e42aab0238ad27c3ef
+machine_hash: 7c97bac996522492d3f49622bd69b918a921534f5ce4da77f94af31489184079
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,8 +63,8 @@ record:
   title: 5 Developer Workflow changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
-  agents launched from claude agents now commit, push, and open a draft…]]'
+- '[[Changes/Devin/2026-07-01-auto-review-scoped-to-your-prs|Auto-Review Scoped to
+  Your PRs]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
   Developer Workflow changes in v1.0.68]]'
 - '[[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show

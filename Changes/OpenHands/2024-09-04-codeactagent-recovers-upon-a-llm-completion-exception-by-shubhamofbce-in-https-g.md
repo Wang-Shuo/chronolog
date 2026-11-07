@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb475b21591ab31cbea85df145304e43ca401eb22abbad1c26315a44f5b5ac95
+machine_hash: c7355abd5f19214ac54f69ffd3348fb3c2692f3cad1ea2f701bc8a12b3b44866
 product: openhands
 product_name: OpenHands
 record:
@@ -52,12 +52,12 @@ record:
   title: CodeActAgent recovers upon a llm completion exception
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|\U0001F527
-  LaTeX Rendering Issue]]"
 - '[[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance
   improvements for autocomplete in large/mono repos]]'
 - '[[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience
   changes in 0.7.3]]'
+- '[[Changes/Superwhisper/2024-09-03-potential-fix-for-crash-on-language-selection-in-onboarding|Potential
+  fix for crash on language selection in onboarding]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience changes in 0.7.3]]
+- Earlier: 2024-09-03 · Superwhisper · [[Changes/Superwhisper/2024-09-03-potential-fix-for-crash-on-language-selection-in-onboarding|Potential fix for crash on language selection in onboarding]]
 - Later: 2024-09-05 · Open WebUI · [[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|🎨 UI Styling]]
 <!-- chronolog:end -->
 

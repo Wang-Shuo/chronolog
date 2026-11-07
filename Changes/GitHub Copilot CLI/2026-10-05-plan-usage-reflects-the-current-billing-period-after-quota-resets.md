@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 78d437434b0e60b7d3c53c84efc456f299806c732b4a3a4e51de9727ee610d94
+machine_hash: ee74602231ba9f156205c5bb864508b319d8b00bdbef6843ce7ce562a7baa6c6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Plan usage reflects the current billing period after quota resets
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
-  Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
+- '[[Changes/Raycast/2026-10-02-ai-purchase-additional-ai-credits-directly-in-the-app-on-eligible-individual-pla|AI:
+  Purchase additional AI credits directly in the app on eligible individual plans]]'
 - '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
   changes in v2026.9.8]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model changes in v2026.9.8]]
-- Later: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot Analytics - Cowork adoption and impact Web (Viva Insights)]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-pricing-model-changes-in-raycast-macos-2-6|2 Pricing Model changes in Raycast macos 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

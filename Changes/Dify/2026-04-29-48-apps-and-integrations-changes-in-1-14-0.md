@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8455746aead843a1c43549d5aa2fd1b05eab16c904ebee810d51e1de968b2adb
+machine_hash: dba4b53c7227e8faf7ba7e1597eac9e5a17716222f874f1dff7f6f56382ce4df
 product: dify
 product_name: Dify
 record:
@@ -171,12 +171,12 @@ record:
   title: 48 Apps and Integrations changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop
-  Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 - '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
   npm install @cursor/sdk to get started]]'
+- '[[Changes/Devin/2026-04-29-slack-trigger-message-in-sessions-list|Slack Trigger
+  Message in Sessions List]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: apps-integrations
@@ -316,8 +316,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run npm install @cursor/sdk to get started]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
+- Earlier: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-slack-trigger-message-in-sessions-list|Slack Trigger Message in Sessions List]]
+- Later: 2026-04-29 · Superwhisper · [[Changes/Superwhisper/2026-04-29-activation-apps-ui-and-indexing-overhaul|Activation Apps UI and indexing overhaul]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

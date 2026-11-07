@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4e0444a26a4a5c6daa2e086e7b7a5d72f404c045661074f06ffbac22692c821e
+machine_hash: 1662171ee7147b1dc1d0ac864a6a06e082c4d434bb3fcbe9fcd461a0b95537b1
 product: gemini
 product_name: Gemini
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-stream-for-gemini-now-available-aaee86-in-8678-https-github-com-langgenius-dify|Stream for Gemini now available…]]
-- Later: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity checks the --editor-model on launch now, same as main and weak models]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-2-model-support-changes-in-v1-2-3|2 Model Support changes in v1.2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

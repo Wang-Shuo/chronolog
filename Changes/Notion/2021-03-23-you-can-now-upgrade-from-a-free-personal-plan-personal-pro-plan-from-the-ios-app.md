@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9f22d1cec8178c32c8c3073a2a6241c9d6070f8dfaa7fad5b85afef864d2120
+machine_hash: 5bde3211ed961158f48f74bb301d3bcfda1bf57bb934bb039b9538cec3156af4
 product: notion
 product_name: Notion
 record:
@@ -42,12 +42,12 @@ record:
   title: Upgrade from a free Personal Plan → Personal Pro Plan from the iOS app
   type: change
 related_changes:
-- '[[Changes/Notion/2020-12-02-added-caption-support-for-code-blocks-on-mobile|Added
-  caption support for code blocks on mobile]]'
 - '[[Changes/Descript/2020-12-17-descript-now-has-support-for-macos-big-sur-this-comes-by-way-of-a-brand-new-vide|Big
   Sur Support and Performance Improvements]]'
 - "[[Changes/Notion/2021-01-27-better-dark-mode-settings|Better dark mode settings
   \U0001F526]]"
+- '[[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar:
+  Added support for Around to join meetings in the desktop app]]'
 source_release: '[[Releases/Notion/notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0|notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-better-dark-mode-settings|Better dark mode settings 🔦]]
+- Earlier: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar: Added support for Around to join meetings in the desktop app]]
 - Later: 2021-05-11 · Descript · [[Changes/Descript/2021-05-11-descript-now-supports-live-transcription-https-help-descript-com-hc-en-us-articl|Live Transcription in Windows App]]
 <!-- chronolog:end -->
 

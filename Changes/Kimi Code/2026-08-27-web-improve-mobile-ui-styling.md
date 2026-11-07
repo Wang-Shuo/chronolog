@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfac59b8f2806524ca823e8b651073d05c45688f3842694055fac2bc75967a46
+machine_hash: aec634375d1f4e43cf0111c41eee2dc4adaec9d4e7f703cb39d3355440c637c5
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,10 +41,10 @@ record:
   title: 'web: Improve mobile UI styling'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
-  Starting up on Windows. The Windows start script now creates the secret key…]]"
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
   Restrict macOS preference reads to full-disk policies @copyberry]]'
+- '[[Changes/AnythingLLM/2026-08-27-3-mobile-and-desktop-changes-in-v1-16-1|3 Mobile
+  and Desktop changes in v1.16.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
   builds on Windows create their scratch caches on first run, so cargo, go…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-27-0-39-0-fcb1a786|kimi-code-2026-08-27-0-39-0-fcb1a786]]'

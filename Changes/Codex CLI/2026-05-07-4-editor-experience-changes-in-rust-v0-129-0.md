@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6d7a86e0d06e009c0b7053c53059d63e7b6fb7ee58722b741a87b92fbce0561
+machine_hash: 3566725309b643b10f80484f16febc58a57a6f7c6673407e9c6ce6b2bc33f3db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Editor Experience changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-05-05-expanded-published-report-recipients-web-viva-insights|Expanded
-  published report recipients Web (Viva Insights)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-05-05-contextual-nudges-in-edge-offer-quick-page-summaries-in-copilot-chat-web-microso|Contextual
   nudges in Edge offer quick page summaries in Copilot Chat…]]'
+- '[[Changes/Raycast/2026-05-06-ai-haptics-for-stream-completion|AI: Haptics for stream
+  completion]]'
 - '[[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct
   dubbing transcripts seamlessly]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'

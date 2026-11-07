@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78a14fd7d2fbd70c9928ef92e71900b5cb8da864ed353483d24aeb8406574f59
+machine_hash: 436d24b60fa1464a25482c876d10271196c3fd6a2ef1592a9bd72ef934dae398
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: Ollama models can now be used directly in ChatGPT Desktop, so you can keep…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
-  Support changes in v1.0.83]]'
 - '[[Changes/OpenCode/2026-09-04-core-fixes-issue-of-gpt-6-astra-not-showing-up-for-openai-subscription-users|Core
   Fixes issue of gpt-6-astra not showing up for openai subscription users]]'
 - '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
   Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
+- '[[Changes/Superwhisper/2026-09-04-significant-mode-model-switching-improvements|Significant
+  mode/model switching improvements]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6|ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]
+- Earlier: 2026-09-04 · Superwhisper · [[Changes/Superwhisper/2026-09-04-significant-mode-model-switching-improvements|Significant mode/model switching improvements]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support changes in v2026.9.2]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cebd276fad2541b2b0dae2a21b0a30bbd51f05d93f062411f345c3011490c797
+machine_hash: 78ca5dd7e60ce60b5910df2606db287a35706e691dff710da2f3fa53b1c9ca65
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety and Privacy changes in v2.1.286]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission prompts remain answerable after resuming interrupted sessions]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-hardware-accelerated-emulators-in-sessions|Hardware-Accelerated Emulators in Sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

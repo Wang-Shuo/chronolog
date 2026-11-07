@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60e628b2aaebb5c5718e42bc3c6048041e1fe6ccf7b024b699dc92d49f033b72
+machine_hash: d0ba2c5adbfa97fef1401e4cdad4570b27db2df96b87a3cb460244472a3fa93e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     not only…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
-  Surface realtime voice catalog failures in the TUI @etraut-openai]]'
-- '[[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add
-  live voice conversations to your app with GPT Live]]'
+- '[[Changes/Superwhisper/2026-10-02-new-feature-modes-now-you-can-choose-how-your-dictation-is-written-from-the-home|New
+  Feature: Modes!]]'
+- '[[Changes/Superwhisper/2026-10-02-2-voice-and-audio-changes-in-superwhisper-macos-2-19-0|2
+  Voice and Audio changes in Superwhisper macOS 2.19.0]]'
 - '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 932bb444c987ef7ec391144e49e3a9a15ec26198fd479877cae07d26686ddbc4
+machine_hash: 9527cb20941485d327643519f3dd1c46e1e4da2c869c18740a95720c8da73334
 product: open-webui
 product_name: Open WebUI
 record:
@@ -79,10 +79,10 @@ record:
   title: 8 Model Support changes in v0.8.6
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes
-  in v3.68.0]]'
 - '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
   changes in v0.31.0]]'
+- '[[Changes/LM Studio/2026-02-27-connect-to-remote-instances-of-lm-studio-load-your-models-and-use-them-as-if-the|Connect
+  to remote instances of LM Studio, load your models, and use them as if they…]]'
 - '[[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM
   2((source link) LFM2 is a family of hybrid models designed…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-01-v0-8-6-github-291846033-263bca05|open-webui-2026-03-01-v0-8-6-github-291846033-263bca05]]'
@@ -138,7 +138,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.6
 ## Nearby in Model Support
 
 - Earlier: 2026-02-27 · Ollama · [[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM 2((source link) LFM2 is a family of hybrid models designed…]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model Support changes in rust-v0.107.0]]
+- Later: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-11-model-support-changes-in-v1-11-1|11 Model Support changes in v1.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

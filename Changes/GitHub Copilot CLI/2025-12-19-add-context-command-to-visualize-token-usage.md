@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbbd6adbaefc509c6979e64e5b25d929f48c2ef4c17c5d8e83f0363d421ce957
+machine_hash: 48135f100171ffd91715e5aee8a12054d8119a9dc3127a88f4e1ebd1bdf79add
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,10 @@ record:
   title: Add `/context` command to visualize token usage
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935
-  exec-server: additional context for errors]]'
 - '[[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]'
 - '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
   /context command visualization with grouped skills and agents by source…]]'
+- '[[Changes/Devin/2025-12-19-copy-pr-context-button|Copy PR Context Button]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-19-v0-0-372-github-271893970-70917d7f|github-copilot-cli-2025-12-19-v0-0-372-github-271893970-70917d7f]]'
 source_type: github_releases
 theme: context-window
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-copy-pr-context-button|Copy PR Context Button]]
 - Later: 2025-12-22 · Z.ai API · [[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve released GLM-4.7, our foundation model with significant improvements…]]
 <!-- chronolog:end -->
 

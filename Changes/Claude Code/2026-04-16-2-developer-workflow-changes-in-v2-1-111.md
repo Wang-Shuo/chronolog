@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4434855f599e5786ad86f74e352dced6f27135f8d6242f7f92c2d02cb118964
+machine_hash: 29eeab60d3ff1c965479ede8fbc19ceb93f4ec32032cdacd5d691319d4c83d2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
-  the Agents Window, canvases are durable artifacts that live in the side panel…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
   Developer Workflow changes in v1.0.27]]'
 - '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
   Workflow changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General
+  : "Send Feedback" tray command now opens the feedback window directly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-general-send-feedback-tray-command-now-opens-the-feedback-window-directly|General : "Send Feedback" tray command now opens the feedback window directly]]
 - Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]
 <!-- chronolog:end -->
 

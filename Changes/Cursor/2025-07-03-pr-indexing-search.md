@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9f43a8d566795e22eef4c5a1f8752fb31a98d3b22c1816af8382a0291e21c36e
+machine_hash: cbbc8239341fa13239787f2a76a80d8c187a1777ae9d2cb10877f7ebb7d73ffd
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: PR indexing & search
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat:
-  add a flask_context_manager]]'
+- '[[Changes/LM Studio/2025-06-25-stream-tool-call-argument-tokens-to-the-ui-as-they-are-generated|Stream
+  tool call argument tokens to the UI as they are generated]]'
 - '[[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama
   will now limit context length to what the model was trained against to avoid…]]'
 - '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced thinking tokens support]]
-- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-style-config-var-update-styling-classes-to-use-design-system-tokens-by-minamiyam|style(config-var): update styling classes to use design system tokens]]
+- Later: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-built-in-browser-tool-https-docs-anythingllm-com-features-browser-tool-you-can-n|Built in Browser Tool((source link) You…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f5c14b03c7081d3c73c2c44b0072063a5d0f5ba430ff1776e5ad5ee3851466a
+machine_hash: b749368b98496f4e6159780bc68c94fe2a723cf80f40b15743f0126d3b60eecd
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card
-  numbers for easier navigation in PDFs or decks]]'
+- '[[Changes/AnythingLLM/2025-04-18-2-interface-experience-changes-in-v1-8-0|2 Interface
+  Experience changes in v1.8.0]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
 - '[[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-22 · Gamma · [[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just right-click from the filmstrip or tap the ... menu on a card and choose…]]
-- Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom row menu]]
+- Later: 2025-04-23 · Recraft · [[Changes/Recraft/2025-04-23-precision-matters-when-editing-specific-parts-of-an-image-with-recraft-s-updated|Updated selection panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c95094d01a090e5e02c0307d4eb9d79cc851b7cb7c529378708027c6479fd9ed
+machine_hash: c915d7f41a4e7dae99409a4b3818e1814c93c1032813090e0612f446365e0bff
 product: cline
 product_name: Cline
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in v3.88.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama
-  create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]'
 - '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
   changes in v0.30.2]]'
+- '[[Changes/Raycast/2026-06-03-ai-settings-added-ability-to-globally-disable-ai-models-to-settings-ai-models|AI
+  Settings : Added ability to globally disable AI models to Settings  AI  Models]]'
 - '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
   Support changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cline/cline-2026-06-05-v3-88-0-github-335060275-f80c9e21|cline-2026-06-05-v3-88-0-github-335060275-f80c9e21]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 51a4dbf50c2849b408195fe3fea25edc8c344c544a23375bb72b96081f6c223d
+machine_hash: 5da97d959abe3d7f08acdd49713b8ae25d9360eead3cd5d205e2f0c07a072504
 product: descript
 product_name: Descript
 record:
@@ -61,10 +61,10 @@ record:
   title: Claude Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM
-  2((source link) LFM2 is a family of hybrid models designed…]]'
-- '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
-  changes in v0.8.6]]'
+- '[[Changes/AnythingLLM/2026-03-02-11-model-support-changes-in-v1-11-1|11 Model Support
+  changes in v1.11.1]]'
+- '[[Changes/AnythingLLM/2026-03-02-you-can-now-run-complex-multi-step-tool-calls-with-your-llm-provider-and-model|Run
+  complex, multi-step tool calls with your LLM provider and model]]'
 - '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
   Support changes in rust-v0.107.0]]'
 source_release: '[[Releases/Descript/descript-2026-03-02-69a5fea964720fb1ccd2c350-123a08f0|descript-2026-03-02-69a5fea964720fb1ccd2c350-123a08f0]]'

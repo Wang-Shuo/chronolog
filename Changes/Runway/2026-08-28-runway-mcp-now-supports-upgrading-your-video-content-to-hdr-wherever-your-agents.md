@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: caf5d58d726d07bb27def1146974cc586176d8b3746a7864cf65b8c322f03160
+machine_hash: a49817acd7693b52b348a6035c421b21b420081050922d0ce7bd43c26d38c5bb
 product: runway
 product_name: Runway
 record:
@@ -54,12 +54,11 @@ record:
   title: HDR Video Conversion on Runway MCP
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
-  Release]]'
 - '[[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input
   changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal
   Input changes in v0.11.1]]'
+- '[[Changes/Krea/2026-08-27-seedance-studio|Seedance Studio]]'
 source_release: '[[Releases/Runway/runway-2026-08-28-2026-08-28-hdr-video-conversion-on-runway-mcp-18a9c396|runway-2026-08-28-2026-08-28-hdr-video-conversion-on-runway-mcp-18a9c396]]'
 source_type: runway_changelog
 theme: multimodal
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal Input changes in v0.11.1]]
+- Earlier: 2026-08-27 · Krea · [[Changes/Krea/2026-08-27-seedance-studio|Seedance Studio]]
 - Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 

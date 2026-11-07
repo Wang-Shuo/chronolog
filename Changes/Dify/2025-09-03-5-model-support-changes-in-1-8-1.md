@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 482b1eead6fc3edd149da826b6044d215b20f50e0c5ff5cd89dfdd9a585eca0d
+machine_hash: 287b92670aa91f6121ece4c63fe93a0d1a6638f0639c3bb5d3e411dc525c8b05
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 ## Nearby in Model Support
 
 - Earlier: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use experimental reasoning summary]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-5-model-support-changes-in-v0-3-0|5 Model Support changes in v0.3.0]]
+- Later: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-2-model-support-changes-in-raycast-ios-1-0-12|2 Model Support changes in Raycast ios 1.0.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd41bb3bc5d3ee283708aa3ff359a62c4ec63816e49bf11640be85fbe6d8c453
+machine_hash: 434e65b79cdecbe90d5a446c19e671fecd2c1d21a133280ba8c9ec2ab6956b9e
 product: descript
 product_name: Descript
 record:
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

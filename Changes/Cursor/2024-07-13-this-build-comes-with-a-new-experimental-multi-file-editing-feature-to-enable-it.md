@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 74e1c9129098f1b91fe7900016af46268ad84a7308f2768c614de9dbad703769
+machine_hash: 1fa176ec38af7152a8a0311d48fe48df00a7a0c3ad7463475472088730193703
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,9 @@ record:
   title: Composer (beta)
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
-  changes in 0.6.12]]'
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
+- '[[Changes/Devin/2024-06-30-playbook-editing|Playbook Editing]]'
+- '[[Changes/Devin/2024-06-30-playbooks-library-past-runs|Playbooks Library & Past
+  Runs]]'
 - '[[Changes/Descript/2024-07-02-editor-updates|Editor updates]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21|cursor-2024-07-13-0-37-x-https-cursor-com-changelog-0-37-x-eb934a21]]'
 source_type: cursor_changelog

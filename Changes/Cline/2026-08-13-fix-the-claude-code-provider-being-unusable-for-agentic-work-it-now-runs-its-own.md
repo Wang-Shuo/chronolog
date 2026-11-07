@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed40833071a3772437656865045b5c2decd5fb2bcb675b568ff331593bd11a4a
+machine_hash: 1187b76102852bdac87a31ed04d12dbcff437598f88f1fcdf246299d957f2ce1
 product: cline
 product_name: Cline
 record:
@@ -48,9 +48,10 @@ record:
   title: Fix the Claude Code provider being unusable for agentic work
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]'
 - '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
   sandbox: IPv6 literals in network domain lists are now bracketed…]]'
+- '[[Changes/Devin/2026-08-12-security-profile-safeguards-in-the-automation-editor|Security
+  Profile Safeguards in the Automation Editor]]'
 - '[[Changes/Claude Code/2026-08-13-9-safety-and-privacy-changes-in-v2-1-232|9 Safety
   and Privacy changes in v2.1.232]]'
 source_release: '[[Releases/Cline/cline-2026-08-13-v4-1-9-github-369742457-b48c0c59|cline-2026-08-13-v4-1-9-github-369742457-b48c0c59]]'

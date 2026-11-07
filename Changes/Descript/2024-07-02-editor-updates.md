@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b93ecde48ee76b4daf0bde6468a1896a76d464431d49da61b36d1ec77299b727
+machine_hash: b9ca6e3ecd068894021004bf75941dd409b5c8d96f50a9c7e30f22d69283b7e4
 product: descript
 product_name: Descript
 record:
@@ -46,12 +46,11 @@ record:
   title: Editor updates
   type: change
 related_changes:
-- '[[Changes/Notion/2024-06-25-better-find-cmd-f-can-now-find-hidden-content-in-collapsed-toggles-or-within-dat|Better
-  “find”: Cmd+f can now find hidden content in collapsed toggles or within databases]]'
-- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
-  changes in 0.6.12]]'
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
+- '[[Changes/Devin/2024-06-30-use-devin-s-editor-and-shell|Use Devin''s Editor and
+  Shell]]'
+- '[[Changes/Devin/2024-06-30-playbook-editing|Playbook Editing]]'
+- '[[Changes/Devin/2024-06-30-playbooks-library-past-runs|Playbooks Library & Past
+  Runs]]'
 source_release: '[[Releases/Descript/descript-2024-07-02-668418cb98cc7426793646c1-467c3990|descript-2024-07-02-668418cb98cc7426793646c1-467c3990]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
+- Earlier: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-playbooks-library-past-runs|Playbooks Library & Past Runs]]
 - Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
 <!-- chronolog:end -->
 

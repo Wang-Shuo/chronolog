@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7a0c0fab4408a80d599cd6806ba60fc4aced9efade365c22b5e1ba7b4cf723b5
+machine_hash: 7cbb4f6e30842addc66251571aaadd8d32eabc7656205c828db003cd281ab77d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-02-28 · Replit · [[Changes/Replit/2025-02-28-agent-v2|Agent v2]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes in 0.28.0]]
+- Later: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-new-thinking-agent-animation-ui-by-shatfield4-in-https-github-com-mintplex-labs|New thinking/agent animation + UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

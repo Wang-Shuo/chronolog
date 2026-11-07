@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 717b37e4e0e016f22372aee3b7a1d34e36399d5d999e6765f71195e8204c692b
+machine_hash: 948a031b8401d2e9a0f3d403bf9c75337856b83f017650bdfdbae19a6d06aa4f
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,9 @@ record:
   title: Set a goal for Lovable
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
-  pin a favorite sidebar page as the home route]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
   a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
+- '[[Changes/Devin/2026-08-28-multi-select-tag-filters|Multi-Select Tag Filters]]'
 - '[[Changes/v0/2026-08-28-6-interface-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|6
   Interface Experience changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-30-2026-08-30-0275ac40|lovable-2026-08-30-2026-08-30-0275ac40]]'

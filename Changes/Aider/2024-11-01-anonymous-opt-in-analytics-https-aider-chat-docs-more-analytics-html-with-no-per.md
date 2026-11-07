@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 952d6312491b13b304c3ea01abfa9e282264d6085ed1a93c7becc919bc8372c9
+machine_hash: 176a687d839416d8f45a83474ad9c501f5dd3a1d1056c1790e4d2009ca478cef
 product: aider
 product_name: Aider
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|📁 Folders Support for Chats: Organize your chats better by grouping them into folders]]
-- Later: 2024-11-06 · Gamma · [[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme sharing link]]
+- Later: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-you-ll-receive-warnings-if-devin-is-about-to-sleep|You'll receive warnings if Devin is about to sleep]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

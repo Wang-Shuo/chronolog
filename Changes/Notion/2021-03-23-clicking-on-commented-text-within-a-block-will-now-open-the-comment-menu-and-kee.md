@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95aeb1bf3578453f7de2984914f7427db3abe3a0108d08bdacc260a095a3d7b
+machine_hash: a2c7c280a1b33d18ae186ae89a392cb2659084d32d9901eff9a0503555996d59
 product: notion
 product_name: Notion
 record:
@@ -45,10 +45,10 @@ record:
     and keep…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-descript-on-mac-now-allows-you-to-switch-between-screen-capture-and-fullscreen-r|Fullscreen
-  webcam recording (Mac)]]'
-- '[[Changes/Descript/2021-02-18-now-when-performing-rendering-operations-such-as-export-publishing-or-flatten-fi|Use
-  original media when rendering files (by default)]]'
+- '[[Changes/Raycast/2021-02-18-2-interface-experience-changes-in-raycast-macos-v1-1-8-0|2
+  Interface Experience changes in Raycast macos-v1 1.8.0]]'
+- '[[Changes/Raycast/2021-03-08-navigation-pressing-the-delete-backspace-key-to-go-back-now-also-work-on-screens|Navigation:
+  Pressing the delete (backspace) key to go back now also work on screens…]]'
 - "[[Changes/Notion/2021-03-10-organize-your-shred-pages|Organize your shred pages
   \U0001F9F9]]"
 source_release: '[[Releases/Notion/notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0|notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-organize-your-shred-pages|Organize your shred pages 🧹]]
-- Later: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-you-can-now-set-the-language-of-a-code-block-without-leaving-your-keyboard-by-us|You can now set the language of a code block without leaving your keyboard, by using…]]
+- Later: 2021-04-06 · Raycast · [[Changes/Raycast/2021-04-06-quick-selection|Quick selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

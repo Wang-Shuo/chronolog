@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97674db1d0fdb586f5d1a071b56cd8f9253f4d70352b6bec6e1b55397090cbc4
+machine_hash: de35156987cfb54761a1f3de7aaded2a222e68a179e6bb2af19c571bf4a3bcec
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Search and Browsing changes in v2.2.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
-  Web Search settings save. Admins can now save Web Search settings such…]]"
-- '[[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search
-  and Browsing changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-cmd-p-search-and-show-chat-statuses-while-browsing|AI
+  Chat : Improved cmd+P search and show chat statuses while browsing]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-improved-ctrl-p-search-and-show-chat-statuses-while-browsing|AI
+  Chat : Improved ctrl+P search and show chat statuses while browsing]]'
 - '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
   Add model-gated literature search to standalone web search @rhan-oai]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-29-v2-2-1-8378da57|opencode-2026-10-29-v2-2-1-8378da57]]'

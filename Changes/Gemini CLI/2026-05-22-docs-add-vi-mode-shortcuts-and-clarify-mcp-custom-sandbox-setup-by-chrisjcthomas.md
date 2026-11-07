@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 722437c5eaf23b6a3ad738bcb0ed2183ad6d9e4a91b5d579c9ced1c61d6a9793
+machine_hash: d4db096a79a8141503a0d3f0b0f893674b03807f7ab97a464e4fb755ea0d3fb3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'docs: add vi mode shortcuts and clarify MCP/custom sandbox setup'
   type: change
 related_changes:
-- '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
-  now works with more security and compliance tools]]'
-- '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17
-  Safety and Privacy changes in rust-v0.133.0]]'
 - '[[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety
   and Privacy changes in v2.1.149]]'
+- '[[Changes/Devin/2026-05-22-inline-repo-permission-toggle|Inline Repo Permission
+  Toggle]]'
+- '[[Changes/Devin/2026-05-22-automation-sessions-now-appear-in-a-dedicated-automations-involving-you-sidebar|Automation
+  sessions now appear in a dedicated "Automations involving you" sidebar…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety and Privacy changes in v2.1.149]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-automation-sessions-now-appear-in-a-dedicated-automations-involving-you-sidebar|Automation sessions now appear in a dedicated "Automations involving you" sidebar…]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-safety-and-privacy-changes-in-v1-0-52|2 Safety and Privacy changes in v1.0.52]]
 <!-- chronolog:end -->
 

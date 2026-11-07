@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 504acd03391c7ce4753266b68f8cf428d479e024e7af74f0c77b523afc782035
+machine_hash: 6222d39b022a4724cc7262af527e59293264e0187db730cfbff4b832f4a25407
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -64,10 +64,10 @@ record:
   title: 11 Interface Experience changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
-  Interface Experience changes in rust-v0.142.0]]'
 - '[[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop
   showing unread dots on cancelled or failed sessions in the web sidebar]]'
+- '[[Changes/Superwhisper/2026-06-22-2-interface-experience-changes-in-superwhisper-windows-1-5-1|2
+  Interface Experience changes in Superwhisper Windows 1.5.1]]'
 - '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
   Experience changes in v2.1.187]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

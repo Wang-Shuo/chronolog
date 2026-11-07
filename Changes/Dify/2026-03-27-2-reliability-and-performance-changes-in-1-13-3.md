@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5e4b0b85b4ad24f64b4436676d9d0da7c2e0ec912c6af99d8c23ca749d82df7
+machine_hash: 6f7b135e8d401cf4e03dbc41e32d2811aec26ea0ef88c867d104c9d71cfae0fe
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,11 @@ record:
   title: 2 Reliability and Performance changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This
-  month, we have a champagne problem]]'
-- '[[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core
-  Skip snapshotting files larger than 2MB to improve performance]]'
-- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
-  local SSE event streaming in worker for improved performance]]'
+- '[[Changes/Superwhisper/2026-03-26-4-reliability-and-performance-changes-in-superwhisper-windows-1-3-4|4
+  Reliability and Performance changes in Superwhisper Windows 1.3.4]]'
+- '[[Changes/Devin/2026-03-27-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Devin/2026-03-27-test-recording-viewer|Test Recording Viewer]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: reliability-performance
@@ -97,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass local SSE event streaming in worker for improved performance]]
+- Earlier: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-test-recording-viewer|Test Recording Viewer]]
 - Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama on Apple silicon is now built((source link) on top…]]
 <!-- chronolog:end -->
 

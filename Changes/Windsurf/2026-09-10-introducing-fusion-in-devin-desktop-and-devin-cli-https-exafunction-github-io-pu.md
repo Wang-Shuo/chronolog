@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f52e124a9ff5ac13d2998e90dfa1670dcaa79d7c112657630984ac9d65449e99
+machine_hash: f6e1f3b207b56c615c0788acee0cc3c1d657fdd63264d372bd958ffcba1c7bc3
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,10 +41,10 @@ record:
   title: '[![Introducing Fusion in Devin Desktop and Devin…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
-  Mobile and Desktop changes in rust-v0.154.0]]'
 - '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
   or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
+- '[[Changes/Superwhisper/2026-09-09-superwhisper-is-now-available-on-android-tap-the-floating-bubble-to-dictate-into|Superwhisper
+  is now available on Android]]'
 - '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
   packages built on Windows failed with a misleading error. A SKILL.md…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-10-v3-10-23-4196ed90|windsurf-2026-09-10-v3-10-23-4196ed90]]'

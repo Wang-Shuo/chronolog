@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06c8830ece97f26530f25360401a0454f8e87c7d2e6f6889e5a9cc5f3337db37
+machine_hash: 3959d8b46a91bcdb1fb276c0311ef1cf2b49f690fc93cbd0e293e2dd4579ed6f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,12 +63,12 @@ record:
   title: 10 Safety and Privacy changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar):
-  start a new conversation in the row''s sandbox (OHE-3689)]]'
 - '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
   your dot]]'
 - '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
   Marketplace tab and the pages of plugins from third party developers now show…]]'
+- '[[Changes/Superwhisper/2026-10-28-2-safety-and-privacy-changes-in-superwhisper-macos-3-1-0|2
+  Safety and Privacy changes in Superwhisper macOS 3.1.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -132,7 +132,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The Marketplace tab and the pages of plugins from third party developers now show…]]
+- Earlier: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-2-safety-and-privacy-changes-in-superwhisper-macos-3-1-0|2 Safety and Privacy changes in Superwhisper macOS 3.1.0]]
 - Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan from the project chat]]
 <!-- chronolog:end -->
 

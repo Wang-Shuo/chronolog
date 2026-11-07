@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3c5604e583717f95ac58fbd3e2ae0e0218984b8c47e1e468673735973ad8c23b
+machine_hash: 526850d22958f96e86b864c5ca3d6fb2c4a9fbacae9a42c2c8beb131df006e1b
 product: replit
 product_name: Replit
 record:
@@ -60,8 +60,8 @@ record:
   title: Use Replit from Claude
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting
+  in Webapp Comments]]'
 - '[[Changes/Replit/2026-06-19-integrations|Integrations]]'
 - '[[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP
   servers: Apollo and Black Forest Labs]]'
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting in Webapp Comments]]
+- Later: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate AWS Sdk to OpenAI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

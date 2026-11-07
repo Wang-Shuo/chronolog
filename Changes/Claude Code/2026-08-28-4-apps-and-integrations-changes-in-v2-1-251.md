@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c36944bfa7cd82cbd90bf1a1fee0ffa7e8ca466f3e6d67e404db500e85f85cc3
+machine_hash: e536d99d49b6de5da174a6dc6ff0fbc77e98d43e1cca3a12c9e870247cf62e30
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect multiple Google accounts to ChatGPT]]
-- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more with Gamma’s API and connectors]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-new-mcp-marketplace-servers|New MCP Marketplace Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

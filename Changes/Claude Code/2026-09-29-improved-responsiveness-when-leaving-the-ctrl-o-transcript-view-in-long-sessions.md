@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3fb4f5a9c29906abc1b0a6eee9e792e69503e927aa70a671f057070390e30fe
+machine_hash: 8414d101727a1a039821cf650b17510cd76c209777cd46e62f5760ea5e538088
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Improved responsiveness when leaving the ctrl+o transcript view in long sessions…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-you-can-now-switch-the-sidebar-to-show-only-archived-conversations-from-the-disp|Switch
-  the sidebar to show only archived conversations from the Display Options menu…]]'
-- '[[Changes/Google Antigravity/2026-09-28-you-can-now-delete-any-project-directly-from-the-overflow-menu-in-its-sidebar-he|Delete
-  any project directly from the overflow menu in its sidebar header]]'
 - '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
   Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
+- '[[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended|Open
+  With… : Fixed the menu initially selecting an unrelated app before recommended…]]'
+- '[[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended-e7ef59|Open
+  With… : Fixed the menu initially selecting an unrelated app before recommended…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3 Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]
+- Earlier: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-open-with-fixed-the-menu-initially-selecting-an-unrelated-app-before-recommended-e7ef59|Open With… : Fixed the menu initially selecting an unrelated app before recommended…]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4 Interface Experience changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 3d08e89e7a57c22c037c8ec2873b2ae0690e42f0d0f52ef403c9329948404246
+machine_hash: 122ad5c895bc9a289cdf17cedb723f74b59db34364ddacf7cec286ec19f5d46d
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,9 +59,8 @@ record:
   title: 'OpenTelemetry: `user_prompt` events now include `command_name` and `command_source`…'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage
-  page]]'
 - '[[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]'
+- '[[Changes/Recraft/2026-04-14-cost-per-second|Cost per second]]'
 - '[[Changes/ElevenLabs/2026-04-20-workspaces|Workspaces]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases

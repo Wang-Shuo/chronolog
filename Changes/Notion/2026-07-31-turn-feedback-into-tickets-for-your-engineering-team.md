@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5308adc933f898ead04b635b6338122d325aeac9211d1e12009b08bf4f9542f8
+machine_hash: 7927ccb1854b41d415079fd6342ede35ccf3951b6d8145f0d893b06b5ce16e8b
 product: notion
 product_name: Notion
 record:
@@ -41,12 +41,11 @@ record:
   title: Turn feedback into tickets for your engineering team
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
-  changes in rust-v0.146.0]]'
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
+- '[[Changes/Devin/2026-07-29-link-preview-cards-in-chat|Link Preview Cards in Chat]]'
 - '[[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two
   AI hosts share a real studio scene, reacting to each other rather than appearing…]]'
+- '[[Changes/Devin/2026-07-31-this-release-also-includes-many-smaller-fixes-and-improvements-including-slack-a|This
+  release also includes many smaller fixes and improvements, including Slack…]]'
 source_release: '[[Releases/Notion/notion-2026-07-31-https-www-notion-com-releases-2026-07-31-964f451d|notion-2026-07-31-https-www-notion-com-releases-2026-07-31-964f451d]]'
 source_type: notion_changelog
 theme: collaboration
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-two-ai-hosts-share-a-real-studio-scene-reacting-to-each-other-rather-than-appear|Two AI hosts share a real studio scene, reacting to each other rather than appearing…]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-this-release-also-includes-many-smaller-fixes-and-improvements-including-slack-a|This release also includes many smaller fixes and improvements, including Slack…]]
 - Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop the two bundles of the combined rollout package from invalidating each other's…]]
 <!-- chronolog:end -->
 

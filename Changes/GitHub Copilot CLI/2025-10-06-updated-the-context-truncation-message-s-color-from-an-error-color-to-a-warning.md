@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b0933bc16c9ae3677494e2865c0dff6b93cb0fff30ec5a6269134dfaad5b496
+machine_hash: 27a49f7a876e74e3c9c0370e4113149ac63a5cc03cff038e2343f08529b0ac27
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-4706-fix-command-output-truncation-that-sometimes-used-too-much-of-the-context-w|♯4706 Fix command output truncation that sometimes used too much of the context window]]
-- Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make context line permanent]]
+- Later: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-agent-system-prompt-passthrough-user-context-awareness|Agent system prompt passthrough + user context awareness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

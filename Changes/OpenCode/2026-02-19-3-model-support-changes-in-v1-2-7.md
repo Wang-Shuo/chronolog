@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 984d35a9fd516a0d6270d5a028637bcd818a0870aa25fffa919fde8c9cb652a3
+machine_hash: 694a3dafabe72073e37a6326a6b6513c15742c857bbf5c5d4c8009dcc6012f52
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.2.7
 ## Nearby in Model Support
 
 - Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-support-adaptive-thinking-for-claude-sonnet-4-6|Support adaptive thinking for Claude Sonnet 4.6]]
-- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model Support changes in v0.0.413]]
+- Later: 2026-02-19 · Superwhisper · [[Changes/Superwhisper/2026-02-19-2-model-support-changes-in-superwhisper-windows-1-2-5|2 Model Support changes in Superwhisper Windows 1.2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

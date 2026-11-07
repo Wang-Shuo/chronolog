@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5aff298ab82f510a1c50ac0b5efd33cae680d2dbfe52a9a3fa91b558a9910517
+machine_hash: 4ce36e2bcd786169e73cc5251f814e032c6ab2efea4fa0ee723aa8df848fa3a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: '`!` bash commands now trigger Claude to respond to the output automatically'
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-06-16-significantly-improves-the-real-world-developer-experience-with-more-reliable-pr|Significantly
-  improves the real-world developer experience, with more reliable…]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
+- '[[Changes/Devin/2026-06-19-pr-context-visible-while-waiting-for-ci|PR Context Visible
+  While Waiting for CI]]'
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
   pastes are now handled as attachments for more plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'

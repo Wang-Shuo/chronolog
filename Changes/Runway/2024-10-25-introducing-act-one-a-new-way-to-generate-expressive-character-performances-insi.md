@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 39267e01238bd374c3d3404975a05fffacccec904192c5934b3e4da844b6322b
+machine_hash: 0cce40ac244aea032f7132d066b556636bf5b3db0d3ebe802744c3d857f7688b
 product: runway
 product_name: Runway
 record:
@@ -51,11 +51,12 @@ record:
   title: Act-One in Gen-3 Alpha
   type: change
 related_changes:
-- '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
-- '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
-  If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
 - '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
   changes in v0.4.0]]'
+- '[[Changes/LM Studio/2024-10-22-mac-mlx-vision-bump-mlx-vlm-version-to-0-0-15-support-qwen2vl|MacMLX
+  Vision Bump mlx-vlm version to 0.0.15, support Qwen2VL]]'
+- '[[Changes/AnythingLLM/2024-10-25-add-groq-vision-preview-support-by-timothycarambat-in-https-github-com-mintplex|Add
+  Groq vision preview support]]'
 source_release: '[[Releases/Runway/runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741|runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741]]'
 source_type: runway_changelog
 theme: multimodal
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input changes in v0.4.0]]
+- Earlier: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-add-groq-vision-preview-support-by-timothycarambat-in-https-github-com-mintplex|Add Groq vision preview support]]
 - Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced Prompt Handling in Workflows: Added vision support in prompts for more…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6da316cf75fa5327a192b28d83374f231b4b44859813bb2c72626c7b3d2e6746
+machine_hash: a05546e928233858b670e565029289e0ca083f5b11c9a89d752682b634101615
 product: notion
 product_name: Notion
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-hey-you-thanks-for-supporting-notion-this-year-for-our-last-update-of-2021-the-t|Hey, you! Thanks for supporting Notion this year]]
-- Later: 2022-02-23 · Descript · [[Changes/Descript/2022-02-23-improvements-bug-fixes|Improvements & bug fixes]]
+- Later: 2022-02-09 · Raycast · [[Changes/Raycast/2022-02-09-store-discover-top-extensions|Store: Discover top extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

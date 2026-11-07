@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66b4ecbe1c48bf9d4993180b42a5d27c7f0a9be77f1cc190049d57f69019eddf
+machine_hash: 04c5d68094de5d3373d506d99fe619f3f1fb6cc3f33165b2fa0082ba8f3bd6a3
 product: ollama
 product_name: Ollama
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.30.2
 ## Nearby in Model Support
 
 - Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model Support changes in rust-v0.137.0]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-ai-settings-added-ability-to-globally-disable-ai-models-to-settings-ai-models|AI Settings : Added ability to globally disable AI models to Settings  AI  Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

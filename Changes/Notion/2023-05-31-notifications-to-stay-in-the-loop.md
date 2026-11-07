@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 993547e98b81de415f8c545e9161a52770eaf18b964c39c6788d6687726acbf8
+machine_hash: 2f335b17a621053f6573c76538871971aa05c65dbde0f9034ca35c634454e069
 product: notion
 product_name: Notion
 record:
@@ -43,9 +43,10 @@ record:
   title: Notifications to stay in the loop
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-08-exciting-news-we-re-acquiring-automate-io|Exciting
-  news! We''re acquiring Automate.io!]]'
-- '[[Changes/Notion/2022-03-03-the-api-is-out-of-beta|The API is out of beta]]'
+- '[[Changes/Raycast/2022-06-07-my-schedule-you-can-now-search-for-events-by-participants-or-only-organizer-if-t|My
+  Schedule: You can now search for events by participants or only organizer if…]]'
+- '[[Changes/Raycast/2022-06-29-my-schedule-searching-for-words-in-long-titles-now-works-as-expected|My
+  Schedule: Searching for words in long titles now works as expected]]'
 - '[[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual
   tasks with buttons]]'
 source_release: '[[Releases/Notion/notion-2023-05-31-https-www-notion-com-releases-2023-05-31-be6ec354|notion-2023-05-31-https-www-notion-com-releases-2023-05-31-be6ec354]]'
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual tasks with buttons]]
-- Later: 2023-09-22 · Notion · [[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows in a database]]
+- Later: 2023-06-22 · Raycast · [[Changes/Raycast/2023-06-22-calendar-my-schedule-now-has-pagination-allowing-you-to-load-more-than-just-next|Calendar: My Schedule now has pagination, allowing you to load more than just next…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

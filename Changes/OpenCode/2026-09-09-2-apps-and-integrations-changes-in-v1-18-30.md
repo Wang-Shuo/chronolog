@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d066fd911f1f802dadfb17ebc95a48b26d536a4d2017088c1b6f204d51117925
+machine_hash: ea6cf64e612fb3eab65791ebe28d7c97f808f63d7d430595367d26f999be7ac1
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Apps and Integrations changes in v1.18.30
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
-  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
-- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
-  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-webapp-answers-mirrored-to-slack|Webapp Answers Mirrored
+  to Slack]]'
+- '[[Changes/Devin/2026-09-09-plugins|Plugins]]'
 - '[[Changes/Kimi Code/2026-09-09-remote-control-is-now-always-on-the-experimental-kimi-code-experimental-remote-c|Remote
   Control is now always on]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-09-v1-18-30-1b9960bc|opencode-2026-09-09-v1-18-30-1b9960bc]]'

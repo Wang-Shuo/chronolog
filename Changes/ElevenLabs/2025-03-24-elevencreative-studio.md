@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 45fc64475ec6eb5eb77d35a83692f3ecfd2385f2cb7f6a446427397fad0354f2
+machine_hash: f55d66fc28988733076a573516cfd864b3013ef5bbbc22b2c1c34131c8337ce9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-03-18 · Gemini · [[Changes/Gemini/2025-03-18-introducing-audio-overview-now-in-gemini|Introducing Audio Overview, now in Gemini]]
-- Later: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-audio-format|Audio Format]]
+- Later: 2025-03-27 · Raycast · [[Changes/Raycast/2025-03-27-there-are-new-system-commands-for-controlling-audio-playback|There are new system commands for controlling audio playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

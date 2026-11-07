@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4934691d6be3c898291b30a4a1efc5865ed95f23396c873504a6dbb2d43814f1
+machine_hash: 62e401dc652f6a554f88f0d975bdd27c42675f774a1685a042276e8e7efcbc11
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     ready
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
-  Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
 - '[[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs
   V4]]'
+- '[[Changes/Devin/2026-09-30-voice-call-bar-follows-the-composer|Voice Call Bar Follows
+  the Composer]]'
 - '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
   skills in Gemini tackle your most repetitive tasks]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a1591add03a65a03f6e834887f0931d869d875bae2fda212597e93aea8f4d5d
+machine_hash: 0078341e73597079f5b536622146cca8b8b34770c0162eeba74610237483306a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 ## Nearby in Context Window
 
 - Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context Window changes in v2026.10.7]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-2-context-window-changes-in-v1-19-0|2 Context Window changes in v1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

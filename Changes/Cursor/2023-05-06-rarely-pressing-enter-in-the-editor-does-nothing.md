@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e298cf59e2766c42ff7f419fe0c3f9807ba8bcd5b410fb61d1477b6641db1e82
+machine_hash: 8a0ce00ca2c84c944c2f0b6d82a0708cfad21807f154897efa95fa386afbfba7
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,7 @@ record:
   title: Rarely, pressing Enter in the editor does nothing
   type: change
 related_changes:
-- '[[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer
-  resizing: The Media Library and Composition Drawers are now freely…]]'
+- '[[Changes/Raycast/2023-04-28-quick-ai-beta|Quick AI Beta]]'
 - '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental
   support for multi-file diffs]]'
 - '[[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved

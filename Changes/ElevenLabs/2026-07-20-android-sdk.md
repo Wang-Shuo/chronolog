@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1739b5b10b64e4464bd95aa8fbeaf115ba74f92106c939a1ffcedd37a3b45a3f
+machine_hash: a2bb429e98c5af7a8ea8ac6a95ca088a07009537960fb9fa1756301208e5d64d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,10 +44,10 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
-- '[[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile
-  and Desktop changes in v1.18.3]]'
+- '[[Changes/Raycast/2026-07-16-cloud-sync-sync-your-data-across-macos-v1-macos-v2-beta-windows-beta-and-ios|Cloud
+  Sync : Sync your data across macOS V1, macOS V2 beta, Windows beta and iOS]]'
+- '[[Changes/Raycast/2026-07-16-the-wait-is-over-cloud-sync-public-beta-is-here-you-can-now-keep-your-raycast-da|The
+  wait is over. Cloud Sync public beta is here]]'
 - '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-20-2026-07-20-b16c37ed|elevenlabs-2026-07-20-2026-07-20-b16c37ed]]'
 source_type: elevenlabs_changelog

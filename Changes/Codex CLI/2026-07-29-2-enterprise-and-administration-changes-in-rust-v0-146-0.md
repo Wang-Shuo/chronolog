@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ad54c0bbdb4ede5cba2c5849451c439531e183d16ca86fcd604191c21889035
+machine_hash: eb8a5ea7099f8f3eb54cde23b9c6fb4e193fb6cbd78f0a2e95727491b3f27b16
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-enterprise-and-administration-changes-in-1-16-1|2 Enterprise and Administration changes in 1.16.1]]
-- Later: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry is now Managed registry]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-audit-logging-for-devin-local-settings|Audit Logging for Devin Local Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

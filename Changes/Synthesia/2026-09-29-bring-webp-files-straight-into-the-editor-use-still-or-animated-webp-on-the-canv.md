@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4597636473e1551df1803bb82e8bda6a5df08025c91c10a3d5b253566cf3a92d
+machine_hash: 5be541a120c1fe146041cb6fdb06d3de3334a09871805160c7fff476d8e95157
 product: synthesia
 product_name: Synthesia
 record:
@@ -54,12 +54,11 @@ record:
   title: Upload WebP images to your videos
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
-  tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
-- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
-  prompt-audit on Claude Code configuration]]'
 - '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
   retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Devin/2026-09-25-slack-canvas-and-user-group-permissions|Slack: Canvas
+  and User-Group Permissions]]'
+- '[[Changes/Devin/2026-09-25-pdf-attachments-are-versioned|PDF Attachments Are Versioned]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-29-https-www-synthesia-io-updates-upload-webp-images-to-your-videos-76c40d97|synthesia-2026-09-29-https-www-synthesia-io-updates-upload-webp-images-to-your-videos-76c40d97]]'
 source_type: synthesia_changelog
 theme: file-data
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added retries for transient file-upload failures and increased the upload timeout…]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-pdf-attachments-are-versioned|PDF Attachments Are Versioned]]
 - Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and Data changes in v2026.9.7]]
 <!-- chronolog:end -->
 

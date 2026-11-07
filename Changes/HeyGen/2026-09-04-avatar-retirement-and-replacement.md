@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 747464eab6b389ad154a645b878ce0b6c8d708c8e1bd569bd1d407afc75433ea
+machine_hash: 0a90fa26da2b204dc3c343079994e310146426c5227d9cea90553c6c993686c2
 product: heygen
 product_name: HeyGen
 record:
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice and Audio changes in v2026.9.1]]
+- Earlier: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your clipboard contents are now preserved after dictation by default]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice and Audio changes in v2026.9.2]]
 <!-- chronolog:end -->
 

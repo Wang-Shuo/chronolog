@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21701c4fec90694037428308c525dda623e5adbc0b7b6ac2e980b8f2904237f8
+machine_hash: 00cdb27491fc54847e9b74840a4e08194ad97834fb432aff62105c1d909efdf0
 product: qoder
 product_name: Qoder
 record:
@@ -45,8 +45,8 @@ record:
   title: '**Custom BYOK endpoints**'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
-  Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
+- '[[Changes/Superwhisper/2026-09-04-significant-mode-model-switching-improvements|Significant
+  mode/model switching improvements]]'
 - '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
   models can now be used directly in ChatGPT Desktop, so you can keep…]]'
 - '[[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support

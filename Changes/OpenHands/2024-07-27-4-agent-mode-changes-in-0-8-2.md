@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 090de689747d04bc7bbab5b8b96b5c2b1ff17e0dfa137c44b18024bb3179b196
+machine_hash: f5e8431b8bfc73f2ce84dbc441be19fb88a869c03d026d952870d231fc4afb5d
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Agent Mode changes in 0.8.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-02-2-agent-mode-changes-in-v0-2-0|2 Agent Mode changes
-  in v0.2.0]]'
 - '[[Changes/OpenHands/2024-07-05-2-agent-mode-changes-in-0-7-1|2 Agent Mode changes
   in 0.7.1]]'
 - '[[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes
   in 0.8.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-15-agent-mode-changes-in-v1-0-0|15 Agent Mode
+  changes in v1.0.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0|3 Agent Mode changes in 0.8.0]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-15-agent-mode-changes-in-v1-0-0|15 Agent Mode changes in v1.0.0]]
 - Later: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes in 0.8.3]]
 <!-- chronolog:end -->
 

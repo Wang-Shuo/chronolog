@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7b7eb988dc49e56a03cc9ca9e7e64d33c4ec6812c79028c8808090291864c4a
+machine_hash: 82c5c281c11525c73fb19cc6f444caa0dc51cffeac82c89b7d398f21bbcb2595
 product: cline
 product_name: Cline
 record:
@@ -40,11 +40,12 @@ record:
   title: add enterprise to readme
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates
   and Refactor Enterprise Docs]]'
+- '[[Changes/Devin/2025-11-27-enterprise-api-v3-git-permissions-bulk-create-improvements|Enterprise
+  API v3 Git Permissions Bulk Create Improvements]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates and Refactor Enterprise Docs]]
+- Earlier: 2025-11-27 · Devin · [[Changes/Devin/2025-11-27-enterprise-api-v3-git-permissions-bulk-create-improvements|Enterprise API v3 Git Permissions Bulk Create Improvements]]
 - Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2 Enterprise and Administration changes in v0.6.41]]
 <!-- chronolog:end -->
 

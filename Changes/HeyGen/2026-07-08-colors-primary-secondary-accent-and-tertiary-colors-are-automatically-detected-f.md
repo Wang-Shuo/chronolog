@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa1d4e279c3bcbf99858844e227d9a70f410ef61ed48cc17586a77b92b0c0287
+machine_hash: 7c6bb6eb91283132ed4e538032870a92d7c844eb8129321419e95032b891041f
 product: heygen
 product_name: HeyGen
 record:
@@ -46,12 +46,12 @@ record:
     detected…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared
-  with you]]'
 - '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
   model details tooltips in the model picker]]'
 - '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
   Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/Devin/2026-07-08-reorganized-settings-navigation|Reorganized Settings
+  Navigation]]'
 source_release: '[[Releases/HeyGen/heygen-2026-07-08-https-heygen-noticeable-news-publications-july-2026-enterprise-r-27a9b7ed|heygen-2026-07-08-https-heygen-noticeable-news-publications-july-2026-enterprise-r-27a9b7ed]]'
 source_type: heygen_changelog
 theme: interface-experience
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3 Interface Experience changes in Grouped tool approvals, richer MCP…]]
+- Earlier: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-reorganized-settings-navigation|Reorganized Settings Navigation]]
 - Later: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-web-show-session-skills-in-the-slash-menu-as-skill-so-they-are-distinguishable-f|web: Show session skills in the slash menu as /skill: so they are distinguishable…]]
 <!-- chronolog:end -->
 

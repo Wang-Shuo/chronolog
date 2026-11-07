@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ca1e7c6a5a87d3f52578674b11730b5d1d98069aa20bb52625feb3ff25b0d45c
+machine_hash: 41537740c552b483aec6b47ba571a89452380438b0239966b7bccfddcdc2fa8e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
     the agent…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
-  clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
+- '[[Changes/Devin/2026-10-26-transcript-and-composer-refinements|Transcript and Composer
+  Refinements]]'
 - '[[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript
   downloads: The dubbing project menu can download target language…]]'
 - '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface

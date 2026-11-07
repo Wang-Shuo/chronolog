@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9ba7bfc6e241a4b651ca7779fd5494eb1af6abe38446b76e3cfa106751b26c00
+machine_hash: da567d9a291c899131cc3b9a54597f625ec0b9b45658b659e9124b9f69c021a2
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -49,9 +49,10 @@ record:
   title: Multimodal capture in Copilot Notebooks (iPhone) [iOS] (OneNote)
   type: change
 related_changes:
-- '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
   queued tool images when vision is disabled]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-multimodal-input-changes-in-v1-15-0|3 Multimodal
+  Input changes in v1.15.0]]'
 - '[[Changes/Kimi Code/2026-06-29-support-the-anthropic-compatible-protocol-for-kimi-code-including-video-input|Support
   the Anthropic-compatible protocol for Kimi Code, including video input]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'

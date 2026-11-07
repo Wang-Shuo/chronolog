@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 860c3217734a592b3d6b12d7bb3fe89a7d1f198d6f34ba5d271950890ceaee37
+machine_hash: b0f5baed2eff7e2405537de6148c45e6e8af69801ca8b63789abc064a9ee9e67
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-idp-group-improvements|IdP Group Improvements]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
 <!-- chronolog:end -->
 

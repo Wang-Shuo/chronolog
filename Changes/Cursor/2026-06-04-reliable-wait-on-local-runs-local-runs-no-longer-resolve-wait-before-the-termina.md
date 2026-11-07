@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e81ade550d98c4355b6f4af890d523fca145c29b708e2587883ac6f18a3005bc
+machine_hash: ee3e31de607c151e113055612b4ae127b32e10620fc41a6892905d7b82340116
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,11 @@ record:
   title: Reliable wait() on local runs
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
-  Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
-- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
-  schedule prompts with /every and /after]]'
 - '[[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render
   scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]'
+- '[[Changes/Devin/2026-06-03-personal-automations|Personal Automations]]'
+- '[[Changes/Devin/2026-06-03-v3-api-organization-members-and-automations|V3 API:
+  Organization Members and Automations]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: automation-scheduling
@@ -100,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows now opens immediately even while a turn is in progress]]
+- Earlier: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-v3-api-organization-members-and-automations|V3 API: Organization Members and Automations]]
+- Later: 2026-06-05 · Devin · [[Changes/Devin/2026-06-05-scratchpad-moved-under-mcps-in-automations|Scratchpad Moved Under MCPs in Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

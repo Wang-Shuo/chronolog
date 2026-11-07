@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65419539a4319f738ea8b2120c24192acb3ca018eb0caf86a8508fa8071ff511
+machine_hash: 7398a581cc0a2298fd9652548aeffac5f3728bc0bfb9c9b2729d1d121441afff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     we failed…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add
-  markdown parsing to MCP responses]]'
 - '[[Changes/OpenHands/2025-07-16-added-cli-vscode-integration-by-enyst-in-https-github-com-all-hands-ai-openhands|Added
   CLI/VSCode integration]]'
+- '[[Changes/Raycast/2025-07-16-3-apps-and-integrations-changes-in-raycast-macos-v1-1-101-0|3
+  Apps and Integrations changes in Raycast macos-v1 1.101.0]]'
 - '[[Changes/Windsurf/2025-07-17-deeper-browser-integration|Deeper Browser integration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases

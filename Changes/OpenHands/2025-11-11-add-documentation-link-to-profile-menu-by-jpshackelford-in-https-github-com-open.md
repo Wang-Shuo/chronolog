@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24b521e2f8911dbfb0456a8aa40d9d68ea6d085dbc83f30ca6ce6e28a23f43cf
+machine_hash: 60f8f5b50494321af82971c25f6ce781b1360465de5ec9f912fe0c5e2e4370ee
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Add Documentation link to profile menu
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249
-  stop capturing r when environment selection modal is open]]'
+- '[[Changes/Devin/2025-11-07-breadcrumb-navigation-redesign|Breadcrumb Navigation
+  Redesign]]'
 - '[[Changes/Gemini CLI/2025-11-07-4-interface-experience-changes-in-v0-13-0|4 Interface
   Experience changes in v0.13.0]]'
 - '[[Changes/Codex CLI/2025-11-09-tui-quality-of-life-ctrl-n-p-navigation-for-slash-command-lists-and-backtracking|TUI

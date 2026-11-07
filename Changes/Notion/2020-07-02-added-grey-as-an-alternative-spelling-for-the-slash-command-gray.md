@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f87759540181e2db9da9d77054cfb45b0575e3e4a91d8275550d36ba13236c0d
+machine_hash: b52a2cd1c04c3e497cf1f8aef899b2022abda3dbd421d2b9a3e5162980bc522e
 product: notion
 product_name: Notion
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2020-06-23 · Notion · [[Changes/Notion/2020-06-23-improved-keyboard-and-slash-command-support-for-inline-math|Improved keyboard and slash command support for inline math]]
-- Later: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-new-slash-command-shortcut-create-a-link-to-page-block-with-the-slash-command-lt|New slash command shortcut]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-new-store-your-email-address-in-the-send-feedback-command-less-typing-for-you-mo|New: Store your email address in the Send Feedback command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

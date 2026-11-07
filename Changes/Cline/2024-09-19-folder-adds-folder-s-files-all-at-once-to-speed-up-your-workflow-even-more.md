@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3d7789533f8d3543ef6ae61c6ff3d29eb46236c5692e411d4aebe22c6f05d0f
+machine_hash: 300a3d19991c1f1b1c1156e8fe357e99841abe59c25345a9f23742413e7534a8
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,11 @@ record:
     even more'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
-  Tab now auto-imports symbols in Python files!]]'
 - '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
   can now be added to the AI pane]]'
 - '[[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The
   ollama/ollama container image will now start running almost immediately…]]'
+- '[[Changes/Raycast/2024-09-18-sequoia-ready|Sequoia Ready]]'
 source_release: '[[Releases/Cline/cline-2024-09-19-v1-8-0-github-175998860-1ce361a1|cline-2024-09-19-v1-8-0-github-175998860-1ce361a1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The ollama/ollama container image will now start running almost immediately…]]
+- Earlier: 2024-09-18 · Raycast · [[Changes/Raycast/2024-09-18-sequoia-ready|Sequoia Ready]]
 - Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-chat-message-deletion-resolved-issues-with-chat-message-deletion-ensuring-a-smoo|🛠️ Chat Message Deletion]]
 <!-- chronolog:end -->
 

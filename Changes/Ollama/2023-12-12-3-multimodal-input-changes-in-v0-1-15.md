@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df14712fd3a07e6afb7be66e4b47b0a0dae1ded6fe81d49fea31f0d9719b8cb6
+machine_hash: 6550e6725396a49f7485bdb6cfc374c939195f04424d193849dff3f1b796b19a
 product: ollama
 product_name: Ollama
 record:
@@ -50,10 +50,9 @@ record:
   title: 3 Multimodal Input changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding
-  Bard’s understanding of YouTube videos]]'
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
   Support in Chat]]'
+- '[[Changes/Raycast/2023-11-29-camera-preview|Camera Preview]]'
 - '[[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New
   AI Action: Find Good Clips]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-12-v0-1-15-github-133517915-5af535e3|ollama-2023-12-12-v0-1-15-github-133517915-5af535e3]]'
@@ -92,7 +91,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.15
 ## Nearby in Multimodal Input
 
 - Earlier: 2023-11-30 · Descript · [[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New AI Action: Find Good Clips]]
-- Later: 2023-12-20 · Synthesia · [[Changes/Synthesia/2023-12-20-upload-a-document-or-paste-a-link-and-transform-it-into-an-eye-catching-video-wi|Introducing: AI Video Assistant]]
+- Later: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-camera-preview-the-window-will-remain-visible-even-when-losing-focus|Camera preview : The window will remain visible even when losing focus]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

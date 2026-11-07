@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 19cd113b5c95b056b9a510105476035385e2e0790a2362798db668ae499103d7
+machine_hash: 106f5205fa8f4be5d4eac49a10dc393696a94ddc9a4448a1aa75fe36ddd06c4d
 product: replit
 product_name: Replit
 record:
@@ -66,8 +66,8 @@ record:
   title: Bring Your Own Cloud to Replit
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
-  are now open to labs at U.S. universities]]'
+- '[[Changes/Krea/2026-10-15-zero-data-retention-for-krea-3|Zero Data Retention for
+  Krea 3]]'
 - '[[Changes/Lovable/2026-10-15-export-audit-logs-to-your-siem-or-cloud-storage|Export
   audit logs to your SIEM or cloud storage]]'
 - '[[Changes/Open WebUI/2026-10-16-2-enterprise-and-administration-changes-in-v0-12-3|2

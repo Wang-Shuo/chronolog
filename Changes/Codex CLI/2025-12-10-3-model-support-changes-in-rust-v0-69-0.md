@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0da79e6ea64a41a9471c4cc160da08a3d159c8651db75c3b2528f9e3c79cf788
+machine_hash: fc7762eb8ba8559e17e701bfcc424f4f82faf0daf22008868145003fec2f3a66
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model
-  Support changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
   changes in v0.20.0]]'
+- '[[Changes/LM Studio/2025-12-09-support-for-essentialai-s-rnj-1-model|Support for
+  EssentialAI''s rnj-1 model]]'
 - '[[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support
   changes in v0.13.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'

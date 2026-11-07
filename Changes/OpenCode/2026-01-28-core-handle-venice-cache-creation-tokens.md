@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b24d36a85145e82b2ca9e957dc6cf6591d2164b845f864bcc8ca2a1ab7131d9
+machine_hash: 42f0fad209c4244191fe7f1c610d7e2b488626869b2e3ee28743d512edd82a11
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +40,12 @@ record:
   title: Core Handle Venice cache creation tokens
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-strip-notebook-cell-outputs-when-extracting-text-content-from-jupyter-notebooks|Strip
-  notebook cell outputs when extracting text content from Jupyter notebooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify
   compaction timeline entries]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core):
   enhanced anchored iterative context compression with self-verification]]'
+- '[[Changes/LM Studio/2026-01-28-bring-back-context-fullness-indicator-and-current-input-token-counter|Bring
+  back context fullness indicator and current input token counter]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'
 source_type: opencode_changelog
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core): enhanced anchored iterative context compression with self-verification]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-bring-back-context-fullness-indicator-and-current-input-token-counter|Bring back context fullness indicator and current input token counter]]
 - Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-compaction-messages-show-clearer-command-hints-to-view-checkpoint-summaries|Compaction messages show clearer command hints to view checkpoint summaries]]
 <!-- chronolog:end -->
 

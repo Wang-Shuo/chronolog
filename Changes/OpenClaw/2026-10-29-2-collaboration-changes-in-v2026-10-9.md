@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fa319f4badd966398ed749f34d7fd4b5fd3a99b7e088ed09d5af298cb588c39
+machine_hash: 896bd732bca3b58b4d7b02e2e47b95d059425a96ad8914ed9cd758e71b1b5f0e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Collaboration changes in v2026.10.9
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
-  label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
+- '[[Changes/Raycast/2026-10-28-notes-hide-while-screen-recording-is-back-on-golden-gate-only-macos-27-this-will|Notes
+  : Hide while screen recording is back on Golden Gate only (macOS 27+)…]]'
 - '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
   Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
 - "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
@@ -92,7 +92,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.9
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|📃 Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]
-- Later: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress and next steps when you publish]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-share-a-private-reply-with-the-chat|Share a Private Reply with the Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

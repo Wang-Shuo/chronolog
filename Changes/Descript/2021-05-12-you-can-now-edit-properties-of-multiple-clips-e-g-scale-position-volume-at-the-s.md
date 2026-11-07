@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a49b0529cc7dd9a8de519ebed29ba04a2b177acfa8ea615c08f4b47d4f6c6ce
+machine_hash: 74cf1e495c7bbcbc2f5169c6c205dae89d730fbf924305f50b213ef08a1ad814
 product: descript
 product_name: Descript
 record:
@@ -46,10 +46,9 @@ record:
   title: Batch clip editing
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-we-ve-combined-the-correct-text-and-edit-media-modes-into-a-single-editing-exper|Correct
-  Text and Edit Media modes have been combined]]'
-- '[[Changes/Descript/2021-02-18-along-with-our-editor-workflow-changes-and-various-other-keyboard-shortcuts-desc|Spacebar
-  now toggles playback / pause]]'
+- '[[Changes/Raycast/2021-04-06-adjustable-font-sizes|Adjustable Font Sizes]]'
+- '[[Changes/Raycast/2021-04-13-preferences-preview-preferences-tab-was-renamed-to-advanced|Preferences:
+  "Preview" preferences tab was renamed to "Advanced"]]'
 - '[[Changes/Descript/2021-05-11-we-re-happy-to-announce-the-launch-of-quick-editor-https-help-descript-com-hc-en|Quick
   Editor]]'
 source_release: '[[Releases/Descript/descript-2021-05-12-6390c9a24a4a0d64fa5641ec-ffe9a6d0|descript-2021-05-12-6390c9a24a4a0d64fa5641ec-ffe9a6d0]]'

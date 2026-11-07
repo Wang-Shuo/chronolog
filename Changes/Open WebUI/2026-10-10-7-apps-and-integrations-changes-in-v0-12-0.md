@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e83f1c14448adabf7975e10decdcf770655179dd54ea72959289a567ca46148
+machine_hash: bec3290a0db65cdd91571c487714cffd331d6ce934829ee80942b37b7c2726bf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,12 +87,12 @@ record:
   title: 7 Apps and Integrations changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3
-  Apps and Integrations changes in v2.1.296]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
-  plugin setup retries hourly or after policy changes instead of on every…]]'
 - '[[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate
   a secret that another app also needs]]'
+- '[[Changes/Raycast/2026-10-09-2-apps-and-integrations-changes-in-raycast-macos-2-7|2
+  Apps and Integrations changes in Raycast macos 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-apps-and-integrations-changes-in-raycast-windows-2-7|2
+  Apps and Integrations changes in Raycast windows 2.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -153,7 +153,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate a secret that another app also needs]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-apps-and-integrations-changes-in-raycast-windows-2-7|2 Apps and Integrations changes in Raycast windows 2.7]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96 Apps and Integrations changes in v2026.10.1]]
 <!-- chronolog:end -->
 

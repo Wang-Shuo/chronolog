@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8069cdf841fae45d36232de028518b96d71149395ef9d9acad8ede23218d226
+machine_hash: f3b212932a571ff666e08a6824cc0f0bba6ef51cf6f3ccbba18868091a543650
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Cursor in Slack now shares a plan before it starts, runs in multi-repo environments…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse
-  your workspace identity in the apps you build]]'
-- '[[Changes/Lovable/2026-07-16-connect-your-app-to-apollo-io|Connect your app to
-  Apollo.io]]'
+- '[[Changes/Raycast/2026-07-16-2-apps-and-integrations-changes-in-raycast-macos-0-69|2
+  Apps and Integrations changes in Raycast macos 0.69]]'
+- '[[Changes/Raycast/2026-07-16-ai-chat-auto-loaded-extensions-now-get-persisted-into-the-ai-extensions-list-of|AI
+  Chat : Auto-loaded extensions now get persisted into the AI Extensions list…]]'
 - '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
   tool calls running longer than 2 minutes now move to the background…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and Integrations changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-instant-slack-unsync-command|Instant Slack Unsync Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

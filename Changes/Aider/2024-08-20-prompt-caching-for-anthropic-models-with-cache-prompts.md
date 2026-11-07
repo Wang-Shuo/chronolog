@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df02d81bce8059ba247b5cd628349470fd4724379d1cce287c947ec24a14a9b5
+machine_hash: fcaf20556a2cecd67e51171fc4ebdd4c45fcdbdae0db21ce7fb294249b0ef2c2
 product: aider
 product_name: Aider
 record:
@@ -40,10 +40,10 @@ record:
   title: Prompt caching for Anthropic models with `--cache-prompts`
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
-  support for Prompt Caching((source link)]]'
 - '[[Changes/Gemini/2024-08-15-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
   1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-08-19-2-model-support-changes-in-v1-2-1|2 Model Support
+  changes in v1.2.1]]'
 - '[[Changes/Dify/2024-08-19-7-model-support-changes-in-0-7-1|7 Model Support changes
   in 0.7.1]]'
 source_release: '[[Releases/Aider/aider-2024-08-20-v0-51-0-github-171109140-6ace7052|aider-2024-08-20-v0-51-0-github-171109140-6ace7052]]'

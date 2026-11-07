@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff25ae48ab67bf769e0b45c2fa9fd01448a58f0fbfdb9181efb38e516319c37d
+machine_hash: 2191bdbce1f9d939946d6ef5dacdef42fc3c8ff152323a85eb49296ed28fde70
 product: opencode
 product_name: OpenCode
 record:
@@ -100,7 +100,7 @@ Source: https://opencode.ai/changelog/v1.17.13
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated files inherit sensitivity labels Android, Windows, iOS, Mac…]]
-- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep automatic background updates from flashing a console window on Windows]]
+- Later: 2026-07-02 · Wispr Flow · [[Changes/Wispr Flow/2026-07-02-flow-now-switches-back-automatically-for-more-apps-ios|Flow now switches back automatically for more apps (iOS)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

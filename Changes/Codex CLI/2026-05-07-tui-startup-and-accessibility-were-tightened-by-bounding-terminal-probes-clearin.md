@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-05-07 · Accessibility and Localization: TUI sta
   and accessibility were tightened by bounding terminal probes, clearing the first
   inline…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 969
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00db74e3aa9160b87dbd27b88a22bd40ad6896673802cda31550542e4bbc5a16
+machine_hash: 063945cd3dc2a1feb17141b616860604dedb40b273edb1548a3c7bfd9d6c3b71
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
     clearing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
-  color contrast across CLI themes for better readability and accessibility]]'
-- '[[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion
-  Academy videos and certification programs are now live in 6 new languages…]]'
+- '[[Changes/Devin/2026-04-08-japanese-localization-refresh|Japanese Localization
+  Refresh]]'
+- '[[Changes/Raycast/2026-04-27-applications-in-the-main-raycast-search-and-in-settings-applications-now-appear|Applications:
+  In the main Raycast search and in Settings, applications now appear…]]'
 - '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
   Accessibility and Localization changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
@@ -106,13 +106,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2 Accessibility and Localization changes in 1.14.0]]
-- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-accessibility-and-semantics-improved-web-accessibility-removed-unnecessary-data|Accessibility and semantics]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-localization-improved-system-settings-localization-they-can-now-be-found-by-both|Localization: Improved System Settings localization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

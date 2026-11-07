@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63b20b40d7fd6a1fb0a97a495b4b55e4e1255fb18612225d375dca423626a093
+machine_hash: ec2b242931073a7f24c9647a24ac148c5d5eb97b5a2066a78f96c2cc5e5ec4ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 4 Apps and Integrations changes in v0.33.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable
-  AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8
   Apps and Integrations changes in rust-v0.114.0]]'
 - '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New
   Plugins on the Cursor Marketplace]]'
+- '[[Changes/Devin/2026-03-11-datadog-mcp-integration|Datadog MCP Integration]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-11 · Cursor · [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New Plugins on the Cursor Marketplace]]
+- Earlier: 2026-03-11 · Devin · [[Changes/Devin/2026-03-11-datadog-mcp-integration|Datadog MCP Integration]]
 - Later: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4 Apps and Integrations changes in v1.0.4]]
 <!-- chronolog:end -->
 

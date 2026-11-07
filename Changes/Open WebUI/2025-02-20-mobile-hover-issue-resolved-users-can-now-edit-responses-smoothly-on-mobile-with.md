@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 330faf7a23fa0e9efaa77f656765086e66a2b1e3fa06feaca8c494de56f4cd3e
+machine_hash: 9dd6842ab38d9ffa59f17cc24b7760c91269b2236cb57eb573c2a157c7cde014
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,11 @@ record:
   title: "**\U0001F4F1 Mobile Hover Issue Resolved**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
-  dialog for logging out (iOS, web)]]'
 - '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
   launch animations and composer design on Android]]'
 - '[[Changes/Replit/2025-02-14-mobile-development|Mobile development]]'
+- '[[Changes/AnythingLLM/2025-02-18-lastly-we-skipped-a-few-docker-versions-to-make-docker-desktop-the-same-release|Lastly,
+  we skipped a few Docker versions to make Docker = Desktop the same release…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3|open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-mobile-development|Mobile development]]
+- Earlier: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-lastly-we-skipped-a-few-docker-versions-to-make-docker-desktop-the-same-release|Lastly, we skipped a few Docker versions to make Docker = Desktop the same release…]]
 - Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: acfcce675d4bd40b9d4f854b7405812163c696a68233ecd221a2e3486035406f
+machine_hash: be267e2d44dc6a0729493d72c4f1b309be323d54a686eb85b2184d17807f033c
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and fix database performance problems]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Later: 2026-06-11 · Superwhisper · [[Changes/Superwhisper/2026-06-11-2-reliability-and-performance-changes-in-superwhisper-windows-1-4-13|2 Reliability and Performance changes in Superwhisper Windows 1.4.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

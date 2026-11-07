@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fb7a36b60006b0d350d2ae0138bc16b6eb8ab12b735483fa4f4b33a23f3c7ff1
+machine_hash: 1ca49920a23814e0aabd413fb9fa9c44529aef4d45a6b7082a326aad9506b133
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,11 +45,11 @@ record:
   title: 'Work IQ APIs: Usage-based billing [Windows, Linux, Mac…'
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set
-  per-user limits with Credit controls]]'
-- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
-  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/Krea/2026-10-26-billing-is-fixed-for-accounts-subscribed-on-both-web-and-ios|Billing
+  is fixed for accounts subscribed on both web and iOS]]'
+- '[[Changes/Krea/2026-10-27-krea-3-api-sizing-and-billing-updates|Krea 3 API sizing
+  and billing updates]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: m365_copilot_changelog
 theme: pricing-model
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-krea-3-api-sizing-and-billing-updates|Krea 3 API sizing and billing updates]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core Preserve literal $0 and $ARGUMENTS text in custom command input]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63c45691a5f018d9785a2373fccf1f237819bcc1c772b511bed8373887de09ec
+machine_hash: 0b94ab8f421b721673363ed3ac3ce3b0ec6fd6a61258d4dad8d2000df0ed036b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Interface Experience changes in v1.0.15
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
-  --resume picker to no longer show sessions created by claude -p or SDK…]]'
 - '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
   CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
+- '[[Changes/Devin/2026-04-01-sticky-sidebar-headers|Sticky Sidebar Headers]]'
 - '[[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface
   Experience changes in v0.36.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28|github-copilot-cli-2026-04-01-v1-0-15-github-304307238-4db7dc28]]'
@@ -97,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.15
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface Experience changes in v0.36.0]]
-- Later: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-4-interface-experience-changes-in-v1-12-0|4 Interface Experience changes in v1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

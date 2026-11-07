@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f2828224a314c4524e317773f7dae0b27a552255d19f2570a7b25fee346bd8c
+machine_hash: 87e5f16ea949e4b97f7c0a3dea0deba0c32fd42eb0ed14ac70a1a9d5b6cacde9
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,10 @@ record:
   title: Core Subagent tool calls stay clickable while they are pending
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
-  mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
 - '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
   1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-ai-chat-presets-are-now-called-agents-and-are-reused-if-you-change-the-configura|AI
+  Chat: Presets are now called Agents and are reused]]'
 - '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
   changes in rust-v0.118.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-31-v1-3-12-78f2220b|opencode-2026-03-31-v1-3-12-78f2220b]]'

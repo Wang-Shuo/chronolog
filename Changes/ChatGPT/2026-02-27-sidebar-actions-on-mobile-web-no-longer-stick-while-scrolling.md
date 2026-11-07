@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d7fe5a908fc231feba8672a87c53e21344d216e77dd03e3e22c26718cdebd8b
+machine_hash: 6a5dfc936294051489715da9e573ca04629cb994706382d8ae0afd9960b9845e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ record:
   title: Sidebar actions on mobile web no longer stick while scrolling
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved
-  TUI local file-link rendering to hide absolute paths while preserving…]]'
 - '[[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop
   Fixed keyboard navigation for previous/next message]]'
+- '[[Changes/Raycast/2026-02-26-navigation-tweaked-copy-to-not-accidentally-mention-search-menu-items|Navigation
+  : Tweaked copy to not accidentally mention search menu items]]'
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
   scroll to latest message]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop Fixed keyboard navigation for previous/next message]]
+- Earlier: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-navigation-tweaked-copy-to-not-accidentally-mention-search-menu-items|Navigation : Tweaked copy to not accidentally mention search menu items]]
 - Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface Experience changes in v0.31.0]]
 <!-- chronolog:end -->
 

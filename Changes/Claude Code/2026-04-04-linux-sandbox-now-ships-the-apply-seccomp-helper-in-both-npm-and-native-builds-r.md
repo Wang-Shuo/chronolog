@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c76bda0221b87a5d7b7a5ffe10d282d256f716cc7acd1b9acf9d501866d088f0
+machine_hash: c5698f5697781b686003001678b8c0f68e60af38ad9b9ef01dfacabb3d4f47ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     builds…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add
-  PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]'
 - '[[Changes/Lovable/2026-04-02-security-updates|Security updates]]'
 - '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
+- '[[Changes/Devin/2026-04-03-gitlab-pat-rotation-fix-responsive-mobile-layouts-startup-command-display-improv|GitLab
+  PAT rotation fix, responsive mobile layouts, startup command display…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-app-emails|App emails]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-gitlab-pat-rotation-fix-responsive-mobile-layouts-startup-command-display-improv|GitLab PAT rotation fix, responsive mobile layouts, startup command display…]]
 - Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add notification hook event that fires asynchronously on shell completion…]]
 <!-- chronolog:end -->
 

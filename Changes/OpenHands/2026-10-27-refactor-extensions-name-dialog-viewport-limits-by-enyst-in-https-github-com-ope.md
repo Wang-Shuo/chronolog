@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c434238dd909babff2239df767fdd25aaca72c841b58854ca80e5a724f4813c
+machine_hash: ad826be18167b3f567ef28ba7ae32443da38997d609e94d13afea030c6d42897
 product: openhands
 product_name: OpenHands
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-opencode-ai-root-is-now-the-promise-api|opencode/ai root is now the Promise API]]
-- Later: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A plugin's page now shows its developer and version, with links to its website…]]
+- Later: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-plugin-item-view-and-user-only-skills|Plugin Item View and User-only Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

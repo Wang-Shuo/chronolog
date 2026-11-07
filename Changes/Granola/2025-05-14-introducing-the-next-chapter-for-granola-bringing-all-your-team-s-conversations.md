@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7b43a3c29ed5188afd9c6daa744519447bd02cdb6af7e46208deb33946a977b4
+machine_hash: 40b254386ebab4b1220f993db7ce80d8ea2dfb01143fdd9f7184eae65e182a8e
 product: granola
 product_name: Granola
 record:

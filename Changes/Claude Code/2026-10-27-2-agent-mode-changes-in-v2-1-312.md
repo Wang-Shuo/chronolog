@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45a673993219fdb14fdf1566ca85156632b297c3ecbbda7b78233ffebbd2fdcc
+machine_hash: 755dc06b5972a2e4e19d72234e95dbcc2507e96ab546eaf4b7f8a99277719416
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,8 @@ record:
   title: 2 Agent Mode changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added
-  drag-and-drop support for files or screenshots directly onto the Agent panel]]'
-- '[[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop
-  showing a failed swarm for AgentSwarm calls rejected before any subagent…]]'
+- '[[Changes/Krea/2026-10-26-krea-for-touchdesigner|Krea for TouchDesigner]]'
+- '[[Changes/Krea/2026-10-26-more-agent-plugins|More Agent plugins]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'

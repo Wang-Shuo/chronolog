@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dc43eca63ce36364c62d7648b2085e66373ff926dd75154910e992278ba2352
+machine_hash: 4c26ffc0e46ce98d89acdae1099ff6c07299a6eb68b26da55f4bdf7148afe046
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-5-collaboration-changes-in-v0-6-6|5 Collaboration changes in v0.6.6]]
-- Later: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]
+- Later: 2025-05-06 · Recraft · [[Changes/Recraft/2025-05-06-step-3-reuse-and-share-styles|Step 3: Reuse and share styles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c2cb6627966ce1a9615b2d9bb6d9f55c03418cdde886bebbe1ae3acaf30a74d
+machine_hash: 4fe6b766bd6cc38f9deda4473423f28f0f7553c580491fc2b6ed7a3f268dfb98
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in Kimi Code 2.3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-2-developer-workflow-changes-in-v2-1-305|2 Developer
-  Workflow changes in v2.1.305]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2
-  Developer Workflow changes in v1.0.101]]'
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-merge-past-repository-rules-you-are-allowed-to-bypass|Merge
+  Past Repository Rules You Are Allowed to Bypass]]'
+- '[[Changes/Devin/2026-10-21-quote-a-devin-review-finding-into-the-chat|Quote a Devin
+  Review Finding into the Chat]]'
+- '[[Changes/Devin/2026-10-21-received-feedback-rows-open-the-pr-comment|"Received
+  Feedback" Rows Open the PR Comment]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-10-21-2-3-0-5e4838a5|kimi-code-2026-10-21-2-3-0-5e4838a5]]'
 source_type: kimi_code_changelog
 theme: developer-workflow
@@ -86,7 +86,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]]
+- Earlier: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-received-feedback-rows-open-the-pr-comment|"Received Feedback" Rows Open the PR Comment]]
 - Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]
 <!-- chronolog:end -->
 

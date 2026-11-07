@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28c5ae0a248314ed5bc078dbfac0466d682970ab522b5c95ccbef1d92793074a
+machine_hash: d7c6681b158d498b21893a8d84788169e553eea964d7d990e0d1f9ba816a0f8a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,8 +61,7 @@ record:
   title: 9 Model Support changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update
-  model switch confirmation prompts]]'
+- '[[Changes/Krea/2026-10-26-workspace-and-model-updates|Workspace and model updates]]'
 - '[[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App
   Studio]]'
 - '[[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support

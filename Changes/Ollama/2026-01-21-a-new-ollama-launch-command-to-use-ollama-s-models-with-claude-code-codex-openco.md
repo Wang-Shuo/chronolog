@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 75014b59735756edd052eec09459427cc2d9b904a764522396b58f9a2ae51e4d
+machine_hash: c603ac698cdd8c870321ed9d5e09ffb51a4288047750a43b56c1953556e2d749
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: A new `ollama launch` command to use Ollama's models with Claude Code, Codex…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First
-  round of 2026 updates is in!]]'
+- '[[Changes/Raycast/2026-01-20-quick-ai-disabled-ai-model-selects-when-there-is-only-a-single-model-available|Quick
+  AI : Disabled AI model selects when there is only a single model available]]'
 - '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
   Support changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support

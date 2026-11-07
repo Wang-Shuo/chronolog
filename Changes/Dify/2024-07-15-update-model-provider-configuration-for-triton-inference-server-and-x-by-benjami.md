@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 985554a552d800d3937ab162094e3a7be5b1901c0e5cf6d68900e9c72059b9fb
+machine_hash: 38e77592c73d286d42f73a365865a29dc515729b9526de7716185856e4344eda
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: Update model provider configuration for Triton Inference Server and X…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-3-model-support-changes-in-0-7-1|3 Model Support
-  changes in 0.7.1]]'
 - '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
   in v0.43.0]]'
 - '[[Changes/Dify/2024-07-08-4-model-support-changes-in-0-6-13|4 Model Support changes
   in 0.6.13]]'
+- '[[Changes/Superwhisper/2024-07-09-deprecate-ultra-turbo-model|Deprecate Ultra Turbo
+  model]]'
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-4-model-support-changes-in-0-6-13|4 Model Support changes in 0.6.13]]
+- Earlier: 2024-07-09 · Superwhisper · [[Changes/Superwhisper/2024-07-09-deprecate-ultra-turbo-model|Deprecate Ultra Turbo model]]
 - Later: 2024-07-16 · Aider · [[Changes/Aider/2024-07-16-simplified-output-of-models|Simplified output of --models]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 063ea5d10f154f9b066a8275427790e7fbff41db41eeeff2f1cec403638dd1ec
+machine_hash: b3a42f00d0764b9117129e6dabd8858ac51c475b51fb256b9eaeba3ffca2a239
 product: ollama
 product_name: Ollama
 record:
@@ -50,11 +50,11 @@ record:
   title: Image generation models will now respect the `OLLAMA_LOAD_TIMEOUT` variable
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation
-  changes in v0.14.3]]'
 - '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
 - '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
   decision-making Small requests…]]'
+- '[[Changes/LM Studio/2026-01-28-adds-download-copy-and-reveal-in-working-directory-buttons-to-generated-images-i|Adds
+  download, copy, and reveal in working directory buttons to generated images in chat]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe|ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe]]'
 source_type: github_releases
 theme: image-generation
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter decision-making Small requests…]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-adds-download-copy-and-reveal-in-working-directory-buttons-to-generated-images-i|Adds download, copy, and reveal in working directory buttons to generated images in chat]]
 - Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation changes in v0.8.0]]
 <!-- chronolog:end -->
 

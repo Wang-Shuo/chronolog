@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22a62df72f1823e71a3ea4ae039dafcc42a5cbf733d2d9af9bcf2dabdf1b5708
+machine_hash: fc217832a33acde77f147f6e4a2ed411532c835944918bfd26722805a1ffa7e9
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v1.17.6 + 1
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel
-  active turns during session shutdown so foreground shell commands do not…]]'
-- '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
-  Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
+- '[[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-macos-0-64|2
+  Developer Workflow changes in Raycast macos 0.64]]'
+- '[[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-windows-0-64|2
+  Developer Workflow changes in Raycast windows 0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
   Developer Workflow changes in v1.0.62]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-13-v1-17-6-50d6a123|opencode-2026-06-13-v1-17-6-50d6a123]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 149ce80a57fa7b0fc9b5d8738c7cf23c4c73a470da0063ad6ef7aac74afbbe1b
+machine_hash: 2fc4f7a0a6163707fce957c3a8a75e67c33f0b9238826c750fce552c49225e43
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,8 @@ record:
   title: Agentic Commerce Protocol
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-22-package-updates|Package Updates]]'
+- '[[Changes/Devin/2025-09-26-inline-plan-display-for-ask-devin|Inline Plan Display
+  for Ask Devin]]'
 - '[[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground
   testing improvements]]'
 - '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT

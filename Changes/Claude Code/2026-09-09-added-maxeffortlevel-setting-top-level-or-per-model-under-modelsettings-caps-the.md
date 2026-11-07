@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef71eb15788845f7144260748983b9c659987fb95bb1b95ba6310173fd8607a9
+machine_hash: cad532d43ef5c220e2be0554a3069a20b911366098027e5b86f7337953809a13
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
-  Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
-- '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support
-  changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-ai-added-support-openai-compatible-custom-providers-local-models-via-ollama-and-872926|AI
+  : Added support OpenAI-compatible custom providers, local models via Ollama…]]'
+- '[[Changes/Raycast/2026-09-08-bring-your-own-model-brings-three-familiar-ways-to-use-your-preferred-ai-models-ad9a1b|Bring
+  Your Own Model brings three familiar ways to use your preferred AI models back…]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'

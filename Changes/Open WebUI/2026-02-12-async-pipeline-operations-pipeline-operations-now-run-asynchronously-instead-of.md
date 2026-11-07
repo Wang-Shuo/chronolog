@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec2d7b806491ab0e4eb8ee3c53afbff7db05f8fa0b0402c724868287636880a5
+machine_hash: 5a984a05cf7f0a78d39c2ce74b518d7b6e24de191dac9c3c83328989ba562d05
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
     instead…"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
-  Automation and Scheduling changes in v0.27.0]]'
+- '[[Changes/Devin/2026-02-06-schedule-from-the-input-box|Schedule from the Input
+  Box]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
   add setting to disable loop detection]]'
 - '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]]
-- Later: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First, they’re completely autonomous (no manual prompting)]]
+- Later: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-script-commands-let-you-bring-your-own-automation-into-raycast-by-writing-simple|Script Commands let you bring your own automation into Raycast by writing simple…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

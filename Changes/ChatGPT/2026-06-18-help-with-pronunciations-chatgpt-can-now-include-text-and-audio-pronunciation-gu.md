@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e295ade77db71a7161faaa60ad4cb8f8586bd3af2c235352a62abd1bce27bb0
+machine_hash: c65bba44636c4dc960be0a23d7bb95c53aa1f3df92271f38344b339c5a1e38c6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +46,12 @@ record:
   title: Help with pronunciations
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-speech-to-text|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-06-15-speech-to-text-d2421e|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]'
+- '[[Changes/AnythingLLM/2026-06-16-3-voice-and-audio-changes-in-v1-14-1|3 Voice and
+  Audio changes in v1.14.1]]'
+- '[[Changes/Wispr Flow/2026-06-17-always-on-live-dictation-timer-ios|Always-On Live
+  Dictation Timer (iOS)]]'
+- '[[Changes/Wispr Flow/2026-06-17-never-lose-a-dictation-again-ios|Never Lose a Dictation
+  Again (iOS)]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -85,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-elevencreative-studio-f3d23d|ElevenCreative Studio]]
+- Earlier: 2026-06-17 · Wispr Flow · [[Changes/Wispr Flow/2026-06-17-never-lose-a-dictation-again-ios|Never Lose a Dictation Again (iOS)]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add voice to your app with text-to-speech and speech-to-text]]
 <!-- chronolog:end -->
 

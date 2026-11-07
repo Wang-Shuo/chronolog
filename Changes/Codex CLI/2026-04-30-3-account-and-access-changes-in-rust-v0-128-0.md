@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e47913a39df8ea834d0ab26964be343cd2e4b22613351c2d15e24b366c0ea09f
+machine_hash: 958cd5922be2d3a6df22e4b1f2f1be6b14f43b705285c883c0cb9cdf71c140a5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Account and Access changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account
-  and Access changes in v1.14.29]]'
+- '[[Changes/Devin/2026-04-29-auth-type-badges-in-git-connections|Auth-Type Badges
+  in Git Connections]]'
 - '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
   Access changes in 1.14.0]]'
 - '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced

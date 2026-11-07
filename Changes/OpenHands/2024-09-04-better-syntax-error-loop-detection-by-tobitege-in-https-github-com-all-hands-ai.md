@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f668d80e1341ae6b57da8072a01b2c557e5001ee329330e2250857535c8c941
+machine_hash: 56fc9c73b32f73b864b6e23f9afbbc05dbcaf6b8a43e5671d488d48d10fb2880
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: Better syntax error loop detection
   type: change
 related_changes:
-- '[[Changes/Notion/2024-08-13-smarter-more-flexible-automations|Smarter, more flexible
-  automations]]'
 - '[[Changes/Dify/2024-08-14-docs-remove-all-meeting-schedule-links-by-guchenhe-in-https-github-com-langgeniu|Docs/remove
   all meeting schedule links]]'
+- '[[Changes/Raycast/2024-08-14-my-schedule-updated-the-logo-for-webex|My Schedule
+  : updated the logo for Webex]]'
 - '[[Changes/Gemini/2024-08-28-gemini-advanced-and-gemini-for-google-workspace-add-on-priority-access-introduci|Gemini
   Advanced and Gemini for Google Workspace add-on priority access]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'

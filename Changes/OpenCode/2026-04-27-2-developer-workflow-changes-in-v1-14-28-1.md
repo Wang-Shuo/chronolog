@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 17e8d35bcc1d54fe0c4fd01d4528ca6ac613c2ec520a177d31f9857709febfb1
+machine_hash: 89f83e547b4489c231ed0b7d383058916566c1cc9d68268b72f585a063f8c471
 product: opencode
 product_name: OpenCode
 record:
@@ -84,7 +84,7 @@ Source: https://opencode.ai/changelog/v1.14.28
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-show-a-connect-tip-when-no-models-are-configured|Terminal Show a /connect tip when no models are configured]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-2-developer-workflow-changes-in-raycast-macos-0-55|2 Developer Workflow changes in Raycast macos 0.55]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

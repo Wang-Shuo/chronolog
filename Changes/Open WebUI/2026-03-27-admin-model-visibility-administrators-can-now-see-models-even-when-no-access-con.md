@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 11a0780576efaa9c43e3fb43d7bdec20a2f8427b2f642c765730ec783610064f
+machine_hash: 318eae1a32deb8d45e8c56543cbef0138e74e8eb6e0ebd752877564ec2fb0c5b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
     even when no access…"
   type: change
 related_changes:
-- '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
-  we launched v5.5, our best and most personal model yet]]'
+- '[[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet
+  English only model with real-time support added]]'
 - '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
   in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama's app will now no longer incorrectly show "model is out of date"]]
-- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support changes in v1.3.6 + 2]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-2-model-support-changes-in-raycast-macos-0-51|2 Model Support changes in Raycast macos 0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9934bc92ded4f803562dc531193e472bead811cf0b10b6ae19a62d7987fff1fb
+machine_hash: d72c0ebdeb943a86f6cda39e7a896e290b16b400988700b8beb070289d85157f
 product: opencode
 product_name: OpenCode
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Mobile and Desktop changes in v1.3.15 + 1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
-  tool on Windows]]'
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
-  implement strict macOS sandboxing using Seatbelt allowlist]]'
 - '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
   in Apple CarPlay]]'
+- '[[Changes/Raycast/2026-04-03-introducing-virtual-desktop-commands-a-full-suite-of-commands-that-turns-your-de|Introducing
+  Virtual Desktop commands a full suite of commands that turns…]]'
+- '[[Changes/Raycast/2026-04-03-4-mobile-and-desktop-changes-in-raycast-windows-0-52|4
+  Mobile and Desktop changes in Raycast windows 0.52]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-04-v1-3-15-6f7be106|opencode-2026-04-04-v1-3-15-6f7be106]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -94,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.3.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-02 · ChatGPT · [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT in Apple CarPlay]]
+- Earlier: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-4-mobile-and-desktop-changes-in-raycast-windows-0-52|4 Mobile and Desktop changes in Raycast windows 0.52]]
 - Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-3-mobile-and-desktop-changes-in-v1-4-0|3 Mobile and Desktop changes in v1.4.0]]
 <!-- chronolog:end -->
 

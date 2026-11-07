@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9969d0f8441275b588fa064cdc33656a50cc718ddf0aaa7f2c1d79a2caf62cce
+machine_hash: e2c978535d89e27478206120ea790f2837b2fb02b1ddcfe1cd11ab1aad1b7f9e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,10 +45,8 @@ record:
   title: 2 Apps and Integrations changes in Kimi Code 0.13.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
-  Apps and Integrations changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-echo-message-to-slack-toggle|Echo Message to Slack Toggle]]'
+- '[[Changes/Devin/2026-06-10-official-figma-mcp-integration|Official Figma MCP Integration]]'
 - '[[Changes/Kimi Code/2026-06-10-add-an-interrupt-hook-event-that-fires-when-the-user-interrupts-a-turn-e-g-press|Add
   an Interrupt hook event that fires when the user interrupts a turn…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-10-0-13-0-67935ee9|kimi-code-2026-06-10-0-13-0-67935ee9]]'

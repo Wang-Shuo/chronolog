@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a786b97ecc20a857c4d9581617dc7ac2675b024b93e894bb5a4b2e82d7b2b7db
+machine_hash: 537ef9a77d17ae34a56572a06a8958f0d8697706efb91c8f504602f7fe4d402d
 product: replit
 product_name: Replit
 record:
@@ -55,12 +55,11 @@ record:
   title: Teams mobile search
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
-  layout responsive for mobile devices]]'
 - '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
   environment variable setup messages on Windows]]'
 - "[[Changes/Open WebUI/2025-01-05-native-notifications-for-channel-messages-stay-informed-with-integrated-desktop|\U0001F4E3
   Native Notifications for Channel Messages]]"
+- '[[Changes/LM Studio/2025-01-06-new-and-improved-installer|New and improved installer]]'
 source_release: '[[Releases/Replit/replit-2025-01-10-2025-01-10-f947321a|replit-2025-01-10-2025-01-10-f947321a]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-native-notifications-for-channel-messages-stay-informed-with-integrated-desktop|📣 Native Notifications for Channel Messages]]
+- Earlier: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-new-and-improved-installer|New and improved installer]]
 - Later: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
 <!-- chronolog:end -->
 

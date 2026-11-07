@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a6e3ceb2c9e28a7693812fb571b1b6152f17512e904dd38372e69ae944c18a0
+machine_hash: 6a8cbff84c44cbf5b253fa25becedc14468e494db0b13659ea771022aed65d44
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,8 @@ record:
   title: Plugins can now provide slash commands via a `commands` field in their manifest…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
-  in Chrome is now generally available]]'
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
+- '[[Changes/Devin/2026-07-01-slack-thread-sync|Slack Thread Sync]]'
+- '[[Changes/Devin/2026-07-01-unarchive-on-mention|Unarchive on Mention]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
   Apps and Integrations changes in v1.0.68]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-01-0-21-0-c7d001d2|kimi-code-2026-07-01-0-21-0-c7d001d2]]'
@@ -82,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
-- Later: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new MCP connections for Custom Agents]]
+- Later: 2026-07-01 · Krea · [[Changes/Krea/2026-07-01-upload-local-files-through-mcp-with-get-upload-url|Upload local files through MCP with get_upload_url]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

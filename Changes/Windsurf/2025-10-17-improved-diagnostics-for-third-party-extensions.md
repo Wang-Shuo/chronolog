@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62595b6b830f86c31c4e5569290008a345f91f2f52aa97421e058ef38a6d479a
+machine_hash: 829778f92c7a19d4a2e901da33e221e057c9953f21946f228cd476ed9ea6e71d
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,7 @@ record:
   title: Improved diagnostics for third party extensions
   type: change
 related_changes:
-- '[[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora
-  2 and Veo 3.1 in Synthesia: Prompt anything]]'
+- '[[Changes/Devin/2025-10-17-gitlab-ci-cd-integration|GitLab CI/CD Integration]]'
 - '[[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign
   for React apps]]'
 - '[[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]'

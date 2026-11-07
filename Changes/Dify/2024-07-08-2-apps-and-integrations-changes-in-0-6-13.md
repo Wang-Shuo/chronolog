@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8f2e9b4a8c86d7530f66824f3277a6feeee78e1188118c3f2a655956c4140f4
+machine_hash: b16d085ff050fdff30f4517a946f36c62f791fdbb7e093ce8f95c0857ddead02
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in 0.6.13
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
-  and Integrations changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
   management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
+- '[[Changes/Raycast/2024-07-03-clipboard-history-six-digit-hexadecimal-color-codes-copied-from-graphics-design|Clipboard
+  History: Six-digit hexadecimal color codes copied from Graphics & Design…]]'
 - '[[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev):
   bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]'
 source_release: '[[Releases/Dify/dify-2024-07-08-0-6-13-github-164437936-9fca9505|dify-2024-07-08-0-6-13-github-164437936-9fca9505]]'

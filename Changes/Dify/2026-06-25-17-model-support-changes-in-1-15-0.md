@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8c62a704e11fc92e0b9720e2ed2ea83a66e37c36630fe881765ec5335a8bb4f
+machine_hash: 35e9edaf8f4739a15c73c70dc7ce23a067cf457f847b9637e3ea6e4e1dc424d1
 product: dify
 product_name: Dify
 record:
@@ -89,8 +89,8 @@ record:
   title: 17 Model Support changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core
-  Hid gpt-5.5-pro when using Codex OAuth]]'
+- '[[Changes/Wispr Flow/2026-06-24-more-consistent-and-accurate-formatting-all-platforms|More
+  consistent and accurate formatting (All platforms)]]'
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
 - '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model

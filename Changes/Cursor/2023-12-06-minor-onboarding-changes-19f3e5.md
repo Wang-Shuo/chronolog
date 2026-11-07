@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b4ee30a12c0a563437cec31a2cd9c553d000cdccdb66de4be5a54a88b46c9f0
+machine_hash: 23578b50193f37b6b9185d07dcf2a765cf8d690b6aff80d199d677df07854baf
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Onboarding & Feedback
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
-  Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Superwhisper/2023-11-29-disable-arrow-key-navigation-when-download-or-prompt-edit-modals-are-open|Disable
+  arrow key navigation when download or prompt edit modals are open]]'
 - '[[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]'
 - '[[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The
   escape key no longer resets your Tool selection]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The escape key no longer resets your Tool selection]]
-- Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
+- Later: 2023-12-15 · Superwhisper · [[Changes/Superwhisper/2023-12-15-show-app-icon-in-dock-when-onboarding-or-settings-is-open|Show app icon in dock when onboarding or settings is open]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

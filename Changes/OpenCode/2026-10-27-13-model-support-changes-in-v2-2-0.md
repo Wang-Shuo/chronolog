@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df07bf3e50f3c30efa72c269098d53fd78d2ca4c704e48021c03281bfa44c8cf
+machine_hash: 673d4ca437958ef66801ffbde0733bca6c5173d77a4795b96e4b199747d17b35
 product: opencode
 product_name: OpenCode
 record:
@@ -69,8 +69,8 @@ record:
   title: 13 Model Support changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
-  model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
+- '[[Changes/Krea/2026-10-27-old-and-renamed-model-page-links-now-redirect-instead-of-showing-a-404|Old
+  and renamed model page links now redirect instead of showing a 404]]'
 - '[[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative
   decoding now supports DFlash2 draft models on MLX]]'
 - '[[Changes/OpenClaw/2026-10-27-6-model-support-changes-in-v2026-10-8|6 Model Support

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8e995f5933dfcb2b3ffe0b1a832365b1c4775de6d962ab88f30d6187c10828ed
+machine_hash: 6d217b8305bec7912d7fa6d8e896050d7ed833d48d02227e4aa35518fa72a767
 product: notion
 product_name: Notion
 record:
@@ -60,12 +60,11 @@ record:
   title: Notion is now available in Japanese
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-08-on-ios-you-can-now-close-your-mobile-keyboard-by-swiping-it-down|On
-  iOS, you can now close your mobile keyboard by swiping it down]]'
 - '[[Changes/Notion/2021-09-21-create-siri-shortcuts-to-your-notion-pages|Create Siri
   Shortcuts to your Notion pages]]'
 - '[[Changes/Notion/2021-09-21-find-your-notion-pages-in-search-on-iphone-ipad|Find
   your Notion pages in Search on iPhone & iPad]]'
+- '[[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]'
 source_release: '[[Releases/Notion/notion-2021-10-12-https-www-notion-com-releases-2021-10-12-5b20e594|notion-2021-10-12-https-www-notion-com-releases-2021-10-12-5b20e594]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -105,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-find-your-notion-pages-in-search-on-iphone-ipad|Find your Notion pages in Search on iPhone & iPad]]
+- Earlier: 2021-09-23 · Raycast · [[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]
 - Later: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-better-comments-on-mobile|Better comments on mobile]]
 <!-- chronolog:end -->
 

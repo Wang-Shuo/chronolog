@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edc525e037e9c20cd1f41e2b109f2d3672ba7e8c126cb6297ded84140feeb0ea
+machine_hash: 5dee5ea290d99412f01cb0a900e5b06d0238feaa242838d4e1f12bbfe05a1eb9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,8 +46,8 @@ record:
   title: Review the conversation before publishing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
-  Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-separate-direct-messages-and-group-chats-access-settings|Microsoft
+  Teams: Separate Direct Messages and Group Chats Access Settings]]'
 - '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
   changes in v0.12.3]]'
 - '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team

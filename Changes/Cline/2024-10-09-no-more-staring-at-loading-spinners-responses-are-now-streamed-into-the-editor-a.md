@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92fbf05df5a65f457ea2eee567f63cb41733a05e98b4aa14ff959f4c6558c284
+machine_hash: 1178f2ccabd94c3637a0fb827655cddf2dae34d58c538fd33f9d5ab1ec693dbd
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
     the editor…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
-  Chat Rename Tab Update]]"
 - '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
   changes in v0.58.0]]'
+- '[[Changes/AnythingLLM/2024-10-03-1417-completion-timeout-by-timothycarambat-in-https-github-com-mintplex-labs-any|1417
+  completion timeout]]'
 - '[[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]'
 source_release: '[[Releases/Cline/cline-2024-10-09-v2-0-0-github-179063623-cccde13e|cline-2024-10-09-v2-0-0-github-179063623-cccde13e]]'
 source_type: github_releases

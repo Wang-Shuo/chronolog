@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d655f78439a74ea92d1814e50b9b18483630c2589d268a0386e351a322f2a72
+machine_hash: 15c603bc95e2649b893bb82f60e1a3c6e0f2e3aebda59fe6bf6116ca6620ff01
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: Terminal editor is now supported on Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
-  Mobile and Desktop changes in rust-v0.102.0]]'
+- '[[Changes/AnythingLLM/2026-02-18-this-is-a-free-desktop-specific-feature| this
+  is a free & desktop specific feature!]]'
 - '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
   Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat:

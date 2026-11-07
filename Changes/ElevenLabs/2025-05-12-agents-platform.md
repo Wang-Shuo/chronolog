@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 73286628330d00d0868ea1eb73560e5ab086878d0e431ca3a50c9dd8d04377e8
+machine_hash: 5646e30c681db3b03df9fb30069117d7acf5007a701a353dcefe61e7491895b1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,10 +45,11 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-28-agents-platform-4b369f|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]'
 - '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
   support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/AnythingLLM/2025-05-06-improve-japanese-translation-to-maintain-agent-by-suzuki-shm-in-https-github-com|Improve
+  Japanese translation to maintain @agent]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-05-12-2025-05-12-804dc3cb|elevenlabs-2025-05-12-2025-05-12-804dc3cb]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-01 · OpenHands · [[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added support for agent pause and resume functionality in the CLI]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-improve-japanese-translation-to-maintain-agent-by-suzuki-shm-in-https-github-com|Improve Japanese translation to maintain @agent]]
 - Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
 <!-- chronolog:end -->
 

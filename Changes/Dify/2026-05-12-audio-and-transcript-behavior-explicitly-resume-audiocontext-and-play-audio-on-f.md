@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0e4fd068a1a82bbd304150b42d16bed4c5530de1b8ae174b0fa8edb067f363d
+machine_hash: a3b86749c6c69ba459fd26cc48aca7db8b6a65bcaba10f3755243ef388ba15c5
 product: dify
 product_name: Dify
 record:
@@ -47,9 +47,10 @@ record:
   title: '**Audio and transcript behavior**'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-packages|Packages]]'
-- '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
-  implement real-time voice mode with cloud and local backends]]'
+- '[[Changes/Raycast/2026-05-08-dictation-brings-fast-accurate-voice-to-text-to-raycast-on-mac-press-your-hotkey|Dictation
+  brings fast, accurate voice-to-text to Raycast on Mac]]'
+- '[[Changes/Raycast/2026-05-08-2-voice-and-audio-changes-in-raycast-macos-0-57|2
+  Voice and Audio changes in Raycast macos 0.57]]'
 - '[[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and
   Audio changes in v0.9.3]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'

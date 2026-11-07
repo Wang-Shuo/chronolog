@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76325f60c5bc56a5e6ba3d5a62d021a6bb053a8b232557c94a124d8efb6ee1f5
+machine_hash: 94fc8e296dfb976e9e6737cf771b393937e2810c5464c82f8ddab092569d9ce6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,12 @@ record:
     failure
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-transcription|Transcription]]'
-- '[[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]'
+- '[[Changes/Superwhisper/2026-06-11-implement-smooth-scrolling-for-long-transcription-results-in-recording-window|Implement
+  smooth scrolling for long transcription results in recording window]]'
 - '[[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade
   unsupported audio/video to placeholder text and reattach tool result media…]]'
+- '[[Changes/Raycast/2026-06-12-3-voice-and-audio-changes-in-raycast-windows-0-64|3
+  Voice and Audio changes in Raycast windows 0.64]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: voice
@@ -90,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade unsupported audio/video to placeholder text and reattach tool result media…]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-3-voice-and-audio-changes-in-raycast-windows-0-64|3 Voice and Audio changes in Raycast windows 0.64]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice and Audio changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

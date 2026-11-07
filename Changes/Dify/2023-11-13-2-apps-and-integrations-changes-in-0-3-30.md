@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09274edfbedef6ea3a10ef640accda753bea7fa107d35e83a07c3fb3e3a7b78c
+machine_hash: 40d8238e30ccd02d09e7ea42959342243f973a74c7a7a41bdf28db1b27ec7f5f
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Apps and Integrations changes in 0.3.30
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
-  is now based on VS Code 1.83.1]]'
+- '[[Changes/Raycast/2023-11-02-shortcuts-improvements|Shortcuts Improvements]]'
 - '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
   GPTs]]'
 - '[[Changes/Notion/2023-11-07-new-siem-dlp-integrations|New SIEM & DLP integrations]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2f60b2602953a8ab728ce91e8e4bd7db2913af453086d00878df8e83fbc2a806
+machine_hash: ad4cfde9c42aa76f259443bddc596ff600e261b1f42ccf07067a0a38b9cb7a5f
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,11 @@ record:
   title: Custom MCP Server Icons
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2
-  Apps and Integrations changes in rust-v0.74.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2
   Apps and Integrations changes in v0.0.370]]'
 - '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
   and Integrations changes in v2.0.73]]'
+- '[[Changes/Devin/2025-12-19-jira-project-mapping-search|Jira Project Mapping Search]]'
 source_release: '[[Releases/Replit/replit-2025-12-19-2025-12-19-cb186cb0|replit-2025-12-19-2025-12-19-cb186cb0]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps and Integrations changes in v0.6.42]]
+- Earlier: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-jira-project-mapping-search|Jira Project Mapping Search]]
+- Later: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-6-apps-and-integrations-changes-in-raycast-windows-0-40|6 Apps and Integrations changes in Raycast windows 0.40]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

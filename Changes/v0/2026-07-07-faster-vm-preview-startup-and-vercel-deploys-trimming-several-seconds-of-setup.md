@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4840681e26e630a4e0f7113e67de4fd1ebfd3d69e4d9913c5ea97fbde286af7
+machine_hash: 3d1e8d05dbf1bed348c469cff628c4f6cdeeb271926290d989f56096922cf9b1
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,8 @@ record:
     setup
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop
-  Improved large review pane performance]]'
+- '[[Changes/Superwhisper/2026-07-06-faster-pasting-time-to-paste-latency-reduced-by-300ms|Faster
+  pasting — time to paste latency reduced by 300ms]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5

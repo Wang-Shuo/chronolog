@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: dfd8acd659ced389af9eed6c90b7a2e44f86dd17b818b2b4779ab99089e05967
+machine_hash: a63f7e21b59d2d77bcb100eac78c308b49f29429014f1f2cd50fcfafe20ff356
 product: gamma
 product_name: Gamma
 record:
@@ -49,10 +49,10 @@ record:
   title: Previews that match your format
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas):
-  quiet backend logs by default]]'
 - '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
   Data changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-2-files-and-data-changes-in-v1-19-0|2 Files and
+  Data changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
   the Artifact tool''s choice between a page and a document]]'
 source_release: '[[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949]]'

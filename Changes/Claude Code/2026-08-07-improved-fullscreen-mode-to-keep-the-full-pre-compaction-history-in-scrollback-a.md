@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 329861eeddffee738bdf1c2a5826dce689a1646dbaf152385b20021ddc3aa00a
+machine_hash: 46d49eb33eeccf4dde469953b6fbcd8130b3cbfc9afd209da97465db4a2ef279
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved fullscreen mode to keep the full pre-compaction history in scrollback…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
-  Experience changes in v4.1.4]]'
 - '[[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web:
   Pin sessions to the top of the sidebar]]'
 - '[[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web:
   Add a flat view to the sidebar session list]]'
+- '[[Changes/Superwhisper/2026-08-06-faster-smoother-settings-window-with-refined-picker-disclosure-and-appearance-ca|Faster,
+  smoother settings window with refined picker, disclosure, and Appearance…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web: Add a flat view to the sidebar session list]]
+- Earlier: 2026-08-06 · Superwhisper · [[Changes/Superwhisper/2026-08-06-faster-smoother-settings-window-with-refined-picker-disclosure-and-appearance-ca|Faster, smoother settings window with refined picker, disclosure, and Appearance…]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

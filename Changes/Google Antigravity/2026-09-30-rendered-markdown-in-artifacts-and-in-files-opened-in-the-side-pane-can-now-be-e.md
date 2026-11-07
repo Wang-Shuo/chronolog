@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 937b55785d25f67d25d7910bce8fb617e32342ac657c24604272f8e9fc86bd2f
+machine_hash: 47907b75dd6f49e60411640317c03f314e6ecebc37cefb391ec7bdec276736b7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,10 +45,9 @@ record:
   title: Rendered Markdown in artifacts and in files opened in the side pane can now…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4
-  Interface Experience changes in rust-v0.159.0]]'
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-reliability-and-navigation-fixes|Reliability and Navigation
+  Fixes]]'
+- '[[Changes/Devin/2026-09-30-sidebar-and-command-palette|Sidebar and Command Palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
   Interface Experience changes in v1.0.90]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad|google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad]]'

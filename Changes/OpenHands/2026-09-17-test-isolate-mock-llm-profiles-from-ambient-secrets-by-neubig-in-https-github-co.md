@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55ab3bf35122bd8c05ab663ab94d0a5325f9bea3c0946230135200416c202751
+machine_hash: 7d4d7bdc3b868a987e235380e75c44bb05714faeec7faa71b40830bcede3a171
 product: openhands
 product_name: OpenHands
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded reasoning text in the compact timeline is no longer dimmed, so it…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
+- Later: 2026-09-17 · Wispr Flow · [[Changes/Wispr Flow/2026-09-17-meet-canto-our-first-speech-model-all-platforms|Meet Canto, our first speech model (All platforms)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

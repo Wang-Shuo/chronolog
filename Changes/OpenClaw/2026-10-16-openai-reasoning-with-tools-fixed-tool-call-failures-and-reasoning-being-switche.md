@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76980dc2798d1e758b7a1f3d42e04d114f991a66d3c3b18bcb40bfd972575707
+machine_hash: 426dd2a083323e5ad2103d8ca4772a42ced2a3d27683f82d719dbad5ea9c34a8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,10 +44,10 @@ record:
   title: OpenAI reasoning with tools
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
+- '[[Changes/Krea/2026-10-16-topaz-starlight-fast-3-video-enhancer|Topaz Starlight
+  Fast 3 video enhancer]]'
+- '[[Changes/Krea/2026-10-16-krea-3-is-the-default-image-model|Krea 3 is the default
+  image model]]'
 - '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
   changes in v0.12.3]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'

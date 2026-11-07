@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e839f115d7b7570aee2d2bbcdbc7c5af980bb20eb3f0f39f8808c43a38b24640
+machine_hash: fd6846b35bab8516f246f7ad5a494865ce3dcf483a9daae2bd65e0ab4d2a393c
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Display in the logs the prompt cache hit or miss for Deepseek Chat
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority
-  access with Gemini Advanced: Upload your code files]]'
 - '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
   now only applies files that are in context to prevent hallucinations]]'
+- '[[Changes/Devin/2024-10-10-a-new-home-page-designed-for-longer-prompts-and-smaller-screens|A
+  new home page, designed for longer prompts and smaller screens]]'
 - '[[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-17-0-10-0-github-180549988-5d32de10|openhands-2024-10-17-0-10-0-github-180549988-5d32de10]]'
 source_type: github_releases
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]
-- Later: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save fname command will make a file of /add and /read-only commands…]]
+- Later: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-improved-performance-for-long-context-generation|Improved performance for long context generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

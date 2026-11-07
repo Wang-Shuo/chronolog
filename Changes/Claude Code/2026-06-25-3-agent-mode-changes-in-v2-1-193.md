@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7003e704da9cd35ad16f1ca757f02c6019a4e7ff6a4d3179bed58c7f9962b8df
+machine_hash: d6c24c03624eb3dcb48f1663ebca512ea5079c04d2f349ba230599681926271b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Agent Mode changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-22-allow-long-running-foreground-commands-and-subagents-to-be-moved-into-background|Allow
-  long-running foreground commands and subagents to be moved into background…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
   Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent
   Mode changes in v1.0.65]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-agent-mode-changes-in-v1-15-0|2 Agent Mode changes
+  in v1.15.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent Mode changes in v1.0.65]]
+- Earlier: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-2-agent-mode-changes-in-v1-15-0|2 Agent Mode changes in v1.15.0]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes in 1.15.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d4a39016f5fda41736ec433c6fd8f0fdea7bc5f2b66b692937f38aeabcc1e48f
+machine_hash: 536f14bab31e7e0b1ff02fdbf8a51e8cb2da4838591415368723b39980616101
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: Support bearer token authentication for BYOK Anthropic models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
-  GitHub URL input in the login flow now accepts keyboard input and submits…]]'
 - '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
   Improved opencode login transport error messages]]'
+- '[[Changes/Superwhisper/2026-04-08-added-enterprise-login-support-for-business-users|Added
+  Enterprise login support for business users]]'
 - '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
   interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2 Account and Access changes in rust-v0.119.0]]
+- Later: 2026-04-09 · LM Studio · [[Changes/LM Studio/2026-04-09-add-oauth-support-for-mcp-servers|Add OAuth support for MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

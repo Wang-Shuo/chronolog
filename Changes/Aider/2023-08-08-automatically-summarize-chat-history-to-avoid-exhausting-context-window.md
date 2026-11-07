@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0a6400d413e9eb1854b1bddc836692e759c714c8c0d17e0e8e79383ef027a6b
+machine_hash: 482a6b1599dba207fcd46679d8529c7ed90addb2a7d23044e79983755b95a509
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Automatically summarize chat history to avoid exhausting context window
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
-  context controls only show up if you have indexed your codebase]]'
 - '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
   control of context building abilities for codebase-wide chat]]'
+- '[[Changes/Raycast/2023-07-27-ai-commands-built-in-commands-now-use-gpt-3-5-turbo-model-with-up-to-16k-context|AI-Commands:
+  Built-in commands now use gpt-3.5-turbo model with up to 16k context]]'
 - '[[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
   summarize chat history to avoid exhausting context window]]'
 source_release: '[[Releases/Aider/aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9|aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
-- Later: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add context to api documentation for /api/generate]]
+- Later: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-ai-continue-your-translate-command-translations-in-the-ai-chat-to-add-more-conte|AI : Continue your “Translate” command translations in the AI Chat to add more context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e95ac369826aa18b33860e920d32d618c6d33b39ea3af7b3a57f6a02ae203cd9
+machine_hash: 1888005507f1a49c2bb3139f20f93d55c59fa96d4605c00d235e4c8df27342f1
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in Kimi Code 0.9.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface
-  Experience changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
   a slash command in the autocomplete menu now fills it into your prompt…]]'
+- '[[Changes/Devin/2026-06-03-persisted-orange-sidebar-indicator-for-quota-suspended-sessions-made-question-an|Persisted
+  orange sidebar indicator for quota-suspended sessions]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-03-0-9-0-d6b33fef|kimi-code-2026-06-03-0-9-0-d6b33fef]]'
 source_type: kimi_code_changelog
 theme: interface-experience
@@ -83,8 +83,8 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface Experience changes in v2.1.163]]
+- Earlier: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-persisted-orange-sidebar-indicator-for-quota-suspended-sessions-made-question-an|Persisted orange sidebar indicator for quota-suspended sessions]]
+- Later: 2026-06-03 · Krea · [[Changes/Krea/2026-06-03-ideogram-v4-0-is-now-available-in-krea|Ideogram v4.0 is now available in Krea]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

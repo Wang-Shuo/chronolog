@@ -542,3 +542,117 @@ products:
     silence_periods: 2
     silence_baseline_factor: 0.5
     language: en
+  - name: krea
+    display_name: Krea
+    feed_type: krea_changelog
+    url: https://www.krea.ai/docs/changelog
+    markdown_url: https://www.krea.ai/docs/changelog.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every dated entry currently present in the official Krea changelog, covering models, agents, creative tools and APIs. Earlier blog-only announcements are outside this endpoint. Dates are the explicit announcement dates; media contents are not transcribed.
+    themes: [image-generation, video-generation, agent-mode, model-support, apps-integrations, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: recraft
+    display_name: Recraft
+    feed_type: canny_changelog
+    url: https://feedback.recraft.ai/changelog
+    api_url: https://feedback.recraft.ai/api/changelog/getEntries
+    title_only_notes: true
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All published entries in Recraft's official public Canny changelog, traversed to the final page. Empty or media-only announcements retain their descriptive official title; media contents, drafts and deleted posts are excluded.
+    themes: [image-generation, video-generation, model-support, interface-experience, collaboration, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: raycast
+    display_name: Raycast
+    feed_type: raycast_changelog
+    url: https://www.raycast.com/changelog
+    surfaces: [macos, macos-v1, windows, ios]
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every page of the official macOS, legacy macOS V1, Windows and iOS archives, with platform-qualified version identities. Includes AI and general launcher/workspace features and any public beta releases listed there; extension-store changes have a separate history.
+    themes: [agent-mode, model-support, voice, apps-integrations, automation-scheduling, mobile-desktop, projects-workspaces]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: devin
+    display_name: Devin
+    feed_type: devin_changelog
+    url: https://docs.devin.ai/release-notes/overview
+    markdown_url: https://docs.devin.ai/release-notes/overview.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Official dated platform notes from every annual archive linked by the recent-updates overview. Annual notes are authoritative because duplicate overview text can be older; every recent overview date must be covered. Separately versioned Desktop and CLI changelogs are not imported; the existing Windsurf entry covers Desktop versions.
+    themes: [agent-mode, developer-workflow, automation-scheduling, apps-integrations, enterprise-admin, projects-workspaces]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: lm-studio
+    display_name: LM Studio
+    feed_type: lmstudio_changelog
+    url: https://lmstudio.ai/changelog/lmstudio
+    api_url: https://lmstudio.ai/api/changelog
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: The complete stable LM Studio version list returned by its official changelog API, checked against the reported total. Each version includes the builds currently grouped under it and the API's version release date. Bionic, beta builds and separately released runtime or SDK histories are excluded.
+    themes: [model-support, file-data, apps-integrations, developer-workflow, reliability-performance, multimodal]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: anythingllm
+    display_name: AnythingLLM
+    feed_type: github_releases
+    repo: Mintplex-Labs/anything-llm
+    github_page_size: 30
+    include_prereleases: false
+    tag_pattern: '^v\d+\.\d+\.\d+$'
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Stable versioned releases from AnythingLLM's official application repository. Notes include the platform and Docker features described upstream; separately distributed desktop-only changes and prereleases are outside this history.
+    themes: [agent-mode, model-support, file-data, memory, apps-integrations, search-browsing, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: superwhisper
+    display_name: Superwhisper
+    feed_type: superwhisper_changelog
+    url: https://superwhisper.com/changelog
+    surfaces: [macos, windows, ios, android]
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All versions exposed by the official macOS, Windows, iOS and Android changelog tabs. Each platform is checked separately and retains its own version identity. Older mobile history absent from these tabs and Linux announcements without a changelog tab are outside coverage.
+    themes: [voice, meeting-notes, model-support, apps-integrations, mobile-desktop, accessibility-localization]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: wispr-flow
+    display_name: Wispr Flow
+    feed_type: wispr_flow_changelog
+    url: https://wisprflow.ai/whats-new
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every dated batch currently available on the official What's New page, preserving Desktop, iOS, Android and Notetaker scope. Dates come from the visible release labels, not potentially older HTML anchor names. Updates absent from this current archive are outside coverage.
+    themes: [voice, meeting-notes, apps-integrations, mobile-desktop, collaboration, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en

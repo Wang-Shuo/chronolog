@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 58d1ab3eb3defe21263bef26f24974030aad95a10bf1e9945183dbecc4be759b
+machine_hash: cd1f1cea93002a99bba44824d6fd1b417f0cbfc0787df639e0c576531ee6cfd6
 product: descript
 product_name: Descript
 record:
@@ -58,8 +58,8 @@ record:
   title: File upload speed boost on Web
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
+- '[[Changes/AnythingLLM/2024-07-26-4-mobile-and-desktop-changes-in-v1-0-0|4 Mobile
+  and Desktop changes in v1.0.0]]'
 - '[[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]'
 - '[[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama
   on Windows will now show better error messages if required files are missing]]'

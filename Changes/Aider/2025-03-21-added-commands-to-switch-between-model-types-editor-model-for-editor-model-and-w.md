@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21eeefbf1f76655507d79f9c7620f36f90ed30b7d8fcfef12452ff06f31cba6a
+machine_hash: 09e4bc95a5ee2bb66121a99518f280cc2e8c9966165128b93aab8a58a8d44ef4
 product: aider
 product_name: Aider
 record:
@@ -54,11 +54,12 @@ record:
   title: Added commands to switch between model types
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
-  Cursor Tab accepts work with single-line selections]]'
-- '[[Changes/Descript/2025-03-11-editor-updates|Editor updates]]'
-- '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
-  Gemini to remember the things you care about]]'
+- '[[Changes/Devin/2025-03-19-tag-sessions-with-custom-tags-that-you-can-filter-by-in-the-session-manager-clic|Tag
+  sessions with custom tags that you can filter by in the Session Manager]]'
+- '[[Changes/Devin/2025-03-19-easily-tag-file-name-to-reference-files-in-devin-s-input-box-so-devin-can-quickl|Easily
+  tag @file_name to reference files in Devin''s input box so Devin can quickly…]]'
+- '[[Changes/Raycast/2025-03-19-focus-added-a-toggle-in-the-extension-setting-to-allow-all-websites-in-allow-mod|Focus:
+  Added a toggle in the extension setting to allow all websites in Allow mode…]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask Gemini to remember the things you care about]]
+- Earlier: 2025-03-19 · Raycast · [[Changes/Raycast/2025-03-19-focus-added-a-toggle-in-the-extension-setting-to-allow-all-websites-in-allow-mod|Focus: Added a toggle in the extension setting to allow all websites in Allow mode…]]
 - Later: 2025-03-21 · Replit · [[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]
 <!-- chronolog:end -->
 

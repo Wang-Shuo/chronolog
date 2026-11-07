@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90c0b8737d0e2960f8cb3cc90b89d750fc6f43015a16fb111ca9e3816c9b4d7f
+machine_hash: fa97ac76e403159c7b104fb600f4dc928b61ed093bbdf2cb79e8957199009363
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add MSI installer for Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile
-  and Desktop changes in v1.1.30]]'
 - '[[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile
   and Desktop changes in v1.1.29]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-mobile-and-desktop-changes-in-v1-10-0|3 Mobile
+  and Desktop changes in v1.10.0]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
   notifications now have accept/reject buttons like MacOS]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-22-v0-0-389-github-278840898-1a4f495f|github-copilot-cli-2026-01-22-v0-0-389-github-278840898-1a4f495f]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73d779f5de1dce0abd5d0b30ac9ab2cda31f2732b4f2d00b12e5b71c4007334f
+machine_hash: aea992ef46060c99a11ce875aa25d5170eaaa1abd2f4b547155b8cda994849df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Editor Experience changes in v0.0.399
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
-  now appear in @mention autocomplete]]'
+- '[[Changes/LM Studio/2026-01-28-show-release-notes-in-a-dedicated-tab-after-app-updates|Show
+  release notes in a dedicated tab after app updates]]'
 - '[[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience
   changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f569baa4f3d873e0fd6357de0485b00601c5f47e2fd516fab01135a3d047b185
+machine_hash: 4dff52d75d1ccdc5befc3d5470a00e7b63c4390c7051a865cd936599e973eb72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#37057 [0.146] Backport safer cyber-model auto-review defaults @anp-oai'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
-  run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
+- '[[Changes/Superwhisper/2026-08-04-updates-to-models-library|Updates to Models Library]]'
 - '[[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes
   in v4.1.4]]'
 - '[[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e138c91b80f7c18b27524cf3cae6a38a4216be3f7bb8af32a9007ab2d5ede32c
+machine_hash: 32c6d84ff10fd2637d78851e3551a09236a618c2d22ebf48e41e72415d5aa44f
 product: gamma
 product_name: Gamma
 record:
@@ -47,12 +47,10 @@ record:
   title: Claude and ChatGPT connectors just got smarter
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
-  connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
-- '[[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP
-  integrations can now send prompts, slash commands, and usage updates through acp-next]]'
 - '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
   Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-raindrop-ai-mcp-in-marketplace|Raindrop.ai MCP in Marketplace]]'
+- '[[Changes/Devin/2026-05-29-new-command-palette|New Command Palette]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-29-6a0c9b3c7fd2e7ae2339a213-8ddc732b|gamma-2026-05-29-6a0c9b3c7fd2e7ae2339a213-8ddc732b]]'
 source_type: gamma_changelog
 theme: apps-integrations
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
+- Earlier: 2026-05-29 · Devin · [[Changes/Devin/2026-05-29-new-command-palette|New Command Palette]]
 - Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
 <!-- chronolog:end -->
 

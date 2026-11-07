@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 935c3e71f3083413755538634f166bf43ac25c117ad2164fb800f030c2d5fba0
+machine_hash: 9f5178a1c4cfaf56691682202443997b728e2957cd291866cfc11f6f02930e42
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add /security-review slash command to review code changes for security…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy
-  changes in 1.14.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
   permission prompts now name who can see a stored memory]]'
+- '[[Changes/Raycast/2026-05-19-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 - '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
   Safety and Privacy changes in rust-v0.132.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'

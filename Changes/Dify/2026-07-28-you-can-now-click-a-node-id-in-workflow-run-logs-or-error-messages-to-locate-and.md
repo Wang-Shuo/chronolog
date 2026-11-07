@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab12d35b9aafc5cbdb4b7404c8d164b15f9492ea8a7a8f4b8d9fdcbda7a6a96a
+machine_hash: 07f7b9ebf82c29b0ea04532fb305b2e17a3d1ae46b3f0831cf56b3596d195219
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,8 @@ record:
   title: Click a node_id in workflow run logs or error messages to locate and highlight…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
-  starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Recraft/2026-07-23-refine-paths-directly-on-the-canvas|Refine paths directly
+  on the canvas]]'
 - '[[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and
   Data changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-3-files-and-data-changes-in-1-16-1|3 Files and Data changes

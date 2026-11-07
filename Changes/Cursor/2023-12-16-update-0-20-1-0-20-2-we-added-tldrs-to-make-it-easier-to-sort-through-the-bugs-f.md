@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 427e740492f02462f2a4e82fc4d0b0f0dbd87b9827b6e321f23135829f063c99
+machine_hash: 9c46519af836b8f37c520dc39cc71781f66f6509479058acd1d0550f1a8e9742
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
     the bugs…'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New
-  AI Action: Remove Retakes]]'
 - '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
   bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
+- '[[Changes/Raycast/2023-12-13-ai-commands-highlight-edits-in-the-ai-response-by-enabling-this-option-via-creat|AI
+  Commands: Highlight edits in the AI response by enabling this option…]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
   Improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'

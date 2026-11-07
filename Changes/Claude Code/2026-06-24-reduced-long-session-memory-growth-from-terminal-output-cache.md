@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de469077338474568f8f1dab6949c5af6aa5ab0ba7759ed6b8956a134130b43d
+machine_hash: 1fdde1d85ad6a5a8415ebc4063418bca150c03cca258fd94a69e8a5dbecf0b68
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Reduced long-session memory growth from terminal output cache
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
-  Reliability and Performance changes in rust-v0.142.0]]'
 - '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
   up session snapshot loading with a direct disk reader and a request timeout…]]'
+- '[[Changes/Superwhisper/2026-06-22-faster-microphone-initialization-between-recordings|Faster
+  microphone initialization between recordings]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
   per-model token totals in /usage and speed up large history scans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show per-model token totals in /usage and speed up large history scans]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added automatic memory-pressure reaping for idle background shell commands…]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views|UI : Improved performance of hover state in list views]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

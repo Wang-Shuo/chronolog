@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3cd7f9fddb2ff907cef332b0de2610f1a30e83d734f491802890bc08c51dc18
+machine_hash: e0cdf56f850f9cd2c4577cab049492143095a7f62fce9a7287ab44ebba5d4802
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Voice Cloning: your voice in 29 languages'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
-  changes in 0.6.5]]'
-- '[[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features
-  in rooms]]'
 - '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
   next week)]]'
+- '[[Changes/Superwhisper/2024-04-30-add-mute-while-recording-options-in-audio-settings|Add
+  "Mute while recording" options in audio settings]]'
+- '[[Changes/Superwhisper/2024-04-30-make-sure-system-audio-recording-is-stopped-when-recording-is-completed|Make
+  sure system audio recording is stopped when recording is completed]]'
 source_release: '[[Releases/Synthesia/synthesia-2024-05-07-https-www-synthesia-io-updates-voice-cloning-your-voice-in-29-la-69945fc6|synthesia-2024-05-07-https-www-synthesia-io-updates-voice-cloning-your-voice-in-29-la-69945fc6]]'
 source_type: synthesia_changelog
 theme: voice
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully next week)]]
+- Earlier: 2024-04-30 · Superwhisper · [[Changes/Superwhisper/2024-04-30-make-sure-system-audio-recording-is-stopped-when-recording-is-completed|Make sure system audio recording is stopped when recording is completed]]
 - Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio changes in 0.6.7]]
 <!-- chronolog:end -->
 

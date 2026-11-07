@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac4316ec80cd9e25e2e03d59276980f828a2a7b766c93dbc92b1230a2ae10d1b
+machine_hash: c4016c208a9d7d55d67fe0457dd082e5bf509a19e5d1a7d5fc53cc9897fe782d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-repl-app|Repl - App]]
-- Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-add-azure-openai-api-version-2024-12-01-preview-by-kei-yamazaki-in-https-github|add azure openai api version 2024-12-01-preview]]
+- Later: 2025-02-05 · Raycast · [[Changes/Raycast/2025-02-05-hyper-key|Hyper Key]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

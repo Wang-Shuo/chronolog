@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c34eb27f96b3351db77b53a10eb7ab9e5ca387ac9c77116c7052068147e6ee2
+machine_hash: da229ce7428e6b8645e192f69b13cf876a9c0e6e9ff10da964e54b592afa30a9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Custom agents with special characters in filenames no longer fail
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents):
-  Remove legacy subagent code]]'
 - '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
   changes in rust-v0.52.0]]'
+- '[[Changes/Devin/2025-10-31-unified-agent-selection-experience|Unified Agent Selection
+  Experience]]'
 - '[[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now
   when you edit an AI-generated image with Agent, those changes are automatically…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'

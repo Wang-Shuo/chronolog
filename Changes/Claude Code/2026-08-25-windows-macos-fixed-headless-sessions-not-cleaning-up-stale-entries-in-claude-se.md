@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93f702d1ee45b06f81cc1487051a2c8d7f12e8653f8d4f3ce718a89478397b41
+machine_hash: 6e22a10630b15893b97446c04b1717343cb18ac73deddd1761a5d7afeedb28da
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,10 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop
-  Register the archive session command in both desktop layouts]]'
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-08-21-shortcuts-controls-desktop|Shortcuts & Controls
+  (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-08-21-reports-that-never-get-lost-android|Reports That
+  Never Get Lost (Android)]]'
 - '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
   Keep model provider headers visible while scrolling the model picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

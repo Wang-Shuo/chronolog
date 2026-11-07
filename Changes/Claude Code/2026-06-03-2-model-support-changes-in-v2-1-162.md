@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68ec10deaa8705f92433ffa815cf49353a518b098e5ee28d3ecdff0bbfa97b31
+machine_hash: fab836cc8dff5276296cc6d2f4c554252c210e50da51dcacd24f50c81a21af00
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Model Support changes in v2.1.162
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-02-4-model-support-changes-in-kimi-code-0-8-0|4 Model
-  Support changes in Kimi Code 0.8.0]]'
 - '[[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model
   Support changes in Kimi Code 0.7.0]]'
+- '[[Changes/Krea/2026-06-02-krea-2-on-artificial-analysis|Krea 2 on Artificial Analysis]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use
   Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

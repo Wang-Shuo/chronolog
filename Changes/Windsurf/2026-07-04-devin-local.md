@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 726cb8b61ee075a120060f0879f7f58e2e3500b0ab5fa2b7e57498604d1b4f73
+machine_hash: 2f14b432d9aeede8ee4ee8e5ad54840fecc8eba4407a3189e0b9d80a61fe81e8
 product: windsurf
 product_name: Windsurf
 record:
@@ -54,12 +54,10 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
-  Experience changes in v1.17.13]]'
-- '[[Changes/Kimi Code/2026-07-02-2-editor-experience-changes-in-kimi-code-0-22-0|2
-  Editor Experience changes in Kimi Code 0.22.0]]'
-- '[[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove
-  duplicate newline-shortcut handling from the prompt editor]]'
+- '[[Changes/Devin/2026-07-03-diff-line-permalinks|Diff Line Permalinks]]'
+- '[[Changes/Devin/2026-07-03-slack-sync-toast-improvements|Slack Sync Toast Improvements]]'
+- '[[Changes/Raycast/2026-07-03-hotkeys-you-can-now-assign-copilot-key-as-hyper-key|Hotkeys
+  : You can now assign Copilot key as Hyper key]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove duplicate newline-shortcut handling from the prompt editor]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-hotkeys-you-can-now-assign-copilot-key-as-hyper-key|Hotkeys : You can now assign Copilot key as Hyper key]]
 - Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web: Align the markdown diff code block with the design system: code text keeps…]]
 <!-- chronolog:end -->
 

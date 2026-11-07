@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f6f61621631c389f2dd7850d7df10d0f30e67f7eaacb3bf98d6a771e4734b13
+machine_hash: 90737d9b105d1601e5fc4b92e061899f9047e98e40657129200bab22c7dd1d91
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +43,12 @@ record:
     in the same repo
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]'
-- '[[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app
-  to older projects]]'
-- '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
-  on an iOS Simulator or Android Emulator]]'
+- '[[Changes/Wispr Flow/2026-04-24-adjustable-bubble-opacity-android|Adjustable bubble
+  opacity (Android)]]'
+- '[[Changes/Wispr Flow/2026-04-24-insights-see-how-you-use-flow-desktop|Insights:
+  see how you use Flow (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-04-24-auto-cleanup-choose-how-much-flow-edits-for-you-desktop|Auto
+  Cleanup: choose how much Flow edits for you (Desktop)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-28-v1-14-29-58597a67|opencode-2026-04-28-v1-14-29-58597a67]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview on an iOS Simulator or Android Emulator]]
+- Earlier: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-auto-cleanup-choose-how-much-flow-edits-for-you-desktop|Auto Cleanup: choose how much Flow edits for you (Desktop)]]
 - Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
 <!-- chronolog:end -->
 

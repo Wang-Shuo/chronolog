@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 417c3a4ec16d113bf4680a1c03b1a518de4950bcd80ba216fbb3e776be483b4f
+machine_hash: 630e5c21cdfb1e72a256315631ad2028ac54afd0dc16f0e778dcf2dec4b2d8ca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#9512 Fix resume picker when user event appears after head @jdsalasca'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
-  slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
-- '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
-  changes in 2.4]]'
 - '[[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface
   Experience changes in v1.1.32]]'
+- '[[Changes/Raycast/2026-01-23-ai-added-action-to-go-parent-chat-in-title-menu|AI:
+  Added action to go parent chat in title menu]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-automate-repetitive-tasks-and-eliminate-chores-by-creating-ai-comman|AI
+  Commands: Automate repetitive tasks and eliminate chores by creating AI Commands…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface Experience changes in v1.1.32]]
+- Earlier: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-ai-commands-automate-repetitive-tasks-and-eliminate-chores-by-creating-ai-comman|AI Commands: Automate repetitive tasks and eliminate chores by creating AI Commands…]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface Experience changes in v2.1.20]]
 <!-- chronolog:end -->
 

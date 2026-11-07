@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da7fd2e286a545a307014d5732470924d1b4742fec066d3556ffda7400d28632
+machine_hash: 8eaf27d429132f84477cffd736d33fdbe12f59667b978103c7e56fe63a5ced39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,9 @@ record:
   title: Plugin marketplace automation is more informative and responsive
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-02-render-scheduled-reminders-distinctly-in-the-tui-expose-cron-fired-events-to-sdk|Render
-  scheduled reminders distinctly in the TUI, expose cron fired events to SDK…]]'
-- '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
-  wait() on local runs]]'
+- '[[Changes/Devin/2026-06-05-webhook-url-in-automation-editor|Webhook URL in Automation
+  Editor]]'
+- '[[Changes/Devin/2026-06-05-prompt-to-reconnect-linear|Prompt to Reconnect Linear]]'
 - '[[Changes/Claude Code/2026-06-08-workflows-now-opens-immediately-even-while-a-turn-is-in-progress|/workflows
   now opens immediately even while a turn is in progress]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf185eeecd1896002de1233e4c7944720071ddb9d0330adcdec98f0ac7fa5114
+machine_hash: 25c2465c021678803317aad54777e291433c4673584709af1e66781d3ed17c58
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: 2 Collaboration changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
-  changes in rust-v0.163.0]]'
 - '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
   has been discontinued]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-separate-direct-messages-and-group-chats-access-settings|Microsoft
+  Teams: Separate Direct Messages and Group Chats Access Settings]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: collaboration
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
+- Earlier: 2026-10-16 · Devin · [[Changes/Devin/2026-10-16-microsoft-teams-separate-direct-messages-and-group-chats-access-settings|Microsoft Teams: Separate Direct Messages and Group Chats Access Settings]]
 - Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team avatar changes show immediately in the scope switcher instead of a cached image]]
 <!-- chronolog:end -->
 

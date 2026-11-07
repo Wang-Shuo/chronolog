@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5060acdfeedae60185c84f72ca0c9256ea48fa57e3ba175abab96020be045847
+machine_hash: d49abf913c1801b113b43551bfa3bbef55eff6c932b823f12dbee78b095402c7
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,8 +52,8 @@ record:
   title: Shared helpers consolidate repeated implementation, including preparation…
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-09-03-reassign-create-and-rename-speakers-in-a-dubbed-video-with-one-click-available-o|Adjust
-  speaker attribution for dubbed videos]]'
+- '[[Changes/Krea/2026-09-07-compute-estimates-before-you-generate|Compute estimates
+  before you generate]]'
 - '[[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing
   Runway Plugins for Adobe]]'
 - '[[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway

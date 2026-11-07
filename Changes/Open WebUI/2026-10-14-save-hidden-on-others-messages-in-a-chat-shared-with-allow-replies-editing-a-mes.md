@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72d863feffffb70cd5906df3991b75ad6d367fa606641c9f64e896e2d38a1495
+machine_hash: 92d6590d6b2282b8549405364fd462cac91a9b96e079f0d1fa01963a8449df5d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,11 +50,11 @@ record:
     replies, editing…"
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-brand-glossary-rebuilt|Brand Glossary, rebuilt]]'
 - '[[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create
   Syren videos in ChatGPT and Claude]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
+- '[[Changes/Devin/2026-10-14-microsoft-teams|Microsoft Teams]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
 source_type: github_releases
 theme: collaboration
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-microsoft-teams|Microsoft Teams]]
 - Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration through conversation]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a28487e396d669cd6baeff61380ad6b0ec9216bb7d67c95d4b482d5c9dda0f26
+machine_hash: 0adb318124e0a9bf7d85dd753cb34c3203e2f7db986309bcb7d465db09581bb7
 product: descript
 product_name: Descript
 record:
@@ -55,8 +55,8 @@ record:
   title: Audio previews now available in the Editor sidebar
   type: change
 related_changes:
-- '[[Changes/Descript/2025-10-09-import-files-from-other-projects-beta|Import files
-  from other projects (beta)]]'
+- '[[Changes/Raycast/2025-10-17-2-voice-and-audio-changes-in-raycast-ios-1-1-1|2 Voice
+  and Audio changes in Raycast ios 1.1.1]]'
 - '[[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription
   now available in Beta]]'
 - '[[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]'

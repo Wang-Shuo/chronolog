@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bf743142fc3cc71341cd11c8eb8a892c035de1e44b39b3fb83a2d990fcab1a2
+machine_hash: 35718bcfaa7465d49d3c301be0ebb57f85912044b51828077c2123948207e8d0
 product: descript
 product_name: Descript
 record:
@@ -65,11 +65,11 @@ record:
     screen…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
-  Code Cleanup]]'
 - '[[Changes/Descript/2025-06-25-generate-button-for-avatar-added-to-scene-editor-toolbar|Generate
   button for Avatar added to Scene editor toolbar]]'
 - '[[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]'
+- '[[Changes/LM Studio/2025-06-25-cmd-shift-e-on-mac-or-ctrl-shift-e-on-pc-always-opens-the-system-prompt-editor-f|Cmd
+  + Shift + E on Mac or Ctrl + Shift + E on PC always opens the system prompt…]]'
 source_release: '[[Releases/Descript/descript-2025-06-26-685dcfebdae93acd4370d711-3b49d7b8|descript-2025-06-26-685dcfebdae93acd4370d711-3b49d7b8]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -112,8 +112,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved GitHub Copilot token handling with better validation and error messages…]]
+- Earlier: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-cmd-shift-e-on-mac-or-ctrl-shift-e-on-pc-always-opens-the-system-prompt-editor-f|Cmd + Shift + E on Mac or Ctrl + Shift + E on PC always opens the system prompt…]]
+- Later: 2025-06-26 · Devin · [[Changes/Devin/2025-06-26-git-permissions-ui|Git Permissions UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

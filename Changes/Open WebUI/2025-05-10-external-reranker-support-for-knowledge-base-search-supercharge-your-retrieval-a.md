@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 55fad92199b9ceec0a1fad7e4d45905493d91dd055805525c2b460db108e6b5e
+machine_hash: a69a3a22caa9554bf956645ce2a92fc4073de5e2eaaeccfec1f739ec3665f5e7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,7 +61,8 @@ record:
   title: "\U0001F3C6 **External Reranker Support for Knowledge Base Search**"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- '[[Changes/Raycast/2025-05-08-raycast-now-includes-integration-with-the-model-context-protocol-mcp-you-can-ins|Raycast
+  now includes integration with the Model Context Protocol (MCP)]]'
 - '[[Changes/Replit/2025-05-09-paypal-checkout-integration|PayPal checkout integration]]'
 - '[[Changes/Replit/2025-05-09-notion-integration|Notion integration]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31|open-webui-2025-05-10-v0-6-8-github-217786259-d3493a31]]'

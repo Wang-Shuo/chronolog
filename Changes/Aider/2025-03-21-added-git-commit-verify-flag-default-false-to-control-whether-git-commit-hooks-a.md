@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 372e012da4a051c32e14cf19f7449137300d418df414d754fd6abb4f8407f41d
+machine_hash: 8c85f8665f6833d2de7b7f11e210d8d0ff67818d8c62ca4f046b4ead3cd07198
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `--git-commit-verify` flag (default
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-11-8-apps-and-integrations-changes-in-1-0-1|8 Apps and Integrations
-  changes in 1.0.1]]'
-- '[[Changes/Gemini/2025-03-13-gemini-with-2-0-flash-thinking-experimental-is-now-even-better-at-completing-com|Gemini
-  with 2.0 Flash Thinking (experimental) is now even better at completing…]]'
 - '[[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced
   Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]'
+- '[[Changes/Devin/2025-03-19-connect-multiple-github-orgs-to-the-same-devin-account-you-can-easily-set-this-u|Connect
+  multiple GitHub orgs to the same Devin account - you can easily set…]]'
+- '[[Changes/Raycast/2025-03-19-workspace-added-the-quit-all-apps-except-frontmost-command-use-this-feature-to-f|Workspace:
+  Added the “Quit All Apps Except Frontmost” command]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]
+- Earlier: 2025-03-19 · Raycast · [[Changes/Raycast/2025-03-19-workspace-added-the-quit-all-apps-except-frontmost-command-use-this-feature-to-f|Workspace: Added the “Quit All Apps Except Frontmost” command]]
 - Later: 2025-03-21 · Dify · [[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub Plugin Installation]]
 <!-- chronolog:end -->
 

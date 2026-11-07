@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbc4a2941cf984e7495bb3b36e31a00b2bcb2c5a470feef7b3c4a92530bd7015
+machine_hash: 1af5736a33985351c1792bd389021743d0e1fba8ee29ccafaaefd6d3f9305147
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Developer Workflow changes in v1.2.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer
-  Workflow changes in v1.1.60]]'
 - '[[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove
   worktree delete functionality]]'
+- '[[Changes/Raycast/2026-02-13-quickly-create-a-new-script-with-create-script-command-or-import-existing-script|Quickly
+  create a new script with Create Script Command or import existing scripts…]]'
 - '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
   Workflow changes in v0.8.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-14-v1-2-0-11b2ee7c|opencode-2026-02-14-v1-2-0-11b2ee7c]]'

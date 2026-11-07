@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4105b28ac40d5799f3ea1da95eb53bdb8403b10eb8c3fa17656f1089d1f7430
+machine_hash: 713430ca73006ab51e114ab3707bb5f6a7a601cef320e7e77974924af0dde354
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: Ability to import and use GGUF file type models
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-30-2-model-support-changes-in-v0-0-17|2 Model Support
-  changes in v0.0.17]]'
 - '[[Changes/Dify/2023-08-31-3-model-support-changes-in-0-3-19|3 Model Support changes
   in 0.3.19]]'
 - '[[Changes/Ollama/2023-09-06-5-model-support-changes-in-v0-0-18|5 Model Support
   changes in v0.0.18]]'
+- '[[Changes/Raycast/2023-09-06-ai-chat-now-inherits-model-and-creativity-when-opening-a-command-in-ai-chat|AI:
+  Chat now inherits model and creativity when opening a command in AI Chat]]'
 source_release: '[[Releases/Ollama/ollama-2023-09-11-v0-0-19-github-120351292-635e9479|ollama-2023-09-11-v0-0-19-github-120351292-635e9479]]'
 source_type: github_releases
 theme: model-support
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-09-06 · Ollama · [[Changes/Ollama/2023-09-06-5-model-support-changes-in-v0-0-18|5 Model Support changes in v0.0.18]]
+- Earlier: 2023-09-06 · Raycast · [[Changes/Raycast/2023-09-06-ai-chat-now-inherits-model-and-creativity-when-opening-a-command-in-ai-chat|AI: Chat now inherits model and creativity when opening a command in AI Chat]]
 - Later: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-3-model-support-changes-in-0-3-23|3 Model Support changes in 0.3.23]]
 <!-- chronolog:end -->
 

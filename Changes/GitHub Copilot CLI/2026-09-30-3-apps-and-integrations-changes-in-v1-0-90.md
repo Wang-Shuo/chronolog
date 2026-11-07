@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b39e2c298250ad13b5da916e369e9acc74fb8a3a6ee27605d246b87a9a0b3cc9
+machine_hash: 6f07f0beb2556285af677ccfbd6e0db0a5a17ca6509ce2813fbd82bd8cdec3a9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Apps and Integrations changes in v1.0.90
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
-  and Integrations changes in v0.62.0]]'
-- '[[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP
-  now works with Muse by Meta]]'
 - '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
   Apps and Integrations changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-skills-only-repositories-install-as-plugins|Skills-Only
+  Repositories Install as Plugins]]'
+- '[[Changes/Devin/2026-09-30-slack-buttons-work-across-organizations|Slack: Buttons
+  Work Across Organizations]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.90
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11 Apps and Integrations changes in v2.1.286]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-slack-buttons-work-across-organizations|Slack: Buttons Work Across Organizations]]
 - Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-36-apps-and-integrations-changes-in-v2026-9-7|36 Apps and Integrations changes in v2026.9.7]]
 <!-- chronolog:end -->
 

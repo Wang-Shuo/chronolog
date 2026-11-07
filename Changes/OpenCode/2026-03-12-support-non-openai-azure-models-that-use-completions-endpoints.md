@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2416f27ebff26810ccbfa22524ecaf231671f1e34a1fe392e1d79a4b531a9d1e
+machine_hash: 65ebdcde9ff59368bffc892d63005c3f61e1201c86b64a8b0aa7768b7237b4bb
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,8 @@ record:
   title: Support non-OpenAI Azure models that use completions endpoints
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-model-support-changes-in-v1-0-4|2 Model
-  Support changes in v1.0.4]]'
-- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
-  support for the following models]]'
+- '[[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant|Add GPT-5.3 Instant]]'
+- '[[Changes/Superwhisper/2026-03-11-add-gpt-5-3-instant-f75b60|Add GPT-5.3 Instant]]'
 - '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
   in v3.72.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-12-v1-2-25-4fca2d35|opencode-2026-03-12-v1-2-25-4fca2d35]]'
@@ -90,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes in v3.72.0]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
+- Later: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-strip-stray-think-thought-prefix-lines-from-llm-output|Strip stray think/thought prefix lines from LLM output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

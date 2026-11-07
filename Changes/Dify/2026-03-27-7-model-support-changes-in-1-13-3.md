@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cfeab3706be18125e285f45b7c41735724711875572030a54ab43494259a20b
+machine_hash: 2af7d532c5a668ad575e66e25f1a1475ca9917dd9e6179b65746dcb62315f2b1
 product: dify
 product_name: Dify
 record:
@@ -58,12 +58,12 @@ record:
   title: 7 Model Support changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5
-  Our newest model]]'
 - '[[Changes/Suno/2026-03-26-custom-models-upload-at-least-6-tracks-from-your-catalog-to-train-a-personalized|Custom
   Models Upload at least 6 tracks from your catalog to train a personalized…]]'
 - '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
   we launched v5.5, our best and most personal model yet]]'
+- '[[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet
+  English only model with real-time support added]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: model-support
@@ -118,7 +118,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today we launched v5.5, our best and most personal model yet]]
+- Earlier: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-parakeet-english-only-model-with-real-time-support-added|Parakeet English only model with real-time support added]]
 - Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama's app will now no longer incorrectly show "model is out of date"]]
 <!-- chronolog:end -->
 

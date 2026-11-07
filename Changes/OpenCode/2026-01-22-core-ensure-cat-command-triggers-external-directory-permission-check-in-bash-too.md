@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23a2d39b8ea50ea38d68e7cf009f443f01b93803c7dc24168c0f878577d760f9
+machine_hash: 9c9877b41ebe7901c389d4d98522e50a239ad56fe60ecd2b80408400fb10d431
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,12 @@ record:
     tool
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core
-  Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]'
 - '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
   and Privacy changes in rust-v0.89.0]]'
 - '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
   CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/Devin/2026-01-22-devin-review-launch-https-docs-devin-ai-work-with-devin-devin-review-md|Devin
+  Review Launch((source link)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-22-v1-1-32-ecba0b0f|opencode-2026-01-22-v1-1-32-ecba0b0f]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]]
+- Earlier: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-devin-review-launch-https-docs-devin-ai-work-with-devin-devin-review-md|Devin Review Launch((source link)]]
 - Later: 2026-01-23 · Google Antigravity · [[Changes/Google Antigravity/2026-01-23-terminal-commands-can-now-be-executed-within-a-sandbox-for-macos-users|Terminal commands can now be executed within a sandbox for MacOS users]]
 <!-- chronolog:end -->
 

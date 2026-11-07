@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2d7462d87a798417db1c6b8b3e7d8f316b882eb6127405b9bff41e99cd59028
+machine_hash: 7b3753246183d5bbca5b803fdec2390f30d31b6d91b63968a745f7e0e968c40c
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Changed `/review <pr>` to use the same review engine as `/code-review medium`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
-  Developer Workflow changes in rust-v0.141.0]]'
+- '[[Changes/Raycast/2026-06-18-ai-extensions-use-built-in-ai-extensions-like-file-explorer-selected-text-termin|AI
+  Extensions : Use built-in AI extensions like @file-explorer , @selected-text…]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
   the startup "setup issues" line under the logo]]'
 - '[[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal

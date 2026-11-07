@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dd7ddc71d600cd00d7a5eba07d0d1d226d4e8255459a409e49b12c26fe8a5d8d
+machine_hash: 9660589c018b45d0306d39bcb6ab714d4533658f1ffd3436594fce56c05b3aeb
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,7 +43,8 @@ record:
   title: Find slash commands by their aliases in autocomplete
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-editor|Editor]]'
+- '[[Changes/Devin/2026-06-12-users-tab-renamed-to-members|"Users" Tab Renamed to
+  "Members"]]'
 - '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
   reliability sweep]]'
 - '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
@@ -83,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother editing and presenting experience]]
-- Later: 2026-06-12 · Synthesia · [[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10 improvements to your Editor experience]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess|Focus: Edit Focus Session adjusts the duration or blocked categories while a session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

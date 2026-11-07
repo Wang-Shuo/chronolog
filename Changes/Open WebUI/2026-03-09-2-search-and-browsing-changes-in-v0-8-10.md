@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54de466261defd01c024a988b5506459a2350e6bf26e814257e3b233f50e12e3
+machine_hash: 53530ca2f19bcbbc7482445c1eb3ec6562226db0c16be1e37441db336b2b8aa9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search and Browsing changes in v0.8.9]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2 Search and Browsing changes in rust-v0.113.0]]
+- Later: 2026-03-09 · Raycast · [[Changes/Raycast/2026-03-09-calculator-history-browse-search-and-pin-your-past-calculations-and-conversions|Calculator History: Browse, search, and pin your past calculations and conversions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

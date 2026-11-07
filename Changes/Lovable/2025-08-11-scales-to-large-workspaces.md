@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b2b089c6ca2a1063762a348fedbac6256caa1c60b3ab22802c2a00864946cb25
+machine_hash: 4af1deb919132c2874f52e1070d93b6deaf2cdba2d5e06b6236bb884be7eaa79
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-testcontainers-tests-we-re-serious-about-stability-neatguycoding-and-others-have|Testcontainers Tests: We're serious about stability!]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2 Reliability and Performance changes in v0.1.19]]
+- Later: 2025-08-12 · Devin · [[Changes/Devin/2025-08-12-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

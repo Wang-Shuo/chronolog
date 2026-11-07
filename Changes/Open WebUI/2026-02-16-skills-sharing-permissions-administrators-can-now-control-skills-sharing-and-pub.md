@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b667e97f94bdb442ffc482bf346ea776de653dac79622b3c3a01011f61751111
+machine_hash: 4bd46c882cbf53084a956fb6b022b72b10f77a82cfc9d6a36c082e2c2b97b0d5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,7 @@ record:
     skills sharing…"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Devin/2026-02-13-skills-support|Skills Support]]'
 - '[[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
   you so much for your help!]]'
 - "[[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|\U0001F41B

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6287a28ae92db30e4c63aef3064e2e36d30fd60d0ae529a088f72f40e6eabd4
+machine_hash: 5bc56527f1b66907fffa2a402040505c61cc69ed13d332e7def3c2900dff666a
 product: suno
 product_name: Suno
 record:
@@ -42,11 +42,12 @@ record:
   title: '2 - Navigate to Replace Section: Go to Edit > Replace Section'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-10-08-editor-updates|Editor Updates]]'
 - '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
   more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
   Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Raycast/2024-10-09-search-emoji-symbols-added-symbols-for-return-tab-escape-and-forward-delete-keys|Search
+  Emoji & Symbols : Added symbols for Return, Tab, Escape, and Forward-Delete keys]]'
 source_release: '[[Releases/Suno/suno-2024-10-10-e-replace-section-9e9811a6|suno-2024-10-10-e-replace-section-9e9811a6]]'
 source_type: suno_changelog
 theme: editor-experience
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
+- Earlier: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-search-emoji-symbols-added-symbols-for-return-tab-escape-and-forward-delete-keys|Search Emoji & Symbols : Added symbols for Return, Tab, Escape, and Forward-Delete keys]]
 - Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
 <!-- chronolog:end -->
 

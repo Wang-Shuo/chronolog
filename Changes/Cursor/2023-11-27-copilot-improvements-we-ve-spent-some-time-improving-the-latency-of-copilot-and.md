@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bef35e64036df3abe56f618adfb3d86d2b09f6a5396ceaddbfdd57c2cb4a6b5
+machine_hash: 0622114d5efaf1511a32e17ef19c417593d60961791cd089812609248e861d5c
 product: cursor
 product_name: Cursor
 record:
@@ -62,11 +62,11 @@ record:
   title: 'Copilot++ Improvements: We''ve spent some time improving the latency…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
-  improvements: Includes green highlights to see what Copilot++ has added…]]'
 - '[[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]'
 - '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
   for more age groups]]'
+- '[[Changes/Superwhisper/2023-11-17-onboarding-flow-improvements|Onboarding flow
+  improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-16 · Gemini · [[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available for more age groups]]
-- Later: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]
+- Earlier: 2023-11-17 · Superwhisper · [[Changes/Superwhisper/2023-11-17-onboarding-flow-improvements|Onboarding flow improvements]]
+- Later: 2023-11-28 · Superwhisper · [[Changes/Superwhisper/2023-11-28-new-settings-design|New settings design]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

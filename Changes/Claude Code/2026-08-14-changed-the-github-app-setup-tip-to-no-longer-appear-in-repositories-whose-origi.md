@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 552946a4586a4e5f5ca7ee069ad3c879e8742d5a171275eea234e97622b49796
+machine_hash: 855fbedf413820ca1093f4bf13e0810c19b0d699eeaa6cadffccabaa83de8a3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     origin…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
-  Enterprise and Administration changes in v1.0.79]]'
+- '[[Changes/LM Studio/2026-08-12-support-for-local-server-api-key-in-enterprise-internal-network-endpoint-mode|Support
+  for local server API key in enterprise internal network endpoint mode]]'
 - '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
   History for macOS]]'
 - '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]
-- Later: 2026-08-14 · Lovable · [[Changes/Lovable/2026-08-14-set-up-entra-id-single-sign-on-from-the-microsoft-app-gallery|Set up Entra ID single sign-on from the Microsoft app gallery]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-auto-scan-schedules-api|Auto-Scan Schedules API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

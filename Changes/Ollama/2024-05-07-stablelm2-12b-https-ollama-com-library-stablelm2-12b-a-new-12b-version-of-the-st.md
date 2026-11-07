@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85fcbc9060ec73607a2497613a479f6dc351160594b2df7a7374105a78037444
+machine_hash: 7f9428ae29f03cded384406e2ebc3ae4f095d360f61e29b96bdc6fa436d7888a
 product: ollama
 product_name: Ollama
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability: This build fixes a connection error problem that was consistently…]]
-- Later: 2024-05-10 · Ollama · [[Changes/Ollama/2024-05-10-ollama-will-now-more-accurately-estimate-how-much-memory-is-available-on-multi-g|Ollama will now more accurately estimate how much memory is available on multi-GPU…]]
+- Later: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-pro-users-get-a-little-extra-with-ai-emoji-suggestions-previously-used-suggestio|Pro users get a little extra with AI Emoji Suggestions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

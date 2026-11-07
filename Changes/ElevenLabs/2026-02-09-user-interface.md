@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4ccdb29f122b4f0c00006e518dad0d1e56bc17121f66cf27070cc5991bc9be47
+machine_hash: 38689e9750c95e503d495b12274f9ea861c4cbc91d22e9d7dc55a3d439eb86dd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,12 +43,12 @@ record:
   title: User Interface
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder
-  folders in the dashboard sidebar via drag and drop, with support for nesting…]]'
 - '[[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop
   Safety triangle for sidebar hover to prevent menu from closing]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
+- '[[Changes/Raycast/2026-02-06-run-added-shell-selection-cmd-powershell-etc-when-creating-or-editing-custom-run|Run
+  : Added shell selection (CMD, PowerShell, etc.) when creating or editing custom…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-09-2026-02-09-4b81b7a2|elevenlabs-2026-02-09-2026-02-09-4b81b7a2]]'
 source_type: elevenlabs_changelog
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
+- Earlier: 2026-02-06 · Raycast · [[Changes/Raycast/2026-02-06-run-added-shell-selection-cmd-powershell-etc-when-creating-or-editing-custom-run|Run : Added shell selection (CMD, PowerShell, etc.) when creating or editing custom…]]
 - Later: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved sidebar pagination to load more items on scroll]]
 <!-- chronolog:end -->
 

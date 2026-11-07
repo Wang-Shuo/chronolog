@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef10ecad49338c898b0724435d950fd25436dac8ab79ac3cc7b555ffed83d8b7
+machine_hash: 267a98cda94b2a375bff1f294be39a7ab19ec081c71b64491b6f94bda395cc6d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443 Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]
+- Later: 2026-04-24 · Recraft · [[Changes/Recraft/2026-04-24-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca2f168c966225e1f53673927250adf78d3a54676adaf60dafc70098b765c126
+machine_hash: 4a0d77141b6e3157593a742a4eaefad281115fca3f2b4ec3ad55c09fe8c45e62
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Editor Experience changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find
-  slash commands by their aliases in autocomplete]]'
+- '[[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess-c7e920|Focus:
+  Edit Focus Session adjusts the duration or blocked categories while a session…]]'
 - '[[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10
   improvements to your Editor experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2

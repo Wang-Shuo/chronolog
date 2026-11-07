@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 611004e26777716b1aea76efba3aa460113d55d603388c16ee1366cd3f788ca3
+machine_hash: 176501e9f1c105bdac80986f3ab0cc6ed82361b06fa568b236fbf8c06ddf1112
 product: openhands
 product_name: OpenHands
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces prompt-cache misses across completion, heartbeat and background turns…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor Experience changes in rust-v0.167.0]]
+- Later: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-sunburst-keeps-edits-consistent-so-the-details-you-didn-t-ask-to-change-stay-unt|Sunburst keeps edits consistent, so the details you didn't ask to change stay…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

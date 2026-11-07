@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81a264887caa0b962772c5d7c1d64d0acfecafd8d9d344dcfed47a11ecbee91c
+machine_hash: f6bf917b548772c19752b582aa10598889e5e5a2d7fd94c8f2124adba2622677
 product: cursor
 product_name: Cursor
 record:
@@ -57,8 +57,8 @@ record:
   title: Improved linter
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add
-  clean unused dataset command]]'
+- '[[Changes/Raycast/2023-07-27-flight-tracker-terminal-info-is-now-displayed-in-the-flight-tracker-detail-view|Flight
+  Tracker: Terminal info is now displayed in the flight tracker detail view]]'
 - '[[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]'
 - '[[Changes/Cursor/2023-07-28-ai-linter|AI linter]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d|cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d]]'

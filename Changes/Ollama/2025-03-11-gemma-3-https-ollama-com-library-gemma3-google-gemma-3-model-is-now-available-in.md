@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c946ac16414a191056d38810e429282148d5667f0c81199c3306a1f003c3330b
+machine_hash: 21b8302fcdb3b867b329dc484cbd5b90ebc612a135c02ad85c696283aa8919a1
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]]
-- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes in v0.77.0]]
+- Later: 2025-03-12 · LM Studio · [[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows Prevent user from accidentally setting the models directory inside the LM…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

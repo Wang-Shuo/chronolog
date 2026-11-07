@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0da2cb8a1ddad89c603d100a528977202a26aa5c2d1ee83b63c843b04c6716ca
+machine_hash: eda86e61228b0c5b2c896c3c1d81ce3975da6305c6c05cf9ca088c3b732a0790
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,10 @@ record:
   title: 5 Interface Experience changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
-  Experience changes in v2.1.3]]'
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
 - '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
   Interface Experience changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-playbook-visual-distinction|Playbook Visual Distinction]]'
+- '[[Changes/Devin/2026-01-09-machine-setup-ux-improvements|Machine Setup UX Improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: interface-experience
@@ -119,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3 Interface Experience changes in rust-v0.80.0]]
+- Earlier: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-machine-setup-ux-improvements|Machine Setup UX Improvements]]
 - Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-interface-experience-changes-in-v1-1-8|2 Interface Experience changes in v1.1.8]]
 <!-- chronolog:end -->
 

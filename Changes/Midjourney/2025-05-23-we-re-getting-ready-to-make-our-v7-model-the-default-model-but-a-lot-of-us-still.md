@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e7985c033a48cebd28968bc5da0ac61fd4a7fd4243a8fa9d30d8862e0131e913
+machine_hash: 52c043d2b500ecbfc365a0303fb5a2475bb5b9f2f99ee5d5ea85018f8f413dca
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,11 +49,12 @@ record:
     us still…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-support-for-claude-4-models-sonnet-4-and-opus-4-in-aws-bedrock-and-vertex-ai|Add
-  support for Claude 4 models (Sonnet 4 and Opus 4) in AWS Bedrock and Vertex AI…]]'
-- '[[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes
-  in v3.17.1]]'
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/LM Studio/2025-05-23-ability-to-use-gguf-llms-as-text-embedding-models-override-in-my-models|Ability
+  to use GGUF LLMs as text embedding models (override in My Models  ⚙️)]]'
+- '[[Changes/LM Studio/2025-05-23-7-model-support-changes-in-lm-studio-0-3-16|7 Model
+  Support changes in LM Studio 0.3.16]]'
+- '[[Changes/LM Studio/2025-05-23-custom-settings-for-models-a-new-way-for-model-authors-to-define-custom-capabili|Custom
+  Settings for models]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-05-23-https-updates-midjourney-com-rank-images-from-all-time-f1db8df9|midjourney-2025-05-23-https-updates-midjourney-com-rank-images-from-all-time-f1db8df9]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-22 · Windsurf · [[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-custom-settings-for-models-a-new-way-for-model-authors-to-define-custom-capabili|Custom Settings for models]]
 - Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]
 <!-- chronolog:end -->
 

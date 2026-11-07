@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 293944b857da28e16713cb80f3142d8cb3691c3832bd7cc91edc1663bf5832bd
+machine_hash: ea4190f81a69edd133c3663ea2496ae68083054a61da201581e8764a782f4ed8
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: Cursor can now host your code
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
-  teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
+- '[[Changes/AnythingLLM/2026-08-13-feat-agents-add-you-com-as-web-search-provider-by-souravrajvi0-in-https-github-c|feat(agents):
+  add You.com as web search provider]]'
 - '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
 - '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]]
-- Later: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core Enabled web search when using the OpenCode Go provider]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-game-launcher-new-game-launcher-command-to-browse-every-installed-game-and-launc|Game Launcher : New Game Launcher command to browse every installed game…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

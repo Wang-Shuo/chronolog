@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 53d1a40d600a3b28fc58fe54d70e206217a3646115b4612f1fa4a5338eb23fd5
+machine_hash: b43b250a8d62bfbbc127f6b6b6de17156fac5d459ffff9173428b9be07e9d5bc
 product: cursor
 product_name: Cursor
 record:
@@ -58,10 +58,10 @@ record:
   title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-04-9-model-support-changes-in-0-6-10|9 Model Support changes
-  in 0.6.10]]'
 - '[[Changes/Open WebUI/2024-06-05-2-model-support-changes-in-v0-2-5|2 Model Support
   changes in v0.2.5]]'
+- '[[Changes/Superwhisper/2024-06-06-vocabulary-support-for-all-models-whisperkit-deepgram|Vocabulary
+  support for all models (whisperkit/deepgram)]]'
 - '[[Changes/Ollama/2024-06-07-2-model-support-changes-in-v0-1-42|2 Model Support
   changes in v0.1.42]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34a16015e661a6887306979d6a3b7c05d489f0e5f41dd94b165f151b4ad4f48c
+machine_hash: 3452ced8fb413bedfa4de41384104362c18ab01b5784bd650299d38d30047a5c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Context Window changes in v0.38.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context
-  Window changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-knowledge-search-auto-expand|Knowledge Search Auto-Expand]]'
 - '[[Changes/Codex CLI/2026-04-11-3-context-window-changes-in-rust-v0-120-0|3 Context
   Window changes in rust-v0.120.0]]'
 - '[[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context

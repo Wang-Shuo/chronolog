@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c3ad3d9ec1ec6612478f1fa05028954897a00f7611e89fce00e7049df2747c6
+machine_hash: 8fa4176454bae6a8e092f53e972f95f06264e2447c97300ac6b661a0ba981420
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,9 @@ record:
   title: 3 Editor Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
-  with Bitbucket Cloud]]'
-- '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
-  Experience changes in v2.1.269]]'
+- '[[Changes/Devin/2026-09-11-clearer-machine-startup-in-the-computer-tab|Clearer
+  Machine Startup in the Computer Tab]]'
+- '[[Changes/Devin/2026-09-11-customize-editor-improvements|Customize Editor Improvements]]'
 - '[[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor
   Experience changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

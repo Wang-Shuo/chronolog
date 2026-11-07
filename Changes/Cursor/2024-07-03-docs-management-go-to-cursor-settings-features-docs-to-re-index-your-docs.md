@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e54b58d227dba22b6c755f5277cf3b5ca3aa43b1d5f6ff92bc94e4b95d2030d
+machine_hash: 796281c44b6e73688958eac55272ed78960a64f7a168c251021111504e86b754
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps and Integrations changes in 0.7.0]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev): bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]
+- Later: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-clipboard-history-six-digit-hexadecimal-color-codes-copied-from-graphics-design|Clipboard History: Six-digit hexadecimal color codes copied from Graphics & Design…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

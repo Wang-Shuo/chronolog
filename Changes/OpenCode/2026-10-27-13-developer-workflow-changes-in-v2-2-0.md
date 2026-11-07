@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ce8a3b151d869d00a476f4ec627650c83c396c73c6ae1fc80a0655d99a693b6
+machine_hash: 349234555b9cb70f520ef9ee165ccf02dd2898c96961c81bb905f396a27a992f
 product: opencode
 product_name: OpenCode
 record:
@@ -71,10 +71,10 @@ record:
   title: 13 Developer Workflow changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
-  Developer Workflow changes in rust-v0.165.0]]'
 - '[[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long
   commands in the background command view are now syntax highlighted…]]'
+- '[[Changes/Krea/2026-10-27-api-errors-and-concurrency-limits|API errors and concurrency
+  limits]]'
 - '[[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer
   Workflow changes in v2026.10.8]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'

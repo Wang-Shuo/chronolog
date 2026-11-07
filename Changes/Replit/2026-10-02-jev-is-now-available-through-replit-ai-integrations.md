@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 27155abc69fa5be2a25f9d1b9a3327aa2b15a6c5e975eea967af056aa4339c56
+machine_hash: 7a7cd9e8e64f1267e5cca264dbf5473896b08694a17ece2cb6f043eb11b8160e
 product: replit
 product_name: Replit
 record:
@@ -43,12 +43,12 @@ record:
   title: Jev is now available through Replit AI Integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-11-apps-and-integrations-changes-in-v2-1-287|11
-  Apps and Integrations changes in v2.1.287]]'
-- '[[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4
-  Apps and Integrations changes in rust-v0.160.0]]'
-- '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
-  Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-plugin-previews-before-install|Plugin Previews Before
+  Install]]'
+- '[[Changes/Devin/2026-10-02-jira-invalid-webhook-connections-surface-immediately|Jira:
+  Invalid Webhook Connections Surface Immediately]]'
+- '[[Changes/Devin/2026-10-02-mcp-settings-show-only-the-controls-you-can-use|MCP
+  Settings Show Only the Controls You Can Use]]'
 source_release: '[[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|replit-2026-10-02-2026-10-02-3eeb4015]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5 Apps and Integrations changes in v2.1.288]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-mcp-settings-show-only-the-controls-you-can-use|MCP Settings Show Only the Controls You Can Use]]
 - Later: 2026-10-03 · Claude Code · [[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2 Apps and Integrations changes in v2.1.289]]
 <!-- chronolog:end -->
 

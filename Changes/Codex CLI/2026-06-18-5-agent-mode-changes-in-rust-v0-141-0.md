@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65db7a87aa5077bf9e378a48549d564c314bd8f8b72f276294e11f907f55f5c5
+machine_hash: 65e3bc02a878edd3f25433ccd30d4ba67ab265100035e0ae1ebf4243a8e45c0c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,11 @@ record:
   title: 5 Agent Mode changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
-  and cloud]]'
 - '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
   introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
   with /in-cloud]]'
+- '[[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: agent-mode
@@ -104,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]
 - Later: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0|2 Agent Mode changes in v0.47.0]]
 <!-- chronolog:end -->
 

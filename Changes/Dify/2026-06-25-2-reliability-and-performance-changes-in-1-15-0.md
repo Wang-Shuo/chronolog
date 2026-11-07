@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37a808d03dafd7c5dcda1d89e11151f216a941a0f0440e1e58da0619e3596d24
+machine_hash: e7503512851c246c51e889baa7a8757293f4133b600b55b14d69fed9a21379a7
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
+- '[[Changes/Raycast/2026-06-24-ui-improved-performance-of-hover-state-in-list-views-42bb61|UI
+  : Improved performance of hover state in list views]]'
 - '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
   automatic memory-pressure reaping for idle background shell commands…]]'
 - '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps

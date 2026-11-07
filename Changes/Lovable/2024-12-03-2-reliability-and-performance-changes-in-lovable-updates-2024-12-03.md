@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2041ff792aa9466fd3693a2d86441df428e75c4cd9c0bc0454bfc6fb9921d137
+machine_hash: 3a9273c87f9e80fac6f8bce3a227d79a9cda4a97c411c20476742ac2c7393ab5
 product: lovable
 product_name: Lovable
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Reliability and Performance changes in Lovable updates — 2024-12-03
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance
-  Optimization: The WeightRerankRunner logic has been optimized…]]'
+- '[[Changes/AnythingLLM/2024-11-26-frontend-performance-improvements-by-timothycarambat-in-https-github-com-mintple|Frontend
+  performance improvements]]'
 - '[[Changes/Open WebUI/2024-11-27-improved-general-reliability-various-minor-fixes-improve-platform-stability-and|⚡
   Improved General Reliability]]'
 - "[[Changes/Open WebUI/2024-12-01-ollama-embed-endpoint-addressed-the-ollama-embed-endpoint-malfunction-ensuring-c|\U0001F527

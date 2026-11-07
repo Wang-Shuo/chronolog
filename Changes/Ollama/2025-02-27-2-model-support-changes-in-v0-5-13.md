@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b64399eb9b9e16d4535ffe3282e1f74854ae166d530dc475007fb1f130a76371
+machine_hash: 5989c20f5df01dff17a7296c9f2d15b20f6d5accca27b7d525daa1fc9871cd77
 product: ollama
 product_name: Ollama
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Model Support changes in v0.5.13
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-14-direct-connections-now-work-for-regular-users-fixed-a-bug-where-users-with-the-u|\U0001F517
-  Direct Connections Now Work for Regular Users]]"
-- '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
-  error when LLM settings do not exist]]'
+- '[[Changes/Raycast/2025-02-19-raycast-ai-remembers-your-recently-used-models-and-shows-them-on-the-top-in-the|Raycast
+  AI: Remembers your recently used models and shows them on the top…]]'
 - '[[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support
   changes in v0.5.12]]'
+- '[[Changes/Devin/2025-02-26-sonnet-3-7-in-devin-we-incorporated-sonnet-3-7-in-devin-on-2-24-with-optimizatio|Sonnet
+  3.7 in Devin]]'
 source_release: '[[Releases/Ollama/ollama-2025-02-27-v0-5-13-github-202859377-86cdb825|ollama-2025-02-27-v0-5-13-github-202859377-86cdb825]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.5.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-20 · Ollama · [[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support changes in v0.5.12]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-sonnet-3-7-in-devin-we-incorporated-sonnet-3-7-in-devin-on-2-24-with-optimizatio|Sonnet 3.7 in Devin]]
 - Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-reliable-model-imports-from-the-community-platform-resolved-import-failures-allo|🔄 Reliable Model Imports from the Community Platform]]
 <!-- chronolog:end -->
 

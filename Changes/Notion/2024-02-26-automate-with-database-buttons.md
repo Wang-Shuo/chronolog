@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bd5f5ea5ad299f8eee829c4f3219766a96ae11803062a0d37a63bea08dd2e702
+machine_hash: 4b7e27bbbc5761e902b64f71c140b3ccb979bb2a1e6800934760d779e137acde
 product: notion
 product_name: Notion
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As per the planned schedule, these deprecated envs are being removed]]
-- Later: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
+- Later: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-my-schedule-show-the-conference-provider-icon-in-the-event-item|My Schedule: Show the conference provider icon in the event item]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

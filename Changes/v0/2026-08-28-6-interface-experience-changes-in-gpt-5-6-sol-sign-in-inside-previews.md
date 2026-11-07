@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8f95ed55f52ad4c8ade8e69f7d7d4c81e987eae2223a5422e2bd594e5ac362d
+machine_hash: 19e851b2dbb4be1c0a96fae9564b871b47f0cac75c555bd8800ea2ed85af2f5d
 product: v0
 product_name: v0
 record:
@@ -61,12 +61,11 @@ record:
   title: 6 Interface Experience changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
-  images into the prompt bar under "attach to prompt”]]'
 - '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
   pin a favorite sidebar page as the home route]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
   a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
+- '[[Changes/Devin/2026-08-28-multi-select-tag-filters|Multi-Select Tag Filters]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -117,7 +116,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]
+- Earlier: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-multi-select-tag-filters|Multi-Select Tag Filters]]
 - Later: 2026-08-30 · Lovable · [[Changes/Lovable/2026-08-30-set-a-goal-for-lovable|Set a goal for Lovable]]
 <!-- chronolog:end -->
 

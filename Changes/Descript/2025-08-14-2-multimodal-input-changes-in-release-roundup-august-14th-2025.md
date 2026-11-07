@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e092fb9aa6010d079271d7a50d9cadc910902bd481cf8ef34ef64847339d35b3
+machine_hash: 021fb9d109e310f0a5c347066be1706019d313c4cdf563e273d47804776d0957
 product: descript
 product_name: Descript
 record:

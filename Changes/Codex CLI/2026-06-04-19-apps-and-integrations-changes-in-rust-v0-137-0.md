@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fde00db184f669a7231839ee7fd2e032e6fe27d44f1efaa8deb8f67813480b2
+machine_hash: 291aa824cda5a26b5cd9ff57e4c2731f6833779e99121c9551d44e2a54e24016
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,8 +84,8 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable
-  MCP server now available on all plans]]'
+- '[[Changes/Raycast/2026-06-03-store-added-support-for-filtering-by-installed-extensions-5de3b0|Store
+  : Added support for filtering by “Installed” extensions]]'
 - '[[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2
   Apps and Integrations changes in v2.1.163]]'
 - '[[Changes/Claude Code/2026-06-04-added-plugin-list-command-to-list-installed-plugins-with-enabled-disabled-filter|Added

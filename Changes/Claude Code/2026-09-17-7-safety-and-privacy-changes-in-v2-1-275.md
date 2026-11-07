@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe8ab734c30f56e56d09a19e2ffa8d8d927ef74f181045d09b43f6e663019973
+machine_hash: b7cdc0f57271bd0e7a04405956ccdb17e87d16b8331000caec356c40f2065b6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,8 +61,8 @@ record:
   title: 7 Safety and Privacy changes in v2.1.275
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety
-  and Privacy changes in v0.60.0]]'
+- '[[Changes/Devin/2026-09-16-security-bugs-are-always-checked-in-devin-review|Security
+  Bugs Are Always Checked in Devin Review]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-17-safety-and-privacy-changes-in-v1-0-85|17
   Safety and Privacy changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-test-cover-telemetry-consent-banner-by-aivong-openhands-in-https-github-com-open|test:

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c88df157143876d6c8b5a7c4324db93e8d416beb135b2b35b35611a8da201a28
+machine_hash: d994bf2560265a7d88d9b1243520ae714dbbdfdd063a3c3de2541331e6004826
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-editor-experience-changes-in-v0-6-35|3 Editor Experience changes in v0.6.35]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable codebase investigator by default for preview]]
+- Later: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-document-titles|Document Titles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

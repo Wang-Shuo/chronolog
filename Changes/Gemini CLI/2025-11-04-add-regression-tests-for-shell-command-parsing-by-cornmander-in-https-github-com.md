@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84cab706234239a2c970149764a118e7d1c692ea564068ca8fb3d44c2e9780b6
+machine_hash: 3e79937265bd2c08a5a572a8e65ab2c85ac54368d7a23dd7cf185ff07a9e7ef7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Add regression tests for shell command parsing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
-  changes in rust-v0.52.0]]'
+- '[[Changes/Devin/2025-10-31-unified-agent-selection-experience|Unified Agent Selection
+  Experience]]'
 - '[[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now
   when you edit an AI-generated image with Agent, those changes are automatically…]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom

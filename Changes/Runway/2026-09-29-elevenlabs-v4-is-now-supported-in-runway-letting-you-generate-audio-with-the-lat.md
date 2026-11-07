@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c5f94473b151a3543b9c60ab5313cfe1f06030eef14af5f4eeb56c5769d7938
+machine_hash: 401171e7865e49533d45a5cdda448d76f03361da8d92bc034675a8978d285685
 product: runway
 product_name: Runway
 record:
@@ -55,7 +55,8 @@ record:
   title: ElevenLabs V4
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]'
+- '[[Changes/Wispr Flow/2026-09-28-scratchpad-sync-works-independently-of-dictation-storage-desktop|Scratchpad
+  sync works independently of dictation storage (Desktop)]]'
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
   is deleted once your notes are ready and can’t be accessed or replayed]]'
 - '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
@@ -87,7 +88,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824 Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]
-- Later: 2026-09-30 · Gemini · [[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let skills in Gemini tackle your most repetitive tasks]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-voice-call-bar-follows-the-composer|Voice Call Bar Follows the Composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

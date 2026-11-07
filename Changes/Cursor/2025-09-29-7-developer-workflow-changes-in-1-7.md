@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccc262b6d4dc56683f2c515101fc194ab2018fef94a1a437de5d3b62a392747e
+machine_hash: bd03a6025d03513d225f63a9308b756417a7d713c8e4d56f01fe274a78f37511
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,9 @@ record:
   title: 7 Developer Workflow changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer
-  Workflow changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
   Workflow changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-github-pr-comment-improvements|GitHub PR Comment Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
   PowerShell parsing of ForEach-Object and detection of command name…]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'

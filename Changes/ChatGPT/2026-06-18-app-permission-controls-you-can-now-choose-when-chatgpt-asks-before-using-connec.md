@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8219610c76bbb47f7ceccb764c5a4500272bb96bc93f37603370574bda5bccfb
+machine_hash: 8f15749759a19b4aa58955be758507e07487bf28c7d355fe3e3daabee3379b02
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
     connected apps'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
-  and Privacy changes in v2.1.178]]'
 - '[[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490
   Remove TUI legacy Windows sandbox dependency @etraut-openai]]'
 - '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
   sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
+- '[[Changes/Devin/2026-06-17-devin-review-security-findings|Devin Review: Security
+  Findings]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-devin-review-security-findings|Devin Review: Security Findings]]
 - Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7 Safety and Privacy changes in rust-v0.141.0]]
 <!-- chronolog:end -->
 

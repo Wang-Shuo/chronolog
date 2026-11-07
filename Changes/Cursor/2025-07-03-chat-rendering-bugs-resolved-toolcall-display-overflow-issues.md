@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4df84e0a77d2f5cbf8ad0f0cb0ca73f2518bcd96d72fb0ff1c75e2e35941009
+machine_hash: 04d48b512197ad4c4e3eae5b84072ed2d3fbe9ea19817449748a08d1fca74841
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added tooltip for suggested tasks]]
-- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience changes in 1.6.0]]
+- Later: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-2-interface-experience-changes-in-v1-8-3|2 Interface Experience changes in v1.8.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

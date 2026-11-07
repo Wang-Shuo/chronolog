@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27f920090d08dc8cdea07c3e424741d10ed0daf27e49372a125b6a30ffaedaf9
+machine_hash: 907e780317017cb38c6b658c49f693762ea571079d5fcfc7e6c836d2d14f99b5
 product: suno
 product_name: Suno
 record:
@@ -51,12 +51,11 @@ record:
   title: "\U0001F5BC️ Customize Images (Pro and Premier)"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-24-image-generation-comfyui-image-generation-now-supports-comfyui|\U0001F3A8
-  Image Generation ComfyUI: Image generation now supports ComfyUI]]"
 - '[[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI
   Updates]]'
 - "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
   Image Generation Compatibility Issue]]"
+- '[[Changes/Raycast/2024-05-15-image-generation|Image Generation]]'
 source_release: '[[Releases/Suno/suno-2024-05-22-e-customize-images-pro-and-premier-5ad3738c|suno-2024-05-22-e-customize-images-pro-and-premier-5ad3738c]]'
 source_type: suno_changelog
 theme: image-generation
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|🌐 Image Generation Compatibility Issue]]
+- Earlier: 2024-05-15 · Raycast · [[Changes/Raycast/2024-05-15-image-generation|Image Generation]]
 - Later: 2024-06-05 · Gamma · [[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI image improvements]]
 <!-- chronolog:end -->
 

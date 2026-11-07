@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0979fd1c72df7a6b19b2ed76184a2ae067b80bd935cf94f4897a4ca30a0fcb1e
+machine_hash: 9765812d41aa77897e5d202d53f38e3c423252b79a3245f5e2ec19cf56081d52
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in v1.3.9 + 1
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
-  Integrations changes in 1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-clipboard-history-you-can-now-drag-and-drop-items-files-images-text-from-clipboa|Clipboard
+  History: You can now drag and drop items (files, images, text)…]]'
 - '[[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps
   and Integrations changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5

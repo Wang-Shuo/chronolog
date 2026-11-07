@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bd1d961919e748838ad6b190a89aeda87289402bd9c58b25b6c6463904210d2
+machine_hash: b6e2bd747ed7295e554e74d65ce6f910c9874aaa671d52cbf4d86aaa2e412169
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Display microagent context in the UI
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
-  a new /context command that automatically identifies which files need…]]'
+- '[[Changes/LM Studio/2025-03-27-2-context-window-changes-in-lm-studio-0-3-14|2 Context
+  Window changes in LM Studio 0.3.14]]'
 - '[[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our
   2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]'
 - '[[Changes/Cline/2025-04-08-make-context-shortening-more-intelligent-when-model-hits-context-window-now-old|Make

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 387921a75817cda25a8bc0356313ec014b5fdd45fe0dea55fe498eb959544adb
+machine_hash: d2b9737afa16bf4a958b924180e1323cce0a969976f653318994e28e8d2e8227
 product: descript
 product_name: Descript
 record:
@@ -43,11 +43,11 @@ record:
   title: Projects created using our Zapier integration now create Storyboard projects
   type: change
 related_changes:
-- '[[Changes/Notion/2022-07-20-better-inline-link-previews|Better inline link previews]]'
-- '[[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements
-  to Synced Databases with Jira and GitHub]]'
-- '[[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect
-  Notion’s “People” property in Synced Databases for GitHub and Jira]]'
+- '[[Changes/Raycast/2022-12-15-meet-your-raycast-wrapped|Meet your Raycast Wrapped]]'
+- '[[Changes/Raycast/2022-12-15-2-apps-and-integrations-changes-in-raycast-macos-v1-1-45-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.45.0]]'
+- '[[Changes/Raycast/2023-02-22-flight-tracker-you-can-now-enable-disable-flight-tracker-detection-in-settings-y|Flight
+  Tracker: You can now enable/disable Flight Tracker detection in settings]]'
 source_release: '[[Releases/Descript/descript-2023-03-21-641a25539d4fc80c9104c927-e92be208|descript-2023-03-21-641a25539d4fc80c9104c927-e92be208]]'
 source_type: canny_changelog
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2022-11-08 · Notion · [[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect Notion’s “People” property in Synced Databases for GitHub and Jira]]
+- Earlier: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-flight-tracker-you-can-now-enable-disable-flight-tracker-detection-in-settings-y|Flight Tracker: You can now enable/disable Flight Tracker detection in settings]]
 - Later: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
 <!-- chronolog:end -->
 

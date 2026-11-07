@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a4950d939b159c1815ced46bb448e3de0c320f123c9828fc6caf5b503e944ece
+machine_hash: b255601df10ce6c182fd02e100af8d629ba8c37eb6ae05b29f568e2811f43b8d
 product: suno
 product_name: Suno
 record:
@@ -54,12 +54,12 @@ record:
   title: A new prompt every day, to inspire your next song
   type: change
 related_changes:
-- '[[Changes/Suno/2026-10-28-create-songs-conversationally-describe-it-in-plain-words-ideate-on-lyrics-and-st|Create
-  songs conversationally]]'
 - '[[Changes/Suno/2026-10-28-remix-anything-create-covers-extensions-and-mashups-of-songs-from-your-library|Remix
   anything: Create covers, extensions, and mashups of songs from your library]]'
 - '[[Changes/Suno/2026-10-28-start-from-your-audio-upload-a-voice-memo-or-a-loop-and-turn-into-a-full-song|Start
   from your audio: Upload a voice memo or a loop and turn into a full song]]'
+- '[[Changes/Superwhisper/2026-10-28-muffle-now-works-alongside-finetune-and-soundsource-and-steps-aside-for-backgrou|Muffle
+  now works alongside FineTune and SoundSource, and steps aside for Background Music]]'
 source_release: '[[Releases/Suno/suno-2026-11-06-e-make-a-song-every-day-ccd35dcc|suno-2026-11-06-e-make-a-song-every-day-ccd35dcc]]'
 source_type: suno_changelog
 theme: music-generation
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
-- Earlier: 2026-10-28 · Suno · [[Changes/Suno/2026-10-28-start-from-your-audio-upload-a-voice-memo-or-a-loop-and-turn-into-a-full-song|Start from your audio: Upload a voice memo or a loop and turn into a full song]]
+- Earlier: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-muffle-now-works-alongside-finetune-and-soundsource-and-steps-aside-for-backgrou|Muffle now works alongside FineTune and SoundSource, and steps aside for Background Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1aba37238880062e132a559cbe51dcf95cd7b7fb64c200ad26884175edfc212d
+machine_hash: 739ca21e7afb975baf2b94106deffaba8328d34dbe3cb7dbb8bfd39ef757a0dd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
   title: 5 Reliability and Performance changes in v0.6.31
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in
-  CLUI]]'
 - '[[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability
   and Performance changes in 1.9.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
   add cached string width function for performance optimization]]'
+- '[[Changes/LM Studio/2025-09-24-improved-memory-usage-estimation-used-for-model-loading-guardrails|Improved
+  memory usage estimation used for model loading guardrails]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'
 source_type: github_releases
 theme: reliability-performance
@@ -118,7 +118,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.31
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat: add cached string width function for performance optimization]]
+- Earlier: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-improved-memory-usage-estimation-used-for-model-loading-guardrails|Improved memory usage estimation used for model loading guardrails]]
 - Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability and correctness]]
 <!-- chronolog:end -->
 

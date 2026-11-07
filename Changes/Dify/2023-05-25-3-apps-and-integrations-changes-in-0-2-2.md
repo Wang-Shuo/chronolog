@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c707cc23c6e6ddfa245d7d751d724e4732b83aab9a6b54bd19eb2a0df4bcaa2
+machine_hash: 999cf0aa628fb4aad1cdbb29decfc1e9596ff04ac752c5138f23a86226ff3e5a
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Apps and Integrations changes in 0.2.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-12-in-the-plugins-dropdown-click-plugin-store-to-install-and-enable-new-plugins|In
-  the “Plugins” dropdown, click “Plugin Store” to install and enable new plugins]]'
 - '[[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity
   Bar pinning]]'
 - '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
   Plugin]]'
+- '[[Changes/Raycast/2023-05-24-ai-commands-more-reliable-capturing-of-selected-text-in-apps-like-spark|AI
+  Commands: More reliable capturing of selected text in apps like Spark]]'
 source_release: '[[Releases/Dify/dify-2023-05-25-0-2-2-github-104243099-ca2d5724|dify-2023-05-25-0-2-2-github-104243099-ca2d5724]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.2.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing Plugin]]
+- Earlier: 2023-05-24 · Raycast · [[Changes/Raycast/2023-05-24-ai-commands-more-reliable-capturing-of-selected-text-in-apps-like-spark|AI Commands: More reliable capturing of selected text in apps like Spark]]
 - Later: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]
 <!-- chronolog:end -->
 

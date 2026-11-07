@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8b4efc42e9fe8a87108faede579fc6c89321b6ebe30f9008648a272d28bca8ad
+machine_hash: 7bde9acc93e5d2b80fef835eafa1c75fe21adb3b6414cd9f3fdc10b55d4ca2ad
 product: descript
 product_name: Descript
 record:
@@ -47,8 +47,8 @@ record:
   title: Eyedropper
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
-  you can now use up/down arrows for history in chat.)]]'
+- '[[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance:
+  Improved performance for opening Raycast after pressing the hotkey]]'
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 - '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a00cbe798b56758cba48d09befaf3f52ef6da27b9aba52653c10930753bef1b
+machine_hash: 3cd458f924d17a2cbf7e974e9320260a81d83c329e259d1c1574170c69cf19cc
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     find makes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
-  invites: We made it a bit easier for you to invite your colleagues…]]'
-- "[[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|\U0001F3F7️
-  Tag Autocomplete: Dropdown feature added for effortless chat tagging]]"
+- '[[Changes/Superwhisper/2024-04-02-move-clipboard-feature-to-prompt-edit-view|Move
+  clipboard feature to prompt edit view]]'
 - '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
   changes in 0.6.1]]'
+- '[[Changes/Raycast/2024-04-10-added-an-action-to-edit-a-siri-shortcut|Added an action
+  to edit a Siri Shortcut]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience changes in 0.6.1]]
+- Earlier: 2024-04-10 · Raycast · [[Changes/Raycast/2024-04-10-added-an-action-to-edit-a-siri-shortcut|Added an action to edit a Siri Shortcut]]
 - Later: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]
 <!-- chronolog:end -->
 

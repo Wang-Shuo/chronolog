@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 923d226e00aa44d75343f1990eeedee9171d425aa7b9f8415a744fced3ee8980
+machine_hash: d5b02125dc07dd16f2343a6f15fddd2011fc4fe6d2d32d5be4c8ef39bd746a2e
 product: descript
 product_name: Descript
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
-- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
+- Later: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-wiki-branch-selection|Wiki Branch Selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

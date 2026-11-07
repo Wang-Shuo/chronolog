@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 45141e9a556a587ee8875373dbcbc93507251d550fa772eb73aaa9ff6978bc93
+machine_hash: 445f1484f1792105c68378537ec3bd573a38f35aae72fb0f8a034b02a983ff3e
 product: v0
 product_name: v0
 record:
@@ -46,11 +46,12 @@ record:
   title: Billing and checkout show actionable payment errors, scope-appropriate upgrade…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
   Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption
   Dashboard tracks Copilot credit usage Web (Viva Insights)]]'
+- '[[Changes/Recraft/2026-08-13-cost-18-credits-per-generation-for-480p-and-41-credits-for-720p|Cost:
+  18 credits per generation for 480p and 41 credits for 720p]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption Dashboard tracks Copilot credit usage Web (Viva Insights)]]
+- Earlier: 2026-08-13 · Recraft · [[Changes/Recraft/2026-08-13-cost-18-credits-per-generation-for-480p-and-41-credits-for-720p|Cost: 18 credits per generation for 480p and 41 credits for 720p]]
 - Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit check-ins for long-running messages (beta)]]
 <!-- chronolog:end -->
 

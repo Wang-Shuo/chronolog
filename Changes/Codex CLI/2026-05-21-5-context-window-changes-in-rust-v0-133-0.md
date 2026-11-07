@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5bb45f5b0c5c9d8d674e70eec948b9c404b878ef5a2cbe22afd667494a433d5e
+machine_hash: efbe190e6ea9bcce93733f7e174e00660e454a21617988bfd929e0ea89184350
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Context Window changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-05-19-implicit-grounding-in-outlook-microsoft-365-copilot-chat-windows-web-microsoft-3|Implicit
-  Grounding in Outlook Microsoft 365 Copilot Chat Windows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable
   status line in the terminal footer displays session info such as model…]]'
 - '[[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core
   Zed editor context now only activates inside Zed terminals]]'
+- '[[Changes/Raycast/2026-05-20-core-allow-running-several-instances-of-raycast-with-different-users-in-the-cont|Core:
+  Allow running several instances of Raycast with different users in the context…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: context-window
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core Zed editor context now only activates inside Zed terminals]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-core-allow-running-several-instances-of-raycast-with-different-users-in-the-cont|Core: Allow running several instances of Raycast with different users in the context…]]
 - Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved /feedback reports to include the conversation that happened before…]]
 <!-- chronolog:end -->
 

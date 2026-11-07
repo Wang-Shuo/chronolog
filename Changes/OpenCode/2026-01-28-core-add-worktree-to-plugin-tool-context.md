@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ca908a967d5368e999b7069521854a3e5628efff3f33ac7922fe8b9a5be80d8
+machine_hash: 5b09b8f3d77d687dc61d61a5d88c71effbeb6f7293ecdf957b439de69a9ba96c
 product: opencode
 product_name: OpenCode
 record:
@@ -54,8 +54,8 @@ record:
   title: Core Add worktree to plugin tool context
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
-  show server-name displays server details and available tools]]'
+- '[[Changes/LM Studio/2026-01-28-updated-style-for-integrations-panel-and-select|Updated
+  style for Integrations panel and select]]'
 - '[[Changes/OpenCode/2026-01-28-2-apps-and-integrations-changes-in-v1-1-40-1|2 Apps
   and Integrations changes in v1.1.40 + 1]]'
 - '[[Changes/OpenCode/2026-01-28-core-bump-plugin-version|Core Bump plugin version]]'

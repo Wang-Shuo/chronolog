@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fcd06ff7d2ce3848891e821ce80f5aecf4efcf7c1788f31b18537ae86b5013f
+machine_hash: 5135d53879adcf9a9352027783310d8b0a0a424b853f2454b3884648c548bc24
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
-  Web search domain filtering. Domain allow and block rules for web search…]]"
 - '[[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save
   shell commands to input history and recall them in bash mode]]'
 - '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
   Add an Archived sessions page in Settings to browse and restore archived sessions]]'
+- '[[Changes/Devin/2026-07-08-redesigned-review-comment-composer|Redesigned Review
+  Comment Composer]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
 source_type: github_releases
 theme: search-browsing
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web: Add an Archived sessions page in Settings to browse and restore archived sessions]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search and Browsing changes in v2026.7.1]]
+- Earlier: 2026-07-08 · Devin · [[Changes/Devin/2026-07-08-redesigned-review-comment-composer|Redesigned Review Comment Composer]]
+- Later: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-root-search-removed-tab-to-browse-on-file-search-items-to-improve-consistency-ar|Root Search : Removed Tab to browse on file search items to improve consistency…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

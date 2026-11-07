@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b82d834d011da28d75ff51a2fe7735c37088402142f4f72605e839a8aa6e838
+machine_hash: f1c2f8fa5e951f5f960e57278ef1fc439ec0ef1e944ce0b84a98cd6576a29dac
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]
-- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in 1.12.0]]
+- Later: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-per-product-consumption-analytics-api|Per-Product Consumption Analytics API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

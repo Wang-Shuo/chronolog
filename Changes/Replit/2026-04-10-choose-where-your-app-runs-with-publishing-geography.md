@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b6b6ba96f1b0db108afc2cf80135cfbfdc9d06a3353f847826e722e00f00fec4
+machine_hash: 2bdd3d5c6102e862dce02b077f48305a297c3af2b480751fcdc57a1bcd6eed90
 product: replit
 product_name: Replit
 record:
@@ -51,12 +51,12 @@ record:
   title: Choose where your app runs with publishing geography
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-improved-rendering-performance-with-a-new-simplified-inline-renderer|Improved
-  rendering performance with a new simplified inline renderer]]'
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
 - '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
   Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-macos-0-53|2
+  Reliability and Performance changes in Raycast macos 0.53]]'
+- '[[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-windows-0-53|2
+  Reliability and Performance changes in Raycast windows 0.53]]'
 source_release: '[[Releases/Replit/replit-2026-04-10-2026-04-10-5fcce17c|replit-2026-04-10-2026-04-10-5fcce17c]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2 Reliability and Performance changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-windows-0-53|2 Reliability and Performance changes in Raycast windows 0.53]]
 - Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved stalled API stream handling]]
 <!-- chronolog:end -->
 

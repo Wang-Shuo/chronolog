@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0f4596925476caacb8179e1aa9083eb50eb3904bee636286296affe1610aecad
+machine_hash: 184d2a945eefae4224fc86ef856631c4d27ed62ac4ccb9f30d0d1c902dfde5f1
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: Deprecated the previous worktree and best-of-n selection from the Editor
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface
-  Experience changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
   Interface Experience changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-4-interface-experience-changes-in-v1-12-0|4 Interface
+  Experience changes in v1.12.0]]'
 - '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
   now explains why it''s unavailable instead of disappearing from the slash menu]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b718eb59a73f288d2ab798ade13d3d1bd3544340d35168883b84f36959d0000
+machine_hash: 5f62ebcef38bccee70c0a9e02708f1555e18bdfe349dc0c9d956d233372a50ee
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model Support changes in v1.0.61]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
+- Later: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-3-model-support-changes-in-superwhisper-macos-2-16-0|3 Model Support changes in Superwhisper macOS 2.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

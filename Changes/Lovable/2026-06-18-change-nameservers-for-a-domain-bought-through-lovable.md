@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 467f825e1fad4813fea60b8911fe646c2c324e8007e019ec3e7b788a35dd8d25
+machine_hash: e3bd39e771aad37ecd4e7e61bc6f3be4a25cd73810e2059a05f36fed2eb6a673
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Change nameservers for a domain bought through Lovable
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator,
-  Pro, and Enterprise plans: up to 5 concurrent generations]]'
+- '[[Changes/Devin/2026-06-17-enterprise-knowledge-limit-increased-to-300|Enterprise
+  Knowledge Limit Increased to 300]]'
 - '[[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS
   connections now support P-521 certificate signatures commonly used by enterprise…]]'
 - '[[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
-- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-user-only-pr-author-enforcement|"User Only" PR Author Enforcement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

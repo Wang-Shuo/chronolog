@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ba55e4c4b49ffa940cc9bb02d7982372beb6ee6943c1f3fa469aadce1034d661
+machine_hash: 1981b2fdb6e396b9596f76f0a6514985500597a6d64b2fd45bfbdc180c11a657
 product: synthesia
 product_name: Synthesia
 record:

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0211beff3498b9b9a101ce81508ebded09a58ae6898ab2a31385dc4717d0173
+machine_hash: 39ee78831de8a52ab499a39c0a126e11aee639c3d4cd6f363212ec1fef20f0d4
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
     with reset…'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
-  more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
   Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Raycast/2024-10-09-search-emoji-symbols-added-symbols-for-return-tab-escape-and-forward-delete-keys|Search
+  Emoji & Symbols : Added symbols for Return, Tab, Escape, and Forward-Delete keys]]'
 - '[[Changes/Suno/2024-10-10-2-navigate-to-replace-section-go-to-edit-replace-section|2
   - Navigate to Replace Section: Go to Edit  Replace Section]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'

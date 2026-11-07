@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8ae9ce4a36e2b30d035bde16787fd24b94e0b05f02cc485b8eda595133682285
+machine_hash: 96328414d9c8e46a511e68d2e054d1f62290aa00b7cba4dc6e52d70ead150da2
 product: descript
 product_name: Descript
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|🔄 Audio MIME Type Registration]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
+- Later: 2025-07-16 · AnythingLLM · [[Changes/AnythingLLM/2025-07-16-sanitize-youtube-transcription-file-paths-by-shatfield4-in-https-github-com-mint|Sanitize youtube transcription file paths]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ced76d00746d9aaf663db5c50a6c37616ff3ea0be56de2fbd507a4de4e035160
+machine_hash: 56fde83738ac9fb6b7c0b80825812aca722361564f5f8d1afbab903d18aec760
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,11 @@ record:
   title: Remote Control is now always on
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23
-  Apps and Integrations changes in v2026.9.3]]'
-- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
-  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
-- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
-  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-re-scan-new-commits-and-bulk-remediate-via-mcp|Re-scan
+  New Commits and Bulk Remediate via MCP]]'
+- '[[Changes/Devin/2026-09-09-webapp-answers-mirrored-to-slack|Webapp Answers Mirrored
+  to Slack]]'
+- '[[Changes/Devin/2026-09-09-plugins|Plugins]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-09-0-42-0-7a811972|kimi-code-2026-09-09-0-42-0-7a811972]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-plugins|Plugins]]
 - Later: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps and Integrations changes in v1.18.30]]
 <!-- chronolog:end -->
 

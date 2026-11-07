@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d6329ec43c4257c535ff6b2187d40e1755f3d96ed4bc77e1288f3c5a6eed7b6
+machine_hash: 93b56d9a71a0f071fefde5540d01d6df099ff5658eb20256a06b78a8e037517b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow changes in 1.19.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer Workflow changes in v2026.11.1]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-2-developer-workflow-changes-in-raycast-windows-2-11|2 Developer Workflow changes in Raycast windows 2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

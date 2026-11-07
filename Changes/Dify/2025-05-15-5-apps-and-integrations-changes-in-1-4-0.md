@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c557dcdf3a737d33dbe526856b6618bf026680bb85dc1c0589b637a2e2803b0
+machine_hash: 73df32c69ff1758c54cc16c6826f008bc02209e99cc647362b56ce2c5115f463
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Apps and Integrations changes in 1.4.0
   type: change
 related_changes:
-- '[[Changes/Notion/2025-05-13-search-across-even-more-tools|Search across even more
-  tools …]]'
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
   connector for deep research]]'
 - '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
   Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Devin/2025-05-15-upgrades-to-linear-jira-integrations|Upgrades to Linear
+  & Jira Integrations]]'
 source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]]
+- Earlier: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-upgrades-to-linear-jira-integrations|Upgrades to Linear & Jira Integrations]]
 - Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add Tailwind CSS IntelliSense to the recommended extensions list]]
 <!-- chronolog:end -->
 

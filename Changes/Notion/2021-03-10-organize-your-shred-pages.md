@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6114e13fa42d564153aa8b3c27ebfd4f1b77dd05389fa81f3dfb79106dec1d3b
+machine_hash: fcee0794eabdbd6a252341495e8a4adc5fa39262668bb6455995118f424990a9
 product: notion
 product_name: Notion
 record:
@@ -61,12 +61,12 @@ record:
   title: "Organize your shred pages \U0001F9F9"
   type: change
 related_changes:
-- '[[Changes/Notion/2021-01-27-added-a-copy-link-button-to-the-menu-that-appears-when-selecting-text-with-an-in|Added
-  a Copy link button to the menu that appears when selecting text with an inline…]]'
-- '[[Changes/Descript/2021-02-18-descript-on-mac-now-allows-you-to-switch-between-screen-capture-and-fullscreen-r|Fullscreen
-  webcam recording (Mac)]]'
 - '[[Changes/Descript/2021-02-18-now-when-performing-rendering-operations-such-as-export-publishing-or-flatten-fi|Use
   original media when rendering files (by default)]]'
+- '[[Changes/Raycast/2021-02-18-2-interface-experience-changes-in-raycast-macos-v1-1-8-0|2
+  Interface Experience changes in Raycast macos-v1 1.8.0]]'
+- '[[Changes/Raycast/2021-03-08-navigation-pressing-the-delete-backspace-key-to-go-back-now-also-work-on-screens|Navigation:
+  Pressing the delete (backspace) key to go back now also work on screens…]]'
 source_release: '[[Releases/Notion/notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a|notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-now-when-performing-rendering-operations-such-as-export-publishing-or-flatten-fi|Use original media when rendering files (by default)]]
+- Earlier: 2021-03-08 · Raycast · [[Changes/Raycast/2021-03-08-navigation-pressing-the-delete-backspace-key-to-go-back-now-also-work-on-screens|Navigation: Pressing the delete (backspace) key to go back now also work on screens…]]
 - Later: 2021-03-23 · Notion · [[Changes/Notion/2021-03-23-clicking-on-commented-text-within-a-block-will-now-open-the-comment-menu-and-kee|Clicking on commented text within a block will now open the comment menu and keep…]]
 <!-- chronolog:end -->
 

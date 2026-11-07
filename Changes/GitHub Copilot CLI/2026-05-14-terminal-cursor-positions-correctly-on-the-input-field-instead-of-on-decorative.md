@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab9811d4394f61290cb56b3d8d142d11d38dc7923f649316e6142f985dc8cb07
+machine_hash: 2b51521b85aaa77f8ed5107ffecc93b2bb3a597aea37b85d687eb9a4ed5ec304
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,11 +52,11 @@ record:
   title: Terminal cursor positions correctly on the input field instead of on decorative…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
 - '[[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]'
 - '[[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer
   Workflow changes in v1.14.49]]'
+- '[[Changes/Raycast/2026-05-13-hyper-key-e-nsure-shift-isn-t-suppressed-when-hyper-key-is-using-another-modifie|Hyper
+  Key: E nsure Shift isn’t suppressed when Hyper Key is using another modifier…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer Workflow changes in v1.14.49]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-hyper-key-e-nsure-shift-isn-t-suppressed-when-hyper-key-is-using-another-modifie|Hyper Key: E nsure Shift isn’t suppressed when Hyper Key is using another modifier…]]
 - Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama 0.24 includes support for the Codex App, OpenAI's desktop experience…]]
 <!-- chronolog:end -->
 

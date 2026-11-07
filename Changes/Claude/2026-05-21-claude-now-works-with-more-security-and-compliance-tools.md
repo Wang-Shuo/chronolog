@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56ab28e6a773b3fa4f448417103da790b76f90079b9cf7af70d6de5c97826972
+machine_hash: c55116686cdeabbe5ad7da6c08a12cc9fd58dc7f1c924d5cc38e290146afe905
 product: claude
 product_name: Claude
 record:
@@ -48,12 +48,12 @@ record:
   title: Claude now works with more security and compliance tools
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
-  Safety and Privacy changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
   /security-review slash command to review code changes for security…]]'
 - '[[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core
   Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]'
+- '[[Changes/Raycast/2026-05-20-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 source_release: '[[Releases/Claude/claude-2026-05-21-2026-05-21-42edfd96|claude-2026-05-21-2026-05-21-42edfd96]]'
 source_type: claude_changelog
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions: Fixed an issue where Raycast would not open System Settings…]]
 - Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17 Safety and Privacy changes in rust-v0.133.0]]
 <!-- chronolog:end -->
 

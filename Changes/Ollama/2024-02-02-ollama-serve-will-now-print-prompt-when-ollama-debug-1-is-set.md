@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 323d2e6ac30672f8ce15f858c7d3b8bb4fcc198f9ac92aa6dde3db8785d91d27
+machine_hash: 0d0c406b1558c8922cb6a45efd0c25c0e9a73476680890bf8a452137a4683158
 product: ollama
 product_name: Ollama
 record:
@@ -43,9 +43,10 @@ record:
   title: '`ollama serve` will now print prompt when `OLLAMA_DEBUG=1` is set'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
 - '[[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer
   Workflow changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-another-new-action-this-time-to-disable-commands-from-the-root-search-search-for|Another
+  new action, this time to disable commands from the root search]]'
 - '[[Changes/Dify/2024-02-01-2-developer-workflow-changes-in-0-5-3|2 Developer Workflow
   changes in 0.5.3]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-02-v0-1-23-github-139618642-fffe661f|ollama-2024-02-02-v0-1-23-github-139618642-fffe661f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 819483b9e39358fe5b675dbd5d9ae3aadf934b002a30c7ed3b9dd3ff75527623
+machine_hash: 8c0789ef80cd7670646c923ce9b5eb2551d9d38f79b2fa84ea4603db238988cb
 product: dify
 product_name: Dify
 record:
@@ -54,11 +54,12 @@ record:
   title: 6 Apps and Integrations changes in 1.2.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-07-text-to-speech|Text to speech]]'
-- '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
-  stability around MCP SSE connections]]'
 - '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
   modal in the chat area to more easily enable or disable MCP servers]]'
+- '[[Changes/Devin/2025-04-08-to-start-assigning-tickets-go-to-devin-s-integrations-https-app-devin-ai-setting|To
+  start assigning tickets, go to Devin''s…]]'
+- '[[Changes/Devin/2025-04-08-our-native-linear-integration-is-now-available-turn-tickets-into-prs-by-launchin|Our
+  native Linear integration is now available!]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -108,8 +109,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add modal in the chat area to more easily enable or disable MCP servers]]
-- Later: 2025-04-11 · Replit · [[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea generator for logged-out visitors]]
+- Earlier: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-our-native-linear-integration-is-now-available-turn-tickets-into-prs-by-launchin|Our native Linear integration is now available!]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-quit-all-apps-except-frontmost-improved-handling-when-finder-or-raycast-are-fron|Quit All Apps Except Frontmost]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

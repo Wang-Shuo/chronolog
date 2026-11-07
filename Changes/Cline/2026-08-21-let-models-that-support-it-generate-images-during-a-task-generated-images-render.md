@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a53b772881a38cd6bea492ab4beeb38ee7fa3b21b2d7879eec870b5841386afb
+machine_hash: 225b42465992dc3cdd127edb8664673d835ced28d97be91e48e5474528d8c909
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: Let models that support it generate images during a task
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-04-experimental-image-generation-has-been-temporarily-removed-continue-using-0-32-5|Experimental
-  image generation has been temporarily removed]]'
+- '[[Changes/AnythingLLM/2026-08-13-3-image-generation-changes-in-v1-16-0|3 Image
+  Generation changes in v1.16.0]]'
 - '[[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024
   Expose image generation usage-limit failures @copyberry]]'
 - '[[Changes/Codex CLI/2026-08-20-39072-persist-generated-images-through-turn-executors-copyberry|♯39072

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e67f984f243faf106a454aacdde7a781bf808356770aba75604a9ed4135ca94
+machine_hash: 271d10869b17c93e48bbccec54c778b65f834c7671b18353fb26a646de252e17
 product: lovable
 product_name: Lovable
 record:
@@ -52,9 +52,9 @@ record:
   title: Branded app URLs
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-per-user-spend-limits-for-enterprise-workspaces|Per-user
-  spend limits for Enterprise workspaces]]'
-- '[[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2026-05-17-default-member-roles|Default Member Roles]]'
+- '[[Changes/Devin/2026-05-17-ghes-app-registration-restriction|GHES App Registration
+  Restriction]]'
 - '[[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore:
   enchance copywriting in none education plan warning modal]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-21-2026-05-21-42edfd96|lovable-2026-05-21-2026-05-21-42edfd96]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore: enchance copywriting in none education plan warning modal]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-enterprise-max-concurrent-snapshot-builds|Enterprise Max Concurrent Snapshot Builds]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

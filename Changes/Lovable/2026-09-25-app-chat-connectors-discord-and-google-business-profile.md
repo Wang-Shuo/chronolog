@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fa7caec7f3680844414a3e657c578056972b66cf416d73be26f448ecd3c61d43
+machine_hash: d66bbd9cfe744d37e736e2e4ba79d901d1d7dde452a7743bd72c6c88af20b284
 product: lovable
 product_name: Lovable
 record:
@@ -58,11 +58,12 @@ record:
   title: 'App + chat connectors: Discord and Google Business Profile'
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-25-build-plugins-for-claude|Build plugins for Claude]]'
-- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
-  Apps and Integrations changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
-  Apps and Integrations changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-enterprise-plugins-settings-page|Enterprise Plugins
+  Settings Page]]'
+- '[[Changes/Devin/2026-09-25-pr-link-hover-card-opens-the-owning-session|PR Link
+  Hover Card Opens the Owning Session]]'
+- '[[Changes/Devin/2026-09-25-devin-can-target-a-specific-uploaded-plugin|Devin Can
+  Target a Specific Uploaded Plugin]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-25-2026-09-25-5a45f4f9|lovable-2026-09-25-2026-09-25-5a45f4f9]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9 Apps and Integrations changes in rust-v0.157.0]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-devin-can-target-a-specific-uploaded-plugin|Devin Can Target a Specific Uploaded Plugin]]
 - Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps): bump @openhands/extensions to 0.24.0]]
 <!-- chronolog:end -->
 

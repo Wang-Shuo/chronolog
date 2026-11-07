@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 085c09351bda14a019d57cbe5544f27a9d662589e4a252cb656d1953d2ae72b3
+machine_hash: 6e292712e08d9be19631b1b1e61e78683aaf0c10633cd651d7b60e23feb4f3c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,12 @@ record:
   title: "**\U0001F30D Smarter Web Search with Agentic Workflows**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set
-  ChatGPT as default search engine in Safari]]'
 - '[[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search
   and Browsing changes in v0.5.13]]'
 - '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
   search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/Raycast/2025-02-19-raycast-ai-added-an-option-to-configure-web-search-for-quick-ai-to-change-go-to|Raycast
+  AI: Added an option to configure web search for Quick AI]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3|open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3]]'
 source_type: github_releases
 theme: search-browsing
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web search: Agent can now automatically search the web for up-to-date information…]]
+- Earlier: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-raycast-ai-added-an-option-to-configure-web-search-for-quick-ai-to-change-go-to|Raycast AI: Added an option to configure web search for Quick AI]]
 - Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-web-search-retrieval-restored-resolved-a-critical-issue-that-broke-web-search-re|🔍 Web Search Retrieval Restored]]
 <!-- chronolog:end -->
 

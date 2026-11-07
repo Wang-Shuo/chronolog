@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0de1662551b55486a64a4efe8f19ea90be6e4ebc5ecbfd7a3a404bd26b2ae4dd
+machine_hash: 5d1376effdb3b2966ba3c36a2812bd3c87cda3563e44f513907f3c1ab8082a6a
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,10 @@ record:
   title: Faster inline text edits
   type: change
 related_changes:
-- '[[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance
-  2.5 Draft Mode in Agent]]'
-- '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
-  Reliability and Performance changes in v2.1.290]]'
+- '[[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u|We
+  made several memory and performance improvements]]'
+- '[[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u-d6328e|We
+  made several memory and performance improvements]]'
 - '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
   rendering speed of long bulleted or numbered replies]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-07-2026-10-07-b6b5dd50|lovable-2026-10-07-2026-10-07-b6b5dd50]]'

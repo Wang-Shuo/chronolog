@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3af873d9f14753f5dca0e7f763fa9f36f8172296ad376b5ddecbaac8d102eb64
+machine_hash: d6c25a58f664cbf6e205b7bcbb71e535418440cc611f4bb0e6b19e6b25054d4e
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice and Audio changes in v2.1.307]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-flux-3-max-for-video|FLUX 3 Max for video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

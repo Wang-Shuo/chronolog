@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fa3603adce11582c0e8d750aa4549238e911f24a5c40efe44bc64e5b6986c7f
+machine_hash: ceb85b72c179ffd05c1466d40690d0b3b7dedc50f0491336c82a8fe79c43b626
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved sidebar pagination to load more items on scroll
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop
-  Safety triangle for sidebar hover to prevent menu from closing]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
+- '[[Changes/Raycast/2026-02-06-run-added-shell-selection-cmd-powershell-etc-when-creating-or-editing-custom-run|Run
+  : Added shell selection (CMD, PowerShell, etc.) when creating or editing custom…]]'
 - '[[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]'
 source_release: '[[Releases/v0/v0-2026-02-09-2026-02-09-4b81b7a2|v0-2026-02-09-2026-02-09-4b81b7a2]]'
 source_type: v0_changelog

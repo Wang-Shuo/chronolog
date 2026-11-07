@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82d9ef5d6dbc739fa666f3e31d8144767e1ca7a77f42c25a8c9897c52a0b1456
+machine_hash: dad248e04d70c9c0418db2c90bb4b01f87d74a6366f7396e4d3c24146fa65d5f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add `copilot app` to open the GitHub Copilot app in the current directory
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified
-  web and work chat experience with dedicated Work IQ button Windows…]]'
 - '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
   Experience changes in v0.11.1]]'
+- '[[Changes/AnythingLLM/2026-08-27-however-this-had-the-unintended-side-effect-of-canceling-inference-when-navigati|However,
+  this had the unintended side effect of canceling inference when navigating…]]'
 - '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
   it into a real repo, whenever you want]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

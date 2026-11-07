@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7788e5bb35bc63d97a679fc46b0178c91afee669299851fd7c357ff598f9a649
+machine_hash: 1dff49d938a9f04190da2f3a8a757220130751c30753ac6a3c5fffff8a0d9fb0
 product: heygen
 product_name: HeyGen
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice runtime install errors name why the download from nuget.org failed, not only…]]
-- Later: 2026-10-06 · ChatGPT · [[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio uploads in ChatGPT]]
+- Later: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-2-voice-and-audio-changes-in-raycast-windows-2-6|2 Voice and Audio changes in Raycast windows 2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

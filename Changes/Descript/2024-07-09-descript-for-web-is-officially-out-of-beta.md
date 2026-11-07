@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f874640195d88dde3f204732cf14e158cb86f45b23834086e45f69eb8d20d247
+machine_hash: a981f14de10408ccb34875669cdd88b15984609cefdef10b184d8459e65071f9
 product: descript
 product_name: Descript
 record:
@@ -80,8 +80,8 @@ record:
   title: Descript for Web is officially out of Beta
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
-  Reliability and Performance changes in v0.1.46]]'
+- '[[Changes/Devin/2024-06-30-home-screen-upgrades-shortcuts|Home Screen Upgrades
+  & Shortcuts]]'
 - '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
   and Performance changes in v0.2.0]]'
 - '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability

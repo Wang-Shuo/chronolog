@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b4322bae11adebba750925ee9383d15d35d65a28036542b2c1747d9b306bb44
+machine_hash: 70b155d8a0015ffa7094f9a994774c01be40986d2e9d4dc9d0d89c68d4019ac5
 product: cline
 product_name: Cline
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.11
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and Integrations changes in v4.1.12]]
-- Later: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export designs from Figma with the Lovable plugin]]
+- Later: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-private-network-mcp-servers-for-dedicated-deployments|Private Network MCP Servers for Dedicated Deployments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

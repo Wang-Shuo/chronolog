@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 43bbb08f3ed4bf865394e8748921572e200c28e59cb57901efa240d9e2e04393
+machine_hash: 276cb2c816f3969b0c74943ab3c5f1b10502b9b44a4e25660451f96857d4739b
 product: notion
 product_name: Notion
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved slash command support for Japanese keyboards
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-02-new-slash-command-shortcut-create-a-link-to-page-block-with-the-slash-command-lt|New
-  slash command shortcut]]'
-- '[[Changes/Descript/2020-09-08-descript-s-new-command-palette-conductor-allows-you-to-quickly-access-a-host-of|Speed
-  Up Your Editing Workflow with the Conductor]]'
-- "[[Changes/Notion/2020-11-19-add-captions-to-code-blocks|Add captions to code blocks
-  \U0001F4BE]]"
+- '[[Changes/Raycast/2021-02-03-2-developer-workflow-changes-in-raycast-macos-v1-1-7-0|2
+  Developer Workflow changes in Raycast macos-v1 1.7.0]]'
+- "[[Changes/Raycast/2021-02-18-script-commands-added-support-for-terminal-colors-in-fulloutput-mode|Script
+  Commands : Added support for terminal colors in fullOutput mode \U0001F3A8]]"
+- '[[Changes/Raycast/2021-03-08-2-developer-workflow-changes-in-raycast-macos-v1-1-9-0|2
+  Developer Workflow changes in Raycast macos-v1 1.9.0]]'
 source_release: '[[Releases/Notion/notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a|notion-2021-03-10-https-www-notion-com-releases-2021-03-10-8743b25a]]'
 source_type: notion_changelog
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-add-captions-to-code-blocks|Add captions to code blocks 💾]]
-- Later: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-create-flowcharts-diagrams-in-code-blocks|Create flowcharts & diagrams in code blocks]]
+- Earlier: 2021-03-08 · Raycast · [[Changes/Raycast/2021-03-08-2-developer-workflow-changes-in-raycast-macos-v1-1-9-0|2 Developer Workflow changes in Raycast macos-v1 1.9.0]]
+- Later: 2021-04-06 · Raycast · [[Changes/Raycast/2021-04-06-2-developer-workflow-changes-in-raycast-macos-v1-1-11-0|2 Developer Workflow changes in Raycast macos-v1 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

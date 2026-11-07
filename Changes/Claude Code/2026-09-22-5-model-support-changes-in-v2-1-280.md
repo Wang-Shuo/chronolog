@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b490e20e84b9b955a1ee2950e2809a5ee13f6465ef80e2c30b4517e237cd7cd
+machine_hash: 94b607df6839b74153644dde47d3b3bd802d7c0853729f725861aa98205d7299
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Model Support changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-21-jev-for-typed-decisions-in-your-app-s-ai-features|Jev
-  for typed decisions in your app''s AI features]]'
 - '[[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support
   changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-7-model-support-changes-in-v1-16-2|7 Model Support
+  changes in v1.16.2]]'
 - '[[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases

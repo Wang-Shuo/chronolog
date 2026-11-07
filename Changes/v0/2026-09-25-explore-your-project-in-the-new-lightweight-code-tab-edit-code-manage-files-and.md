@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dcc46f2afe3e4e388eed084165889f928491482ce22030caf0a9f7fcb602a58b
+machine_hash: afbc5637e45c44e23dde2829f9b57abbc9a353ede943323d608821a306473cb3
 product: v0
 product_name: v0
 record:
@@ -55,10 +55,10 @@ record:
   title: New Code Viewer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context
-  Window changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-6-context-window-changes-in-rust-v0-157-0|6 Context
   Window changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-child-sessions-start-with-their-parent-s-context|Child
+  Sessions Start with Their Parent''s Context]]'
 - '[[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor:
   remove test-conversation-id fallbacks in websocket context + add…]]'
 source_release: '[[Releases/v0/v0-2026-09-25-2026-09-25-code-viewer-93a0395d|v0-2026-09-25-2026-09-25-code-viewer-93a0395d]]'

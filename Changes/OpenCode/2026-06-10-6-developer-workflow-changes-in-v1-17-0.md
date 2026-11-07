@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96cfd6178e924d624cc8834b56bb614e513f90893bda7b924aa45d0eddba176b
+machine_hash: d21d6f2b383a691d922ecc33f98b7cf948ad6f40dc7ecb02f1abcab5116450e0
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
   title: 6 Developer Workflow changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap
-  long single-line shell commands in approval prompts so the full command remains…]]'
 - '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
   Workflow changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-devin-review-pending-pr-reviews-canceled-on-new-commits|Devin
+  Review: Pending PR Reviews Canceled on New Commits]]'
 - '[[Changes/Kimi Code/2026-06-10-2-developer-workflow-changes-in-kimi-code-0-13-0|2
   Developer Workflow changes in Kimi Code 0.13.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-0-776801ad|opencode-2026-06-10-v1-17-0-776801ad]]'

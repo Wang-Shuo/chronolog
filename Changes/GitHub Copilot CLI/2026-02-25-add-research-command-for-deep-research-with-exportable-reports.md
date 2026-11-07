@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00177074d629037e692d80ca8a461ed6434a47d7c2cbd2f4d99eef7dba6d2661
+machine_hash: 9d61b9d605b24a9a31c0b6d97ddc3660f237b264a7a8d43a0166fdabafce41b0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce limits for search results]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
+- Later: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-applications-open-recent-files-directly-from-application-search-results|Applications : Open recent files directly from application search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

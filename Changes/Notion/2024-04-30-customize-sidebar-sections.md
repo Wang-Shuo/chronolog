@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 212d45b1b851cd7d04185959b456c2b0200ad6a8f8cb4296c79a6b69c4643002
+machine_hash: c0bd3629715dc40960d31dcc49e99e84dbe521f93c3dc34c31206550292f587e
 product: notion
 product_name: Notion
 record:
@@ -44,8 +44,8 @@ record:
   title: Customize sidebar sections
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|\U0001F4E6
-  Archived Chat Styling: Fixed styling issues in archived chat]]"
+- '[[Changes/Raycast/2024-04-24-ai-model-picker-the-model-information-popover-now-only-appears-after-changing-th|AI
+  Model Picker: The model information popover now only appears after changing…]]'
 - '[[Changes/Notion/2024-04-30-simplified-sidebar|Simplified sidebar]]'
 - '[[Changes/Notion/2024-04-30-a-lighter-new-page-experience|A lighter new page experience]]'
 source_release: '[[Releases/Notion/notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e|notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e]]'
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-04-24 · Open WebUI · [[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|📦 Archived Chat Styling: Fixed styling issues in archived chat]]
+- Earlier: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-model-picker-the-model-information-popover-now-only-appears-after-changing-th|AI Model Picker: The model information popover now only appears after changing…]]
 - Later: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|🔍 Scroll Gesture Bug]]
 <!-- chronolog:end -->
 

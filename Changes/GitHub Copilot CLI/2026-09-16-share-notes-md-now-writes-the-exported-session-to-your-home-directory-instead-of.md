@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f597338eef6748fdfbbea3ce7cc0300ae2185a5cf3f5111a4b2428ce6cf6327
+machine_hash: 8e52409dabf7e7c1ce3b6520f5310597234795b4bd674706363b008161e726f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,11 @@ record:
     instead…'
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every
-  AI skill your team needs, in one library]]'
 - '[[Changes/Notion/2026-09-15-take-your-team-s-skills-to-claude-code-codex-cursor-and-more|Take
   your team’s skills to Claude Code, Codex, Cursor, and more]]'
 - '[[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You
   know how some people are really good at prompting AI?]]'
+- '[[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: collaboration
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You know how some people are really good at prompting AI?]]
+- Earlier: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354 Extract shared footer hint wrapping in the TUI @copyberry]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd0eb6248b42f2597f7f1a042da6ca372645370d02bdbc4cb3a9d64d3ceb71e4
+machine_hash: 14cb8840898ec70e2302c5fd375335d32ac3eed8e39a4705b1fd949525950a65
 product: claude
 product_name: Claude
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part 4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]
-- Later: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Later: 2025-10-24 · Superwhisper · [[Changes/Superwhisper/2025-10-24-record-from-system-audio-now-uses-less-data-memory|Record from system audio now uses less data & memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

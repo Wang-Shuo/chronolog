@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b42a89c55277509fb6a21b59c15fc5f0a4a9f1bc5103f4ecbf4bdef74bd11666
+machine_hash: 6c9a4e96e6c30e9c153d3512f2f1e46b230f321a15f51d50bde7461e9087882a
 product: notion
 product_name: Notion
 record:
@@ -53,12 +53,11 @@ record:
   title: Better inline link previews
   type: change
 related_changes:
-- '[[Changes/Descript/2021-10-07-video-player-with-interactive-transcript-slack-integration|Video
-  player with interactive transcript + Slack integration]]'
-- '[[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace
-  member can add integrations]]'
-- '[[Changes/Notion/2021-11-02-create-dynamic-previews-of-github-prs-slack-messages-jira-issues-more|Create
-  dynamic previews of GitHub PRs, Slack messages, Jira issues & more]]'
+- '[[Changes/Raycast/2022-02-23-2-apps-and-integrations-changes-in-raycast-macos-v1-1-29-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.29.0]]'
+- '[[Changes/Raycast/2022-03-24-rich-extension-metadata|Rich Extension Metadata]]'
+- '[[Changes/Raycast/2022-03-24-root-search-running-app-activity-indicator-now-respects-dock-s-show-indicator-fo|Root
+  Search: Running app activity indicator now respects Dock’s…]]'
 source_release: '[[Releases/Notion/notion-2022-07-20-https-www-notion-com-releases-2022-07-20-b7426814|notion-2022-07-20-https-www-notion-com-releases-2022-07-20-b7426814]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -90,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-11-02 · Notion · [[Changes/Notion/2021-11-02-create-dynamic-previews-of-github-prs-slack-messages-jira-issues-more|Create dynamic previews of GitHub PRs, Slack messages, Jira issues & more]]
-- Later: 2022-08-25 · Notion · [[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements to Synced Databases with Jira and GitHub]]
+- Earlier: 2022-03-24 · Raycast · [[Changes/Raycast/2022-03-24-root-search-running-app-activity-indicator-now-respects-dock-s-show-indicator-fo|Root Search: Running app activity indicator now respects Dock’s…]]
+- Later: 2022-08-18 · Raycast · [[Changes/Raycast/2022-08-18-extensions-updater-parallelize-updates-and-provide-more-information-on-toast-whe|Extensions Updater: Parallelize updates and provide more information on toast…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

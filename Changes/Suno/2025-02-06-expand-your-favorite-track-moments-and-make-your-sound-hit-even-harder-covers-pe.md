@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5a4d7e5160eb0f76922183995e702d52dc710a4d238568bd0c41c371a9572f6
+machine_hash: 3e0f5d08f516927253577213a2621c457f95645d5bdc89655b8a1d84268a0564
 product: suno
 product_name: Suno
 record:
@@ -44,10 +44,10 @@ record:
   title: "\U0001F6A8 Extend is live on iOS!"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
-  Desktop App Preparations]]"
 - '[[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe"
   images on the web]]'
+- '[[Changes/AnythingLLM/2025-01-29-desktop-build-of-this-release-1-7-3-are-attached-as-binaries-below|
+  Desktop build of this release (1.7.3) are attached as binaries below]]'
 - '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
   ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
 source_release: '[[Releases/Suno/suno-2025-02-06-e-extend-is-live-on-ios-7c0544b7|suno-2025-02-06-e-extend-is-live-on-ios-7c0544b7]]'

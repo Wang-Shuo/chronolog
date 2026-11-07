@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6ae450113a51e7e123df9c17154d963d3f7e6073faf85b4341c0cef56e7e58b
+machine_hash: ff499b72ecffe152e04a7522321b98bccbb91626a6de38476b71f3acdc6490a5
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Pricing Model changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/Descript/2025-11-13-prorated-charges-now-display-correctly|Prorated charges
-  now display correctly]]'
 - '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
   visible in /status]]'
 - '[[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get
   user subscription((source link)]]'
+- '[[Changes/Recraft/2025-11-21-cost-per-generation|Cost per generation]]'
 source_release: '[[Releases/Dify/dify-2025-11-26-1-10-1-github-265397441-2aafa784|dify-2025-11-26-1-10-1-github-265397441-2aafa784]]'
 source_type: github_releases
 theme: pricing-model
@@ -97,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get user subscription((source link)]]
+- Earlier: 2025-11-21 · Recraft · [[Changes/Recraft/2025-11-21-cost-per-generation|Cost per generation]]
 - Later: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-low-credit-alert|Low credit alert]]
 <!-- chronolog:end -->
 

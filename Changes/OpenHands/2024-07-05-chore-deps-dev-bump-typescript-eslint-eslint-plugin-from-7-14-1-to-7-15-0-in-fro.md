@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8efaaea006faca589cff968635a69c0abee29b3157c4b18dc606edbb081feb31
+machine_hash: ae7535d145c9244bc9039822620715bf1d9e0ba196d070eeb0f4428777a1d402
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
     in /frontend'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing
-  with LangSmith and Langfuse]]'
 - '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
   and Integrations changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
   management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
+- '[[Changes/Raycast/2024-07-03-clipboard-history-six-digit-hexadecimal-color-codes-copied-from-graphics-design|Clipboard
+  History: Six-digit hexadecimal color codes copied from Graphics & Design…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
+- Earlier: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-clipboard-history-six-digit-hexadecimal-color-codes-copied-from-graphics-design|Clipboard History: Six-digit hexadecimal color codes copied from Graphics & Design…]]
 - Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and Integrations changes in 0.6.13]]
 <!-- chronolog:end -->
 

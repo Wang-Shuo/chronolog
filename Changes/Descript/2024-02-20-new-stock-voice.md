@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f815bdfd316c65f44dccfbd6be5a3e002f87e97074c053add346004c6739b897
+machine_hash: 7afa22c3a32707ac63a2b9ed20c5bae2bfcbdccc5a96668e04053c3ca9095507
 product: descript
 product_name: Descript
 record:
@@ -51,10 +51,10 @@ record:
   title: New Stock Voice
   type: change
 related_changes:
-- '[[Changes/Descript/2024-01-10-white-glove-transcription-sunset|White Glove Transcription
-  Sunset]]'
 - '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
   to supercharge your ideas in the Gemini app]]'
+- '[[Changes/Superwhisper/2024-02-08-audio-settings-moved-to-their-own-settings-tab|Audio
+  settings moved to their own settings tab]]'
 - '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
   changes in 0.5.6]]'
 source_release: '[[Releases/Descript/descript-2024-02-20-65d4eab1ad5d54d52ed3c0fa-c2fa414f|descript-2024-02-20-65d4eab1ad5d54d52ed3c0fa-c2fa414f]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio changes in 0.5.6]]
-- Later: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
+- Later: 2024-02-20 · Superwhisper · [[Changes/Superwhisper/2024-02-20-cloud-voice-model-added-deepgram-nova-2|Cloud voice model added (Deepgram Nova 2)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bdd7ad846a5a0482bb54a5fa0b069766ef0ce916d5253aab438d9f868feddc2
+machine_hash: cec8f77c60d1449e18a2db3805c2e177898e3162aa457a1268e233b0a239a40a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Memory and Personalization changes in v2026.10.6
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0
-  Built-in tools turned back on stay on. A built-in tool such as Memory…]]"
-- '[[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule
-  inspection during recovery]]'
 - '[[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory
   search recognizes more accented and Korean spellings and keeps keyword search…]]'
+- '[[Changes/Devin/2026-10-19-turn-off-nightly-memory-dreaming|Turn Off Nightly Memory
+  Dreaming]]'
+- '[[Changes/Krea/2026-10-20-smarter-agent-upgrade-suggestions-and-edit-model-memory|Smarter
+  Agent upgrade suggestions and Edit model memory]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'
 source_type: openclaw_changelog
 theme: memory
@@ -111,8 +111,8 @@ Source: https://docs.openclaw.ai/releases/2026.10.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory search recognizes more accented and Korean spellings and keeps keyword search…]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4 Memory and Personalization changes in rust-v0.164.0]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-smarter-agent-upgrade-suggestions-and-edit-model-memory|Smarter Agent upgrade suggestions and Edit model memory]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r|This update brings new commands, useful improvements, and plenty of fixes across Raycast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

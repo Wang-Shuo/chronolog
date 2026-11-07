@@ -1,0 +1,647 @@
+[
+  {
+    "url": "https://www.krea.ai/docs/changelog.md",
+    "response_url": "https://www.krea.ai/docs/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:07:23.073833+00:00",
+    "sha256": "ba24f8287a09ecd7020d5647b35dcfadb2e6e44090023b7d9bccdafe7b396b26",
+    "method": "GET",
+    "request_json": null,
+    "file": "ba24f8287a09ecd7020d5647b35dcfadb2e6e44090023b7d9bccdafe7b396b26.gz",
+    "product": "krea"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 1,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:38Z",
+    "sha256": "5dec2fd4e14844c1af92d27553b3ac97b9b7a29fe8cab8ea6a846341ab61fc61",
+    "file": "5dec2fd4e14844c1af92d27553b3ac97b9b7a29fe8cab8ea6a846341ab61fc61.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 2,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:40Z",
+    "sha256": "1843905f4329056e18c36a9527c7fad88cc816ae3bd4366278266b8428fb256c",
+    "file": "1843905f4329056e18c36a9527c7fad88cc816ae3bd4366278266b8428fb256c.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 3,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:41Z",
+    "sha256": "c0e2b82511f606833d0a860d8a3e9ca9f11e4f678f1556ed3300c296eea77f6c",
+    "file": "c0e2b82511f606833d0a860d8a3e9ca9f11e4f678f1556ed3300c296eea77f6c.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 4,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:42Z",
+    "sha256": "2eee7d9959097afdb81b64ce9a1e8d8f06ee970cbef19fd5dff5fb9aea975c42",
+    "file": "2eee7d9959097afdb81b64ce9a1e8d8f06ee970cbef19fd5dff5fb9aea975c42.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 5,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:43Z",
+    "sha256": "e14b1318964ba72f490f3587078baae9c0613500b6ff90126aed2e1005872c6c",
+    "file": "e14b1318964ba72f490f3587078baae9c0613500b6ff90126aed2e1005872c6c.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 6,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:45Z",
+    "sha256": "f94672a51a2749f27d0c51a9662e6bfecc84657793857ee8bc12a875a5d15ef7",
+    "file": "f94672a51a2749f27d0c51a9662e6bfecc84657793857ee8bc12a875a5d15ef7.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 7,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:46Z",
+    "sha256": "16b1755acbfdcab1b9445176472021dbe4c41173c70ed12428f1a1be0bf65dd7",
+    "file": "16b1755acbfdcab1b9445176472021dbe4c41173c70ed12428f1a1be0bf65dd7.gz",
+    "product": "recraft"
+  },
+  {
+    "method": "POST",
+    "url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "response_url": "https://feedback.recraft.ai/api/changelog/getEntries",
+    "request_json": {
+      "pages": 8,
+      "status": [
+        "published"
+      ]
+    },
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:47Z",
+    "sha256": "97061e172109d047b320ca0c79ebc5f5b794f0507f48255f05611650715754d7",
+    "file": "97061e172109d047b320ca0c79ebc5f5b794f0507f48255f05611650715754d7.gz",
+    "product": "recraft"
+  },
+  {
+    "url": "https://www.raycast.com/changelog/macos-v1",
+    "response_url": "https://www.raycast.com/changelog/macos-v1",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:14:13.201717+00:00",
+    "sha256": "e47d680902ee5d794c91b1a964acae27fe7d746f1da59a0f9bc08ee6b624873a",
+    "method": "GET",
+    "request_json": null,
+    "file": "e47d680902ee5d794c91b1a964acae27fe7d746f1da59a0f9bc08ee6b624873a.gz",
+    "product": "raycast"
+  },
+  {
+    "url": "https://www.raycast.com/changelog/ios",
+    "response_url": "https://www.raycast.com/changelog/ios",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:14:13.214495+00:00",
+    "sha256": "242c3a55bbdf2a7cf6d6f4056f9000008d73fad2fd67e9456f7280d37e45a342",
+    "method": "GET",
+    "request_json": null,
+    "file": "242c3a55bbdf2a7cf6d6f4056f9000008d73fad2fd67e9456f7280d37e45a342.gz",
+    "product": "raycast"
+  },
+  {
+    "url": "https://www.raycast.com/changelog/windows",
+    "response_url": "https://www.raycast.com/changelog/windows",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:14:13.202520+00:00",
+    "sha256": "0c4b5c5d5335255267aa823b3ebe2773f0e1a14924a4a43489fff714d18ef43c",
+    "method": "GET",
+    "request_json": null,
+    "file": "0c4b5c5d5335255267aa823b3ebe2773f0e1a14924a4a43489fff714d18ef43c.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos",
+    "response_url": "https://www.raycast.com/changelog/macos",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:48Z",
+    "sha256": "868c7640425d6b4c158d8d24ff94c414e996ea8c3d35e20388c0ab7d09a16398",
+    "file": "868c7640425d6b4c158d8d24ff94c414e996ea8c3d35e20388c0ab7d09a16398.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/ios/2",
+    "response_url": "https://www.raycast.com/changelog/ios/2",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:48Z",
+    "sha256": "b31f51d5ddb76586d3a7aed7e5774a889bea669b60931f17050e23892986c4da",
+    "file": "b31f51d5ddb76586d3a7aed7e5774a889bea669b60931f17050e23892986c4da.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/2",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/2",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:48Z",
+    "sha256": "edf365294240e79cedeac20e73269f1fee484c26b2986b4373b3dfa8796d9238",
+    "file": "edf365294240e79cedeac20e73269f1fee484c26b2986b4373b3dfa8796d9238.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/2",
+    "response_url": "https://www.raycast.com/changelog/windows/2",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:48Z",
+    "sha256": "3c316a97b26c0d0c84c221bc565dab5c30511410cf6cafbe39a038af61681f69",
+    "file": "3c316a97b26c0d0c84c221bc565dab5c30511410cf6cafbe39a038af61681f69.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos/2",
+    "response_url": "https://www.raycast.com/changelog/macos/2",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "53c634a788c714817618c51bf2b417117de040a79968840ab95674c1afe4c68c",
+    "file": "53c634a788c714817618c51bf2b417117de040a79968840ab95674c1afe4c68c.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/ios/3",
+    "response_url": "https://www.raycast.com/changelog/ios/3",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "739ca6420f15549a011ac2dcaa27e2e746abe03ad49e1a905a347c5e95845076",
+    "file": "739ca6420f15549a011ac2dcaa27e2e746abe03ad49e1a905a347c5e95845076.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/3",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/3",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "82f69541abb94c31bb1d11a141c992a64eaf2fe8c1b5c8d44cfa4f9a5f1849c1",
+    "file": "82f69541abb94c31bb1d11a141c992a64eaf2fe8c1b5c8d44cfa4f9a5f1849c1.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/3",
+    "response_url": "https://www.raycast.com/changelog/windows/3",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "55c44b92e7d42bd7411abb3b4ab503c2e3acafae9e69853f057ca3bea6cfc804",
+    "file": "55c44b92e7d42bd7411abb3b4ab503c2e3acafae9e69853f057ca3bea6cfc804.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos/3",
+    "response_url": "https://www.raycast.com/changelog/macos/3",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "00cd140a60a7db7b9613f15eb6c4093dffc6a045092d783a39c29289496afcdf",
+    "file": "00cd140a60a7db7b9613f15eb6c4093dffc6a045092d783a39c29289496afcdf.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/ios/4",
+    "response_url": "https://www.raycast.com/changelog/ios/4",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "76a2be8a6995f4b82707769b02a9f7b83ecd37f1fb745fe82d31b70b8fdc0df6",
+    "file": "76a2be8a6995f4b82707769b02a9f7b83ecd37f1fb745fe82d31b70b8fdc0df6.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/4",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/4",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:49Z",
+    "sha256": "1a5bf56df4a4d7f6e5963d53d4a2d77145d89ab1419f8a4f2f4e075b2bc9a525",
+    "file": "1a5bf56df4a4d7f6e5963d53d4a2d77145d89ab1419f8a4f2f4e075b2bc9a525.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/4",
+    "response_url": "https://www.raycast.com/changelog/windows/4",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "ddc35434c0589e5230ee7f657c6699ffb4415223150d9ef7df5640e987dba0ef",
+    "file": "ddc35434c0589e5230ee7f657c6699ffb4415223150d9ef7df5640e987dba0ef.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/ios/5",
+    "response_url": "https://www.raycast.com/changelog/ios/5",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "3a620c20cd8ec4d3df150cd5afc3d3ba6c1ab714c9798b6241ebe6fb832bb4d3",
+    "file": "3a620c20cd8ec4d3df150cd5afc3d3ba6c1ab714c9798b6241ebe6fb832bb4d3.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos/4",
+    "response_url": "https://www.raycast.com/changelog/macos/4",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "ba60ad9ead5ab982740032d85eb266e6cb402a513c66628bffb13d75f708fb28",
+    "file": "ba60ad9ead5ab982740032d85eb266e6cb402a513c66628bffb13d75f708fb28.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/5",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/5",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "f954b97286d1c40348e6abbcde82ff0e1ec231886a2de491d560fe7da2c365d8",
+    "file": "f954b97286d1c40348e6abbcde82ff0e1ec231886a2de491d560fe7da2c365d8.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/5",
+    "response_url": "https://www.raycast.com/changelog/windows/5",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:50Z",
+    "sha256": "5e93e2bfdd14e4a9990dd1847c5c1d3ba54f144e37fbfaf82787b82dae255fe4",
+    "file": "5e93e2bfdd14e4a9990dd1847c5c1d3ba54f144e37fbfaf82787b82dae255fe4.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/6",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/6",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:51Z",
+    "sha256": "16e9a3bf65df651f650596db7912eb8b12578a36d64e36ab73c01fb6bea557f5",
+    "file": "16e9a3bf65df651f650596db7912eb8b12578a36d64e36ab73c01fb6bea557f5.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/6",
+    "response_url": "https://www.raycast.com/changelog/windows/6",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:51Z",
+    "sha256": "a44a7888c6cde8220f447f214a0c310f6c27897a4252fbfbc33fee343c0ffa67",
+    "file": "a44a7888c6cde8220f447f214a0c310f6c27897a4252fbfbc33fee343c0ffa67.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/7",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/7",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:51Z",
+    "sha256": "d1c4e95cddf0769e6527fe92b1df088e544db01c627b84a288145b27b952fb0f",
+    "file": "d1c4e95cddf0769e6527fe92b1df088e544db01c627b84a288145b27b952fb0f.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/windows/7",
+    "response_url": "https://www.raycast.com/changelog/windows/7",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:51Z",
+    "sha256": "41585b2b461321b4f14a87ddc08c0808bdbfa06fbe60b5376181f718df66034c",
+    "file": "41585b2b461321b4f14a87ddc08c0808bdbfa06fbe60b5376181f718df66034c.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/8",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/8",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:52Z",
+    "sha256": "f31b20de4ad807616eb0fe7d9031e8648a41d3019f8ad63bee323445a9281db8",
+    "file": "f31b20de4ad807616eb0fe7d9031e8648a41d3019f8ad63bee323445a9281db8.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/9",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/9",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:53Z",
+    "sha256": "337f0df28c99eb445601deb5451d11d6acda69fb4d30f894bbbc6e82cce472a7",
+    "file": "337f0df28c99eb445601deb5451d11d6acda69fb4d30f894bbbc6e82cce472a7.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/10",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:53Z",
+    "sha256": "0730d4a752c0848cf7ed734103193fd90f40cdd270b15bb111b4c7889f3223e7",
+    "file": "0730d4a752c0848cf7ed734103193fd90f40cdd270b15bb111b4c7889f3223e7.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/11",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/11",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:54Z",
+    "sha256": "c6732b7ee356539d639c0bffb6e13545335bec325e9239aee8fa93092079929b",
+    "file": "c6732b7ee356539d639c0bffb6e13545335bec325e9239aee8fa93092079929b.gz",
+    "product": "raycast"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.raycast.com/changelog/macos-v1/12",
+    "response_url": "https://www.raycast.com/changelog/macos-v1/12",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:55Z",
+    "sha256": "0867f090e3c6c623f36381cfd57991f9a78f9955e9796768ac6ba967128c06f4",
+    "file": "0867f090e3c6c623f36381cfd57991f9a78f9955e9796768ac6ba967128c06f4.gz",
+    "product": "raycast"
+  },
+  {
+    "url": "https://docs.devin.ai/release-notes/overview.md",
+    "response_url": "https://docs.devin.ai/release-notes/overview.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:07:22.770917+00:00",
+    "sha256": "f221ec575888a3cfa35c3b7dd24b0573c4c546b952e77d6fa7e4b2dbef778504",
+    "method": "GET",
+    "request_json": null,
+    "file": "f221ec575888a3cfa35c3b7dd24b0573c4c546b952e77d6fa7e4b2dbef778504.gz",
+    "product": "devin"
+  },
+  {
+    "url": "https://docs.devin.ai/release-notes/2025.md",
+    "response_url": "https://docs.devin.ai/release-notes/2025.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:12:24.861399+00:00",
+    "sha256": "b4106953462df56e52d9133f40572d2dd64736008de6538d65c88fdd3a79a28c",
+    "method": "GET",
+    "request_json": null,
+    "file": "b4106953462df56e52d9133f40572d2dd64736008de6538d65c88fdd3a79a28c.gz",
+    "product": "devin"
+  },
+  {
+    "url": "https://docs.devin.ai/release-notes/2024.md",
+    "response_url": "https://docs.devin.ai/release-notes/2024.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:12:24.754568+00:00",
+    "sha256": "d901d33170c12bcd8ce9d5583187ff0ee05d2ec62ebce5447be6cad82acd334c",
+    "method": "GET",
+    "request_json": null,
+    "file": "d901d33170c12bcd8ce9d5583187ff0ee05d2ec62ebce5447be6cad82acd334c.gz",
+    "product": "devin"
+  },
+  {
+    "url": "https://docs.devin.ai/release-notes/2026.md",
+    "response_url": "https://docs.devin.ai/release-notes/2026.md",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:12:24.752955+00:00",
+    "sha256": "5829c3c642be7aa2a6ba995cd5f6f939c02b7cf7501502d4df993a68b7615cf8",
+    "method": "GET",
+    "request_json": null,
+    "file": "5829c3c642be7aa2a6ba995cd5f6f939c02b7cf7501502d4df993a68b7615cf8.gz",
+    "product": "devin"
+  },
+  {
+    "url": "https://lmstudio.ai/api/changelog?offset=0&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=0&limit=10",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:15:54.208441+00:00",
+    "sha256": "47da41785db4b715460d2223c1b0b98d7d1bb15eeb84d815df5ce3b488f61a41",
+    "method": "GET",
+    "request_json": null,
+    "file": "47da41785db4b715460d2223c1b0b98d7d1bb15eeb84d815df5ce3b488f61a41.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=10&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=10&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:55Z",
+    "sha256": "b7c37de8f60197ce863af150eb4c4fa84e1bb9fef11cc8de7bbe91d97908ca52",
+    "file": "b7c37de8f60197ce863af150eb4c4fa84e1bb9fef11cc8de7bbe91d97908ca52.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=20&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=20&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:56Z",
+    "sha256": "aa406f420135544df118783b95affecabff783ed4873753d3913ece8a5b652ca",
+    "file": "aa406f420135544df118783b95affecabff783ed4873753d3913ece8a5b652ca.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=30&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=30&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:57Z",
+    "sha256": "7442bc008ec42df4ac7f106b994d305d805db2f9ca7c4526920dfbd7fbcbc9e3",
+    "file": "7442bc008ec42df4ac7f106b994d305d805db2f9ca7c4526920dfbd7fbcbc9e3.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=40&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=40&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:57Z",
+    "sha256": "9a68f09aa3032cf660d012129c55961e4f1997ce29d8d6e1ae82c405a8217d73",
+    "file": "9a68f09aa3032cf660d012129c55961e4f1997ce29d8d6e1ae82c405a8217d73.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=50&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=50&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:58Z",
+    "sha256": "0a7458bdc0096bad72d34b16931f7e8c40f6d3853a80042e25fa06a08ec20264",
+    "file": "0a7458bdc0096bad72d34b16931f7e8c40f6d3853a80042e25fa06a08ec20264.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://lmstudio.ai/api/changelog?offset=60&limit=10",
+    "response_url": "https://lmstudio.ai/api/changelog?offset=60&limit=10",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:58Z",
+    "sha256": "cc051b98bf645839d65e88d7744ea1e0a84b1468a6167d9de03372b7b7dd4ba0",
+    "file": "cc051b98bf645839d65e88d7744ea1e0a84b1468a6167d9de03372b7b7dd4ba0.gz",
+    "product": "lm-studio"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.github.com/repos/Mintplex-Labs/anything-llm/releases?per_page=30&page=1",
+    "response_url": "https://api.github.com/repos/Mintplex-Labs/anything-llm/releases?per_page=30&page=1",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:20:59Z",
+    "sha256": "6db0af6eea33da12528fc06d4edf8fed3f97410ca592e46a1bcacb1392d4213b",
+    "file": "6db0af6eea33da12528fc06d4edf8fed3f97410ca592e46a1bcacb1392d4213b.gz",
+    "product": "anythingllm"
+  },
+  {
+    "method": "GET",
+    "url": "https://api.github.com/repos/Mintplex-Labs/anything-llm/releases?per_page=30&page=2",
+    "response_url": "https://api.github.com/repos/Mintplex-Labs/anything-llm/releases?per_page=30&page=2",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:21:00Z",
+    "sha256": "8ecaa0cffde68e69a2fe2745cbc0f6a3745c8c698039228a67539fd00bdd89b1",
+    "file": "8ecaa0cffde68e69a2fe2745cbc0f6a3745c8c698039228a67539fd00bdd89b1.gz",
+    "product": "anythingllm"
+  },
+  {
+    "url": "https://superwhisper.com/changelog?platform=windows",
+    "response_url": "https://superwhisper.com/changelog?platform=windows",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:12:25.141951+00:00",
+    "sha256": "db609d0f61e66541aa336428efc9e5335808ae0ddde9ac9ef89f76de905c1f69",
+    "method": "GET",
+    "request_json": null,
+    "file": "db609d0f61e66541aa336428efc9e5335808ae0ddde9ac9ef89f76de905c1f69.gz",
+    "product": "superwhisper"
+  },
+  {
+    "url": "https://superwhisper.com/changelog?platform=ios",
+    "response_url": "https://superwhisper.com/changelog?platform=ios",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:14:13.780643+00:00",
+    "sha256": "882d553c26f86fe7aee9d297a8f7166e3e26c75d99fb36d908e50c1103840571",
+    "method": "GET",
+    "request_json": null,
+    "file": "882d553c26f86fe7aee9d297a8f7166e3e26c75d99fb36d908e50c1103840571.gz",
+    "product": "superwhisper"
+  },
+  {
+    "url": "https://superwhisper.com/changelog?platform=android",
+    "response_url": "https://superwhisper.com/changelog?platform=android",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:14:15.843369+00:00",
+    "sha256": "9d1884b3e590c1ee1cab7e0a1739ef2c880e2c2573d30599e499d626d918520f",
+    "method": "GET",
+    "request_json": null,
+    "file": "9d1884b3e590c1ee1cab7e0a1739ef2c880e2c2573d30599e499d626d918520f.gz",
+    "product": "superwhisper"
+  },
+  {
+    "method": "GET",
+    "url": "https://superwhisper.com/changelog?platform=macos",
+    "response_url": "https://superwhisper.com/changelog?platform=macos",
+    "request_json": null,
+    "status": 200,
+    "acquired_at": "2026-11-07T06:21:01Z",
+    "sha256": "b8001fd4e5220af62a5020ee2adbfe2cd665d1393a023886c29da5bd248def1f",
+    "file": "b8001fd4e5220af62a5020ee2adbfe2cd665d1393a023886c29da5bd248def1f.gz",
+    "product": "superwhisper"
+  },
+  {
+    "url": "https://wisprflow.ai/whats-new",
+    "response_url": "https://wisprflow.ai/whats-new",
+    "status": 200,
+    "acquired_at": "2026-11-07T06:07:51.478926+00:00",
+    "sha256": "9b79009b0c68809a2eae864d026e2404d00aa64a875f3e7b0d88dc121e8abc15",
+    "method": "GET",
+    "request_json": null,
+    "file": "9b79009b0c68809a2eae864d026e2404d00aa64a875f3e7b0d88dc121e8abc15.gz",
+    "product": "wispr-flow"
+  }
+]

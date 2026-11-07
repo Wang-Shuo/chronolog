@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3e0a3971c04abf3de067c933e89c3c8395ae93f09dbcbb0d58c92c14d9554b37
+machine_hash: cc755a3be2690fff9eb7e0d909daacd3210c8f14e8f8821d44580bacc9e183a0
 product: descript
 product_name: Descript
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2023-07-17 · Dify · [[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add document limit check]]
-- Later: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes in 0.3.15]]
+- Later: 2023-08-12 · Superwhisper · [[Changes/Superwhisper/2023-08-12-recordings-now-stored-within-superwhisper-directory-in-documents-not-synced-to-i|Recordings now stored within superwhisper directory in Documents, not synced to iCloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

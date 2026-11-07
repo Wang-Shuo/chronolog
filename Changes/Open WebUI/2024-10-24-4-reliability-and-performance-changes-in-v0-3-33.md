@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99b404b1e3a0baa765daba81f94b6939ea7af9bb66c903af6a4edb576beec4f6
+machine_hash: 6145b0db097834e3bf390d7f6f6bdf6f2f0f901dc10e1ad820d2486486cabfbd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,8 @@ record:
   title: 4 Reliability and Performance changes in v0.3.33
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending
-  follow on requests to vision models will now be much faster]]'
+- '[[Changes/LM Studio/2024-10-22-2-reliability-and-performance-changes-in-lm-studio-0-3-5|2
+  Reliability and Performance changes in LM Studio 0.3.5]]'
 - '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
   and Performance changes in 0.10.1]]'
 - '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.33
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]
-- Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|🛠️ Tool Parameters Issue]]
+- Later: 2024-10-25 · Superwhisper · [[Changes/Superwhisper/2024-10-25-massive-performance-improvements-for-recording-window-waveform|Massive performance improvements for Recording Window waveform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

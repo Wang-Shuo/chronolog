@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 051681a620b1a45f9c12868b539d1fa1d62c98bb041dc33733a125bb62762baf
+machine_hash: ec7d674dbdda21c6b2bc33849bf86c26fb7f4331b1c38ed6e22b93374c86b57a
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +40,10 @@ record:
   title: Desktop Improved large review pane performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
-  Reliability and Performance changes in v2.1.199]]'
-- '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
-  the install script to explain when installation is killed by the system…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear|File
+  Search : New File Search index backend which should improve indexing and search…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear-f1c1fb|File
+  Search : New File Search index backend, which should improve indexing…]]'
 - '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
   can now offload vision models with padding to fit available memory]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-06-v1-17-14-6f861196|opencode-2026-07-06-v1-17-14-6f861196]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU can now offload vision models with padding to fit available memory]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
+- Later: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-faster-pasting-time-to-paste-latency-reduced-by-300ms|Faster pasting — time to paste latency reduced by 300ms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

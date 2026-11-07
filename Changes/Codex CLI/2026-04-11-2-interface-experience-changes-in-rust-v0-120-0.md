@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd4e0f28f0bedf1293a88ebc1ec4452bedbc7ff967630e4f0bc6d6dbdd2b7345
+machine_hash: 6d6b20fbaa06e051d07495ec0946d3d055a67b70c3ec627a890daa7d3a281e42
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.120.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved
-  focus mode]]'
 - '[[Changes/Codex CLI/2026-04-10-10-interface-experience-changes-in-rust-v0-119-0|10
   Interface Experience changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-slash-command-picker-shows-full-skill-descriptions-and-a-refined-scrollbar|Slash
   command picker shows full skill descriptions and a refined scrollbar]]'
+- '[[Changes/Raycast/2026-04-10-raycast-notes-added-show-notes-toggle-in-menu-bar-and-escape-key-loses-focus-set|Raycast
+  Notes: Added “Show Notes Toggle in Menu Bar” and “Escape Key Loses Focus” settings]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9|codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.120.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-slash-command-picker-shows-full-skill-descriptions-and-a-refined-scrollbar|Slash command picker shows full skill descriptions and a refined scrollbar]]
+- Earlier: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-raycast-notes-added-show-notes-toggle-in-menu-bar-and-escape-key-loses-focus-set|Raycast Notes: Added “Show Notes Toggle in Menu Bar” and “Escape Key Loses Focus” settings]]
 - Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-improved-network-error-messages-connection-errors-now-show-a-retry-message-immed|Improved network error messages]]
 <!-- chronolog:end -->
 

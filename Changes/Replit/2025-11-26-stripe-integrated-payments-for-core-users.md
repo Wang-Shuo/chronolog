@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: d92f74e7d1a4b8c5c2cf05d8e0c373709e57ba2b03c41e50f50f4f5f002a4f67
+machine_hash: e7762932b8d3ac4a4ad88998693a74eed7d67679649d8a54c446e07b0e850a1e
 product: replit
 product_name: Replit
 record:
@@ -61,8 +61,7 @@ record:
   title: Stripe Integrated Payments for Core Users
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get
-  user subscription((source link)]]'
+- '[[Changes/Recraft/2025-11-21-cost-per-generation|Cost per generation]]'
 - '[[Changes/Dify/2025-11-26-3-pricing-model-changes-in-1-10-1|3 Pricing Model changes
   in 1.10.1]]'
 - '[[Changes/Lovable/2025-11-26-low-credit-alert|Low credit alert]]'

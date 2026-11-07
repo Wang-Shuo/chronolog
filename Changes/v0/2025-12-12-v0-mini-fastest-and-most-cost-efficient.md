@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3c393666cf55bf9bcdbfd15f32fd44742ad912869f3eecbfd92addce64a95a0a
+machine_hash: a8c1810b5e4928025c0959350ea7d514a5a663ac5c82466f4c660320e403b95e
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,11 @@ record:
   title: 'v0 Mini : Fastest and most cost-efficient'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-billing|Billing]]'
 - '[[Changes/ElevenLabs/2025-12-08-billing-9b631f|Billing]]'
 - '[[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes
   in 1.11.0]]'
+- '[[Changes/Recraft/2025-12-12-credit-cost-2-credits-per-generation|Credit cost:
+  2 credits per generation]]'
 source_release: '[[Releases/v0/v0-2025-12-12-2025-12-12-model-selection-efc511d2|v0-2025-12-12-2025-12-12-model-selection-efc511d2]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -74,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-pricing-model-changes-in-1-11-0|2 Pricing Model changes in 1.11.0]]
+- Earlier: 2025-12-12 · Recraft · [[Changes/Recraft/2025-12-12-credit-cost-2-credits-per-generation|Credit cost: 2 credits per generation]]
 - Later: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 

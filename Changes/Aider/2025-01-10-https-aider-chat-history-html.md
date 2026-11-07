@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b55eb02f2ef540b1ad6f4e77c7baf25ff890bd762018eeed155457aa1fc6e09b
+machine_hash: ded26552b6f2bb4f58c403db010ea62bda990cb74dfd5b89f310d9d0eaa2e658
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,9 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]'
 - '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
   Experience changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-ui-improvements|UI improvements]]'
 - '[[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases

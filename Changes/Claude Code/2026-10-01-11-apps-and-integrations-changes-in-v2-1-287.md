@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f263591d7af6510afe61dd498931c0714367cae7486cd323af31f19ec0bbaca
+machine_hash: 1c30a164c3e7754c9ef36f7276c7c846ae3499cef98653dc79809b3d616dc0b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,8 +75,8 @@ record:
   title: 11 Apps and Integrations changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11
-  Apps and Integrations changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-slack-buttons-work-across-organizations|Slack: Buttons
+  Work Across Organizations]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3
   Apps and Integrations changes in v1.0.90]]'
 - '[[Changes/OpenClaw/2026-09-30-36-apps-and-integrations-changes-in-v2026-9-7|36

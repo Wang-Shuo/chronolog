@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79f1185dd3c2da681c1f09486d80a95ce60df5c6a3d5e6da4f00cfa52aed4432
+machine_hash: 8e1b2ee4f71841dd28ab1b7dfd185538d01df680020ea668a3be858d748e7744
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,12 +50,12 @@ record:
   title: 2 Account and Access changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-2-account-and-access-changes-in-v2026-6-11|2 Account
-  and Access changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account
   and Access changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
+- '[[Changes/Devin/2026-07-01-this-release-also-includes-numerous-bug-fixes-across-the-platform-including-fixe|This
+  release also includes numerous bug fixes across the platform]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: account-access
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-this-release-also-includes-numerous-bug-fixes-across-the-platform-including-fixe|This release also includes numerous bug fixes across the platform]]
 - Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT for PowerPoint is now generally available]]
 <!-- chronolog:end -->
 

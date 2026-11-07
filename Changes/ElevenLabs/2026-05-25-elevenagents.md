@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8b89ed9e39cf9652e2b13ca764cbb0390b8c78b18b768b9e47983c982fa91296
+machine_hash: a73787353a9282dc3723287417ae5a6897004a1bcdebb59c4b09e27048ff23d5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom agents support opt-in deferred tool loading via deferred-tool-loading…]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode changes in rust-v0.134.0]]
+- Later: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-10-agent-mode-changes-in-v1-13-0|10 Agent Mode changes in v1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

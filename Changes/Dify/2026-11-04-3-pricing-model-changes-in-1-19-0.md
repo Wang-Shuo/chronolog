@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d43a1a20ebdfa68a4e8677982fd799fca7f07cdcd5453bea848500aa8c48b7c8
+machine_hash: c19a32b6b3176da2ad468a12475ade8a68800b818e5b9403dd52add46419eead
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: 3 Pricing Model changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495
-  Add paginated channel subscription queries to the local message board @felixxia-oai]]'
 - '[[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3
   Pricing Model changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Recraft/2026-11-02-preview-it-on-packaging-apparel-and-storefronts-at-no-extra-generation-cost|Preview
+  it on packaging, apparel, and storefronts at no extra generation cost]]'
 - "[[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|\U0001F9E0
   Context compaction and prompt caching. When the same model handles…]]"
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'

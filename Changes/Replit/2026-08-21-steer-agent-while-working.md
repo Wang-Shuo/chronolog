@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 43e9e8a8b73ab31a1d1936850cbda058ea49431cfb27801d120802f0d691ff0f
+machine_hash: 041c40adf30a2e2efe2340edc4b11518b00f825c27ae5e47dabe63b443c71aaa
 product: replit
 product_name: Replit
 record:
@@ -53,10 +53,9 @@ record:
   title: Steer Agent while working
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-21-core-surface-resumable-subagent-failures-instead-of-returning-an-empty-result|Core
-  Surface resumable subagent failures instead of returning an empty result]]'
 - '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
   add LLM provider-connections UI (local agent-server)]]'
+- '[[Changes/Recraft/2026-08-21-chat-the-agentic-mode|Chat, the agentic mode]]'
 - '[[Changes/Replit/2026-08-21-agent|Agent]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'
 source_type: replit_changelog
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat: add LLM provider-connections UI (local agent-server)]]
+- Earlier: 2026-08-21 · Recraft · [[Changes/Recraft/2026-08-21-chat-the-agentic-mode|Chat, the agentic mode]]
 - Later: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry session and client identity into Langfuse traces for Hub-backed…]]
 <!-- chronolog:end -->
 

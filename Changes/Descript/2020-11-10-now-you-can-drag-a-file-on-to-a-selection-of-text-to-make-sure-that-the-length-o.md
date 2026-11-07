@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84dfad6a987d31aa3bef95e2b377d4d1cb9a1e00d8510847a2510dcd71745e08
+machine_hash: e1f9728f92b5aa2c5e53d56169469653071528047147655ba370ef3bf0965269
 product: descript
 product_name: Descript
 record:
@@ -46,12 +46,12 @@ record:
   title: Drag file onto a selection
   type: change
 related_changes:
-- '[[Changes/Descript/2020-09-08-we-ve-recently-updated-our-drive-switching-view-in-the-left-hand-sidebar-of-the|Re-designed
-  Drive Switcher View]]'
-- "[[Changes/Notion/2020-09-29-log-out-of-notion-from-all-your-devices-remotely|Log
-  out of Notion from all your devices, remotely \U0001F4E1]]"
+- '[[Changes/Raycast/2020-09-30-improved-date-picker-to-match-more-autocompletions-and-show-time-in-hint|Improved
+  date picker to match more autocompletions and show time in hint]]'
 - '[[Changes/Descript/2020-10-02-we-ve-added-a-new-clip-properties-menu-in-the-track-inspector-which-allows-you-t|Clip
   Properties Menu Accessible]]'
+- '[[Changes/Raycast/2020-10-21-root-search-added-initial-command-suggestions-based-on-the-onboarding-selections|Root
+  Search : Added initial command suggestions based on the onboarding selections]]'
 source_release: '[[Releases/Descript/descript-2020-11-10-5faab6769aeca15e6ea004e4-1968761b|descript-2020-11-10-5faab6769aeca15e6ea004e4-1968761b]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-10-02 · Descript · [[Changes/Descript/2020-10-02-we-ve-added-a-new-clip-properties-menu-in-the-track-inspector-which-allows-you-t|Clip Properties Menu Accessible]]
+- Earlier: 2020-10-21 · Raycast · [[Changes/Raycast/2020-10-21-root-search-added-initial-command-suggestions-based-on-the-onboarding-selections|Root Search : Added initial command suggestions based on the onboarding selections]]
 - Later: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-in-addition-to-full-screen-descript-now-supports-theater-mode-on-your-published|Theater mode for published pages]]
 <!-- chronolog:end -->
 

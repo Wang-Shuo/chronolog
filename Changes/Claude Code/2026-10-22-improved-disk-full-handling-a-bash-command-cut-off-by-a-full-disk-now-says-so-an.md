@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68ac0fa0ba5a31dee9a7c3c100c4c0bf461562044ab787546be53a6260e7d571
+machine_hash: a1487eef7939faab299484a6bec299a889659908adc493071c5dcd03e337bea8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Improved disk-full handling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-received-feedback-rows-open-the-pr-comment|"Received
+  Feedback" Rows Open the PR Comment]]'
 - '[[Changes/Kimi Code/2026-10-21-2-developer-workflow-changes-in-kimi-code-2-3-0|2
   Developer Workflow changes in Kimi Code 2.3.0]]'
 - '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint

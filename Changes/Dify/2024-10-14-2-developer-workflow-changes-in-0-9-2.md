@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25d19844b45461d191765109bfd7a4ee0748351a1134e56b3545a80581da11a6
+machine_hash: 7d1a4decc834a4d1ac70d2da681805e0267d1bffc33518ef0f20bda0693045c0
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in 0.9.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|\U0001F527
-  Code Block Enhancements]]"
 - '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
   have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
 - '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
   cursor . with WSL should now be more stable]]'
+- '[[Changes/Raycast/2024-10-09-clipboard-history-disabling-update-history-after-action-now-only-applies-to-acti|Clipboard
+  History : Disabling Update History after action now only applies…]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using cursor . with WSL should now be more stable]]
+- Earlier: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-clipboard-history-disabling-update-history-after-action-now-only-applies-to-acti|Clipboard History : Disabling Update History after action now only applies…]]
 - Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 

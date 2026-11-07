@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 935baf4e980cfd85038dd44a6b55d1f6d2da4e2653e582605a3e97bbe9b23647
+machine_hash: be8a991d0312668afd51bad6b6764086eb580771f8aa0768ac835c4ac626ac12
 product: cursor
 product_name: Cursor
 record:
@@ -61,8 +61,8 @@ record:
   title: 7 Interface Experience changes in Side Chats and Conversation Search
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
-  Interface Experience changes in rust-v0.144.0]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-edit-previously-sent-messages-via-the-edit-button-hotkey-or-by-pressing|AI
+  Chat : Edit previously sent messages via the edit button, hotkey, or by pressing…]]'
 - '[[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]'
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
@@ -113,7 +113,7 @@ Source: https://cursor.com/changelog/side-chat
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
+- Later: 2026-07-10 · Devin · [[Changes/Devin/2026-07-10-streamlined-copy-actions|Streamlined Copy Actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

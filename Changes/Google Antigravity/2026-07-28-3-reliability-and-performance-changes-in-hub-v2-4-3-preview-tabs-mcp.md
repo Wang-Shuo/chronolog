@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6f4545da5ffee72a67eda9a04b39209c7ac51f4997273b60cf7347e70ab57a2
+machine_hash: 11af8d15cdeec34430c21552825b0b188fa0325645a072bb97f5fb9be88e2830
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Reliability and Performance changes in HUB v2.4.3 — Preview tabs, MCP…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded
-  GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]'
+- '[[Changes/Raycast/2026-07-23-2-reliability-and-performance-changes-in-raycast-macos-0-70|2
+  Reliability and Performance changes in Raycast macos 0.70]]'
 - '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
   Reliability and Performance changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight

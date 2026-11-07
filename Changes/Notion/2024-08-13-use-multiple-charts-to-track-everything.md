@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7fc9e549cb4712fc63cf34d4e7a2a5e46c5031ce3b83d9520c998207596ef537
+machine_hash: d691055c4a7ab85d895644850acf83c50fc8a48efdcbddc6ce0456bf4f872912
 product: notion
 product_name: Notion
 record:
@@ -47,9 +47,9 @@ record:
   title: Use multiple charts to track everything
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
-  and Integrations changes in 0.8.2]]'
 - '[[Changes/Notion/2024-07-29-more-new-features|More new features!]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-you-can-now-choose-the-interval-after-which-apps-are-automatically-ter|Auto
+  Quit: You can now choose the interval after which apps are automatically terminated]]'
 - "[[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|\U0001F527
   Non-Streaming Support for Functions Plugin]]"
 source_release: '[[Releases/Notion/notion-2024-08-13-https-www-notion-com-releases-2024-08-13-e8eedd4f|notion-2024-08-13-https-www-notion-com-releases-2024-08-13-e8eedd4f]]'

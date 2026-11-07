@@ -5,20 +5,20 @@ description: 'Lovable · 2026-05-18 · Accessibility and Localization: You can n
   reusable [skills](https://docs.lovable.dev/features/skills.md) that teach Lovable
   how…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 980
+  lag_days: 2006
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 492920a1ecf8d7a64c0202e9c41b972af50abc5eb0c96f9ca1c6e83b127f3144
+machine_hash: 3bfea63b617f2c4b73efe5f3fa0a21f47e154ae712e7228cf61090fcc866b230
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Workspace skills
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
-  Accessibility and Localization changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI
   startup and accessibility were tightened by bounding terminal probes, clearing…]]'
+- '[[Changes/Raycast/2026-05-08-localization-improved-system-settings-localization-they-can-now-be-found-by-both|Localization:
+  Improved System Settings localization]]'
 - '[[Changes/Dify/2026-05-12-accessibility-and-semantics-improved-web-accessibility-removed-unnecessary-data|Accessibility
   and semantics]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'
@@ -122,7 +122,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

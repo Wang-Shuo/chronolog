@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd3a46f1f9d282f346ba755aa3bc1eba7ff2a66c754a76c9185133222f12008f
+machine_hash: f78d86c061c4dd1ef899337eed3cfba8e98a88fb2eb93873782717f4e2cc3e8f
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: 3 Editor Experience changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-editor-experience-changes-in-v0-0-396|3
-  Editor Experience changes in v0.0.396]]'
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
   Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
   now appear in @mention autocomplete]]'
+- '[[Changes/LM Studio/2026-01-28-show-release-notes-in-a-dedicated-tab-after-app-updates|Show
+  release notes in a dedicated tab after app updates]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -94,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.1.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories now appear in @mention autocomplete]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-show-release-notes-in-a-dedicated-tab-after-app-updates|Show release notes in a dedicated tab after app updates]]
 - Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import any GitHub repo into v0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 905a0861514c8a9b502eb0e3c3e30c57ec7c829f8b8df173d0166634e7dddca4
+machine_hash: bce6684edfa0619169aff079717878b8061a7c6c3aac130a6eeaa9875dde4eec
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-sdks|SDKs]]
-- Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add collapsible MCP response panels to keep conversations focused on the main AI…]]
+- Later: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-3-apps-and-integrations-changes-in-v1-8-2|3 Apps and Integrations changes in v1.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

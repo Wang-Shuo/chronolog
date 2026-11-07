@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 31045ceea3cd14c75876e624f7d680a5d8e804854d5a11a2343c6746a5dd45ef
+machine_hash: a0732b7708d1c3020bfc24acc99660a130af97649651b82bd2f1d305937d533c
 product: cursor
 product_name: Cursor
 record:
@@ -51,11 +51,11 @@ record:
   title: Better support for remote-ssh
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer
-  Workflow changes in v0.10.1]]'
 - '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
 - '[[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add
   clean unused dataset command]]'
+- '[[Changes/Raycast/2023-07-27-flight-tracker-terminal-info-is-now-displayed-in-the-flight-tracker-detail-view|Flight
+  Tracker: Terminal info is now displayed in the flight tracker detail view]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add clean unused dataset command]]
+- Earlier: 2023-07-27 · Raycast · [[Changes/Raycast/2023-07-27-flight-tracker-terminal-info-is-now-displayed-in-the-flight-tracker-detail-view|Flight Tracker: Terminal info is now displayed in the flight tracker detail view]]
 - Later: 2023-08-01 · Cursor · [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter]]
 <!-- chronolog:end -->
 

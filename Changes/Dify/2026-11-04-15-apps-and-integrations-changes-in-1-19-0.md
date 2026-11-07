@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d460a468973affe9a7d019b9822d55059ab0ef0c8c2ebdb03b65ac06a89dd0b
+machine_hash: 8dd12197f17911150f30aee2d006a8a03b77f13c65d82ff86b2d118acf0fb374
 product: dify
 product_name: Dify
 record:
@@ -124,7 +124,7 @@ type: change
 <!-- chronolog:begin region="evidence" -->
 ## Changes in this digest
 
-> All Dify app exports now use **package format v2**, including apps without Workflow Tools. Existing v1 imports and explicit YAML export remain supported. See the [upgrade guide](#user-content-upgrade-guide) before importing new packages into older installations. (#45353)
+> All Dify app exports now use **package format v2**, including apps without Workflow Tools. Existing v1 imports and explicit YAML export remain supported. See the [upgrade guide](https://github.com/langgenius/dify/releases/tag/1.19.0#user-content-upgrade-guide) before importing new packages into older installations. (#45353)
 
 > > **Read the upgrade guide before deploying.** Docker Compose now requires **v2.35.0 or later**. Preserve existing environment files, upgrade the Dify components together, and use the new tracing queue during rolling deployments. New App packages use format v2 and require a compatible destination importer. The bundled plugin daemon moves to **0.6.14-local**.
 

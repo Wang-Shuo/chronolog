@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71a538d4fbca9fc90b1799faa44a2d95b7a2b0aedd3ffb82e4672cf8ec978722
+machine_hash: 2db93fe424fd96bd10975b125344db568362659eb35c965efd52770a82452fdc
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
   title: Added `/claude-api managed-agents-onboard <quickstart-name>` to build a Console…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode
-  changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-transcript-polish|Transcript Polish]]'
 - '[[Changes/OpenClaw/2026-10-03-4-agent-mode-changes-in-v2026-9-8|4 Agent Mode changes
   in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern|Added

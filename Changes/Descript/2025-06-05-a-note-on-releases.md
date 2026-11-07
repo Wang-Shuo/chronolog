@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 46b3306fa900a8b21cfd1a6d41751cbdb41590f8b67a7112d0357d136f5f12f9
+machine_hash: 38d90f0686ef23df0e1f83213f422ae3eed52b4749c3c414eaac87921d9d303a
 product: descript
 product_name: Descript
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-04 · Synthesia · [[Changes/Synthesia/2025-06-04-today-we-re-excited-to-roll-out-three-enterprise-grade-upgrades-that-help-you-wo|Enterprise Update: Avatar Sharing, Bulk Actions & JIT Provisioning]]
-- Later: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
+- Later: 2025-06-05 · Superwhisper · [[Changes/Superwhisper/2025-06-05-custom-providers-performance-tracking|Custom Providers & Performance Tracking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

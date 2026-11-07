@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 69557699a12ae471feaa4a2a35f5abe545fd34bd564ee708458c66bddd4e75ba
+machine_hash: 72fa6eb517016a86b40f183d62583c3e5345b111389d4c40f0c03fec59682ace
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: '**MLX runner adds logprobs support** for compatible models'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support
-  changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-new-customization-chat-setting-for-unload-model-when-closed-to-unload-the-mode|x
+  New Customization  Chat setting for Unload model when closed to unload…]]'
 - '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
   changes in v2.1.117]]'
 - '[[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-onboarding-flow-now-uses-dynamically-fetched-recommended-models-instead-of-a-har|Onboarding flow now uses dynamically fetched recommended models instead…]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-6-model-support-changes-in-rust-v0-123-0|6 Model Support changes in rust-v0.123.0]]
+- Later: 2026-04-22 · Superwhisper · [[Changes/Superwhisper/2026-04-22-4-model-support-changes-in-superwhisper-windows-1-3-9|4 Model Support changes in Superwhisper Windows 1.3.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

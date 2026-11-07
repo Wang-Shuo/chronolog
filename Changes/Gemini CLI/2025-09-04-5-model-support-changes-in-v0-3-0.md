@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7ff95cbb8399aa413150a5c22c38aead6bf862bdf62b9b718384c1a5d8dffdc
+machine_hash: fa6a2354e5a87447555d35773ad87400917a225855a8f539abd6e309d24a3384
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Model Support changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added
-  LLM risk analyzer]]'
-- '[[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use
-  experimental reasoning summary]]'
 - '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
   in 1.8.1]]'
+- '[[Changes/Raycast/2025-09-03-2-model-support-changes-in-raycast-ios-1-0-12|2 Model
+  Support changes in Raycast ios 1.0.12]]'
+- '[[Changes/Raycast/2025-09-03-quick-ai-when-changing-the-ai-model-models-are-grouped-by-brand|Quick
+  AI: When changing the AI model, models are grouped by brand]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: model-support
@@ -109,8 +109,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes in 1.8.1]]
-- Later: 2025-09-05 · Cline · [[Changes/Cline/2025-09-05-add-new-kimi-k2-model-to-groq-and-moonshot-providers|Add new Kimi K2 model to Groq and Moonshot providers]]
+- Earlier: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-quick-ai-when-changing-the-ai-model-models-are-grouped-by-brand|Quick AI: When changing the AI model, models are grouped by brand]]
+- Later: 2025-09-04 · LM Studio · [[Changes/LM Studio/2025-09-04-when-selecting-a-chat-that-uses-a-different-model-auto-switch-to-that-model-if-i|When selecting a chat that uses a different model, auto switch to that model if it's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 528008138bf0ceaf858e45cc985778cd1fadc995e610b32d0af124bf6b727aa1
+machine_hash: c1589517ee6ee0d47d55c1ff782aed77296eccf2459cd1681cf0680aecdf06a6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 ## Nearby in Context Window
 
 - Earlier: 2026-03-26 · Cline · [[Changes/Cline/2026-03-26-add-repeated-tool-call-loop-detection-to-prevent-infinite-loops-wasting-tokens|Add repeated tool call loop detection to prevent infinite loops wasting tokens]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]]
+- Later: 2026-03-26 · LM Studio · [[Changes/LM Studio/2026-03-26-add-support-for-reasoning-effort-and-reasoning-tokens-in-openai-compatible-v1-ch|Add support for reasoning_effort and reasoning_tokens in OpenAI-compatible…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

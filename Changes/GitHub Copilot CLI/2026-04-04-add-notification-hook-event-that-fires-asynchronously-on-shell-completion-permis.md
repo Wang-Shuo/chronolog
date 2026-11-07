@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7eec47f9ff41f7496bd2f4e0d8564cf6d6369ee2434a967e4b3f11b9ca946bbc
+machine_hash: 116b3b7085691ca078b8d50f56ab502881f9756787c0217c37e9694db5034b75
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,8 +55,9 @@ record:
   title: Add notification hook event that fires asynchronously on shell completion…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-security-updates|Security updates]]'
 - '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
+- '[[Changes/Devin/2026-04-03-gitlab-pat-rotation-fix-responsive-mobile-layouts-startup-command-display-improv|GitLab
+  PAT rotation fix, responsive mobile layouts, startup command display…]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492|github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492]]'

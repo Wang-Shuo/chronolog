@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: aeb558505acd5127b85b0298f052aaf7bff2dcd253548a00c0650d3129cd718b
+machine_hash: 74ae9c2734fd1e27c0505d04010e5a7cdb14e0f3dc4fbd7f8733870acf1e3756
 product: notion
 product_name: Notion
 record:
@@ -47,10 +47,10 @@ record:
   title: "Mac App for Apple Silicon \U0001F4BB"
   type: change
 related_changes:
-- "[[Changes/Notion/2020-10-15-better-keyboard-trackpad-mouse-support-for-ipad|Better
-  keyboard, trackpad & mouse support for iPad \U0001F42D]]"
-- '[[Changes/Descript/2020-10-21-with-descript-s-new-screen-recording-utility-you-can-now-take-screen-recordings|Screen
-  Recorder]]'
+- '[[Changes/Raycast/2020-10-21-file-search-added-more-actions-to-copy-files-and-file-names-show-info-in-the-fin|File
+  Search: Added more actions to copy files and file names, show info…]]'
+- '[[Changes/Raycast/2020-11-19-we-now-prevent-the-app-from-silently-being-terminated-by-macos-under-certain-con|We
+  now prevent the app from silently being terminated by macOS under certain conditions]]'
 - "[[Changes/Notion/2020-11-24-new-widgets-for-ios-14|New widgets for iOS 14 \U0001F4CC]]"
 source_release: '[[Releases/Notion/notion-2020-12-02-https-www-notion-com-releases-2020-12-02-55a10472|notion-2020-12-02-https-www-notion-com-releases-2020-12-02-55a10472]]'
 source_type: notion_changelog

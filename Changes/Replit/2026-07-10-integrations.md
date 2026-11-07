@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c57158f5703a97273eba79c8bb627406b976db766d75c67b106f19989536637
+machine_hash: a46b5995753d34f162f01d61bbcc7da90fbb3299345e33ad319c99ab16de2fc5
 product: replit
 product_name: Replit
 record:
@@ -39,10 +39,10 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect
-  BigQuery with your Google account]]'
 - '[[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore:
   bump SDK packages to v1.34.0]]'
+- '[[Changes/Raycast/2026-07-09-applications-app-search-scopes-now-discover-shortcut-files-lnk-so-apps-reference|Applications
+  : App search scopes now discover shortcut files (.lnk), so apps…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9
   Apps and Integrations changes in v1.0.70]]'
 source_release: '[[Releases/Replit/replit-2026-07-10-2026-07-10-b0b0aa18|replit-2026-07-10-2026-07-10-b0b0aa18]]'

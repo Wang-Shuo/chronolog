@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ec71b7316791aec9f35be68ac0182ebf7b4dab05a88205545d53d8331fc3186
+machine_hash: d6fa5df6efe0526c024430f8d2c75cf9680d89238a2ecb01bd54c43de9c4a00c
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,9 @@ record:
   title: Enable OpenRouter prompt cache control for Qwen models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
-  changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
   a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Krea/2026-05-12-krea-2-is-here|Krea 2 is here]]'
 - '[[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx:
   refined model push behavior]]'
 source_release: '[[Releases/Cline/cline-2026-05-13-v3-83-0-github-322019752-5cd466dd|cline-2026-05-13-v3-83-0-github-322019752-5cd466dd]]'

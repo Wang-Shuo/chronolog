@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 55c1768fb90e3cc5c684d9a5186e0fd4b59398f94823d9c32340981e1b3f51f9
+machine_hash: 576f688b0d92389cd442d7676fd4f253aea657999aa74198d8ef84ad35328c3a
 product: windsurf
 product_name: Windsurf
 record:
@@ -68,10 +68,10 @@ record:
   title: Arena Mode
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
-  Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
   server supports changing models during a session]]'
+- '[[Changes/LM Studio/2026-01-30-added-parallel-flag-to-lms-load-command-to-allow-loading-a-model-with-specified|Added
+  --parallel  flag to lms load command to allow loading a model…]]'
 - '[[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop
   Free model layout improvements in app]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-30-v1-9544-24-02c78afb|windsurf-2026-01-30-v1-9544-24-02c78afb]]'

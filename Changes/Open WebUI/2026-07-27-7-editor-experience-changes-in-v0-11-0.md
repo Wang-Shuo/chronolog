@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 579e4af2ab34c1ee423c64b70c20dd5bd627c5852ec9a121f5207dd165b24fe8
+machine_hash: a935c0f3b4eb48137e557b611e6711e78cd603d44c837992772f31f79597c07f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -75,12 +75,12 @@ record:
   title: 7 Editor Experience changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added
-  emoji shortcode autocomplete in the prompt input]]'
-- '[[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor
-  Experience changes in rust-v0.145.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
   Tab in /settings footer to switch scope tabs]]'
+- '[[Changes/Recraft/2026-07-23-you-can-now-edit-vectors-directly-in-recraft-studio-without-exporting-them-to-an|Edit
+  vectors directly in Recraft Studio, without exporting them to another tool]]'
+- '[[Changes/Devin/2026-07-24-this-release-also-includes-many-smaller-fixes-and-improvements-including-faster|This
+  release also includes many smaller fixes and improvements, including faster…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: editor-experience
@@ -143,7 +143,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show Tab in /settings footer to switch scope tabs]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-this-release-also-includes-many-smaller-fixes-and-improvements-including-faster|This release also includes many smaller fixes and improvements, including faster…]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web): locate workflow nodes by node_id in the workflow editor]]
 <!-- chronolog:end -->
 

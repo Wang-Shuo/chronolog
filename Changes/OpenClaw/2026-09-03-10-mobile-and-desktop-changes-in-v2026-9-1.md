@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71ac3a4c14583ce50cf93d8914979a5ce6b00bd15caca4c5e9d5aa0c5f440663
+machine_hash: f17c863313ab88cec5fef7a4e47e73484f3433b33dba4d991e0b19fb9b4013ec
 product: openclaw
 product_name: OpenClaw
 record:
@@ -171,7 +171,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source link) Detect standalone installs…]]
-- Later: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop Increase the open-in app icon size for better visibility]]
+- Later: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-many-other-macos-27-fixes|Many other macOS 27 fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9c9dfd1546eaac8547bd6083b69ac2a755e5acc47b146adeebc9818f0233e32d
+machine_hash: 5ee17577c9339df77f03674374b53966b080bb0970175d1936369cc30dd87df0
 product: notion
 product_name: Notion
 record:
@@ -49,12 +49,12 @@ record:
   title: New API integration with Tactiq
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with
-  Back]]'
 - '[[Changes/Notion/2021-07-27-better-access-management-for-your-api-integrations|Better
   access management for your API integrations]]'
 - '[[Changes/Notion/2021-07-27-new-api-integrations-with-neeva-n8n|New API integrations
   with Neeva & n8n]]'
+- '[[Changes/Raycast/2021-07-29-root-search-add-support-for-detecting-apps-or-preferences-via-symlinked-folders|Root
+  Search : Add support for detecting apps or preferences via symlinked folders]]'
 source_release: '[[Releases/Notion/notion-2021-08-24-https-www-notion-com-releases-2021-08-24-7ce99ce3|notion-2021-08-24-https-www-notion-com-releases-2021-08-24-7ce99ce3]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-07-27 · Notion · [[Changes/Notion/2021-07-27-new-api-integrations-with-neeva-n8n|New API integrations with Neeva & n8n]]
-- Later: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-api-integrations|API integrations]]
+- Earlier: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-root-search-add-support-for-detecting-apps-or-preferences-via-symlinked-folders|Root Search : Add support for detecting apps or preferences via symlinked folders]]
+- Later: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-disabled-apps-and-quicklinks-will-now-be-hidden-as-expected-when-you-turn-on-the|Disabled apps and quicklinks will now be hidden as expected when you turn…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

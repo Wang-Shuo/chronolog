@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5aa17f36bc72a26d69cd76301a1ca8092f979104d7051ccbeb90f6d746bb0de7
+machine_hash: eb2260fe10a097cf3cf080f0ea8743e21a2041f85a0c910079620bc6a37a2da2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]
-- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop Skip editor reconcile during IME composition]]
+- Later: 2026-03-11 · Raycast · [[Changes/Raycast/2026-03-11-ai-edit-highlights-are-now-supported-in-ai-commands-like-fix-spelling-and-gramma|AI : Edit highlights are now supported in AI Commands (Like fix spelling and grammar)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

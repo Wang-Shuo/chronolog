@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 28c278d2fe904fef0921257efa0d8821c9345791abf3f506f1744a60f4653800
+machine_hash: 675d40d59b2c130e08bdbb7d33f7749abb098dc0fc5d3bb37eb2ac3ff1150a56
 product: replit
 product_name: Replit
 record:
@@ -44,11 +44,11 @@ record:
   title: Python run performance improvements
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
 - '[[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]'
 - '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
   Reliability and Performance changes in v0.6.15]]'
+- '[[Changes/Raycast/2025-06-20-calculator-improved-speed-and-performance|Calculator:
+  Improved speed and performance]]'
 source_release: '[[Releases/Replit/replit-2025-06-20-2025-06-20-5f136b4d|replit-2025-06-20-2025-06-20-5f136b4d]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4 Reliability and Performance changes in v0.6.15]]
+- Earlier: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-calculator-improved-speed-and-performance|Calculator: Improved speed and performance]]
 - Later: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
 <!-- chronolog:end -->
 

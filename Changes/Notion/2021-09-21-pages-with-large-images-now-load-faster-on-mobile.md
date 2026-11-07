@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f19849b00cba25258c77335dd8464b512eca2a92637ff3b846934148cdd3473
+machine_hash: b6376aaa73109cc855b4c28315a640b7ed0fa0dc966ef1f3c993bf1a969745db
 product: notion
 product_name: Notion
 record:
@@ -41,12 +41,12 @@ record:
   title: Pages with large images now load faster on mobile
   type: change
 related_changes:
-- '[[Changes/Descript/2021-08-24-2-reliability-and-performance-changes-in-version-21-release|2
-  Reliability and Performance changes in Version 21 Release]]'
 - '[[Changes/Descript/2021-09-03-improved-speed-of-uploaded-files-to-descript-servers|Improved
   speed of uploaded files to Descript servers]]'
 - "[[Changes/Notion/2021-09-08-pages-load-faster-on-android|Pages load faster on Android
   \U0001F4C8]]"
+- '[[Changes/Raycast/2021-09-10-improved-performance-in-the-root-search|Improved performance
+  in the root search]]'
 source_release: '[[Releases/Notion/notion-2021-09-21-https-www-notion-com-releases-2021-09-21-529023d6|notion-2021-09-21-https-www-notion-com-releases-2021-09-21-529023d6]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-pages-load-faster-on-android|Pages load faster on Android 📈]]
-- Later: 2022-01-26 · Descript · [[Changes/Descript/2022-01-26-blazing-fast-publishing|Blazing fast publishing]]
+- Earlier: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-improved-performance-in-the-root-search|Improved performance in the root search]]
+- Later: 2021-09-23 · Raycast · [[Changes/Raycast/2021-09-23-new-applications-now-appear-faster-in-the-root-search|New applications now appear faster in the root search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

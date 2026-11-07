@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccda919fca865e1a3da2f973705355b409e68eb367e0f7df0d8d97eb58c608cb
+machine_hash: dfb15558c3080ae1c906f4a0e83121ac7a80e5649b3d39ce7d4f74c3fd7bd442
 product: dify
 product_name: Dify
 record:
@@ -57,12 +57,11 @@ record:
   title: 6 Apps and Integrations changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-4-apps-and-integrations-changes-in-v1-0-12|4
-  Apps and Integrations changes in v1.0.12]]'
-- '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
-  Box, Notion, Linear, and Dropbox apps]]'
 - '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
   startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
+- '[[Changes/Devin/2026-03-27-jira-integration-enhancements|Jira Integration Enhancements]]'
+- '[[Changes/Devin/2026-03-27-redesigned-integration-settings|Redesigned Integration
+  Settings]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: apps-integrations
@@ -115,8 +114,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]]
-- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps and Integrations changes in v1.3.6 + 2]]
+- Earlier: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-redesigned-integration-settings|Redesigned Integration Settings]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-2-apps-and-integrations-changes-in-raycast-macos-0-51|2 Apps and Integrations changes in Raycast macos 0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a723cf04705419a6f4573fb5cda1840bc9b1ace77dfc0b2358f037d9d85c216a
+machine_hash: a4ec227b5bb5065407d503c87b5103f589fa7f19ce6e4e3410060a09a359c784
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core Fixed repeated auto-compaction in sessions after compaction reordered messages]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context Window changes in rust-v0.131.0]]
+- Later: 2026-05-17 · Recraft · [[Changes/Recraft/2026-05-17-turn-a-short-prompt-into-a-richer-one-with-one-click-adds-visual-context-style-c|Prompt enhancer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

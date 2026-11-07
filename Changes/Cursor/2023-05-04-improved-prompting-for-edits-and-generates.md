@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f09fad2f30779b7d1cebb633f6063572a9893008701a8ccd5fe1a14531aa5aaf
+machine_hash: e6f9c91027886fc060974185d7cb19cb90ce19917bbcc9a6f1ee162fb70342b8
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,9 @@ record:
   title: Improved prompting for edits and generates
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work
-  with cmd-Z]]'
 - '[[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer
   resizing: The Media Library and Composition Drawers are now freely…]]'
+- '[[Changes/Raycast/2023-04-28-quick-ai-beta|Quick AI Beta]]'
 - '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental
   support for multi-file diffs]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'

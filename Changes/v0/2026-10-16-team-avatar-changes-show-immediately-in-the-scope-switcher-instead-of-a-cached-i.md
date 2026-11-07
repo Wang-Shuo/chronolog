@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18f8baa157224517cb1130967c66873df9b6df7717754a922063991d9ff18298
+machine_hash: 146c45de2df2b5b9f5b627b1e1c5daf935646d7c1ef8d06fba19424e621cf8c4
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
     image
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
-  has been discontinued]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/Devin/2026-10-16-microsoft-teams-separate-direct-messages-and-group-chats-access-settings|Microsoft
+  Teams: Separate Direct Messages and Group Chats Access Settings]]'
 - '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
   changes in v0.12.3]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'

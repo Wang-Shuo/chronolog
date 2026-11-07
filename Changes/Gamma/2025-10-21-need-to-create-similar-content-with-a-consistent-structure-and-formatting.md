@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5be0392eeda3a78259e8351ad69ec849ff6befa9d37528cc9440d5e2af39046d
+machine_hash: ff30d5be621d658fe6018cbf9e4daad542a8d39709c27d2ce72e1c1438391f4a
 product: gamma
 product_name: Gamma
 record:
@@ -71,12 +71,12 @@ record:
   title: Need to create similar content with a consistent structure and formatting?
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-15-flash-attention-is-now-enabled-by-default-for-gemma-3-improving-performance-and|Flash
-  attention is now enabled by default for Gemma 3, improving performance…]]'
 - "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
   Various improvements were implemented across the frontend and backend to enhance…]]"
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Superwhisper/2025-10-17-wave-rendering-performance-improvements|Wave
+  rendering performance improvements]]'
 source_release: '[[Releases/Gamma/gamma-2025-10-21-68f7e7f13743257599cc5416-e745f2cd|gamma-2025-10-21-68f7e7f13743257599cc5416-e745f2cd]]'
 source_type: gamma_changelog
 theme: reliability-performance
@@ -125,7 +125,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various stability improvements and minor bug fixes]]
+- Earlier: 2025-10-17 · Superwhisper · [[Changes/Superwhisper/2025-10-17-wave-rendering-performance-improvements|Wave rendering performance improvements]]
 - Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability and Performance changes in 1.9.2]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ed44dcdb72cd602ddc1eb06512495b3f1fd1b53cf11253f33b26619bc139c260
+machine_hash: 327e4065f3df0be2b688e1587e4caeceacd074aee95d10d60a8314ca6e819f14
 product: replit
 product_name: Replit
 record:
@@ -48,11 +48,11 @@ record:
   title: PayPal checkout integration
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
-  message handling to not show the MCP View of the server modal]]'
-- '[[Changes/Open WebUI/2025-05-05-2-apps-and-integrations-changes-in-v0-6-6|2 Apps
-  and Integrations changes in v0.6.6]]'
 - '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- '[[Changes/Raycast/2025-05-08-3-apps-and-integrations-changes-in-raycast-macos-v1-1-98-0|3
+  Apps and Integrations changes in Raycast macos-v1 1.98.0]]'
+- '[[Changes/Raycast/2025-05-08-raycast-now-includes-integration-with-the-model-context-protocol-mcp-you-can-ins|Raycast
+  now includes integration with the Model Context Protocol (MCP)]]'
 source_release: '[[Releases/Replit/replit-2025-05-09-2025-05-09-48bfa2be|replit-2025-05-09-2025-05-09-48bfa2be]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-07 · Windsurf · [[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]
+- Earlier: 2025-05-08 · Raycast · [[Changes/Raycast/2025-05-08-raycast-now-includes-integration-with-the-model-context-protocol-mcp-you-can-ins|Raycast now includes integration with the Model Context Protocol (MCP)]]
 - Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-external-reranker-support-for-knowledge-base-search-supercharge-your-retrieval-a|🏆 External Reranker Support for Knowledge Base Search]]
 <!-- chronolog:end -->
 

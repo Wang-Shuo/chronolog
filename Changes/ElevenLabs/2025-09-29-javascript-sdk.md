@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21be1a989b0507205036849ef5429f32cb426c532b740e3ef8212900b5e0467e
+machine_hash: 3b92942590743d9f2272dc2f8a98d983fc116f5f01e74e844623ee2e65d94f16
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,8 +44,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
-  Apps and Integrations changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-mcp-observability-for-enterprises|MCP Observability
+  for Enterprises]]'
 - '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
   changes in 1.7]]'
 - '[[Changes/Dify/2025-09-29-5-apps-and-integrations-changes-in-1-9-1|5 Apps and Integrations

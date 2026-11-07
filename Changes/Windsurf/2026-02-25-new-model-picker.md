@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a5a02af3313f14adfef53aa0b628a2366d28618f96203eaf96790d44d6f6952e
+machine_hash: 5ac8c1e2cb0adfcdf9a5787dcd0c5a599b8effdacb40237b7d65f6eb0ec53217
 product: windsurf
 product_name: Windsurf
 record:
@@ -58,12 +58,12 @@ record:
   title: New Model Picker
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support
-  changes in v0.17.1]]'
 - '[[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model
   Support changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-8-model-support-changes-in-v0-30-0|8 Model Support
   changes in v0.30.0]]'
+- '[[Changes/LM Studio/2026-02-25-2-model-support-changes-in-lm-studio-0-4-5|2 Model
+  Support changes in LM Studio 0.4.5]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-25-v1-9566-9-555da888|windsurf-2026-02-25-v1-9566-9-555da888]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-8-model-support-changes-in-v0-30-0|8 Model Support changes in v0.30.0]]
+- Earlier: 2026-02-25 · LM Studio · [[Changes/LM Studio/2026-02-25-2-model-support-changes-in-lm-studio-0-4-5|2 Model Support changes in LM Studio 0.4.5]]
 - Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-4-model-support-changes-in-rust-v0-106-0|4 Model Support changes in rust-v0.106.0]]
 <!-- chronolog:end -->
 

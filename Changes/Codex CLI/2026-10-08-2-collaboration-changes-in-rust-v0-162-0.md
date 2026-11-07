@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d8e9ad8ba9e15846c7d6e6103fefaa1ed652e7aa59cfd2e02592ce8c075a2dd
+machine_hash: 48ab6e1a47d058aedfffee533e5d65f83545433d1400859a0ba34a1bc2f77dc9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Collaboration changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
-  accounts are now team workspaces]]'
 - '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
   API credits for Max and Team plans]]'
 - '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
   changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-microsoft-teams|Microsoft Teams]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
 source_type: github_releases
 theme: collaboration
@@ -95,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration changes in rust-v0.161.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-microsoft-teams|Microsoft Teams]]
 - Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-shared-folders|SHARED FOLDERS]]
 <!-- chronolog:end -->
 

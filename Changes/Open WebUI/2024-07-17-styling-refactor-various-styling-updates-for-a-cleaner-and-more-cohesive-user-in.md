@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a337b6d8e0fd7ac0dff08734b2e4344d4063a3cd7eaf5dacb9d866a93ed9a130
+machine_hash: b072bd2631bf7edb95683c66cc0722a268e539bf09f3d6262c9fc29c7656ed1a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +42,10 @@ record:
   title: "**\U0001F3A8 Styling Refactor**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
-  Sideways Scrolling in Settings]]'
 - '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
   Sidebar]]'
+- '[[Changes/Devin/2024-07-15-create-sessions-directly-from-slack-attach-playbooks-and-snapshots-using-slack-s|Create
+  sessions directly from Slack, attach Playbooks and Snapshots using Slack''s…]]'
 - '[[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to
   starred folders]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a|open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to starred folders]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
+- Later: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-search-menu-items-addressed-issue-where-menu-titles-were-truncated-early|Search Menu Items: Addressed issue where menu titles were truncated early]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

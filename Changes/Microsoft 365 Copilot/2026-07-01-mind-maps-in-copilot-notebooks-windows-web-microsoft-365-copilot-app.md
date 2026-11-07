@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 71f11d2a38eda329765c4cba5a9aa5421bad0557944c01ee566c5dc6a8a08e6f
+machine_hash: c9b279273f6d9274c2c2856793c44176d1529d6f3636988e8eb70a8fa30fe8c5
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -50,8 +50,8 @@ record:
   title: Mind maps in Copilot Notebooks [Windows, Web] (Microsoft 365 Copilot app)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
-  Autocomplete configured references in prompts]]'
+- '[[Changes/Devin/2026-07-01-usage-analytics-pr-ratio-chart|Usage Analytics: PR Ratio
+  Chart]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
   Editor Experience changes in v1.0.68]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-analytics-all-licensed-user-page-copilot-dashboard-web-viva-insights|Copilot

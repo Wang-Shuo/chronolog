@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bee4a8486f80f43786ea6969e0178017394f1559d5a6b7a9db711e69f4f7f9d
+machine_hash: 2f8967cfe69dc0abfa9c82ca284ff91c4f6d221941a89301338a4c738303f684
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,11 @@ record:
   title: Ghost mode for opting out of storing any kind of data on our servers
   type: change
 related_changes:
-- '[[Changes/Descript/2021-08-10-soc-2-type-ii-compliance|SOC 2 Type II Compliance]]'
-- '[[Changes/Notion/2022-02-08-can-edit-content-permission-level|Can Edit Content
-  permission level]]'
+- '[[Changes/Raycast/2022-04-06-app-updater-added-flow-to-help-fix-permission-problems-for-non-root-users-added|App
+  Updater: added flow to help fix permission problems for non-root users, added…]]'
 - '[[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]'
+- '[[Changes/Raycast/2023-02-01-file-search-the-authorisation-prompt-should-no-longer-appear-after-denying-permi|File
+  Search: The authorisation prompt should no longer appear after denying permissions]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2022-06-29 · Notion · [[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]
+- Earlier: 2023-02-01 · Raycast · [[Changes/Raycast/2023-02-01-file-search-the-authorisation-prompt-should-no-longer-appear-after-denying-permi|File Search: The authorisation prompt should no longer appear after denying permissions]]
 - Later: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-2-step-verification-a-k-a-2fa-mfa|2-step verification (a.k.a]]
 <!-- chronolog:end -->
 

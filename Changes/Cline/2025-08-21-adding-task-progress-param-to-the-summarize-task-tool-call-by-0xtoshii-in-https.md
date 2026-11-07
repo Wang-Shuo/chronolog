@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: deb76f015c9c520b49f3530257e91a8599fdd18585f9b1e71acfce8157834155
+machine_hash: 819970927b028f52c6ff928208c0f46a9a23c8bbcbb0f278596b657a270a1bcb
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: adding task_progress param to the summarize task tool call
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message|Enhanced
-  the CLI interface by adding proper markdown rendering for agent messages…]]'
 - '[[Changes/Gemini CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21|7 Agent Mode changes
   in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-agent-mode-changes-in-v1-8-5|2 Agent Mode changes
+  in v1.8.5]]'
 - '[[Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http|Added
   a new feedback reason: "The agent didn''t finish the job"]]'
 source_release: '[[Releases/Cline/cline-2025-08-21-v3-26-1-github-241364387-1ab48885|cline-2025-08-21-v3-26-1-github-241364387-1ab48885]]'

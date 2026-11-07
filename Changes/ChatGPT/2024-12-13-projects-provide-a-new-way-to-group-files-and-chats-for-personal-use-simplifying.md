@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 532da63f3cff617059f5d79b245f487697dc03aa2cf6ece5c20f48a189a10c90
+machine_hash: e47c99d0b1b3e3c6816e5be82cd620fa19b376b6b0a0f744e27a34fce8e1cc19
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,10 @@ record:
   title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In
-  the future, we plan for the characters, worlds, and other materials you create…]]'
-- '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
-  3.5((source link) a collection…]]'
+- '[[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-cloud-model|New super fast,
+  ''Ultra (Cloud)'' model]]'
+- '[[Changes/Superwhisper/2024-12-12-new-super-fast-ultra-v3-turbo-local-model|New
+  super fast, ''Ultra V3 Turbo'' local model]]'
 - '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
   in v0.69.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'

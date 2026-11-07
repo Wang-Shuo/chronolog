@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 93c78fd70458779b3b9b7a9e0e0072cd20ba5b3afdd75c215cb3eb80b84f7535
+machine_hash: fb7511adeedde6fd2080b8d07e96ba00ae53467ec775b36a3262412eadd59a0f
 product: lovable
 product_name: Lovable
 record:
@@ -57,8 +57,8 @@ record:
   title: A new banner encouraging email and password users to enable [two-factor…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal
-  Enable password authentication for remote session attachment]]'
+- '[[Changes/Raycast/2026-02-04-login-sorted-out-a-json-response-that-could-fail-when-creating-an-account|Login:
+  Sorted out a JSON response that could fail when creating an account]]'
 - '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
   and Access changes in rust-v0.98.0]]'
 - '[[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless

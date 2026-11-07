@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42262428204d4529ab4eb0480e144cc94a254ff2599deb86fd30bd021242244e
+machine_hash: b0069ecdc979772691e1b9924a8a1f8ee7b329d66d0497ef1927d0929f48aec1
 product: descript
 product_name: Descript
 record:
@@ -43,12 +43,11 @@ record:
   title: '**Edit in Descript**'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects
-  created using our Zapier integration now create Storyboard projects]]'
-- '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-  are announcing experimental support for AI plugins in ChatGPT]]'
 - '[[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed
   content from 2,000 apps like Mixpanel and Twitch]]'
+- '[[Changes/Raycast/2023-03-29-separate-window|Separate Window]]'
+- '[[Changes/Raycast/2023-03-29-root-search-parallels-apps-are-now-automatically-discovered-and-can-be-opened-in|Root
+  Search: Parallels apps are now automatically discovered and can be opened…]]'
 source_release: '[[Releases/Descript/descript-2023-04-17-643dae58600c4309156766d8-73e550bd|descript-2023-04-17-643dae58600c4309156766d8-73e550bd]]'
 source_type: canny_changelog
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed content from 2,000 apps like Mixpanel and Twitch]]
+- Earlier: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-root-search-parallels-apps-are-now-automatically-discovered-and-can-be-opened-in|Root Search: Parallels apps are now automatically discovered and can be opened…]]
 - Later: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-slack-integration-2-0-save-messages-and-configure-notifications|Slack integration 2.0: save messages and configure notifications]]
 <!-- chronolog:end -->
 

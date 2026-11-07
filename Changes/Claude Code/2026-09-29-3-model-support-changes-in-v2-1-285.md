@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 058c9afe9b48ca93116365cbf0101804cf9833b1a3182b1dda9f295ca9f51ebb
+machine_hash: c998033dc6ee8ce4ae0b3825e22efec28feafc3791d43182548a8419a402ce53
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare
-  AI Gateway models now honor provider response and stream timeouts]]'
+- '[[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati-8e9a5a|Extensions
+  can now provide their own AI models to Raycast]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 - '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible

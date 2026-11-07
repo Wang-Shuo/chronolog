@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a3d48040c4689e33cd6c15fc934689c67343cb5cf6c4133041e65985d38f4df
+machine_hash: baf3c0df14b205a214580563a0f7010ad99243811dd7d5cf9b4fe1ead2ef9374
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     @viyatb-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
-  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
 - '[[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and
   Data changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
   Data changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-3-files-and-data-changes-in-v1-16-2|3 Files and
+  Data changes in v1.16.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: file-data
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and Data changes in v0.11.4]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-3-files-and-data-changes-in-v1-16-2|3 Files and Data changes in v1.16.2]]
 - Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer link cards you did not ask for]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acc3cc01ef7bc6d922f4e2e4fb3b6ce5b3c1be90c5bcee021e7d583e66722202
+machine_hash: aff759baff6a1b85946fa277223e342e96d79880dedb3c192db588565d97772e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 'feat(core): add setting to disable loop detection'
   type: change
 related_changes:
-- '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
-  is a new Create mode that lets you create individual one-shot samples…]]'
-- '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
-  Automation and Scheduling changes in v0.26.0]]'
+- '[[Changes/Devin/2026-02-03-scheduled-devins|Scheduled Devins]]'
 - '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
   Automation and Scheduling changes in v0.27.0]]'
+- '[[Changes/Devin/2026-02-06-schedule-from-the-input-box|Schedule from the Input
+  Box]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]]
+- Earlier: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-schedule-from-the-input-box|Schedule from the Input Box]]
 - Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]]
 <!-- chronolog:end -->
 

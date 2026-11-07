@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47159fbf237b9ebc9ac0f960331a185cf604e7f3908fa0a589421cf557d2bbec
+machine_hash: d55ed955051efc1ffc04c764f674bddac8daebb30686ed41338b9f3ee451eec0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-workflow-stability-restored-workflow-version-loading-through-the-backend-api-fix|Workflow stability — restored workflow-version loading through the backend API…]]
-- Later: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-3-reliability-and-performance-changes-in-run-terminal-commands-with-v0-faster|3 Reliability and Performance changes in Run terminal commands with v0, faster…]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-3-reliability-and-performance-changes-in-raycast-windows-0-58|3 Reliability and Performance changes in Raycast windows 0.58]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

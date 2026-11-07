@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6f44088db29a170903ffd45ff88ace0d1b49384b938fa0a862915d9ad5b5fc25
+machine_hash: 5331b01f23217ee9eba7de50089a27e799bdaa8392d143ca33f3a4d140b339c9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,9 @@ record:
   title: 'feat(a2a): Urgent fix - Process modelInfo agent message'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-agents-platform-d0503f|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-12-08-lists-and-sorting|Lists and Sorting]]'
+- '[[Changes/AnythingLLM/2025-12-09-5-agent-mode-changes-in-v1-9-1|5 Agent Mode changes
+  in v1.9.1]]'
 - '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
   feat: add is-mutating detection for shell command handler @jif-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3859ac893d1216504f2176d76b4a1b40944e282ae76e4176bbc0b18ff74855bb
+machine_hash: 137b7fa793e7ffd8e1f3cd49e6c36c82214aee490037fa923f7cf86933767ce1
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
   title: Core Improved v2 session rendering with cleaner tool states, better compaction…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window
-  changes in v1.14.30]]'
 - '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
   Add MultiAgentV2 root and subagent context hints @jif-oai]]'
+- '[[Changes/Devin/2026-05-01-auto-fix-includes-ci-checks|Auto-Fix Includes CI Checks]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote
   session statusline shows the remote working directory and branch instead…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-05-v1-14-39-5b14e079|opencode-2026-05-05-v1-14-39-5b14e079]]'

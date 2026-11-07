@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32aa10aecfd60a94e9cc474478f650b6d74fd0ad523480c64d1d725a12601f16
+machine_hash: b2f86a54b33a98fe38a9c84c095dcd72e0c631d4c664d6f964e957c7c7c19f9b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5 Reliability and Performance changes in v2026.9.5]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960 Tag memory usage telemetry with the memory version @jif-oai]]
+- Later: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-x-mistral-embeddings-are-now-batched-making-large-document-embedding-significant|x Mistral embeddings are now batched, making large document embedding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

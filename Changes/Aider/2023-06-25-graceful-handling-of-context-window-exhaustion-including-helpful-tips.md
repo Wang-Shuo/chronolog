@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5262c7ddc42ce981a5e149610919ef452e04196e43c5f421af0ec0c6afbfccbe
+machine_hash: 20e7768959d7a1585a802849541c037db95ff133ba323a622d6945a35d4c9ec5
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Graceful handling of context window exhaustion, including helpful tips
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]'
-- '[[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following
-  this, you''ll be able to see an improved version of codebase context…]]'
 - '[[Changes/Aider/2023-06-07-2-context-window-changes-in-v0-5-0|2 Context Window
   changes in v0.5.0]]'
+- '[[Changes/Raycast/2023-06-07-ai-chat-new-action-to-submit-a-message-without-generating-a-response-it-s-useful|AI
+  Chat: New action to submit a message without generating a response]]'
+- '[[Changes/Raycast/2023-06-07-placeholders-in-ai-commands|Placeholders in AI Commands]]'
 source_release: '[[Releases/Aider/aider-2023-06-25-v0-7-0-github-109821323-5656ee24|aider-2023-06-25-v0-7-0-github-109821323-5656ee24]]'
 source_type: github_releases
 theme: context-window
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-2-context-window-changes-in-v0-5-0|2 Context Window changes in v0.5.0]]
+- Earlier: 2023-06-07 · Raycast · [[Changes/Raycast/2023-06-07-placeholders-in-ai-commands|Placeholders in AI Commands]]
 - Later: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful handling of context window exhaustion, including helpful tips]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e65190b36d78b0586db9897921fb442e31275e0e1d20b041126a9ec6bb97fee7
+machine_hash: 4e7adf4c1faeaaff3366e316251e86b13b12b1503640354a9ab24137e1cc4a16
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -257,8 +257,8 @@ record:
   title: 64 Developer Workflow changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
-  remote sessions in SSH, Docker, or custom-command environments]]'
+- '[[Changes/Raycast/2026-11-04-2-developer-workflow-changes-in-raycast-windows-2-11|2
+  Developer Workflow changes in Raycast windows 2.11]]'
 - '[[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer
   Workflow changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-6-developer-workflow-changes-in-rust-v0-167-0|6

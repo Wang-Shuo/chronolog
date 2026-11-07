@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e092661aa0a4c6253cccc18d3d389cd3c2dea2ea78e43bd5d60ecbf4d0caf534
+machine_hash: 7f49b6a83bf37161a732de069c85d56f9e4c969aaa37a0b71fc6de67494b566b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: "**\U0001F50D Query Generation Issue**"
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
-  your entire workspace’s images while editing any gamma]]'
 - '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
   CodeAct agent to perform web browsing by itself…]]'
 - '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search
   and Browsing changes in v0.4.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-duckduckgo-web-search-agent-skill-support-by-shatfield4-in-https-github-com-mint|DuckDuckGo
+  web search agent skill support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-26-v0-4-5-github-187496129-7fdc81ab|open-webui-2024-11-26-v0-4-5-github-187496129-7fdc81ab]]'
 source_type: github_releases
 theme: search-browsing
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search and Browsing changes in v0.4.0]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-duckduckgo-web-search-agent-skill-support-by-shatfield4-in-https-github-com-mint|DuckDuckGo web search agent skill support]]
 - Later: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]]
 <!-- chronolog:end -->
 

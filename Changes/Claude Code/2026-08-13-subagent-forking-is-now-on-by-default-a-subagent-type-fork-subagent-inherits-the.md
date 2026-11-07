@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bcf972323221f73394c814ed3763ec62b0e50c3ffadd5eb898153a684bcc51f2
+machine_hash: cba50c60f83633c9dc283dc04e3c3a639a38a1be35a1f77e594ec83f402217aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Subagent forking is now on by default
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
-  typing lag while the agent streams responses]]'
 - '[[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show
   the live work progress of background subagents in the /tasks panel]]'
+- '[[Changes/AnythingLLM/2026-08-13-6-agent-mode-changes-in-v1-16-0|6 Agent Mode changes
+  in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show the live work progress of background subagents in the /tasks panel]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-6-agent-mode-changes-in-v1-16-0|6 Agent Mode changes in v1.16.0]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]]
 <!-- chronolog:end -->
 

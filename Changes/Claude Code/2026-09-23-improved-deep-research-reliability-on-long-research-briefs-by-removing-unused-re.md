@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6df6bd890126cd316f4fcab673f6c9358e4d6cda0bdee23f585a382cc2978fd7
+machine_hash: 2afa33b4a6c3d63ec5b77f7df01be780cbec8dab57ae9c9c3f2d7755695e3f7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     unused…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
-  steering prompts in the same mode combine into one pending message]]'
-- '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
-  and Browsing changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-7-search-and-browsing-changes-in-v1-16-2|7 Search
+  and Browsing changes in v1.16.2]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-web-browsing-is-now-enabled-by-default-for-agents|x
+  Web browsing is now enabled by default for agents]]'
 - '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
   Search and Browsing changes in rust-v0.156.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'

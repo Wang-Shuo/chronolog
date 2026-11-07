@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: de32cb78fe05f8d2d7f32f58e6c03d2920b9a1ccfcbf4620ced3c3eb9478d9fb
+machine_hash: 9f51a48d7f9653256e2a7f3b0ec847f8db6fd63aaf948785475d9dea35e0dd8f
 product: heygen
 product_name: HeyGen
 record:
@@ -60,12 +60,12 @@ record:
   title: Look Packs is now available inside HeyGen
   type: change
 related_changes:
-- '[[Changes/Descript/2026-04-16-the-hedra-character-2-avatar-video-generation-model-https-help-descript-com-hc-e|The
-  Hedra Character 2 avatar video generation…]]'
-- '[[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot
-  setting for video generation (Microsoft 365 Copilot admin center)]]'
 - '[[Changes/HeyGen/2026-05-13-call-on-your-heygen-avatars-swap-looks-edit-scenes-and-generate-polished-videos|Call
   on your HeyGen avatars, swap looks, edit scenes, and generate polished videos…]]'
+- '[[Changes/Recraft/2026-06-04-we-ve-added-alibaba-happy-horse-1-0-for-video-generation-in-recraft-studio-avail|Recraft
+  adds Alibaba Happy Horse 1.0 for video generation in Recraft Studio]]'
+- '[[Changes/Krea/2026-06-19-pass-reference-images-by-url-or-data-uri|Pass reference
+  images by URL or data URI]]'
 source_release: '[[Releases/HeyGen/heygen-2026-06-24-https-heygen-noticeable-news-publications-introducing-look-packs-0a62ec65|heygen-2026-06-24-https-heygen-noticeable-news-publications-introducing-look-packs-0a62ec65]]'
 source_type: heygen_changelog
 theme: video-generation
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-call-on-your-heygen-avatars-swap-looks-edit-scenes-and-generate-polished-videos|Call on your HeyGen avatars, swap looks, edit scenes, and generate polished videos…]]
+- Earlier: 2026-06-19 · Krea · [[Changes/Krea/2026-06-19-pass-reference-images-by-url-or-data-uri|Pass reference images by URL or data URI]]
 - Later: 2026-06-30 · Runway · [[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini Omni Flash]]
 <!-- chronolog:end -->
 

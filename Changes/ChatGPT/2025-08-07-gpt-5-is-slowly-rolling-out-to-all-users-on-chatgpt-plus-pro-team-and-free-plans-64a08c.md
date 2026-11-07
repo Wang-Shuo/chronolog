@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 73128e08f1cf9ef88a10e85351ec0ed8f85311a18f29ecd6c8684640da9e4df7
+machine_hash: e54c81c5cd4681b4af5b0e5df26fc70f422e9999d37ad82c7a9979b6eeffed3b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,11 +79,12 @@ record:
   title: GPT-5
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
-- '[[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students
-  get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]'
-- '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
-  changes in v0.1.18]]'
+- '[[Changes/LM Studio/2025-08-06-there-are-2-models-gpt-oss-20b-and-gpt-oss-120b|There
+  are 2 models: gpt-oss-20b and gpt-oss-120b]]'
+- '[[Changes/LM Studio/2025-08-06-we-partnered-with-openai-to-bring-their-open-source-models-to-lm-studio-on-launc|We
+  partnered with OpenAI to bring their open-source models to LM Studio on launch day]]'
+- "[[Changes/LM Studio/2025-08-06-support-for-openai-s-gpt-oss-models|\U0001F389 Support
+  for OpenAI's gpt-oss models!]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -110,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support changes in v0.1.18]]
+- Earlier: 2025-08-06 · LM Studio · [[Changes/LM Studio/2025-08-06-support-for-openai-s-gpt-oss-models|🎉 Support for OpenAI's gpt-oss models!]]
 - Later: 2025-08-07 · Cline · [[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt 5 release]]
 <!-- chronolog:end -->
 

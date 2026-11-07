@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 439a9d69729cb74f133c96bad11c50ce305e1ad6d97e45395aded8f67ab5e270
+machine_hash: 2f064fb2fc3fee733e032da63f6b0008a4004e4bf069329dc897151b5a39c0e7
 product: descript
 product_name: Descript
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2020-05-06 · Descript · [[Changes/Descript/2020-05-06-published-tab-shows-all-published-pages-by-default|"Published" tab shows all published pages by default]]
-- Later: 2020-12-17 · Descript · [[Changes/Descript/2020-12-17-previously-descript-only-corrected-capitalization-and-punctuation-while-making-e|Auto-correct capitalization and punctuation while editing]]
+- Later: 2020-11-11 · Raycast · [[Changes/Raycast/2020-11-11-preferences-we-ve-added-a-new-shiny-about-tab|Preferences: We’ve added a new shiny About tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

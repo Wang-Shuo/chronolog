@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ef15677430af87398c789ccd793f710ca2213c7b2eca9f066e8c5d1b6cbcad7
+machine_hash: 594ffea819062622ad4fd6ee9e7dad730c86e206dc0e2761998ddf2d32f95464
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Developer Workflow changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-27-2-developer-workflow-changes-in-v1-14-28-1|2 Developer
-  Workflow changes in v1.14.28 + 1]]'
-- '[[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced
-  extra terminal noise while creating TUI workspaces]]'
+- '[[Changes/Raycast/2026-04-27-2-developer-workflow-changes-in-raycast-macos-0-55|2
+  Developer Workflow changes in Raycast macos 0.55]]'
+- '[[Changes/Raycast/2026-04-27-theme-studio-swiftly-change-your-current-theme-using-our-new-switch-theme-comman|Theme
+  Studio : Swiftly change your current theme using our new Switch Theme command]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76f7f029b88b9970d5bd0c243042c811b2f9adf6e71b47f4a139b6fcf11f1aa9
+machine_hash: c5598fa5c53cede9bce8fac9c3a41f78a934e11e5f7ef7743f3bd833c0b2e2f2
 product: v0
 product_name: v0
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer mode is now stable and enabled by default, so Enter sends immediately during…]]
-- Later: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced project and chat names to editor explorer header]]
+- Later: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-devin-review-hide-comment-highlights|Devin Review: Hide Comment Highlights]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

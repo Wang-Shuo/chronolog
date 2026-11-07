@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 58db1636fb4e9477a08e44aa1b77ec016369fb0bc4b5bff9104a8f012e0e12ac
+machine_hash: 37a9af7811220a8d6ae790591cbc24d80ce817fe368199406a8afeecb8649376
 product: dify
 product_name: Dify
 record:
@@ -53,9 +53,10 @@ record:
   title: 'feat: Retain llm setting for agent node'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-07-enhanced-sip-trunk-support|Enhanced SIP Trunk Support]]'
 - '[[Changes/ElevenLabs/2025-07-07-agent-transfers|Agent Transfers]]'
 - '[[Changes/ElevenLabs/2025-07-07-sdks|SDKs]]'
+- '[[Changes/AnythingLLM/2025-07-09-3-agent-mode-changes-in-v1-8-3|3 Agent Mode changes
+  in v1.8.3]]'
 source_release: '[[Releases/Dify/dify-2025-07-10-1-6-0-github-231400193-9181f945|dify-2025-07-10-1-6-0-github-231400193-9181f945]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-07 · ElevenLabs · [[Changes/ElevenLabs/2025-07-07-sdks|SDKs]]
+- Earlier: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-3-agent-mode-changes-in-v1-8-3|3 Agent Mode changes in v1.8.3]]
 - Later: 2025-07-11 · Replit · [[Changes/Replit/2025-07-11-agent-multi-tool-calling-upgrade|Agent multi-tool calling upgrade]]
 <!-- chronolog:end -->
 

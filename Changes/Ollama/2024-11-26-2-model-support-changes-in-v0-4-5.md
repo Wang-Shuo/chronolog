@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c0f5c7362ba654a2a80d57a7d446a0df384999990c3dac2ac30bd723929477b
+machine_hash: aba226e4c848c2669b85053c0b3dbf687059557b22eb220f3f0ff7e7228a8c86
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v0.4.5
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-17-model-support-changes-in-0-12-0|17 Model Support changes
-  in 0.12.0]]'
 - '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
   --alias config to define custom model…]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-model-support-changes-in-v1-3-0|2 Model Support
+  changes in v1.3.0]]'
 - '[[Changes/Dify/2024-11-26-feat-allow-to-contains-files-in-the-system-prompt-even-model-not-support-by-laip|feat:
   Allow to contains files in the system prompt even model not support]]'
 source_release: '[[Releases/Ollama/ollama-2024-11-26-v0-4-5-github-187434981-677fab63|ollama-2024-11-26-v0-4-5-github-187434981-677fab63]]'

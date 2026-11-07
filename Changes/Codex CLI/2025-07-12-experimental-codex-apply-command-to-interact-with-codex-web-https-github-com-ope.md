@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fcad5a052597342f255688ab10ff433933ebce9c400eebac9103e9284eb62ec
+machine_hash: 9f95989091ee513b637b5207c270cd5fade35b704bfda24e42419bbaaa95e3ca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Experimental `codex apply` command to interact with Codex Web
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-6-developer-workflow-changes-in-v0-1-8|6 Developer
-  Workflow changes in v0.1.8]]'
+- '[[Changes/Raycast/2025-07-02-notes-new-create-dictated-note-command-and-shortcuts-action-will-open-a-new-note|Notes:
+  New Create Dictated Note command and Shortcuts action will open a new note…]]'
 - '[[Changes/Gemini CLI/2025-07-11-2-developer-workflow-changes-in-v0-1-10|2 Developer
   Workflow changes in v0.1.10]]'
 - '[[Changes/Cline/2025-07-12-add-git-branch-analysis-workflow-by-canvrno-in-https-github-com-cline-cline-pull|Add

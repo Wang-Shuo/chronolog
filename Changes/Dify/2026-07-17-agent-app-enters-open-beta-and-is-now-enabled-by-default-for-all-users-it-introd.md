@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d2ebff26f16e8f0cd7da587fd903dc3d4f96a2219daa22f26537496f8f0176d8
+machine_hash: 6041b15d67661fc6a9e681e2f0665142592031b563f560c41218b1e80570194e
 product: dify
 product_name: Dify
 record:
@@ -52,8 +52,8 @@ record:
   title: Agent App enters open beta and is now enabled by default for all users
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose
-  which Wiz policies run during security scans]]'
+- '[[Changes/Raycast/2026-07-16-apple-shortcuts-fixed-running-shortcuts-requiring-already-provided-automation-pe|Apple
+  Shortcuts: Fixed running shortcuts requiring already provided automation permission]]'
 - '[[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety
   and Privacy changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-20-safety-and-privacy-changes-in-1-16-0|20 Safety and

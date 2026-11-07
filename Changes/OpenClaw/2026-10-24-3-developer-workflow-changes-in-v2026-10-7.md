@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b95afdd418215bdb5d7283a945959ee48dc1464f72956a6da59b68f4e349cd3
+machine_hash: af6317a1369f7f4217c8ed7ffcf355378c3030593a18017e272bdf849acda145
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Developer Workflow changes in v2026.10.7
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
-  Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-turn-on-automatic-reviews-from-a-pull-request|Turn on
+  Automatic Reviews from a Pull Request]]'
 - '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
   /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 - '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer

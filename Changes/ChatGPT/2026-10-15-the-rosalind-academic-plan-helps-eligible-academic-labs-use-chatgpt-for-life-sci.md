@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f46ce03ceef2ff9f8faf4d5c421f4ee67a239209a764c6e31f95671514713fb9
+machine_hash: 0e44cff04b445ddc8eb7dd1b303b338ea305748a2ebf9a7aabd92736113fd098
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted workspace yourself]]
-- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review publish requests and findings in the Action center]]
+- Later: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-flux-video-upscale-pricing-by-output-length|FLUX Video Upscale pricing by output length]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

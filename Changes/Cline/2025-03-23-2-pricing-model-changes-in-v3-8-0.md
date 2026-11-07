@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96d6cd0d4ccc56a8473bcd006c5c082683ea0d66a70c99c4455678f24abe8ac1
+machine_hash: 5e6fc8497ce0ff02628fb30b789b1e686a537427d6895140add13b114fe4ef91
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Pricing Model changes in v3.8.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-14-best-website-design-3k-cash-winner-tweet-here-https-x-com-lovable-dev-status-190|Best
-  website design, \$3K cash winner]]'
-- '[[Changes/Lovable/2025-03-14-announcing-the-10k-lovable-s-build-competition-https-build-launch-win-lovable-ap|Announcing
-  the \$10K Lovable''s Build…]]'
-- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
+- '[[Changes/Recraft/2025-03-20-replace-bg-0-04-raster-0-08-vector-was-0-06-0-12|Replace
+  BG - $0.04 (raster) / $0.08 (vector) (was $0.06 / $0.12)]]'
+- '[[Changes/Recraft/2025-03-20-crisp-upscale-0-004-was-0-04|Crisp Upscale – $0.004
+  (was $0.04)]]'
+- '[[Changes/Recraft/2025-03-20-vectorization-0-01-was-0-04|Vectorization – $0.01
+  (was $0.04)]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]
+- Earlier: 2025-03-20 · Recraft · [[Changes/Recraft/2025-03-20-vectorization-0-01-was-0-04|Vectorization – $0.01 (was $0.04)]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]]
 <!-- chronolog:end -->
 

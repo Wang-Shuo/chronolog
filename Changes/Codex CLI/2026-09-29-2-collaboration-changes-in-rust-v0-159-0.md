@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1798ac47e27643d65a42263907f1b76629243fc32cb00787c34c2a21918b387
+machine_hash: 7a10c3b0350356c82c857de44a63bc72cf2d872d5cc94e608dbc75cfa290a20c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-github-team-sync-managed-repository-access|GitHub Team Sync: Managed Repository Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

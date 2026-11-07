@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d7180cbe0b62897634cc5d0cf7dafb3981e7fb159965db3d4bdc98b43a6c813
+machine_hash: 8ceed4b20302c530fbc79b91bbdd1dc11eb3ef6f57bc971153b2f7d235ab5dc1
 product: replit
 product_name: Replit
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
-- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These upgrades also bring faster text-to-speech generation, and add support…]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-reliability-and-performance-changes-in-v1-4-0|2 Reliability and Performance changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

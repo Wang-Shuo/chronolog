@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 74bc5fcfbbb2f31b324c4d0a1c5b1447ea314249fae0659bedfcf094a8e4a958
+machine_hash: 04103c37f88b6d125a92cedd57b1ea25611d2423cd3e62485585965e0032985b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Rolling out ads in Australia, New Zealand, and Canada
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show
-  a clear message to contact your organization administrator when remote sessions…]]'
-- '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
-  OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
-- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
-  README now uses the current ChatGPT Business plan name (♯16348)]]'
+- '[[Changes/Devin/2026-04-10-bulk-repository-secrets-import|Bulk Repository Secrets
+  Import]]'
+- '[[Changes/Devin/2026-04-10-total-acus-column-in-usage-table|Total ACUs Column in
+  Usage Table]]'
+- '[[Changes/Devin/2026-04-15-pagination-and-search-for-review-settings|Pagination
+  and Search for Review Settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1|chatgpt-2026-04-16-rolling-out-ads-in-australia-new-zealand-and-canada-82e516b1]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The README now uses the current ChatGPT Business plan name (♯16348)]]
-- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-pagination-and-search-for-review-settings|Pagination and Search for Review Settings]]
+- Later: 2026-04-17 · Devin · [[Changes/Devin/2026-04-17-review-permissions-enforcement|Review Permissions Enforcement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

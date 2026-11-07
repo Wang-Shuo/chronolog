@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 41a48034e349e5e54dd06eecaab3989ed69292c5d334db1a4985c8affc356ed2
+machine_hash: c8c956ab6c0ab9d5d7fe0b457212f1322497ca54c2da00f458b576076f25c6ef
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,7 @@ record:
   title: adding redirectUrl to credits purchasing experience
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove
-  incorrect pricing display for SAP AI Core provider since it uses non-USD…]]'
+- '[[Changes/Recraft/2025-07-10-cost-per-generation|Cost per generation]]'
 - '[[Changes/Cline/2025-07-11-supporting-buy-credits-url-response-from-backend-by-pashpashpash-in-https-github|supporting
   buy_credits_url response from backend]]'
 - '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
@@ -85,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing reasoning UX for Grok 4 models and correct pricing]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
+- Later: 2025-08-04 · Recraft · [[Changes/Recraft/2025-08-04-cost-per-generation-2-credits|Cost per generation: 2 credits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

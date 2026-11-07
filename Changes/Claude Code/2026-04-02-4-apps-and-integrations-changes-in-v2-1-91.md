@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3230cb9aa8e3b00fca25461abb5677604cd7fc42e21760551321beb1798130eb
+machine_hash: 06c35d28d52a7b10c6f65e371af7ce1e3dca46a21d1635d28df83a5c794ebc2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,11 +51,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.91
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps
   and Integrations changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5
   Apps and Integrations changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-2-apps-and-integrations-changes-in-v1-12-0|2 Apps
+  and Integrations changes in v1.12.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -95,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5 Apps and Integrations changes in v1.0.15]]
+- Earlier: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-2-apps-and-integrations-changes-in-v1-12-0|2 Apps and Integrations changes in v1.12.0]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations changes in 3.0]]
 <!-- chronolog:end -->
 

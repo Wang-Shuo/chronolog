@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0085d73b7caa2144203510f19470b5e5e97f8da2d4700d23667b1168287c26b
+machine_hash: f18197933bc048df991aca948567fbcc239155bbd916f72c0179c8ffb401b4cd
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,12 +44,12 @@ record:
     added…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
-  Experience changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
   assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
 - '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
   monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Recraft/2026-11-02-edit-your-favorite-change-its-colors-or-ask-for-variations|Edit
+  your favorite, change its colors, or ask for variations]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e]]'
 source_type: antigravity_changelog
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project monitoring catches errors in your visitors' browsers]]
+- Earlier: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-edit-your-favorite-change-its-colors-or-ask-for-variations|Edit your favorite, change its colors, or ask for variations]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor Experience changes in v0.13.0]]
 <!-- chronolog:end -->
 

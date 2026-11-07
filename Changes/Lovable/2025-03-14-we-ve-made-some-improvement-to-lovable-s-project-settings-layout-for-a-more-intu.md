@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5c21fc089af8ef2400d7356265c409cc4f56cc7cff29d241c7ddd61d00c3adc0
+machine_hash: fe400fc44055a6b5a86765b9e1f79fb6b3e4b37c4058cf423a10e19c4edb5c5a
 product: lovable
 product_name: Lovable
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-2-interface-experience-changes-in-1-0-1|2 Interface Experience changes in 1.0.1]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
+- Later: 2025-03-14 · Raycast · [[Changes/Raycast/2025-03-14-alias-set-for-the-emoji-picker-should-now-be-correctly-saved|Alias set for the Emoji Picker should now be correctly saved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

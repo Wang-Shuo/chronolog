@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 180aaa7eabf02bcc5b73f9f9d232001c9cdcec9e8c5c9c3e921e411db1f30f06
+machine_hash: 623340b88eebdae8f1c6064b497b3685d955bafada8db0c90e37a5e592ac323f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -104,7 +104,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.9
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-organization-improvements|ORGANIZATION IMPROVEMENTS]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2 Memory and Personalization changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-memory-and-dreaming|Memory and dreaming]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

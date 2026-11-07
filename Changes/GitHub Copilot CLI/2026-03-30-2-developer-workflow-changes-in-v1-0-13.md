@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd1bb434acee0daa095723f1a4a4ba674a063f0c396aba74199ce83bc46c16a1
+machine_hash: 8dd7bdc7845fa9ee4636cecf08d107fa52a6870ed5fa87cd29ead548173234b6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
-- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
-  Workflow changes in v0.8.12]]'
+- '[[Changes/Raycast/2026-03-27-3-developer-workflow-changes-in-raycast-macos-0-51|3
+  Developer Workflow changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-keep-your-workspace-tidy-with-custom-window-management-commands-to-resize-and-po|Keep
+  your workspace tidy with custom window management commands to resize…]]'
 - '[[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer
   Workflow changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'

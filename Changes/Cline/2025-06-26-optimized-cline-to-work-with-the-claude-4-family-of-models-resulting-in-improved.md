@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 61c8e225ff9a2a96f1ebfc1fa3cd423def59e08d53f600d38113f11c2bd28638
+machine_hash: 677165201a4adc3b8b9f0c6030670399a08b92ac5618ef28ae4ead2c0c7ec31d
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
     improved…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
-  Reliability and Performance changes in v0.6.15]]'
+- '[[Changes/Raycast/2025-06-20-calculator-improved-speed-and-performance|Calculator:
+  Improved speed and performance]]'
 - '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
   improvements]]'
 - '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled

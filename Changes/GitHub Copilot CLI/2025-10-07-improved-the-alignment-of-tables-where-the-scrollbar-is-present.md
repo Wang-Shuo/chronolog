@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e894711069031bb2f5b3d06aa4236cd0f5664d219639309202d04304827704d2
+machine_hash: 8eb5d7c124ff4b97a31a035583abf06ed0d770570e42279830ba05d14af56bd3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved the alignment of tables where the scrollbar is present
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-3-interface-experience-changes-in-rust-v0-44-0|3
-  Interface Experience changes in rust-v0.44.0]]'
+- '[[Changes/Devin/2025-10-03-enhanced-member-page-tabs-and-navigation|Enhanced member
+  page tabs and navigation]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-reduced-the-number-of-colors-and-improved-the-spacing-of-markdown-rendering|Reduced
   the number of colors and improved the spacing of Markdown rendering]]'
 - '[[Changes/Gemini CLI/2025-10-07-chore-docs-adds-sidebar-json-for-docs-organization-by-mbleigh-in-https-github-co|chore(docs):

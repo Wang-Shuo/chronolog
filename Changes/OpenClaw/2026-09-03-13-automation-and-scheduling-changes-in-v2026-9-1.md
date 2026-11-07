@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9051f4b5db5e7341d530a7497146457992a051e65be1c27709ee7819456aed8
+machine_hash: f100dd163c18c109ad53f90ac6ae85c6a5d7846b3363ce739032225d2f10d1b3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -120,12 +120,10 @@ record:
   title: 13 Automation and Scheduling changes in v2026.9.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations
-  and Scheduling - Scheduled work comes together under one name across…]]'
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
 - '[[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2
   Automation and Scheduling changes in v2026.8.2]]'
+- '[[Changes/Devin/2026-09-02-richer-trigger-event-details|Richer Trigger Event Details]]'
+- '[[Changes/Devin/2026-09-02-scheduled-scans-in-automations|Scheduled Scans in Automations]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-03-v2026-9-1-281124fc|openclaw-2026-09-03-v2026-9-1-281124fc]]'
 source_type: openclaw_changelog
 theme: automation-scheduling
@@ -199,8 +197,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2 Automation and Scheduling changes in v2026.8.2]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8 Automation and Scheduling changes in v2026.9.2]]
+- Earlier: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-scheduled-scans-in-automations|Scheduled Scans in Automations]]
+- Later: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-code-scan-no-op-runs-when-there-are-no-new-commits|Code Scan No-Op Runs When There Are No New Commits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

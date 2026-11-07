@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0438a5da9a89a488c18c2c470065afc0144f245675a2fb5ee986371e840e5688
+machine_hash: 53f20f6f12d9ee0ecaf6bd72f7f60f5b81c1e6db304c20e48607d1ae8f9c0947
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: '**⚙️ General Reliability Enhancements**'
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
-  to Google Slides]]'
+- '[[Changes/Raycast/2025-02-26-improved-the-loading-speed-of-our-settings-window|Improved
+  the loading speed of our Settings window]]'
 - '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
   General Stability Enhancements]]'
 - '[[Changes/Replit/2025-02-28-database-performance-improvement|Database performance
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-28 · Replit · [[Changes/Replit/2025-02-28-database-performance-improvement|Database performance improvement]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability and Performance changes in 0.47.x]]
+- Later: 2025-03-07 · LM Studio · [[Changes/LM Studio/2025-03-07-significantly-increased-the-speed-of-chunking-files-for-retrieval|Significantly increased the speed of chunking files for retrieval]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

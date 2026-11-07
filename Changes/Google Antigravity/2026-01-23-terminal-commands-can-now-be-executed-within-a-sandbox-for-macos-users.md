@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a0c38b365a91d8176169331fc73b0075aa6f880b83509571a1cc8cfc00e9287
+machine_hash: e6bb0f4896a3264bee80e5fdcc203c941d9cbe5e9a5a57332d31621b6f779442
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,10 +43,10 @@ record:
   title: Terminal commands can now be executed within a sandbox for MacOS users
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
-  and Privacy changes in rust-v0.89.0]]'
 - '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
   CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/Devin/2026-01-22-devin-review-launch-https-docs-devin-ai-work-with-devin-devin-review-md|Devin
+  Review Launch((source link)]]'
 - '[[Changes/OpenCode/2026-01-22-core-ensure-cat-command-triggers-external-directory-permission-check-in-bash-too|Core
   Ensure cat command triggers external directory permission check in Bash tool]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-01-23-rel-ide-1-15-6-baf884ae|google-antigravity-2026-01-23-rel-ide-1-15-6-baf884ae]]'

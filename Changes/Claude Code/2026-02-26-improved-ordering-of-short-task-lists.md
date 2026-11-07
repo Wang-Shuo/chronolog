@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3dc97413107da63cf9381999df6b725daa0a2d08e66c8225c8cea91c6bd33ee5
+machine_hash: 04a1f16e1de0675f5529aada97819834c01489d84435dd51649d2f33b27829a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved ordering of short task lists
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
-  Experience changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-24-add-keyboard-shortcut-support-for-intlyen-intlro-convert-fix-keyf-binding-confli|Add
+  keyboard shortcut support for IntlYen, IntlRo, Convert + Fix KeyF binding conflict]]'
 - '[[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8
   Interface Experience changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui):

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5f9b47e6b1bbebce641bdd65ffef9f7d05f4d3138625f7d09cb38bf13b007b3
+machine_hash: 20ec4b25e83fdc19d9b8d4582c1b1e8b63fd52f614c1f3d5a59486fc775c6055
 product: suno
 product_name: Suno
 record:
@@ -43,12 +43,12 @@ record:
   title: Tips for Effective Use
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
-  add hunyuan-vision]]'
 - '[[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video
   to Video in Gen-3 Alpha Turbo]]'
 - '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
   and prompt caching fixes]]'
+- '[[Changes/AnythingLLM/2024-10-03-enable-mistral-multimodal-by-timothycarambat-in-https-github-com-mintplex-labs-a|Enable
+  Mistral Multimodal]]'
 source_release: '[[Releases/Suno/suno-2024-10-10-e-replace-section-9e9811a6|suno-2024-10-10-e-replace-section-9e9811a6]]'
 source_type: suno_changelog
 theme: multimodal
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision and prompt caching fixes]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-enable-mistral-multimodal-by-timothycarambat-in-https-github-com-mintplex-labs-a|Enable Mistral Multimodal]]
 - Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable| If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]
 <!-- chronolog:end -->
 

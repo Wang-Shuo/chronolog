@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1eda92ce54225e542c19d2c372e43b4275599dc08b6e79895fd6eeed67daea7a
+machine_hash: 9e28cdb632d43b1c4b5dfe71b6091ec4fa1a0edbcc8d7b9c1f680846771ab2c4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,12 @@ record:
   title: 3 Context Window changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context
-  Window changes in rust-v0.155.0]]'
 - '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
   @ or / to add context and skills where you type]]'
 - '[[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context
   Window changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-rotate-bitbucket-data-center-tokens|Rotate Bitbucket
+  Data Center Tokens]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: context-window
@@ -111,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context Window changes in v2026.9.5]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-rotate-bitbucket-data-center-tokens|Rotate Bitbucket Data Center Tokens]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window changes in v4.1.20]]
 <!-- chronolog:end -->
 

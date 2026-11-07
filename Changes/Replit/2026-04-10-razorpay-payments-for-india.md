@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 9160a4ea5fd287a63975e6883a0890a8e8eba7f95a7edcd91a423b83bde384cb
+machine_hash: c85057f88b462d5728c836783d7ce4182ca622aa1389b80352d999097ce4af44
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,9 @@ record:
   title: Razorpay payments for India
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
-  ($200/month): Our highest-usage option remains available and continues…]]'
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
+- '[[Changes/Devin/2026-04-10-wiki-effort-level-descriptions|Wiki Effort Level Descriptions]]'
+- '[[Changes/Devin/2026-04-10-deepwiki-cost-breakdown-modal|DeepWiki Cost Breakdown
+  Modal]]'
 - '[[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage
   page]]'
 source_release: '[[Releases/Replit/replit-2026-04-10-2026-04-10-5fcce17c|replit-2026-04-10-2026-04-10-5fcce17c]]'
@@ -90,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
-- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-workspaces|Workspaces]]
+- Earlier: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-deepwiki-cost-breakdown-modal|DeepWiki Cost Breakdown Modal]]
+- Later: 2026-04-14 · Recraft · [[Changes/Recraft/2026-04-14-cost-per-second|Cost per second]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

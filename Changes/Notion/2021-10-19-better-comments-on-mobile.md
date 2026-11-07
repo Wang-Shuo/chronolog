@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11dac256cf702f1a3be20517c33b0042aea620afce697b54abcaedf1d7daac64
+machine_hash: b32412254ddb6aba8bfb4b7578768b614f0c51567d314d02ad722754b68aeb60
 product: notion
 product_name: Notion
 record:
@@ -40,8 +40,7 @@ record:
   title: Better comments on mobile
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-21-find-your-notion-pages-in-search-on-iphone-ipad|Find
-  your Notion pages in Search on iPhone & iPad]]'
+- '[[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]'
 - '[[Changes/Notion/2021-10-12-notion-is-now-available-in-japanese|Notion is now available
   in Japanese]]'
 - '[[Changes/Notion/2021-10-12-the-ios-android-apps-now-include-pinch-to-zoom-support-for-images|The

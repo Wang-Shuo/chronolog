@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3cab4bb66b02cb4323ec04f12277d42f12fbee16db377894795291c591c403f
+machine_hash: 100f77579f03e627c9a47caf8b46a6156cd59f3d7496cb9ff7f53bd5f9ab1981
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat: add a flask_context_manager'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
-  active files (open tabs) at the top of the file context menu when using…]]'
 - '[[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor:
   Replaces direct DB session usage with context managers]]'
+- '[[Changes/Raycast/2025-06-11-ai-chat-added-new-send-active-window-to-ai-chat-send-selected-area-to-ai-chat-an|AI
+  Chat: Added new Send Active Window to AI Chat , Send Selected Area to AI Chat…]]'
 - '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
   changes in 0.43.0]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window changes in 0.43.0]]
-- Later: 2025-06-25 · Ollama · [[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama will now limit context length to what the model was trained against to avoid…]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-stream-tool-call-argument-tokens-to-the-ui-as-they-are-generated|Stream tool call argument tokens to the UI as they are generated]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

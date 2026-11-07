@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c7e41d3fb9bd6dba784fe44a7475bdce9b8655f089bea4d81ac6e082a282096
+machine_hash: 6d2e0421bd7bc6dc5f4050b7fa5b7017f38d412e3a6e3305c4cd5df5a3af9d29
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,12 @@ record:
   title: '2 Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
-  Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
 - '[[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add
   the /secondary_model slash command to configure the secondary model used…]]'
+- '[[Changes/Devin/2026-07-31-approval-progress-at-a-glance|Approval Progress at a
+  Glance]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add the /secondary_model slash command to configure the secondary model used…]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-approval-progress-at-a-glance|Approval Progress at a Glance]]
 - Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating a Git-backed chat produces a working copy instead of one that fails to render]]
 <!-- chronolog:end -->
 

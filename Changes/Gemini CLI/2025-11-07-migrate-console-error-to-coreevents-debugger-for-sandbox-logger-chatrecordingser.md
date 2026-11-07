@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d2f1134d4522d0533c76cadc157312be8ac781c54dca1e0fa60e12eaca852ab
+machine_hash: 1e694b8deca61aef3a874ce85f9fc308eee245e92870f954572b2ab89796cc8c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-security|Security]]'
 - '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
   and Privacy changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
   and Privacy changes in rust-v0.56.0]]'
+- '[[Changes/Devin/2025-11-07-slack-notification-safety|Slack Notification Safety]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety and Privacy changes in rust-v0.56.0]]
+- Earlier: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-slack-notification-safety|Slack Notification Safety]]
 - Later: 2025-11-12 · Manus · [[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start testing payments instantly with Stripe]]
 <!-- chronolog:end -->
 

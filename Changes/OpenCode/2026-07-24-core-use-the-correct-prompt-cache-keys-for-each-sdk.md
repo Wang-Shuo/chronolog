@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87d0d222544615d90fd96f7666fe73c9763864bb0376e7336f0de2b3cd4d8e5e
+machine_hash: cd3701aea583bc40ed539e5700c55e0d509e43b0527d31b39906c2386aead865
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: Core Use the correct prompt cache keys for each SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
-  Apps and Integrations changes in v2.1.219]]'
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
+- '[[Changes/Devin/2026-07-24-approve-network-access-requests-from-slack|Approve Network
+  Access Requests from Slack]]'
+- '[[Changes/Devin/2026-07-24-start-windows-sessions-from-slack|Start Windows Sessions
+  from Slack]]'
 - '[[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add
   global default MCP server timeouts in config.toml and env vars]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-24-v1-18-5-afa44289|opencode-2026-07-24-v1-18-5-afa44289]]'

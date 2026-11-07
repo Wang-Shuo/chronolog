@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 482bce7d0bbc01d54e04627b3bfcda7d7634470e9a4a44de01c9a950d1504b7f
+machine_hash: 858e59912564614a56191268e2bc610a6967eb2a2b4e47b0ffc4d2db961ddb71
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Unified CLI permissions with the editor, including Run Everything, Auto-Run…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
-  and Privacy changes in rust-v0.88.0]]'
 - '[[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core
   Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]'
+- '[[Changes/AnythingLLM/2026-01-22-refactor-managed-services-in-data-handling-privacy-onboarding-step-to-use-their|Refactor
+  Managed Services in "Data Handling & Privacy" Onboarding Step to Use…]]'
 - '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
   and Privacy changes in rust-v0.89.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety and Privacy changes in rust-v0.89.0]]
-- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-core-ensure-cat-command-triggers-external-directory-permission-check-in-bash-too|Core Ensure cat command triggers external directory permission check in Bash tool]]
+- Later: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-devin-review-launch-https-docs-devin-ai-work-with-devin-devin-review-md|Devin Review Launch((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

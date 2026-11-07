@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6d9c6dcd71df308bb231c620a3fc4c73bf09c85772865ad31a64d30cb3da0887
+machine_hash: 86a2c4d9733ec9f385e79fa15d5753e933cb1cefeee28bd662facb52e250cf6b
 product: notion
 product_name: Notion
 record:
@@ -46,12 +46,12 @@ record:
     by using…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-now-when-performing-rendering-operations-such-as-export-publishing-or-flatten-fi|Use
-  original media when rendering files (by default)]]'
-- "[[Changes/Notion/2021-03-10-organize-your-shred-pages|Organize your shred pages
-  \U0001F9F9]]"
-- '[[Changes/Notion/2021-03-23-clicking-on-commented-text-within-a-block-will-now-open-the-comment-menu-and-kee|Clicking
-  on commented text within a block will now open the comment menu and keep…]]'
+- '[[Changes/Raycast/2021-04-13-3-interface-experience-changes-in-raycast-macos-v1-1-12-0|3
+  Interface Experience changes in Raycast macos-v1 1.12.0]]'
+- '[[Changes/Raycast/2021-04-28-file-search-added-y-as-a-secondary-keyboard-shortcut-to-toggle-quick-look|File
+  Search : Added ⌘ Y as a secondary keyboard shortcut to toggle Quick Look]]'
+- '[[Changes/Raycast/2021-05-12-hotkey-recorder-it-s-now-possible-to-use-hotkeys-previously-reported-as-used-by|Hotkey
+  Recorder : It''s now possible to use hotkeys previously reported as used…]]'
 source_release: '[[Releases/Notion/notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d|notion-2021-05-13-https-www-notion-com-releases-2021-05-13-33c4406d]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-03-23 · Notion · [[Changes/Notion/2021-03-23-clicking-on-commented-text-within-a-block-will-now-open-the-comment-menu-and-kee|Clicking on commented text within a block will now open the comment menu and keep…]]
-- Later: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-combined-the-composition-sidebar-and-media-library-into-a-unified-project|We've combined the Composition Sidebar and Media Library into a unified Project…]]
+- Earlier: 2021-05-12 · Raycast · [[Changes/Raycast/2021-05-12-hotkey-recorder-it-s-now-possible-to-use-hotkeys-previously-reported-as-used-by|Hotkey Recorder : It's now possible to use hotkeys previously reported as used…]]
+- Later: 2021-05-26 · Raycast · [[Changes/Raycast/2021-05-26-root-search-configure-any-command-or-app-by-pressing-it-opens-the-preferences-wi|Root Search: Configure any command or app by pressing ⌘ ⇧ ,]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

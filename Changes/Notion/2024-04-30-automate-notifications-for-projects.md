@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fbdbf41379d4b70ba983a96d3e5ca16351ab840e9f255dfffda005db5f93670c
+machine_hash: 402e23956db83a7a163051735098a679215a9271796c834bf34e5169cc2d21b5
 product: notion
 product_name: Notion
 record:
@@ -48,10 +48,10 @@ record:
   title: Automate notifications for projects
   type: change
 related_changes:
-- '[[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database
-  buttons]]'
 - '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
   @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
+- '[[Changes/Raycast/2024-03-20-my-schedule-add-action-to-list-and-copy-information-about-specific-attendees|My
+  Schedule: Add action to list and copy information about specific attendees]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
 source_release: '[[Releases/Notion/notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e|notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e]]'

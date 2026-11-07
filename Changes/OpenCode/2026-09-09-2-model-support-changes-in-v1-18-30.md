@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d715510593859ecf46599939377da64db4fd0a1acc47d4571577788866bce229
+machine_hash: f74fefc029b05845819318676992b58fbe0ab0f1c41d00fe1d81ce2f74c50853
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Model Support changes in v1.18.30
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2
-  Model Support changes in HUB v2.13.0 — Introducing new Documents…]]'
-- '[[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model
-  Support changes in Kimi Code 0.42.0]]'
+- '[[Changes/Krea/2026-09-09-kling-1-0-through-2-1-retired|Kling 1.0 through 2.1 retired]]'
+- '[[Changes/LM Studio/2026-09-09-lm-studio-engine-protocol-added-advanced-llama-cpp-argument-overrides-for-gguf-m|LM
+  Studio Engine Protocol Added advanced llama.cpp argument overrides for GGUF…]]'
 - '[[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added
   the Astra system prompt for GPT-6 models]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-09-v1-18-30-1b9960bc|opencode-2026-09-09-v1-18-30-1b9960bc]]'
@@ -83,7 +82,7 @@ Source: https://opencode.ai/changelog/v1.18.30
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model Support changes in Kimi Code 0.42.0]]
+- Earlier: 2026-09-09 · LM Studio · [[Changes/LM Studio/2026-09-09-lm-studio-engine-protocol-added-advanced-llama-cpp-argument-overrides-for-gguf-m|LM Studio Engine Protocol Added advanced llama.cpp argument overrides for GGUF…]]
 - Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
 <!-- chronolog:end -->
 

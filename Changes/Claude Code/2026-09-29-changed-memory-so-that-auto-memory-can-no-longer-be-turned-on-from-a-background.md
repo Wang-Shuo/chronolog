@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e513d4590863105696078c8a8a1748cb5823ca596750609376f63793a18fd6f
+machine_hash: 8db1e221725509dce1fe3efa77ed5c22d56d24c0d86e609dd1d6472aeb13fd67
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15 Memory and Personalization changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-context-tab|Context Tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

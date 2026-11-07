@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b8591d0bbbcdfebe0cf2e7f2dd6baf81b36cb4a05113646ab2bf5d65b77acfb
+machine_hash: da98d6bd56e2c6abb00cc67077406dcbb2c207dd2f86a4469a433961742e0a11
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in Kimi Code 0.12.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes
-  in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-improve-agent-summarizer-tool-by-shatfield4-in-https-github-com-mintplex-labs-an|Improve
+  agent summarizer tool]]'
 - '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
   changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent

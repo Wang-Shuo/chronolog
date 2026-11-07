@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d0572ddd828b82b841b0456e8b6e1b5ca7237e5e4e65b10a4773d2a1c11a781a
+machine_hash: e9543ad680321f13ddd2fca36d0d06a21e3d2e10bcab0b9b74381c0f7f9a813a
 product: descript
 product_name: Descript
 record:
@@ -43,8 +43,7 @@ record:
   title: Other editor updates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
-  Experience changes in rust-v0.23.0]]'
+- '[[Changes/Recraft/2025-08-20-edit-and-variate|Edit and variate]]'
 - '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
   an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 - '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full

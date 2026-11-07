@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d8f8820d52dd98d4091628c12c48167b0e450900faf59782a4a30ad0c5190e3
+machine_hash: 2cfc7ebec8fb0b67542473186a7f1dcebcd9c56fc3bd65e4140bc18d6e64da36
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Collaboration changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration
-  changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
   changes in v1.0.71]]'
 - '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes
   in 1.16.0]]'
+- '[[Changes/Raycast/2026-07-20-notes-you-can-now-share-a-note-as-an-image|Notes :
+  You can now share a note as an image]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: collaboration
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes in 1.16.0]]
+- Earlier: 2026-07-20 · Raycast · [[Changes/Raycast/2026-07-20-notes-you-can-now-share-a-note-as-an-image|Notes : You can now share a note as an image]]
 - Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4 Collaboration changes in Slash commands, the Shopify…]]
 <!-- chronolog:end -->
 

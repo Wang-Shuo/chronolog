@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43dca671305275f673898618270b03c4d19d94e1767cafb842bf6f08178328f6
+machine_hash: ecac3afff8fae712635cdbf727b127b173dd93c5bc807bbe9b60117314ca9d11
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     load…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
-  disk-full handling]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
-  a completed response code block copies its original code when enabled]]'
 - '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
   Workflow changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl|Restart
+  Frontmost App : New command that quits and reopens the app you''re currently using]]'
+- '[[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl-de4944|Restart
+  Frontmost App : New command that quits and reopens the app you''re currently using]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer Workflow changes in v2026.10.6]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-restart-frontmost-app-new-command-that-quits-and-reopens-the-app-you-re-currentl-de4944|Restart Frontmost App : New command that quits and reopens the app you're currently using]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14 Developer Workflow changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

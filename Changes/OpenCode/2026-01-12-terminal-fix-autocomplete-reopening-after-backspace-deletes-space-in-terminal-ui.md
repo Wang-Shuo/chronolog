@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 740fd0cddaefc99c8e09152e5e7177b37b0c4e4c099ff927142442f5cebd07bc
+machine_hash: 2c1441808c92a26a7977b2985f6bb2bbd4b854bda8e490250aed6d653638a010
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-3-interface-experience-changes-in-v1-1-14|3 Interface Experience changes in v1.1.14]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
+- Later: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-ai-quickly-jump-to-questions-in-the-chat-from-the-title-menu|AI: Quickly jump to questions in the chat from the title menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

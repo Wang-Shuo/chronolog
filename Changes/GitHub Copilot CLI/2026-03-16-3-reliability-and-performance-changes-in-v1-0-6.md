@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccbbfc286812b2979b13c03989e346e3b2f9f9e783c53e2d894a4420c6e46d7d
+machine_hash: 6055e5d07fcc09990b470c320b306e32ba0ced6d1e73c2f8b851f1bc444877e9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Reliability and Performance changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
-  Trim session render work in app for improved performance]]'
+- '[[Changes/Superwhisper/2026-03-12-performance|Performance]]'
 - '[[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved
   code-server loading speed for fresh VMs]]'
 - '[[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4

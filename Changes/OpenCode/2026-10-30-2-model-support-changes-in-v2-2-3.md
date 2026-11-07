@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb115a576f6fed66a3e6b1721fb5f053a59a463ae5501882270f572fe8793dbd
+machine_hash: 5476b374f9f5630963f3ebd7e084d3104cd2a191bc80a624f940ec351fe74f3a
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Model Support changes in v2.2.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-2-model-support-changes-in-v2-2-1|2 Model Support
-  changes in v2.2.1]]'
-- '[[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop
-  Preserved pending model labels only when a queued prompt actually changes models]]'
+- '[[Changes/Superwhisper/2026-10-29-3-model-support-changes-in-superwhisper-windows-1-6-11|3
+  Model Support changes in Superwhisper Windows 1.6.11]]'
 - '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
   changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-typed-finding-tags|Typed Finding Tags]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|opencode-2026-10-30-v2-2-3-0c0c59eb]]'
 source_type: opencode_changelog
 theme: model-support
@@ -93,7 +92,7 @@ Source: https://opencode.ai/changelog/v2.2.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-typed-finding-tags|Typed Finding Tags]]
 - Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core Reasoning is no longer turned into plain text when you switch models or resume…]]
 <!-- chronolog:end -->
 

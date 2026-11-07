@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d72cdb354720e52dd32dcd75224a283eba279bbd9494243af94fa367513bde9d
+machine_hash: 471fbae62f76298d19474180d497285ea3e08305b2a3a16d8b6a6fde23bf4def
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
-- Later: 2026-06-04 · Suno · [[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share audio from iOS Voice Memos]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-dictation-the-hotkey-for-accepting-cancelling-dictation-can-now-be-configured-to|Dictation : The hotkey for accepting/cancelling dictation can now be configured…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

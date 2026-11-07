@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a565822d2b81b7743d17018783acb45fc8ee589a829faabc78be62851757ae96
+machine_hash: 58f02ccd0ff6a51aa500f65fd2d9a645e6bd8c743376405bed2cb9df3c41bfba
 product: openclaw
 product_name: OpenClaw
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT Transcribe for your app's speech-to-text features]]
-- Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-speech-to-text|Speech to Text]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-2-voice-and-audio-changes-in-raycast-macos-2-8|2 Voice and Audio changes in Raycast macos 2.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

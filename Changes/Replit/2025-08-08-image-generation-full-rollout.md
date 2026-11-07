@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61ce5e30d75ed4d9814aba3bee0c78ad70256e33afd341f6367017dfb6ba1000
+machine_hash: 6effc25dbe879eb4c7f0668f420d59ecf50ee232fdb2545e69e5120f7e0fb765
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Image generation full rollout
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
-  Better Handling & Storage of Interpreter-Generated Images]]"
 - '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
   week’s updates are all about giving you more control, more capabilities…]]'
 - '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
   generation update to ChatGPT Free]]'
+- '[[Changes/Recraft/2025-08-08-we-ve-added-a-new-batch-of-b200-gpus-making-image-generation-in-recraft-up-to-2|2×
+  faster image generation, 3× faster upscale]]'
 source_release: '[[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|replit-2025-08-08-2025-08-08-cb053c3d]]'
 source_type: replit_changelog
 theme: image-generation
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
+- Earlier: 2025-08-08 · Recraft · [[Changes/Recraft/2025-08-08-we-ve-added-a-new-batch-of-b200-gpus-making-image-generation-in-recraft-up-to-2|2× faster image generation, 3× faster upscale]]
 - Later: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->
 

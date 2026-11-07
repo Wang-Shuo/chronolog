@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5eb8455299d1c63666161c7bd2f177e1685d9312e587a046562241623933e253
+machine_hash: 88d65a5b5989551018d29bae0dcf925f30ef503ae5d5b87e1e86b79504f6ef62
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
+- Later: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-refined-the-typing-speed-test-and-stat-sharing-controls|Refined the typing speed test and stat sharing controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

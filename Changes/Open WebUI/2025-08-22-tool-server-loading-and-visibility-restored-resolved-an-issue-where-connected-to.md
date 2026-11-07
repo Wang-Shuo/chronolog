@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de429929d2b7a4d74f1057b1350301d9b806857c8d8da8d940fae0630d40b96f
+machine_hash: 60a2dc4b993a1aaa062d52f1e423e4044fb77d584610baa080923d207d9bb4e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,11 @@ record:
   title: "\U0001F6E0️ **Tool Server Loading and Visibility Restored**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry):
-  Add MCP tool usage tracking]]'
 - '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
   for MCP elicitation]]'
 - '[[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps
   and Integrations changes in v0.6.23]]'
+- '[[Changes/Devin/2025-08-22-self-hosted-gitlab-access|Self-Hosted GitLab Access]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-22-v0-6-24-github-241778975-2cbb20a7|open-webui-2025-08-22-v0-6-24-github-241778975-2cbb20a7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps and Integrations changes in v0.6.23]]
+- Earlier: 2025-08-22 · Devin · [[Changes/Devin/2025-08-22-self-hosted-gitlab-access|Self-Hosted GitLab Access]]
 - Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5 Apps and Integrations changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 

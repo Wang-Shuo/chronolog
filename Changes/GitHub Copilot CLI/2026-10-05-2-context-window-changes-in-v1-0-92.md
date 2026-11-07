@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb8008114cec203ed0910159cc5ea2741a62dd953f004208c980528647a9f0c8
+machine_hash: 61229398007a78bb2c904cb031b35d8e9bf7ee8d9052f7860ed01648cf6561b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
-  Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
 - '[[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context
   Window changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
   /autocompact to save the auto-compact window per model, so each model…]]'
+- '[[Changes/Raycast/2026-10-02-ai-improved-context-handling-in-very-long-conversations|AI:
+  Improved context handling in very long conversations]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed /autocompact to save the auto-compact window per model, so each model…]]
+- Earlier: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-ai-improved-context-handling-in-very-long-conversations|AI: Improved context handling in very long conversations]]
 - Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-9-context-window-changes-in-rust-v0-161-0|9 Context Window changes in rust-v0.161.0]]
 <!-- chronolog:end -->
 

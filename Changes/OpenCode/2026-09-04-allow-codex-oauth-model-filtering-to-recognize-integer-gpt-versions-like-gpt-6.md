@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5c414dd1f8f4675b035883efb8e160ff4370c61074d724d14345f21a7a5af759
+machine_hash: 97dab92cddcd658320b53f2b2acca5b130b9508fb91bbd2d1637ff63dce47b54
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model Support changes in v1.0.83]]
-- Later: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama models can now be used directly in ChatGPT Desktop, so you can keep…]]
+- Later: 2026-09-04 · Superwhisper · [[Changes/Superwhisper/2026-09-04-significant-mode-model-switching-improvements|Significant mode/model switching improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

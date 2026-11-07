@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9d5e4b39369979afbfdb8828ccab69ee538a2ce0b073b1b72ec2c296997a846b
+machine_hash: 3e17d0299ec153e2310934a487d8e8a5f0a1e794a35dd9e6a4c80946c0f64515
 product: claude
 product_name: Claude
 record:
@@ -44,8 +44,8 @@ record:
   title: Ability to search past conversations
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
-  changes in v0.1.18]]'
+- '[[Changes/LM Studio/2025-08-06-gpt-oss-openai-compat-api-remove-structural-tokens-etc-from-v1-chat-completions|gpt-oss
+  OpenAI-compat API Remove structural tokens (, , etc...)…]]'
 - '[[Changes/Replit/2025-08-08-improved-filesystem-search|Improved filesystem search]]'
 - "[[Changes/Open WebUI/2025-08-09-folder-system-prompt-variables-restored-fixed-a-bug-where-prompt-variables-e-g-c|\U0001F4C1
   Folder System Prompt Variables Restored]]"

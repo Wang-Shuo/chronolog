@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 03c908f34575fe5119f7ee36e6fbc4dacf259a844dc217609b37dd860a588cdc
+machine_hash: 11b97a6fc55fd08de8d217594ed010404823dcd11020d12297f607b4b409e19f
 product: synthesia
 product_name: Synthesia
 record:
@@ -53,10 +53,10 @@ record:
   title: Experiment with media creation in AI Playground
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
-  Interface Experience changes in rust-v0.65.0]]'
 - '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
   Custom Domains]]'
+- '[[Changes/AnythingLLM/2025-12-09-add-svelte-rendering-to-markdown-renderer-by-timothycarambat-in-https-github-com|add
+  svelte rendering to markdown renderer]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
 source_release: '[[Releases/Synthesia/synthesia-2025-12-09-https-www-synthesia-io-updates-experiment-with-media-creation-in-992b8e21|synthesia-2025-12-09-https-www-synthesia-io-updates-experiment-with-media-creation-in-992b8e21]]'

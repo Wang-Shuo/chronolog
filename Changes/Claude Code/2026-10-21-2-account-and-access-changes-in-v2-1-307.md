@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dee2269ce4ac665a89be158c0805ad3654da05a74491bcf8576ebb359dfa06c6
+machine_hash: 4f28339e4a3606be590eb2293413b2670f26c278f3df8df7413dd39248bccb1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Account and Access changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing
-  locked chats]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode
   Changed the message shown when a session does not start in time and no hook…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4
   Account and Access changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-cli-with-browser-sign-in|Krea CLI with browser sign-in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4 Account and Access changes in v1.0.101]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-krea-cli-with-browser-sign-in|Krea CLI with browser sign-in]]
 - Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP sign-in errors now give a safe reason and tell you how to sign in or fix…]]
 <!-- chronolog:end -->
 

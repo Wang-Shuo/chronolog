@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 33d1025c797a77fd4aecdf3bcaa96cf8d9d48a592411210963156a47eff32ca0
+machine_hash: 379258b79641d8d7690ddc948d110bb946aa904b5c3c7f4ab28ca2e99317361a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,7 +44,8 @@ record:
     is left empty…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/Superwhisper/2026-01-05-improved-empty-transcription-handling|Improved
+  empty transcription handling]]'
 - '[[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop
   Add audio input and camera permissions to entitlements]]'
 - '[[Changes/Open WebUI/2026-01-09-3-voice-and-audio-changes-in-v0-7-0|3 Voice and

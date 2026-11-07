@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7d83bd23d890cf58662d06eda0fe6aa5876533a07071df2ff2da3231ff1a04a
+machine_hash: 9326e8e57ecb360cce6354aa41791dc8f9ee4c76537b4b1effb964109fd88f83
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5 Enterprise and Administration changes in v0.11.4]]
-- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-people-skills-removal-and-deletion-admin-control-web-microsoft-365-copilot|People Skills - removal and deletion admin control Web (Microsoft 365 Copilot)]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-blueprint-knowledge-from-organization-and-enterprise-environments|Blueprint Knowledge from Organization and Enterprise Environments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

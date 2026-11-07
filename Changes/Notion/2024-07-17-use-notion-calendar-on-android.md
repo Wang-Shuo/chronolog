@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1d5a549bc8099e43f3bae57dd2903c8521d85a6ffe84d1288722082a4e92a75d
+machine_hash: 1a952285efce78da60afe40eec8e114ad3d5f0a6b962452224ffd408f5b972cc
 product: notion
 product_name: Notion
 record:
@@ -50,11 +50,10 @@ record:
   title: Use Notion Calendar on Android
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
-  .sh are LF-style, so that they can be used directly by Docker for Windows]]'
-- '[[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]'
 - "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
   Font Change for Windows]]"
+- '[[Changes/Devin/2024-07-15-general-ui-improvements|General UI Improvements]]'
+- '[[Changes/Devin/2024-07-15-devin-mobile-improvements|Devin Mobile Improvements]]'
 source_release: '[[Releases/Notion/notion-2024-07-17-https-www-notion-com-releases-2024-07-17-90ec16ee|notion-2024-07-17-https-www-notion-com-releases-2024-07-17-90ec16ee]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|🔄 Font Change for Windows]]
+- Earlier: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-devin-mobile-improvements|Devin Mobile Improvements]]
 - Later: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider is better at offering to add files to the chat on Windows]]
 <!-- chronolog:end -->
 

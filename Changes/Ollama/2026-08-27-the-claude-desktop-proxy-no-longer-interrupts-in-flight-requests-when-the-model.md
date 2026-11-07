@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eec4013a7b359b4973ae8a04ad552d2808afb4bb1fa767157f70520ccd967c7e
+machine_hash: 5c2b1f52ebdc15d32d92a304a8ff7c7f7b37494194cb7339bfc8c64f3a5eb497
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,9 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native
-  visual capabilities enable the model to observe interfaces, rendering…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
-  Support changes in v1.0.81]]'
+- '[[Changes/Krea/2026-08-27-gemini-omni-flash-1-1|Gemini Omni Flash 1.1]]'
+- '[[Changes/Krea/2026-08-27-minimax-h3-and-minimax-h3-max|MiniMax H3 and MiniMax
+  H3 Max]]'
 - '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
   we’re gonna start letting everyone test our first V8.2 image edit model!]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-27-v0-33-2-github-377616419-7d5d1169|ollama-2026-08-27-v0-33-2-github-377616419-7d5d1169]]'

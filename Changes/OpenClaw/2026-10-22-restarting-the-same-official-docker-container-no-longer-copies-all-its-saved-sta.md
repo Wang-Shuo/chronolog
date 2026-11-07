@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0f42996faaaed79fc274b6d8cfcc104f99b852ffdf30a94d6dd5a56aff20ef1b
+machine_hash: c84ffc928ec947f1bc2718e973ac5fdec98b18601afafa4507be4898eed43491
 product: openclaw
 product_name: OpenClaw
 record:
@@ -50,10 +50,10 @@ record:
     state…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
-  Reliability and Performance changes in v2.1.304]]'
-- '[[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They
-  can work on tasks for up to 24 hours]]'
+- '[[Changes/Krea/2026-10-20-krea-3-on-ios-and-faster-text-prompts|Krea 3 on iOS and
+  faster text prompts]]'
+- '[[Changes/Superwhisper/2026-10-20-faster-cohere-transcribe-with-quicker-processing-and-improved-long-form-handling|Faster
+  Cohere Transcribe with quicker processing, and improved long-form handling]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
   Reliability and Performance changes in v2.1.309]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
+- Later: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-windows-2-9|2 Reliability and Performance changes in Raycast windows 2.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

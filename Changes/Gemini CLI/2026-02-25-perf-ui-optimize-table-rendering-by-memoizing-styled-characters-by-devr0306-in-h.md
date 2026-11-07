@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d3f522a4078f0cb7eadd55ab96e7ca8bcb278b89d109af9608ee6eadc4741f8
+machine_hash: d13a2b28526c4cd296ea0ae4dbe1f879a5f43fc4517268fe5fd7a249a4f2c4ea
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'perf(ui): optimize table rendering by memoizing styled characters'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag
-  and drop reordering of pinned tools in the project navigation bar has been…]]'
-- '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
-  Experience changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-23-new-input-device-auto-selection|New input device
+  auto-selection]]'
+- '[[Changes/Superwhisper/2026-02-24-add-keyboard-shortcut-support-for-intlyen-intlro-convert-fix-keyf-binding-confli|Add
+  keyboard shortcut support for IntlYen, IntlRo, Convert + Fix KeyF binding conflict]]'
 - '[[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8
   Interface Experience changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

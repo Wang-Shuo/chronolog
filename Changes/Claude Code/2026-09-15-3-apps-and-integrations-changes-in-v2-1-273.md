@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7f8326ad0d80d975980196c45be3b20c6df499d3f2ac892f60ac73139f214bb
+machine_hash: 4b690ca009d95e9223f82ea4274c17b1e7641458c276b53887714afa20d93611
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
-- '[[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]'
+- '[[Changes/Raycast/2026-09-14-store-added-update-details-showing-which-extensions-were-updated-skipped-removed|Store
+  : Added update details showing which extensions were updated, skipped…]]'
+- '[[Changes/Raycast/2026-09-14-2-apps-and-integrations-changes-in-raycast-macos-2-4|2
+  Apps and Integrations changes in Raycast macos 2.4]]'
 - '[[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce
   in Claude (beta)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'

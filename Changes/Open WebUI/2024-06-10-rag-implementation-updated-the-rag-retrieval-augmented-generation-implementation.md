@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd5ae8323e5908d3d9033a75fb8dfbd18452a1c80c071efa7bda34cbec97e985
+machine_hash: 0e45d0959bc3ec7b02132c310cdb56e8f80071573d55340f8296b4e028e0fd3b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,9 @@ record:
   title: "**\U0001F4DD RAG Implementation**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-22-phi-3-mini-128k-https-ollama-com-library-phi3-mini-128k-and-phi-3-medium-128k-ht|Phi-3
-  Mini 128K((source link) and Phi-3 Medium…]]'
 - '[[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow
   to config max segmentation tokens length for RAG document using environment variable]]'
+- '[[Changes/Devin/2024-05-29-knowledge|Knowledge]]'
 - '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
   context pills to chat messages, so you can see what will be/was used]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-10-v0-3-0-github-159582186-c823064c|open-webui-2024-06-10-v0-3-0-github-159582186-c823064c]]'

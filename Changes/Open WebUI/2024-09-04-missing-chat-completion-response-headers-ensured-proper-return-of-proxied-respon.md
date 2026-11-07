@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b430d36d44f72de87067fa5c98d5e6e35a8058789a8b140a662f3eef9f1dd809
+machine_hash: 55e7cfef1590540f4febc6d88cd41e0b84bbd48c724488719f6be462177c6072
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,11 +43,11 @@ record:
   title: "**\U0001F504 Missing Chat Completion Response Headers**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
-  changes in 0.7.1]]'
 - '[[Changes/Descript/2024-08-27-general-editor-updates|General Editor updates]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
   can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- '[[Changes/Devin/2024-09-03-send-devin-code-reviews-in-product|Send Devin code reviews
+  in product]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822|open-webui-2024-09-04-v0-3-17-github-173470375-c2cf3822]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You can now edit Claude's changes before accepting! When he edits or creates…]]
+- Earlier: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-send-devin-code-reviews-in-product|Send Devin code reviews in product]]
 - Later: 2024-09-05 · Cline · [[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude's changes now appear in your file's Timeline, allowing you to easily view…]]
 <!-- chronolog:end -->
 

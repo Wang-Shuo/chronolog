@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f3afc4acbe9b58debec63b9a258c0a62e97723f06c5bf43b817428390d28a91
+machine_hash: 8837f369c6b7fd52c00d72f741e750e3e71eea84d83c3ca1f02b32e6af1ca53d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     identity…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-20-support-two-oauth-login-methods-kimi-ai-and-kimi-com|Support
-  two OAuth login methods — kimi.ai and kimi.com]]'
+- '[[Changes/Wispr Flow/2026-08-21-a-sign-in-flow-that-actually-works-android|A Sign-In
+  Flow That Actually Works (Android)]]'
 - '[[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core
   Fixed OpenCode device login links when servers return relative verification…]]'
 - '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT

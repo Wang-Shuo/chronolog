@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3927a854f7c2cf47cd092cf3cdd588cfb128b87ad1eaa45a9704f419aa50578
+machine_hash: 826227b330c86b7d4ef8ca26554ebeec83ca57a34340c13f35d612a01ecfa02f
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in 0.5.1
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-20-8-model-support-changes-in-v0-1-21|8 Model Support
-  changes in v0.1.21]]'
 - '[[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes
   in 0.5.0]]'
+- '[[Changes/Superwhisper/2024-01-24-when-creating-new-mode-from-template-language-model-will-be-turned-on-by-default|When
+  creating new mode from template language model will be turned on by default]]'
 - '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
   pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
 source_release: '[[Releases/Dify/dify-2024-01-25-0-5-1-github-138569774-95222c7f|dify-2024-01-25-0-5-1-github-138569774-95222c7f]]'
@@ -88,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.1
 ## Nearby in Model Support
 
 - Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
-- Later: 2024-01-26 · Dify · [[Changes/Dify/2024-01-26-3-model-support-changes-in-0-5-2|3 Model Support changes in 0.5.2]]
+- Later: 2024-01-25 · Superwhisper · [[Changes/Superwhisper/2024-01-25-cloud-models-shown-in-language-models-view|Cloud models shown in language models view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

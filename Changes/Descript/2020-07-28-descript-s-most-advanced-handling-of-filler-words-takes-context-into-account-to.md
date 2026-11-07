@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4b0c59b7afe752bf99d9158ac52031c7dd3bc2222a0ca2a40d206fa5c409125
+machine_hash: c62a9169589829262a8b08c61f0c08b9545425c3c20c9b2a5190a6722200f1a1
 product: descript
 product_name: Descript
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
-- Later: 2021-11-18 · Synthesia · [[Changes/Synthesia/2021-11-18-you-can-now-right-click-on-any-canvas-element-slides-or-image-and-select-from-th|Context menu for quicker interactions]]
+- Later: 2021-03-08 · Raycast · [[Changes/Raycast/2021-03-08-calculator|Calculator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb3891cbefcfddf38df65c6f1173cfb96fa996bb88ae049d545671c084f3d1be
+machine_hash: 137591b4b73e33e93015c264aaaf3917598b4add74804eda695b3cda1b06d7ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
     `python`…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-developer-workflow-changes-in-rust-v0-92-0|2 Developer
-  Workflow changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-developer-workflow-changes-in-v0-0-396|2
   Developer Workflow changes in v0.0.396]]'
+- '[[Changes/Raycast/2026-01-27-2-developer-workflow-changes-in-raycast-windows-0-43|2
+  Developer Workflow changes in Raycast windows 0.43]]'
 - '[[Changes/v0/2026-01-27-projects-connected-to-your-actual-app-with-code-environment-variables-deployment|Projects
   : connected to your actual app, with code, environment variables…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'

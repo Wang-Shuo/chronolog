@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efd06844ecdb445c1cb538582b79bc59a586971f30c74bb0e66f7a51539031dc
+machine_hash: bab33ea0884a4617d1088a8411a6c2ed3a4aabbd0037d125c73cb28522b484ff
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.77.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
-  3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
 - '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
   in 0.47.x]]'
 - '[[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma
   3((source link) Google Gemma 3 model is now available…]]'
+- '[[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows
+  Prevent user from accidentally setting the models directory inside the LM…]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.77.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-11 · Ollama · [[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma 3((source link) Google Gemma 3 model is now available…]]
+- Earlier: 2025-03-12 · LM Studio · [[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows Prevent user from accidentally setting the models directory inside the LM…]]
 - Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-deep-research-is-now-powered-by-gemini-2-0-flash-thinking-experimental-and-avail|Deep Research is now powered by Gemini 2.0 Flash Thinking (experimental)…]]
 <!-- chronolog:end -->
 

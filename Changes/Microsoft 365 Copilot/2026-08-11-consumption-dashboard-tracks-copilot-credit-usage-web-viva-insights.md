@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a2b7ceaa100a9d8e61a968cdc03142bb4e2c69314021ca6abc8750bfaca64640
+machine_hash: 072274cbf5823ded2a9b324cabfe2cd80facb293be088a32511a48e7b2424eca
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report Fable 5 cost on Vertex as unknown rather than applying Anthropic's list…]]
-- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing and checkout show actionable payment errors, scope-appropriate upgrade…]]
+- Later: 2026-08-13 · Recraft · [[Changes/Recraft/2026-08-13-cost-18-credits-per-generation-for-480p-and-41-credits-for-720p|Cost: 18 credits per generation for 480p and 41 credits for 720p]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

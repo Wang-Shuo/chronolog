@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68420837f9b12bc1dd6187072666bbbd59b2ea2a85e4ff9170d747e28e3c635b
+machine_hash: 19937b5be183bb9006c1fb90299e17f9a86f78ae7f8368d6f74440777581aa65
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local session history is safer for compressed rollouts, renamed titles, pathless…]]
-- Later: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid persisting empty resume sessions]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-focus-use-pause-focus-session-resume-focus-session-and-complete-focus-session-to|Focus: Use Pause Focus Session , Resume Focus Session and Complete Focus Session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

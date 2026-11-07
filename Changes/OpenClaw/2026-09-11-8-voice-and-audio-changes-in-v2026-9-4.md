@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18e24f35c37a4cb13790a7e918e790879133565c417f82a969020bc23dda898a
+machine_hash: f5320c10f1e50e551d5da02bd6a4bb3a9c68f7c5c140243e0c4ab1e602b53c45
 product: openclaw
 product_name: OpenClaw
 record:
@@ -87,10 +87,10 @@ record:
   title: 8 Voice and Audio changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and
-  Audio changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
   and Audio changes in rust-v0.154.0]]'
+- '[[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation:
+  Improved reliability when the active audio device changes]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-choose-deepgram-flux-to-turn-incoming-voice-notes-into-text-your-cla|Choose
   Deepgram Flux to turn incoming voice notes into text your Claw can use…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
@@ -163,7 +163,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
+- Earlier: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation: Improved reliability when the active audio device changes]]
 - Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time voice: Improved connection stability, reducing the likelihood…]]
 <!-- chronolog:end -->
 

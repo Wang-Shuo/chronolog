@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32f8d647f466b1f246f5153cd7dd206987d5543d3969459293d726a96b10be82
+machine_hash: 82309e37ae4519624a89a19f66325cc45d91edd8e9a06d0d31e29d78ff852c98
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-custom-domain-error-handling|Custom domain error handling]]
-- Later: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance improvement of UI during long sessions]]
+- Later: 2025-01-06 · LM Studio · [[Changes/LM Studio/2025-01-06-mlx-updates-apple-silicon|MLX updates (Apple Silicon)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

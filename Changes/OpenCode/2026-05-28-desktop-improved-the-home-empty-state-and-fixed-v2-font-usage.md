@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37419b97714e11632f36ef7040d25b0ab5b4cabaa55e3940b26c767fd455e26f
+machine_hash: 2997d2b25d1f5b3ffb7e6d39ce487dff4cf142ef66345e1b35712c49ddfe1e89
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard correctly copies CJK and supplementary-plane Unicode characters on Windows]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|🥾 Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]
+- Later: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-snippet-expansion-finally-comes-to-ios-use-your-favorite-keyword-across-the-rayc|Snippet Expansion finally comes to iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

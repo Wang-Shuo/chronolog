@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6d997aab134171f53e3109eb795d42994183cdce3fa2b58be99b09d504d29350
+machine_hash: ccad68b68150e8523acade5500b35276ffea85226d9610e7a5910fa44e71a574
 product: notion
 product_name: Notion
 record:
@@ -66,10 +66,11 @@ record:
   title: New API integrations with IFTTT, atSpoke & more
   type: change
 related_changes:
-- '[[Changes/Synthesia/2020-11-02-zapier-enables-you-to-hook-up-synthesia-to-other-apps-and-send-users-personalize|Our
-  Zapier integration is ready!]]'
-- '[[Changes/Notion/2021-05-13-zapier-integration|Zapier integration]]'
 - '[[Changes/Notion/2021-05-13-typeform-integration|Typeform integration]]'
+- '[[Changes/Raycast/2021-05-26-4-apps-and-integrations-changes-in-raycast-macos-v1-1-16-0|4
+  Apps and Integrations changes in Raycast macos-v1 1.16.0]]'
+- '[[Changes/Raycast/2021-06-03-snippets-expansion-now-works-with-non-activating-apps-e-g-spotlight|Snippets:
+  Expansion now works with non-activating apps e.g. Spotlight]]'
 source_release: '[[Releases/Notion/notion-2021-06-29-https-www-notion-com-releases-2021-06-29-e080ed59|notion-2021-06-29-https-www-notion-com-releases-2021-06-29-e080ed59]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -109,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-typeform-integration|Typeform integration]]
-- Later: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with Back]]
+- Earlier: 2021-06-03 · Raycast · [[Changes/Raycast/2021-06-03-snippets-expansion-now-works-with-non-activating-apps-e-g-spotlight|Snippets: Expansion now works with non-activating apps e.g. Spotlight]]
+- Later: 2021-07-01 · Raycast · [[Changes/Raycast/2021-07-01-window-management-use-presets-to-assign-default-hotkeys-of-magnet-rectangle-or-s|Window Management: Use presets to assign default hotkeys of Magnet, Rectangle…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

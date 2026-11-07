@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 324d451434d51da0ccadb89e22df371083a693fc1f6d28b10f948549ec594b19
+machine_hash: b4407acd7747ecc7d7bb9e54a00726827048b36e0f8c0655ceffd26fe6b85c0b
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -120,9 +120,8 @@ record:
   title: DeepSeek-V4.1-Flash Release
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-09-04-brand-system-styling-moves-from-templates-to-ai-studio|Brand
-  System styling moves from Templates to AI Studio]]'
 - '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
+- '[[Changes/Krea/2026-09-07-realtime-director|Realtime Director]]'
 - '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
   adapters preserve initial Anthropic text and thinking, keep images…]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-09-10-2026-09-10-3c3f563a|deepseek-api-2026-09-10-2026-09-10-3c3f563a]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53d59a7ba84ed241703c806baa71aa5f4b86a8e10048716aa9bf26debd265e48
+machine_hash: 4279e4d9e9c7cb27881e07b07e74e83778e896f55354f9cca5f298ce6202fe37
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
   title: 3 Model Support changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
-  the chat tab now offers]]'
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
 - '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
   in v4.1.25]]'
+- '[[Changes/Krea/2026-10-16-topaz-starlight-fast-3-video-enhancer|Topaz Starlight
+  Fast 3 video enhancer]]'
+- '[[Changes/Krea/2026-10-16-krea-3-is-the-default-image-model|Krea 3 is the default
+  image model]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: model-support
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes in v4.1.25]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-krea-3-is-the-default-image-model|Krea 3 is the default image model]]
 - Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI reasoning with tools]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4ec85aeaf539e46c03355ab296f34e44d0eb82540f340bd6d4e0225a495d42f
+machine_hash: e152c521c6e3006248cd17e16b1fd6dcd76de5bfceeba599811c51a0c8da0376
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
-- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
-  started is easy]]'
+- '[[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-settings-quickly-find-extensions-commands-an|Finally,
+  we built search for Raycast Settings]]'
+- '[[Changes/Raycast/2026-05-13-finally-we-built-search-for-raycast-s-settings-quickly-find-extensions-commands|Finally,
+  we built search for Raycast’s settings]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'

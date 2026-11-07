@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a29ce06146d2a4fb72ed54236ace6cd45e143f064b890381fb130d05912e9ec9
+machine_hash: ba13b82fc40cffabb6ebcb4846ad4d0bd168892850a21a917f8987cf50ba8778
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Include your entire codebase in context
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM
-  Granite 3.3((source link)]]'
 - '[[Changes/Ollama/2025-04-26-increased-default-context-window-to-4096-tokens|Increased
   default context window to 4096 tokens]]'
+- '[[Changes/AnythingLLM/2025-05-06-add-option-to-control-koboldcpp-max-response-tokens-by-shatfield4-in-https-githu|Add
+  option to control KoboldCPP max response tokens]]'
 - '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
   changes in v0.83.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'

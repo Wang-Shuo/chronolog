@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bca7289e86f93a038a21ab4547eeb6aa90ed88b61a0470e31f0634c5e64178e4
+machine_hash: e3aec4ad61c63f3e9d6dcb1e5b3c737fec7828587b9818e05643718e35c04dae
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Interaction improvements
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
-  Interface Experience changes in v1.0.71]]'
-- '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
-  an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
+- '[[Changes/Raycast/2026-07-16-ai-mentions-get-preserved-when-copying-a-selection-in-the-ui|AI
+  : @-mentions get preserved when copying a selection in the UI]]'
+- '[[Changes/Raycast/2026-07-16-2-interface-experience-changes-in-raycast-windows-0-69|2
+  Interface Experience changes in Raycast windows 0.69]]'
 - '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
   /resume in the agent view now opens a picker of past sessions]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'

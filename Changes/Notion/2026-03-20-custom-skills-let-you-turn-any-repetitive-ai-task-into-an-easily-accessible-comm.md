@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e88faeef20618ce154f1c2b20e92009c76b8db70cca0b352b0d151a91bfa3cd8
+machine_hash: 64acde51115fc899ea95ed3e768e44fa6682eb1f11e42fb06fb7838e35ced02b
 product: notion
 product_name: Notion
 record:
@@ -62,12 +62,11 @@ record:
   title: Custom skills for Notion AI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
 - '[[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature
   tips tooltip during thinking state]]'
 - '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
   Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-parent-child-session-grouping|Parent/Child Session Grouping]]'
 source_release: '[[Releases/Notion/notion-2026-03-20-https-www-notion-com-releases-2026-03-20-9459655d|notion-2026-03-20-https-www-notion-com-releases-2026-03-20-9459655d]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2 Interface Experience changes in rust-v0.116.0]]
+- Earlier: 2026-03-19 · Devin · [[Changes/Devin/2026-03-19-parent-child-session-grouping|Parent/Child Session Grouping]]
 - Later: 2026-03-20 · v0 · [[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved git sync workflow with simplified PR menu]]
 <!-- chronolog:end -->
 

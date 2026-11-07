@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 70cbbc403b94ebd53ffbfb8a04bfef2c3d4a4905147125f3a1746fcd8d6e4f2a
+machine_hash: 8bc0e1bafef5f94a1742b7218ee1010e659623a3343dc2c7e48508af0faa05ba
 product: gemini
 product_name: Gemini
 record:
@@ -51,10 +51,10 @@ record:
   title: Bard with Gemini Pro is coming to more languages
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-26-3-model-support-changes-in-0-5-2|3 Model Support changes
-  in 0.5.2]]'
 - '[[Changes/Ollama/2024-01-26-stable-lm-2-https-ollama-ai-library-stablelm2-a-state-of-the-art-1-6b-small-lang|Stable
   LM 2((source link)]]'
+- '[[Changes/Superwhisper/2024-01-30-no-longer-send-empty-results-to-llm|No longer
+  send empty results to LLM]]'
 - '[[Changes/Dify/2024-02-01-4-model-support-changes-in-0-5-3|4 Model Support changes
   in 0.5.3]]'
 source_release: '[[Releases/Gemini/gemini-2024-02-01-2024-02-01-5fc0b24c|gemini-2024-02-01-2024-02-01-5fc0b24c]]'

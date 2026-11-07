@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 851435254800b9a2d8ee9de13e0034fd09f47f5b1bdc369a58b05d9dcd093717
+machine_hash: c2a61d25960d04da14388f3b40b26aed97a406b1c7c96bc05e0c90603dbdd122
 product: cline
 product_name: Cline
 record:
@@ -75,8 +75,8 @@ record:
     agents…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search
-  and Browsing changes in v0.4.0]]'
+- '[[Changes/AnythingLLM/2024-11-26-duckduckgo-web-search-agent-skill-support-by-shatfield4-in-https-github-com-mint|DuckDuckGo
+  web search agent skill support]]'
 - "[[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|\U0001F50D
   Query Generation Issue]]"
 - '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]]
-- Later: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-add-vector-search-api-endpoint-by-timothycarambat-in-https-github-com-mintplex-l|Add vector search API endpoint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

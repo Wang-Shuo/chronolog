@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33838385e8323392a3629e9a757803648e86825f620753b87c4677562958e187
+machine_hash: 8c8b3f343d0ae4742423c28d9f6ce8405d4d3f97d33d4ee8fde8a86351b17b09
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
-  Workflow changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
   Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-archiving-closes-child-sessions-prs|Archiving Closes
+  Child Sessions'' PRs]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2
   Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'

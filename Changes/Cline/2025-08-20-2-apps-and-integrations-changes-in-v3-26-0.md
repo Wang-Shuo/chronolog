@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00579d826a6a477df2d0e754ab7c51efdc994f9f64c296b8caea2ad061db6f17
+machine_hash: 20eac51a03fc50cfc942b813bb6867013204e9e645abb0a24893f41d5ba2d94b
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Apps and Integrations changes in v3.26.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41
-  Apps and Integrations changes in v0.1.21]]'
+- '[[Changes/Devin/2025-08-16-enhanced-linear-integration|Enhanced Linear Integration]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps
   and Integrations changes in v0.1.22]]'
 - '[[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your

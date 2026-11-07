@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c73958327214c914f86cf7b53ddaccb4f85c8a4f6ec7b6e8e33dab3c04c34026
+machine_hash: 0849f22e7c0deceab89b2c271028fc5fbdd4eedc884488766c185b2239771d77
 product: qoder
 product_name: Qoder
 record:
@@ -44,8 +44,7 @@ record:
   title: 'File review: Reduced CPU usage when multiple code diffs are expanded alongside…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
-  OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
+- '[[Changes/Devin/2026-09-11-azure-devops-citations|Azure DevOps Citations]]'
 - '[[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer
   Workflow changes in v2026.9.4]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer your Claw’s questions and enter secrets from the terminal, with clearer…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Later: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-system-new-toggle-airplane-mode-command-to-switch-airplane-mode-on-and-off-strai|System : New Toggle Airplane Mode command to switch airplane mode on and off…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

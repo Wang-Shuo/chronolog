@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 933e200df69205c7a70095a9d95d74e6b19b0d5038e0b05bb25f716e90b471e7
+machine_hash: b68c5d136810ce399d459a8629800ec691417066c9f6aef2fa218a2d8d41cc89
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
     faster
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
-  Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-windows-0-53|2
+  Reliability and Performance changes in Raycast windows 0.53]]'
 - '[[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose
   where your app runs with publishing geography]]'
 - '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved

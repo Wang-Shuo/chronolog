@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eca9f40d5abd13c0ceb2e06fd6058fb2d9a7bac122d8230f6ec6dba9dcad6e09
+machine_hash: 86721462e622c7bde6124f651a09745aeca2e576227328a7a0589b8ecad66853
 product: lovable
 product_name: Lovable
 record:
@@ -58,12 +58,12 @@ record:
   title: See adoption by department without SCIM
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude
-  Tag Added public Slack channels Claude hasn''t joined to the Claude Tag…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model
   picker marks your administrator-managed model as the default when it is available]]'
 - '[[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your
   workspaces into an organization]]'
+- '[[Changes/Devin/2026-10-21-request-access-link-for-repositories-not-yet-in-devin|Request-access
+  Link for Repositories Not Yet in Devin]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-21-2026-10-21-0cb42267|lovable-2026-10-21-2026-10-21-0cb42267]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your workspaces into an organization]]
+- Earlier: 2026-10-21 · Devin · [[Changes/Devin/2026-10-21-request-access-link-for-repositories-not-yet-in-devin|Request-access Link for Repositories Not Yet in Devin]]
 - Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2 Enterprise and Administration changes in v2026.10.6]]
 <!-- chronolog:end -->
 

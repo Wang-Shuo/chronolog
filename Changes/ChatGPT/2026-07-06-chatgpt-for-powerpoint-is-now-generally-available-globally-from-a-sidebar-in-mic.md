@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 988771bc8836bedfa663047bc337ac5fb5ddda57dce05a2536ef240dacc082fa
+machine_hash: de4e3830586b1cf2494c09dac6febca3d917a83c75ca5503182009c814de182b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,10 +77,10 @@ record:
   title: ChatGPT for PowerPoint is now generally available
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account
-  and Access changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
+- '[[Changes/Devin/2026-07-01-this-release-also-includes-numerous-bug-fixes-across-the-platform-including-fixe|This
+  release also includes numerous bug fixes across the platform]]'
 - '[[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account
   and Access changes in v0.10.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'

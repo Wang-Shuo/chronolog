@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a64b4eda34758fa9b40e936398710fbe446d48ac6df5da8774a4f788157e8748
+machine_hash: e7193ece329594f0bc96fb74b40bb5ee4a3b65903e2b3b67dccfba9ee529215c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -87,8 +87,8 @@ record:
   title: 13 Files and Data changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create
-  Excel spreadsheets from Copilot Notebooks Windows…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-you-can-now-search-contents-of-text-documents-from-within-file-searc-8dbcea|File
+  Search : You can now search contents of text documents from within File Search…]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
   Bring README.md over from Agent Canvas]]'
 - '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
@@ -175,7 +175,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714 app-server: document thread and turn IDs are UUID7 @owenlin0]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
+- Later: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-new-installations-now-use-superwhisper-instead-of-documents-superwhisper-as-thei|New installations now use ~/superwhisper instead of ~/Documents/superwhisper…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

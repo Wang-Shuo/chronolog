@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5106fbe5a7e7b2a26b5b0bc670b11528253fc32c0eabedcac37fb964867e312
+machine_hash: e3597b8a37ced3a887b4bec6e06364d62a2eb18a6322c4e699be22119b16398c
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
     back…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
-  changes in v3.12.0]]'
 - '[[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added
   new editor-diff, editor-whole, and editor-diff-fenced edit formats]]'
+- '[[Changes/Devin/2025-04-17-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with-a-summ|Devin
+  knows your codebase and will comment on each ticket in minutes with a summary…]]'
 - '[[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases

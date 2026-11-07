@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7c21a1c8bed8b3eeba0cc1c558d88c5f5019c81cb95ee6404632b82d27449af
+machine_hash: fb69256dfeada63d70f9ad23960f4b04ee6b4b06484ec1f369e7bf2366ba4292
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Agent Mode changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
-  1.14.0]]'
+- '[[Changes/Superwhisper/2026-04-29-added-support-for-pi-coding-agent|Added support
+  for Pi coding agent]]'
 - '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
 - '[[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent
   Mode changes in rust-v0.128.0]]'

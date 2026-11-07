@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f9f13ee3884337cd56abb96753daf163e5e70f110929891f01f0f253fa70926c
+machine_hash: c48b3488f118f06399481cad146f4246a2cce38f2575237a64c74faaa6e79701
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,7 @@ record:
   title: Connect more MCP servers
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
+- '[[Changes/Devin/2026-07-31-slack-access-defaults|Slack Access Defaults]]'
 - '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
 - '[[Changes/Notion/2026-07-31-post-a-recap-to-slack-or-email-with-decisions-and-next-steps|Post
   a recap to Slack or email with decisions and next steps]]'

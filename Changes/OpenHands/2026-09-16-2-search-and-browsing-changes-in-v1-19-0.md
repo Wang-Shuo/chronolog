@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7da1093fd623a619d0d783dd89507b39922bb9ed2a33e3cb4e53edcd9184406
+machine_hash: 8d29592ad71ab9f78a5bfae568b6c8555234fd615960f85f5553263f235155f8
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Search and Browsing changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
-  Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
 - '[[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search
   and Browsing changes in v2026.9.4]]'
+- '[[Changes/Devin/2026-09-16-read-only-customize-view|Read-only Customize View]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add
   --json to copilot plugin list, copilot plugin marketplace list…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

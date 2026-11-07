@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1237454ad252865241f2932c5c7d24cc082c3ff75ce10cfeb11e24820b17f2b8
+machine_hash: ad034e46d98aedb73dc832b86032abc3caab509b940fb60dbd68d7df503b629f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,11 +45,11 @@ record:
   title: "**\U0001F6E0️ Tool Parameters Issue**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
-  and Performance changes in 0.10.1]]'
 - '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
 - '[[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4
   Reliability and Performance changes in v0.3.33]]'
+- '[[Changes/Superwhisper/2024-10-25-massive-performance-improvements-for-recording-window-waveform|Massive
+  performance improvements for Recording Window waveform]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0|open-webui-2024-10-26-v0-3-35-github-182094418-98702ef0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-4-reliability-and-performance-changes-in-v0-3-33|4 Reliability and Performance changes in v0.3.33]]
+- Earlier: 2024-10-25 · Superwhisper · [[Changes/Superwhisper/2024-10-25-massive-performance-improvements-for-recording-window-waveform|Massive performance improvements for Recording Window waveform]]
 - Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-improved-file-handling-in-http-requests-your-http-requests-within-workflows-are|Improved File Handling in HTTP Requests: Your HTTP requests within workflows…]]
 <!-- chronolog:end -->
 

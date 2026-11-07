@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c7464352f5bfc8ebe3ea820ee97c913b365845e5780f8b03d8180487b3552230
+machine_hash: 257efbbc41271f7a475dd1320df4d5fd4b72cb983d617b491164d9f8ef8005d7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: New Settings to allow disabling conversation history and knowledge
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal
-  Fix autocomplete reopening after backspace deletes space in terminal UI]]'
+- '[[Changes/Raycast/2026-01-12-ai-quickly-jump-to-questions-in-the-chat-from-the-title-menu|AI:
+  Quickly jump to questions in the chat from the title menu]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b63cea60af8532f55775331764743c63d69f6a6340fceae506b7f12738d4fbf8
+machine_hash: f7905efdc131dadfcf12e5d418f9370f82e487832112286fd65e16608a8e4f4e
 product: windsurf
 product_name: Windsurf
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-23 · Kimi Code · [[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate web client localStorage access and split the root state store and app…]]
-- Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove syntax highlighting from shell commands in the timeline]]
+- Later: 2026-06-24 · Devin · [[Changes/Devin/2026-06-24-split-view-auto-disable-on-narrow-panels|Split View Auto-Disable on Narrow Panels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dd3df0205d7fcff146fb31a41ba14dd8c6ea4544529d447ae79d86452c57cdf
+machine_hash: cfbeb54e5225d0bf2e34616ee157b50103d2b6884d227b7a24cb08d787e5789d
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
     can…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
-  Workflow changes in v2.1.157]]'
+- '[[Changes/Devin/2026-05-29-disable-review-analysis-for-merged-and-closed-prs|Disable
+  Review/Analysis for Merged and Closed PRs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
 - '[[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support

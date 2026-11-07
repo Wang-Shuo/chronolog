@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32d55b0fe63b8479076b7b5641a3cc327324843aa2d63b083a6a548ae2e55433
+machine_hash: 6ab31341c2dff69ed38319e4402ae928d07077b77f5da77fa0e02385f5ad8cb4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     in /context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
-  /autocompact to save the auto-compact window per model, so each model…]]'
+- '[[Changes/Raycast/2026-10-02-ai-improved-context-handling-in-very-long-conversations|AI:
+  Improved context handling in very long conversations]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-context-window-changes-in-v1-0-92|2 Context
   Window changes in v1.0.92]]'
 - '[[Changes/Codex CLI/2026-10-07-9-context-window-changes-in-rust-v0-161-0|9 Context

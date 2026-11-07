@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bc5e6fc03e20829cb36b7cb115250d60ad4b2f1d102f1fb1fbaea72a7042f59
+machine_hash: 929e9e381a66adedd31f52959bd11322af7edada618f3473a6f7404e64882ce5
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Remote Control session names now use your hostname as the default prefix…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP
-  tool calls display tool name and parameter summary in the timeline]]'
 - '[[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors:
   Aikido, GitLab, and AWS S3]]'
 - '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
   Hex, Confidence, and PostHog]]'
+- '[[Changes/Devin/2026-04-03-enterprise-mcp-registry-enforcement|Enterprise MCP Registry
+  Enforcement]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors: Hex, Confidence, and PostHog]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-enterprise-mcp-registry-enforcement|Enterprise MCP Registry Enforcement]]
 - Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-3-apps-and-integrations-changes-in-v1-3-15-1|3 Apps and Integrations changes in v1.3.15 + 1]]
 <!-- chronolog:end -->
 

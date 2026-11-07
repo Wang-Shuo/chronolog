@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11b7fff89446c32007bb2c12486dfe669f95733a97f3a589975a8e4ef3eab060
+machine_hash: 0fd00275a85482b03f08008a9a2a6599243089838431eab370099eb26c708402
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat: pin a favorite sidebar page as the home route]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-6-interface-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|6 Interface Experience changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-multi-select-tag-filters|Multi-Select Tag Filters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

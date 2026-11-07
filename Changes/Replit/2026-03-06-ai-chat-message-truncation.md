@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dac032ddd7101864cff9fcd1dad7011aec034dbbe893aa7c1e7c43549edef93a
+machine_hash: 34c9e4545e1d267552002453251d43d2f3ce3f0a0e8a7604ce63e05cc53e8298
 product: replit
 product_name: Replit
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop Remove keyboard shortcut tooltips from new session and new workspace buttons…]]
-- Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface Experience changes in v1.2.21]]
+- Later: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-install-devin-as-an-app|Install Devin as an App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

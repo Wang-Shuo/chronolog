@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d27f55703f35f92d02c3d4d3c220160a155af8a6fcad42e7bddec5db5f562ed3
+machine_hash: a1360ef132d33d54e02daaf2ed87fc3c56e6d5eb1eb87d96981eeb73069ae6ba
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -46,8 +46,8 @@ record:
   title: See email attachments as pills in Copilot search results [Windows…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
-  and Browsing changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-x-web-browsing-is-now-enabled-by-default-for-agents|x
+  Web browsing is now enabled by default for agents]]'
 - '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
   Search and Browsing changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved

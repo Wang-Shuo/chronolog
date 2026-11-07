@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3feab03bf3becc88a03a43d098a34af13946e4a94f4b0b8f3e028dd30924a29b
+machine_hash: 2bb7091e59b82e565f634e11a3f30352112e1847c9408a57cfec88d600fb1aa3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -72,10 +72,10 @@ record:
   title: 14 Developer Workflow changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer
-  Workflow changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4
-  Developer Workflow changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-pr-links-respect-your-pr-link-preference-everywhere|PR
+  Links Respect Your PR-Link Preference Everywhere]]'
+- '[[Changes/Devin/2026-09-25-azure-devops-pipeline-logs-and-self-hosted-servers|Azure
+  DevOps: Pipeline Logs and Self-Hosted Servers]]'
 - '[[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed
   /recap to decline with a short notice when it arrives relayed from a chat…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'

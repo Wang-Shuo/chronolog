@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad19d1863d56734b72f09d9ff174d56e91a5d6fd8325e183443f6f2881d15cef
+machine_hash: b39d96b38260cc6e8ffec80730fc924f2cbdaf3ad747cc470c5bfad30b819f0f
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer
-  personal folder access management]]'
-- '[[Changes/Lovable/2026-06-18-change-nameservers-for-a-domain-bought-through-lovable|Change
-  nameservers for a domain bought through Lovable]]'
 - '[[Changes/Lovable/2026-06-18-publish-and-install-private-npm-packages|Publish and
   install private npm packages]]'
+- '[[Changes/Devin/2026-06-19-user-only-pr-author-enforcement|"User Only" PR Author
+  Enforcement]]'
+- '[[Changes/Krea/2026-06-19-organizations-in-private-beta-for-enterprise|Organizations
+  in private beta for enterprise]]'
 source_release: '[[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|replit-2026-06-19-2026-06-19-ff036602]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-publish-and-install-private-npm-packages|Publish and install private npm packages]]
+- Earlier: 2026-06-19 · Krea · [[Changes/Krea/2026-06-19-organizations-in-private-beta-for-enterprise|Organizations in private beta for enterprise]]
 - Later: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-verified-domain-teammates-now-join-projects-with-the-right-workspace-role|Verified-domain teammates now join projects with the right workspace role]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9a4cdb7929c9ff28c08c43449b24c8e37c9572bdeb182d524b95b500c67c2aa
+machine_hash: eea9733b2011f78fe04aac6c9fa52705c6f5151ac3769ec86c92d6408c9e3aba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#39283 Document secure devcontainer DNS exfiltration risk @copyberry'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added
-  support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]'
-- '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
-  Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
+- '[[Changes/AnythingLLM/2026-08-13-feat-folder-upload-with-relative-paths-preserved-in-document-manager-by-angelplu|feat:
+  folder upload with relative paths preserved in document manager]]'
 - '[[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and
   Data changes in v1.14.0]]'
+- '[[Changes/Raycast/2026-08-19-file-search-file-detail-previews-now-show-document-thumbnails-pdfs-keynote-pages|File
+  Search : File detail previews now show document thumbnails…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: file-data
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and Data changes in v1.14.0]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-file-search-file-detail-previews-now-show-document-thumbnails-pdfs-keynote-pages|File Search : File detail previews now show document thumbnails…]]
 - Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-ci-bump-agent-canvas-chart-image-tag-on-release-by-aivong-openhands-in-https-git|ci: bump agent-canvas chart image tag on release]]
 <!-- chronolog:end -->
 

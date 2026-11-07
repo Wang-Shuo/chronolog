@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae11ecfd12cfb93970eb4d7676e60e6816bb9ff9c33fa8f854ccb477ac3c48fa
+machine_hash: 211eda165a1cdc1f8e3c2472271412a705b4a6ec08191105e95de3ab10d426e3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed
-  for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]'
-- '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
-  improvements]]'
+- '[[Changes/Devin/2026-02-13-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Superwhisper/2026-02-13-whisper-model-stability-improvements|Whisper
+  model stability improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
   memory usage from encoding streaming chunks]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'

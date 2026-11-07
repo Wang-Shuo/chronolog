@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04ab561ac2164f0d110b1e8d7abd97d8b7caf30ff04fd75e915f689a44862eb3
+machine_hash: e90f1dc4dce93f8e598da842adc892685eac2b8cccd614f316df2bf06de225c2
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v0.1.42
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved
-  prompts when no files have been added to chat to solicit LLM file suggestions]]'
 - '[[Changes/Dify/2024-06-04-9-model-support-changes-in-0-6-10|9 Model Support changes
   in 0.6.10]]'
 - '[[Changes/Open WebUI/2024-06-05-2-model-support-changes-in-v0-2-5|2 Model Support
   changes in v0.2.5]]'
+- '[[Changes/Superwhisper/2024-06-06-vocabulary-support-for-all-models-whisperkit-deepgram|Vocabulary
+  support for all models (whisperkit/deepgram)]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-07-v0-1-42-github-159315151-bc8bbbed|ollama-2024-06-07-v0-1-42-github-159315151-bc8bbbed]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-05 · Open WebUI · [[Changes/Open WebUI/2024-06-05-2-model-support-changes-in-v0-2-5|2 Model Support changes in v0.2.5]]
+- Earlier: 2024-06-06 · Superwhisper · [[Changes/Superwhisper/2024-06-06-vocabulary-support-for-all-models-whisperkit-deepgram|Vocabulary support for all models (whisperkit/deepgram)]]
 - Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
 <!-- chronolog:end -->
 

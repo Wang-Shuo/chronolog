@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1166db6ea8681f47f152e10d582411baaedba70b4b7c5ca6113a29dbf643f589
+machine_hash: 382b702556cc527190709f9bf272a7ddee748315353f9f93cf67ce49f3cff802
 product: midjourney
 product_name: Midjourney
 record:
@@ -58,10 +58,9 @@ record:
   title: SHARED FOLDERS
   type: change
 related_changes:
-- '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
-  API credits for Max and Team plans]]'
 - '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
   changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-microsoft-teams|Microsoft Teams]]'
 - '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
   changes in rust-v0.162.0]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888|midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888]]'

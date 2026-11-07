@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4a2a102d15e05b52b6e3c7c2af09e77cc779273dd8ed3e5748f154bde60be40
+machine_hash: e8cd2501bc47d5e6e9ea990315ccf4b5a9c25937f73c700243c9da30d9aaaa98
 product: descript
 product_name: Descript
 record:
@@ -41,12 +41,12 @@ record:
   title: Released a fix for an issue where the editor text would flicker after scrolling…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-05-11-we-re-happy-to-announce-the-launch-of-quick-editor-https-help-descript-com-hc-en|Quick
-  Editor]]'
 - '[[Changes/Descript/2021-05-12-you-can-now-edit-properties-of-multiple-clips-e-g-scale-position-volume-at-the-s|Batch
   clip editing]]'
 - '[[Changes/Notion/2021-05-13-un-indenting-nested-bullets-and-numbered-lists-with-shift-tab-or-the-button-on-m|Un-indenting
   nested bullets and numbered lists with Shift + Tab or the  / ← button…]]'
+- '[[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets:
+  Expansion preserves the delimiter, if entered to trigger completion]]'
 source_release: '[[Releases/Descript/descript-2021-07-07-6390c9b34a4a0d64fa5643fc-85a0f392|descript-2021-07-07-6390c9b34a4a0d64fa5643fc-85a0f392]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-un-indenting-nested-bullets-and-numbered-lists-with-shift-tab-or-the-button-on-m|Un-indenting nested bullets and numbered lists with Shift + Tab or the  / ← button…]]
+- Earlier: 2021-06-03 · Raycast · [[Changes/Raycast/2021-06-03-snippets-expansion-preserves-the-delimiter-if-entered-to-trigger-completion|Snippets: Expansion preserves the delimiter, if entered to trigger completion]]
 - Later: 2021-07-27 · Notion · [[Changes/Notion/2021-07-27-write-run-code-in-notion-with-the-replit-embed|Write & run code in Notion with the Replit embed]]
 <!-- chronolog:end -->
 

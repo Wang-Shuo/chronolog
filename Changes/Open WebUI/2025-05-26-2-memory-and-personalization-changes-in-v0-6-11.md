@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd4ff064f8772bbc29b238f8087ed0b73577c80f8e450f95ae99435f96f18ef5
+machine_hash: 3f14f1dd7b99ebafd3b10b11fe32988ac51940e648ba3f17c6775cbdc3fd51b2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,12 @@ record:
   title: 2 Memory and Personalization changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-05-01-more-about-omni-reference|More about Omni-Reference]]'
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved
   memories and Chat history are offered only to Plus and Pro…]]'
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
   memory rolling out to all Plus and Pro users (including the EU)]]'
+- '[[Changes/LM Studio/2025-05-23-add-offload-kv-cache-to-gpu-memory-option-to-model-load-options-and-gpu-settings|Add
+  "Offload KV Cache to GPU Memory" option to model load options and GPU settings]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
 source_type: github_releases
 theme: memory
@@ -97,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced memory rolling out to all Plus and Pro users (including the EU)]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-add-offload-kv-cache-to-gpu-memory-option-to-model-load-options-and-gpu-settings|Add "Offload KV Cache to GPU Memory" option to model load options and GPU settings]]
 - Later: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-refined-memory-error-handling-enhanced-stability-during-memory-related-operation|🧠 Refined Memory Error Handling]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 492ee20ce357f665cb1fa3d2385bef9b222fe0697103b687c2cf8ffa39fbec99
+machine_hash: 87763c61577fb9afe3d974c1e0bbd74949ba71ea1c2ba4f8ace234883fc70241
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,11 @@ record:
     live…'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
-  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
 - '[[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2
   Interface Experience changes in Kimi Code 0.36.0]]'
+- '[[Changes/Devin/2026-08-14-sidebar-improvements|Sidebar Improvements]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-14-0-36-1-37f91abb|kimi-code-2026-08-14-0-36-1-37f91abb]]'
 source_type: kimi_code_changelog
 theme: interface-experience
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2 Interface Experience changes in Kimi Code 0.36.0]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-sidebar-improvements|Sidebar Improvements]]
 - Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]
 <!-- chronolog:end -->
 

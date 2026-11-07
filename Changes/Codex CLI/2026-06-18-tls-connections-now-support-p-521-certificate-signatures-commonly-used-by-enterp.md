@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3ad70bbfb791302f7d5cf59d2277018cbbf1e581ba1c3daa90e297da22cee327
+machine_hash: b71bbdf0da6d773df23c91a7a2b1c105641b10c01cfd674aa6a6c916c3e97668
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     enterprise…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to
-  Lovable]]'
-- '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
-  for workspace members]]'
 - '[[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator,
   Pro, and Enterprise plans: up to 5 concurrent generations]]'
+- '[[Changes/Krea/2026-06-16-zero-data-retention-available-for-krea-enterprise-api|Zero
+  Data Retention available for Krea enterprise API]]'
+- '[[Changes/Devin/2026-06-17-enterprise-knowledge-limit-increased-to-300|Enterprise
+  Knowledge Limit Increased to 300]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-creator-pro-and-enterprise-plans-up-to-5-concurrent-generations|Creator, Pro, and Enterprise plans: up to 5 concurrent generations]]
+- Earlier: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-enterprise-knowledge-limit-increased-to-300|Enterprise Knowledge Limit Increased to 300]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer personal folder access management]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d771abe37fce1ecd456dde3a1393d150b7a83f4d5f7e4a0d772d1433ec3c1748
+machine_hash: b9a423080d3e92e4949c175ddcb8e18b944b13afc4c1b7a4e2ff965bf3a5012a
 product: cline
 product_name: Cline
 record:
@@ -57,10 +57,10 @@ record:
     providers
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
-  usage is always shown in the chat input]]'
 - '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
   Window changes in rust-v0.25.0]]'
+- '[[Changes/LM Studio/2025-08-28-3-context-window-changes-in-lm-studio-0-3-24|3 Context
+  Window changes in LM Studio 0.3.24]]'
 - '[[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window
   changes in v0.6.26]]'
 source_release: '[[Releases/Cline/cline-2025-08-29-v3-26-7-github-243606037-1d3100d2|cline-2025-08-29-v3-26-7-github-243606037-1d3100d2]]'

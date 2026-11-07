@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b69893fc21fabfe4ba62c0fac4df9369bcd1731ca4e481844f85c9d9f05489ee
+machine_hash: bbeab0af7e27c7f9cdc92678f054a98f4e2f3e4aba120133c24c8873eaadb477
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Gemini 3.6 Flash is now the default model for your app's AI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed
-  model can be displayed or hidden (hidden by default)]]'
 - '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
 - '[[Changes/Kimi Code/2026-07-22-2-model-support-changes-in-kimi-code-0-29-0|2 Model
   Support changes in Kimi Code 0.29.0]]'
+- '[[Changes/LM Studio/2026-07-22-2-model-support-changes-in-lm-studio-0-4-20|2 Model
+  Support changes in LM Studio 0.4.20]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-22-2026-07-22-3071ca78|lovable-2026-07-22-2026-07-22-3071ca78]]'
 source_type: lovable_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-2-model-support-changes-in-kimi-code-0-29-0|2 Model Support changes in Kimi Code 0.29.0]]
+- Earlier: 2026-07-22 · LM Studio · [[Changes/LM Studio/2026-07-22-2-model-support-changes-in-lm-studio-0-4-20|2 Model Support changes in LM Studio 0.4.20]]
 - Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model Support changes in v1.0.74]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65e20cbef10c3a888e272d483f4afcfaaf531966731800a5c7b5cc418c1421b9
+machine_hash: 72304af6798d960b390661005761eef07e9a2e13998a64120305199a56d41a31
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Agent Mode changes in v1.0.8
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-5-agent-mode-changes-in-1-13-1|5 Agent Mode changes in
-  1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0|7 Agent Mode changes
   in v0.34.0]]'
 - '[[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You
   can ask your OpenClaw to run tasks using claude with subagents]]'
+- '[[Changes/AnythingLLM/2026-03-18-5-agent-mode-changes-in-v1-11-2|5 Agent Mode changes
+  in v1.11.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512|github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You can ask your OpenClaw to run tasks using claude with subagents]]
+- Earlier: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-5-agent-mode-changes-in-v1-11-2|5 Agent Mode changes in v1.11.2]]
 - Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode changes in rust-v0.116.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d5b72e720a3856993694bf8bb4bbf3c1e61c4ab1e363ab5a8032ef06b13ad80
+machine_hash: 60031ef5a2c3a767923324fab14a9f0bf405a5703334e616d86ed3d5cdd3028c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session
-  resume picker correctly groups sessions by branch and repository on first use]]'
 - '[[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop
   Added keyboard navigation and shortcuts to the question dock]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
   command picker no longer flickers or shifts the input while filtering]]'
+- '[[Changes/Raycast/2026-04-07-misc-added-keyboard-shortcut-for-create-new-inside-list-views-n|Misc
+  : Added keyboard shortcut for create new inside list views (⌘+N)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash command picker no longer flickers or shifts the input while filtering]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine onboarding metrics to log the duration explicitly and use the tier name]]
+- Earlier: 2026-04-07 · Raycast · [[Changes/Raycast/2026-04-07-misc-added-keyboard-shortcut-for-create-new-inside-list-views-n|Misc : Added keyboard shortcut for create new inside list views (⌘+N)]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-consolidated-session-header-menu|Consolidated Session Header Menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

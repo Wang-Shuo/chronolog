@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a95de28c9b651f8eba9db5c3ce031b4af33e5854e2413a2143c8cf3251ff615e
+machine_hash: 490980f25b72cf3afe07a876ec92cfd3b957f6a2af48a5f43ded3f16024fc843
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: 'chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove
-  references to the non-existent kimi resume command from the scheduled-task…]]'
-- '[[Changes/Notion/2026-07-24-notion-workers-run-custom-code-on-notion-s-infrastructure-to-sync-data-power-too|Notion
-  Workers run custom code on Notion''s infrastructure to sync data, power tools…]]'
-- '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
-  Automation and Scheduling changes in v0.11.0]]'
+- '[[Changes/Devin/2026-07-29-slack-dms-with-automation-devins|Slack DMs with Automation
+  Devins]]'
+- '[[Changes/Devin/2026-07-29-simpler-automation-channel-access|Simpler Automation
+  Channel Access]]'
+- '[[Changes/Devin/2026-07-29-playbooks-scoped-to-the-right-organization|Playbooks
+  Scoped to the Right Organization]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9 Automation and Scheduling changes in v0.11.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-playbooks-scoped-to-the-right-organization|Playbooks Scoped to the Right Organization]]
 - Later: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]
 <!-- chronolog:end -->
 

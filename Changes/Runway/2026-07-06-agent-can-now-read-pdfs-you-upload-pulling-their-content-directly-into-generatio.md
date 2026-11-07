@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cc647a380440c64a74b51852416f7f286e8f72e55245c55707214f355fa7a52c
+machine_hash: fa301c0380b9252aaa8226abe728ab235a2b34910c1482eae45d2a2c0a6eacba
 product: runway
 product_name: Runway
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes in 1.9.0]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]]
+- Later: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-agent-escape-enter-shortcuts-now-respond-only-when-the-relevant-window-is-focuse|Agent Escape/Enter shortcuts now respond only when the relevant window is focused]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

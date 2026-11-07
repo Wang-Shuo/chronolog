@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d961e85d698ceb9bdb754faf210bc711e5c120d604bf94ead4b19db3288aa92
+machine_hash: 39a44c5e8ed1d4c5aa7e1fa5d7ae5b71311d8413ca4a87e5d3bcaee110ab0b21
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved rendering speed of long bulleted or numbered replies
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
-  Reliability and Performance changes in v2.1.287]]'
-- '[[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance
-  2.5 Draft Mode in Agent]]'
-- '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
-  Reliability and Performance changes in v2.1.290]]'
+- '[[Changes/Raycast/2026-10-05-10-reliability-and-performance-changes-in-raycast-macos-2-6|10
+  Reliability and Performance changes in Raycast macos 2.6]]'
+- '[[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u|We
+  made several memory and performance improvements]]'
+- '[[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u-d6328e|We
+  made several memory and performance improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2 Reliability and Performance changes in v2.1.290]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-we-made-several-memory-and-performance-improvements-raycast-s-host-process-now-u-d6328e|We made several memory and performance improvements]]
 - Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]
 <!-- chronolog:end -->
 

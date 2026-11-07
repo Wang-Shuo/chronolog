@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52b9ec12a36cc70f349b32d108dd957bf4b08325fa3e94f2b53e13d83f291f42
+machine_hash: 9146f106332e36d310e2f38ef42406a6e1d260275c8a69e2d34704dd16a4733a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved brief mode to retry once when Claude responds with plain text instead…]]
-- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose where your app runs with publishing geography]]
+- Later: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-macos-0-53|2 Reliability and Performance changes in Raycast macos 0.53]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

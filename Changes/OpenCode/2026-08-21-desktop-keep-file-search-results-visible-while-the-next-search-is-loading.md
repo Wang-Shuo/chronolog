@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e72e5528cb16e2fb2a1a2be15f0f5b01a1989717a896ea77a99fffe356b7ad4
+machine_hash: 9fb211f69a207d3548d9d01b0100947173bc513706b3edd7b87d612d8f6f7e07
 product: opencode
 product_name: OpenCode
 record:
@@ -41,10 +41,10 @@ record:
   title: Desktop Keep file search results visible while the next search is loading
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
-  OpenAI-compatible Responses API now supports web search]]'
 - '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
   code]]'
+- '[[Changes/Raycast/2026-08-19-game-launcher-new-game-launcher-command-to-browse-every-installed-game-and-launc|Game
+  Launcher : New Game Launcher command to browse every installed game…]]'
 - '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
   Enabled web search when using the OpenCode Go provider]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-21-v1-18-21-8d952695|opencode-2026-08-21-v1-18-21-8d952695]]'

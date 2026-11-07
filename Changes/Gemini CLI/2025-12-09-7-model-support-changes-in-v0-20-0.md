@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 477dcbe6764769b99184049fa5ed55e6a50cb3a65e818cc85d4ce28c67d4e00a
+machine_hash: 6599f34d8018fc8739b45362c794949ca033e804b65dd53313009efe8912dc26
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,9 +57,10 @@ record:
   title: 7 Model Support changes in v0.20.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-04-gpt-5-1-codex-max|GPT-5.1-Codex Max]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max
-  is now available in GitHub Copilot CLI]]'
+- '[[Changes/Raycast/2025-12-05-4-model-support-changes-in-raycast-ios-1-2-0|4 Model
+  Support changes in Raycast ios 1.2.0]]'
+- '[[Changes/AnythingLLM/2025-12-09-6-model-support-changes-in-v1-9-1|6 Model Support
+  changes in v1.9.1]]'
 - '[[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model
   Support changes in rust-v0.66.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'
@@ -110,7 +111,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.20.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model Support changes in rust-v0.66.0]]
-- Later: 2025-12-09 · Ollama · [[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support changes in v0.13.3]]
+- Later: 2025-12-09 · LM Studio · [[Changes/LM Studio/2025-12-09-support-for-essentialai-s-rnj-1-model|Support for EssentialAI's rnj-1 model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

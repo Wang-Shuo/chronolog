@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8c4f9a620236ba26e3376f3e9ec3a18913c586b923f9a00f0bfcd0e2e922f3c8
+machine_hash: 4ef7b8045ca6ae5f66af61b7f8e9b23610b455055cc9039cf8b4e3b6a7e288e5
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: Add new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add
-  Gemini Flash models to Vertex provider (thanks @jpaodev!)]]'
 - '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
   in v0.75.0]]'
+- '[[Changes/AnythingLLM/2025-03-04-4-model-support-changes-in-v1-7-5|4 Model Support
+  changes in v1.7.5]]'
 - '[[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support
   changes in v0.5.19]]'
 source_release: '[[Releases/Cline/cline-2025-03-06-v3-6-0-github-204247296-85b4def6|cline-2025-03-06-v3-6-0-github-204247296-85b4def6]]'

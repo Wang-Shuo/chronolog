@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19fff56a30a64f401eb43b3008f865ec0a613181361b77d2c6a8a133645ce91a
+machine_hash: a3d7d25cd1aba80f5a8a346991284b4e4ff0339b937cf1371d56c54495ee52bb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,11 @@ record:
   title: 3 Apps and Integrations changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-08-improved-the-error-message-when-an-enterprise-user-adds-an-integration-they-don|Improved
-  the error message when an Enterprise user adds an integration they don''t…]]'
 - '[[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps
   and Integrations changes in v2.1.2]]'
 - '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
   Apps and Integrations changes in rust-v0.80.0]]'
+- '[[Changes/Devin/2026-01-09-native-linear-integration|Native Linear Integration]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -112,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2 Apps and Integrations changes in rust-v0.80.0]]
+- Earlier: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-native-linear-integration|Native Linear Integration]]
 - Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps and Integrations changes in v1.1.10]]
 <!-- chronolog:end -->
 

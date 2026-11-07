@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27103ed4fb27fbc6bc3d015906782f8ac246ad5724c6be84571310f4d5283de6
+machine_hash: a8f13ee832a9f083601805bbc2130dae16bda2750b18a026221fc096a461b11f
 product: aider
 product_name: Aider
 record:
@@ -43,9 +43,8 @@ record:
   title: Aider is better at offering to add files to the chat on Windows
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]'
-- "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
-  Font Change for Windows]]"
+- '[[Changes/Devin/2024-07-15-general-ui-improvements|General UI Improvements]]'
+- '[[Changes/Devin/2024-07-15-devin-mobile-improvements|Devin Mobile Improvements]]'
 - '[[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar
   on Android]]'
 source_release: '[[Releases/Aider/aider-2024-07-18-v0-45-0-github-166117451-6702cfa2|aider-2024-07-18-v0-45-0-github-166117451-6702cfa2]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-07-17 · Notion · [[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar on Android]]
-- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-4-mobile-and-desktop-changes-in-v1-0-0|4 Mobile and Desktop changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

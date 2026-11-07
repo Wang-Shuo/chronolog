@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ef0c4dcd5e4d5e29932cfc9179d71354eb2fb6d0a2f9c001b4a499d6a1849ad
+machine_hash: a83f47996b4b0cb0fa2b272d1f5abc129919bf23a8586caeadd86dac85599b11
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,8 +41,7 @@ record:
   title: Stop showing unread dots on cancelled or failed sessions in the web sidebar
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
-  /config toggle behavior]]'
+- '[[Changes/Devin/2026-06-19-devin-review-for-gitlab|Devin Review for GitLab]]'
 - '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
   members can download a chat''s code as a ZIP from the project menu]]'
 - '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4 Interface Experience changes in rust-v0.142.0]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
+- Later: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-2-interface-experience-changes-in-superwhisper-windows-1-5-1|2 Interface Experience changes in Superwhisper Windows 1.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

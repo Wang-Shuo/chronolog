@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19215e14f3bd0332d2dcf746ed1de7dd4ceb253aefe832517aacd9d2194989cd
+machine_hash: c9ccbd84e93ce3eb986d8a568e3d33de38d4ef23087fb5fef5d78ddae2a6d405
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 'perf: optimize save_document_with_dataset_id'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs:
-  Document proxy settings]]'
 - "[[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|\U0001F40D
   SentenceTransformers embedding initialization was fixed by updating…]]"
+- '[[Changes/AnythingLLM/2025-12-09-feat-add-base64-document-attachment-support-to-api-chat-endpoints-by-naaa760-in|feat:
+  add base64 document attachment support to API chat endpoints]]'
 - '[[Changes/Dify/2025-12-11-5-files-and-data-changes-in-1-11-0|5 Files and Data changes
   in 1.11.0]]'
 source_release: '[[Releases/Dify/dify-2025-12-12-1-11-1-github-269775785-2add8858|dify-2025-12-12-1-11-1-github-269775785-2add8858]]'

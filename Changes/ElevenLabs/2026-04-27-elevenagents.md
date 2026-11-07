@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 629293784978001d66b1371054d4748a78102529af887d6f157350f101b4917b
+machine_hash: 3f9205b2242a5e3d5e2c8bb3b266ca9fa6c3434e9b3743e82bbbde85286b75dd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -187,7 +187,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-voice-and-audio-changes-in-v0-9-0|4 Voice and Audio changes in v0.9.0]]
+- Earlier: 2026-04-24 · Wispr Flow · [[Changes/Wispr Flow/2026-04-24-copy-button-after-dictation-android|Copy button after dictation (Android)]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode Voice dictation now respects the accessibility.voice.speechLanguage…]]
 <!-- chronolog:end -->
 

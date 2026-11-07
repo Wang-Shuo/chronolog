@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e77458ec9ae879b23b84ad5db5966168b6ff34a8f837eee5a06109d7335072ee
+machine_hash: 713d4a40e1ee7ca46df98781dde775fbb0dcf78b812baf787dd88f34ae421a85
 product: notion
 product_name: Notion
 record:
@@ -43,8 +43,8 @@ record:
   title: Added caption support for code blocks on mobile
   type: change
 related_changes:
-- '[[Changes/Descript/2020-10-21-with-descript-s-new-screen-recording-utility-you-can-now-take-screen-recordings|Screen
-  Recorder]]'
+- '[[Changes/Raycast/2020-11-19-we-now-prevent-the-app-from-silently-being-terminated-by-macos-under-certain-con|We
+  now prevent the app from silently being terminated by macOS under certain conditions]]'
 - "[[Changes/Notion/2020-11-24-new-widgets-for-ios-14|New widgets for iOS 14 \U0001F4CC]]"
 - "[[Changes/Notion/2020-12-02-mac-app-for-apple-silicon|Mac App for Apple Silicon
   \U0001F4BB]]"

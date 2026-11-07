@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19fc49acf66867684119a69c3a9bb9d79f04eb7c6cf9dc575427777a6b6469a0
+machine_hash: ad466423cd3d9240c59d3773a445d1baafa9c5761ac39f4da4f5c6d66b5961df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
-  a slash command in the autocomplete menu now fills it into your prompt…]]'
-- '[[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2
-  Interface Experience changes in Kimi Code 0.9.0]]'
+- '[[Changes/Raycast/2026-06-03-emoji-picker-search-screenshots-add-zoom-support-to-customize-grid-size|Emoji
+  Picker & Search Screenshots: Add zoom support to customize grid size]]'
+- '[[Changes/Raycast/2026-06-03-2-interface-experience-changes-in-raycast-windows-0-62|2
+  Interface Experience changes in Raycast windows 0.62]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'

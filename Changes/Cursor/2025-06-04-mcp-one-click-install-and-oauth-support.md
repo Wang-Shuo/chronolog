@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f552d5e7833792607206f0888e445b5d75374666f59263e6ce8412f800372c78
+machine_hash: e787ddae1de0e5ab261202757d4fd8dee4dbdce322770a183e898477868e7eb0
 product: cursor
 product_name: Cursor
 record:
@@ -63,8 +63,8 @@ record:
   title: MCP one-click install and OAuth support
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching
-  by default]]'
+- '[[Changes/LM Studio/2025-05-23-downloading-public-presets-does-not-require-a-login-publishing-liking-forking-do|Downloading
+  public presets does NOT require a login]]'
 - '[[Changes/Open WebUI/2025-05-26-2-account-and-access-changes-in-v0-6-11|2 Account
   and Access changes in v0.6.11]]'
 - '[[Changes/Dify/2025-05-27-refactor-consolidate-flask-login-authentication-logic-by-laipz8200-in-https-gith|refactor:

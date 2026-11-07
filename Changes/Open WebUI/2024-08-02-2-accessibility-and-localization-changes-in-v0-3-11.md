@@ -5,20 +5,20 @@ description: 'Open WebUI · 2024-08-02 · Accessibility and Localization: 2 chan
   in v0.3.11 — **⌨️ Arrow Keys Model Selection**: Users can now use arrow keys for
   quicker…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 326
+  lag_days: 1352
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d43b6b13e02cedefe80d9ce52efd096ce54b3b8f776a1ce41147e4bb819245a3
+machine_hash: 1a58463b0f53c2011930363923210c08d36ce1dff2bdf9c8da3c3648b61b7ead
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Accessibility and Localization changes in v0.3.11
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-27-enhanced-internationalization-i18n-improved-korean-translation-and-updated-chine|\U0001F310
-  Enhanced Internationalization (i18n)]]"
 - "[[Changes/Open WebUI/2024-06-30-enhanced-internationalization-i18n-newly-introduced-indonesian-translation-and-u|\U0001F310
   Enhanced Internationalization (i18n)]]"
 - "[[Changes/Open WebUI/2024-07-09-language-updates-updated-translations-for-indonesian-german-french-and-catalan-l|\U0001F310
   Language Updates]]"
+- '[[Changes/AnythingLLM/2024-07-26-2-accessibility-and-localization-changes-in-v1-0-0|2
+  Accessibility and Localization changes in v1.0.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -91,14 +91,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-language-updates-updated-translations-for-indonesian-german-french-and-catalan-l|🌐 Language Updates]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-2-accessibility-and-localization-changes-in-v1-0-0|2 Accessibility and Localization changes in v1.0.0]]
 - Later: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-language-updates-added-malay-bahasa-malaysia-translation-and-updated-catalan-and|🌍 Language Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

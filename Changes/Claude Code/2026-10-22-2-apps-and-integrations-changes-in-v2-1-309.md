@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57566377d4b644e94d19874317ef77a9319ef0b73bdf6738678b5d125215ffbd
+machine_hash: 176f0fd1ac5fc9f1ee90ec8a258a2d10be5cc34818cf8065e75cea289c26be9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3
-  Apps and Integrations changes in v2.1.307]]'
+- '[[Changes/Devin/2026-10-21-gerrit-webhooks-installed-automatically|Gerrit Webhooks
+  Installed Automatically]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2
   Apps and Integrations changes in v1.0.102]]'
 - '[[Changes/Kimi Code/2026-10-21-3-apps-and-integrations-changes-in-kimi-code-2-3-0|3

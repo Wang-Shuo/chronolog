@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46de067442bbff43367fa9884bd79083d2818b189dc16ee9c76a8100cd704759
+machine_hash: def40840e36b54ce3907e2cc66229e809ff063a858e13281d004e5804770f419
 product: openhands
 product_name: OpenHands
 record:
@@ -48,11 +48,12 @@ record:
     to sandbox…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-30-vulnerability-scanner-b19b70|Vulnerability Scanner]]'
 - '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
   and Privacy changes in v2.1.126]]'
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
   users can discover and opt in]]'
+- '[[Changes/Devin/2026-05-01-snapshot-revert-for-declarative-setup|Snapshot Revert
+  for Declarative Setup]]'
 source_release: '[[Releases/OpenHands/openhands-2026-05-01-1-7-0-github-316415064-290087ee|openhands-2026-05-01-1-7-0-github-316415064-290087ee]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-snapshot-revert-for-declarative-setup|Snapshot Revert for Declarative Setup]]
 - Later: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core Agents can use the global temp directory without extra permission prompts]]
 <!-- chronolog:end -->
 

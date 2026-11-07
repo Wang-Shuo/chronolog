@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 35f4f430798539bfa49be6bcb08d088fc2b1261f0554e2080e14f7f3c6690764
+machine_hash: bbd6663e21d7d23da39afcc13fefb30f906462b83035fc416800f122c0ebf035
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Video Stack
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image
-  generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]'
 - '[[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation
   changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
   Chat toggles now control built-in tools. Users can now disable web search…]]'
+- '[[Changes/Recraft/2026-02-18-we-ve-just-launched-recraft-v4-our-most-advanced-image-generation-model-yet-it-s|We’ve
+  just launched Recraft V4, our most advanced image generation model yet]]'
 source_release: '[[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|replit-2026-02-20-2026-02-20-4b4b553e]]'
 source_type: replit_changelog
 theme: image-generation
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️ Chat toggles now control built-in tools. Users can now disable web search…]]
+- Earlier: 2026-02-18 · Recraft · [[Changes/Recraft/2026-02-18-we-ve-just-launched-recraft-v4-our-most-advanced-image-generation-model-yet-it-s|We’ve just launched Recraft V4, our most advanced image generation model yet]]
 - Later: 2026-02-27 · Runway · [[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano Banana 2]]
 <!-- chronolog:end -->
 

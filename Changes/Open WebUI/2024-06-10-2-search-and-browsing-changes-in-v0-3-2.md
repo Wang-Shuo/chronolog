@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2506628c63aa514c0dc3162bb59acbb6e65156a285704e9da3b0908de302ed45
+machine_hash: de7647b3fc85d4635a3cf02f46c29ccd7c96a932f1a1bdb1daf7689d267e3e12
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Search and Browsing changes in v0.3.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
+- '[[Changes/Raycast/2024-03-07-ai-chat-automatic-web-search-preference-is-remembered-across-new-chats|AI
+  Chat: Automatic Web Search preference is remembered across new chats]]'
 - "[[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|\U0001F50D
   Web Search Support]]"
 - "[[Changes/Open WebUI/2024-06-04-searxng-web-search-fixed-the-issue-where-the-searxng-web-search-functionality-wa|\U0001F50D

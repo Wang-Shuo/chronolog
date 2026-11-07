@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e8dc81639d8d5eec7c23a53acd0b501c6ae54aed9abe825e380949257c48085
+machine_hash: d8ddea96e37c2740e97e76cd5431d06e4763d48f527dbe4568e26c2b5c7419e1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-11-04-navigate-to-your-workbook-changes-directly-from-the-copilot-chat-pane-response-w|Navigate
-  to your workbook changes directly from the Copilot chat pane response…]]'
 - '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
   prompt-cache misses across completion, heartbeat and background turns…]]'
 - '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
   bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
+- '[[Changes/Recraft/2026-11-05-sunburst-keeps-edits-consistent-so-the-details-you-didn-t-ask-to-change-stay-unt|Sunburst
+  keeps edits consistent, so the details you didn''t ask to change stay…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]
+- Earlier: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-sunburst-keeps-edits-consistent-so-the-details-you-didn-t-ask-to-change-stay-unt|Sunburst keeps edits consistent, so the details you didn't ask to change stay…]]
 - Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-script-text-no-longer-shakes-up-and-down-while-you-edit|Script text no longer shakes up and down while you edit]]
 <!-- chronolog:end -->
 

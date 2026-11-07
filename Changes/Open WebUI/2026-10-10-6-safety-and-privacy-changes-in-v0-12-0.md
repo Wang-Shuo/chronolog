@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3329c4d269385f80d3dc64bd63746b8405be16213582a711e5ec9e54937990d
+machine_hash: 7487a7c0d1b914e95d9d08c358e89b7052b95ad4338cc1951e42615e8913bab9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,10 +84,9 @@ record:
   title: 6 Safety and Privacy changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows
-  MXC sandbox]]'
-- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
-  and Privacy changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-create-scan-and-create-profile-with-devin|Create scan
+  and Create profile with Devin]]'
+- '[[Changes/Devin/2026-10-09-manage-findings-permission|Manage findings permission]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
   config supports sandbox credential injectHosts keys, with key completion…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'

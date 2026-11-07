@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5b5ee2ff73277d5884f7217b360023a734c08d58583164765cc20092b818e1ee
+machine_hash: bb67e740cdf757f9f711795d4b2df90551a601aee8dab50d07f1f10ff55f2afe
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -106,10 +106,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
-  changes in v2.1.269]]'
-- '[[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-ai-added-auto-review-rules-for-greater-control-over-how-auto-mode-behaves|AI
+  : Added Auto-review rules for greater control over how Auto mode behaves]]'
+- '[[Changes/Raycast/2026-09-11-2-agent-mode-changes-in-raycast-macos-2-3|2 Agent
+  Mode changes in Raycast macos 2.3]]'
 - '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
   changes in v2.1.271]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-14-2026-09-14-583c2a71|elevenlabs-2026-09-14-2026-09-14-583c2a71]]'

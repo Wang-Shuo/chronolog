@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96a54aaea0ae29222a9f6ec8836347f09dc330ab688a63796dfee57f5bd84bf7
+machine_hash: 4da322d9af728d95fc88b18c83cfb669eba529f6775ed1f211af24db0bb99ecc
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,11 @@ record:
   title: 'feat: regenerate history switch navigation'
   type: change
 related_changes:
-- '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
 - '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
 - '[[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface
   Experience changes in v0.3.33]]'
+- '[[Changes/AnythingLLM/2024-10-25-enable-the-ability-to-disable-the-chat-history-ui-by-timothycarambat-in-https-gi|Enable
+  the ability to disable the chat history UI]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface Experience changes in v0.3.33]]
-- Later: 2024-11-15 · Ollama · [[Changes/Ollama/2024-11-15-athene-v2-https-ollama-com-library-athene-v2-a-72b-parameter-model-which-excels|Athene V2((source link) a 72B parameter model…]]
+- Earlier: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-enable-the-ability-to-disable-the-chat-history-ui-by-timothycarambat-in-https-gi|Enable the ability to disable the chat history UI]]
+- Later: 2024-11-01 · Devin · [[Changes/Devin/2024-11-01-to-be-successful-with-devin-upfront-investment-is-usually-required-our-new-onboa|To be successful with Devin, upfront investment is usually required - our new…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

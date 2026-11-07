@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 298d1edf1fc3e3599b2020bd6b1d8cf2d18eab50e116e190bfca6d193cc7f59a
+machine_hash: 5a2d0dcaca5a3bd54ee791be8f837fa9dfdf4bf47e12ca41ce36adc6a0c97bd6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 11 Model Support changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
-  changes in v0.8.3]]'
+- '[[Changes/AnythingLLM/2026-02-18-4-model-support-changes-in-v1-11-0|4 Model Support
+  changes in v1.11.0]]'
 - '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model
   Support changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6214f9dd54fb8da64300cf4eae521eff185cfeaf98258e6e6808713e034498b4
+machine_hash: dd14c71a6f777713058d34f79395822d043c64d8f7ac9d923d096fd1b9cc4bdf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,11 +67,11 @@ record:
   title: 12 Interface Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
-  Experience changes in v1.34.0]]'
-- '[[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2
-  Interface Experience changes in Kimi Code 2.4.0]]'
 - '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte|AI
+  Chat : Added support for searching and mentioning items from compatible AI…]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte-d73de9|AI
+  Chat : Added support for searching and mentioning items from compatible AI…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: interface-experience
@@ -139,7 +139,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte-d73de9|AI Chat : Added support for searching and mentioning items from compatible AI…]]
 - Later: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There's no longer a separate Conversation History page]]
 <!-- chronolog:end -->
 

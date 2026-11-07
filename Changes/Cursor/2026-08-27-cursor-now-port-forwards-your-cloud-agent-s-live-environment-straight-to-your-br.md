@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 05f1731210bcfc1e821c8cf1919125215d3a96b92182fd3f075779479d9170c8
+machine_hash: 961b411d8688a1a01691b55142e6006d0e4b8fc8e5c2c009e2cc67f61f7c1ae5
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: A live preview, right in the browser
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
-  Slack as an agent]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-agent-mode-changes-in-v1-16-1|2 Agent Mode changes
+  in v1.16.1]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
   changes in v2.1.248]]'
 - '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud

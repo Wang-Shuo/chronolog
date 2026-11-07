@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe8dc67165ef7d0ab6318ed1a32b06d1dd95c29874c032c415fe0f2de5b8d72e
+machine_hash: 346dfc19c70adee8b375b8073926760d06fc308910343b13186e5b4c7f51da12
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface
-  Experience changes in v0.6.17]]'
+- '[[Changes/Raycast/2025-07-21-ai-added-ability-to-delete-chat-from-within-the-chat-via-title-menu|AI
+  : Added ability to delete chat from within the chat via title menu]]'
 - '[[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]'
 - '[[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience
   changes in 1.7.0]]'

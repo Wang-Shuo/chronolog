@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e84738a9468e343993b8f3d02a0a4e42abf72378c0c3f93dad794e71ba88ae4a
+machine_hash: a416b41a2d4d2ed803f035087f14429c15dbe12b801fe4e5200ad2c7184cc946
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,11 +54,12 @@ record:
   title: 8 Model Support changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39
-  GPT-5.1 Codex Max changelog banner]]'
-- '[[Changes/Windsurf/2025-12-04-gpt-5-1-codex-max|GPT-5.1-Codex Max]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max
   is now available in GitHub Copilot CLI]]'
+- '[[Changes/Raycast/2025-12-05-4-model-support-changes-in-raycast-ios-1-2-0|4 Model
+  Support changes in Raycast ios 1.2.0]]'
+- '[[Changes/AnythingLLM/2025-12-09-6-model-support-changes-in-v1-9-1|6 Model Support
+  changes in v1.9.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: model-support
@@ -113,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max is now available in GitHub Copilot CLI]]
+- Earlier: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-6-model-support-changes-in-v1-9-1|6 Model Support changes in v1.9.1]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support changes in v0.20.0]]
 <!-- chronolog:end -->
 

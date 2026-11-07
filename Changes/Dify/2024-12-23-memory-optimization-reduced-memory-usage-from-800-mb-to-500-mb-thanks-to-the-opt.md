@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80e514a01a177610870bb5e846c1fb7484177e41700e376bc37f3197be2a5be9
+machine_hash: 43a440de056bf3ce50e0d983d2c75f7086181173996f54619938454dc5fcd478
 product: dify
 product_name: Dify
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-4-reliability-and-performance-changes-in-0-14-1|4 Reliability and Performance changes in 0.14.1]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-2-reliability-and-performance-changes-in-v0-5-0|2 Reliability and Performance changes in v0.5.0]]
+- Later: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-devin-is-now-faster-and-more-cost-efficient|Devin is now faster and more cost-efficient]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

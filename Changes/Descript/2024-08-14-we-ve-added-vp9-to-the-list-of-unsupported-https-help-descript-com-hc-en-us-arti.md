@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1260e4bc102041bc5a197a477ebeaf8f89ce40e50e52bdd9ba48f906e3672287
+machine_hash: 588f686bf06bbac4a48a2fa2ec33eb9a0b6ff6bd1f253f813955984dd9c6a91a
 product: descript
 product_name: Descript
 record:
@@ -45,9 +45,10 @@ record:
   title: Descript adds VP9 to [the list…
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-media|Media]]'
 - '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
   Alpha Text to Video]]'
+- '[[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto
+  Quit: Apps will not be automatically terminated while actively playing music…]]'
 - '[[Changes/Descript/2024-08-14-regenerate-with-sequences|Regenerate with Sequences]]'
 source_release: '[[Releases/Descript/descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9|descript-2024-08-14-66bbbc3d5113288e1d0cca63-f6dbdde9]]'
 source_type: canny_changelog
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Earlier: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-auto-quit-apps-will-not-be-automatically-terminated-while-actively-playing-music|Auto Quit: Apps will not be automatically terminated while actively playing music…]]
 - Later: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-improved-aliasing-issues-when-downscaling-images-and-video|Improved aliasing issues when downscaling images and video]]
 <!-- chronolog:end -->
 

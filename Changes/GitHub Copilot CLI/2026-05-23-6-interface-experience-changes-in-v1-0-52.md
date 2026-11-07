@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cacfc29dd4bbca23bcfa00ce2bd199ca75ecee9be9523daa95d74d92d1b06265
+machine_hash: fd9f7cb7fecb9d115db2ac79719b2d053cc331b2c419a2996be2304bed1cab1d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 6 Interface Experience changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
   Experience changes in v0.43.0]]'
 - '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
   Keep the spinner color aligned with the active agent]]'
+- '[[Changes/Superwhisper/2026-05-22-mode-change-keyboard-shortcut-helper-at-bottom-of-modes-list|Mode
+  change keyboard shortcut helper at bottom of modes list]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: interface-experience
@@ -110,7 +110,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal Keep the spinner color aligned with the active agent]]
+- Earlier: 2026-05-22 · Superwhisper · [[Changes/Superwhisper/2026-05-22-mode-change-keyboard-shortcut-helper-at-bottom-of-modes-list|Mode change keyboard shortcut helper at bottom of modes list]]
 - Later: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2 Interface Experience changes in v1.0.53]]
 <!-- chronolog:end -->
 

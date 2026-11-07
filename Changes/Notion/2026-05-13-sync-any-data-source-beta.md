@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4958f9c48d98e5a321ae9421767d6e466ec0902e6257c67e1f7aaa97de24a9cb
+machine_hash: dbc4b41575718a5b07fa5a0cc92ef0a0ab805059bea0a9a9c3677526daf8fb75
 product: notion
 product_name: Notion
 record:
@@ -73,11 +73,11 @@ record:
   title: Sync any data source (Beta)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
-  migrate workflow panel context menu primitive]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
   menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/Devin/2026-05-13-rename-context-to-skills-rules|Rename Context to Skills
+  & Rules]]'
 source_release: '[[Releases/Notion/notion-2026-05-13-https-www-notion-com-releases-2026-05-13-4c4a40f5|notion-2026-05-13-https-www-notion-com-releases-2026-05-13-4c4a40f5]]'
 source_type: notion_changelog
 theme: context-window
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-rename-context-to-skills-rules|Rename Context to Skills & Rules]]
 - Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core Keep recent turns after compaction instead of folding them into the summary]]
 <!-- chronolog:end -->
 

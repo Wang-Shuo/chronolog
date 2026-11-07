@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0738d6563409044365969b733b114226acc4b61afa8762b3fef874f03ccb82de
+machine_hash: 3add45ff9fe1f85f739a1b0b8794d89658666543622f259691510092cf961fbb
 product: aider
 product_name: Aider
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Model Support changes in v0.82.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
-  for xAI''s provider''s Grok 3 models]]'
+- '[[Changes/Recraft/2025-04-11-we-ve-added-imagen-3-as-the-latest-external-model-for-recraft-available-to-all-p|Recraft
+  adds Imagen 3 as the latest external model for Recraft, available to all…]]'
 - '[[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes
   in v3.12.0]]'
 - '[[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support

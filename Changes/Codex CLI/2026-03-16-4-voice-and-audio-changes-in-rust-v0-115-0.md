@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cee70f809cb84ad970a88c57c3bee936b3f0b0f9d19cec3455675ea8d1e3531f
+machine_hash: 584d9e92c68e59a6551532a3e63f773757616c44b3d24d143023e1ef94ea265f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Voice and Audio changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved
-  voice input transcription accuracy for repo names and common dev terms…]]'
-- '[[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved
-  voice mode to automatically retry transient connection failures during…]]'
+- '[[Changes/Superwhisper/2026-03-11-2-voice-and-audio-changes-in-superwhisper-windows-1-2-30|2
+  Voice and Audio changes in Superwhisper Windows 1.2.30]]'
+- '[[Changes/Devin/2026-03-13-new-session-inputs|New Session Inputs]]'
 - '[[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved
   /voice to show your dictation language on enable and warn…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'

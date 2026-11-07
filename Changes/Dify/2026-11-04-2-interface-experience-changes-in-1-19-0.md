@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7962393caf338921adfe1925b9e2dd32555008dda071b0ef65dfe74ed3ec86f
+machine_hash: 3863b64ec74fb4aeef1b03de7f8c56060ad02aca30ea7ffe0b53c8ff075df80d
 product: dify
 product_name: Dify
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface Experience changes in v1.35.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13 Interface Experience changes in rust-v0.167.0]]
+- Later: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-tip-assign-a-hotkey-like-alt-a-to-dictate-to-ai-for-even-quicker-access|Tip: Assign a hotkey like Alt + A to Dictate to AI for even quicker access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

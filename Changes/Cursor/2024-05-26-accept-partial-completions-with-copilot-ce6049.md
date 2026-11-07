@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82118e244672454587de7df9ff0a7419e99755e1b8ad93a9ab0cb6c767605e08
+machine_hash: 83dbbea2ab9392caa8324a362c70674c5b30d6b2eb2c6583686ed7a16d09a642
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-05-24 · Midjourney · [[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]
-- Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️ Edit Titles with Double Click]]
+- Later: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-view-code-updates|View Code Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

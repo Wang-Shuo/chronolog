@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 391099e00f9ddd5d815bd31eb5f664a4669214ed191a7e151173918b930a19b6
+machine_hash: f5140d76817476c9b691d8692e09d6c0b1dc767a162d65395be8453107d086fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,11 +53,9 @@ record:
     session histories
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
-  the previous worktree and best-of-n selection from the Editor]]'
-- '[[Changes/Lovable/2026-04-02-workspace-onboarding-and-discovery|Workspace onboarding
-  and discovery]]'
-- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
+- '[[Changes/Devin/2026-04-03-pin-sessions|Pin Sessions]]'
+- '[[Changes/Devin/2026-04-03-pr-review-polish|PR Review Polish]]'
+- '[[Changes/Devin/2026-04-03-improved-questions-ui|Improved Questions UI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced|github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-command-palette|Command palette]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-improved-questions-ui|Improved Questions UI]]
+- Later: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad|Importer: Avoid mapping hotkey characters to the number pad]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

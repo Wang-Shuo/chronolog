@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: deabdc9cc28d302c80bc43dbb5769ebd3a735b428932e2ae75fd070250ae7414
+machine_hash: 1841b864a55253c2b0d64e29bb8fa4e59f030117c0f034d44993288c22d3bf8e
 product: cursor
 product_name: Cursor
 record:
@@ -65,10 +65,9 @@ record:
   title: No-repo automations
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2
-  Automation and Scheduling changes in v0.9.3]]'
-- '[[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human
-  input — exposed selected action values for Human-in-the-loop flows]]'
+- '[[Changes/Devin/2026-05-13-miscellaneous-improvements|Miscellaneous Improvements]]'
+- '[[Changes/Raycast/2026-05-13-my-schedule-date-formatting-now-respects-the-current-locale|My
+  Schedule: Date formatting now respects the current locale]]'
 - '[[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex
   exec resume now accepts --output-schema, so resumed automations can keep…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab|cursor-2026-05-20-3-5-https-cursor-com-changelog-05-20-26-f6af79ab]]'
@@ -116,7 +115,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
-- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-custom-rrule-schedule-input|Custom RRULE Schedule Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

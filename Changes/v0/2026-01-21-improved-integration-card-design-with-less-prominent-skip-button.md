@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 348b6037bfb766fab7920a007a4a8b19b92e3dda33dffee743b450bef803a788
+machine_hash: ac1f5b23ba9371d6895899b51bd22ae4eda3514950080c02961d19df32f0b9b7
 product: v0
 product_name: v0
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10 Apps and Integrations changes in v0.25.0]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode Added native plugin management support]]
+- Later: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-5-apps-and-integrations-changes-in-v1-10-0|5 Apps and Integrations changes in v1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

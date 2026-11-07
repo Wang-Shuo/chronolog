@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1facc385a3feb97f81d685e623da8882d83af747b36b054133ef66c66ddf2660
+machine_hash: 7f84b9e606790ec3facd961973d748e1f2cd0ac2318ff4bf1cc86adc033bca36
 product: notion
 product_name: Notion
 record:
@@ -52,8 +52,8 @@ record:
   title: "Show backlinks in a popup, or hide them \U0001F5EF️"
   type: change
 related_changes:
-- '[[Changes/Descript/2020-10-02-we-ve-added-a-new-clip-properties-menu-in-the-track-inspector-which-allows-you-t|Clip
-  Properties Menu Accessible]]'
+- '[[Changes/Raycast/2020-10-21-root-search-added-initial-command-suggestions-based-on-the-onboarding-selections|Root
+  Search : Added initial command suggestions based on the onboarding selections]]'
 - '[[Changes/Descript/2020-11-10-now-you-can-drag-a-file-on-to-a-selection-of-text-to-make-sure-that-the-length-o|Drag
   file onto a selection]]'
 - '[[Changes/Descript/2020-11-10-in-addition-to-full-screen-descript-now-supports-theater-mode-on-your-published|Theater
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2020-11-10 · Descript · [[Changes/Descript/2020-11-10-in-addition-to-full-screen-descript-now-supports-theater-mode-on-your-published|Theater mode for published pages]]
-- Later: 2020-11-19 · Notion · [[Changes/Notion/2020-11-19-added-a-duplicate-button-to-the-menu-for-pages-within-databases-it-s-now-possibl|Added a Duplicate button to the ••• menu for pages within databases]]
+- Later: 2020-11-11 · Raycast · [[Changes/Raycast/2020-11-11-2-interface-experience-changes-in-raycast-macos-v1-1-1-0|2 Interface Experience changes in Raycast macos-v1 1.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

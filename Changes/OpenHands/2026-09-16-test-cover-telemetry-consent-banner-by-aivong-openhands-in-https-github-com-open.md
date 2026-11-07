@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9632bbac689dcce9a7b3259e50d92026f6250bfd9f1911e93da65b08ba649b35
+machine_hash: 0617f38bebae5332c885224a15754b7acfdcdaf20e29e4b6e43033a2ae6ce4c2
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 'test: cover telemetry consent banner'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety
-  and Privacy changes in v2.1.273]]'
 - '[[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety
   and Privacy changes in v0.60.0]]'
+- '[[Changes/Devin/2026-09-16-security-bugs-are-always-checked-in-devin-review|Security
+  Bugs Are Always Checked in Devin Review]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-17-safety-and-privacy-changes-in-v1-0-85|17
   Safety and Privacy changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f55398e4115c996fa1f25fd44cce5b28d73b257f93fba107a79543d5bff1848
+machine_hash: cbf6182d48ddb3da64a12d201e6fedaaacf9cfc1b6cb23e7662ef0e102a7ed69
 product: notion
 product_name: Notion
 record:
@@ -81,7 +81,7 @@ Source: https://www.notion.com/releases/2020-04-07
 ## Nearby in Files and Data
 
 - Earlier: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
-- Later: 2021-03-10 · Notion · [[Changes/Notion/2021-03-10-customize-font-size-in-exported-pdfs|Customize font size in exported PDFs 🔍]]
+- Later: 2020-10-07 · Raycast · [[Changes/Raycast/2020-10-07-g-suite-search-create-and-open-files|G Suite: Search, create and open files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

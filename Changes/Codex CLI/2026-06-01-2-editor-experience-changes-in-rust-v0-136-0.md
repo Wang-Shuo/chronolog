@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e2a7c8294feb21f1b553c7ddc3858e7fb35b05284685144574f72e25da24b9e
+machine_hash: 8375a708562a3dda9488aaa3bca1fb998dfab90e33a6c69f2d3c43d8846a2cb1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor
-  Experience changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed
   the "/ide for …" startup hint toast]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2
   Editor Experience changes in v1.0.56]]'
+- '[[Changes/Raycast/2026-05-29-ai-sorted-out-large-inset-when-searching-in-ai-tab|AI:
+  Sorted out large inset when searching in AI tab]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2 Editor Experience changes in v1.0.56]]
+- Earlier: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-ai-sorted-out-large-inset-when-searching-in-ai-tab|AI: Sorted out large inset when searching in AI tab]]
 - Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9 Editor Experience changes in v1.0.57]]
 <!-- chronolog:end -->
 

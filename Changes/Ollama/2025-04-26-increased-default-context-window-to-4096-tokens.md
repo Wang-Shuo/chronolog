@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e791d710b4816dfa79ae278b8678022fb744880ce8d27e6ce2ba435657ae1a6
+machine_hash: efbce346620bc6530c31ee6f13c27f5fb7c842fe632088cb7516094a6f3d7327
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Increased default context window to 4096 tokens
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved
-  rules]]'
 - '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
   in context (Beta)]]'
 - '[[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM
   Granite 3.3((source link)]]'
+- '[[Changes/LM Studio/2025-04-24-chat-sidebar-segments-context-and-model|Chat sidebar
+  segments: Context and Model]]'
 source_release: '[[Releases/Ollama/ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91|ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91]]'
 source_type: github_releases
 theme: context-window
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-ibm-granite-3-3-https-ollama-com-library-granite3-3-2b-and-8b-models-with-128k-c|IBM Granite 3.3((source link)]]
-- Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window changes in v0.83.0]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-chat-sidebar-segments-context-and-model|Chat sidebar segments: Context and Model]]
+- Later: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-add-option-to-control-koboldcpp-max-response-tokens-by-shatfield4-in-https-githu|Add option to control KoboldCPP max response tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

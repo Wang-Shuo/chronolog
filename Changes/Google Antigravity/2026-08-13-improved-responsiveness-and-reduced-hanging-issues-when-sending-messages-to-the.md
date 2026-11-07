@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e458e8db28ed3848ec1832f0de0c6af2944f26d89c673f99387da8263b460c1b
+machine_hash: 425f701388ecb7052f9dcda048be06fde5f1ab802a0c55524803f0986f1657d3
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -56,8 +56,8 @@ record:
     to the agent
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening
-  long conversations is now dramatically faster]]'
+- '[[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We
+  also made some large performance improvements, like lazy-loading of folders…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 - '[[Changes/Google Antigravity/2026-08-13-chat-responsiveness-improvements|Chat Responsiveness
   Improvements]]'

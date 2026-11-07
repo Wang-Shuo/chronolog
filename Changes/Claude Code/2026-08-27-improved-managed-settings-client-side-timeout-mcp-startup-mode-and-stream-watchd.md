@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d34355f00c6f8bba8d3d7c8d6d4036f9671b15aafa97ea5fe01889164e19616
+machine_hash: e384233ea8c3a281eea5e4af35338355baeea776b9c4151d7f9addaff7c6b139
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Improved managed settings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
-  Apps and Integrations changes in rust-v0.150.0]]'
 - '[[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect
   GitHub API by signing in with your GitHub account]]'
 - '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
+- '[[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent
+  plugin support for DeepSeek Harness]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]
+- Earlier: 2026-08-26 · Superwhisper · [[Changes/Superwhisper/2026-08-26-agent-plugin-support-for-deepseek-harness|Agent plugin support for DeepSeek Harness]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12 Apps and Integrations changes in v1.0.81]]
 <!-- chronolog:end -->
 

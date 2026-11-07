@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f85e125db9baf058928033599506aaf747a754968999c47bb514464237bc383
+machine_hash: 1a42a42af3d4c89b0a7dcc6ae04adc8dbc66c8d4afb61a1a0fdfd3031911f182
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,7 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|\U0001F50A
-  Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]"
+- '[[Changes/Raycast/2026-10-29-dictation-improved-stability|Dictation: Improved stability]]'
 - '[[Changes/Suno/2026-10-29-fine-pitch-adjustment|Fine Pitch Adjustment]]'
 - '[[Changes/Suno/2026-10-29-auto-stretch-for-added-audio|Auto-stretch for Added Audio]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'

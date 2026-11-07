@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69ee35e1c8ded4d1cf055ec6aa675565bf025ef958046bf29cecc0265ed7e132
+machine_hash: 5b6a63976ed5ffd8fa64135a73f2d303b0446b8ffb129002f4a506edea959756
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]]
-- Later: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-restore-the-turn-counter-from-persisted-loop-events-on-resume-so-post-resume-tur|Restore the turn counter from persisted loop events on resume so post-resume turns…]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-automations-slack-channel-updates|Automations: Slack Channel Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

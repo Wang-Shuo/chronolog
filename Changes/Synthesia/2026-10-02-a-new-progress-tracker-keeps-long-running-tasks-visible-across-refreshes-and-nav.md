@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c7ad2b29b05837d8b63bc96465b4f99de6a7886c25b624eef53897d95e63d39
+machine_hash: 1f871ef1d3c736c5a9768da6dc1a98581e50ea5c9c9691a4c66c191747294dae
 product: synthesia
 product_name: Synthesia
 record:
@@ -46,8 +46,9 @@ record:
   title: Track long-running tasks with Progress Tracker
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-02-organize-drag-and-drop|ORGANIZE & DRAG AND DROP]]'
-- '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
+- '[[Changes/Raycast/2026-10-02-new-navigation|New Navigation]]'
+- '[[Changes/Raycast/2026-10-02-2-interface-experience-changes-in-raycast-ios-1-3-8|2
+  Interface Experience changes in Raycast ios 1.3.8]]'
 - '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-10-02-https-www-synthesia-io-updates-track-long-running-tasks-with-pro-9561c649|synthesia-2026-10-02-https-www-synthesia-io-updates-track-long-running-tasks-with-pro-9561c649]]'
 source_type: synthesia_changelog

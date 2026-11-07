@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 924ef73193bc55a01edf1dbb256fe8ab5da66ee7f4b52e20da9d4cb75950f051
+machine_hash: a4a2816803c95dd85f77b39a9247bfc9092bfee143c863f11d0c739491c3f987
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.31
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
-- Later: 2023-12-08 · Ollama · [[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap now works when resizing the terminal with ollama run]]
+- Later: 2023-11-29 · Raycast · [[Changes/Raycast/2023-11-29-quit-all-applications-now-closes-all-finder-windows-by-default-you-can-disable-t|Quit All Applications: Now closes all Finder windows by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

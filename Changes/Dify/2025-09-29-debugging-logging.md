@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7bb3074a41b79d0646450230a42b5da5748e4bee1bf5ee21ae06920422db08a
+machine_hash: 855f1361620d6a92cf774130a5d3a78d14649a9dcceaa1a6589b9a749a025d05
 product: dify
 product_name: Dify
 record:
@@ -40,8 +40,7 @@ record:
   title: '**Debugging & Logging**'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
-  Workflow changes in rust-v0.42.0]]'
+- '[[Changes/Devin/2025-09-26-github-pr-comment-improvements|GitHub PR Comment Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
   PowerShell parsing of ForEach-Object and detection of command name…]]'
 - '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow

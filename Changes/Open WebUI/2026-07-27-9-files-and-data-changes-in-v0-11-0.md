@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a18935cb69bbaef7b321b0bfe66f4f20e842c584bea853e5aa583f6bdc0ab959
+machine_hash: 9547fee9803d48e4ab84d0612eaed7ccbfbbe886208585a9667595e5934ee3e1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,12 +82,12 @@ record:
   title: 9 Files and Data changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
-  Document the Windows exec yield time range @copyberry]]'
 - '[[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web:
   Show transparent images over a checkerboard canvas]]'
 - '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
   starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Recraft/2026-07-23-refine-paths-directly-on-the-canvas|Refine paths directly
+  on the canvas]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: file-data
@@ -154,7 +154,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
+- Earlier: 2026-07-23 · Recraft · [[Changes/Recraft/2026-07-23-refine-paths-directly-on-the-canvas|Refine paths directly on the canvas]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-3-files-and-data-changes-in-1-16-1|3 Files and Data changes in 1.16.1]]
 <!-- chronolog:end -->
 

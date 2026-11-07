@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04aa7a05f3d5625b48ed8f60f7c56fa6cbfcd1a4b07218a2c1acabc8bae12108
+machine_hash: 59c2a85a21700a365e9e1bbcf4249709e207d037a890af8488da689e02a8f74e
 product: cline
 product_name: Cline
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl performance improvements, including flash attention support by default]]
-- Later: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain verification improvements]]
+- Later: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

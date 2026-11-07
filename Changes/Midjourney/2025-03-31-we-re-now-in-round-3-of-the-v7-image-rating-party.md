@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d46e1f8ba2e9a9e52023049d8605d9b7e11fcbd4227a954f0efb0405a74d699
+machine_hash: ff89ac403941cfb206f115bc8d81e18093993e45c065ca2249f38c9b4de2fc52
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,12 +48,12 @@ record:
   title: We're now in ROUND 3 of the V7 image rating party
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer
-  mode now defaults to storing data on the filesystem instead of in-memory…]]'
 - '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
   Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
   memory condensation from settings page]]'
+- '[[Changes/LM Studio/2025-03-27-2-memory-and-personalization-changes-in-lm-studio-0-3-14|2
+  Memory and Personalization changes in LM Studio 0.3.14]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-03-31-https-updates-midjourney-com-v7-rating-party-round-3-7a38130a|midjourney-2025-03-31-https-updates-midjourney-com-v7-rating-party-round-3-7a38130a]]'
 source_type: midjourney_changelog
 theme: memory
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable memory condensation from settings page]]
+- Earlier: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-2-memory-and-personalization-changes-in-lm-studio-0-3-14|2 Memory and Personalization changes in LM Studio 0.3.14]]
 - Later: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]
 <!-- chronolog:end -->
 

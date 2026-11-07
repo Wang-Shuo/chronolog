@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac173d0567d84874eefb2e7b29edcb97de8fa840c73a5a9f5c678d0d36e3b650
+machine_hash: 8f3b0f2e76b5a292a76cf0ed391b51baa4c0334a0ed985af492f0d704d207b03
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
-- Later: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from Claude]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-axiom-mcp-server|Axiom MCP Server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

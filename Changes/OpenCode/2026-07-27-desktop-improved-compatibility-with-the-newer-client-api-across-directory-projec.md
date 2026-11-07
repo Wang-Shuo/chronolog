@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 681c34e31433b1f0daf640e2095fcd8e23b01e3ce574259abad405120a76920d
+machine_hash: 419b0646422b965c51ea83f304515e2f6024f3ad2aaf308b0c7a656071e3c245
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     project…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
+- '[[Changes/Devin/2026-07-24-required-approvals-at-a-glance|Required Approvals at
+  a Glance]]'
 - '[[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support
   the current server terminal transport]]'
 - '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer

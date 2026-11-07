@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fd3b8b914fc8255e5feee01cc0feb5f2addb5d3fbbf8fa161c50731ed761c53f
+machine_hash: 23166e2a5478bc9110f578c89973ccd6e35d7b041c7aab040ca9caef5b8084d2
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF model defined default parameters]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
+- Later: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-2-model-support-changes-in-superwhisper-windows-1-6-5|2 Model Support changes in Superwhisper Windows 1.6.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

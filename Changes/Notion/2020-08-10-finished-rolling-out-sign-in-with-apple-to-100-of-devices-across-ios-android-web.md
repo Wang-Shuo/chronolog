@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9937d9f44c81fa23eb42716358f72ba77ab62570a2c34c892010ba37b6907930
+machine_hash: badd9bcd0caff8cc2f63b7e580476fbe9d8696d6dafda5cccca81b66b275189b
 product: notion
 product_name: Notion
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
-- Later: 2021-03-08 · Descript · [[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]
+- Later: 2020-08-17 · Raycast · [[Changes/Raycast/2020-08-17-added-login-for-jira-via-the-preferences-window|Added login for Jira via the preferences window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 307e43cba474b32c5ec5a7ca23ccd2eed10afcdd34dbd6fe3d697845d794d387
+machine_hash: 7ebc71058282dbdc81f9f5aaed48fd6471d073d8be60e787d7c93c8174d8a850
 product: v0
 product_name: v0
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-12-16 · Cline · [[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate WhatsNewModal to new shared dialogue component]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221 Change “Team” to “Buisness” and add Education]]
+- Later: 2025-12-17 · Raycast · [[Changes/Raycast/2025-12-17-share-your-favorite-holiday-gifs-straight-from-the-keyboard|Share your favorite holiday GIFs straight from the keyboard!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

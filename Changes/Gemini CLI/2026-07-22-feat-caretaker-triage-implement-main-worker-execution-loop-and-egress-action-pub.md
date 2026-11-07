@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eab067396adf5335b0fda7318d2a9f640dac0766209c2b34c634ca58b09c198f
+machine_hash: 1b69dd7c97cdbb620123e74960284b579f8b4121de027c5368c6cdff2b39cbe4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,11 +45,12 @@ record:
     action publisher'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
-  setup warnings are now available as structured Doctor lint findings…]]'
-- '[[Changes/Notion/2026-07-16-what-s-on-my-schedule-today|What’s on my schedule today?]]'
-- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
-  and Scheduling changes in 1.16.0]]'
+- '[[Changes/Devin/2026-07-22-slack-channel-improvements-for-automations|Slack Channel
+  Improvements for Automations]]'
+- '[[Changes/Devin/2026-07-22-this-release-also-includes-many-smaller-fixes-and-improvements-including-icons-o|This
+  release also includes many smaller fixes and improvements, including icons…]]'
+- '[[Changes/Devin/2026-07-22-automations-consumption-visibility|Automations Consumption
+  Visibility]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718|gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
+- Earlier: 2026-07-22 · Devin · [[Changes/Devin/2026-07-22-automations-consumption-visibility|Automations Consumption Visibility]]
 - Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-remove-references-to-the-non-existent-kimi-resume-command-from-the-scheduled-tas|Remove references to the non-existent kimi resume command from the scheduled-task…]]
 <!-- chronolog:end -->
 

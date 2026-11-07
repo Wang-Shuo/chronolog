@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 544ff27613a317f1b2b2347d287ad03679c54ff0c6a1bfca6bbd6fc0c15ce520
+machine_hash: fec460259f96ff459ea327843566e95576e83b06d9f2f755d2d712cbeb0c4908
 product: gemini
 product_name: Gemini
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-09-17 · Cursor · [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor Python and Cursor Marketplace]]
-- Later: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
+- Later: 2023-09-21 · Raycast · [[Changes/Raycast/2023-09-21-root-search-support-searching-apps-by-english-names-when-using-a-non-english-lan|Root Search: Support searching apps by English names when using a non-English language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

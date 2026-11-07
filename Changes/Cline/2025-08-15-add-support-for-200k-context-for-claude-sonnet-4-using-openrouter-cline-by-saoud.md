@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 20e39b1eef3f557429dc3fc49629aba9c088e5f6edc5dfc91f56f31fad48552c
+machine_hash: 8df8408b5f92c713a5deed8af28c86ac4392fc9c29d0f4dd29b8ce232727e940
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,10 @@ record:
   title: Add support for 200k context for claude sonnet 4 using openrouter/cline
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support
-  changes in 0.52.0]]'
-- '[[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support
-  changes in v0.1.21]]'
+- '[[Changes/Raycast/2025-08-14-ai-access-qwen-models-with-the-added-preset|AI : Access
+  Qwen models with the added preset]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-model-support-changes-in-v1-8-5|2 Model Support
+  changes in v1.8.5]]'
 - '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
   Updates]]'
 source_release: '[[Releases/Cline/cline-2025-08-15-v3-25-0-github-240134710-d0776390|cline-2025-08-15-v3-25-0-github-240134710-d0776390]]'

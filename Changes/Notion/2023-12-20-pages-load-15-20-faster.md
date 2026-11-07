@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 96bdbd6525937d536146db44ef51d97ad81097d1999a6c2019699e73d4003b3a
+machine_hash: c556b0548eea43e8afdfc37f57aa9980c52dcbc29b992053bd46f5603fb015e0
 product: notion
 product_name: Notion
 record:
@@ -41,9 +41,9 @@ record:
   title: Pages load 15-20% faster
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-05-we-ve-fixed-several-bugs-related-to-the-new-wordless-media-in-the-script-that-sh|Descript
-  fixes several bugs related to the new wordless media in the script…]]'
 - '[[Changes/Descript/2023-12-05-general-updates|General Updates]]'
+- '[[Changes/Superwhisper/2023-12-13-performance-improvements-for-file-reading|Performance
+  improvements for file reading]]'
 - '[[Changes/Ollama/2023-12-14-this-release-adds-support-mixtral-and-other-models-based-on-its-mixture-of-exper|Ollama
   adds support Mixtral and other models based on its Mixture of Experts (MoE)…]]'
 source_release: '[[Releases/Notion/notion-2023-12-20-https-www-notion-com-releases-2023-12-20-24610a48|notion-2023-12-20-https-www-notion-com-releases-2023-12-20-24610a48]]'

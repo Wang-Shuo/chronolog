@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2b96e2258e313d71a44f1a312a1557ddd8023f58589e15963af999a56eae3b5
+machine_hash: a7769a0297519c55b0a0bca9a72ae5480a1248e8bb95fb45393632f59b68f113
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,10 +41,9 @@ record:
   title: Make the web chat input grow with its content and add an expandable editor…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
-  Experience changes in v1.17.11]]'
-- '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
-  edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Devin/2026-06-26-archive-unarchive-sessions-from-command-palette|Archive/Unarchive
+  Sessions from Command Palette]]'
+- '[[Changes/Devin/2026-06-26-usage-analytics-improvements|Usage Analytics Improvements]]'
 - '[[Changes/Kimi Code/2026-06-26-preserve-full-tool-output-logs-when-previews-are-truncated-and-link-background-t|Preserve
   full tool output logs when previews are truncated and link background task…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-26-0-20-1-b7b3200e|kimi-code-2026-06-26-0-20-1-b7b3200e]]'

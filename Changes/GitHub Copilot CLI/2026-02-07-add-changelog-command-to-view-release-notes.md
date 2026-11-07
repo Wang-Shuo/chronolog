@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b2c08f934f2c75924a63e601ef602d3e8194b642fb76e326391d1b595568cc1
+machine_hash: 834d79c13ce89eb3b8cc8ac2644a93178563fa14148e1bd0def275c0540bc50f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Add `/changelog` command to view release notes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins
-  can bundle LSP server configurations]]'
-- '[[Changes/OpenCode/2026-02-05-terminal-allow-mouse-escape-via-esc-labels-in-dialogs|Terminal
-  Allow mouse escape via "esc" labels in dialogs]]'
 - '[[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer
   Workflow changes in v1.1.52]]'
+- '[[Changes/Devin/2026-02-06-git-permissions-update|Git Permissions Update]]'
+- '[[Changes/Raycast/2026-02-06-run-updated-command-icons-with-a-fresh-design|Run
+  : Updated command icons with a fresh design]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer Workflow changes in v1.1.52]]
+- Earlier: 2026-02-06 · Raycast · [[Changes/Raycast/2026-02-06-run-updated-command-icons-with-a-fresh-design|Run : Updated command icons with a fresh design]]
 - Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved heredoc delimiter parsing to prevent command smuggling]]
 <!-- chronolog:end -->
 

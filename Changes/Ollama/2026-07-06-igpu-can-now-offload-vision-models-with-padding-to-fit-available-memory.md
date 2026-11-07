@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3dbb657b4271f7e66756049ee445a042966b8dbc1c0db230e2aa787d20a5777a
+machine_hash: c977ae18213dd2886a19fbbf01670445ef61074d77d8842abe8edafc12f4e779
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
   title: iGPU can now offload vision models with padding to fit available memory
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano
-  Banana 2 Lite]]'
-- '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
-  Reliability and Performance changes in v2.1.199]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
   the install script to explain when installation is killed by the system…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear|File
+  Search : New File Search index backend which should improve indexing and search…]]'
+- '[[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear-f1c1fb|File
+  Search : New File Search index backend, which should improve indexing…]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-06-v0-31-2-github-349919612-5857a6ed|ollama-2026-07-06-v0-31-2-github-349919612-5857a6ed]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-file-search-new-file-search-index-backend-which-should-improve-indexing-and-sear-f1c1fb|File Search : New File Search index backend, which should improve indexing…]]
 - Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop Improved large review pane performance]]
 <!-- chronolog:end -->
 

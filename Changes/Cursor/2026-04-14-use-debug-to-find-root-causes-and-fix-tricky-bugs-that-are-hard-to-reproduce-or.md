@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 74617e87283355d741a62b917644d22651dfcd2fc21d04c8626619071e91cb8e
+machine_hash: d1805c00e1e2b2067539def4b676fd81ea46cdda7d811e2306a9bf80b1875d9d
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Debug Mode in CLI
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
-  Developer Workflow changes in v1.0.23]]'
 - '[[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer
   Workflow changes in v1.4.3]]'
+- '[[Changes/Raycast/2026-04-10-what-s-new-added-a-setting-to-the-changelog-command-to-disable-what-s-new-items|What’s
+  New : Added a setting to the Changelog command to disable “What’s new?” items…]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'

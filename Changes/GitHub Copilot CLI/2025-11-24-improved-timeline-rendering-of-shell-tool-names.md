@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83ccf457f4d3f5f02771b447e3e4b13d2fb32ad26ddcb1b6f89f946e2f698630
+machine_hash: 1be3ba2bebc682fad8972506014b4b671b4eb634d14fdc7025b52af6edfd0397
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Improved timeline rendering of shell tool names
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate
-  manually button bumps you back to prompt bar]]'
 - '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
   origin allowlist from dashboard to restrict browser tools]]'
 - '[[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading
   state for translation]]'
+- '[[Changes/Devin/2025-11-21-wiki-branch-selection|Wiki Branch Selection]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading state for translation]]
+- Earlier: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-wiki-branch-selection|Wiki Branch Selection]]
 - Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface Experience changes in v0.6.37]]
 <!-- chronolog:end -->
 

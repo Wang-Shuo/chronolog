@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ecf3ca33c63b80b59dd0c6fb7e34759756605b994e944b74dc5e5c00a92cffd
+machine_hash: a8baf3975a6825d30905f573f3e8b50506a06b9778d18ed777fbfbfa9dca9282
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved rendering performance for large file writes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
-  performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Superwhisper/2026-05-29-improved-waveform-display-performance|Improved
+  waveform display performance]]'
 - '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
   Reliability and Performance changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability, performance, and platform improvements]]
+- Later: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-contacts-improve-performance-when-loading-large-numbers-of-contacts|Contacts: Improve performance when loading large numbers of contacts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

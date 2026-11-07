@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15645a3b6051833692cf58b9e66a2c0bf3aa6181c9bbb57aa6dccbcc02c7babc
+machine_hash: 74cda76f281dda9a9d10f19ef1dca3acd77614592da29786a61eae86196ccae9
 product: descript
 product_name: Descript
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Voice and Audio changes in Release roundup—November 6, 2026
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
-  changes in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
   Audio changes in v2026.11.1]]'
+- '[[Changes/Superwhisper/2026-11-05-import-vocabulary-and-dictation-history-from-wispr-flow-aqua-voice-typeless-and|Import
+  vocabulary and dictation history from Wispr Flow, Aqua Voice, Typeless…]]'
 - '[[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice
   and Audio changes in rust-v0.167.0]]'
 source_release: '[[Releases/Descript/descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4|descript-2026-11-06-6aee4d89b5b0a5f95c0b0cc2-f54c26f4]]'

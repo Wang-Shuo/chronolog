@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d0769643fb6cf91eecfea3956567f2aa71d417c3b8df393f2f0a5dd8ebd918f2
+machine_hash: 0c23d2b13c2ddadfc096328b205589dd90a39c8d1ae0ad6b9ec372059b9a010e
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,8 @@ record:
   title: Desktop notifications**
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/LM Studio/2025-11-04-improved-macos-26-compatibility-and-support|Improved
+  macOS 26 compatibility and support]]'
 - '[[Changes/ElevenLabs/2025-11-05-android-sdk|Android SDK]]'
 - '[[Changes/ElevenLabs/2025-11-05-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Lovable/lovable-2025-11-05-2025-11-05-d6fd95df|lovable-2025-11-05-2025-11-05-d6fd95df]]'

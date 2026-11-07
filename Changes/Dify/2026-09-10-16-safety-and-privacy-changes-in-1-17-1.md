@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 374e1f53f786cf15ad1906ee6c4be0dad58f7ba5dfa2b7b2cc93040497b512cd
+machine_hash: ece4ed0a05361d4eab6cf16006c07e9505ecaf72013c6d51bf9019709ceee974
 product: dify
 product_name: Dify
 record:
@@ -120,7 +120,7 @@ type: change
 
 > Registration tracking is consent-safe and retryable, and Web App analytics are separated from console page tracking (#41365, #41251)
 
-> **Bundled Weaviate server upgraded from `1.27.0` to `1.39.2`**, moving the pull from Docker Hub to `cr.weaviate.io`, the registry Weaviate publishes to directly. `1.39` ships no breaking changes and is where Weaviate's bug and security backports land — but existing data volumes require a staged manual upgrade, covered in the [Upgrade Guide](#bundled-weaviate-server-upgrade-127--139). Dify also now sends an `X-Weaviate-Client-Integration: dify/<version>` header so Weaviate can attribute traffic to Dify in its server-side telemetry; registration is best-effort and never blocks client initialization. (#38214)
+> **Bundled Weaviate server upgraded from `1.27.0` to `1.39.2`**, moving the pull from Docker Hub to `cr.weaviate.io`, the registry Weaviate publishes to directly. `1.39` ships no breaking changes and is where Weaviate's bug and security backports land — but existing data volumes require a staged manual upgrade, covered in the [Upgrade Guide](https://github.com/langgenius/dify/releases/tag/1.17.1#bundled-weaviate-server-upgrade-127--139). Dify also now sends an `X-Weaviate-Client-Integration: dify/<version>` header so Weaviate can attribute traffic to Dify in its server-side telemetry; registration is best-effort and never blocks client initialization. (#38214)
 
 > | `EXPOSE_LOCAL_SANDBOX_PORT` | `5004` | Publishes the local sandbox in the middleware-only stack, so a locally-run agent backend can reach it. |
 

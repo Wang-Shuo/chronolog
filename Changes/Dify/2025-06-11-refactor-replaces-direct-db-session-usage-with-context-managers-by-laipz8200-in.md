@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02c50006957e844a78529393035d66477b3185dbf2ae49046e4c1bb1d3d56e82
+machine_hash: b7783b43aac184036d77009d4c64a3290124cd65630eb9b1acfacadc9f919782
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 'refactor: Replaces direct DB session usage with context managers'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|\U0001F30D
-  Localization & Translation Enhancements]]"
 - '[[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window
   changes in v0.84.0]]'
+- '[[Changes/AnythingLLM/2025-06-10-automatic-context-window-detection-by-timothycarambat-in-https-github-com-mintpl|Automatic
+  Context window detection]]'
 - '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
   active files (open tabs) at the top of the file context menu when using…]]'
 source_release: '[[Releases/Dify/dify-2025-06-11-1-4-2-github-224523610-641ce698|dify-2025-06-11-1-4-2-github-224523610-641ce698]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize active files (open tabs) at the top of the file context menu when using…]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window changes in 0.43.0]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-ai-chat-added-new-send-active-window-to-ai-chat-send-selected-area-to-ai-chat-an|AI Chat: Added new Send Active Window to AI Chat , Send Selected Area to AI Chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

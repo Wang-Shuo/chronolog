@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d7a1ff61f99445b0021251df3aa9cd75fd98fe56c6676a039b071ce02786fe4a
+machine_hash: 6b2e3dc740654d25139976d691002ad34cfc929f0e0c5faecfd9b477f5660548
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,10 +55,10 @@ record:
   title: Improvements to Memories
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
-  Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
   memory condensation from settings page]]'
+- '[[Changes/LM Studio/2025-03-27-2-memory-and-personalization-changes-in-lm-studio-0-3-14|2
+  Memory and Personalization changes in LM Studio 0.3.14]]'
 - '[[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We''re
   now in ROUND 3 of the V7 image rating party]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-02-v1-6-1-9d892c6f|windsurf-2025-04-02-v1-6-1-9d892c6f]]'

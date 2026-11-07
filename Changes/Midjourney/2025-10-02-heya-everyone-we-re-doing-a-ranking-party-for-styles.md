@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13dcc7c990917d402c16fd844190f1ecbced898ddd4660cf2de32bc8716e7671
+machine_hash: 26a4b8045f55481b132b083985ca36f9de18def1f49cf377bc42d60d752425a4
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,8 +48,8 @@ record:
   title: Heya everyone, we're doing a ranking party for styles !
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
-  /review commands…]]'
+- '[[Changes/LM Studio/2025-09-24-2-memory-and-personalization-changes-in-lm-studio-0-3-27|2
+  Memory and Personalization changes in LM Studio 0.3.27]]'
 - '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
   ChatGPT Pulse for Pro users]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn

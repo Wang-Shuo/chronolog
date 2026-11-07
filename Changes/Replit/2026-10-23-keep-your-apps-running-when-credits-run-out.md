@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 03d88202e19d7e10381ab5061ddccf74b6cf749d8cd66e1ecf3b8607a40ccde1
+machine_hash: d6b8e00f2ca0bc987829b299d85a0d42bef4420bdf2b011f8b0eb727817ceac2
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,8 @@ record:
   title: Keep your apps running when credits run out
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
-  Apps and Integrations changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-scan-complete-summaries-by-slack-dm-or-email|Scan-complete
+  Summaries by Slack DM or Email]]'
 - '[[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and
   Integrations changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps

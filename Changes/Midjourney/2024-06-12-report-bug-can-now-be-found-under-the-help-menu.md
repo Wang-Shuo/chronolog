@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36fd6f77c52998b7cecf8cd05b3d406b9fc42d8d09a49bec29723d6d83f27ed1
+machine_hash: 589c545eb6d01aac24f4a263b57f36501be1dd212f0fc2e9e5bbada8f09e1ae1
 product: midjourney
 product_name: Midjourney
 record:
@@ -41,8 +41,8 @@ record:
   title: '''Report Bug'' can now be found under the ''Help'' menu'
   type: change
 related_changes:
-- '[[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and
-  Highlight reels]]'
+- '[[Changes/Superwhisper/2024-06-06-simplify-onboarding-steps|Simplify onboarding
+  steps]]'
 - '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
   Various UI Styling Issues]]'
 - '[[Changes/Notion/2024-06-11-a-tidier-sidebar|A tidier sidebar]]'

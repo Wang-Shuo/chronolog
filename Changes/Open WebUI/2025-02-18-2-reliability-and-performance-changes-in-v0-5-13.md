@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b02e16a155668176d477a9b87a7bc419693c58301d8e1cebe0a04c278dabfe4
+machine_hash: 9735112d41004176d2e42e13a004ed71fb0091361db85febe2df5e59bbfae594
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,11 @@ record:
   title: 2 Reliability and Performance changes in v0.5.13
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-ios-performance-fixes|iOS performance fixes]]'
 - '[[Changes/Open WebUI/2025-02-14-landing-page-input-no-longer-lags-with-long-text-improved-input-responsiveness-o|⚡
   Landing Page Input No Longer Lags with Long Text]]'
 - '[[Changes/Replit/2025-02-14-object-storage|Object Storage]]'
+- '[[Changes/LM Studio/2025-02-18-speculative-decoding-is-a-technique-that-can-speed-up-token-generation-by-up-to|Speculative
+  Decoding is a technique that can speed up token generation by up…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61|open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +86,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-object-storage|Object Storage]]
+- Earlier: 2025-02-18 · LM Studio · [[Changes/LM Studio/2025-02-18-speculative-decoding-is-a-technique-that-can-speed-up-token-generation-by-up-to|Speculative Decoding is a technique that can speed up token generation by up…]]
 - Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-critical-import-error-resolved-fixed-a-circular-import-issue-preventing-override|🔧 Critical Import Error Resolved]]
 <!-- chronolog:end -->
 

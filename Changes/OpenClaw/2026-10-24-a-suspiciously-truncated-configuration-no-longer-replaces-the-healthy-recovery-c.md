@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 405479e281a14fe5400edc1058158c7e19df041a3e92c2a552cb642fa7c8e743
+machine_hash: 7275a757e9b21ef474c6181cde18011882e67168c2eec08f367e34b8f162d5eb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,12 +46,12 @@ record:
     copy…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
-  changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
   time network responses and order them by completion]]'
 - '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
   IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/Krea/2026-10-24-bounding-boxes-and-regional-edits-work-with-krea-3-ultra|Bounding
+  boxes and regional edits work with Krea 3 Ultra]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-24-v2026-10-7-78f358d7|openclaw-2026-10-24-v2026-10-7-78f358d7]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In IDE mode, a chat tab whose agent could not start a session says why and offers…]]
+- Earlier: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-bounding-boxes-and-regional-edits-work-with-krea-3-ultra|Bounding boxes and regional edits work with Krea 3 Ultra]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor Experience changes in v0.12.4]]
 <!-- chronolog:end -->
 

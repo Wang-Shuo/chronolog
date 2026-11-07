@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 19477c8f9d492b0a62180ee8193c5b651f17643b524625dc586dc49f0d5efe1f
+machine_hash: 7b30b9468f163ec0a0a0e16bbb300388c68ac59ad8fc9f540f2029036d456957
 product: opencode
 product_name: OpenCode
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]
-- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and Data changes in v1.14.0]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-feat-folder-upload-with-relative-paths-preserved-in-document-manager-by-angelplu|feat: folder upload with relative paths preserved in document manager]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

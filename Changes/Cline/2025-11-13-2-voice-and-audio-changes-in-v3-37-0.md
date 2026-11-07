@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b981214cb74a0b90810658b72cbc51efddd7e6e3a8803fa25220fa727b56dc83
+machine_hash: 82e68a4d628efb7f01924d791ad09b838bf9072275f3d2151d2c1341f727d933
 product: cline
 product_name: Cline
 record:
@@ -42,9 +42,11 @@ record:
   title: 2 Voice and Audio changes in v3.37.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-music-api|Music API]]'
-- '[[Changes/ElevenLabs/2025-11-12-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]'
+- '[[Changes/Raycast/2025-11-12-dictation-is-now-faster-more-reliable-and-better-than-ever-powered-by-elevenlabs|Dictation
+  is now faster, more reliable, and better than ever]]'
+- '[[Changes/Raycast/2025-11-12-dictation-faster-improved-dictation-in-90-languages-available-from-the-keyboard|Dictation:
+  Faster & improved dictation in 90+ languages]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: voice
@@ -84,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]
+- Earlier: 2025-11-12 · Raycast · [[Changes/Raycast/2025-11-12-dictation-faster-improved-dictation-in-90-languages-available-from-the-keyboard|Dictation: Faster & improved dictation in 90+ languages]]
 - Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat: Add Audio Content Support for MCP Tools]]
 <!-- chronolog:end -->
 

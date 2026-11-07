@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3284465ec474b00f4c3b991d526d53d46232f82a0c9a57a20082a5a2ea789f6f
+machine_hash: f34ad8aed3b603241d0df5b8aff385c6499373e42cfa8a1a5468efc168849dec
 product: windsurf
 product_name: Windsurf
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes in v3.17.1]]
-- Later: 2025-05-23 · Midjourney · [[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We're getting ready to make our V7 model the 'default' model but a lot of us still…]]
+- Later: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-ability-to-use-gguf-llms-as-text-embedding-models-override-in-my-models|Ability to use GGUF LLMs as text embedding models (override in My Models  ⚙️)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

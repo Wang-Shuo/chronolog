@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28182bc71c0381a218d7b9571e4171811463d37fd5243997922728e35942de29
+machine_hash: 5c5834c25124427ec89cc65b8ffb6af05deda9b1806628e35556b34389df81f2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-01 · OpenHands · [[Changes/OpenHands/2025-10-01-converted-settings-to-vertical-sidebar-layout|Converted settings to vertical sidebar layout]]
-- Later: 2025-10-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-06-reduced-the-number-of-colors-and-improved-the-spacing-of-markdown-rendering|Reduced the number of colors and improved the spacing of Markdown rendering]]
+- Later: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-enhanced-member-page-tabs-and-navigation|Enhanced member page tabs and navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

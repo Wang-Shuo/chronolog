@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdeff932333acef371bf5eab49eb686c9c398b39306abf7a8fdde7ed230ae668
+machine_hash: c72d2b69125cdb1afef9b465265face55523f4bc127e2c775b5c693cd7dae0d3
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically
-  delete abandoned projects]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2
   Safety and Privacy changes in v1.0.71]]'
 - '[[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose
   which Wiz policies run during security scans]]'
+- '[[Changes/Raycast/2026-07-16-apple-shortcuts-fixed-running-shortcuts-requiring-already-provided-automation-pe|Apple
+  Shortcuts: Fixed running shortcuts requiring already provided automation permission]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: safety-privacy
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-choose-which-wiz-policies-run-during-security-scans|Choose which Wiz policies run during security scans]]
+- Earlier: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-apple-shortcuts-fixed-running-shortcuts-requiring-already-provided-automation-pe|Apple Shortcuts: Fixed running shortcuts requiring already provided automation permission]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-20-safety-and-privacy-changes-in-1-16-0|20 Safety and Privacy changes in 1.16.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7c9f92170184e1ebee5f2452aaa41ca61cdc9f15f85c64a57b1abfc8af6e8aa4
+machine_hash: e6bc1d3caee72be19c3156e03801251854b9859259e28c23fdb4a852e5077b77
 product: lovable
 product_name: Lovable
 record:
@@ -59,7 +59,8 @@ record:
   title: Admin controls for app connectors
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-13-user-group-level-budgets|User/group level budgets]]'
+- '[[Changes/Devin/2026-02-20-devin-review-for-github-enterprise-server|Devin Review
+  for GitHub Enterprise Server]]'
 - '[[Changes/Replit/2026-02-20-deployment-visibility-settings|Deployment visibility
   settings]]'
 - '[[Changes/Replit/2026-02-20-teams-and-enterprise|Teams and Enterprise]]'

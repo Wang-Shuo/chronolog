@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 962184698ed4dc847fd36a2e6bdb205955256de696fc98a406ba1fb1ed2be4a0
+machine_hash: b8eea088a9e9e0d23075829e2bbe93cf4890d2edc71767d2f158326ced9e4856
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583 Add collaboration_mode to TurnContextItem @charley-oai]]
-- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-collaboration-changes-in-rust-v0-90-0|5 Collaboration changes in rust-v0.90.0]]
+- Later: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-sessions-api-enhancements|Sessions API Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

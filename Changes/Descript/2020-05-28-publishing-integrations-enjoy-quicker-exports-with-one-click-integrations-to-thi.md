@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78d2fa81318332a4e9acd2845a5a197a3e962f7e4c1e58f689aa2103f0075094
+machine_hash: 619638ef60dd4ba9f2210f280318b8b330d403a293155be36883ef0aac4f6c4f
 product: descript
 product_name: Descript
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
-- Later: 2020-11-02 · Synthesia · [[Changes/Synthesia/2020-11-02-zapier-enables-you-to-hook-up-synthesia-to-other-apps-and-send-users-personalize|Our Zapier integration is ready!]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-improvement-all-forms-like-the-jira-create-issue-command-follow-the-same-structu|Improvement: All forms, like the Jira Create Issue command, follow the same…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

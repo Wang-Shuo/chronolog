@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4984fc541d54d799a78574b3131789765ce1095bdad4ec55d803cbe1fb4e641
+machine_hash: 780d336b4b367246c8d9ea845dfc78e382e984e5a11a9e78e4274c5eb971b5d3
 product: zai-api
 product_name: Z.ai API
 record:
@@ -47,9 +47,9 @@ record:
     8 hours…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
-  the browser automation tool surface and tightened the subagent to use…]]'
-- '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
+- '[[Changes/Devin/2026-04-03-linear-assignee-filter|Linear Assignee Filter]]'
+- '[[Changes/Raycast/2026-04-03-calendar-improve-auto-join-scheduler-reliability-during-sleep-wake-cycles|Calendar:
+  Improve auto-join scheduler reliability during sleep/wake cycles]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-edit-scheduled-prompts-for-copilot-windows-mac-web-microsoft-365-copilot-chat|Edit
   scheduled prompts for Copilot Windows, Mac, Web (Microsoft 365 Copilot chat)]]'
 source_release: '[[Releases/Z.ai API/zai-api-2026-04-07-2026-04-07-glm-5-1-d7acaef2|zai-api-2026-04-07-2026-04-07-glm-5-1-d7acaef2]]'

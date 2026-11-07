@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8ecb2288de307ddd02080e58a4b5defee6cba5e1799e0da7f13f1b6f394a70a
+machine_hash: a69f86e353840ddcb1ab2089ccc61278eea1854e9a2dfd84177c1b9444e02b68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Apps and Integrations changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
-- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
-  Integrations changes in 1.13.3]]'
+- '[[Changes/Raycast/2026-03-27-2-apps-and-integrations-changes-in-raycast-macos-0-51|2
+  Apps and Integrations changes in Raycast macos 0.51]]'
+- '[[Changes/Raycast/2026-03-27-clipboard-history-you-can-now-drag-and-drop-items-files-images-text-from-clipboa|Clipboard
+  History: You can now drag and drop items (files, images, text)…]]'
 - '[[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps
   and Integrations changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'

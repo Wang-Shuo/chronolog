@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 439e14e82cacbddbc71f5ba38c52d053bea84bc1bad2e7e26591bc0baef3945a
+machine_hash: 40aaedefb5616afc653da0a1a8599135e995d94b385ebd5b29d97e9fe1c7fc30
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in HUB v2.29.0 — Voice mode, remote…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
-  Apps and Integrations changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-multiple-files-in-one-slack-post|Multiple Files in One
+  Slack Post]]'
 - '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
   integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]'
 - '[[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]'

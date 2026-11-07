@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb85f66532a30087f91806f71bf37ef5e2ae3c80fc0e6d78c594085396766829
+machine_hash: d379c6715de2952c1823290ba54f8491c689f5ebcd0e28db5f189262513ca105
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,10 +58,10 @@ record:
   title: 5 Model Support changes in Toggle thinking time in the message…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:
-  use base URL to get models and API keys]]'
 - '[[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model
   Support changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-model-support-changes-in-lm-studio-0-3-26|2 Model
+  Support changes in LM Studio 0.3.26]]'
 - '[[Changes/ChatGPT/2025-09-16-factuality-fewer-hallucinations-improving-answer-quality|Factuality:
   Fewer hallucinations, improving answer quality]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c08727070de9427778d6932afa8bfe6a7e5f02b4af1fb183a3cc4abe9a7f28a
+machine_hash: b0fb841c5804eb0c68aefe07f5cacf22caf33521551a7e8db8f16545b4dcb5bf
 product: dify
 product_name: Dify
 record:
@@ -59,9 +59,9 @@ record:
   title: 8 Model Support changes in 0.15.2
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes
-  in v0.72.0]]'
 - '[[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]'
+- '[[Changes/LM Studio/2025-01-20-new-kv-cache-quantization-for-llama-cpp-models-requires-llama-cpp-1-9-0-runtime|New:
+  KV Cache quantization for llama.cpp models (requires llama.cpp/1.9.0+ runtime)]]'
 - '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
   VS Code LM API provider to run models provided by other VS Code extensions…]]'
 source_release: '[[Releases/Dify/dify-2025-01-22-0-15-2-github-196033249-96b23bc1|dify-2025-01-22-0-15-2-github-196033249-96b23bc1]]'

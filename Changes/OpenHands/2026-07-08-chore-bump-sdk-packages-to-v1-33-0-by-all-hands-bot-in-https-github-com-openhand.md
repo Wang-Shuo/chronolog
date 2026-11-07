@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f2b0246ccccd342b733a477d0377b5101c89f291c06fef94b8b95749ec6e71c
+machine_hash: 78cae452662709680bda31da21260e66e222af0c3b34b177477050a7e8016206
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'chore: bump SDK packages to v1.33.0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
-  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Devin/2026-07-08-apply-environment-config-suggestions-from-slack|Apply
+  Environment Config Suggestions from Slack]]'
 - '[[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add
   the Vercel plugin to the bundled plugin marketplace]]'
 - '[[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector

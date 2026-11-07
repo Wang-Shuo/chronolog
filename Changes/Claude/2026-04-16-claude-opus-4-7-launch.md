@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1fb6ea52f31efdbf191a607da010d4e64bd0cdf0cae99ec63094aa561d4b894d
+machine_hash: 62c1fb93188949f84254ea78da7db5fbbcbe083bd63316ec8c08ec4179790c5d
 product: claude
 product_name: Claude
 record:
@@ -52,11 +52,12 @@ record:
   title: Claude Opus 4.7 launch
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-04-14-please-note|Please Note]]'
-- '[[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks
-  for testing our V8.0 model over the last month!]]'
-- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
-  Support changes in rust-v0.121.0]]'
+- '[[Changes/Raycast/2026-04-15-ai-gpt-5-4-mini-for-free-during-the-raycast-beta|AI
+  : GPT-5.4 Mini for free during the Raycast Beta]]'
+- '[[Changes/Raycast/2026-04-15-ai-we-switched-to-gpt-5-4-mini-as-the-free-model-during-the-raycast-beta|AI
+  : We switched to GPT-5.4 Mini as the free model during the Raycast Beta]]'
+- '[[Changes/Superwhisper/2026-04-15-tweaks-to-model-library-filtering-interface|Tweaks
+  to model library filtering interface]]'
 source_release: '[[Releases/Claude/claude-2026-04-16-2026-04-16-08a687e8|claude-2026-04-16-2026-04-16-08a687e8]]'
 source_type: claude_changelog
 theme: model-support
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · Superwhisper · [[Changes/Superwhisper/2026-04-15-tweaks-to-model-library-filtering-interface|Tweaks to model library filtering interface]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support changes in v2.1.111]]
 <!-- chronolog:end -->
 

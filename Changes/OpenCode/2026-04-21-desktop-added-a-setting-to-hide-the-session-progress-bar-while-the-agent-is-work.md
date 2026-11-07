@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9d3cbfa447cdecdae02cb8b08b9ced2564ad19037ab797b904858f83c9416a8a
+machine_hash: 407091e3246066285a9bfadd3cf614c09207bc3ea82315caeda6abf438daf554
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share agents to Teams Web (Microsoft 365 Copilot extensibility)]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-10-agent-mode-changes-in-v1-12-1|10 Agent Mode changes in v1.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

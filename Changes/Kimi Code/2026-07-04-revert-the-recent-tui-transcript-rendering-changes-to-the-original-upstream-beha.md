@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b867bead04365dcef8ea6c6c23cb427055b768990d659239a5fc135f6f29894c
+machine_hash: c1218926ea28dc459ce9189d7680daf89b3dfb1b2f648c6ae2de6c1f9841d5c8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,12 +46,12 @@ record:
     behavior…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-02-add-workspace-sorting-by-manual-order-or-last-edited-time-plus-collapse-all-and|Add
-  workspace sorting by manual order or last-edited time, plus collapse-all…]]'
-- '[[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let
-  the web sidebar collapse an expanded workspace session list back to its first page]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects|UI
+  : Aligned date picker icon/indicator treatment with other selects]]'
+- '[[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects-cf97f3|UI
+  : Aligned date picker icon/indicator treatment with other selects]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-04-0-22-3-3fb42d7b|kimi-code-2026-07-04-0-22-3-3fb42d7b]]'
 source_type: kimi_code_changelog
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-ui-aligned-date-picker-icon-indicator-treatment-with-other-selects-cf97f3|UI : Aligned date picker icon/indicator treatment with other selects]]
 - Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions]]
 <!-- chronolog:end -->
 

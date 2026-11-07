@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddf897ebe6364545cf226e1e69227451226df21abd48032f4831a6c3f483007e
+machine_hash: 24399c1e926329be79faeb058d6e973f5fdb35621142767fb3032a3526425d41
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window changes in v1.14.30]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote session statusline shows the remote working directory and branch instead…]]
+- Later: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-auto-fix-includes-ci-checks|Auto-Fix Includes CI Checks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a663c9a8f2aaccdb8e12cfb67d836170d323c346b7ac19043b664b7744f3fce6
+machine_hash: 7ce0f8a9aa90129ab3ab39d604bfd8e01ab0d6bc0dda4664fa875b33996e0206
 product: heygen
 product_name: HeyGen
 record:
@@ -46,8 +46,7 @@ record:
   title: Your avatar doesn't have to be stuck with the day you recorded it
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web:
-  The browser tab title now shows the current workspace directory name]]'
+- '[[Changes/Devin/2026-08-19-ci-failure-shortcuts|CI Failure Shortcuts]]'
 - '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
   Experience changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering

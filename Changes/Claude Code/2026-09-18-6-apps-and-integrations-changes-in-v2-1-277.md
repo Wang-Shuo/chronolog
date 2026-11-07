@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbbd6c3558593b804584bf2be0d727ad15c9a6f58d700c8ca9fb33a499f0da11
+machine_hash: 3ac776b14e23d58020dfa02dc387a24b992c2db4d8457677b838a183b61e28be
 product: claude-code
 product_name: Claude Code
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
-- Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote Control: Automatically sync local conversation history updated within…]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-new-in-the-mcp-marketplace-activecampaign|New in the MCP Marketplace: ActiveCampaign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

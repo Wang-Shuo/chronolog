@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf8607f0b4fb573e33b6570da8f673fc7d1ad15cda698c9f249558adc1a91efd
+machine_hash: 905fc218d615999d9c600570fe6c510ffc409a6da7a79952d184321b94334ab2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     is active
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation
-  and Scheduling changes in 06.18.26]]'
+- '[[Changes/Devin/2026-06-19-incremental-generation-steps-in-automation-input|Incremental
+  Generation Steps in Automation Input]]'
 - '[[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496
   Make auto-review on-request prompt more proactive @maja-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add

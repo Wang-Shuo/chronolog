@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfe2d331524ec162a04a41e523591a9a4bf88021d7f0ba7445fb3e5221985b0d
+machine_hash: 46eed45f3fe0703b140f251e1fb6810ce1ba7b30e73237589b8a7bdec39fa290
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Provide feedback to tool use like terminal commands and file edits
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|\U0001FAB2
-  Debug Logs: Fixed an issue where debug logs were not being logged properly]]"
 - '[[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer
   Workflow changes in 0.8.1]]'
 - '[[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
+- '[[Changes/AnythingLLM/2024-07-26-6-developer-workflow-changes-in-v1-0-0|6 Developer
+  Workflow changes in v1.0.0]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-4-github-167496281-a4c8079a|cline-2024-07-28-v1-0-4-github-167496281-a4c8079a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Earlier: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-6-developer-workflow-changes-in-v1-0-0|6 Developer Workflow changes in v1.0.0]]
 - Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-4-developer-workflow-changes-in-v0-46-0|4 Developer Workflow changes in v0.46.0]]
 <!-- chronolog:end -->
 

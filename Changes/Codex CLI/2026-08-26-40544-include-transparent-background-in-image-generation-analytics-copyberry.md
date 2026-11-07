@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a15e7e20c040175b662b8326373e303e1e0ce28bc22630ae75b31f0ecddec1fd
+machine_hash: 1a612a31ace0b961b798fe045e625f9177cd6e5c872bad0eaf7b1343f2c6fad7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-image-generation-and-web-search-staying-switched-off-turning-either-off-now-take|🎨 Image generation and web search staying switched off. Turning either off now…]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated images referenced by relative paths render in responses, as do screenshots…]]
+- Later: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-image-generation-changes-in-v1-16-1|2 Image Generation changes in v1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

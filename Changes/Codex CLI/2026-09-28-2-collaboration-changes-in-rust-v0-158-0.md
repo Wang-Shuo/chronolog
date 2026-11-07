@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 287dd38f8546a7d348af7adc768a6d5670e840145d9858fe8b8a36b5b8a279ad
+machine_hash: bb9f17289bf60dce72dba6f98b1a0ad76f85e1b331b734d7716309fd7f69dee1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Collaboration changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
-  to share with you today]]'
-- '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
-  Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-one-tap-answers-and-reactions|Microsoft
+  Teams: One-Tap Answers and Reactions]]'
+- '[[Changes/Devin/2026-09-25-microsoft-teams-approve-network-access-from-the-card|Microsoft
+  Teams: Approve Network Access from the Card]]'
 - '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration
   changes in v2.1.284]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'

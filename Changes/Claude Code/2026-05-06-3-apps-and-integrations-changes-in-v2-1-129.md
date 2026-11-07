@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61d413c6c10be751f372c2cc337c49dfb1ca9047dc83a9425a46adc6d9a275e3
+machine_hash: 866592f0f66cb48b0c5131b0c747da321c6184c375dd95b95a113573d0ff775f
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.129
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]
-- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-mcp-server-child-processes-e-g-started-via-npx-or-uvx-are-now-fully-terminated-w|MCP server child processes (e.g. started via npx or uvx) are now fully terminated…]]
+- Later: 2026-05-06 · Devin · [[Changes/Devin/2026-05-06-slack-tool-use-in-worklog|Slack Tool Use in Worklog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

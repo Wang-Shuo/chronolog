@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4f76067faa498d6a4687f679631dfe666ba0d7f2211fc0652423e98700b53f4b
+machine_hash: 6b741947a7fc6864e203d6c2c224195c36ec9602ae5c30e2e35244c953d6a017
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: Shared folders and ownership
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
-  a prompt]]'
-- '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
-  changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-root-search-apps-can-now-be-found-by-their-executable-name-or-execution-alias-e|Root
+  Search : Apps can now be found by their executable name or execution alias…]]'
+- '[[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root
+  Search : Apps sharing a name are now disambiguated in search and app pickers]]'
 - '[[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4
   Collaboration changes in Share files and folders…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-root-search-apps-sharing-a-name-are-now-disambiguated-in-search-and-app-pickers|Root Search : Apps sharing a name are now disambiguated in search and app pickers]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

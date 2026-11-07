@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 10bf55c82624553f8475656505d288726f84369e66b5abc8fb6e4aa1ea2f6950
+machine_hash: 398ddda94115128945bbe0dc9e0220a82b92117e744d805626707bfb2cafef82
 product: descript
 product_name: Descript
 record:
@@ -46,9 +46,9 @@ record:
   title: Other editor tweaks
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
-  we’re testing our new external image editor , image retexturing , and next-gen…]]'
-- '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
+- '[[Changes/Devin/2024-11-01-repo-knowledge|Repo knowledge]]'
+- '[[Changes/Devin/2024-11-01-it-s-now-easier-to-understand-what-devin-s-been-up-to-with-the-follow-devin-tab|It''s
+  now easier to understand what Devin''s been up to with the "Follow Devin" tab]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
 source_release: '[[Releases/Descript/descript-2024-11-05-672a4fac68acbe93f698bb4b-eff3b53e|descript-2024-11-05-672a4fac68acbe93f698bb4b-eff3b53e]]'

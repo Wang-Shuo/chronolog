@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b39bb016a2d508d2cb312836520952a50687a8c4e89c55bc239c27cbe37ce07
+machine_hash: a21f3dc636f968179c85934223e83f731af2051d0d6d84a7ec28aca280614d6a
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Add an endpoint to the HostBridge for integration testing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
-  link) add JSON schema sanitization for MCP tools…]]'
+- '[[Changes/Devin/2025-08-12-improved-integration-for-slack|Improved Integration
+  for Slack]]'
 - '[[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10
   Apps and Integrations changes in v0.1.19]]'
 - '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail,

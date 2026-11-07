@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8736e885389311930db212fc3ff837b8b4facf5dba0f58544889cac7cfc295ff
+machine_hash: cde6c9c21e0841adaef2924926cee3cd56790fca2f0611f193e4a5fab67a1336
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,8 +59,8 @@ record:
   title: 4 Editor Experience changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2
-  Editor Experience changes in v1.0.56]]'
+- '[[Changes/Raycast/2026-05-29-ai-sorted-out-large-inset-when-searching-in-ai-tab|AI:
+  Sorted out large inset when searching in AI tab]]'
 - '[[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor
   Experience changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9

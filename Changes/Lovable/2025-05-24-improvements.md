@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 514fb248b60f4bec318a5763bf2d5e5d24c25d06fb821432bbfcfdc3e2e808b0
+machine_hash: bb8a41c1fde132e4fe924897e537dfb554f048ac42a608f0f19d917c7d8f47bc
 product: lovable
 product_name: Lovable
 record:
@@ -72,12 +72,12 @@ record:
   title: Improvements**
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add
-  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 - '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
   keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 - '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
   Experience changes in v3.17.0]]'
+- '[[Changes/LM Studio/2025-05-23-3-interface-experience-changes-in-lm-studio-0-3-16|3
+  Interface Experience changes in LM Studio 0.3.16]]'
 source_release: '[[Releases/Lovable/lovable-2025-05-24-2025-05-24-16f0e86d|lovable-2025-05-24-2025-05-24-16f0e86d]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -130,7 +130,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface Experience changes in v3.17.0]]
+- Earlier: 2025-05-23 · LM Studio · [[Changes/LM Studio/2025-05-23-3-interface-experience-changes-in-lm-studio-0-3-16|3 Interface Experience changes in LM Studio 0.3.16]]
 - Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-2-interface-experience-changes-in-v0-6-11|2 Interface Experience changes in v0.6.11]]
 <!-- chronolog:end -->
 

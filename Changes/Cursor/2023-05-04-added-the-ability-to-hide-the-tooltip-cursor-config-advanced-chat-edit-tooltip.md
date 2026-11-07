@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d2385399396ed5e14bdc586fdb0941b11612db372a29159c05bc5248f611428
+machine_hash: 3a51985f287d3e629a23b7e9b6a48a9051c8283bb9a498ae139d4077c1c68683
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     Tooltip)
   type: change
 related_changes:
-- '[[Changes/Synthesia/2023-04-04-cool-updates-for-the-studio-library-one-stop-shop-for-all-assets-easy-template-p|STUDIO
-  Library update]]'
 - '[[Changes/Descript/2023-04-17-duplicate-to-now-copies-over-the-layout-and-all-overlapping-layers-from-the-orig|Duplicate
   to…: Now copies over the layout and all overlapping layers…]]'
+- '[[Changes/Raycast/2023-04-28-ai-chat-opens-now-in-the-resizable-floating-window-by-default-ai-commands-open-i|AI
+  Chat : Opens now in the resizable, floating window by default]]'
 - '[[Changes/ChatGPT/2023-05-03-you-can-now-turn-off-chat-history-and-export-your-data-from-the-chatgpt-settings|Turn
   off chat history and export your data from the ChatGPT settings]]'
 source_release: '[[Releases/Cursor/cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c|cursor-2023-05-04-0-2-9-https-cursor-com-changelog-0-2-9-fbb1587c]]'

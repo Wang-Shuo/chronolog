@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53cd5b1403ef9a693eb9a1915d61bfd18e4ca47c4e8262b386223a84d7a4a96e
+machine_hash: c5449836c68332236db33d34ac1dbea9492b000479b2ded08cdba4d76b4b24a1
 product: ollama
 product_name: Ollama
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-07-11 · Ollama · [[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4 models will no longer fail to load from out of memory errors]]
-- Later: 2024-07-22 · Synthesia · [[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit faster with GIFs, Direct Cut, and Shortcuts]]
+- Later: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-devin-got-smarter|Devin got smarter!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

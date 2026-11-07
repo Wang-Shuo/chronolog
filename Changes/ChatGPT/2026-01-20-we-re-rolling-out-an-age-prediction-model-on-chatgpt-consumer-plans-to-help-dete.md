@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f404a5139d88e38323e559a5346f81bf5fe0d2f866c6eb97c5b635e9fcdcdb8e
+machine_hash: efea0d0278d4dbed139ac1135df1c24ca18dcf827378bf18f78371af1cd1efdc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: Rolling out age prediction
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
-  to GPT-5.2-Codex harness]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
   switching from Codex to Opus preserves conversation history correctly]]'
 - '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
   changes in v1.1.26]]'
+- '[[Changes/Superwhisper/2026-01-19-add-gpt-5-1-language-model|Add GPT 5.1 language
+  model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|chatgpt-2026-01-20-rolling-out-age-prediction-2382655a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support changes in v1.1.26]]
+- Earlier: 2026-01-19 · Superwhisper · [[Changes/Superwhisper/2026-01-19-add-gpt-5-1-language-model|Add GPT 5.1 language model]]
 - Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First round of 2026 updates is in!]]
 <!-- chronolog:end -->
 

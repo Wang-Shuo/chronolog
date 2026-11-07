@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 5552bf645a1527b0665a5cf5cfeb59415427e516c28129775f36330f0b324c80
+machine_hash: ce3861ffb31cad1661349e9dd686df4299f2325ff385c20de03ba1452c0332c2
 product: openhands
 product_name: OpenHands
 record:
@@ -52,12 +52,12 @@ record:
   title: 'test: strengthen LLM subscription normalization'
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
-  achievements: Your profile now includes Credits and activity stats, along…]]'
-- '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
-  support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage
   shows per-model AI Credit consumption in usage breakdowns]]'
+- '[[Changes/Krea/2026-09-16-admins-can-manage-billing-accounts|Admins can manage
+  billing accounts]]'
+- '[[Changes/Krea/2026-09-16-organizations-is-open-to-everyone|Organizations is open
+  to everyone]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: pricing-model
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage shows per-model AI Credit consumption in usage breakdowns]]
+- Earlier: 2026-09-16 · Krea · [[Changes/Krea/2026-09-16-organizations-is-open-to-everyone|Organizations is open to everyone]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude Code on the web Changed a routine's on-hold notice]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eb91104749599dfe89f38264f435fa780a1a78ab737e27ff97172f36bbec141a
+machine_hash: c61527e8f11558222205792607c16a27da1039cb0e1b809fd55d7ad4b02cb704
 product: notion
 product_name: Notion
 record:
@@ -48,8 +48,8 @@ record:
   title: Previews & mentions of Notion comments
   type: change
 related_changes:
-- '[[Changes/Descript/2020-07-28-descript-s-most-advanced-handling-of-filler-words-takes-context-into-account-to|Filler
-  Words Pro]]'
+- '[[Changes/Raycast/2021-08-25-contacts-added-name-to-the-action-panel-for-more-context|Contacts:
+  Added name to the Action Panel for more context]]'
 - '[[Changes/Synthesia/2021-11-18-you-can-now-right-click-on-any-canvas-element-slides-or-image-and-select-from-th|Context
   menu for quicker interactions]]'
 - '[[Changes/Synthesia/2022-07-04-adding-pauses-improving-pronunciation-and-adding-variables-is-now-easier-with-th|Script

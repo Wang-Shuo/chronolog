@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1bad84f0d604b265ebffb4abe48a93185d56948b3a2203eade648a5b0b4519d6
+machine_hash: a8beef799e920bdfd088ee081cbada5a44be0927e5cc7836564c58fbd2778362
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: Reliability, performance, and platform improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
-  Reliability and Performance changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
   auto mode classifier latency by reducing reasoning on routine actions…]]'
 - '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
   rendering performance for large file writes]]'
+- '[[Changes/Raycast/2026-06-03-contacts-improve-performance-when-loading-large-numbers-of-contacts|Contacts:
+  Improve performance when loading large numbers of contacts]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
-- Later: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma 4 QAT weights((source link)]]
+- Earlier: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-contacts-improve-performance-when-loading-large-numbers-of-contacts|Contacts: Improve performance when loading large numbers of contacts]]
+- Later: 2026-06-04 · Krea · [[Changes/Krea/2026-06-04-introducing-krea-2-turbo|Introducing Krea 2 Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b81e58fac9e7bc8685ecca7fd7c961ca0f925d35f669a862fc36aa594a1d5a7d
+machine_hash: debf6f9cb2dbe40b10789558ac9b01c4e8749ac348f73d0bfd86bd1dd55d73a4
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
+- Later: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-slack-trigger-message-in-sessions-list|Slack Trigger Message in Sessions List]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

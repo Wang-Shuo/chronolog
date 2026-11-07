@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d3f1cae713601db81e3cda9a538e13b9d2867de234cf8197167cb6c4db5991ca
+machine_hash: 5d3e1387b528a4f644ddcb6e36b6d32174ed544f3671dcb660072ab3da2e19db
 product: cline
 product_name: Cline
 record:
@@ -55,9 +55,9 @@ record:
     OpenRouter…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
-  Implement smooth scrolling for autocomplete dropdown navigation]]'
 - '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
+- '[[Changes/Raycast/2025-12-20-you-ve-probably-seen-these-in-raycast-when-your-search-term-doesn-t-have-any-mat|You''ve
+  probably seen these in Raycast, when your search term doesn''t have any…]]'
 - '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
   Experience changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'

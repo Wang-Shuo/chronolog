@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8c6ba9362509ab257b7871b5a8b4f1f91d174421958cfe8488ce0d7663fabfbf
+machine_hash: c546e97ae763fec5d2563722b609677a9184363481fb3224300d69b1f287dfb5
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,9 @@ record:
   title: Unpublish several projects at once
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-servicenow-connectors-support-role-based-permissions-web-microsoft-365-copilot-e|ServiceNow
-  connectors support role-based permissions…]]'
-- '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
-  Apps and Integrations changes in v2.1.229]]'
+- '[[Changes/Devin/2026-08-12-playbook-mentions-from-slack|Playbook Mentions from
+  Slack]]'
+- '[[Changes/Devin/2026-08-12-slack-connection-management|Slack Connection Management]]'
 - '[[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add
   the Modern Web Guidance plugin to the bundled plugin marketplace]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-12-2026-08-12-e1f9d06e|lovable-2026-08-12-2026-08-12-e1f9d06e]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add the Modern Web Guidance plugin to the bundled plugin marketplace]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4 Apps and Integrations changes in v2.1.232]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-4-apps-and-integrations-changes-in-v1-16-0|4 Apps and Integrations changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2f11a4b9b295e2525544aee7a3c4a4935d1ff2be0cde8487dac3f445005ef21
+machine_hash: 3db9817eed623dee45dc9879e868d01487298cd0f2e656717aaf87e60afe14d2
 product: lovable
 product_name: Lovable
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191 Handle completion separators and popup dismissal @charliemarsh-oai]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]]
+- Later: 2026-07-09 · Raycast · [[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent|AI Chat : Reorder and edit queued messages before they're sent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

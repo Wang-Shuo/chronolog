@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d22f8f94543ad7d50a3e2c6140d3f02c552de5a2ca3280b5dad026aaa17892a0
+machine_hash: 91b807d54dbebf57f9bda14073053d2798b5cf66fc35d13b6348bbe64c06ab9b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,12 +80,12 @@ record:
   title: 9 Model Support changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-skip-reasoning-details-on-microwave-model-by-canvrno-in-https-github-com-cline-c|Skip
-  reasoning_details on microwave model]]'
 - '[[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model
   Support changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
   changes in v0.19.0]]'
+- '[[Changes/LM Studio/2025-12-02-support-for-mistralai-s-ministral-models-3b-8b-13b|Support
+  for MistralAI''s Ministral models (3B, 8B, 13B)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'
 source_type: github_releases
 theme: model-support
@@ -145,7 +145,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support changes in v0.19.0]]
+- Earlier: 2025-12-02 · LM Studio · [[Changes/LM Studio/2025-12-02-support-for-mistralai-s-ministral-models-3b-8b-13b|Support for MistralAI's Ministral models (3B, 8B, 13B)]]
 - Later: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add apply_patch toolchain for OpenAI Codex models]]
 <!-- chronolog:end -->
 

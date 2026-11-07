@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1aa4732952a724c15a8678bc6b47935c8bb6ac50dcf4d58f56e50e1d5e3dd0aa
+machine_hash: 980c7d9f6ea85712adb667959e5bc399c928d2bcf5cf1cfc08f2c7e0b5d6b408
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Add preCompact hook to run commands before context compaction starts
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-11-2-context-window-changes-in-rust-v0-114-0|2 Context
-  Window changes in rust-v0.114.0]]'
 - '[[Changes/Gemini CLI/2026-03-11-feat-cli-invert-context-window-display-to-show-usage-by-keithguerin-in-https-git|feat(cli):
   invert context window display to show usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status
   line context window percentage no longer inflates across turns by using…]]'
+- '[[Changes/Superwhisper/2026-03-12-added-mode-activation-to-mode-card-context-menu|Added
+  mode activation to mode card context menu]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status line context window percentage no longer inflates across turns by using…]]
+- Earlier: 2026-03-12 · Superwhisper · [[Changes/Superwhisper/2026-03-12-added-mode-activation-to-mode-card-context-menu|Added mode activation to mode card context menu]]
 - Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]]
 <!-- chronolog:end -->
 

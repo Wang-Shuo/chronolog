@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 346b45ccfae3030dd124c7c510ab1cbedb2483bff415f12871b89dff7bd9554a
+machine_hash: 871b26893c88f51d9120ec4ef0ad2b482b6372c69ba9168637a7fe6f89a325ed
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,8 +52,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
-  /voice devices to choose and persist the microphone for voice mode]]'
+- '[[Changes/Raycast/2026-07-16-applications-improve-audio-playing-detection-for-auto-quit-apps|Applications
+  : Improve audio playing detection for Auto-Quit apps]]'
 - '[[Changes/Dify/2026-07-17-3-voice-and-audio-changes-in-1-16-0|3 Voice and Audio
   changes in 1.16.0]]'
 - '[[Changes/ElevenLabs/2026-07-20-speech-to-text|Speech to Text]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c857d305f1d257c5bec3a3a17fb70bc19572c9cbc4b82a4b1e0a19d08fc95d29
+machine_hash: 84d119503fe6b1cd5a7fadbb2bcf9654efdfd963347dfdbc0ba65005b8bbf2a2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: ensure sandbox build script is cross-platform
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-10-opentelemetry-configuration-consistency-fixed-an-issue-where-opentelemetry-metri|\U0001F6E0️
-  OpenTelemetry Configuration Consistency]]"
 - '[[Changes/Dify/2025-08-11-3-safety-and-privacy-changes-in-1-7-2|3 Safety and Privacy
   changes in 1.7.2]]'
+- '[[Changes/Devin/2025-08-12-vpc-repo-indexing|VPC Repo Indexing]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-safety-and-privacy-changes-in-v0-1-19|2 Safety
   and Privacy changes in v0.1.19]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-13-v0-1-20-github-239538637-d79a0898|gemini-cli-2025-08-13-v0-1-20-github-239538637-d79a0898]]'

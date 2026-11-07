@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfb1b22de84f705f6bca28141d32c28d8b6a96c45f8d69b4bf2dbadd4d8c89c8
+machine_hash: 1ae457a352ae0d565f7e255c185d3e410b12b76786ba41e82b85c24abbcd9a43
 product: opencode
 product_name: OpenCode
 record:
@@ -40,12 +40,12 @@ record:
   title: Terminal Add streaming prop to markdown element
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer
-  Workflow changes in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
   from parent directories are now invocable and work in non-git directories]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
   layout adapts better to narrow terminal widths]]'
+- '[[Changes/LM Studio/2026-01-28-4-developer-workflow-changes-in-lm-studio-0-4-0|4
+  Developer Workflow changes in LM Studio 0.4.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-40-b7c9e067|opencode-2026-01-28-v1-1-40-b7c9e067]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header layout adapts better to narrow terminal widths]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-4-developer-workflow-changes-in-lm-studio-0-4-0|4 Developer Workflow changes in LM Studio 0.4.0]]
 - Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer Workflow changes in v1.1.37]]
 <!-- chronolog:end -->
 

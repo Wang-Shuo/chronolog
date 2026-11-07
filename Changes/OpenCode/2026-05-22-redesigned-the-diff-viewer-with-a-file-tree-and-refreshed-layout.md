@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ede4dc1c7133b11c03d8057c13f352c07eb00d4aef4ab71e9bca9c4d5b889152
+machine_hash: d99384ba827220119557862ba45cb0cd8dcba1c8ffc97e540fd9c3775fa5009e
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Redesigned the diff viewer with a file tree and refreshed layout
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
+- '[[Changes/Devin/2026-05-22-network-config-editor-redesign|Network Config Editor
+  Redesign]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
   implement codebase-aware effort level triage]]'
 - '[[Changes/Google Antigravity/2026-05-22-2-editor-experience-changes-in-hub-v2-0-6-antigravity-ide-integration|2

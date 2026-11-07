@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc7a7b75579d75327d67b15b72eaf19f42004fdd10a08bc5054d55c4c73f8ddf
+machine_hash: e7eaa6d268b9f90b7bcb94d6734bd10f79cd72585dcfbd931f5b81e0f72c469d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Files and Data changes in v0.6.34
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|\U0001F4CE
-  File upload handling was improved to properly recognize uploaded files even…]]"
 - '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
   Data changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and
   Data changes in v0.6.33]]'
+- '[[Changes/AnythingLLM/2025-10-09-2-files-and-data-changes-in-v1-9-0|2 Files and
+  Data changes in v1.9.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-10-16-v0-6-34-github-255079204-e6050e3c|open-webui-2025-10-16-v0-6-34-github-255079204-e6050e3c]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.34
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and Data changes in v0.6.33]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-2-files-and-data-changes-in-v1-9-0|2 Files and Data changes in v1.9.0]]
 - Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-document-all-settings-with-showindialog-true-by-scidomino-in-https-github-com-go|document all settings with showInDialog: true]]
 <!-- chronolog:end -->
 

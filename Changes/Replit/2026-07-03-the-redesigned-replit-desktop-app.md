@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 40516f50e32aa5f28cf9bbee9d7342df79ad2f592500f0a21d888d12fc7516aa
+machine_hash: a8aa3152b950fb0a2a6e8c8f78037fa3a6ea854e16b9fb66f2ef4a9d9d0cb479
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: The redesigned Replit Desktop App
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated
-  files inherit sensitivity labels Android, Windows, iOS, Mac…]]'
 - '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
   and Desktop changes in v1.17.13]]'
+- '[[Changes/Wispr Flow/2026-07-02-flow-now-switches-back-automatically-for-more-apps-ios|Flow
+  now switches back automatically for more apps (iOS)]]'
 - '[[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep
   automatic background updates from flashing a console window on Windows]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'

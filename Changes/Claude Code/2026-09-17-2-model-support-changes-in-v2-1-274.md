@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edb6dfaf63d342e72b29746ca4ec6466006fc8f75c2dad2fa73e1753784dbd35
+machine_hash: e001f37776f89a19920309f2d5b1e6363edb947e3b860b23fe4a7f8b830d87c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Model Support changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse
-  every model, and see which is best for the job]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
   Model Support changes in v1.0.85]]'
+- '[[Changes/Krea/2026-09-16-org-wide-usage-reporting|Org-wide Usage reporting]]'
 - '[[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat:
   add GPT-6 Astra model support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

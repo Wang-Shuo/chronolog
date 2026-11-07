@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 792332594a1635e238b92601e83479c8bb19d5f0753836564b58c3e65a35ea82
+machine_hash: adbc486ecb68fbf7ff2843bad6f0fe13371b7b0aed4da6f8ef69b001d50bca4c
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -51,12 +51,12 @@ record:
   title: Remove redundant LLM request logging context plumbing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
-  Window changes in rust-v0.140.0]]'
 - '[[Changes/Kimi Code/2026-06-15-2-context-window-changes-in-kimi-code-0-15-0|2 Context
   Window changes in Kimi Code 0.15.0]]'
 - '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
   will now return an error if a single message is larger than the current…]]'
+- '[[Changes/AnythingLLM/2026-06-16-x-meeting-assistant-context-window-overflow-handling-is-much-better-now-so-small|x
+  Meeting Assistant context window overflow handling is much better now - so small…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-16-0-16-0-340aad9e|kimi-code-2026-06-16-0-16-0-340aad9e]]'
 source_type: kimi_code_changelog
 theme: context-window
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-15 · Ollama · [[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama will now return an error if a single message is larger than the current…]]
+- Earlier: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-x-meeting-assistant-context-window-overflow-handling-is-much-better-now-so-small|x Meeting Assistant context window overflow handling is much better now - so small…]]
 - Later: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-supports-1m-lossless-context-significantly-improving-long-horizon-task-capabilit|Supports 1M lossless context, significantly improving long-horizon task capabilities…]]
 <!-- chronolog:end -->
 

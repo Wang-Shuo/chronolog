@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 025d887e66e59bdc529fc4a63e3e49bbc139a0afadd9a333c84878e600f668b5
+machine_hash: b67ac700574f90dba69977419a727fddcd600265ee92f4437f63298310e88a98
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,11 @@ record:
   title: Seedream 5 Pro and Seedance 2.5 for your app's AI features
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
-  Support changes in v1.0.100]]'
 - "[[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our
   upgraded model router \U0001F500]]"
 - '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
   Support changes in v1.0.101]]'
+- '[[Changes/Krea/2026-10-20-krea-3-in-the-chatgpt-app|Krea 3 in the ChatGPT app]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-20-2026-10-20-0d2d0ef5|lovable-2026-10-20-2026-10-20-0d2d0ef5]]'
 source_type: lovable_changelog
 theme: model-support
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model Support changes in v1.0.101]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-krea-3-in-the-chatgpt-app|Krea 3 in the ChatGPT app]]
 - Later: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt mode now honors managed Auto model selection for -p and piped stdin runs]]
 <!-- chronolog:end -->
 

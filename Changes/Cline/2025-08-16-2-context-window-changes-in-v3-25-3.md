@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e196c9590ab57ad35a056d3ebdd1c838ad80fbf054bb33ce757a209fdb1cdd9d
+machine_hash: 4bb051a84fef28b9c31bac7c951646ff4f3c502838d7afdea4a4943f815e8d44
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Context Window changes in v3.25.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-08-13-2-context-window-changes-in-0-52-0|2 Context Window
-  changes in 0.52.0]]'
 - '[[Changes/Gemini CLI/2025-08-14-6-context-window-changes-in-v0-1-21|6 Context Window
   changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-3-context-window-changes-in-v1-8-5|3 Context Window
+  changes in v1.8.5]]'
 - '[[Changes/Cline/2025-08-15-auto-compact-context-management-by-0xtoshii-in-https-github-com-cline-cline-pull|auto
   compact - context management]]'
 source_release: '[[Releases/Cline/cline-2025-08-16-v3-25-3-github-240406878-320ae97e|cline-2025-08-16-v3-25-3-github-240406878-320ae97e]]'
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.25.3
 ## Nearby in Context Window
 
 - Earlier: 2025-08-15 · Cline · [[Changes/Cline/2025-08-15-auto-compact-context-management-by-0xtoshii-in-https-github-com-cline-cline-pull|auto compact - context management]]
-- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-5-context-window-changes-in-v0-1-22|5 Context Window changes in v0.1.22]]
+- Later: 2025-08-16 · Devin · [[Changes/Devin/2025-08-16-github-connection-management|GitHub Connection Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64ff5a835444783beab07e8d8e701233c667ca142025e5d285783e606f3355cc
+machine_hash: 563932cdee8ab0b064740bca6701a68b83987b854ec8642cf478e41933a0fa0f
 product: ollama
 product_name: Ollama
 record:
@@ -54,10 +54,9 @@ record:
   title: 5 Model Support changes in v0.1.6
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
-- '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
+- '[[Changes/Raycast/2023-10-18-ai-commands-the-gpt-3-5-turbo-instruct-model-is-now-available-it-is-a-replacemen|AI
+  Commands : The GPT-3.5 Turbo Instruct model is now available]]'
+- '[[Changes/Raycast/2023-10-18-gpt-4-for-teams|GPT-4 for Teams]]'
 - '[[Changes/Ollama/2023-10-20-4-model-support-changes-in-v0-1-4|4 Model Support changes
   in v0.1.4]]'
 source_release: '[[Releases/Ollama/ollama-2023-10-27-v0-1-6-github-127004875-cc195255|ollama-2023-10-27-v0-1-6-github-127004875-cc195255]]'

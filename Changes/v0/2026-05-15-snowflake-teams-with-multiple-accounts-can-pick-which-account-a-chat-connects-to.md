@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4f9519901d2ed65c6d506b70932883043a75a03dd2de2c9c3f29a80587239bb
+machine_hash: 6100c61349dc72d23e30af2961bc8acb1b57f7b56e1c58056e168b05c8c35284
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,9 @@ record:
   title: Snowflake teams with multiple accounts can pick which account a chat connects…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
-  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/Krea/2026-05-13-a-link-sharing-toggle-lets-you-enable-disable-access-at-any-time-shows-the-date|A
+  Link sharing toggle lets you enable/disable access at any time (shows the date shared)]]'
+- '[[Changes/Krea/2026-05-13-moodboard-sharing|Moodboard Sharing]]'
 - '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
   Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'

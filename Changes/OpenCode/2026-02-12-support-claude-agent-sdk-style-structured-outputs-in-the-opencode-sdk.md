@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4bef91cbba93eedc844041dfd3f61e2f7f65a733ef3442483189242bc319a97d
+machine_hash: 3dfd648e84488a9097e1c8a7bf5d9163b8de9aa87c0f750ede81f985c23fded5
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents return complete responses]]
-- Later: 2026-02-13 · HeyGen · [[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe the video you want in natural language]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-devin-review-code-changes-from-chat|Devin Review: Code Changes from Chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

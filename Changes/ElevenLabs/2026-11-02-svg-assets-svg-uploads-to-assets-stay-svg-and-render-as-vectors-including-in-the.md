@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5846c1fd0bee57b6ee822c16cf498c81df7c769406f6924848759302e0cbbeb
+machine_hash: bf469ddb2b35ca91d3916c56fdd7abcf6d7d928473d4b530ba40cd3bde2e267f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,12 +55,11 @@ record:
   title: '**SVG assets**: SVG uploads to Assets stay SVG and render as vectors, including…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
-  Experience changes in v2.1.314]]'
 - '[[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core
   When edit can''t find oldString , the error shows the file''s closest lines…]]'
 - '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
   Experience changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-findings-improvements|Findings Improvements]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: editor-experience
@@ -115,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
+- Earlier: 2026-11-02 · Devin · [[Changes/Devin/2026-11-02-findings-improvements|Findings Improvements]]
 - Later: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project monitoring catches errors in your visitors' browsers]]
 <!-- chronolog:end -->
 

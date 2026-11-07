@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8071e3ea2f8461f37c57cba966f4f698bb3c8c44705931861608e2ef807da923
+machine_hash: 20a3dc9604dbb2a38cc6a00842d571df78b46a81e6832d5abad7f40181475152
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,8 +89,8 @@ record:
   title: 14 Apps and Integrations changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5
-  Apps and Integrations changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-refreshed-plugin-rows-and-logos|Refreshed Plugin Rows
+  and Logos]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2
   Apps and Integrations changes in v1.0.93]]'
 - '[[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|Improved

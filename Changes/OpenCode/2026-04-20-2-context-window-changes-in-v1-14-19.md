@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 483584e65ec3bd3e57a9b2d89ce3a3504e6503adafd2c54066aab4ef9fb408bf
+machine_hash: cb6d356fdb5fdee86767a7e97b1b1323cb24327f4ef475b92bf5243fe7202fce
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Context Window changes in v1.14.19
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
-  /statusline command (with /footer alias) to customize which items appear…]]'
+- '[[Changes/Devin/2026-04-17-this-release-also-includes-a-range-of-smaller-fixes-and-polish-sessions-now-indi|This
+  release also includes a range of smaller fixes and polish]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context
   Window changes in v1.0.32]]'
 - '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context

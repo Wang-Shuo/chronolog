@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8fd71ad05301b62cf8a9b6a96e7478efc930e3a326a5e42ed859e953c16b05c
+machine_hash: eced9fa808e063be2c34bb2be8ee522bd0190628caa3fa999c92f8795dff44f4
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Model Support changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
-  microagents available in the event stream as recall observations…]]'
 - '[[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes
   in 1.1.1]]'
+- '[[Changes/Superwhisper/2025-03-20-speed-model-improvements|Speed & Model Improvements]]'
 - '[[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes
   in v0.78.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'

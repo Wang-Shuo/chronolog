@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 372986ea8c11d6c5775d7e892b4e9fba94ce84397f8fc00587855ddd2e39d8be
+machine_hash: 08b64bf873c607cf52cbf92eae6f2f60a3589cc3e70b7db1f4f2895565731180
 product: gamma
 product_name: Gamma
 record:
@@ -42,10 +42,10 @@ record:
   title: Your fonts travel with your cards now
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core
-  Adjust skill presentation to reduce token usage]]'
 - '[[Changes/Notion/2026-03-26-finally-a-proper-presentation-mode|Finally, a proper
   presentation mode!]]'
+- '[[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-built-in-agent-for-document-generation-https-docs-anythingll|AnythingLLM
+  adds a new built-in agent for Document…]]'
 - '[[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
 source_type: gamma_changelog

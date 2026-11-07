@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f75aa3de659aa087719d4371ae6cb1f87a33abcb0cbdd6dd2e462b33222a9a41
+machine_hash: f32e33c313e82c27062df4177215ee1d82cf534ffd2ab5f7575290efc16a54b0
 product: descript
 product_name: Descript
 record:
@@ -59,12 +59,12 @@ record:
   title: Announcing—the Descript Customer Obsession Hackathon Telethon (May 14–15)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-17256-app-server-use-shared-receivers-for-app-server-message-processors-euroeles|♯17256
-  app-server: Use shared receivers for app-server message processors @euroelessar]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
   changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/Raycast/2026-04-15-quicklinks-hotkeys-should-no-longer-reset-at-startup-for-shared-quicklinks|Quicklinks:
+  Hotkeys should no longer reset at startup for shared Quicklinks]]'
 source_release: '[[Releases/Descript/descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2|descript-2026-04-16-69e11a9bcbb8c43b6e38c002-bf103ab2]]'
 source_type: canny_changelog
 theme: collaboration
@@ -115,7 +115,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717 codex Refactor marketplace add into shared core flow @xli-oai]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-quicklinks-hotkeys-should-no-longer-reset-at-startup-for-shared-quicklinks|Quicklinks: Hotkeys should no longer reset at startup for shared Quicklinks]]
 - Later: 2026-04-18 · OpenCode · [[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core Stopped share sync attempts for sessions that were never shared]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6146dc9619d2a1f0a6a28b7b850052846a73826e95c3922462c4d366d70d10f7
+machine_hash: f5a59111f785f744790772e8b46c32f8893cfa652569b328efb555fe81ee05cf
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
   title: 3 Editor Experience changes in v3.12.0
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-08-editor-updates|Editor updates]]'
-- '[[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for
-  the Editor recorder]]'
+- '[[Changes/Devin/2025-04-08-devin-knows-your-codebase-and-will-comment-on-each-ticket-in-minutes-with|Devin
+  knows your codebase and will comment on each ticket in minutes with]]'
 - '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
   fix the slider lint error]]'
+- '[[Changes/Raycast/2025-04-09-2-editor-experience-changes-in-raycast-macos-v1-1-95-0|2
+  Editor Experience changes in Raycast macos-v1 1.95.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-12-v3-12-0-github-212001434-6cc8f535|cline-2025-04-12-v3-12-0-github-212001434-6cc8f535]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-2-editor-experience-changes-in-raycast-macos-v1-1-95-0|2 Editor Experience changes in Raycast macos-v1 1.95.0]]
 - Later: 2025-04-14 · Aider · [[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added new editor-diff, editor-whole, and editor-diff-fenced edit formats]]
 <!-- chronolog:end -->
 

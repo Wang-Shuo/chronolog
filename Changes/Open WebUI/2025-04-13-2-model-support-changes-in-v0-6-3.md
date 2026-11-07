@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5f79c3b6f5038ba09efacba5e6e3af6b3c7713bbd3b311165406c306d8be096
+machine_hash: 54ee1c857e67a6de5edaa01f2a38c8203e9f79fe81510db2e5c3a3cdecc451ea
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Model Support changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
-  GPT‑4 in ChatGPT]]'
 - '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
   for xAI''s provider''s Grok 3 models]]'
+- '[[Changes/Recraft/2025-04-11-we-ve-added-imagen-3-as-the-latest-external-model-for-recraft-available-to-all-p|Recraft
+  adds Imagen 3 as the latest external model for Recraft, available to all…]]'
 - '[[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes
   in v3.12.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-13-v0-6-3-github-212047861-826c6203|open-webui-2025-04-13-v0-6-3-github-212047861-826c6203]]'

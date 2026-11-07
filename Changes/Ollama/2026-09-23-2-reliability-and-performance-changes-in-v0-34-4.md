@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e2d67f8985eaa70407c2d71743b6431ff92b8a51227ce6c046c45437875a0b0
+machine_hash: 13ebaac65bea24cb073e03077b4046443511a8a6e8617a22d96bbf21cb72dcc5
 product: ollama
 product_name: Ollama
 record:
@@ -44,9 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v0.34.4
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
-  skills and other customizations is now dramatically faster on large…]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Devin/2026-09-23-performance-improvements|Performance Improvements]]'
 - '[[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce
   the CLI''s startup time and memory usage]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae|ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae]]'

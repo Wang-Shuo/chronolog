@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b73df86190a9ed0d8e2a58a86a568dab982d58313227e9804bed96fddba33ec5
+machine_hash: f140f589ed39cf31a26ab40d647ba699d0697246c505c317e028176c89cd394c
 product: heygen
 product_name: HeyGen
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To support the stateful pause/resume mechanism required by HITL and provide…]]
-- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing): implement G1 AI credits overage flow with billing telemetry]]
+- Later: 2026-02-27 · Recraft · [[Changes/Recraft/2026-02-27-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

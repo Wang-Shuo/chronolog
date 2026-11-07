@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 738000f1caf10a0e9980a98b734f788d130936cc4b47b5fdc588df0d938f350b
+machine_hash: e14192da8e3355a8253c33fd030037b0d0f2a3f2728d91a262fe42ca423bbe85
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 'feat: add support to remote MCP servers for custom HTTP headers'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and
-  Integrations changes in 1.5.0]]'
+- '[[Changes/LM Studio/2025-06-25-enable-mcp-by-default|Enable MCP by default]]'
 - '[[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page
   for viewer seats]]'
 - '[[Changes/ElevenLabs/2025-06-30-sdks|SDKs]]'

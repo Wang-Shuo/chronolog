@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0f6cdd3a40a51ad8ebe3ab6da278438eb91e85376c1f6d5dceab803fc21cdc9
+machine_hash: 821cd42e475a3f970e5b533059b45fb40f0826a7d1a4454c7ab239185f10ecc7
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps
-  and Integrations changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5
   Apps and Integrations changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-2-apps-and-integrations-changes-in-v1-12-0|2 Apps
+  and Integrations changes in v1.12.0]]'
 - '[[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps
   and Integrations changes in v2.1.91]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d378c14206b648c267c2b0fc2f762b7c7fc475d0240536569b2bbb8fbbc14121
+machine_hash: 4a853bcef6af75473ed0078a4acd07a8c65248b934f1b651abcb66cb96a4cf6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -126,9 +126,9 @@ record:
   title: 37 Apps and Integrations changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP
-  servers: Apollo and Black Forest Labs]]'
 - '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
+- '[[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate
+  AWS Sdk to OpenAI]]'
 - '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
   Apps and Integrations changes in v2.1.186]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

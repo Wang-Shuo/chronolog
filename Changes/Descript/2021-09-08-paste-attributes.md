@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2d659ecaefe11ea341eff65584279c91747691adb19cd0bb618fcdfbc44063a
+machine_hash: 62d1fe22d8dab6ede3e00086b13cb3206d6ee1a436d742f4619a2507bdde0889
 product: descript
 product_name: Descript
 record:
@@ -50,8 +50,8 @@ record:
   title: Paste Attributes
   type: change
 related_changes:
-- "[[Changes/Notion/2021-05-13-2-mobile-and-desktop-changes-in-start-building-with-the-api|2
-  Mobile and Desktop changes in Start building with the API \U0001F477\U0001F3FB♀️\U0001F477\U0001F3FE♂️]]"
+- '[[Changes/Raycast/2021-06-16-contacts-added-action-to-call-phone-number-with-iphone|Contacts:
+  Added action to call phone number with iPhone]]'
 - '[[Changes/Notion/2021-07-14-brand-new-formatting-toolbar-on-ios-android|Brand new
   formatting toolbar on iOS & Android]]'
 - '[[Changes/Notion/2021-07-27-improved-calendar-view-on-ipad-android-tablets|Improved

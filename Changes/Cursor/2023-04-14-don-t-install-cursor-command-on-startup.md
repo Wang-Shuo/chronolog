@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ff8e8b5af196b18bad01f09daea15af63ad4bf6fedad276f788aad797008783
+machine_hash: d57c7a9cd1aedf558452c445c9d7042a54f81508163a6b197d9040490699b288
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Don't install "cursor" command on startup
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-23-terminal-no-longer-interferes-with-chat|Terminal no
-  longer interferes with chat]]'
 - '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
   terminal in your current folder]]'
+- '[[Changes/Raycast/2023-03-29-script-command-deeplinks-launch-any-script-command-from-outside-of-raycast-using|Script
+  Command Deeplinks]]'
 - '[[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns
   off the auto-install of the "cursor ." command (and fixes its install altogether)]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-14-0-2-3-https-cursor-com-changelog-0-2-3-08345344|cursor-2023-04-14-0-2-3-https-cursor-com-changelog-0-2-3-08345344]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-04-07 · Cursor · [[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns off the auto-install of the "cursor ." command (and fixes its install altogether)]]
-- Later: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]]
+- Later: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-3-developer-workflow-changes-in-raycast-macos-v1-1-50-0|3 Developer Workflow changes in Raycast macos-v1 1.50.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

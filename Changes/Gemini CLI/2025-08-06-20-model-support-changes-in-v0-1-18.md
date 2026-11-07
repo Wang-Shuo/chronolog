@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dee2abdead1efd5cb6700048eac3362dc415f8f3659e0a039933f0c14c9283cc
+machine_hash: ba3c36397feff84a4f4f1150c3faf2c844dd5a89c2ae86fde6dac94c6867db4a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -177,7 +177,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Model Support
 
 - Earlier: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]
-- Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
+- Later: 2025-08-06 · LM Studio · [[Changes/LM Studio/2025-08-06-there-are-2-models-gpt-oss-20b-and-gpt-oss-120b|There are 2 models: gpt-oss-20b and gpt-oss-120b]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e9f918a07d6552d1d56fad26cfcb4d39adfdc3cc2a0ec2716ef04dcc20e95329
+machine_hash: 6e73a6387fe6ed6f0eaf1600afa3017e2a154c6f1707eb2fd2bdf4c1c9d729dc
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,9 @@ record:
   title: '**OpenAI GPT-4o-mini Support**: Now available, by @takatost in #6442'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
-  changes in 0.8.1]]'
 - '[[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source
   link) A 3.8B model fine-tuned…]]'
+- '[[Changes/Superwhisper/2024-07-22-gpt-4o-mini-now-available|GPT-4o mini now available]]'
 - '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
   Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
 source_release: '[[Releases/Dify/dify-2024-07-23-0-6-15-github-166727210-9df490d0|dify-2024-07-23-0-6-15-github-166727210-9df490d0]]'

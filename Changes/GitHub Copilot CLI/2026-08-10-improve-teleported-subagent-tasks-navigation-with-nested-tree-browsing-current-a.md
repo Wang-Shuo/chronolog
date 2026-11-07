@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35b5fca9711359e0fa0e350cb640991bf73fd6e935acb548be84f92093532cb3
+machine_hash: 9efa7ca4b0b49b8c7e67cd1638c3e502f5030301ad3faa8731a8fa0f6075565d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3 Search and Browsing changes in rust-v0.147.0]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If you have the Google Drive plugin connected, you can now see and browse…]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-feat-agents-add-you-com-as-web-search-provider-by-souravrajvi0-in-https-github-c|feat(agents): add You.com as web search provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

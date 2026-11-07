@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65b309faf6430919ec27409c1242f3be1761482062b9295c01707c12595816ae
+machine_hash: 7c2349d11056022bfcf22236d15442e766f38cf130c82c15e0f57426044b7904
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 'web: Show session skills in the slash menu as `/skill:` so they are distinguishable…'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
-  model details tooltips in the model picker]]'
 - '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
   Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/Devin/2026-07-08-reorganized-settings-navigation|Reorganized Settings
+  Navigation]]'
 - '[[Changes/HeyGen/2026-07-08-colors-primary-secondary-accent-and-tertiary-colors-are-automatically-detected-f|Colors
   — primary, secondary, accent, and tertiary colors are automatically detected…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-08-0-23-2-9a81d837|kimi-code-2026-07-08-0-23-2-9a81d837]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d573cfc6a7b7c5b3c1f9554a509c8b791d7c18c1dc4d5c3a1c03c55a22c2aad5
+machine_hash: 89cb8bacbaf0cbdc35a4a8edf43cd8bc641c74fb1e61491c9d95dc1eb811a1e3
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added drag-and-drop support for files or screenshots directly onto the Agent panel]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
+- Later: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-krea-for-touchdesigner|Krea for TouchDesigner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

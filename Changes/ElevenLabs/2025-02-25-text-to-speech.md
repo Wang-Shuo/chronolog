@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1e84dbf123f1010f1c4965d9337ef0efe23dfb2c096fc8fa3e482230c3ec9359
+machine_hash: 6332a91df548ab4d5ab7477bf1d0e8454c072577f6a32e5accb7ab137da758ed
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export to Google Slides]]
+- Later: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-3-reliability-and-performance-changes-in-devin-updates-2025-02-26|3 Reliability and Performance changes in Devin updates — 2025-02-26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

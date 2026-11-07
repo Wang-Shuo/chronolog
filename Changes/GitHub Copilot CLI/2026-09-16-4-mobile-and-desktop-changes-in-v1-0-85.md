@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c9029f19f577362dbc32d6df282f04de029e52db9159616fb16b13bbc066b2a
+machine_hash: 3a9feee23dcbf8e2c10e5acc8819eeb020cbf61f7150426491900699a943d470
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,11 +52,11 @@ record:
   title: 4 Mobile and Desktop changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your
-  app to WhatsApp Business]]'
 - '[[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added
   ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]'
 - '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-09-15-wispr-flow-notetaker-is-now-live-on-windows-notetaker|Wispr
+  Flow Notetaker is now live on Windows (Notetaker)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -109,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-15 · Windsurf · [[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]
+- Earlier: 2026-09-15 · Wispr Flow · [[Changes/Wispr Flow/2026-09-15-wispr-flow-notetaker-is-now-live-on-windows-notetaker|Wispr Flow Notetaker is now live on Windows (Notetaker)]]
 - Later: 2026-09-16 · Windsurf · [[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

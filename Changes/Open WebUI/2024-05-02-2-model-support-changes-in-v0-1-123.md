@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae11f2e0359ec89dd9fe88fddf7f9b2b1b260c7615214f506cba039d5b101fb0
+machine_hash: 06fc11ae726d687190ca40340dd4ec6ab85d6a0339f9bf10f2feaac60c987f39
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Model Support changes in v0.1.123
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support
-  changes in v0.1.33]]'
+- '[[Changes/Superwhisper/2024-04-30-add-support-for-ollama-unlocks-using-all-latest-offline-ai-models-llama-8b-phi-3|Add
+  support for Ollama, unlocks using all latest offline AI models (Llama 8b, Phi-3)]]'
 - '[[Changes/Aider/2024-05-02-switch-models-during-the-chat-with-model-name-and-search-the-list-of-available-m|Switch
   models during the chat with /model name and search the list of available…]]'
 - '[[Changes/Dify/2024-05-02-5-model-support-changes-in-0-6-6|5 Model Support changes

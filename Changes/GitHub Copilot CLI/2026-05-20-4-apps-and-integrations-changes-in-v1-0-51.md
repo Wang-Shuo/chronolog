@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa3c63d1e08c8737a8bf8e9f63dfe7b3c9558529dcd56ddfeea4cba7333e9b7e
+machine_hash: 25936c948cafc3eb40f5d1af7ce3401fbb6512850112cd50930c115634b1c900
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
-  Apps and Integrations changes in v1.0.49]]'
 - '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
   API enhancements for custom connector relevance and UX…]]'
+- '[[Changes/Raycast/2026-05-19-applications-use-alternate-name-for-creator-studio-apps|Applications:
+  Use alternate name for Creator Studio apps]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
   Apps and Integrations changes in rust-v0.132.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'

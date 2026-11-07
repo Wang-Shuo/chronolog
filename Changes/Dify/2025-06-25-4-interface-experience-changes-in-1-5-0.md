@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 377258ed9a6919ac3d94de475bf39fc6ce7550f99c3a415570476a02271e3293
+machine_hash: 957667380e3ab1ead85fc4e2e2893a5b14836ff8b0e7b70865248f42603bbe82
 product: dify
 product_name: Dify
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Interface Experience changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
-  are also letting you animate images uploaded from outside of Midjourney]]'
 - '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
   saving an video to share, please right click your video and press…]]'
+- '[[Changes/Raycast/2025-06-20-4-interface-experience-changes-in-raycast-windows-0-24|4
+  Interface Experience changes in Raycast windows 0.24]]'
 - '[[Changes/Descript/2025-06-25-new-art-style-in-ai-video-maker-and-quick-design|New
   art style in AI video maker and Quick design]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 85961375c2b092d4b03b49e31ef6d0541828386fa1b78fb04bbe97a45c379f4b
+machine_hash: d88a876c23c4f0389b80dce4b823e67253caa1e06ddb97244f0ed5b0bd484453
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,12 +45,12 @@ record:
   title: GPT-5 Available
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
-  Support changes in rust-v0.15.0]]'
 - '[[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya
   everyone, we''re releasing a HD mode for our video model today!]]'
 - '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
   always provide reasoning]]'
+- '[[Changes/Superwhisper/2025-08-07-gpt-5-models-application-support|GPT-5 Models
+  & Application Support]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-08-07-v1-11-5-f6e202a2|windsurf-2025-08-07-v1-11-5-f6e202a2]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · Ollama · [[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai: always provide reasoning]]
-- Later: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes in v0.86.0]]
+- Earlier: 2025-08-07 · Superwhisper · [[Changes/Superwhisper/2025-08-07-gpt-5-models-application-support|GPT-5 Models & Application Support]]
+- Later: 2025-08-08 · Devin · [[Changes/Devin/2025-08-08-gpt-5-preview-access|GPT-5 Preview Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

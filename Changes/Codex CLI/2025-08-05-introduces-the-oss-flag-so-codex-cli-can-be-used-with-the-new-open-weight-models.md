@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c38191a0e7e934fe428605b8c13d93f473dab7c6ec0e09a6cd9374fafecab64c
+machine_hash: 4186629e833861dd1965d0195f09735dcc5c08eba08978d8363e1080687f8c7b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     models…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support
-  changes in v0.1.16]]'
+- '[[Changes/Recraft/2025-08-04-we-ve-added-qwen-image-as-a-new-external-model-in-recraft|Recraft
+  adds Qwen Image as a new external model]]'
 - '[[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]'
 - '[[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding
   Anthropic opus 4.1]]'

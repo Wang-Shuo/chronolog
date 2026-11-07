@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab96c715e2aa864f4ce1123d6ae3b1a4cbe6a6ec8f714015554559e1485632ce
+machine_hash: d0e545f2553e6b44319c44f3b046bddfe6b21f67043ed66660a0c72ea552b7fb
 product: opencode
 product_name: OpenCode
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Model Support changes in v1.3.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes
-  in v3.74.0]]'
 - '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
   Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/Raycast/2026-03-20-ai-tightened-logic-for-claude-models-to-address-empty-responses-in-chat|AI:
+  Tightened logic for Claude models to address empty responses in chat]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-22-v1-3-0-00955596|opencode-2026-03-22-v1-3-0-00955596]]'
 source_type: opencode_changelog
 theme: model-support
@@ -99,7 +99,7 @@ Source: https://opencode.ai/changelog/v1.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model Support changes in v1.0.10]]
+- Earlier: 2026-03-20 · Raycast · [[Changes/Raycast/2026-03-20-ai-tightened-logic-for-claude-models-to-address-empty-responses-in-chat|AI: Tightened logic for Claude models to address empty responses in chat]]
 - Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]
 <!-- chronolog:end -->
 

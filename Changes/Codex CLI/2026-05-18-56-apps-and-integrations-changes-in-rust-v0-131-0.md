@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05f5f7086c0b9bde27abf0ea9c5765ea876fee77f8d8ac957f08eb67236d12ab
+machine_hash: 8f1ce823537db5a7877265a6db322cc8de280774cae91c514e85589a343ca890
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -166,12 +166,9 @@ record:
   title: 56 Apps and Integrations changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-nine-new-connectors-ready-to-use-out-of-the-box|Nine
-  new connectors ready to use out of the box]]'
-- '[[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP
-  servers in the directory]]'
-- '[[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The
-  "built with v0" badge respects branding settings on deployed apps…]]'
+- '[[Changes/Devin/2026-05-17-slack-improvements|Slack Improvements]]'
+- '[[Changes/Devin/2026-05-17-mcp-oauth-client-credentials|MCP OAuth Client Credentials]]'
+- '[[Changes/Devin/2026-05-17-tavily-mcp-in-marketplace|Tavily MCP in Marketplace]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -323,7 +320,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
+- Earlier: 2026-05-17 · Devin · [[Changes/Devin/2026-05-17-tavily-mcp-in-marketplace|Tavily MCP in Marketplace]]
 - Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e39e689f2280e8eb8d775509f4b6a9b4f999d61a53c78c27c40ec5c4846eb200
+machine_hash: 83c3773cad2209ee3959ecc105a0bc7a40efc350849549e256194f36f68d915f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: Show download progress when running the update command
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer
-  Workflow changes in v0.41.0]]'
-- '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
-  Workflow changes in v2.1.129]]'
+- '[[Changes/Devin/2026-05-06-review-commit-links|Review Commit Links]]'
+- '[[Changes/Devin/2026-05-06-command-palette-search|Command Palette Search]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-2-developer-workflow-changes-in-v1-0-42|2
   Developer Workflow changes in v1.0.42]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-43-github-318656242-c81efbcc|github-copilot-cli-2026-05-06-v1-0-43-github-318656242-c81efbcc]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8a57d5cc688abe656191527cfe2a999bb1eac2c07403d98b3a3952bc3c9f1e43
+machine_hash: 204a7adb4b422add61a30292fb9031f10a642739ccec34c7b9df36cfdbc00cd5
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Gemini 4 Argon for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing
-  Gemini 4 Argon: our frontier model for complex tasks]]'
 - '[[Changes/HeyGen/2026-10-13-one-elevenlabs-engine-with-a-model-picker|One ElevenLabs
   engine, with a model picker]]'
 - '[[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]'
+- '[[Changes/LM Studio/2026-10-13-coexistence-with-bionic-run-both-apps-together-bionic-uses-lm-studio-for-local-m|Coexistence
+  with Bionic]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
 source_type: lovable_changelog
 theme: model-support
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]
+- Earlier: 2026-10-13 · LM Studio · [[Changes/LM Studio/2026-10-13-coexistence-with-bionic-run-both-apps-together-bionic-uses-lm-studio-for-local-m|Coexistence with Bionic]]
 - Later: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]
 <!-- chronolog:end -->
 

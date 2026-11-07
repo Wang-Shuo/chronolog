@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c0a0af15b08d3ba731e333933c009dcd23ff6c619c545b14fdb167076ee6c89
+machine_hash: 1a426a6fd10c607d2e79fb4c1f95a34660f6ab89fb421c1761d9417b208c9e57
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Image Generation changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544
-  Include transparent background in image generation analytics @copyberry]]'
 - '[[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated
   images referenced by relative paths render in responses, as do screenshots…]]'
 - '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
   Images 2.5 brings sharper details, more precise editing, and faster image…]]'
+- '[[Changes/Krea/2026-09-09-gpt-image-2-5-flare-and-gpt-image-2-5-sunburst|GPT Image
+  2.5 Flare and GPT Image 2.5 Sunburst]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-11-v2026-9-4-6cdeafb2|openclaw-2026-09-11-v2026-9-4-6cdeafb2]]'
 source_type: openclaw_changelog
 theme: image-generation
@@ -112,8 +112,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
-- Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT Image 2.5 Flare and Sunburst for your app's AI features]]
+- Earlier: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-gpt-image-2-5-flare-and-gpt-image-2-5-sunburst|GPT Image 2.5 Flare and GPT Image 2.5 Sunburst]]
+- Later: 2026-09-11 · Recraft · [[Changes/Recraft/2026-09-11-openai-s-fastest-image-generation-and-editing-model-is-available-in-recraft-stud|New Model: ChatGPT Images 2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

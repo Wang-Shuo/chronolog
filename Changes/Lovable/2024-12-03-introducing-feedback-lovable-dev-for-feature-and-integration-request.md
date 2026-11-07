@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7a3a0e48feedeeee477f5c2514089eee0b63090e1aed5df3b8a44d31a63029aa
+machine_hash: be96337871f9860bf645e332fda2bbde1294cc63001efb05aa4b9532af6c05b0
 product: lovable
 product_name: Lovable
 record:
@@ -43,8 +43,8 @@ record:
   title: Introducing feedback.lovable.dev for feature and integration request
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat:
-  add a minimal separator between pinned apps and unpinned apps in the explore page]]'
+- '[[Changes/AnythingLLM/2024-11-26-5-apps-and-integrations-changes-in-v1-3-0|5 Apps
+  and Integrations changes in v1.3.0]]'
 - '[[Changes/Gemini/2024-12-02-expanding-workspace-extensions-to-more-languages-keep-and-tasks|Expanding
   Workspace extensions to more languages: Keep and Tasks]]'
 - '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]
-- Later: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub Beta]]
+- Later: 2024-12-04 · Raycast · [[Changes/Raycast/2024-12-04-manage-auto-quits|Manage Auto Quits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

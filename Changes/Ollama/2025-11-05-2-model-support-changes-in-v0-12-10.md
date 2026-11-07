@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08c589e91ea89357178983197d402021bfa7dce0b550deb4448ace2a34f0f67f
+machine_hash: 539e4cd6206d415f43f11b1a8be2b5cb4d40718691ad340c999293748c87e3cf
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v0.12.10
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-2-model-support-changes-in-rust-v0-54-0|2 Model
-  Support changes in rust-v0.54.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
   changes in v0.12.0]]'
+- '[[Changes/LM Studio/2025-11-04-2-model-support-changes-in-lm-studio-0-3-31|2 Model
+  Support changes in LM Studio 0.3.31]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
   ChatGPT]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-05-v0-12-10-github-260054074-125e64f9|ollama-2025-11-05-v0-12-10-github-260054074-125e64f9]]'

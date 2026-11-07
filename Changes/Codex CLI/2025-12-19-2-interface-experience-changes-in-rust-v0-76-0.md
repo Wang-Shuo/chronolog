@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8b9a6fde352c128d4c90d8430074eae9d3c71c9c2be216b8cf6cc3e545095ae
+machine_hash: 0ab921295b47f76effdc3c9a45c7a8ac5e14b547eb13f38cff6b11fff6a57040
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.76.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]]
-- Later: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal Implement smooth scrolling for autocomplete dropdown navigation]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-child-session-indentation|Child Session Indentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

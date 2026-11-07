@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7456304089d35d204864e1fda31176bd3a7f4744657d041d7fb0b2723cc20cce
+machine_hash: 6301326193b75c2c39b3b405dc87e91c0772123a29421162273789481f7e436a
 product: ollama
 product_name: Ollama
 record:
@@ -71,8 +71,8 @@ record:
   title: 13 Model Support changes in v0.1.23
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-26-stable-lm-2-https-ollama-ai-library-stablelm2-a-state-of-the-art-1-6b-small-lang|Stable
-  LM 2((source link)]]'
+- '[[Changes/Superwhisper/2024-01-30-no-longer-send-empty-results-to-llm|No longer
+  send empty results to LLM]]'
 - '[[Changes/Dify/2024-02-01-4-model-support-changes-in-0-5-3|4 Model Support changes
   in 0.5.3]]'
 - '[[Changes/Gemini/2024-02-01-bard-with-gemini-pro-is-coming-to-more-languages|Bard

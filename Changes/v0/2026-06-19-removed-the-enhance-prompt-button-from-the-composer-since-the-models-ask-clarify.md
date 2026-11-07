@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 265ee4d7f7fe7d89839f08ca78d1e04250dedeb496524da905a01687f058c2a6
+machine_hash: 415506e3d217d2f7e08f8dfdc842e72535329603df817a89deb5bcad759e1766
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
     clarifying…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
-  send to choose a model]]'
-- '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
-  ai model mapping fix]]'
+- '[[Changes/Raycast/2026-06-18-ai-all-ai-modes-now-show-their-details-in-model-switchers-and-models-not-availab-ee4a0b|AI
+  : All AI Modes now show their details in model switchers and models not available…]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
+- '[[Changes/Recraft/2026-06-19-recraft-v4-1-models-now-generate-twice-as-fast-in-as-little-as-6-seconds-v4-1-pr|Faster
+  generations]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
+- Earlier: 2026-06-19 · Recraft · [[Changes/Recraft/2026-06-19-recraft-v4-1-models-now-generate-twice-as-fast-in-as-little-as-6-seconds-v4-1-pr|Faster generations]]
 - Later: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support changes in v1.17.9]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8afe9c25cae91e8f3f59281b965a7111a8c3f9adead42c8103c75123ed659e6
+machine_hash: 1691b07e26484ec182bb86702ea5855e07214b4b9c2737133fcf05347d8a82ff
 product: notion
 product_name: Notion
 record:
@@ -50,8 +50,8 @@ record:
   title: Share Notion AI chats as a link
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
+- '[[Changes/Raycast/2026-04-03-3-collaboration-changes-in-raycast-windows-0-52|3
+  Collaboration changes in Raycast windows 0.52]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-share-onedrive-files-with-a-copilot-generated-summary-in-windows-windows-onedriv|Share
   OneDrive files with a Copilot-generated summary in Windows Windows (OneDrive)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-microsoft-365-copilot-chat-available-in-teams-chats-channels-and-meetings-window|Microsoft

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8d4443f0b804c4933ec1d1e51fe6a4554db85a796d8aaab913e16352657900d
+machine_hash: 79c2e0e9ba25dad72032d4581224633f45da3552ee5abe3661dcfa80a2fee717
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: /changelog supports `last <N>`, `since <version>`, and `summarize` to browse…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
-  and Browsing changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-calculator-history-browse-search-and-pin-your-past-calculations-and-conversions|Calculator
+  History: Browse, search, and pin your past calculations and conversions]]'
 - '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
   Search and Browsing changes in rust-v0.113.0]]'
 - '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136

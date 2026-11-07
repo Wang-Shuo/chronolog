@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab9406ef8b27ef8d555ac868dac974d3ae3ff09beb57466c9818a8b4991a18d4
+machine_hash: 6a96e0dca8c23a78f9fc75fe91ce1232a4ec3fa03c52d81d6c447be66fb03cc4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]
-- Later: 2026-02-14 · Midjourney · [[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank you so much for your help!]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-skills-support|Skills Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

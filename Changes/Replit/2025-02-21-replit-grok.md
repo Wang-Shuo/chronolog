@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 71a195830b5ea08153c698b9c3d6f23efd1c4a877141bf3da307743bab587ff6
+machine_hash: cd0d8bdb3445e8aef687a7c55fc31b80999d172ed16d7ca61c3eeedc44e74aef
 product: replit
 product_name: Replit
 record:
@@ -46,9 +46,9 @@ record:
   title: "Replit \U0001F91D Grok"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
-  Integrations changes in 0.46.x]]'
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
+- '[[Changes/Raycast/2025-02-19-custom-focus-categories|Custom Focus Categories]]'
+- '[[Changes/Raycast/2025-02-19-2-apps-and-integrations-changes-in-raycast-macos-v1-1-92-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.92.0]]'
 - '[[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for
   Assistant]]'
 source_release: '[[Releases/Replit/replit-2025-02-21-2025-02-21-052e1226|replit-2025-02-21-2025-02-21-052e1226]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]
-- Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-2-apps-and-integrations-changes-in-v0-5-17|2 Apps and Integrations changes in v0.5.17]]
+- Earlier: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-2-apps-and-integrations-changes-in-raycast-macos-v1-1-92-0|2 Apps and Integrations changes in Raycast macos-v1 1.92.0]]
+- Later: 2025-02-26 · Raycast · [[Changes/Raycast/2025-02-26-ai-extensions-beta|AI Extensions Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

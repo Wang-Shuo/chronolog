@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ddc4191a0d1169934f3c1e966413d2884f1d91206167356f45b6fbeee2abdf5
+machine_hash: 0736ba299dd83658115a969b5edf3ab079fd740609c96f085582e719d02bb76a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Search and Browsing changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
+- '[[Changes/Raycast/2026-01-20-new-run-command-a-modern-replacement-for-the-classic-windows-run-dialog-instead|New
+  Run command, a modern replacement for the classic Windows Run dialog]]'
 - '[[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5
   Search and Browsing changes in rust-v0.92.0]]'
 - '[[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet

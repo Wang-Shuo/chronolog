@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0b068851c978231d166407b992e5b188f0e1efb05cfae9b68cb36de888fe5812
+machine_hash: 2a1770ea644f382c234bac985affad4b90a1fb9c4459211431f657c5438a22c7
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,12 +47,12 @@ record:
   title: Midjourney sailboat trips
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
-  reduced token consumption, round trips per problem, and time to result]]'
 - '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
   teams]]'
 - '[[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join
   CEO Laura and the team for a live demonstration of Descript''s generative video…]]'
+- '[[Changes/Devin/2025-10-17-steerable-wiki-for-github-and-gitlab|Steerable Wiki
+  for GitHub and Gitlab]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-10-17-https-updates-midjourney-com-midjourney-sailboat-trips-32db0d8a|midjourney-2025-10-17-https-updates-midjourney-com-midjourney-sailboat-trips-32db0d8a]]'
 source_type: midjourney_changelog
 theme: collaboration
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-14 · Descript · [[Changes/Descript/2025-10-14-join-ceo-laura-and-the-team-for-a-live-demonstration-of-descript-s-generative-vi|Join CEO Laura and the team for a live demonstration of Descript's generative video…]]
+- Earlier: 2025-10-17 · Devin · [[Changes/Devin/2025-10-17-steerable-wiki-for-github-and-gitlab|Steerable Wiki for GitHub and Gitlab]]
 - Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c9cc78e5bd44204cec352e00307120a4f2bdb5b0ab003a13f9aecfc213f6d65e
+machine_hash: ff3704cc0a0f9827d863e97daf8d45bb99e501889d6a4017a5e87f662d3eeb0e
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -51,12 +51,12 @@ record:
   title: Multimodal capture in Copilot Notebooks [Android] (OneNote)
   type: change
 related_changes:
-- '[[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose
-  Synthesia Avatars for your Syren videos]]'
-- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
-  camera discovery now reports an unreadable device folder as an error instead…]]'
+- '[[Changes/Devin/2026-10-26-recording-viewer-opens-on-the-video|Recording Viewer
+  Opens on the Video]]'
 - '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
   to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Krea/2026-10-26-the-krea-3-home-page-no-longer-crashes-when-you-open-image-video-or-enhancer|The
+  Krea 3 home page no longer crashes when you open Image, Video, or Enhancer]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: m365_copilot_changelog
 theme: multimodal
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-the-krea-3-home-page-no-longer-crashes-when-you-open-image-video-or-enhancer|The Krea 3 home page no longer crashes when you open Image, Video, or Enhancer]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized macOS camera clips and screen recordings now return an error instead…]]
 <!-- chronolog:end -->
 

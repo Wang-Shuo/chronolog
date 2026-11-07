@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 57db7394c00a777da038ca42ee408b45380ad9d168fd69afed95ad1b6920de07
+machine_hash: 3425c55b7fa309fff49bcb94978dbd2060b878655ab118e3bc982f5a130b7ffc
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Handoff between local and cloud
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
-  mode is tracked per session, so it no longer carries over when you create…]]'
 - '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
   session shutdown from resuming the agent when stopping background tasks]]'
+- '[[Changes/Superwhisper/2026-06-16-4-agent-mode-changes-in-superwhisper-macos-2-16-1|4
+  Agent Mode changes in Superwhisper macOS 2.16.1]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved the subagent panel]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode changes in rust-v0.141.0]]
+- Later: 2026-06-17 · Devin · [[Changes/Devin/2026-06-17-slack-agent-bang-command|Slack: !agent Bang Command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

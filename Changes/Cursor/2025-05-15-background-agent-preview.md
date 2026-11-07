@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8f06a11a51bba9078b6bf7dfe4f732fcdaff52702674d3bd023750a610d94dd2
+machine_hash: 3e0703c5704662a1cce39641b988bebc78a5aa457068a46e7d2ed32ea2089614
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
-- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine if every idea could become an AI agent]]
+- Later: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It's true: coding agents can be overconfident]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33efd96a708f54148adc09c5cbec8d7db23f9f853ca8e1dee96869e11f1023c6
+machine_hash: f1338708ddb202508a8839a571db464aa1c54f7dbf316e82ccd2256f8b034eaa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 12 Apps and Integrations changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire
-  up remote globalSkills from enterprise remote config with full UI, toggle…]]'
+- '[[Changes/Devin/2026-04-22-mcp-oauth-token-expiry-warnings|MCP OAuth Token Expiry
+  Warnings]]'
 - '[[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3
   Apps and Integrations changes in v2.1.119]]'
 - '[[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5

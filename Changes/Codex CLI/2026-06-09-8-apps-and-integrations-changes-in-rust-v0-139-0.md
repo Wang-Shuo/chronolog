@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bf00f398f5dbeaebf3cf2d10a11084fabfec965490cadc27f7e550b374b0691
+machine_hash: c32e66cc57c16f8dc84a38a80b60c5e7cc7fe6d2f7770658e41b0ca6fb7cef39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,11 +59,11 @@ record:
   title: 8 Apps and Integrations changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19
-  Apps and Integrations changes in rust-v0.138.0]]'
 - '[[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]'
 - '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
   and Integrations changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-apply-universal-sdk-timeout-by-timothycarambat-in-https-github-com-mintplex-labs|apply
+  universal sdk timeout]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps and Integrations changes in Changelog update]]
+- Earlier: 2026-06-09 · AnythingLLM · [[Changes/AnythingLLM/2026-06-09-apply-universal-sdk-timeout-by-timothycarambat-in-https-github-com-mintplex-labs|apply universal sdk timeout]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4 Apps and Integrations changes in v1.0.61]]
 <!-- chronolog:end -->
 

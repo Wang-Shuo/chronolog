@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ebf6916c082ebfc14872ede280d390d20bad1d6c143bebd3c7236fde8d9dfd2e
+machine_hash: 98bc59dec54cd02c1205608d04ab47478dd02617d8b32718a0551f72fbff9de6
 product: midjourney
 product_name: Midjourney
 record:
@@ -44,8 +44,7 @@ record:
   title: Thanks for testing our V8.0 model over the last month!
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
-  the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]'
 - '[[Changes/Midjourney/2026-04-14-what-s-next|What’s next?]]'
 - '[[Changes/Midjourney/2026-04-14-please-note|Please Note]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41|midjourney-2026-04-14-https-updates-midjourney-com-v8-1-alpha-7256cc41]]'
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
+- Earlier: 2026-04-14 · Krea · [[Changes/Krea/2026-04-14-compare-models-side-by-side|Compare models side by side]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 

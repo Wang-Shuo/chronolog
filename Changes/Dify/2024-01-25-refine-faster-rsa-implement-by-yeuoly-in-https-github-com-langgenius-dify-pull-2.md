@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 003756d462b06973c711b9c06a565691501100bb196f1685c44a3d8d152cc692
+machine_hash: 74992243cecf75fcd4fade1d76c095d8878a3933a01ef4288ff08d67749b5843
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: 'refine: faster rsa implement'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-11-web-bump-next-js-to-14-0-for-faster-local-server-startup-by-bowenliang123-in-htt|web:
-  bump Next.js to 14.0 for faster local server startup]]'
-- '[[Changes/Ollama/2024-01-11-2-reliability-and-performance-changes-in-v0-1-20|2
-  Reliability and Performance changes in v0.1.20]]'
+- '[[Changes/Superwhisper/2024-01-13-2-reliability-and-performance-changes-in-superwhisper-macos-1-22-2|2
+  Reliability and Performance changes in Superwhisper macOS 1.22.2]]'
 - '[[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2
   Reliability and Performance changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-application-uninstaller-uninstalling-big-applications-is-now-much-faster-and-you|Application
+  Uninstaller: Uninstalling big applications is now much faster and you…]]'
 source_release: '[[Releases/Dify/dify-2024-01-25-0-5-1-github-138569774-95222c7f|dify-2024-01-25-0-5-1-github-138569774-95222c7f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-01-20 · Ollama · [[Changes/Ollama/2024-01-20-2-reliability-and-performance-changes-in-v0-1-21|2 Reliability and Performance changes in v0.1.21]]
+- Earlier: 2024-01-24 · Raycast · [[Changes/Raycast/2024-01-24-application-uninstaller-uninstalling-big-applications-is-now-much-faster-and-you|Application Uninstaller: Uninstalling big applications is now much faster and you…]]
 - Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++ performance improvements]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4c9eca9283ec75b68c59473df7eccfd2add0e971b8aad4970725e126fc9a0b38
+machine_hash: 68e6af5eac114a98e5996bbda98d65a65b782fc77ab8b42d35046c7dcfe625a6
 product: gamma
 product_name: Gamma
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS Code 1.91.1: Cursor is now based on VS Code 1.91.1]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate to_replace in edit_file_by_replace AgentSkill]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-4-editor-experience-changes-in-v1-0-0|4 Editor Experience changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

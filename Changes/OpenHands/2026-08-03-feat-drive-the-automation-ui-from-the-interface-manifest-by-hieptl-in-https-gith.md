@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d18399bda0efd5bd4afe265facf4e5521c587b6cb79a475169cd9aa22b574b0d
+machine_hash: f556afd112aa6d2cca2f23c55f82d4d3eef5f132ab269ec9c89b4d31c1cdd90c
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: drive the automation UI from the interface manifest'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
-  Automation and Scheduling changes in v0.11.0]]'
-- '[[Changes/OpenHands/2026-07-29-chore-bump-software-agent-sdk-to-1-38-0-and-automation-to-1-4-1-by-hieptl-in-htt|chore:
-  bump software-agent-sdk to 1.38.0 and automation to 1.4.1]]'
 - '[[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore:
   bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]'
+- '[[Changes/Devin/2026-07-31-opt-in-public-github-repo-support-in-automations|Opt-In
+  Public GitHub Repo Support in Automations]]'
+- '[[Changes/Devin/2026-07-31-ip-allowlists-cover-automation-webhooks|IP Allowlists
+  Cover Automation Webhooks]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea|openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-ip-allowlists-cover-automation-webhooks|IP Allowlists Cover Automation Webhooks]]
 - Later: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename two loop_control keys]]
 <!-- chronolog:end -->
 

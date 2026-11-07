@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4d71aded2223d88d53e007b7188a1122a2f728d89d76461b9059861086f9fac
+machine_hash: 9748ce2941ae7ae68a2a15af7b465c11fca46d1866d49bac9acca03c73c52296
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'chore: consume SDK 1.49.4 and Automation 1.14.0'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14
-  Automation and Scheduling changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-simpler-create-automation-menu|Simpler Create Automation
+  Menu]]'
 - '[[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4
   Automation and Scheduling changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849

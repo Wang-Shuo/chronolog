@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 524a8bbf500fe21f634d5d86a4ea6a324bb392083289677afb3ede0615407011
+machine_hash: 38160a87f5f0fc88392964eca95fb4803708827e1c60f73fe780c08ee73d191e
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
-  CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 - '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation
   Warnings in CLI and during LLM API calls by @xingyaoww…]]'
 - '[[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support
   changes in 0.46.0]]'
+- '[[Changes/Recraft/2025-06-24-introducing-prompt-based-image-editing-https-www-recraft-ai-blog-describe-a-chan|Introducing
+  prompt-based image editing((source link)]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
 source_type: github_releases
 theme: model-support
@@ -87,8 +87,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-2-model-support-changes-in-0-46-0|2 Model Support changes in 0.46.0]]
-- Later: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes in v3.18.0]]
+- Earlier: 2025-06-24 · Recraft · [[Changes/Recraft/2025-06-24-introducing-prompt-based-image-editing-https-www-recraft-ai-blog-describe-a-chan|Introducing prompt-based image editing((source link)]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-2-model-support-changes-in-lm-studio-0-3-17|2 Model Support changes in LM Studio 0.3.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

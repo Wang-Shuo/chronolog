@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9729ca31a98a75b1285b7a4cb477eb15273d1c4abd4d20cdad54b61ed56e9fd1
+machine_hash: 3872d43a138fd4c541fb544c6971b084401140f68b93a74a024b83d172a7b961
 product: openclaw
 product_name: OpenClaw
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one click using Google]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- Later: 2026-10-29 · Raycast · [[Changes/Raycast/2026-10-29-ai-chat-offer-browser-sign-in-for-mcp-email-links|AI Chat: Offer browser sign-in for MCP email links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6b34d6f2c05538941eecab0ef4dd174bc7ff4e311380acec39ef1d38ac47b8c
+machine_hash: 72ce1824ec1814ee135d955b01da80092d929f558f20ebe2bbe4687cd62bc897
 product: cline
 product_name: Cline
 record:
@@ -58,10 +58,10 @@ record:
   title: 'feat(oca-ui): add OCA provider with model picker and auth integration'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️
-  OneDrive integration was fixed after recent breakage, restoring reliable account…]]'
-- '[[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP
-  ecosystem just got bigger]]'
+- '[[Changes/Raycast/2025-09-18-6-apps-and-integrations-changes-in-raycast-windows-0-31|6
+  Apps and Integrations changes in Raycast windows 0.31]]'
+- '[[Changes/Raycast/2025-09-18-starting-today-power-users-and-developers-can-spin-up-custom-extensions-on-windo|Starting
+  today, power users and developers can spin up custom extensions on Windows]]'
 - '[[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]'
 source_release: '[[Releases/Cline/cline-2025-09-20-v3-30-3-github-248753210-713b4a4c|cline-2025-09-20-v3-30-3-github-248753210-713b4a4c]]'
 source_type: github_releases

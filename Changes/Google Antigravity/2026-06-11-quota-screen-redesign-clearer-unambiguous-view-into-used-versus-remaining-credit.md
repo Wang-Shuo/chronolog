@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: b324d851d5d086e4be070ce4e430811a818dc4bc5110500a9804a65f5b7ea6ce
+machine_hash: c3c32d86db762aba65d5389417622b6a9746d14e8b05f4f0ac55b3cfb99dd25f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed Telethon]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
+- Later: 2026-06-12 · Recraft · [[Changes/Recraft/2026-06-12-super-7-credits|Super: 7 credits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

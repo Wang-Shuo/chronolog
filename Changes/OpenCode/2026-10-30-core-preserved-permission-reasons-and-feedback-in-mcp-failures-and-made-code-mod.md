@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb162f79c0650db6a5d71845b5e432d72445cbebde9e50d3c743c57fcbcc57f5
+machine_hash: c4a30b5f7e11f520eb17944b8690e2b745c2f0e7e6f825b862448325dc20618f
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,11 @@ record:
     Code Mode…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-security-advisory-this-release-contains-security-fixes-we-strongly-recommend-upd|\U0001F6E1️
-  Security Advisory: This release contains security fixes]]"
-- '[[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security
-  release: v2026.10.9 adds remediations for vulnerable dependencies…]]'
 - '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
   and Privacy changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-pylon-setup-dialog|Pylon Setup Dialog]]'
+- '[[Changes/Devin/2026-10-30-new-security-connections-sonarqube-linear-and-vanta|New
+  Security Connections: SonarQube, Linear and Vanta]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|opencode-2026-10-30-v2-2-3-0c0c59eb]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-new-security-connections-sonarqube-linear-and-vanta|New Security Connections: SonarQube, Linear and Vanta]]
 - Later: 2026-11-01 · Lovable · [[Changes/Lovable/2026-11-01-download-an-sbom-for-your-project|Download an SBOM for your project]]
 <!-- chronolog:end -->
 

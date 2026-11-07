@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59d60bdf131d466dbb403c1bc5fda5ffd9d4783082a5afeb0b69130f8f5880fb
+machine_hash: fd6293724d77de2cd9d6f81bbc4faa4ba78a02623783f6597b91e342265a9645
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,7 @@ record:
     each page
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Devin/2026-09-09-desktop-tab-on-touch-devices|Desktop Tab on Touch Devices]]'
 - '[[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2
   Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]'

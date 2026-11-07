@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1581937c05d9610341cb84497f555b898b120c78a41bc702a487c948d61f4bb0
+machine_hash: f5302055844b97f2c54ebb3de99de1aebd510534fadfb604e5cbd6ca55b83df8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,10 +44,10 @@ record:
   title: Maintenance warnings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
-  use of plugins and tools to carry out tasks]]'
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
+- '[[Changes/Krea/2026-10-16-check-your-balance-from-krea-mcp|Check your balance from
+  Krea MCP]]'
+- '[[Changes/Krea/2026-10-16-krea-3-api-resolution-and-priority|Krea 3 API resolution
+  and priority]]'
 - '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'
 source_type: openclaw_changelog
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]
-- Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration icons no longer fail to load in project settings]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-made-mention-labels-clearer-by-distinguishing-skills-and-mcp-tools|AI Chat : Made mention labels clearer by distinguishing skills and MCP tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

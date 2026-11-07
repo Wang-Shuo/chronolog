@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e7211b4e6515c59558663af02993246ab442ad8b76876cb0050b3344f0b805d
+machine_hash: b9320573c056935ede8b5e26b756ea3fdf80337e8091648fc52e0fdde3e8907e
 product: cline
 product_name: Cline
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Model Support changes in v3.20.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support
-  changes in v0.1.14]]'
-- '[[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes
-  in 1.7.1]]'
-- '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
-  changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-auto-transcribe-with-granola-auto-models-bring-your-own-models|Auto
+  Transcribe with Granola, Auto Models & Bring Your Own Models]]'
+- '[[Changes/Raycast/2025-07-30-byom-do-not-pass-temperature-if-not-supported-by-the-model|BYOM:
+  Do not pass temperature if not supported by the model]]'
+- '[[Changes/Raycast/2025-07-30-new-ai-experiments|New AI Experiments]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +96,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.20.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support changes in v0.1.15]]
+- Earlier: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-new-ai-experiments|New AI Experiments]]
 - Later: 2025-08-01 · Cline · [[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update Cerebras models]]
 <!-- chronolog:end -->
 

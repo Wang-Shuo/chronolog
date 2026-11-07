@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5791745d6b59a34335f3837c92e0edff1f4f5a4173228af970b2b711b370be46
+machine_hash: b5e0d46c98811a5c74b372ffd1b84291dc975ed70b155596aaf2aa065b539391
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
   title: Terminal Added opencode run --dangerously-skip-permissions to auto-approve…
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer
-  confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
   and Privacy changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-us-privacy-controls|US Privacy Controls]]'
 - '[[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety
   and Privacy changes in v0.37.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-08-v1-4-0-d8caa806|opencode-2026-04-08-v1-4-0-d8caa806]]'

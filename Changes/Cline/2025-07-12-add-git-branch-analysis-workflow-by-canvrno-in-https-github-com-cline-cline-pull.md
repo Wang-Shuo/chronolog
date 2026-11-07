@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f479f3b064dfefab356fbb3b4c6d8f95fc87898c67975fe9b070204567e3920
+machine_hash: 879d6422aba8bb6cb2febcbf7bdbfbb9a2c0f5a6fcdbc01e5d6f9f1d5aeb6e39
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add git branch analysis workflow
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed
-  terminal truncation to trim middle of long outputs instead of suffix]]'
 - '[[Changes/Gemini CLI/2025-07-01-6-developer-workflow-changes-in-v0-1-8|6 Developer
   Workflow changes in v0.1.8]]'
+- '[[Changes/Raycast/2025-07-02-notes-new-create-dictated-note-command-and-shortcuts-action-will-open-a-new-note|Notes:
+  New Create Dictated Note command and Shortcuts action will open a new note…]]'
 - '[[Changes/Gemini CLI/2025-07-11-2-developer-workflow-changes-in-v0-1-10|2 Developer
   Workflow changes in v0.1.10]]'
 source_release: '[[Releases/Cline/cline-2025-07-12-v3-18-13-github-231951683-431feb3a|cline-2025-07-12-v3-18-13-github-231951683-431feb3a]]'

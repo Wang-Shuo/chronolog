@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a3279e786961293e1b444e223a6cb2c6f8d3cf88a3ce305429f6e3e091839d16
+machine_hash: bac203af3be1dc82eae68b619ca7a72d38d417f7504379a9f5ba4051b60dc363
 product: descript
 product_name: Descript
 record:
@@ -45,11 +45,11 @@ record:
   title: Generate button for Avatar added to Scene editor toolbar
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
-  feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]'
-- '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
 - '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
   Code Cleanup]]'
+- '[[Changes/Raycast/2025-06-17-2-editor-experience-changes-in-raycast-ios-1-0-5|2
+  Editor Experience changes in Raycast ios 1.0.5]]'
+- '[[Changes/Raycast/2025-06-20-quick-ai|Quick AI]]'
 source_release: '[[Releases/Descript/descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3|descript-2025-06-25-685c06c091f36d8569309b19-df2c2fb3]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead Code Cleanup]]
-- Later: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s also a new dropdown View menu in the upper lefthand side of the screen…]]
+- Earlier: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-quick-ai|Quick AI]]
+- Later: 2025-06-25 · LM Studio · [[Changes/LM Studio/2025-06-25-cmd-shift-e-on-mac-or-ctrl-shift-e-on-pc-always-opens-the-system-prompt-editor-f|Cmd + Shift + E on Mac or Ctrl + Shift + E on PC always opens the system prompt…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

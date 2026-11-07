@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 373eb35d6195ebf114aed86a9e09f83194933fea40a86375ab4b204dc0068631
+machine_hash: 6fcbe32a9fe753f41d4d75a53ecaa8fbdd7e0b3b4c64e1937eff645fa2aeec46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
     generating…'
   type: change
 related_changes:
-- '[[Changes/Notion/2022-05-03-one-property-default-add-items-from-database-b-to-database-a-without-creating-an|One
-  property (default)]]'
-- '[[Changes/Notion/2022-08-11-align-images-and-other-embedded-content|Align images
-  and other embedded content]]'
+- '[[Changes/Raycast/2022-11-23-preferences-you-can-now-edit-the-alias-or-hotkey-of-next-previous-display-window|Preferences
+  : You can now edit the alias or hotkey of “Next/Previous Display” window…]]'
 - '[[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add
   scenes by active speaker out of beta]]'
+- '[[Changes/Raycast/2022-12-15-proxy-and-certificates-preferences-under-raycast-advanced-preferences-you-ll-fin|Proxy
+  and Certificates Preferences]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3|chatgpt-2023-01-09-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2022-12-06 · Descript · [[Changes/Descript/2022-12-06-add-scenes-by-active-speaker-out-of-beta-use-this-feature-from-the-script-action|Add scenes by active speaker out of beta]]
-- Later: 2023-01-23 · Descript · [[Changes/Descript/2023-01-23-made-it-easier-to-apply-changes-from-one-scene-to-all-scenes-that-a-layer-spans|Made it easier to apply changes from one scene to all scenes that a layer spans]]
+- Earlier: 2022-12-15 · Raycast · [[Changes/Raycast/2022-12-15-proxy-and-certificates-preferences-under-raycast-advanced-preferences-you-ll-fin|Proxy and Certificates Preferences]]
+- Later: 2023-01-18 · Raycast · [[Changes/Raycast/2023-01-18-bottom-left-menu-you-can-now-click-on-the-name-of-any-command-in-the-bottom-left|Bottom-left menu : You can now click on the name of any command in the bottom-left…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

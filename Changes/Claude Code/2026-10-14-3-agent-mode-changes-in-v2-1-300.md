@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9291528718310b056e1366ac3829dcab6d30e93cf70a343e294a76468514084a
+machine_hash: 7c50b66f056a32c8421529f65cb04436020aa35c94b93c1febb94e52947f1dfd
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Agent Mode changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Notion/2026-10-13-see-every-change-by-every-person-and-agent|See every
-  change by every person and agent]]'
 - '[[Changes/Notion/2026-10-13-column-permissions-in-databases|Column permissions
   in databases]]'
+- '[[Changes/Superwhisper/2026-10-13-the-agent-chat-no-longer-pops-up-over-an-agent-session-you-re-already-in|The
+  agent chat no longer pops up over an agent session you''re already in]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'

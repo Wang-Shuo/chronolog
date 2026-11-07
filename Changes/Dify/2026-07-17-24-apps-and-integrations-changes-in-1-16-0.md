@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dd81a9e7e689b91142b8b6eeca370a67671a47db34eee56679e1d24d4ea82a9
+machine_hash: 5c431d493d26c1b593501a262b3e407fad7ab663faf23a0de21129fa31311c07
 product: dify
 product_name: Dify
 record:
@@ -105,12 +105,11 @@ record:
   title: 24 Apps and Integrations changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
-  tool calls running longer than 2 minutes now move to the background…]]'
-- '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
-  in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
-- '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
-  support]]'
+- '[[Changes/Devin/2026-07-17-centralized-skill-management-via-plugins|Centralized
+  Skill Management via Plugins]]'
+- '[[Changes/Devin/2026-07-17-custom-slack-emoji-rendering|Custom Slack Emoji Rendering]]'
+- '[[Changes/Devin/2026-07-17-enterprise-grade-plugin-governance|Enterprise-Grade
+  Plugin Governance]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -205,7 +204,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment support]]
+- Earlier: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-enterprise-grade-plugin-governance|Enterprise-Grade Plugin Governance]]
 - Later: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-integrations|Integrations]]
 <!-- chronolog:end -->
 

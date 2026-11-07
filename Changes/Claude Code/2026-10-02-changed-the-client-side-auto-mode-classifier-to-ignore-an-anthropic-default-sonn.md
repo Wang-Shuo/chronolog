@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a4930d5dd56b672ad9ac249171d0a1ab3f27d9127fa97e6c1cf0752d0e6b3ec
+machine_hash: 7c922236166d6ddf15e1c3deb07968f9d8ab8635c108ee907c4149c040b198df
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: Changed the client-side auto mode classifier to ignore…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
-  changes in v2.1.287]]'
-- '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
-  Support changes in rust-v0.160.0]]'
+- '[[Changes/Krea/2026-10-01-model-access-replaces-workspace-model-controls|Model
+  Access replaces workspace model controls]]'
+- '[[Changes/Krea/2026-10-01-changes-for-existing-model-access-rules|Changes for existing
+  model access rules]]'
 - '[[Changes/Suno/2026-10-01-meet-the-first-model-to-create-a-speech-and-its-soundtrack-together-in-one-take|Introducing
   Speech (beta)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 73d66357cf8b26b636173a55e67ba0a5a1372a3063b22cb4b45d9b88a4aaa885
+machine_hash: e08883947df4380e4f47490f3cc4f3956032ca8219dc535d63dc9743c3823305
 product: gamma
 product_name: Gamma
 record:
@@ -52,8 +52,7 @@ record:
   title: Here's what's improved
   type: change
 related_changes:
-- '[[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading
-  state for translation]]'
+- '[[Changes/Devin/2025-11-21-wiki-branch-selection|Wiki Branch Selection]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
   timeline rendering of shell tool names]]'
 - '[[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface

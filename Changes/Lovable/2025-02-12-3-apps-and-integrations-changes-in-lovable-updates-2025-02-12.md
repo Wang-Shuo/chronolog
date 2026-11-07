@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08e7c0fd4643d2c6563b45c589b46398fc51fd3fb116e068cf6472308691cc05
+machine_hash: a6f4a8e1a26023fdbacac8770d2812154465219f9838bfe4ca1d551757a0747d
 product: lovable
 product_name: Lovable
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Apps and Integrations changes in Lovable updates — 2025-02-12
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-exa-search-engine-integration-a-new-search-provider-has-been-added-allowing-user|\U0001F517
-  Exa Search Engine Integration]]"
+- '[[Changes/Raycast/2025-02-05-raycast-focus-added-an-option-to-reopen-apps-that-were-closed-at-the-beginning-o|Raycast
+  Focus: Added an option to reopen apps that were closed at the beginning…]]'
 - '[[Changes/Dify/2025-02-07-add-azure-openai-api-version-2024-12-01-preview-by-kei-yamazaki-in-https-github|add
   azure openai api version 2024-12-01-preview]]'
 - '[[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority
@@ -88,7 +88,7 @@ Source: https://docs.lovable.dev/changelog
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-02-12 · Gemini · [[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority access with Gemini Advanced]]
-- Later: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-apps-and-integrations-changes-in-v1-7-4|2 Apps and Integrations changes in v1.7.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

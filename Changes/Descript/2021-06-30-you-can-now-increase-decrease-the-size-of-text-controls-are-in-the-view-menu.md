@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac230f532b19db9b71d7eb781918337f299ff125b65f0d48e392db94bc939b40
+machine_hash: 2342b1fbe8c171d3be8398dd6b0128c0c369afc16bb4e8779a0c781dddba1031
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,9 @@ record:
   title: Increase/decrease the size of text
   type: change
 related_changes:
-- '[[Changes/Descript/2021-06-15-we-ve-combined-the-composition-sidebar-and-media-library-into-a-unified-project|We''ve
-  combined the Composition Sidebar and Media Library into a unified Project…]]'
 - '[[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling
   for multi-clip selection]]'
+- '[[Changes/Raycast/2021-06-16-file-search|File Search]]'
 - '[[Changes/Descript/2021-06-30-2-interface-experience-changes-in-version-17-release|2
   Interface Experience changes in Version 17 Release]]'
 source_release: '[[Releases/Descript/descript-2021-06-30-6390c9b14a4a0d64fa5643cc-82f9a4de|descript-2021-06-30-6390c9b14a4a0d64fa5643cc-82f9a4de]]'
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling for multi-clip selection]]
+- Earlier: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-file-search|File Search]]
 - Later: 2021-07-13 · Descript · [[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]
 <!-- chronolog:end -->
 

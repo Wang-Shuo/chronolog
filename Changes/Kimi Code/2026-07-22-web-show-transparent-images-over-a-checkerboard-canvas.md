@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f107cb914990b8eb2c888a887263c04ee634db66565d2c9c1156bb3ab09474e8
+machine_hash: f93a7dc4e353b0dd39cce28bcfcf23f46a13292ce7cf7c1ed57994df728ce0f3
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,8 +41,7 @@ record:
   title: 'web: Show transparent images over a checkerboard canvas'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
-  canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Devin/2026-07-17-inline-link-previews|Inline Link Previews]]'
 - '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
   in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167

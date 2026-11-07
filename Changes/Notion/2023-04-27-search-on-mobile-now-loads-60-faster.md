@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a0dd0a6c75e25d4865ab658cb16ce1f0b76c8286187ff9bf1123f6a64edfc9ed
+machine_hash: fa24a00dcb4fc576a3b227544e61c9499a3c02ae1ccb2c2b7e62bd10a8aad527
 product: notion
 product_name: Notion
 record:
@@ -43,12 +43,12 @@ record:
   title: Search on mobile now loads 60%+ faster
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based
-  on user feedback, we are now defaulting Plus users to a faster version…]]'
 - '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
   updates performance of the ChatGPT model on our free plan in order to serve…]]'
 - '[[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big
   projects load quicker]]'
+- '[[Changes/Raycast/2023-02-22-raycast-ai-beta-magic-at-your-fingertips|Raycast AI
+  Beta - Magic at Your Fingertips]]'
 source_release: '[[Releases/Notion/notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c|notion-2023-04-27-https-www-notion-com-releases-2023-04-27-8f30da0c]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big projects load quicker]]
+- Earlier: 2023-02-22 · Raycast · [[Changes/Raycast/2023-02-22-raycast-ai-beta-magic-at-your-fingertips|Raycast AI Beta - Magic at Your Fingertips]]
 - Later: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker default effects]]
 <!-- chronolog:end -->
 

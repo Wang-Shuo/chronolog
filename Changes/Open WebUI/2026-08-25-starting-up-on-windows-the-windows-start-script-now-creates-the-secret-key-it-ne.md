@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8237ca164c9f25e97171dc721ce88a5a851656e5689eae1755eedc81899c86b
+machine_hash: f451dca8e0d836fdd06f4ed01b21ca566f1ae7bc1210ec5f817deae01b96f822
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-raycast-2-0-is-out-of-beta|Raycast 2.0 is out of Beta!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

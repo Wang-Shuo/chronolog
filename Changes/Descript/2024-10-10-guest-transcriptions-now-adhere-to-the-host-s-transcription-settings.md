@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99fc2af2ac14ca18ca0618a4c70d53c976c385f83fbae90bc5295b53d6b9e9b8
+machine_hash: 8cb5ae0fdb65871ca1538c6879c8a163b168de89621fc70dd559b6271d2f6e9e
 product: descript
 product_name: Descript
 record:
@@ -41,11 +41,10 @@ record:
   title: Guest transcriptions now adhere to the host’s transcription settings
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New
-  --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]'
-- '[[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and
-  Audio changes in v0.3.31]]'
 - '[[Changes/Descript/2024-10-08-default-ai-speaker-setting|Default AI Speaker setting]]'
+- '[[Changes/Superwhisper/2024-10-09-modes|Modes]]'
+- '[[Changes/Superwhisper/2024-10-09-removed-some-of-the-older-experimental-voice-models|Removed
+  some of the older experimental voice models]]'
 source_release: '[[Releases/Descript/descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569|descript-2024-10-10-6707098f3b81b493fa60dc1a-c901d569]]'
 source_type: canny_changelog
 theme: voice
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-default-ai-speaker-setting|Default AI Speaker setting]]
+- Earlier: 2024-10-09 · Superwhisper · [[Changes/Superwhisper/2024-10-09-removed-some-of-the-older-experimental-voice-models|Removed some of the older experimental voice models]]
 - Later: 2024-10-13 · ElevenLabs · [[Changes/ElevenLabs/2024-10-13-api|API]]
 <!-- chronolog:end -->
 

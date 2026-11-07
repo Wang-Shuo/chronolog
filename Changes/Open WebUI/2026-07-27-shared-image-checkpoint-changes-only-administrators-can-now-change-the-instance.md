@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 62b10729b2d4021a2632dfcba220435e935bfb6b5110fcfdcb68a229572fea5e
+machine_hash: be98597bff0f8a339e8cc2bdfff7ca7ae64bde4a3263ba34f8fc7d1546912274
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,12 @@ record:
     now change…"
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano
-  Banana 2 Lite]]'
-- '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
-  changes in v2026.7.1]]'
 - '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
   Generation changes in rust-v0.145.0]]'
+- '[[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps|AI
+  : Generated images can be dragged and dropped into other apps]]'
+- '[[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps-3f50b8|AI
+  : Generated images can be dragged and dropped into other apps]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: image-generation
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image Generation changes in rust-v0.145.0]]
+- Earlier: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-ai-generated-images-can-be-dragged-and-dropped-into-other-apps-3f50b8|AI : Generated images can be dragged and dropped into other apps]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850 Disable image generation for Free-plan accounts @copyberry]]
 <!-- chronolog:end -->
 

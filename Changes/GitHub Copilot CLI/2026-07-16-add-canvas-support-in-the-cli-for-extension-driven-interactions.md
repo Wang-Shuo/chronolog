@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0884c030418c729d472b337d7a0706763822b53d8cb46c404351ccef786cb399
+machine_hash: 6222b8d3720214942d17495af9aab5fd0abda7cc238ca81b766a173594fd4cf6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Add canvas support in the CLI for extension-driven interactions
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
-  Data changes in v2026.7.1]]'
+- '[[Changes/Superwhisper/2026-07-13-new-installations-now-use-superwhisper-instead-of-documents-superwhisper-as-thei|New
+  installations now use ~/superwhisper instead of ~/Documents/superwhisper…]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes in 1.16.0]]
+- Later: 2026-07-17 · Devin · [[Changes/Devin/2026-07-17-inline-link-previews|Inline Link Previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

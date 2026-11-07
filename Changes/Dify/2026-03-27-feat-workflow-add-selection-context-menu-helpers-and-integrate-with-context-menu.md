@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94ecddffa24f855711ff732fac5302eccbf924f5f64979c2b3cb9312eb238ed2
+machine_hash: 3adeb2e67529b680a1e43015241be217a30a4a1c5309ab0070d784cc68e6f7c4
 product: dify
 product_name: Dify
 record:
@@ -53,10 +53,10 @@ record:
     menu…'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-26-add-repeated-tool-call-loop-detection-to-prevent-infinite-loops-wasting-tokens|Add
-  repeated tool call loop detection to prevent infinite loops wasting tokens]]'
-- '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
-  Window changes in rust-v0.117.0]]'
+- '[[Changes/LM Studio/2026-03-26-add-support-for-reasoning-effort-and-reasoning-tokens-in-openai-compatible-v1-ch|Add
+  support for reasoning_effort and reasoning_tokens in OpenAI-compatible…]]'
+- '[[Changes/Superwhisper/2026-03-26-recording-window-right-click-context-menu-with-settings-and-resize-options|Recording
+  window right-click context menu with Settings and Resize options]]'
 - '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
   Window changes in v2.1.86]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'

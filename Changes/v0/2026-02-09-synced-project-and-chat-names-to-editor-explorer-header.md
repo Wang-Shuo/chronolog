@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec427341064efedfb63fd48b65f0d703bd8155d4ce1cb48bb4423008a0776f21
+machine_hash: d38970ee81ed25e9f3e7eaa4803112dbfc7e33f91b4da42d57651901ef62613d
 product: v0
 product_name: v0
 record:
@@ -40,12 +40,12 @@ record:
   title: Synced project and chat names to editor explorer header
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor
-  Experience changes in v0.27.0]]'
 - '[[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer
   mode is now stable and enabled by default, so Enter sends immediately during…]]'
 - '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
   console icons and titles in the editor]]'
+- '[[Changes/Devin/2026-02-06-devin-review-hide-comment-highlights|Devin Review: Hide
+  Comment Highlights]]'
 source_release: '[[Releases/v0/v0-2026-02-09-2026-02-09-4b81b7a2|v0-2026-02-09-2026-02-09-4b81b7a2]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-05 · v0 · [[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved console icons and titles in the editor]]
+- Earlier: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-devin-review-hide-comment-highlights|Devin Review: Hide Comment Highlights]]
 - Later: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-revert-understanding-thinking-and-view-media-in-underlord|Revert, understanding thinking, and view media in Underlord]]
 <!-- chronolog:end -->
 

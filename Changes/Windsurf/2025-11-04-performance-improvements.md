@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5f4ed4ec2e4489c72ba48e8f810f96deee886ed0448490bed201f792975824ac
+machine_hash: fb0da8f38209884d24725f03067c7d42b018d7eac5bd43c5c34abd6d1cee03fb
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,12 +48,12 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl
-  performance improvements, including flash attention support by default]]'
-- '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
-  improve tooltip and task header responsiveness]]'
+- '[[Changes/Devin/2025-10-31-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain
   verification improvements]]'
+- '[[Changes/LM Studio/2025-11-04-increase-image-resize-limits-to-1024x1024-for-improved-image-processing-performa|Increase
+  image resize limits to 1024x1024 for improved image processing performance…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-04-v1-12-28-55c0c8a2|windsurf-2025-11-04-v1-12-28-55c0c8a2]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain verification improvements]]
+- Earlier: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-increase-image-resize-limits-to-1024x1024-for-improved-image-processing-performa|Increase image resize limits to 1024x1024 for improved image processing performance…]]
 - Later: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add Vulkan memory detection for Intel GPU using DXGI+PDH]]
 <!-- chronolog:end -->
 

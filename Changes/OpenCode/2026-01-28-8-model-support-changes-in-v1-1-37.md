@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a08cc7e8d0bd471166579e724543718e5ed2073f3fbbe10692881ed65fe93c8
+machine_hash: b8e9921b5fc211db9396d5124299034a0eff7d3aa69c9724f432019e8016a970
 product: opencode
 product_name: OpenCode
 record:
@@ -55,12 +55,12 @@ record:
   title: 8 Model Support changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
-  ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 - '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
   in v3.55.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
   changes in v0.26.0]]'
+- '[[Changes/LM Studio/2026-01-28-19-model-support-changes-in-lm-studio-0-4-0|19 Model
+  Support changes in LM Studio 0.4.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'
 source_type: opencode_changelog
 theme: model-support
@@ -116,7 +116,7 @@ Source: https://opencode.ai/changelog/v1.1.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support changes in v0.26.0]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-19-model-support-changes-in-lm-studio-0-4-0|19 Model Support changes in LM Studio 0.4.0]]
 - Later: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring GPT-4o and other legacy models]]
 <!-- chronolog:end -->
 

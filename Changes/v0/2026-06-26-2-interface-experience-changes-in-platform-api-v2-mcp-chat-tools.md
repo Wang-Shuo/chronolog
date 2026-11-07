@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3fd5ba7ceb4088a370f089999bea3f5731f6a20281ad3f2da63881a827abab5
+machine_hash: a6015b0f04aac76d4463c3e447e9e8c1a8b62e92cfccacd5c083001a938a8850
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
 - '[[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep
   the web session sidebar from re-rendering on every streaming token to improve…]]'
+- '[[Changes/LM Studio/2026-06-26-2-interface-experience-changes-in-lm-studio-0-4-17|2
+  Interface Experience changes in LM Studio 0.4.17]]'
 - '[[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search
   the template and design system pickers]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'

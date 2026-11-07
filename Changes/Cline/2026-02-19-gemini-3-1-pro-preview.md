@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d79aa0b35c8864111b861b1666528987bb472d36e0d444e5ee96f186d399245
+machine_hash: ac5223b423fabb98e3db67fee5803fa8bbf6477f71975cc7ebe83f2f773e1b2a
 product: cline
 product_name: Cline
 record:
@@ -41,9 +41,9 @@ record:
   title: Gemini-3.1 Pro Preview
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-02-18-please-note|Please Note]]'
 - '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
   MiniMax-M2.5 model support]]'
+- '[[Changes/Recraft/2026-02-18-visual-taste-at-its-core|Visual taste at its core]]'
 - '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
   changes in v2.1.49]]'
 source_release: '[[Releases/Cline/cline-2026-02-19-v3-66-0-github-288419986-c4be416e|cline-2026-02-19-v3-66-0-github-288419986-c4be416e]]'

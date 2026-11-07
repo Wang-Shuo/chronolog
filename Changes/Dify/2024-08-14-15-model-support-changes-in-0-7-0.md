@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ee63c86c1c93f571e2f5c2baef3f6d813981df4336dc11a92f6c9c78a998172
+machine_hash: 4fe7d57f4ce1407614aba9434fec0c3549dedd83623ce826d413bc0b0b8c813c
 product: dify
 product_name: Dify
 record:
@@ -147,7 +147,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.0
 ## Nearby in Model Support
 
 - Earlier: 2024-08-13 · Ollama · [[Changes/Ollama/2024-08-13-ollama-create-can-now-import-phi-3-models-from-safetensors|ollama create can now import Phi-3 models from Safetensors]]
-- Later: 2024-08-15 · Cline · [[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds support for Prompt Caching((source link)]]
+- Later: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-2-model-support-changes-in-raycast-macos-v1-1-81-0|2 Model Support changes in Raycast macos-v1 1.81.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d67ca619d274906c9aa669187aa5b32201eb30584c986f4062917bf37db7c43
+machine_hash: 87633521ab8bb79fe44ee533bf0e6b5bc11325a88d7aaa54c899c1802ec510ec
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Model Support changes in Kimi Code 0.24.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
-  Support changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
   changes in v1.17.20 + 1]]'
+- '[[Changes/Superwhisper/2026-07-13-smarter-vocabulary-for-offline-whisper-models|Smarter
+  vocabulary for offline whisper models]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-14-0-24-1-1816bf3a|kimi-code-2026-07-14-0-24-1-1816bf3a]]'

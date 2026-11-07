@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51f8512f2af9a8108b8adfc19fce3d5a79c610fc70e2288d3c7f9876d9470355
+machine_hash: b7bdd0a21a3ff35681a2f0abe2c77623c6082e5ab4b1387cb68bda16ac41b6e4
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: Commit messages are no longer prefixed with "aider:"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-10-backend-task-management-tasks-like-title-generation-and-search-query-generation|\U0001F527
-  Backend Task Management]]"
 - '[[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow
   changes in 0.6.11]]'
 - '[[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer
   Workflow changes in v0.38.0]]'
+- '[[Changes/Raycast/2024-06-19-quit-all-applications-the-command-now-includes-raycast-windows-by-default-you-ca|Quit
+  All Applications : The command now includes Raycast windows by default]]'
 source_release: '[[Releases/Aider/aider-2024-06-20-v0-39-0-github-161564157-bb86ead6|aider-2024-06-20-v0-39-0-github-161564157-bb86ead6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-06-17 · Aider · [[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer Workflow changes in v0.38.0]]
+- Earlier: 2024-06-19 · Raycast · [[Changes/Raycast/2024-06-19-quit-all-applications-the-command-now-includes-raycast-windows-by-default-you-ca|Quit All Applications : The command now includes Raycast windows by default]]
 - Later: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer Workflow changes in v0.40.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a834b0f46035cb8c14b876e70e55eb1938495d4f47520b60c5e2d1e89b93fa6
+machine_hash: 1a097481ce01d41f18c208d7c0606d4105c73c24d04ae58580b9788e85948306
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,12 +43,12 @@ record:
   title: A new Folders menu is available on both the Create and Organize pages
   type: change
 related_changes:
-- "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
-  your doc \U0001F440]]"
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
 - '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
   Experience changes in 0.25.0]]'
+- '[[Changes/Raycast/2025-02-19-2-interface-experience-changes-in-raycast-macos-v1-1-92-0|2
+  Interface Experience changes in Raycast macos-v1 1.92.0]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31|midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31]]'
 source_type: midjourney_changelog
 theme: interface-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface Experience changes in 0.25.0]]
+- Earlier: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-2-interface-experience-changes-in-raycast-macos-v1-1-92-0|2 Interface Experience changes in Raycast macos-v1 1.92.0]]
 - Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
 <!-- chronolog:end -->
 

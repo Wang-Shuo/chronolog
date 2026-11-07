@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77404f8c55b5244df0a58df608b7815b00dd99cfd11ac7af302a2347c92e0bfc
+machine_hash: a8e353e3e63e3b6a77f46a32f930396b82abded436fb2da6927b94e026c2b0af
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Model Support changes in Kimi Code 0.3.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
-  subagents use GPT-5.4 or GPT-5.5 when available]]'
-- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
-  in v3.85.0]]'
+- '[[Changes/Superwhisper/2026-05-25-support-for-parakeet-local-models-on-arm-based-processors|Support
+  for Parakeet local models on ARM based processors]]'
+- '[[Changes/AnythingLLM/2026-05-26-11-model-support-changes-in-v1-13-0|11 Model Support
+  changes in v1.13.0]]'
 - '[[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model
   Support changes in Kimi Code 0.2.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-05-26-0-3-0-92e16055|kimi-code-2026-05-26-0-3-0-92e16055]]'

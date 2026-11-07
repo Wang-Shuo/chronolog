@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a48229c7e5783794036acf397124666b072687200e05f92c1fb721f5c0440856
+machine_hash: 4e895f1066e4cfafe8126d9de92f73ba967f393842553c987ee601e72c294540
 product: replit
 product_name: Replit
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-configurable-api-key-authentication-restrictions-flexibly-configure-endpoint-res|🔒 Configurable API Key Authentication Restrictions]]
-- Later: 2025-01-28 · Lovable · [[Changes/Lovable/2025-01-28-when-creating-signup-and-login-flows-lovable-builds-custom-authentication-uis-ta|When creating signup and login flows, Lovable builds custom authentication UIs…]]
+- Later: 2025-01-08 · Devin · [[Changes/Devin/2025-01-08-use-devin-s-browser-when-setting-up-devin-s-workspace-i-e-machine-snapshot|Use Devin's Browser when setting up Devin's workspace (i.e. machine snapshot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

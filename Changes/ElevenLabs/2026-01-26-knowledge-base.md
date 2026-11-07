@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ea225cfe083b534263b1f38d2a0c7f5fc01d34705652ae4da7accfb60fc2d961
+machine_hash: 70d19819e100bbbec130fb9046231ca9da9314da1d12a427159aa36d8678209a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,11 +51,11 @@ record:
   title: Knowledge Base
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate
-  Office documents from agents in Copilot Studio lite Windows…]]'
 - '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
   fix(tui): document paste-burst state machine @joshka-oai]]'
 - '[[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]'
+- '[[Changes/AnythingLLM/2026-01-22-make-xlsx-spreadsheets-visible-in-chat-by-combining-sheets-by-shatfield4-in-http|Make
+  XLSX spreadsheets visible in chat by combining sheets]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-26-2026-01-26-f7dcd336|elevenlabs-2026-01-26-2026-01-26-f7dcd336]]'
 source_type: elevenlabs_changelog
 theme: file-data
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191 chore(app-server): document AuthMode @owenlin0]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-make-xlsx-spreadsheets-visible-in-chat-by-combining-sheets-by-shatfield4-in-http|Make XLSX spreadsheets visible in chat by combining sheets]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-improved-pdf-rendering-quality-for-tool-requests-and-responses|Improved PDF rendering quality for tool requests and responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

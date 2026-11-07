@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1314383514547f3d177a956b863552bc7cad23ebf2aea9b405cf440406abfb65
+machine_hash: 1a4552a6e93dce7c9f08f616d2f643c8a8f1a3a5bb6912381e37a6bee114cbc9
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     colors…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-04-3-developer-workflow-changes-in-kimi-code-0-10-0|3
-  Developer Workflow changes in Kimi Code 0.10.0]]'
+- '[[Changes/Devin/2026-06-05-devin-review-action-required-flags-on-prs-by-default|Devin
+  Review: Action-Required Flags on PRs by Default]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
   Developer Workflow changes in v1.0.60]]'
 - '[[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show

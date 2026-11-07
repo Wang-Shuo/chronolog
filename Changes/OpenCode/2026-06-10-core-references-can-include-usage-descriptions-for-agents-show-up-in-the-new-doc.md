@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aa010097301d3169cdf18eb4b93087d5fc1347c06745aac1d02901ed97c4060d
+machine_hash: d03cf264623a6acef498e4e58e6c3fe9adb1052d837c1349319a92849d312016
 product: opencode
 product_name: OpenCode
 record:
@@ -55,7 +55,8 @@ record:
     new docs…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
+- '[[Changes/Superwhisper/2026-06-09-meeting-mode-now-respects-language-selection-in-ai-summary|Meeting
+  mode now respects language selection in AI summary]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 - '[[Changes/OpenCode/2026-06-10-desktop-restore-the-device-attachment-picker|Desktop

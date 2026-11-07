@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8e5f7ea3b19cd87fc8a5658902e6ee8e0d63f782abb68c2638d40753137e2ced
+machine_hash: a7f3e4905dfb1c34ae7b1dcaa2216e45add12fad27082b24a9a5ff19c518731b
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Faster starts
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability,
-  Performance Gains, and User Experience Polish]]'
 - '[[Changes/Google Antigravity/2026-08-12-queued-messages-file-attachments-and-performance-improvements|Queued
   Messages, File Attachments, and Performance Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening
   long conversations is now dramatically faster]]'
+- '[[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We
+  also made some large performance improvements, like lazy-loading of folders…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening long conversations is now dramatically faster]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We also made some large performance improvements, like lazy-loading of folders…]]
 - Later: 2026-08-13 · Google Antigravity · [[Changes/Google Antigravity/2026-08-13-chat-responsiveness-improvements|Chat Responsiveness Improvements]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c57b381b474b577f2b532bb6e253158f45383c028973dc01d2c3f44d5ea250b9
+machine_hash: 3980dc103737b2f460954201c02d92c8926dd2a27c744f3906be6ce23501f8cd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,8 +52,8 @@ record:
   title: 3 Safety and Privacy changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2
-  Safety and Privacy changes in rust-v0.130.0]]'
+- '[[Changes/Devin/2026-05-08-service-user-permission-management|Service User Permission
+  Management]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-pressing-ctrl-c-while-a-permission-prompt-is-pending-no-longer-causes-the-cli-to|Pressing
   Ctrl+C while a permission prompt is pending no longer causes the CLI to hang]]'
 - '[[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center

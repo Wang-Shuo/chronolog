@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5bebe4319811725bd2525f1e29ae9efb41e00c13f476553f01504e7dec0c7a9e
+machine_hash: 537d3fac068bc8b97b583b1192c195120c182e21e7249f8a2dff55528f06df87
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.19.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model Support changes in rust-v0.64.0]]
-- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support changes in v0.6.41]]
+- Later: 2025-12-02 · LM Studio · [[Changes/LM Studio/2025-12-02-support-for-mistralai-s-ministral-models-3b-8b-13b|Support for MistralAI's Ministral models (3B, 8B, 13B)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

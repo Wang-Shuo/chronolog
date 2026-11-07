@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef6eecfbdf7bb6f07e71a892543eb5f6dc62946fd8d3bc237a10aeef19d0d3fd
+machine_hash: 89564bb5271367f6cee08377b965b14a8e4786f2a69b4f3a39a4eb3d1dbecc5d
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Interface Experience changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
-- '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
-  Fixes: Addressed various style and interaction issues, like sidebar width…]]'
-- '[[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]'
+- '[[Changes/AnythingLLM/2025-03-27-persist-images-attached-in-api-requests-to-the-ui-for-rendering-by-timothycaramb|Persist
+  images attached in API requests to the UI for rendering]]'
+- '[[Changes/Raycast/2025-03-27-you-can-now-customise-the-emoji-picker-s-columns-primary-action-and-skin-tone-th|Customise
+  the Emoji Picker’s columns, primary action, and skin tone through…]]'
+- '[[Changes/Raycast/2025-03-27-you-can-now-assign-a-hotkey-to-any-command-not-just-applications|Assign
+  a hotkey to any command, not just applications]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,7 +86,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]
+- Earlier: 2025-03-27 · Raycast · [[Changes/Raycast/2025-03-27-you-can-now-assign-a-hotkey-to-any-command-not-just-applications|Assign a hotkey to any command, not just applications]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-interface-experience-changes-in-v0-6-0|3 Interface Experience changes in v0.6.0]]
 <!-- chronolog:end -->
 

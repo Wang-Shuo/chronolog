@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce19bbcc5ad4761287301b2bff0199a775fdba109fad87afbfe2fce21e37f75f
+machine_hash: 29a99ba5c4349ea02cb637d278356b035d07d794973c1dd558bc9f40ca257591
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App creation and onboarding]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3 Interface Experience changes in rust-v0.132.0]]
+- Later: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-the-next-generation-of-raycast-is-here-a-new-foundation-redesigned-from-the-insi|The next generation of Raycast is here 🎉 A new foundation, redesigned from the inside out]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

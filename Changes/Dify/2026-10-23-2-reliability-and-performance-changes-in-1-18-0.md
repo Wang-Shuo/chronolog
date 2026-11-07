@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74d892b7f7f019091601e9545011a08d596521dc3bafeac06f297a4f02608df8
+machine_hash: a1c60640de713f37372d1199328b2cabf4794fdccfc7966cc68b37f171d54022
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Reliability and Performance changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
-  the same official Docker container no longer copies all its saved state…]]'
+- '[[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-macos-2-9|2
+  Reliability and Performance changes in Raycast macos 2.9]]'
 - '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
   memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
 - '[[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2

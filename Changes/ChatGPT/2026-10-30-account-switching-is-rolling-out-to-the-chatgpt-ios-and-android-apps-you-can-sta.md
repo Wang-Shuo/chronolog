@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3df1e685b2e839a67ca7c27c11cd9dc22db7d86e506b97e6c22dca5cb338d785
+machine_hash: cb655ad317b4e4e4bdeb1c8e2f434673a9bf18ab84be0fb3bcc0ecc855f345ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,10 @@ record:
   title: Account switching on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web
-  sessions now unload from memory after 30 minutes idle and resume transparently…]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
+- '[[Changes/LM Studio/2026-10-29-mac-added-maximum-memory-and-neural-engine-prefill-controls-for-splash-models|Mac
+  Added maximum-memory and Neural Engine Prefill controls for Splash models]]'
 - '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2
   Memory and Personalization changes in v0.12.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929|chatgpt-2026-10-30-account-switching-on-ios-and-android-911d7929]]'

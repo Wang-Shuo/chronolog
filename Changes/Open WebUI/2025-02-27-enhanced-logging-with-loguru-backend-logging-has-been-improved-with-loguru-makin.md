@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 392a6ad34d6af7e4f141cf96be388883bda0ee6b215da8010141fec3f56bc015
+machine_hash: 97dabd8b491d79e6a06e6d3f57c2ce8c7ea2a5c84bb549335e25ed9f0fb777c8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: "**\U0001F4C8 Enhanced Logging with Loguru**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service，Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
   resource usage of command to avoid OOM Runtime Kill]]'
 - '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
   @git to reference the current working changes or specific commits…]]'
+- '[[Changes/Devin/2025-02-26-2-developer-workflow-changes-in-devin-updates-2025-02-26|2
+  Developer Workflow changes in Devin updates — 2025-02-26]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New @git to reference the current working changes or specific commits…]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-2-developer-workflow-changes-in-devin-updates-2025-02-26|2 Developer Workflow changes in Devin updates — 2025-02-26]]
 - Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-2-developer-workflow-changes-in-1-0-0|2 Developer Workflow changes in 1.0.0]]
 <!-- chronolog:end -->
 

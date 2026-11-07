@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6111ba943b3d94189c70e9eaf9ae0ead130ee9190022e9a1a894c7a8033cf4fd
+machine_hash: 6608735a4320445627889003395e9ed09ce5b081ce75ef1af7af8bff9b260822
 product: descript
 product_name: Descript
 record:
@@ -44,8 +44,9 @@ record:
   title: For Enterprise users
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2025-01-16-introducing-devin-enterprise-accounts|Introducing Devin
+  enterprise accounts]]'
 - "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
   Chat Controls Permissions]]"
 source_release: '[[Releases/Descript/descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1|descript-2025-02-04-67a23b91579cdd7886863af8-b12796a1]]'

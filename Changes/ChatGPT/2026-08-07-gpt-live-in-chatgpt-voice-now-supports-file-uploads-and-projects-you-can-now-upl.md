@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c7334d1e169db4d7f41e6361c777c9a1ca63e02334d5ccdd5b6e066bd758b72
+machine_hash: 44a87cd82172c0e034eb772d6d3795eba4f98d7f1c51e22d7d08ecf1e3061fb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,7 +48,8 @@ record:
   title: Files and Projects in ChatGPT Voice
   type: change
 related_changes:
-- '[[Changes/Descript/2026-08-05-smoother-jump-cuts|Smoother jump cuts]]'
+- '[[Changes/Superwhisper/2026-08-06-2-voice-and-audio-changes-in-superwhisper-macos-2-17-2|2
+  Voice and Audio changes in Superwhisper macOS 2.17.2]]'
 - '[[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start
   Voice conversations faster]]'
 - '[[Changes/ChatGPT/2026-08-07-safeguards-for-background-voice-conversations-on-mobile-chatgpt-can-recognize-wh|Safeguards

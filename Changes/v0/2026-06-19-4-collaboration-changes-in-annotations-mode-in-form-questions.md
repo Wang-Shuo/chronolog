@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88fd479b1bb5fb01ed3c0aac279f5086a2e6e5a959719dbfcab02ca1697bf242
+machine_hash: 047a3071ab98e7c278d548f750cf55854e78fbcbbcea38f48e5edc7bff4808db
 product: v0
 product_name: v0
 record:
@@ -50,11 +50,11 @@ record:
   title: 4 Collaboration changes in Annotations mode, in-form questions…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
-- '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
-  15Five data to surface team priorities and recognition…]]'
+- '[[Changes/Devin/2026-06-17-default-sync-with-slack-per-session|Default Sync with
+  Slack Per Session]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
+- '[[Changes/Devin/2026-06-19-improved-feedback-controls|Improved Feedback Controls]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'
 source_type: v0_changelog
 theme: collaboration
@@ -98,7 +98,7 @@ Source: https://v0.app/changelog#2026-06-19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-improved-feedback-controls|Improved Feedback Controls]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai]]
 <!-- chronolog:end -->
 

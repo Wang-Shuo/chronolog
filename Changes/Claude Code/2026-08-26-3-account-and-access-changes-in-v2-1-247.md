@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ea6353b8da9962b156a7f2741395292199dbeb5e4d8605502aa99c9dd65c93c
+machine_hash: 3711bb47de518623b9e6e4115884e5497e6848b01638f837cab9c81be8304463
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Account and Access changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
-  attribution of usage telemetry to your organization for workload identity…]]'
-- '[[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and
-  Access changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
   and Access changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem|MCP
+  : Added loopback OAuth redirects so MCP providers that reject custom URL…]]'
+- '[[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem-c73eec|MCP
+  : Added loopback OAuth redirects so MCP providers that reject custom URL…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: account-access
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account and Access changes in v0.11.1]]
+- Earlier: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-mcp-added-loopback-oauth-redirects-so-mcp-providers-that-reject-custom-url-schem-c73eec|MCP : Added loopback OAuth redirects so MCP providers that reject custom URL…]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2 Account and Access changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

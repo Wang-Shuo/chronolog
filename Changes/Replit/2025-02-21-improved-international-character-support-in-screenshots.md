@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 857e0f4348322e6a44eed877fe5350d65b9ffd21ec655a57760566d2f14347f9
+machine_hash: 90de0fabca604784ec70164491ba803e1425abc860dc62576c2fca64f67a02a3
 product: replit
 product_name: Replit
 record:
@@ -47,7 +47,8 @@ record:
   title: Improved international character support in screenshots
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-02-17-api|API]]'
+- '[[Changes/AnythingLLM/2025-02-18-2-agent-mode-changes-in-v1-7-4|2 Agent Mode changes
+  in v1.7.4]]'
 - '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
   is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
 - '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent

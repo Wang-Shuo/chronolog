@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a08db758cc58033c347fb9995acb5ae73f2e2fe620403ea5b1d0f8beaef71f4
+machine_hash: 4be5eca3945de07b35e115b886dd3f17f1d74ba8514db6135af780dfd80aa5f4
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: Add `context` to api documentation for `/api/generate`
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
-  control of context building abilities for codebase-wide chat]]'
 - '[[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
   summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
   summarize chat history to avoid exhausting context window]]'
+- '[[Changes/Raycast/2023-08-09-ai-continue-your-translate-command-translations-in-the-ai-chat-to-add-more-conte|AI
+  : Continue your “Translate” command translations in the AI Chat to add more context]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-18-v0-0-15-github-117642921-18f200ff|ollama-2023-08-18-v0-0-15-github-117642921-18f200ff]]'
 source_type: github_releases
 theme: context-window
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
+- Earlier: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-ai-continue-your-translate-command-translations-in-the-ai-chat-to-add-more-conte|AI : Continue your “Translate” command translations in the AI Chat to add more context]]
 - Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 165596387434f20d75993342dcacc33bdc8f0c2653320d58bf1e5e4348986395
+machine_hash: 5eb6a5b7e9ed2f21790d069b727d944a94afb5c1c9faa149bba135e6ec33b377
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,7 @@ record:
   title: Default-on Cursor Prediction with a new UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
-  partial completions with Copilot++]]'
+- '[[Changes/Devin/2024-05-29-view-code-updates|View Code Updates]]'
 - '[[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️
   Edit Titles with Double Click]]'
 - '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly

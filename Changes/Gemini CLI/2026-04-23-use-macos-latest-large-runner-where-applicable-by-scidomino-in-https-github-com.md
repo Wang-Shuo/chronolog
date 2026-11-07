@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e360325519edd0e11ba7f65b217dc5d0b28bad61d19592ae5bf276dae359a7d
+machine_hash: 0fce5a526985062cd989559716b568bf652fe882dbee8a634cd15f736470b49f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: use macos-latest-large runner where applicable
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
-  and Desktop changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile
   and Desktop changes in v1.14.20]]'
+- '[[Changes/AnythingLLM/2026-04-22-remove-illegal-chars-for-windows-on-files-by-timothycarambat-in-https-github-com|Remove
+  illegal chars for Windows on files]]'
 - '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
   model picker showing stale model after switching chats in the macOS app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'

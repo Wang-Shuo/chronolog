@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0ddf09c78748471dddc2244d6dc89088764c21a220306a3f028246d3528098eb
+machine_hash: f404fd02d23ef3022b71abd52ec8b8400b84d43dfcf86823d97ece58699337a7
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,10 +45,9 @@ record:
   title: Microsoft 365 Copilot Chat available in Teams chats, channels, and meetings…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
-  changes in rust-v0.118.0]]'
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
+- '[[Changes/Devin/2026-04-03-organization-terminology|Organization Terminology]]'
+- '[[Changes/Raycast/2026-04-03-3-collaboration-changes-in-raycast-windows-0-52|3
+  Collaboration changes in Raycast windows 0.52]]'
 - '[[Changes/Microsoft 365 Copilot/2026-04-07-share-onedrive-files-with-a-copilot-generated-summary-in-windows-windows-onedriv|Share
   OneDrive files with a Copilot-generated summary in Windows Windows (OneDrive)]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-04-07-2026-04-07-1ced55b5|microsoft-365-copilot-2026-04-07-2026-04-07-1ced55b5]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
+- Earlier: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-3-collaboration-changes-in-raycast-windows-0-52|3 Collaboration changes in Raycast windows 0.52]]
 - Later: 2026-04-07 · Notion · [[Changes/Notion/2026-04-07-you-can-now-share-your-notion-ai-chats-as-a-read-only-link-share-a-helpful-respo|Share Notion AI chats as a link]]
 <!-- chronolog:end -->
 

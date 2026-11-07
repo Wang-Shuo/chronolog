@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70839d2a77f3e287bd79bc5a4236ba8cdc7c756d56c8ecc901021bdadb3b8606
+machine_hash: d40d36ffad22104625f4bb27c59aef30d53918259a59582bcd88b85a1accab35
 product: claude-code
 product_name: Claude Code
 record:
@@ -138,7 +138,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security release: v2026.10.9 adds remediations for vulnerable dependencies…]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-pylon-setup-dialog|Pylon Setup Dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

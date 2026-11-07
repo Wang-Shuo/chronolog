@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 967ca0c9cc266d7af837eeada4fc07c70eee97904988772d7472230767295da9
+machine_hash: 0d0748b9d064fbce040525e4796c612c37ef0bd8e28997a024c39e8358375b72
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-05 · Cline · [[Changes/Cline/2025-08-05-update-chatview-footer-background-to-use-sidebar-theme-by-abeatrix-in-https-gith|Update ChatView footer background to use sidebar theme]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface Experience changes in v0.1.18]]
+- Later: 2025-08-05 · LM Studio · [[Changes/LM Studio/2025-08-05-2-interface-experience-changes-in-lm-studio-0-3-21|2 Interface Experience changes in LM Studio 0.3.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

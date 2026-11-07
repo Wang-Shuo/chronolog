@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4c167a2b1dd7b04ff9875e1e4fa35881b251754af85030d500724beba95fbc4
+machine_hash: 89a34c8e9caec5a1f164761ce0f36097aa3ecfeb9f3387ab41eaa11f254a6c27
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: /logout shows a warning when signed in via gh CLI, PAT, API key, or environment…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
-  bearer token authentication for BYOK Anthropic models]]'
-- '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
-  Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-one-click-mcp-oauth-install|One-Click MCP OAuth Install]]'
+- '[[Changes/Devin/2026-04-10-this-release-also-includes-a-range-of-smaller-fixes-and-polish-across-the-webapp|This
+  release also includes a range of smaller fixes and polish across the webapp…]]'
 - '[[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions
   Added configurable OAuth redirect URIs for remote MCP servers]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'

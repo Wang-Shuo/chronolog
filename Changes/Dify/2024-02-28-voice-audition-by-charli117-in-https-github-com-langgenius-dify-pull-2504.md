@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0edb91584d6a7bd20def4a520509eafd4e12d7cf0e928b0df2a2f02146e6838
+machine_hash: 41aa5bd3d87ee64ae1a38d1deae6ed553b8fd809e792f2645c1ae28399a1b9d0
 product: dify
 product_name: Dify
 record:
@@ -40,9 +40,9 @@ record:
   title: Voice audition
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
-  changes in 0.5.6]]'
 - '[[Changes/Descript/2024-02-20-new-stock-voice|New Stock Voice]]'
+- '[[Changes/Superwhisper/2024-02-20-cloud-voice-model-added-deepgram-nova-2|Cloud
+  voice model added (Deepgram Nova 2)]]'
 - '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
   Alpha has better audio quality and increased expressiveness among other heavily…]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
-- Later: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]
+- Later: 2024-03-01 · Superwhisper · [[Changes/Superwhisper/2024-03-01-unload-local-voice-model-after-1-minute-of-no-use-time-delay-is-configurable|Unload local voice model after 1 minute of no use, time delay is configurable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

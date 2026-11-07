@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ddf45346eab85efcb8307f2f50f35c3fda964d562f8cdea416be9e673e8cc5a
+machine_hash: d5bba98024e5b3dec642ebc62b72b7652cfa43647a86977055800076c7ed3b1f
 product: lovable
 product_name: Lovable
 record:
@@ -41,10 +41,10 @@ record:
   title: '**Labs tab.** The *Labs* tab has been removed from settings'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core):
-  increase codebase investigator turn limits to 50]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6
   Editor Experience changes in v1.0.35]]'
+- '[[Changes/Devin/2026-04-24-merged-multi-edits-in-progress-tab|Merged Multi-Edits
+  in Progress Tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
   Editor Experience changes in v1.0.36]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-24-2026-04-24-4062672c|lovable-2026-04-24-2026-04-24-4062672c]]'

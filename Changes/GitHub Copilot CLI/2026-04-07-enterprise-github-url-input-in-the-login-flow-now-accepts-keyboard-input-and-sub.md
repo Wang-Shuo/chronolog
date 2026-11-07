@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d7da586b332c5639624ce257fa4c1458a7526da07dfaffa352341716d654cf0
+machine_hash: 478f41c07fa318c5d68c0de1eb6045c5cb36a13bb468d7ffae583613e4bb8d09
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
     and submits…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-02-2-account-and-access-changes-in-v1-0-16|2
-  Account and Access changes in v1.0.16]]'
+- '[[Changes/Devin/2026-04-03-linear-token-refresh|Linear Token Refresh]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP
   OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]'
 - '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
@@ -85,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]]
-- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core Improved opencode login transport error messages]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-pinned-organizations-sync-across-devices|Pinned Organizations Sync Across Devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

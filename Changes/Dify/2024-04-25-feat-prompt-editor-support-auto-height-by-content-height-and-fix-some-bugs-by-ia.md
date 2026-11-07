@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32b723caeef499da897bb999932aecb01987f6fabfd1fd92234d47152349421d
+machine_hash: d44beee5490143065147baace4f27def9f909982f00b519253381dbbc7bec4d3
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat: prompt editor support auto height by content height and fix some bugs'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience
-  changes in 0.6.3]]'
+- '[[Changes/Superwhisper/2024-04-19-rename-speakers-tab-to-segments|Rename speakers
+  tab to Segments]]'
 - '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
   for "whole" edit format]]'
 - "[[Changes/Open WebUI/2024-04-24-filereader-optimization-implemented-filereader-initialization-per-image-in-multi|\U0001F4DC

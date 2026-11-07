@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1da8cc2573a3670983a930a1da95cab6d3a0fc814769740cd2d1aeb4ac3eb5e1
+machine_hash: 05b24bf05506a6d28f6a7af8b4c34ffab882b2dfb60a9247a54c0b2a96836a29
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Voice and Audio changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-voices-f9aa8c|Voices]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice
-  dictation no longer inserts language markers like en-US into transcript text]]'
 - '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
+- '[[Changes/Krea/2026-10-20-flux-3-max-for-video|FLUX 3 Max for video]]'
+- '[[Changes/Superwhisper/2026-10-20-3-voice-and-audio-changes-in-superwhisper-macos-3-0-2|3
+  Voice and Audio changes in Superwhisper macOS 3.0.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: voice
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-19 · Lovable · [[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]
+- Earlier: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-3-voice-and-audio-changes-in-superwhisper-macos-3-0-2|3 Voice and Audio changes in Superwhisper macOS 3.0.2]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
 <!-- chronolog:end -->
 

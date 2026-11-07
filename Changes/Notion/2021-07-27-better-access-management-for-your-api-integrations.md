@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6a0f4951118b368e1a4592d9153c279aec3cd68888e592aa92420dbe18583aa1
+machine_hash: 8de488661dbcc96c961967a1ca3ca3150f9734e93a3a0e203d0ba334501f945d
 product: notion
 product_name: Notion
 record:
@@ -54,9 +54,10 @@ record:
   title: Better access management for your API integrations
   type: change
 related_changes:
-- '[[Changes/Notion/2021-05-13-typeform-integration|Typeform integration]]'
 - '[[Changes/Notion/2021-06-29-new-api-integrations-with-ifttt-atspoke-more|New API
   integrations with IFTTT, atSpoke & more]]'
+- '[[Changes/Raycast/2021-07-01-window-management-use-presets-to-assign-default-hotkeys-of-magnet-rectangle-or-s|Window
+  Management: Use presets to assign default hotkeys of Magnet, Rectangle…]]'
 - '[[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with
   Back]]'
 source_release: '[[Releases/Notion/notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82|notion-2021-07-27-https-www-notion-com-releases-2021-07-27-7f038e82]]'
@@ -96,7 +97,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2021-07-14 · Notion · [[Changes/Notion/2021-07-14-new-api-integration-with-back|New API integration with Back]]
-- Later: 2021-08-24 · Notion · [[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration with Tactiq]]
+- Later: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-root-search-add-support-for-detecting-apps-or-preferences-via-symlinked-folders|Root Search : Add support for detecting apps or preferences via symlinked folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

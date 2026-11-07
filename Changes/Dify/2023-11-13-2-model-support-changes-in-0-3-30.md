@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b96171b3c8aa91c4e159c56110827eb7ce844e05bc5b9ddedceebb926a3d03f1
+machine_hash: 603e3956e6c462fef3784a138d855368ab2c46c34b7640a4839ac768158c9b1e
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in 0.3.30
   type: change
 related_changes:
-- '[[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes
-  in v0.17.0]]'
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
-- '[[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes
-  in v0.1.9]]'
+- '[[Changes/Superwhisper/2023-11-11-2-model-support-changes-in-superwhisper-macos-1-16-4|2
+  Model Support changes in Superwhisper macOS 1.16.4]]'
+- '[[Changes/Superwhisper/2023-11-11-2-model-support-changes-in-superwhisper-macos-1-16-3|2
+  Model Support changes in Superwhisper macOS 1.16.3]]'
+- '[[Changes/Superwhisper/2023-11-12-2-model-support-changes-in-superwhisper-macos-1-16-6|2
+  Model Support changes in Superwhisper macOS 1.16.6]]'
 source_release: '[[Releases/Dify/dify-2023-11-13-0-3-30-github-129173465-f7c04bd0|dify-2023-11-13-0-3-30-github-129173465-f7c04bd0]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.30
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-10 · Ollama · [[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes in v0.1.9]]
+- Earlier: 2023-11-12 · Superwhisper · [[Changes/Superwhisper/2023-11-12-2-model-support-changes-in-superwhisper-macos-1-16-6|2 Model Support changes in Superwhisper macOS 1.16.6]]
 - Later: 2023-11-17 · Aider · [[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8de0cc7ed07a5ff95ac4156ba48b6fcfc74ad8cd773a49e2d113dd8d814cc4c
+machine_hash: 9c2f640006bb7ac8d417efcb7417544f701221aa32020cda8f423d777d3ce3ed
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close model picker when selecting a battle group]]
-- Later: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama launch openclaw will now enter the standard OpenClaw onboarding flow if…]]
+- Later: 2026-01-31 · Superwhisper · [[Changes/Superwhisper/2026-01-31-address-keyboard-shortcut-binding-issues|Address keyboard shortcut binding issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

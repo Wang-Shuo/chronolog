@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb05b5ac7336ff3e451fc5dcbbf3080e5825a85e9d032eb0e734af4d870bd882
+machine_hash: 6cc7ea351ab64586a89148b95dd0a05af7a79936f5b1f8dd4d9ba7a1a1fb8e7a
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Model Support changes in v1.14.51
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
-  Support changes in v1.0.48]]'
-- '[[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support
-  changes in v1.14.50]]'
+- '[[Changes/Recraft/2026-05-14-v4-1-utility-built-for-simplicity|V4.1 Utility: Built
+  for Simplicity]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/Krea/2026-05-15-k2-is-now-available-for-pro|K2 is now available for Pro]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-15-v1-14-51-75ffb50d|opencode-2026-05-15-v1-14-51-75ffb50d]]'
 source_type: opencode_changelog
 theme: model-support
@@ -87,8 +86,8 @@ Source: https://opencode.ai/changelog/v1.14.51
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude Opus 4.7 Fast is available as a new model option under…]]
+- Earlier: 2026-05-15 · Krea · [[Changes/Krea/2026-05-15-k2-is-now-available-for-pro|K2 is now available for Pro]]
+- Later: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-2-model-support-changes-in-superwhisper-macos-2-14-0|2 Model Support changes in Superwhisper macOS 2.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

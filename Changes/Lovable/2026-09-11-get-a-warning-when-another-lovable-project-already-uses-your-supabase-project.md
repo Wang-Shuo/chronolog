@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 907332b0b2e963d6465b02867de922c96de1876c44e17730c3839c000f6e7e31
+machine_hash: 47dd48806033c642e0fab210f1eec23e2440d499277970d427651735714cc13f
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Get a warning when another Lovable project already uses your Supabase project
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned
-  custom GPT retirement and migration to plugins]]'
-- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
-  Apps and Integrations changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Devin/2026-09-11-devin-managed-personal-plugins|Devin-Managed Personal
+  Plugins]]'
+- '[[Changes/Devin/2026-09-11-21-new-zero-config-oauth-mcp-servers|21 New Zero-Config
+  OAuth MCP Servers]]'
+- '[[Changes/Devin/2026-09-11-datadog-mcp-on-the-stable-endpoint|Datadog MCP on the
+  Stable Endpoint]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-datadog-mcp-on-the-stable-endpoint|Datadog MCP on the Stable Endpoint]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22 Apps and Integrations changes in v2026.9.4]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2ea534b837b7c85e980fdb7fb3159354c0e3d9629a66ceee156c6fa914f05f98
+machine_hash: fea1292af8f634ec60fadda65ccdbf04d82877787a5303f2c092fa41dc5ce62c
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +45,12 @@ record:
   title: Send app emails from TanStack Start projects without Cloud
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
-  Account and Access changes in v1.0.83]]'
-- '[[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop
-  Use the desktop client ID during OpenCode account device authentication]]'
+- '[[Changes/Wispr Flow/2026-09-04-a-smoother-sign-in-handoff-android|A Smoother Sign-In
+  Handoff (Android)]]'
 - '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
   and Access changes in v2026.9.2]]'
+- '[[Changes/Krea/2026-09-07-sso-connection-names-and-workspace-auto-join|SSO connection
+  names and workspace auto-join]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: lovable_changelog
 theme: account-access
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account and Access changes in v2026.9.2]]
+- Earlier: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-sso-connection-names-and-workspace-auto-join|SSO connection names and workspace auto-join]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]]
 <!-- chronolog:end -->
 

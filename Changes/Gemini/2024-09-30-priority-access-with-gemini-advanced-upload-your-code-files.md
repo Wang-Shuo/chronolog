@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b0493c921673339f7b99688e5ab8afcb6f9f212a30759e01963a05da6fefd13a
+machine_hash: ad4c724d8c94ba744470f446f9814a3a77ed706649f697bb25b334c075b8e3fe
 product: gemini
 product_name: Gemini
 record:
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements to prompt cache chunking strategy]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
+- Later: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-add-select-unselect-all-context-menu-to-directory-component-by-shatfield4-in-htt|Add select/unselect all context menu to directory component]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

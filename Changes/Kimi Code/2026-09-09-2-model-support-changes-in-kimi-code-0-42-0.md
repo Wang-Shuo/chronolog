@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8a6828de38d20fdce00203054c5cf8d18eef7272e496f29c69ce5479bd09bf8
+machine_hash: 9eba4606d0f6161b6d43a35eb47e64c3ed6d8af2594700036d8780e9dac5ba45
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2 Model Support changes in HUB v2.13.0 — Introducing new Documents…]]
-- Later: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added the Astra system prompt for GPT-6 models]]
+- Later: 2026-09-09 · Krea · [[Changes/Krea/2026-09-09-kling-1-0-through-2-1-retired|Kling 1.0 through 2.1 retired]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

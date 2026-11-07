@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4137c2ccdd2f98688712e9ee7f3ff0625c968b79d7349f3759799201a002650
+machine_hash: 47bd9947259909b27086de3603d8cb9bcef802bbe95ae10655ac1650e730fdae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.42.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps and Integrations changes in v0.6.31]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
+- Later: 2025-09-26 · Devin · [[Changes/Devin/2025-09-26-bitbucket-integration-beta|Bitbucket Integration (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

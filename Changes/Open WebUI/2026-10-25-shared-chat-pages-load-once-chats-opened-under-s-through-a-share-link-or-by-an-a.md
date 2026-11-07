@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f9c69a96e3c0c7e1ce6e46981fdd135aa8c8d3552f187064a28d9e0422427e7
+machine_hash: 3ed035874385d39847f6566ce2ff2b43f79c8b61e9c7f6c47b2c5fe8669faf6d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
     a share link…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
-  by department without SCIM]]'
 - '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
   Enterprise and Administration changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
+- '[[Changes/Devin/2026-10-23-download-and-read-blueprint-files|Download and Read
+  Blueprint Files]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-download-and-read-blueprint-files|Download and Read Blueprint Files]]
 - Later: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-manage-idp-group-mappings-in-one-place|Manage IdP group mappings in one place]]
 <!-- chronolog:end -->
 

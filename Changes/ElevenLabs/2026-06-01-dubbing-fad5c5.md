@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b95f51d4cf91de3d788278c95b089a29d654a28748f2c50df883fbd2855127ea
+machine_hash: 4c8029f49896bfc9b6177529fdca5702b56f0cee943b628eed1ce609050e9995
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
+- Earlier: 2026-05-29 · Superwhisper · [[Changes/Superwhisper/2026-05-29-3-voice-and-audio-changes-in-superwhisper-macos-2-15-0|3 Voice and Audio changes in Superwhisper macOS 2.15.0]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
 <!-- chronolog:end -->
 

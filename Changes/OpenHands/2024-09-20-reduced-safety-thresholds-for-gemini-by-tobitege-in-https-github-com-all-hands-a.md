@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cb239925dddf00b97ad79aef86516697be1e30aab26f57b1e19664330726c8b
+machine_hash: 07e6456e1ed8279e8be6c1475509e98b2edef40b7fdfc0c94231661c1e3fbfdb
 product: openhands
 product_name: OpenHands
 record:
@@ -51,8 +51,8 @@ record:
   title: Reduced safety thresholds for Gemini
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support
-  changes in v0.3.11]]'
+- '[[Changes/Raycast/2024-09-18-ai-commands-built-in-commands-previously-using-the-open-ai-gpt-3-5-turbo-model-n|AI
+  Commands: Built-in commands previously using the Open AI GPT-3.5 Turbo model now…]]'
 - '[[Changes/Open WebUI/2024-09-19-2-model-support-changes-in-v0-3-22|2 Model Support
   changes in v0.3.22]]'
 - '[[Changes/Dify/2024-09-20-5-model-support-changes-in-0-8-3|5 Model Support changes

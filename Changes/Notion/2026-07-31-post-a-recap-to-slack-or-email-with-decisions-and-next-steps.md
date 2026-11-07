@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b8938a28eb0db13d7e6f968972d50367f1c9965538106fa38cf9d0f98b21ea7
+machine_hash: 4a95048f4ca058fb4469cb9fe8fffd39b58d102932f5461be0bfffa768054df9
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,8 @@ record:
   title: Post a recap to Slack or email with decisions and next steps
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
-  enable/disable an installed MCP server from its card]]'
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
+- '[[Changes/Devin/2026-07-31-connectors-page-improvements|Connectors Page Improvements]]'
+- '[[Changes/Devin/2026-07-31-slack-access-defaults|Slack Access Defaults]]'
 - '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
 source_release: '[[Releases/Notion/notion-2026-07-31-https-www-notion-com-releases-2026-07-31-964f451d|notion-2026-07-31-https-www-notion-com-releases-2026-07-31-964f451d]]'
 source_type: notion_changelog

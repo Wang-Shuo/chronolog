@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 101fd1b35414830ac44f9df1f4aa3f441a71a2dd058c79a643cf319cb175f377
+machine_hash: 1be0092ce620e575ef395bc74a15e7091a592aed339d8b997024fa1a56870ae1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-12-stream-foreground-bash-stdout-and-stderr-while-commands-are-still-running|Stream
-  foreground Bash stdout and stderr while commands are still running]]'
-- '[[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel
-  active turns during session shutdown so foreground shell commands do not…]]'
 - '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
   Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
+- '[[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-macos-0-64|2
+  Developer Workflow changes in Raycast macos 0.64]]'
+- '[[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-windows-0-64|2
+  Developer Workflow changes in Raycast windows 0.64]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -114,7 +114,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-2-developer-workflow-changes-in-raycast-windows-0-64|2 Developer Workflow changes in Raycast windows 0.64]]
 - Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-2-developer-workflow-changes-in-v1-17-6-1|2 Developer Workflow changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 

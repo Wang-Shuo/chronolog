@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9eb724e0e01fca18f09b1795b478e991b8dc85ae68d7db199a75b52aece75a43
+machine_hash: efed2e9a61a8078d006fd24b6a8c73a4d2b2cea3b9434f434927bc5be7f1a8fb
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Add global default MCP server timeouts in `config.toml` and env vars
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
-  integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
-- '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
-  Apps and Integrations changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
   the host plugin version in telemetry events]]'
+- '[[Changes/Devin/2026-07-24-approve-network-access-requests-from-slack|Approve Network
+  Access Requests from Slack]]'
+- '[[Changes/Devin/2026-07-24-start-windows-sessions-from-slack|Start Windows Sessions
+  from Slack]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-24-0-29-1-7b789fc2|kimi-code-2026-07-24-0-29-1-7b789fc2]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-start-windows-sessions-from-slack|Start Windows Sessions from Slack]]
 - Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core Use the correct prompt cache keys for each SDK]]
 <!-- chronolog:end -->
 

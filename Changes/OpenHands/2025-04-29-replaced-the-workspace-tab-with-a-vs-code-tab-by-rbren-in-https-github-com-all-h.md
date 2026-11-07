@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ce481b75f69d8b75dcfa33cdca3e62c190e47e771ce15073d01925ad6b30961
+machine_hash: 3c6f290a6dac8d19811dce9f702689287cd8ec997ec5df1e1bc76f585cabb875
 product: openhands
 product_name: OpenHands
 record:
@@ -40,9 +40,10 @@ record:
   title: Replaced the workspace tab with a VS Code tab
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]'
 - '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
   a new Changes tab to show modifications made by OpenHands]]'
+- '[[Changes/LM Studio/2025-04-24-3-editor-experience-changes-in-lm-studio-0-3-15|3
+  Editor Experience changes in LM Studio 0.3.15]]'
 - '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates
   IDE marketplace link by mirroring Open VSX]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-29-0-35-0-github-215602170-7c692640|openhands-2025-04-29-0-35-0-github-215602170-7c692640]]'

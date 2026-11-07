@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c78b7051379d23524c35006b55107a048e396452ec5bfcb811f2cad939c8a5b1
+machine_hash: 78763cc5a4d85ce3d670e65f25fcae2c5b834086924627cb488e01107ee01c96
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now available in Underlord]]
-- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-design-mode-create-stunning-websites-in-under-2-minutes|Design Mode: Create stunning websites in under 2 minutes]]
+- Later: 2025-11-21 · Recraft · [[Changes/Recraft/2025-11-21-we-ve-added-a-new-external-model-nano-banana-pro-available-to-paid-subscribers-o|Recraft adds a new external model — Nano Banana Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

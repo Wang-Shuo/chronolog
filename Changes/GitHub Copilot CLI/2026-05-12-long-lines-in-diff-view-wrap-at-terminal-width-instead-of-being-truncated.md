@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9689fd2ae43e66e206a31cd0073549c63bed22e940d9725185e27ea31de44cab
+machine_hash: 94ec1f97053a18471785907f1851615958c783979bf71df58a98d40637f70708
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer Workflow changes in v0.42.0]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added terminalSequence field to hook JSON output so hooks can emit desktop…]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-core-raycast-no-longer-uses-powershell-for-startup-task-so-users-don-t-see-termi|Core : Raycast no longer uses Powershell for startup task, so users don’t see…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

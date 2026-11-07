@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f81ac79608b77c0d9e866e22b846a01228e3fa287ef08ebe106407ec62ea6e5
+machine_hash: 31dea6568ec35a794558cfe38b9210ed98841d34f93dfe580e8fcccc4b3a44a8
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Context Window changes in v0.1.45
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow
-  to config max segmentation tokens length for RAG document using environment variable]]'
+- '[[Changes/Devin/2024-05-29-knowledge|Knowledge]]'
 - '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
   context pills to chat messages, so you can see what will be/was used]]'
 - "[[Changes/Open WebUI/2024-06-10-rag-implementation-updated-the-rag-retrieval-augmented-generation-implementation|\U0001F4DD

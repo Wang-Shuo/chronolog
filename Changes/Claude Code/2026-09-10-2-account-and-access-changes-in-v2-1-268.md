@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c968472dba382bd838d9b4ef470d573e02cfc4d08ae037ce0a02bb0fb9c10c81
+machine_hash: 69e9864dd69d7da54f24e87eb3cc3ca4ee4122a3067f1ffd115d4909167d8af7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Account and Access changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable
-  signs in to test pages behind your app''s login]]'
 - '[[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account
   and Access changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
   Account and Access changes in rust-v0.154.0]]'
+- '[[Changes/LM Studio/2026-09-09-improved-sign-in-reliability|Improved sign-in reliability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: account-access
@@ -95,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5 Account and Access changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · LM Studio · [[Changes/LM Studio/2026-09-09-improved-sign-in-reliability|Improved sign-in reliability]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and Access changes in 1.17.1]]
 <!-- chronolog:end -->
 

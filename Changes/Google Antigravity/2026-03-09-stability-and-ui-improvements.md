@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 47182497d7f75601d39f881c03d2ffbd280fcf74400e76acea9fb7704861d271
+machine_hash: b6692dfab21e3dbee33c854486d2cc3cabb38baee778b0a1f5d330bda7963c48
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,8 +41,8 @@ record:
   title: Stability and UI improvements
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-06-core-stop-leaking-fsmonitor-daemons-that-caused-60gb-of-committed-memory-after-r|Core
-  Stop leaking fsmonitor daemons that caused 60GB+ of committed memory after…]]'
+- '[[Changes/Devin/2026-03-07-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 - '[[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]'
 - '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
   Reliability and Performance changes in v0.8.9]]'

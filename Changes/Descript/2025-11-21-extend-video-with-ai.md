@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2f5c1e691b7894c7d10ae389ba9c24707b174797d06a04215e5c5a022ecad3d6
+machine_hash: 288cc07ccb56c7bc2a374da823de6aa3e8bc6843ba6fb02af575668a1f1a2d33
 product: descript
 product_name: Descript
 record:
@@ -70,9 +70,9 @@ record:
   title: Extend video with AI**
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
-  more styles]]'
 - '[[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]'
+- '[[Changes/LM Studio/2025-11-04-2-multimodal-input-changes-in-lm-studio-0-3-31|2
+  Multimodal Input changes in LM Studio 0.3.31]]'
 - '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
   Input changes in v0.6.35]]'
 source_release: '[[Releases/Descript/descript-2025-11-21-691f93d1f2015b6143a936e6-495dc9d9|descript-2025-11-21-691f93d1f2015b6143a936e6-495dc9d9]]'

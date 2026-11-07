@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e889d3ee3238c65960f48c002f117ccc7aa47917398f3c6743177ed898a654fd
+machine_hash: d22c028fa1e0ee7ab5d577db70c1ecc7fa6539f86f696d4d88229f91281973a5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Model Support changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
-  Support changes in v1.0.65]]'
-- '[[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core
-  Hid gpt-5.5-pro when using Codex OAuth]]'
+- '[[Changes/Raycast/2026-06-24-ai-chat-when-switching-models-an-info-card-now-pops-up-with-a-brief-description|AI
+  Chat : When switching models, an info card now pops up with a brief description…]]'
+- '[[Changes/Wispr Flow/2026-06-24-more-consistent-and-accurate-formatting-all-platforms|More
+  consistent and accurate formatting (All platforms)]]'
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

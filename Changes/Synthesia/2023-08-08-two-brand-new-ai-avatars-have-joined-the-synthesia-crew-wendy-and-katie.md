@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c77114399b2a10148697bbe1eb06e0d81d05c5cb012cc58d5b74d343e4208246
+machine_hash: 4a4e45a849fe898514e26f49b099eacdb4bf1474409e013bbb7a933be657c564
 product: synthesia
 product_name: Synthesia
 record:

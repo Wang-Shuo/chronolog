@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5c42d42a9119b5e7fe20ba562498f957e672cd92342ebd5a2c3bceca3315500
+machine_hash: 3fee32209c2e7414e56d92d243be0bdc18f1f41b088c752e1b758524ffbc784c
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Developer Workflow changes in 0.6.13
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
+- '[[Changes/Raycast/2024-07-03-window-layouts|Window Layouts]]'
 - '[[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer
   Workflow changes in 0.7.1]]'
 - '[[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All

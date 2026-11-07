@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bed6f60088988fc45743f2debcc086444b6486abc76f18885a2adbf48c1fc99
+machine_hash: fed5b52fa0630d3d875e46edc65ef28d7935fb2963fb5cee229e58f43158923e
 product: opencode
 product_name: OpenCode
 record:
@@ -141,7 +141,7 @@ Source: https://opencode.ai/changelog/v1.17.10
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize the web app's components into area subdirectories…]]
-- Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
+- Later: 2026-06-24 · Wispr Flow · [[Changes/Wispr Flow/2026-06-24-keep-dictating-when-you-dock-your-laptop-clamshell-mode-desktop|Keep dictating when you dock your laptop (clamshell mode) (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

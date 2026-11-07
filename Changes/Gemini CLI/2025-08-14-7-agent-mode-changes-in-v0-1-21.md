@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 196bc687eb84f000e662b8242142a314ca2324e4b951c22cfb5fbdfa5e69ce53
+machine_hash: 853cfe7c2a5b6cb276fdaa091d6ed5b8a16edf8489905c926cb0b3f41d26bcd0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Agent Mode
 
 - Earlier: 2025-08-13 · OpenHands · [[Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message|Enhanced the CLI interface by adding proper markdown rendering for agent messages…]]
-- Later: 2025-08-20 · OpenHands · [[Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http|Added a new feedback reason: "The agent didn't finish the job"]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-2-agent-mode-changes-in-v1-8-5|2 Agent Mode changes in v1.8.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

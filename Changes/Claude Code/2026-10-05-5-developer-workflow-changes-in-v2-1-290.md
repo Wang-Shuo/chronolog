@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c79b04c51b1ab642372eb2f64d721013c85fbc951c7342a1397d29f16a9d928
+machine_hash: 65c78229a47138a20d8f81b6138997281b04ee48292319f36752b7d4596e039e
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 5 Developer Workflow changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-2-developer-workflow-changes-in-rust-v0-160-0|2
-  Developer Workflow changes in rust-v0.160.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete,
-  statically analyzable read-only shell pipelines can now enter…]]'
 - '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
   Workflow changes in v2.1.288]]'
+- "[[Changes/Devin/2026-10-02-github-comments-that-start-sessions-get-an-reaction|GitHub
+  Comments That Start Sessions Get an \U0001F440 Reaction]]"
+- '[[Changes/Devin/2026-10-02-code-citations-link-to-the-file-at-the-cited-commit|Code
+  Citations Link to the File at the Cited Commit]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -112,8 +112,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer Workflow changes in v2.1.288]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4 Developer Workflow changes in v1.0.92]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-code-citations-link-to-the-file-at-the-cited-commit|Code Citations Link to the File at the Cited Commit]]
+- Later: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-terminal-tab-in-the-session-workspace|Terminal Tab in the Session Workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3daa5638c1f426f31af5262bcce0824fcd56244043280cabe3c3b84ba1d6714f
+machine_hash: 30a1aa075c51bdfbcbec4219a7cdc8ddc560fed4a4cb11df28f3af453d36880e
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,9 @@ record:
     2 support
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
-  changes in 0.6.1]]'
 - '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
   Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Raycast/2024-06-19-ai-chat-attachments|AI Chat Attachments]]'
 - '[[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the
   Plus plan]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7|ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7]]'

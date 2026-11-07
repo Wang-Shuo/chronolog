@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa23bb73518f810999d12ae456eea005ef9a81708d8b790ee61f69030ca46cfa
+machine_hash: 58246c44d8c535ccff99a50c4e0d9d01421d95384992874834e3082156b44e6c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +42,12 @@ record:
   title: '**✨ General UI/UX Refinements**'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
-- '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
-  API ToC]]'
-- '[[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]'
+- '[[Changes/Raycast/2025-01-16-raycast-notes-added-action-menu-items-for-moving-list-items-up-down-and-for-open|Raycast
+  Notes: Added action menu items for moving list items up/down and for opening…]]'
+- '[[Changes/Superwhisper/2025-01-20-screen-lock-media-pause-features|Screen Lock
+  & Media Pause Features]]'
+- '[[Changes/LM Studio/2025-01-21-added-support-for-rendering-math-wrapped-in-and-blocks|Added
+  support for rendering math wrapped in \ ... \ and \( ... \) blocks]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-14 · Descript · [[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]
-- Later: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-01-21 · LM Studio · [[Changes/LM Studio/2025-01-21-added-support-for-rendering-math-wrapped-in-and-blocks|Added support for rendering math wrapped in \ ... \ and \( ... \) blocks]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-2-interface-experience-changes-in-v1-4-0|2 Interface Experience changes in v1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77b540d9ae2eb5a3ccf84737f34feeee8f1d725f19c21785fe7d68a7a68fa65f
+machine_hash: ab8649a688816fe9845e05372af4c1cf75bd95d1a77d2e141be593a4e386f79f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved memory and disk use when PDFs are @-mentioned
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
-  Reliability and Performance changes in v0.40.4]]'
 - '[[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on
   paid plans]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
   memory relief in long sessions can now bypass its cooldown before V8…]]'
+- '[[Changes/Superwhisper/2026-10-13-faster-improved-language-detection|Faster & improved
+  language detection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency memory relief in long sessions can now bypass its cooldown before V8…]]
+- Earlier: 2026-10-13 · Superwhisper · [[Changes/Superwhisper/2026-10-13-faster-improved-language-detection|Faster & improved language detection]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 

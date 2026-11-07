@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c6c9bb4e6ed5919e32598ab1026b7c36c019c903ef07ee31ed777cdf19469cc
+machine_hash: 6c01819b87d90b2fb18af4579b0d122ad6e355e7fa3b71558aa2743f8c61a01a
 product: lovable
 product_name: Lovable
 record:
@@ -41,12 +41,12 @@ record:
   title: Chat mode is faster than ever, fixing the bug where it sometimes just stopped
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
-  message error retries]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
 - '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
   the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Raycast/2025-03-19-ai-chat-improved-overall-performance-with-long-messages-and-attachments|AI
+  Chat: Improved overall performance with long messages and attachments]]'
+- '[[Changes/Superwhisper/2025-03-20-massive-speed-improvements-new-models|Massive
+  Speed Improvements & New Models]]'
 source_release: '[[Releases/Lovable/lovable-2025-03-21-2025-03-21-245c8626|lovable-2025-03-21-2025-03-21-245c8626]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve the stability of OpenHands application and evaluation harness by retry…]]
+- Earlier: 2025-03-20 · Superwhisper · [[Changes/Superwhisper/2025-03-20-massive-speed-improvements-new-models|Massive Speed Improvements & New Models]]
 - Later: 2025-03-22 · Ollama · [[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability and Performance changes in v0.6.3]]
 <!-- chronolog:end -->
 

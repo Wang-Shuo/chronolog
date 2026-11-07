@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e3b093a707ac4a3e610486f05951df6acf2683c4e66c93fd7917cdd61ffa555b
+machine_hash: 0f092f7082bec74c261c94019eb34e2937bb03aa3d0ca627a4d99d27fa205aef
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,9 +43,10 @@ record:
   title: When saving an video to share, please right click your video and press…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-16-basic-instructions|Basic Instructions]]'
-- '[[Changes/Midjourney/2025-06-17-if-you-wanna-switch-back-to-v6-1-go-under-the-web-settings-on-your-prompt-bar-or|If
-  you wanna switch back to V6.1 go under the web settings on your prompt bar…]]'
+- '[[Changes/Raycast/2025-06-17-notes-added-keyboard-shortcut-for-creating-a-link-l|Notes:
+  Added keyboard shortcut for creating a link ⌘L]]'
+- '[[Changes/Recraft/2025-06-17-to-rename-an-existing-style-just-click-on-the-style-and-select-rename-style-in-t|Rename
+  custom styles]]'
 - '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
   are also letting you animate images uploaded from outside of Midjourney]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-06-19-https-updates-midjourney-com-save-for-social-media-6b0131f6|midjourney-2025-06-19-https-updates-midjourney-com-save-for-social-media-6b0131f6]]'
@@ -79,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We are also letting you animate images uploaded from outside of Midjourney]]
-- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-new-art-style-in-ai-video-maker-and-quick-design|New art style in AI video maker and Quick design]]
+- Later: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-4-interface-experience-changes-in-raycast-windows-0-24|4 Interface Experience changes in Raycast windows 0.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

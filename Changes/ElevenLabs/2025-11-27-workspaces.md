@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 60b7d8f97408e7bfecbd443d5fc7cf1a1eb92b2e6ecc430705328f7f55b5a7a1
+machine_hash: e44f4cf195efd86fc13602afab569aafe1ec5d3b496f4cb081b53c143780a26c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-11-26 · Replit · [[Changes/Replit/2025-11-26-stripe-integrated-payments-for-core-users|Stripe Integrated Payments for Core Users]]
-- Later: 2025-12-01 · DeepSeek API · [[Changes/DeepSeek API/2025-12-01-deepseek-v3-2-speciale|DeepSeek-V3.2-Speciale]]
+- Later: 2025-11-28 · Recraft · [[Changes/Recraft/2025-11-28-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

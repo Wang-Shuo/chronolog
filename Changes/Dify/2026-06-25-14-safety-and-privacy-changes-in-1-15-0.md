@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf0ded3f46a65640ae415e64ee9d5d5c30bb2245363db0f118064003f969991f
+machine_hash: 856906afd78d9206bf10a417819ce6a4cfaffe2403b563336c5f841f24bb7153
 product: dify
 product_name: Dify
 record:
@@ -76,8 +76,8 @@ record:
   title: 14 Safety and Privacy changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
-  sandbox network permission dialog]]'
+- '[[Changes/Devin/2026-06-24-security-findings-in-ask-devin|Security Findings in
+  Ask Devin]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands
   with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]'
 - '[[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2

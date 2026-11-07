@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 322319fbd546db532ddb0b6581e208eaa043f2c613bddba24098f5668397e5c8
+machine_hash: 5768c870029472c70e8d7b93d4d520cac4f92732f2d85166c609a873cd760da3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,11 +65,12 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]'
-- '[[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll,
-  B-Roll, audio, captions, and motion graphics are no longer separate steps…]]'
+- '[[Changes/Raycast/2026-05-13-7-voice-and-audio-changes-in-raycast-macos-0-59|7
+  Voice and Audio changes in Raycast macos 0.59]]'
 - '[[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved
   transcription with ElevenLabs Scribe v2]]'
+- '[[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced
+  audio processing with improved dynamic normalization and live waveform gating]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-18-2026-05-18-640aaf83|elevenlabs-2026-05-18-2026-05-18-640aaf83]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -104,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
-- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2026-05-15 · Superwhisper · [[Changes/Superwhisper/2026-05-15-enhanced-audio-processing-with-improved-dynamic-normalization-and-live-waveform|Enhanced audio processing with improved dynamic normalization and live waveform gating]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-voice-and-audio-changes-in-raycast-macos-0-61|3 Voice and Audio changes in Raycast macos 0.61]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

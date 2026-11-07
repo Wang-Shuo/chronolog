@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbe437254634f4aade0d6019ee0ead91e715d4015a4ec59c94a1616f1251c43d
+machine_hash: 5ff8e257662a4f2b0dc283e7923ccdd77807b06fdb86c4a8db6a0612b0f8e36a
 product: aider
 product_name: Aider
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.30.0
 ## Nearby in Model Support
 
 - Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-4-model-support-changes-in-0-6-4|4 Model Support changes in 0.6.4]]
-- Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes in 0.6.5]]
+- Later: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-chat-new-chats-now-remember-the-model-creativity-instructions-and-tools-setti|AI Chat: New chats now remember the model, creativity, instructions and tools…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

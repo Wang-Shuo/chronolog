@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e38679b647a0f91841370d98388df94173fe20735484e325ff00e4c4dc7deea
+machine_hash: 190eccbe2b59c6738dd9f156988dcc61ac4b56016b36eaa207797212c9b98b36
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users
-  can select the sandbox grouping strategy]]'
+- '[[Changes/Raycast/2026-06-12-ai-tool-call-permission-description-is-parsed-as-markdown-allowing-for-richer-co-eb1600|AI
+  : Tool call permission description is parsed as Markdown, allowing for richer content]]'
 - '[[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose
   which production alerts reach your inbox]]'
 - '[[Changes/Replit/2026-06-12-security|Security]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97d10709f3977c90e70924f2f466f57453986dbba368af85a40d31d385e406a6
+machine_hash: 77dd49670bdcf8079912ef1098596f5d085e5dfdfc82b298fed3216cbcd2a705
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#6480 — Use codex-linux-sandbox in unified exec (`6c36318bd`)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
-  and Privacy changes in rust-v0.56.0]]'
+- '[[Changes/Devin/2025-11-07-slack-notification-safety|Slack Notification Safety]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
   console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
 - '[[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start

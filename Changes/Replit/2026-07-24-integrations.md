@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 105e80c6a726cb250b5cfc5404f2682345a4be0cff9337f661481dde2a097f4d
+machine_hash: 0920ff24297ba38e79870e7d07c21e2b75f1edcf4577e790b168c8b76774444d
 product: replit
 product_name: Replit
 record:
@@ -39,8 +39,8 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
+- '[[Changes/Devin/2026-07-24-start-windows-sessions-from-slack|Start Windows Sessions
+  from Slack]]'
 - '[[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add
   global default MCP server timeouts in config.toml and env vars]]'
 - '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core

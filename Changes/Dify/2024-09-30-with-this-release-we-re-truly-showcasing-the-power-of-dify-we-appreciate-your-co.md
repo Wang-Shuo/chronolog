@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a93708c4a85bedfa280943d10c848be358a9dd8884f42232e6139a6a53ee0874
+machine_hash: f1bc33f700f751c582bfbd76242505fb1615f5ec64c372fb5b6dbe89d3e6bf42
 product: dify
 product_name: Dify
 record:
@@ -48,11 +48,10 @@ record:
   title: With this release, we’re truly showcasing the power of Dify!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 - '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
   added a new way to share your Gamma creations]]'
 - '[[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]'
+- '[[Changes/Devin/2024-09-26-introducing-devin-for-teams|Introducing Devin for Teams]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
 source_type: github_releases
 theme: collaboration
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]
+- Earlier: 2024-09-26 · Devin · [[Changes/Devin/2024-09-26-introducing-devin-for-teams|Introducing Devin for Teams]]
 - Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-data-sharing-is-disabled-for-enterprise-drives|Data sharing is disabled for Enterprise Drives]]
 <!-- chronolog:end -->
 

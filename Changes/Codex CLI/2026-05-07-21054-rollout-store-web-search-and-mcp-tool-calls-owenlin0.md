@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4da9277ae82d7d20096d0b62133d86adee59863cc4b4ad1fa8cbf08e5451143
+machine_hash: 5b0f607776527a80fe72689245cdd3cf68c3485534f754c9868265408b60c7c7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: '#21054 rollout: store web search and mcp tool calls @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search
-  and Browsing changes in v0.9.0]]'
+- '[[Changes/AnythingLLM/2026-04-22-x-ddg-default-web-search-in-agent-skills|x DDG
+  default web-search in agent skills]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
   uses an orchestrator/subagent model for more thorough and reliable deep…]]'
 - '[[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]'
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]
-- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search and Browsing changes in v0.9.3]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-store-ensured-search-results-show-instantly-when-cached|Store : Ensured search results show instantly when cached]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

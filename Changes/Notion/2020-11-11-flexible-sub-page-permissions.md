@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aa1ded2aef9acca7c72f304ea44a67a5decaf76d030cb79228575e74befdb7d3
+machine_hash: b0f9ced0999d62ffadf14ffe56198c320850cb0ea428a9a5e6bb26dd7420e768
 product: notion
 product_name: Notion
 record:
@@ -66,6 +66,8 @@ record:
 related_changes:
 - '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
   Application Access]]'
+- '[[Changes/Raycast/2020-10-16-important-we-changed-permission-scopes-required-to-use-github-so-you-will-be-ask|⚠️
+  Important: We changed permission scopes required to use GitHub so you will…]]'
 source_release: '[[Releases/Notion/notion-2020-11-11-https-www-notion-com-releases-2020-11-11-02a5341a|notion-2020-11-11-https-www-notion-com-releases-2020-11-11-02a5341a]]'
 source_type: notion_changelog
 theme: safety-privacy
@@ -107,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
-- Later: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-when-troubleshooting-with-notion-s-support-team-you-can-now-grant-and-revoke-con|When troubleshooting with Notion's support team, you can now grant and revoke…]]
+- Earlier: 2020-10-16 · Raycast · [[Changes/Raycast/2020-10-16-important-we-changed-permission-scopes-required-to-use-github-so-you-will-be-ask|⚠️ Important: We changed permission scopes required to use GitHub so you will…]]
+- Later: 2020-12-02 · Raycast · [[Changes/Raycast/2020-12-02-script-commands-improvements|Script Commands Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

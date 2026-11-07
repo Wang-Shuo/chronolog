@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5426201e9a2fa4a595a53a3a3395a7801db3d735e5bca24743d453d231d140c
+machine_hash: 6f68bf204978035d05297a1bd68892c05d7c0e33a5f79164fafd65c9b8a9d342
 product: ollama
 product_name: Ollama
 record:
@@ -55,11 +55,12 @@ record:
   title: '[Athene V2](https://ollama.com/library/athene-v2): a 72B parameter model…'
   type: change
 related_changes:
-- '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
-- '[[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface
-  Experience changes in v0.3.33]]'
-- '[[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat:
-  regenerate history switch navigation]]'
+- '[[Changes/Devin/2024-11-01-to-be-successful-with-devin-upfront-investment-is-usually-required-our-new-onboa|To
+  be successful with Devin, upfront investment is usually required - our new…]]'
+- '[[Changes/Superwhisper/2024-11-08-new-keyboard-shortcut-system-with-improved-reliability|New
+  keyboard shortcut system with improved reliability]]'
+- '[[Changes/Superwhisper/2024-11-12-3-interface-experience-changes-in-superwhisper-macos-1-42-0|3
+  Interface Experience changes in Superwhisper macOS 1.42.0]]'
 source_release: '[[Releases/Ollama/ollama-2024-11-15-v0-4-2-github-185537432-60f0f55c|ollama-2024-11-15-v0-4-2-github-185537432-60f0f55c]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat: regenerate history switch navigation]]
+- Earlier: 2024-11-12 · Superwhisper · [[Changes/Superwhisper/2024-11-12-3-interface-experience-changes-in-superwhisper-macos-1-42-0|3 Interface Experience changes in Superwhisper macOS 1.42.0]]
 - Later: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled up/down arrow key navigation for group questions, improving debugging…]]
 <!-- chronolog:end -->
 

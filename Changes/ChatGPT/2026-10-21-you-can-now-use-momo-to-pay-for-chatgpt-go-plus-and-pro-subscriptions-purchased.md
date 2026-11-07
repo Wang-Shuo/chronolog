@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 17655999b8c471fb7f224e56a2e34be5db32a221f7e87d6cb32824d7e87506ef
+machine_hash: 02d97419cd2e806c3eeefd7db9d3920c2d22aabbb1444e92230728e8d5b48421
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: MoMo payments in Vietnam
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
-  with a scheduled-ending or cancelled Premium subscription keep…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
   usage reporting no longer shows partial status or phantom unattributed…]]'
 - '[[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about
   10× further]]'
+- '[[Changes/Krea/2026-10-20-2-pricing-model-changes-in-flux-3-max-video-agent-api-agent|2
+  Pricing Model changes in FLUX 3 Max video, Agent API, Agent…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9|chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about 10× further]]
+- Earlier: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-2-pricing-model-changes-in-flux-3-max-video-agent-api-agent|2 Pricing Model changes in FLUX 3 Max video, Agent API, Agent…]]
 - Later: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-set-a-monthly-credit-limit-for-every-user-on-your-enterprise-plan-so-spend-stays|Set per-user limits with Credit controls]]
 <!-- chronolog:end -->
 

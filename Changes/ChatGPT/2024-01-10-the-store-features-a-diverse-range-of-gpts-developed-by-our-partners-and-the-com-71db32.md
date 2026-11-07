@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d17a79c99208f3af4de5cf26df4b0bb403160780f303da4ba76ab122fb1635ce
+machine_hash: 18aba0c37a8c440921bf91daa6760d9ed261ef77138ebb34c8d3886cc1019469
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Discover what’s trending in the GPT Store
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-15-cursor-is-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and|Cursor
-  is now based on VS Code 1.84.2]]'
-- '[[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat:
-  remove plugin page]]'
+- '[[Changes/Raycast/2023-12-13-script-commands-deprecate-argument-secure-true-in-favor-of-argument-type-passwor|Script
+  Commands : Deprecate Argument.secure = true in favor of Argument.type…]]'
 - '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
   We''ve continued to improve the Copilot++ ghost text experience]]'
+- '[[Changes/Superwhisper/2023-12-18-deeper-integration-with-macos-dock-icon-main-menu-bar-etc|Deeper
+  integration with macOS (dock icon, main menu bar) etc]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
-- Later: 2024-01-11 · Dify · [[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations changes in 0.4.5]]
+- Earlier: 2023-12-18 · Superwhisper · [[Changes/Superwhisper/2023-12-18-deeper-integration-with-macos-dock-icon-main-menu-bar-etc|Deeper integration with macOS (dock icon, main menu bar) etc]]
+- Later: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-preferences-improved-visibility-of-the-uninstall-option-for-deprecation-extensio|Preferences: Improved visibility of the uninstall option for deprecation extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3f44d11cc3062f4fffa5ae37006f3bfda94fe1cb054273931d55101429eb6a4
+machine_hash: efd7fa87e1248683ce65954b819425efac523dfb8554b188a9771e36f2257cbd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web:
-  Replace the swarm footer with a single inline tool card that shows live…]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
 - '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
   Input for Agent]]'
+- '[[Changes/Superwhisper/2026-07-06-agent-escape-enter-shortcuts-now-respond-only-when-the-relevant-window-is-focuse|Agent
+  Escape/Enter shortcuts now respond only when the relevant window is focused]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-06 · Runway · [[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF Input for Agent]]
+- Earlier: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-agent-escape-enter-shortcuts-now-respond-only-when-the-relevant-window-is-focuse|Agent Escape/Enter shortcuts now respond only when the relevant window is focused]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press Esc now interrupts the running main turn (flushing queued messages)…]]
 <!-- chronolog:end -->
 

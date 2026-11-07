@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a1193a7acff6c0c4b01b12187453a725cb46f97d2dcef27de30d01a354473d7e
+machine_hash: 61ac8e020dcbdba313e324e0b24793c0e46a2a0cca863ff32748ac6454f50f55
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: "**Ollama \U0001F99C️\U0001F517 LangChain…"
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-18-feat-add-ruby-sdk-by-crazywoola-in-https-github-com-langgenius-dify-pull-583|Feat/add
-  ruby sdk]]'
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
   robust extension handling]]'
 - '[[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations
   and integration gallery]]'
+- '[[Changes/Raycast/2023-08-09-root-search-improved-app-running-indicator-to-properly-differentiate-between-app|Root
+  Search : Improved app running indicator to properly differentiate between apps…]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b|ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations and integration gallery]]
+- Earlier: 2023-08-09 · Raycast · [[Changes/Raycast/2023-08-09-root-search-improved-app-running-indicator-to-properly-differentiate-between-app|Root Search : Improved app running indicator to properly differentiate between apps…]]
 - Later: 2023-08-14 · Dify · [[Changes/Dify/2023-08-14-add-ruby-s-sdk-implement-code-by-benjaminx-in-https-github-com-langgenius-dify-p|Add Ruby's SDK implement code]]
 <!-- chronolog:end -->
 

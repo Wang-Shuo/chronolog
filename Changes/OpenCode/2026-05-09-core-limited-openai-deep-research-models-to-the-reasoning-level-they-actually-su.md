@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a378120d0cdfe5feaf2c5f455871faf187ce8a963aba059f125c2551603615d7
+machine_hash: bdb14fc8ce918b051820b6005d2abb9da0f7e7e6de90a68f271ba7532f6aa007
 product: opencode
 product_name: OpenCode
 record:
@@ -55,9 +55,10 @@ record:
     support
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]'
 - '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
   rollout: store web search and mcp tool calls @owenlin0]]'
+- '[[Changes/Raycast/2026-05-08-store-ensured-search-results-show-instantly-when-cached|Store
+  : Ensured search results show instantly when cached]]'
 - '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
   and Browsing changes in v0.9.3]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-09-v1-14-44-6cb8a034|opencode-2026-05-09-v1-14-44-6cb8a034]]'
@@ -98,7 +99,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search and Browsing changes in v0.9.3]]
-- Later: 2026-05-13 · Suno · [[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-2-search-and-browsing-changes-in-raycast-windows-0-58|2 Search and Browsing changes in Raycast windows 0.58]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

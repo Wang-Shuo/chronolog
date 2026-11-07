@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77e39828564dc88dcff2cf22f4065a91cf94ea69f81a3d741b7319feb377069b
+machine_hash: 8eb8393b3614c9f1c7d72da3fa877cae18bf65ed17546ff5e08cf9abc7a34a46
 product: openclaw
 product_name: OpenClaw
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose Synthesia Avatars for your Syren videos]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-video-upscale-picks-up-where-you-left-off|Video upscale picks up where you left off]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

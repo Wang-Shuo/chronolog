@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 398c8371ae8a8b30fcc14015f7e8e46ca4800feb51c414b007ca1d8df0812d6c
+machine_hash: 17e1778df14a05c3e09666c9ea1548ba3585779f4e20dbe6307f6ae501b58099
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,10 @@ record:
   title: Add the `loop_control.compaction_max_attempts` config option to set the maximum…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
-  and Scheduling changes in 1.17.1]]'
-- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
-  Automation and Scheduling changes in v2026.9.4]]'
 - '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
   Automation and Scheduling changes in v1.18.0]]'
+- '[[Changes/Raycast/2026-09-11-automations|Automations]]'
+- '[[Changes/Raycast/2026-09-11-automations-ff7d26|Automations]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-14-0-43-0-90f39217|kimi-code-2026-09-14-0-43-0-90f39217]]'
 source_type: kimi_code_changelog
 theme: automation-scheduling
@@ -83,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-automations-ff7d26|Automations]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-admins-can-opt-into-allowing-automations-on-public-gitlab-repos|Admins Can Opt into Allowing Automations on Public GitLab Repos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

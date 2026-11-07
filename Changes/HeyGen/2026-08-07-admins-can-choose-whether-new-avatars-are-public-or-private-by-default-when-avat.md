@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e868fb9484311d42aed0cedaace2fbfad09c469182101b49b0eb7245c06b7fe7
+machine_hash: bf72de90fefdfa85ee8f1c4bc2489ce22ac0942665172f7b4307dc0fb1e35686
 product: heygen
 product_name: HeyGen
 record:
@@ -57,12 +57,12 @@ record:
   title: Admins can choose whether new avatars are public or private by default
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-31-turn-feedback-into-tickets-for-your-engineering-team|Turn
-  feedback into tickets for your engineering team]]'
 - '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
   the two bundles of the combined rollout package from invalidating each other''s…]]'
 - '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
   changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-figma-live-embeds-in-link-previews|Figma Live Embeds
+  in Link Previews]]'
 source_release: '[[Releases/HeyGen/heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b|heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b]]'
 source_type: heygen_changelog
 theme: collaboration
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration changes in rust-v0.147.0]]
-- Later: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-figma-live-embeds-in-link-previews|Figma Live Embeds in Link Previews]]
+- Later: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-all-time-stats-view-with-x-share-card|All-time stats view with X share card]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7dc2b9278e3196a1ec31ba43623af6ef3d71c7f4a85798fc6f4b0eb8328c1544
+machine_hash: 09d9e142d53b70dcea4d23e1170e9ce2f31b672ccc96510df98b0aaf112a65dd
 product: midjourney
 product_name: Midjourney
 record:
@@ -53,10 +53,8 @@ record:
   title: Folders and organizing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
-  images are easier to view, and your recent conversations are easier to browse]]'
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
+- '[[Changes/Devin/2026-08-21-scan-effort-selection|Scan Effort Selection]]'
+- '[[Changes/Devin/2026-08-21-session-subscribers|Session Subscribers]]'
 - '[[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project
   details when you hover the sidebar]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-08-21-https-updates-midjourney-com-changelog-8-20-26-14cf073b|midjourney-2026-08-21-https-updates-midjourney-com-changelog-8-20-26-14cf073b]]'

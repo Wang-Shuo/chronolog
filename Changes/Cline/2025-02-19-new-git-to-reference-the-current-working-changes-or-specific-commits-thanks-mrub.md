@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fc2879fe84025be7fd6cd46edd5347209456a644923801e1d34e9cb627222042
+machine_hash: 115d8dae97995051bba36a5a2b4fbfe9263c342ce897ad304c79e1d3fb239e85
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,8 @@ record:
   title: New `@git` to reference the current working changes or specific commits…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/LM Studio/2025-01-30-for-command-line-use-lms-load-ttl|For command line
+  use: lms load --ttl ]]'
 - '[[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit resource usage of command to avoid OOM Runtime Kill]]
-- Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-enhanced-logging-with-loguru-backend-logging-has-been-improved-with-loguru-makin|📈 Enhanced Logging with Loguru]]
+- Later: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-2-developer-workflow-changes-in-devin-updates-2025-02-26|2 Developer Workflow changes in Devin updates — 2025-02-26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

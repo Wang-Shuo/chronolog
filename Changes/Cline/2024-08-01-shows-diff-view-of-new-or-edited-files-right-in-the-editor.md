@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6896a9120e3d7ee77f4a33dc0f8e5fd5078ca5305afcec3e8c3d784b40375bce
+machine_hash: e9e15ecee52f65131c6a4560d5d1e942673195c7a2cd0a005eef9e8e8cba80d4
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Shows diff view of new or edited files right in the editor
   type: change
 related_changes:
-- '[[Changes/Notion/2024-07-29-a-better-inbox|A better Inbox]]'
 - '[[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience
   changes in v0.47.0]]'
 - '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
   or edited files open up in the editor to more easily see the changes Claude Dev
   makes]]'
+- '[[Changes/Raycast/2024-07-31-window-layout-improvements|Window Layout Improvements]]'
 source_release: '[[Releases/Cline/cline-2024-08-01-v1-0-82-github-168145597-a751c2ec|cline-2024-08-01-v1-0-82-github-168145597-a751c2ec]]'
 source_type: github_releases
 theme: editor-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-31 · Cline · [[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New or edited files open up in the editor to more easily see the changes Claude Dev makes]]
+- Earlier: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-window-layout-improvements|Window Layout Improvements]]
 - Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
 <!-- chronolog:end -->
 

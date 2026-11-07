@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 05d6caaa3391b42d444ee9166950bd687ddad0f6e3d82da4aa21259b0b510c29
+machine_hash: b2c4decfeade49f5efb4a14b12ab1cc758f89c76bd406db2691ea2b02b2b1849
 product: notion
 product_name: Notion
 record:
@@ -58,12 +58,12 @@ record:
   title: First, they’re completely autonomous (no manual prompting)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
-  add setting to disable loop detection]]'
 - '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
   SessionPrompt.shell() now triggers loop if messages are queued]]'
 - "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
   Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
+- '[[Changes/Raycast/2026-02-13-script-commands-let-you-bring-your-own-automation-into-raycast-by-writing-simple|Script
+  Commands let you bring your own automation into Raycast by writing simple…]]'
 source_release: '[[Releases/Notion/notion-2026-02-24-https-www-notion-com-releases-2026-02-24-44f3629d|notion-2026-02-24-https-www-notion-com-releases-2026-02-24-44f3629d]]'
 source_type: notion_changelog
 theme: automation-scheduling
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|🔧 Async pipeline operations. Pipeline operations now run asynchronously instead…]]
+- Earlier: 2026-02-13 · Raycast · [[Changes/Raycast/2026-02-13-script-commands-let-you-bring-your-own-automation-into-raycast-by-writing-simple|Script Commands let you bring your own automation into Raycast by writing simple…]]
 - Later: 2026-02-25 · Claude · [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]
 <!-- chronolog:end -->
 

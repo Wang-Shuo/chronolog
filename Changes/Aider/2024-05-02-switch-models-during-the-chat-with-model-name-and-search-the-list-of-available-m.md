@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 346f5814fd166b8846d36ef0b177a9c2cc8c8acbc7be2c70d0f988a4b3aeef8f
+machine_hash: 8a844e1b9b28c381901e82f2970c2fddd222fa9bdf55ed5ecc2d9113935fb28f
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     available…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes
-  in v0.30.0]]'
 - '[[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes
   in 0.6.5]]'
 - '[[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support
   changes in v0.1.33]]'
+- '[[Changes/Superwhisper/2024-04-30-add-support-for-ollama-unlocks-using-all-latest-offline-ai-models-llama-8b-phi-3|Add
+  support for Ollama, unlocks using all latest offline AI models (Llama 8b, Phi-3)]]'
 source_release: '[[Releases/Aider/aider-2024-05-02-v0-31-0-github-153874269-a8e4f7f5|aider-2024-05-02-v0-31-0-github-153874269-a8e4f7f5]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support changes in v0.1.33]]
+- Earlier: 2024-04-30 · Superwhisper · [[Changes/Superwhisper/2024-04-30-add-support-for-ollama-unlocks-using-all-latest-offline-ai-models-llama-8b-phi-3|Add support for Ollama, unlocks using all latest offline AI models (Llama 8b, Phi-3)]]
 - Later: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-5-model-support-changes-in-0-6-6|5 Model Support changes in 0.6.6]]
 <!-- chronolog:end -->
 

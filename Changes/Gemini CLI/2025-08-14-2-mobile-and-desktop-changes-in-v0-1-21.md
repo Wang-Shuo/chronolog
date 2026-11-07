@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4242a66f8b9e741ff48a01794c0cee6e5f1d53666620ab661c68aba6160efd75
+machine_hash: 2c9d0fa0878c45892063f00b6e2cba7ba84d32ab778874ca249c966fa1549dbe
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile and Desktop changes in v0.6.19]]
-- Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced size of installation on Windows and Linux]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-mobile-sync-support-by-timothycarambat-in-https-github-com-mintplex-labs-anythin|Mobile sync support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

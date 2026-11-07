@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 882b66f95ef6c7cce537aa86e1d947395668e4d2f7d5df8c56ccc5e568f40d0c
+machine_hash: 8b8c1f2f155d03a78bcbe0a0c870718450fc7fbea7e0261f81b1a728e86cdb17
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -46,12 +46,11 @@ record:
   title: Copilot Enhanced Topic Assignment [Web] (Viva Glint)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
-  Experience changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
-- '[[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt
-  actions in interactive widgets and HTML artifacts now fill in and focus…]]'
+- '[[Changes/Devin/2026-09-23-rename-sessions-you-can-edit|Rename Sessions You Can
+  Edit]]'
+- '[[Changes/Devin/2026-09-23-richer-autoreview-triggers|Richer Autoreview Triggers]]'
+- '[[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every
+  Scan]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-09-23-2026-09-23-6719e501|microsoft-365-copilot-2026-09-23-2026-09-23-6719e501]]'
 source_type: m365_copilot_changelog
 theme: editor-experience
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-a-findings-tab-for-every-scan|A Findings Tab for Every Scan]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 

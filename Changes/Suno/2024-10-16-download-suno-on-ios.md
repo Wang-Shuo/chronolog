@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85e980a694e37712e987e401d9a6ed87c20867bc3bee7ec209504e26e4a6a50d
+machine_hash: bb6c28192d3bbca420b8cdcf7c884382fd38697635833db341353abb62f4d814
 product: suno
 product_name: Suno
 record:
@@ -39,12 +39,12 @@ record:
   title: Download Suno on iOS
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|\U0001F5D1️
-  Temporary File Handling On Windows]]"
 - '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
   changes in 0.9.0]]'
 - "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
   Apple Touch Icon Support]]"
+- '[[Changes/Raycast/2024-10-09-eject-all-disks-now-ignores-ios-18-simulator-disk-images|Eject
+  All Disks : Now ignores iOS 18 simulator disk images]]'
 source_release: '[[Releases/Suno/suno-2024-10-16-e-introducing-suno-scenes-b3e24cfc|suno-2024-10-16-e-introducing-suno-scenes-b3e24cfc]]'
 source_type: suno_changelog
 theme: mobile-desktop
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|🍏 Apple Touch Icon Support]]
-- Later: 2024-11-07 · Suno · [[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno on Android is finally open to pre-registration!]]
+- Earlier: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-eject-all-disks-now-ignores-ios-18-simulator-disk-images|Eject All Disks : Now ignores iOS 18 simulator disk images]]
+- Later: 2024-10-25 · Superwhisper · [[Changes/Superwhisper/2024-10-25-use-macos-native-text-rendering-no-longer-renders-markdown|Use macOS native text rendering (no longer renders Markdown)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

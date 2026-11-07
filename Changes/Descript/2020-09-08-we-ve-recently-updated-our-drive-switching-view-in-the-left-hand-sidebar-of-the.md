@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7019b690814a7e0d7cb40a8cb97278131847395e88ddb162423a89013c7abd61
+machine_hash: 44b686aa4867f8e266e7c7a69ffabccc6f8a1cbadc39d4c8fc53e0289180388b
 product: descript
 product_name: Descript
 record:
@@ -46,9 +46,7 @@ record:
   title: Re-designed Drive Switcher View
   type: change
 related_changes:
-- "[[Changes/Notion/2020-08-18-switch-between-your-work-account-personal-account-use-notion-with-multiple-email|Switch
-  between your work account & personal account \U0001F504 Use Notion with multiple
-  emails?]]"
+- '[[Changes/Raycast/2020-08-25-slack-community|Slack community]]'
 - '[[Changes/Notion/2020-09-02-polished-some-rough-edges-on-the-full-template-gallery-button-at-the-bottom-righ|Polished
   some rough edges on the ↗ Full template gallery button at the bottom right…]]'
 - '[[Changes/Descript/2020-09-08-now-you-can-name-or-rename-published-pages-directly-in-the-published-pages-menu|Rename
@@ -80,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2020-09-08 · Descript · [[Changes/Descript/2020-09-08-now-you-can-name-or-rename-published-pages-directly-in-the-published-pages-menu|Rename Published Pages]]
-- Later: 2020-09-29 · Notion · [[Changes/Notion/2020-09-29-log-out-of-notion-from-all-your-devices-remotely|Log out of Notion from all your devices, remotely 📡]]
+- Later: 2020-09-08 · Raycast · [[Changes/Raycast/2020-09-08-2-interface-experience-changes-in-raycast-macos-v1-0-26-3|2 Interface Experience changes in Raycast macos-v1 0.26.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

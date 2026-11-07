@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d164c7977d6c96035e0865241c128f822553a293b54217f23cb3ed56d870b338
+machine_hash: 3711f2e0fabe2c197b073f851eafa3b02419e3c74a70798c5e8f52e4d1ba1a9a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: Thanks to @pchuri so that when running Codex installed via `npm`…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-27-new-app-store-screenshots|New App Store screenshots]]'
 - '[[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
   new version of Ollama''s macOS and Windows applications are now available]]'
 - '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
   Desktop changes in v0.9.5]]'
+- '[[Changes/AnythingLLM/2025-07-09-2-mobile-and-desktop-changes-in-v1-8-3|2 Mobile
+  and Desktop changes in v1.8.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-10-rust-v0-5-0-github-231616219-d14c9211|codex-cli-2025-07-10-rust-v0-5-0-github-231616219-d14c9211]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and Desktop changes in v0.9.5]]
+- Earlier: 2025-07-09 · AnythingLLM · [[Changes/AnythingLLM/2025-07-09-2-mobile-and-desktop-changes-in-v1-8-3|2 Mobile and Desktop changes in v1.8.3]]
 - Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]
 <!-- chronolog:end -->
 

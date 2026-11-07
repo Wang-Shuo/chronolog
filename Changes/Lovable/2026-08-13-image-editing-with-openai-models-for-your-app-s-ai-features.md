@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6217d6b2ab894d50a6ac5717fd61d9f424813ec6a69b44516bf086a11f907b28
+machine_hash: 2177c36c48cfe79b11898f91eb689da34f0dd6fd94cdce96c8ef9e879252bb94
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Image editing with OpenAI models for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
-  changes in v1.18.17]]'
+- '[[Changes/AnythingLLM/2026-08-13-5-model-support-changes-in-v1-16-0|5 Model Support
+  changes in v1.16.0]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
 - '[[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set
   KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]'

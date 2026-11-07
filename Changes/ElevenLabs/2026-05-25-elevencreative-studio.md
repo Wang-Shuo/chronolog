@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bbd1c5229bba4f01c4c571b211e8798172e49b2e057cbfb90376bcea78587e82
+machine_hash: 34c29ecff42d5bf1d24716989d7d84855d9d00393eeeee7a5549e5d7eaa23c42
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,9 +43,10 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-18-voice-isolator|Voice Isolator]]'
 - '[[Changes/ElevenLabs/2026-05-18-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-05-18-voice-isolator-f9327f|Voice Isolator]]'
+- '[[Changes/Raycast/2026-05-20-3-voice-and-audio-changes-in-raycast-macos-0-61|3
+  Voice and Audio changes in Raycast macos 0.61]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-25-2026-05-25-1b6f860f|elevenlabs-2026-05-25-2026-05-25-1b6f860f]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-voice-isolator-f9327f|Voice Isolator]]
+- Earlier: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-3-voice-and-audio-changes-in-raycast-macos-0-61|3 Voice and Audio changes in Raycast macos 0.61]]
 - Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
 <!-- chronolog:end -->
 

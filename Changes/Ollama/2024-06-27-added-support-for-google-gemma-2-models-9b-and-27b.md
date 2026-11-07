@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7475588318913d4f198823d78c85f8fc133c294c4922a470e70ec0214c13e18c
+machine_hash: f4c3f7af7a23764ed525660c28905b256d46bb02c57de153b5ff0b78d758f76a
 product: ollama
 product_name: Ollama
 record:
@@ -43,11 +43,12 @@ record:
   title: Added support for Google Gemma 2 models (9B and 27B)
   type: change
 related_changes:
-- '[[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]'
-- '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
-  in v0.39.0]]'
 - '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
   in v0.40.0]]'
+- '[[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-custom-ai-models|Add
+  Anthropic Claude 3.5 Sonnet to Custom AI models]]'
+- '[[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-superwhisper-pro-models|Add
+  Anthropic Claude 3.5 Sonnet to Superwhisper Pro models]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7|ollama-2024-06-27-v0-1-47-github-162695424-8a7142b7]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes in v0.40.0]]
+- Earlier: 2024-06-24 · Superwhisper · [[Changes/Superwhisper/2024-06-24-add-anthropic-claude-3-5-sonnet-to-superwhisper-pro-models|Add Anthropic Claude 3.5 Sonnet to Superwhisper Pro models]]
 - Later: 2024-06-28 · DeepSeek API · [[Changes/DeepSeek API/2024-06-28-deepseek-chat|deepseek-chat]]
 <!-- chronolog:end -->
 

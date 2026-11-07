@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b0649406437fe299d90fc6f00c8d76485e4bd4cba57723ce768160b8ececa3e4
+machine_hash: 3f7fb2b60c5be22d949fbfcafe67c294c99e082b3a2197dc67dc1b2c5dc8fabc
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,8 @@ record:
   title: Wiz security scanning
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety
-  and Privacy changes in v2.1.143]]'
-- '[[Changes/v0/2026-05-15-added-docs-for-the-project-sandbox-terminal-commands-and-permission-modes|Added
-  docs for the project sandbox , terminal commands , and permission modes]]'
+- '[[Changes/Devin/2026-05-17-miscellaneous-improvements|Miscellaneous Improvements]]'
+- '[[Changes/Devin/2026-05-17-slack-security-hardening|Slack Security Hardening]]'
 - '[[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17
   Safety and Privacy changes in rust-v0.131.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

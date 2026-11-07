@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f62e5feba746bf50223a67ced207a4ee26e788a5bbd7f16364f4aad819f1456e
+machine_hash: c6f6d70677824aed9b65795e5bcf8d498747cbe77fc07eab251e915bbafeb53a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-02-12 · ChatGPT · [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT Voice Update]]
-- Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-resource-handle-cleanup-file-handles-are-now-properly-closed-during-audio-transc|♻️ Resource handle cleanup. File handles are now properly closed during audio…]]
+- Later: 2026-02-13 · Superwhisper · [[Changes/Superwhisper/2026-02-13-add-microphone-select-to-tray-menu-only-available-with-enhanced-audio-enabled|Add microphone select to tray menu (only available with Enhanced Audio enabled)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

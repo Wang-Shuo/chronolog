@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 514f60bd77b91d0706cceaf75b8a9b6df6f5eab8bf8b413e45a8878952930aac
+machine_hash: 28a52b46d1133d24e68c6dc9ad41e3fd7ed5032506f126b43f02168cb69c5c30
 product: suno
 product_name: Suno
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-voice-and-audio-changes-in-v2026-9-9|2 Voice and Audio changes in v2026.9.9]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice and Audio changes in v0.12.0]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-2-voice-and-audio-changes-in-raycast-macos-2-7|2 Voice and Audio changes in Raycast macos 2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

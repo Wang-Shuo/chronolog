@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c38a240fa1f86950e3b7375f6e2dc750da4ff89e3297ec18023f200747112e1
+machine_hash: 804b3d70b091b963736c82858429e5adec58d224799333822054070ed086d6ee
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Voice and Audio changes in v0.71.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-27-text-to-speech-error-fixed-the-missing-argument-in-eleven-labs-get-available-voi|\U0001F399️
-  Text-to-Speech Error]]"
 - '[[Changes/Replit/2024-12-27-build-notifications|Build notifications]]'
 - "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
   Audio Input Echo Cancellation]]"
+- '[[Changes/Devin/2025-01-08-talk-to-devin-in-slack-devin-can-now-respond-to-audio-messages|Talk
+  to Devin in Slack - Devin can now respond to audio messages]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: voice
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|🎤 Audio Input Echo Cancellation]]
+- Earlier: 2025-01-08 · Devin · [[Changes/Devin/2025-01-08-talk-to-devin-in-slack-devin-can-now-respond-to-audio-messages|Talk to Devin in Slack - Devin can now respond to audio messages]]
 - Later: 2025-01-28 · Descript · [[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription language]]
 <!-- chronolog:end -->
 

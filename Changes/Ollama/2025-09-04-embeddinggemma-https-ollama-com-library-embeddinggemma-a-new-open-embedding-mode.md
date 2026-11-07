@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9d1754a2950ad2b30d6f7e479de55304961e884a03e8ddc12d6cfb858aa7ea0c
+machine_hash: 3947cbfddc6506771c4ef53ff3d9d9ad63eb07f9fb7ccb5678bf91779565cc55
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore: remove CLI flags all_files and show_memory_usage]]
-- Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve performance of shell commands with lots of output]]
+- Later: 2025-09-05 · Devin · [[Changes/Devin/2025-09-05-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

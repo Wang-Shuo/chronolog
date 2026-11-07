@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 849a264cd417bb10fba063c82e829ebe087c81332d5dbdb85177890c99947871
+machine_hash: 775bdbbb7c27fcae54fbe57134b4f7a79d295f860316db427a799aaabab46ad6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search
-  and Browsing changes in v0.8.9]]'
 - '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
   and Browsing changes in v0.8.10]]'
+- '[[Changes/Raycast/2026-03-09-calculator-history-browse-search-and-pin-your-past-calculations-and-conversions|Calculator
+  History: Browse, search, and pin your past calculations and conversions]]'
 - '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
   Search and Browsing changes in rust-v0.113.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8|codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8]]'

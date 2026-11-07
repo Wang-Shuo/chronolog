@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c55bd5b84e3018e40fb92e6ca95f68ecca1502db73b44dc81ecfa8a7f8c602f
+machine_hash: 98bbc765ddc2af1903a62226533366c1c88bb8df1512930c92024667a58d21f2
 product: cline
 product_name: Cline
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored interactivity to the terminal]]
-- Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-compact-command|Add /compact command]]
+- Later: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-2-developer-workflow-changes-in-lm-studio-0-3-15|2 Developer Workflow changes in LM Studio 0.3.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

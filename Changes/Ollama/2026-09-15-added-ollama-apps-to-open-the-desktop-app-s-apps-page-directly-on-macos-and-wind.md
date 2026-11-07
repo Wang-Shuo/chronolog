@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 514b8bdbd84e3eeebc02df5951465ec67693700135ee69fc75ee94722372a8f7
+machine_hash: f1dca26a8cdd59057c382a2a3dcdc58425a35a317b32ac093720d69e1b446ee5
 product: ollama
 product_name: Ollama
 record:
@@ -53,7 +53,8 @@ record:
     and Windows
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]'
+- '[[Changes/Raycast/2026-09-14-ui-updated-all-user-interfaces-to-support-macos-golden-gate|UI
+  : Updated all user interfaces to support macOS Golden Gate]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
   Code on the web Removed the full-page desktop-app download screen that new…]]'
 - '[[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your

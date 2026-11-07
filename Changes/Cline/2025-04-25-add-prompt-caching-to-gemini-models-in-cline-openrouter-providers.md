@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 778a9931f496c83acc767baffc1245ef9d8130d5fae03a5c4a0b6e06c6ab7406
+machine_hash: 36e6e74c5b0c4d49a794d29d4dffbf77e1ddfdf18950c93369ed9453b61e5011
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
   title: Add prompt caching to gemini models in cline / openrouter providers
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
-  in 1.3.0]]'
-- '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
-  in v3.13.2]]'
+- '[[Changes/LM Studio/2025-04-24-support-for-glm4-models|Support for GLM4 models]]'
+- '[[Changes/LM Studio/2025-04-24-5-model-support-changes-in-lm-studio-0-3-15|5 Model
+  Support changes in LM Studio 0.3.15]]'
 - '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
   to GPT-4o]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'

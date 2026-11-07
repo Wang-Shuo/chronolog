@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 61684e7c38314d331ef7bfd06a1236b17cbde5b925fbfa1135140ea527b38a19
+machine_hash: d7704791825bc5caa0a3de95d7a4c2451ab21eb1c353aa4c0a5b418f15c864e1
 product: replit
 product_name: Replit
 record:
@@ -39,8 +39,7 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything
-  in this release lands through the SDK bundle, so it applies to windows…]]'
+- '[[Changes/Devin/2026-08-14-slack-thread-follow-ups|Slack Thread Follow-Ups]]'
 - '[[Changes/Replit/2026-08-14-connect-more-mcp-servers|Connect more MCP servers]]'
 - '[[Changes/Replit/2026-08-14-use-replit-through-mcp|Use Replit through MCP]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything in this release lands through the SDK bundle, so it applies to windows…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-slack-thread-follow-ups|Slack Thread Follow-Ups]]
 - Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-apps-and-integrations-changes-in-a-redesigned-sidebar-a-richer|4 Apps and Integrations changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 

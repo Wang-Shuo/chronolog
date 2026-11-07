@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 99a39f2a22f6fa48a5796704e3990342e87943cae523928bf861b940c6421627
+machine_hash: f56891d95275b7f8ec0d2e2d5dfe37f7244a48563c91c801fa08fb4db824ce87
 product: descript
 product_name: Descript
 record:
@@ -59,9 +59,9 @@ record:
   title: Translation w/ dubbing is now in Beta
   type: change
 related_changes:
-- '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
-  Input is now available to everyone, including those with free accounts!]]'
 - '[[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]'
+- '[[Changes/Superwhisper/2024-07-09-deepgram-realtime-speaker-separation-system-audio|Deepgram
+  realtime speaker separation & system audio]]'
 - '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
   Streaming Config]]'
 source_release: '[[Releases/Descript/descript-2024-07-16-6696a8f5b4bfbbdd0e357e35-249bec50|descript-2024-07-16-6696a8f5b4bfbbdd0e357e35-249bec50]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
+- Later: 2024-07-26 · AnythingLLM · [[Changes/AnythingLLM/2024-07-26-3-voice-and-audio-changes-in-v1-0-0|3 Voice and Audio changes in v1.0.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

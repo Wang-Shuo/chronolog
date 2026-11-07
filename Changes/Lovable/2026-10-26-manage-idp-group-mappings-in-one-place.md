@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8443e0e1d064d0398bfa12dccd52cb2beab4415d9952ddbf6abcc0a9ee62ca52
+machine_hash: 61a9e855d384cf511862415eb0f2f4cc80c3776d492cd41c7078fbd527c28507
 product: lovable
 product_name: Lovable
 record:
@@ -48,10 +48,10 @@ record:
   title: Manage IdP group mappings in one place
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
-  Enterprise and Administration changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
+- '[[Changes/Devin/2026-10-23-download-and-read-blueprint-files|Download and Read
+  Blueprint Files]]'
 - "[[Changes/Open WebUI/2026-10-25-shared-chat-pages-load-once-chats-opened-under-s-through-a-share-link-or-by-an-a|\U0001F517
   Shared chat pages load once. Chats opened under /s/, through a share link…]]"
 source_release: '[[Releases/Lovable/lovable-2026-10-26-2026-10-26-ca7c552d|lovable-2026-10-26-2026-10-26-ca7c552d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68079c64823e6f7a99f798fe7c89ac6f04f6b40003e32935c9b1b1956c5726e6
+machine_hash: fd5ebea4d7630a7537b8bf80be0ad1561e07f193efbb7852f45f2f5cf56a5923
 product: ollama
 product_name: Ollama
 record:
@@ -40,8 +40,8 @@ record:
   title: Minor performance improvements on Intel Macs
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability
-  and Performance changes in v0.1.6]]'
+- '[[Changes/Raycast/2023-11-02-clipboard-improved-performance-on-clipboard-entries-filtering|Clipboard:
+  Improved performance on clipboard entries filtering]]'
 - '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
   better error logging, which should help us improve stability]]'
 - '[[Changes/Ollama/2023-11-04-ollama-push-is-now-much-faster-7b-models-will-push-up-to-100mb-s-and-large-model|ollama

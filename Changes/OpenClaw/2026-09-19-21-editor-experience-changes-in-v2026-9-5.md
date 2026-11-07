@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10262d77bf4649bfab37b7eaa3178f2dc32bb613bba2316052d2562ee58be74b
+machine_hash: 16876a8d3a4e4d9b8e35d2d37f2ad6a57a5c7ad164f2aca0930308ee73f7c633
 product: openclaw
 product_name: OpenClaw
 record:
@@ -157,11 +157,12 @@ record:
   title: 21 Editor Experience changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Descript/2026-09-17-a-heads-up-about-grammarly|A heads-up about Grammarly]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
   Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
+- '[[Changes/Devin/2026-09-18-command-palette-open-devin-review-from-a-pr-link|Command
+  Palette: Open Devin Review from a PR Link]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -258,7 +259,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
+- Earlier: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-command-palette-open-devin-review-from-a-pr-link|Command Palette: Open Devin Review from a PR Link]]
 - Later: 2026-09-20 · Lovable · [[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project files into collections]]
 <!-- chronolog:end -->
 

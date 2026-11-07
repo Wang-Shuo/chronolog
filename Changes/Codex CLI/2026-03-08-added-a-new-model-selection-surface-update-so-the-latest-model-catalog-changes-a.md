@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 884d6cf40561ce22e785ddd605d1db7d07544408bb9704a69746576e385b2795
+machine_hash: 4656dcaed1d6793e4acbe6ebb65f8dd5a0124b092c89d6e9c8cae360c6d7d9e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,9 +54,8 @@ record:
   title: Added a new model-selection surface update so the latest model catalog changes…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop
-  Remove keyboard shortcut tooltips from new session and new workspace buttons…]]'
 - '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
+- '[[Changes/Devin/2026-03-07-install-devin-as-an-app|Install Devin as an App]]'
 - '[[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface
   Experience changes in v1.2.21]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'

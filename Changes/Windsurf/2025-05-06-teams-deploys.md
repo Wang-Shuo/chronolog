@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5277945241ec56e13aac7e58024a8a826fa7a63997940e04347c5aa0cbc01189
+machine_hash: 7a47c5a73d3ab00ae105555a8b8f2f93f5ee916b0ff66a093832d43d7cdd8ee8
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,10 +48,10 @@ record:
   title: Teams Deploys
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-05-5-collaboration-changes-in-v0-6-6|5 Collaboration
-  changes in v0.6.6]]'
 - "[[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|\U0001F4DD
   Notes Feature Access Fixed for Non-Admins]]"
+- '[[Changes/Recraft/2025-05-06-step-3-reuse-and-share-styles|Step 3: Reuse and share
+  styles]]'
 - '[[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-06-v1-8-0-8970184c|windsurf-2025-05-06-v1-8-0-8970184c]]'
 source_type: windsurf_changelog
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|📝 Notes Feature Access Fixed for Non-Admins]]
+- Earlier: 2025-05-06 · Recraft · [[Changes/Recraft/2025-05-06-step-3-reuse-and-share-styles|Step 3: Reuse and share styles]]
 - Later: 2025-05-07 · Midjourney · [[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share your ideas!]]
 <!-- chronolog:end -->
 

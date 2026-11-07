@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5aab052cfc02ba4ddba6ec74c7165abcbc5c280a309bdeffc31c42484faae76d
+machine_hash: 4109ad41dfd9e3af333c7a8ac7d7ac9ddd94d55870a7118c09e21dd8e7f5ee58
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety and Privacy changes in v2.1.283]]
-- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account settings have moved to their own dialog]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-github-enterprise-server-role-mirroring-and-team-sync|GitHub Enterprise Server: Role Mirroring and Team Sync]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

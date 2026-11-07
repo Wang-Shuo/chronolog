@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d429b126d5332a4750e5c092d0e48049461bad17bb4e656d0990cddee85acd86
+machine_hash: c862e5222ccc4fbd6cfdd3beba1183c428ffebd8561faafa4316388f5f83a695
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Skill tool handles large directories without exceeding context limits
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context
-  Window changes in rust-v0.87.0]]'
+- '[[Changes/LM Studio/2026-01-16-output-cached-tokens-statistics-in-openai-compatible-v1-responses-rest-endpoint|Output
+  cached_tokens statistics in OpenAI-compatible /v1/responses REST endpoint]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-enable-infinite-sessions-with-automatic-long-running-context-management-through|Enable
   infinite sessions with automatic long-running context management through…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-background-compaction-preserves-tool-call-sequences-correctly|Background

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e93aa63a2cdc4b31c226e947c99bf99a015a7fe87735ab9509f1426fe8ba7e1
+machine_hash: dd9dd36f50e4e43f858691f67051bf39ed86aabe64ecbc5a16101bb66bffe027
 product: opencode
 product_name: OpenCode
 record:
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.17.20
 ## Nearby in Model Support
 
 - Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model Support changes in v2026.7.1]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
+- Later: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-smarter-vocabulary-for-offline-whisper-models|Smarter vocabulary for offline whisper models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

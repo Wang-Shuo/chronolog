@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f29c8511bcca74bcd60ea7c73a4963fd43393d62584da39025f2ce539cdf162
+machine_hash: 8f1f0ce69f5624880dffdb3b10214d03dad432476f95256ad4ae271e630f011b
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,8 +63,8 @@ record:
   title: 7 Developer Workflow changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-15-add-native-clipboard-support-on-linux-x11-so-copying-from-the-tui-no-longer-depe|Add
-  native clipboard support on Linux X11, so copying from the TUI no longer depends…]]'
+- '[[Changes/Devin/2026-09-16-blueprint-source-in-the-v3-api|Blueprint Source in the
+  v3 API]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer

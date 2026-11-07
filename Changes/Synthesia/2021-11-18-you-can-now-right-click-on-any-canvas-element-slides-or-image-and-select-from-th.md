@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e89685de2768f2f94df67b3fe5a27929172f13733dcc28de03a0c83816a5361
+machine_hash: 324014a0d7b3d59eeb76c92ea6220bbc8a1412070503eadc6dada5cfa191e293
 product: synthesia
 product_name: Synthesia
 record:
@@ -56,10 +56,12 @@ record:
   title: Context menu for quicker interactions
   type: change
 related_changes:
-- '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select
-  a range]]'
-- '[[Changes/Descript/2020-07-28-descript-s-most-advanced-handling-of-filler-words-takes-context-into-account-to|Filler
-  Words Pro]]'
+- '[[Changes/Raycast/2021-04-06-calculator-is-more-context-aware-in-that-it-will-not-just-pop-up-whenever-you-en|Calculator
+  is more context-aware in that it will not just pop up whenever you enter…]]'
+- '[[Changes/Raycast/2021-04-28-root-search-when-you-have-multiple-apps-with-the-same-name-in-different-paths-we|Root
+  Search : When you have multiple apps with the same name in different paths, we…]]'
+- '[[Changes/Raycast/2021-08-25-contacts-added-name-to-the-action-panel-for-more-context|Contacts:
+  Added name to the Action Panel for more context]]'
 source_release: '[[Releases/Synthesia/synthesia-2021-11-18-https-www-synthesia-io-updates-context-menu-for-quicker-interact-4effd0ca|synthesia-2021-11-18-https-www-synthesia-io-updates-context-menu-for-quicker-interact-4effd0ca]]'
 source_type: synthesia_changelog
 theme: context-window
@@ -86,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-descript-s-most-advanced-handling-of-filler-words-takes-context-into-account-to|Filler Words Pro]]
+- Earlier: 2021-08-25 · Raycast · [[Changes/Raycast/2021-08-25-contacts-added-name-to-the-action-panel-for-more-context|Contacts: Added name to the Action Panel for more context]]
 - Later: 2022-07-04 · Synthesia · [[Changes/Synthesia/2022-07-04-adding-pauses-improving-pronunciation-and-adding-variables-is-now-easier-with-th|Script context menu]]
 <!-- chronolog:end -->
 

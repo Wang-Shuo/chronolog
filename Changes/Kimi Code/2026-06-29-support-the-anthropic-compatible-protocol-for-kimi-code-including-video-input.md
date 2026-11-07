@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 903890c7a221b9baad458000c540dee46fcf48df432d53d8cb7caffc33f73a94
+machine_hash: 5d899eb0f2d49d3904912e26d8ace8dd074f77753f86eeed0ba29f8ef5ef1348
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,11 +47,11 @@ record:
     input
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-rooms-viewer-defaults-and-business-producer-slots|Rooms:
-  viewer defaults and Business producer slots]]'
 - '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
   queued tool images when vision is disabled]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-multimodal-input-changes-in-v1-15-0|3 Multimodal
+  Input changes in v1.15.0]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-29-0-20-2-a1391f13|kimi-code-2026-06-29-0-20-2-a1391f13]]'
 source_type: kimi_code_changelog
 theme: multimodal
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
+- Earlier: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-3-multimodal-input-changes-in-v1-15-0|3 Multimodal Input changes in v1.15.0]]
 - Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-multimodal-capture-in-copilot-notebooks-iphone-ios-onenote|Multimodal capture in Copilot Notebooks (iPhone) iOS (OneNote)]]
 <!-- chronolog:end -->
 

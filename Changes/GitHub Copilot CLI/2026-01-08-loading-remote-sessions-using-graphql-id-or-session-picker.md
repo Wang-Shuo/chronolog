@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f31d6aaba4cd117b78da62b81e569108261dce1f9a23a491d5cb877d4849558e
+machine_hash: c08fca85bca40f552dacb747dc4033a2d6f1ee7806555ee429929b891e4cf220
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Loading remote sessions using GraphQL ID or session picker
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-06-5-interface-experience-changes-in-v1-1-4|5 Interface
-  Experience changes in v1.1.4]]'
 - '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
   appears as a new space in the ChatGPT sidebar]]'
 - '[[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop
   Fix session navigation with keyboard shortcuts]]'
+- '[[Changes/Superwhisper/2026-01-07-model-picker-design-update|Model picker design
+  update]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf|github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop Fix session navigation with keyboard shortcuts]]
+- Earlier: 2026-01-07 · Superwhisper · [[Changes/Superwhisper/2026-01-07-model-picker-design-update|Model picker design update]]
 - Later: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface Experience changes in v1.1.7]]
 <!-- chronolog:end -->
 

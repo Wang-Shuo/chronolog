@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d45c2ba93b1b4c7285b8338a8aa2c4bba0b5b99a8b8f55ad230b0ee45203f0d2
+machine_hash: d13858b2f0875fa92bbdb6ea2c72bc7be7c4f2544c3597fd01614b89eeaea023
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,11 +43,11 @@ record:
   title: '**✏️ Edit Titles with Double Click**'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
   partial completions with Copilot++]]'
+- '[[Changes/Devin/2024-05-29-view-code-updates|View Code Updates]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e|open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-view-code-updates|View Code Updates]]
 - Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly override GIT_EDITOR env for commits if it is already set]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 49e72fc39cdb7ce7923c6a78db7feeddafee87a9e04a3cea2733f8121d3d51e0
+machine_hash: 5c1f14a172637dcf8e6be96367c14a9cc78835055ad567d871dfa11e003bc4f6
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,10 @@ record:
   title: Connect other MCP clients to the Lovable MCP server
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
-  Apps and Integrations changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Devin/2026-09-11-21-new-zero-config-oauth-mcp-servers|21 New Zero-Config
+  OAuth MCP Servers]]'
+- '[[Changes/Devin/2026-09-11-datadog-mcp-on-the-stable-endpoint|Datadog MCP on the
+  Stable Endpoint]]'
 - '[[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get
   a warning when another Lovable project already uses your Supabase project]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-datadog-mcp-on-the-stable-endpoint|Datadog MCP on the Stable Endpoint]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22 Apps and Integrations changes in v2026.9.4]]
 <!-- chronolog:end -->
 

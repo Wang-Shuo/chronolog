@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86959128405e0fa55e3c0d54a84323b9c31f053441c108942e1a03b09f846808
+machine_hash: f89a86e6e3abe4efd7d3dc6666bfe8456c28da1114cce82eac54a8600f55fa66
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Apps and Integrations changes in v1.15.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and
-  Integrations changes in v4.1.12]]'
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
-  Integrations changes in v4.1.11]]'
+- '[[Changes/Devin/2026-08-21-new-mcp-marketplace-entries|New MCP Marketplace Entries]]'
+- '[[Changes/Devin/2026-08-21-enterprise-mcp-servers-support|Enterprise MCP Servers
+  Support]]'
 - '[[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export
   designs from Figma with the Lovable plugin]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'

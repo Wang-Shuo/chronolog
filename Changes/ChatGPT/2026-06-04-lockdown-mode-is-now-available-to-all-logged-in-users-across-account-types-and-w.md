@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8c3ce8ea7c233382bbd5a231b46ebae2eee6dc067840132970ecc9bc83197504
+machine_hash: 5714a17d31ee3e229a3eda3e4d2d994c9d7ab3d7d9464bacf29a47b794bb52c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,12 +78,11 @@ record:
   title: Lockdown Mode is now available to all logged-in users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
-  and Privacy changes in v2.1.162]]'
 - '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
   VS Code extension dependencies to resolve security issues…]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
   customers can now manage multiple Cursor teams from one place…]]'
+- '[[Changes/Devin/2026-06-03-settings-improvements|Settings Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357|chatgpt-2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-f7dcb357]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -110,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise customers can now manage multiple Cursor teams from one place…]]
+- Earlier: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-settings-improvements|Settings Improvements]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-fixed-org-managed-permission-rules-not-applying-for-the-entire-session-when-the|Fixed org-managed permission rules not applying for the entire session…]]
 <!-- chronolog:end -->
 

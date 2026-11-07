@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22b873c0f9064623bcd05931e22f94c35a9b6781e71beff2bc06bb0ad2374dde
+machine_hash: a8d23ef3d487b4ce94ef4e020f191a0e36bd6ffe9d8f0af97e5bc1156e56b65e
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 'refactor: Consolidate Flask-Login Authentication Logic'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-chore-avoid-repeated-type-ignore-noqa-by-adding-flask-restful-and-flask-login-in|chore:
-  avoid repeated type ignore noqa by adding flask_restful and flask_login…]]'
 - '[[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching
   by default]]'
+- '[[Changes/LM Studio/2025-05-23-downloading-public-presets-does-not-require-a-login-publishing-liking-forking-do|Downloading
+  public presets does NOT require a login]]'
 - '[[Changes/Open WebUI/2025-05-26-2-account-and-access-changes-in-v0-6-11|2 Account
   and Access changes in v0.6.11]]'
 source_release: '[[Releases/Dify/dify-2025-05-27-1-4-1-github-221175130-8bd5e73e|dify-2025-05-27-1-4-1-github-221175130-8bd5e73e]]'

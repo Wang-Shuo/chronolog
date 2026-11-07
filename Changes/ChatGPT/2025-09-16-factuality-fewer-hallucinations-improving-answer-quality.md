@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87cdefcef1836bbc32c9d4e89f0b67702a1b3272aa7956f89ee10da543f7ff89
+machine_hash: 9adc1014f42b35bad7314bb7fee53f194e3e881205860de96b8fbdacb9301c2b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Factuality: Fewer hallucinations, improving answer quality'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes
-  in v3.28.0]]'
-- '[[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty:
-  use base URL to get models and API keys]]'
+- '[[Changes/Raycast/2025-09-12-ai-hide-ai-models-from-chat-accessible-from-settings|AI:
+  Hide AI models from chat, accessible from settings]]'
 - '[[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model
   Support changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-model-support-changes-in-lm-studio-0-3-26|2 Model
+  Support changes in LM Studio 0.3.26]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690|chatgpt-2025-09-16-improvements-to-search-in-chatgpt-2ec68690]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-16-model-support-changes-in-rust-v0-36-0|16 Model Support changes in rust-v0.36.0]]
+- Earlier: 2025-09-15 · LM Studio · [[Changes/LM Studio/2025-09-15-2-model-support-changes-in-lm-studio-0-3-26|2 Model Support changes in LM Studio 0.3.26]]
 - Later: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5 Model Support changes in Toggle thinking time in the message…]]
 <!-- chronolog:end -->
 

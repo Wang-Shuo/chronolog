@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f983b6ba3a8d2cc55ad4cdf3ce2f5b288edd557cc1e0d891f610596cb7fb330b
+machine_hash: f2c6e252fcaea7ecd1d908a928ddd362043f8b3163a402a2535f8c7ef92b2768
 product: open-webui
 product_name: Open WebUI
 record:

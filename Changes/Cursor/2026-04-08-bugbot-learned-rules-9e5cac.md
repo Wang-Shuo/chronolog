@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7d63aea8079b3f10aea4480317683b05044b73670e4488720aa506b2aa7769b1
+machine_hash: 891fe869f7721776ebe1bc779ed598a9c33454bda29f2f3ff37402cf3aa14b4d
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Bugbot Learned Rules
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-04-5-developer-workflow-changes-in-v1-3-15-1|5 Developer
-  Workflow changes in v1.3.15 + 1]]'
 - '[[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer
   Workflow changes in v1.3.17 + 1]]'
+- '[[Changes/Raycast/2026-04-07-calculator-new-calculator-command|Calculator : New
+  Calculator command]]'
 - '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
   Workflow changes in v2.1.97]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer Workflow changes in v2.1.97]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer Workflow changes in v0.37.0]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-auto-merge-from-devin-review|Auto-merge from Devin Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

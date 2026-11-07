@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-08-25 · Accessibility and Localization: ♿ **
   UI accessibility.** A closed sidebar is no longer reachable by keyboard or announced
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1079
+  lag_days: 2105
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efe32ed091d420318a906e071ddb69f8423728c0965f266184a36e70d9a0e6a7
+machine_hash: dcfdfc16fe8b123280ad72aa80b96f2a44304b5ed7d2dd13fd976e415f62f0ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,10 +84,10 @@ record:
     by keyboard…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
-  win!]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
+- '[[Changes/Devin/2026-08-14-high-contrast-mode-system-option|High Contrast Mode:
+  System Option]]'
 - '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
   Accessibility and Localization changes in 1.17.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
@@ -140,13 +140,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3 Accessibility and Localization changes in 1.17.0]]
-- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several overall UX improvements for performance, accessibility, and project configurations]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-accessibility-improvements|Accessibility Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

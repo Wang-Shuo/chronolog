@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbf9f4c4f48ef1a8f9cc061e79923b5b312a7550294f5c8e971f965ff6b82241
+machine_hash: d3d840f5209c1d97197aac89057fe90fc713c11782756345e85e44ba70b72802
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Memory and Personalization changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
-  Memory and Personalization changes in v2.2.0]]'
-- '[[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web
-  sessions now unload from memory after 30 minutes idle and resume transparently…]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-long-chats-now-open-scroll-and-stream-replies-faster-while-using-less-me-e1c669|AI
+  Chat : Long chats now open, scroll, and stream replies faster while using less memory]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
+- '[[Changes/LM Studio/2026-10-29-mac-added-maximum-memory-and-neural-engine-prefill-controls-for-splash-models|Mac
+  Added maximum-memory and Neural Engine Prefill controls for Splash models]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2 Memory and Personalization changes in rust-v0.166.0]]
+- Earlier: 2026-10-29 · LM Studio · [[Changes/LM Studio/2026-10-29-mac-added-maximum-memory-and-neural-engine-prefill-controls-for-splash-models|Mac Added maximum-memory and Neural Engine Prefill controls for Splash models]]
 - Later: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
 <!-- chronolog:end -->
 

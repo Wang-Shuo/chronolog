@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 43cffe7b86759ee4d3ade950b92954354186616d5658b025b0dbabbc52c739c4
+machine_hash: 0f2ac4751e8af24625c89f4b1980ed844f4a679a150a4259621244710b8c19e1
 product: heygen
 product_name: HeyGen
 record:
@@ -51,10 +51,10 @@ record:
   title: Video Agent now generates cinematic footage around your Digital Twin
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-03-02-you-can-now-access-heygen-s-ai-video-capabilities-directly-on-fal-s-generative-m|Access
-  HeyGen''s AI video capabilities directly on fal’s generative media platform…]]'
 - '[[Changes/Descript/2026-03-17-media-generation-a-single-place-to-generate-images-and-video|Media
   generation: a single place to generate images and video]]'
+- '[[Changes/Recraft/2026-03-20-we-ve-added-video-generation-to-recraft|Video generation
+  now available]]'
 - '[[Changes/HeyGen/2026-04-02-cinematic-avatar-scenes|Cinematic avatar scenes]]'
 source_release: '[[Releases/HeyGen/heygen-2026-04-06-https-heygen-noticeable-news-publications-seedance-2-0-inside-vi-241443d3|heygen-2026-04-06-https-heygen-noticeable-news-publications-seedance-2-0-inside-vi-241443d3]]'
 source_type: heygen_changelog

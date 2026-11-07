@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 372e6c1f998fcb465af01bd4f0cb2789b6b9c4c2f0b65d73cb1a9ccaa6ca1096
+machine_hash: af3aa1c3331fc88c081cf8760b73388a8add6578d9feb3ea3a8ab0c896ec4a08
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: Lovable signs in to test pages behind your app's login
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
-  and Access changes in v2026.9.2]]'
+- '[[Changes/Krea/2026-09-07-sso-connection-names-and-workspace-auto-join|SSO connection
+  names and workspace auto-join]]'
 - '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
   app emails from TanStack Start projects without Cloud]]'
 - '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account

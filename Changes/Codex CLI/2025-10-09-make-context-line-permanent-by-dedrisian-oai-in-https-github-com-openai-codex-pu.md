@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9538d5d727faf398b1e654c301c494e979c6c68709a96d5d95dbb7f554d95b10
+machine_hash: 769c37ff8a40c335f3f72805930473457e71c7715ac9ae4abcf167af15905484
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Make context line permanent
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-03-added-a-warning-when-conversation-context-approaches-20-remaining-of-the-model-s|Added
-  a warning when conversation context approaches ≤20% remaining of the model''s…]]'
 - '[[Changes/Codex CLI/2025-10-06-4706-fix-command-output-truncation-that-sometimes-used-too-much-of-the-context-w|♯4706
   Fix command output truncation that sometimes used too much of the context window]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-updated-the-context-truncation-message-s-color-from-an-error-color-to-a-warning|Updated
   the context truncation message''s color from an error color to a warning color]]'
+- '[[Changes/AnythingLLM/2025-10-09-agent-system-prompt-passthrough-user-context-awareness|Agent
+  system prompt passthrough + user context awareness]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044|codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-10-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-06-updated-the-context-truncation-message-s-color-from-an-error-color-to-a-warning|Updated the context truncation message's color from an error color to a warning color]]
+- Earlier: 2025-10-09 · AnythingLLM · [[Changes/AnythingLLM/2025-10-09-agent-system-prompt-passthrough-user-context-awareness|Agent system prompt passthrough + user context awareness]]
 - Later: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing issue where checkpoint restore doesn't work with auto-compact]]
 <!-- chronolog:end -->
 

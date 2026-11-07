@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d6947a71a83ed1a263b466d1a231f774b7162aa520a1e2142edc9196add834d3
+machine_hash: 27dafbc6d570f0b3f15a592c1f68f3049018db39b0f271c1c258c27e8548dd2a
 product: replit
 product_name: Replit
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-03-14 · Lovable · [[Changes/Lovable/2025-03-14-announcing-the-10k-lovable-s-build-competition-https-build-launch-win-lovable-ap|Announcing the \$10K Lovable's Build…]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes in v3.8.0]]
+- Later: 2025-03-20 · Recraft · [[Changes/Recraft/2025-03-20-creative-upscale-raster-0-25-was-0-80|Creative Upscale (raster) – $0.25 (was $0.80)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

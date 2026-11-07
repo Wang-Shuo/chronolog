@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c0dc5b5cef8883cda16d12b60ee61bfc9386ca3d9ec9ae6c0e8fe5c0cacd4e5
+machine_hash: 841b7097cbcf5f0614d346f7d07ef66d985470104d64753335b15364c356e21b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,11 +47,10 @@ record:
   title: 5 Editor Experience changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
-- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
-  Track running unified exec processes at turn completion @copyberry]]'
-- '[[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web:
-  The browser tab title now shows the current workspace directory name]]'
+- '[[Changes/Devin/2026-08-19-preview-tab-renamed-to-browser|Preview Tab Renamed to
+  Browser]]'
+- '[[Changes/Devin/2026-08-19-faster-pr-tab|Faster PR Tab]]'
+- '[[Changes/Devin/2026-08-19-ci-failure-shortcuts|CI Failure Shortcuts]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: editor-experience
@@ -106,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web: The browser tab title now shows the current workspace directory name]]
+- Earlier: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-ci-failure-shortcuts|CI Failure Shortcuts]]
 - Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering over a file's comment count pill now previews all comments on that file…]]
 <!-- chronolog:end -->
 

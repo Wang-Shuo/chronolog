@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e408ff20a622a511ba769b279befe2c0ad1d898f7e9635af680de61aa95cea1
+machine_hash: c6fddd6c7544a2ab1816b40c82405650473cb5bb0bc0d30f9e0a0398901e539a
 product: opencode
 product_name: OpenCode
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-clipboard-history-added-new-reset-paste-sequence-command|Clipboard History : Added new Reset Paste Sequence command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

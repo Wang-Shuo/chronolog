@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 732ace8287e829285835c7cba8342a9cf9372b0c09ad47bd32fe61bd37e43c29
+machine_hash: 9253f9fa24d09032fa6074721a55dcb7d273f60f83371142cd0453e7c2038a1e
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,7 @@ record:
   title: Desktop Make mouse hover and click work on prompt input autocomplete
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
-  chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/Devin/2026-01-09-git-settings-reorganization|Git Settings Reorganization]]'
 - '[[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor
   Experience changes in v0.7.0]]'
 - '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor

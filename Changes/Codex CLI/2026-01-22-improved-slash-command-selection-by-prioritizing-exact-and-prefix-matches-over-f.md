@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eab41d621f01cff592c6d0497731abcd28eec4a6fb308cacbc12985004e9b6d3
+machine_hash: d72722e6c93d899144ba85cdc2a06473bb9b04c514ec71b26a9948d213739b79
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     over fuzzy…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface
-  Experience changes in v0.25.0]]'
 - '[[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface
   Experience changes in v1.1.29]]'
 - '[[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop
   Fixed navigation issues when working with large sessions in desktop app]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-interface-experience-changes-in-v1-10-0|3 Interface
+  Experience changes in v1.10.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop Fixed navigation issues when working with large sessions in desktop app]]
+- Earlier: 2026-01-22 · AnythingLLM · [[Changes/AnythingLLM/2026-01-22-3-interface-experience-changes-in-v1-10-0|3 Interface Experience changes in v1.10.0]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
 <!-- chronolog:end -->
 

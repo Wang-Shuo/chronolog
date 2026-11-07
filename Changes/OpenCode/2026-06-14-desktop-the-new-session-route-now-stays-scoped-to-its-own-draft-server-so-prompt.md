@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e7f6042c9827de9d464c5402ad4454f6b3e5c0de7db4ffd68789ad9b8b8e15f
+machine_hash: 8130896a28b7523e40d44cce8b8c66b1ff071ab575498eea0a73d5605ff30e38
 product: opencode
 product_name: OpenCode
 record:
@@ -46,8 +46,8 @@ record:
     prompts…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile
-  and Desktop changes in v1.17.0]]'
+- '[[Changes/Wispr Flow/2026-06-10-reliability-where-things-stand-desktop|Reliability:
+  where things stand (Desktop)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
   commands no longer flash a console window on Windows]]'
 - '[[Changes/OpenCode/2026-06-13-3-mobile-and-desktop-changes-in-v1-17-6-1|3 Mobile

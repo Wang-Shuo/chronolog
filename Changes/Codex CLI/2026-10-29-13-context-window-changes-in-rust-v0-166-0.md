@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce2f7dde2e032c34b41b281ba93c4880a8b72bc0e15659cebd311cce2d09f5c1
+machine_hash: 99e89f539063d6524747f206ce086787b2ee376396d1f383e5e9a324e3622440
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -68,8 +68,8 @@ record:
   title: 13 Context Window changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
-  Window changes in rust-v0.165.0]]'
+- '[[Changes/Krea/2026-10-27-personal-and-service-api-tokens|Personal and service
+  API tokens]]'
 - '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
   link) a 1.7B text model with a 256K-token context…]]'
 - '[[Changes/OpenCode/2026-10-27-3-context-window-changes-in-v2-2-0|3 Context Window

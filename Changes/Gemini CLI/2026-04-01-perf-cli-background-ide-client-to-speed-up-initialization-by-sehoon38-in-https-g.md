@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5057a536212e048967c3cd9e87d48f1a6383534fe391aa63138c6fdedebcaa11
+machine_hash: 8b3cab85f59e3f364927d2bca7cf86b1e4134b3126f0c7995c1c4c7dfbc81e11
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,11 @@ record:
   title: 'perf(cli): background IDE client to speed up initialization'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2
-  Reliability and Performance changes in v1.0.14]]'
-- '[[Changes/HeyGen/2026-03-31-choose-between-standard-faster-fewer-credits-and-precise-sharper-results-upscali|Choose
-  between Standard (faster, fewer credits) and Precise (sharper results)…]]'
 - '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
   Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Devin/2026-04-01-devin-review-improvements|Devin Review Improvements]]'
+- '[[Changes/Devin/2026-04-01-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various
+  bug fixes, performance improvements, and visual polish across the platform]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various bug fixes, performance improvements, and visual polish across the platform]]
 - Later: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]
 <!-- chronolog:end -->
 

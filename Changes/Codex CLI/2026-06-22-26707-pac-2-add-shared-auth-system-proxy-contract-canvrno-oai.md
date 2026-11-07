@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb306f46b3255bd541cb7068fb68eeef885c6803a0f363632cb6c27dd146d2d4
+machine_hash: f62da7fa4bac458fc7273477c1787ab402aa29fe2fa9e5a218907a24effb3028
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: '#26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect
-  15Five data to surface team priorities and recognition…]]'
 - '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
   Cup updates]]'
+- '[[Changes/Devin/2026-06-19-improved-feedback-controls|Improved Feedback Controls]]'
 - '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
   Collaboration changes in Annotations mode, in-form questions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

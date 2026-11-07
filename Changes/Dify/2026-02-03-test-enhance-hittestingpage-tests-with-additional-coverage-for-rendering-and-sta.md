@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d02ff7e94a33115f241366ebb78acbb7130acf14dec44a57aeb9aaba40ddbd0a
+machine_hash: 2cdec4ca6157055d68f4f29a46420c05ef97c828d0637f9107c3d10682e2e123
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,11 @@ record:
     and state…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3
-  Interface Experience changes in rust-v0.93.0]]'
-- '[[Changes/Ollama/2026-02-01-ollama-launch-openclaw-will-now-enter-the-standard-openclaw-onboarding-flow-if-t|ollama
-  launch openclaw will now enter the standard OpenClaw onboarding flow if…]]'
 - '[[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2
   Interface Experience changes in rust-v0.94.0]]'
+- '[[Changes/Devin/2026-02-03-settings-sidebar-reorganization|Settings Sidebar Reorganization]]'
+- '[[Changes/Devin/2026-02-03-devin-review-file-comments-and-mentions|Devin Review:
+  File Comments and @Mentions]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases
 theme: interface-experience
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2 Interface Experience changes in rust-v0.94.0]]
+- Earlier: 2026-02-03 · Devin · [[Changes/Devin/2026-02-03-devin-review-file-comments-and-mentions|Devin Review: File Comments and @Mentions]]
 - Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-inserting-new-line-with-shift-enter-keybinding-in-vs-code-integrated-terminal|Inserting new line with shift+enter keybinding in VS Code integrated terminal]]
 <!-- chronolog:end -->
 

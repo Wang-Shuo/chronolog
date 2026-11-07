@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6c785a202f8d15ca35728161a2c62dfeffafaa38c247b69920edbf5524bb1d5
+machine_hash: 91aa60a2a9aac9782183fd40bde0120ba9c85eb5174bb494782bd517c8442b48
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Improve stability on Windows by working around a V8 crash in Node 24.x
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability
-  and Performance changes in 1.14.0]]'
 - '[[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core
   Reduced memory growth in long-running bash tool usage]]'
+- '[[Changes/Raycast/2026-04-30-ai-significant-performance-and-stability-improvements-when-streaming-in-chat|AI:
+  Significant performance and stability improvements when streaming in chat]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'

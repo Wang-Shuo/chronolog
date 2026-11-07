@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0964a2f92581e7846f752f09716baf88955b9b0d9058ca0179032495b639563
+machine_hash: aa3cc8a6e897006b8af083e5db8ffdfdb2967299856987a7d23ba51f959b2394
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,10 +57,11 @@ record:
   title: 7 Model Support changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-music|Music]]'
 - '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
 - '[[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect
   the real image format from file contents when reading media, so a mismatched…]]'
+- '[[Changes/Superwhisper/2026-06-22-3-model-support-changes-in-superwhisper-windows-1-5-1|3
+  Model Support changes in Superwhisper Windows 1.5.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: model-support
@@ -119,7 +120,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect the real image format from file contents when reading media, so a mismatched…]]
+- Earlier: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-3-model-support-changes-in-superwhisper-windows-1-5-1|3 Model Support changes in Superwhisper Windows 1.5.1]]
 - Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

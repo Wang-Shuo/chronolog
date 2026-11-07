@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b95449e7ce530e63558f4d598161efeff9ab4d3227bb9ad680097de8b2673efb
+machine_hash: 010f1b60a429dadfe7e439bf3cf1f51e920026aa0d982c4c3b24877ddb3606ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,11 @@ record:
   title: 5 Collaboration changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration
-  changes in rust-v0.88.0]]'
 - '[[Changes/Codex CLI/2026-01-22-9583-add-collaboration-mode-to-turncontextitem-charley-oai|♯9583
   Add collaboration_mode to TurnContextItem @charley-oai]]'
 - '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
   team and MDM hooks support to CLI with more efficient execution]]'
+- '[[Changes/Devin/2026-01-22-sessions-api-enhancements|Sessions API Enhancements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
 source_type: github_releases
 theme: collaboration
@@ -102,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added team and MDM hooks support to CLI with more efficient execution]]
+- Earlier: 2026-01-22 · Devin · [[Changes/Devin/2026-01-22-sessions-api-enhancements|Sessions API Enhancements]]
 - Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 

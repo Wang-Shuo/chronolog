@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55ad171725acde4e2c60b59f20edd6fcea4da6164d3101311f73cc47ae153348
+machine_hash: 39ae005d36be5c7a2ba5659db50712c44d8ac62bfa2f5de0292948215a321c09
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,10 +57,9 @@ record:
   title: 4 Context Window changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
-  the model fallback notice and the autocompact-thrashing error to say…]]'
 - '[[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning
   tokens are no longer counted twice in token usage]]'
+- '[[Changes/Devin/2026-09-30-oncall-lists-and-settings|Oncall Lists and Settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
   now returns a summary even when instructions ask for tool use]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
@@ -120,7 +119,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 ## Nearby in Context Window
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction now returns a summary even when instructions ask for tool use]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-2-context-window-changes-in-v1-17-0|2 Context Window changes in v1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

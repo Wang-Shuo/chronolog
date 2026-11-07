@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 430b93ea61d7eff87664def510290441eb6bdcf41d219fa2187673717abedc78
+machine_hash: 09009593b7c4f3fb18edaa4bbf4dd7d020807a08b8bee3803313ef69eaef2de2
 product: gemini
 product_name: Gemini
 record:
@@ -65,8 +65,8 @@ record:
   title: Document upload is now available to all Gemini users
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat:
-  add completion mode and context size options for LLM configuration]]'
+- '[[Changes/LM Studio/2025-02-18-use-the-new-visualize-accepted-draft-tokens-feature-to-watch-speculative-decodin|Use
+  the new "Visualize accepted draft tokens" feature to watch speculative decoding…]]'
 - '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
   advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
 - '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI

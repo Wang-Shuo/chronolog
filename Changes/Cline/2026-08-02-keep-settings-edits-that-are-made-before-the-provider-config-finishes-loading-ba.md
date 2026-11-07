@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a34ad10b284ffbab0d14866afb831bcbc9e5939f879c692569db7ccb5ad24129
+machine_hash: f42d571de8c3d45701a94fd55fb914f020a8e9afd76b7285e9734f6eb4f9b17e
 product: cline
 product_name: Cline
 record:
@@ -45,8 +45,7 @@ record:
   title: Keep settings edits that are made before the provider config finishes loading
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor
-  Experience changes in v1.18.10]]'
+- '[[Changes/Devin/2026-07-31-redesigned-changes-tab|Redesigned Changes Tab]]'
 - '[[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor
   Experience changes in v1.18.11]]'
 - '[[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The

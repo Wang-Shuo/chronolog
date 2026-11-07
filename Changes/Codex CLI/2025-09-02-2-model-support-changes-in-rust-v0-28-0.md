@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0eea7c4b8e4193aba0bb61b604835bf805d607ca242710a9e8d82f6ddd8cde4c
+machine_hash: 8b9c7db1a3df021d5f0097ad9cf79b78a80f577349df493f28eb8c07da87f8cc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
-  changes in v0.6.26]]'
+- '[[Changes/Recraft/2025-08-28-how-to-edit-with-nano-banana|How to edit with Nano
+  Banana]]'
 - '[[Changes/Descript/2025-08-29-how-to-access-eleven-labs-v3|How to access Eleven
   Labs V3]]'
 - '[[Changes/Descript/2025-08-29-new-in-ai-speakers-eleven-labs-v3|New in AI Speakers—Eleven

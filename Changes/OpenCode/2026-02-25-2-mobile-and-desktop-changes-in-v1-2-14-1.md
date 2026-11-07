@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94f548864b3ca019425cd9b2132ac3b5489f09716b821483eee1c6d0fded2ab4
+machine_hash: d147325955236e44c070986a8c6e0fb4ef8c0d70811ec029db2c640eeccd3aca
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,7 @@ record:
   title: 2 Mobile and Desktop changes in v1.2.14 + 1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
-  files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
+- '[[Changes/Devin/2026-02-24-full-desktop-testing|Full Desktop Testing]]'
 - '[[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile
   and Desktop changes in v1.2.11]]'
 - '[[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2

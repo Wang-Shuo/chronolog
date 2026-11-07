@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fe922314731b1c2a01230621ae20b056c7280e7515f6f83726774cdd53b7d785
+machine_hash: b2a52eb66bd67a783771b29445bbda25801a3ca0f67f34640cd9687801efaf78
 product: lovable
 product_name: Lovable
 record:
@@ -60,7 +60,8 @@ record:
   title: Filter audit logs by client
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/Wispr Flow/2026-08-21-reports-that-never-get-lost-android|Reports That
+  Never Get Lost (Android)]]'
 - '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
   Keep model provider headers visible while scrolling the model picker]]'
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:

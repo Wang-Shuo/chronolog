@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fb9e3761c523af648f9cd29e303644ff3eee44087a1d775fab87d5083894bf2
+machine_hash: 061869b8e643986261aa609abfab63243e1e9b590413eabdc8326212e70322b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-keep-saved-diff-review-comments-when-reopening-an-unchanged-diff-in-the-same-ses|Keep
-  saved /diff review comments when reopening an unchanged diff in the same…]]'
 - '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):
   use status classes for icons and diff counts]]'
+- '[[Changes/Krea/2026-10-20-improved-stability-in-the-editor-and-3d-viewer|Improved
+  stability in the Editor and 3D viewer]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
   shell completion works when aliases include option aliases like --effort]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

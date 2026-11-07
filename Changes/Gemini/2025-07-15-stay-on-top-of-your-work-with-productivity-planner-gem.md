@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bb89d8db3a4b96888e47aaa0e8a994bd7bd62780d4bbd53ea684196254eba457
+machine_hash: bd6df902f165e1f21663671bb9b4a00fc9c9fa9ff4b22b4e8a1a19114ea17b36
 product: gemini
 product_name: Gemini
 record:
@@ -66,7 +66,8 @@ record:
   title: Stay on Top of Your Work with Productivity Planner Gem
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/AnythingLLM/2025-07-09-built-in-browser-tool-https-docs-anythingllm-com-features-browser-tool-you-can-n|Built
+  in Browser Tool((source link) You…]]'
 - '[[Changes/Dify/2025-07-10-style-config-var-update-styling-classes-to-use-design-system-tokens-by-minamiyam|style(config-var):
   update styling classes to use design system tokens]]'
 - '[[Changes/Open WebUI/2025-07-14-4-context-window-changes-in-v0-6-16|4 Context Window

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bb8944a3d4d96b17ad86d8c00f6fdac247fcfa5de8c47b6dfbb42c20668eeef
+machine_hash: 54eef0b88cb0f19683fdd5147f3ee1423304ee3bb6f5ef30e9c254207e06229a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,10 +55,11 @@ record:
   title: 7 Apps and Integrations changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-27-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve
   handling of MCP tools containing slashes]]'
+- '[[Changes/Raycast/2025-10-27-store-filter-extensions-by-category|Store: Filter
+  extensions by category]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a|gemini-cli-2025-10-29-v0-11-0-github-258016924-cf04d23a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -110,8 +111,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve handling of MCP tools containing slashes]]
-- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-11-apps-and-integrations-changes-in-rust-v0-52-0|11 Apps and Integrations changes in rust-v0.52.0]]
+- Earlier: 2025-10-27 · Raycast · [[Changes/Raycast/2025-10-27-store-filter-extensions-by-category|Store: Filter extensions by category]]
+- Later: 2025-10-29 · Raycast · [[Changes/Raycast/2025-10-29-2-apps-and-integrations-changes-in-raycast-windows-0-34|2 Apps and Integrations changes in Raycast windows 0.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

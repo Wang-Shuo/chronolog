@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0af48981f96dbe3577dc2abdcca24a5666ef0bfd4a1f4f1eac2e0c9fece66dea
+machine_hash: 9c6e192e6176f87a82763ba0c7297e29c37bf781df74ee4d60e4db6e1538a075
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: Adds context pills to chat messages, so you can see what will be/was used
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-05-08-2-context-window-changes-in-v0-1-124|2 Context
-  Window changes in v0.1.124]]'
 - '[[Changes/Ollama/2024-05-22-phi-3-mini-128k-https-ollama-com-library-phi3-mini-128k-and-phi-3-medium-128k-ht|Phi-3
   Mini 128K((source link) and Phi-3 Medium…]]'
 - '[[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow
   to config max segmentation tokens length for RAG document using environment variable]]'
+- '[[Changes/Devin/2024-05-29-knowledge|Knowledge]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: context-window
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow to config max segmentation tokens length for RAG document using environment variable]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-knowledge|Knowledge]]
 - Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-rag-implementation-updated-the-rag-retrieval-augmented-generation-implementation|📝 RAG Implementation]]
 <!-- chronolog:end -->
 

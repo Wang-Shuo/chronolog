@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edb7fe75fd62df40a9a4ab776a31bb97d2df2cf8a15a898996ecf5c712566c73
+machine_hash: db9a5f24bcf896df2589950d0e35d7181398c6cdb222f98921aaa022bee637db
 product: dify
 product_name: Dify
 record:
@@ -52,12 +52,11 @@ record:
   title: 6 Model Support changes in 0.6.5
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-21-model-selector-resolved-issue-where-default-model-selection-was-not-saving|\U0001F527
-  Model Selector: Resolved issue where default model selection was not saving]]"
-- '[[Changes/Dify/2024-04-22-4-model-support-changes-in-0-6-4|4 Model Support changes
-  in 0.6.4]]'
 - '[[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes
   in v0.30.0]]'
+- '[[Changes/Raycast/2024-04-24-ai-chat-new-chats-now-remember-the-model-creativity-instructions-and-tools-setti|AI
+  Chat: New chats now remember the model, creativity, instructions and tools…]]'
+- '[[Changes/Raycast/2024-04-24-ai-chat-presets|AI Chat Presets]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'
 source_type: github_releases
 theme: model-support
@@ -104,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes in v0.30.0]]
+- Earlier: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-chat-presets|AI Chat Presets]]
 - Later: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support changes in v0.1.33]]
 <!-- chronolog:end -->
 

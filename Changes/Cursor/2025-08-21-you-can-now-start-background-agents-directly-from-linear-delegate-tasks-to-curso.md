@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0db6ac970320f13bcc67520a9f59fab018196895b9e48652a9aa287bdea53ea6
+machine_hash: c5dcdbcec01bb427198566d5d0ac390cb46704ed394dec89ccd4d2c89544558e
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Run Agents in Linear
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21|7 Agent Mode changes
-  in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-2-agent-mode-changes-in-v1-8-5|2 Agent Mode changes
+  in v1.8.5]]'
 - '[[Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http|Added
   a new feedback reason: "The agent didn''t finish the job"]]'
 - '[[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding

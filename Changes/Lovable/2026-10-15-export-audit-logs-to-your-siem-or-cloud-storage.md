@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a1e0b69dc5de4fe721b1bdfc194f3c4f66a44a4fcac9a9fa0f31d695c7f67772
+machine_hash: 1bfff76359faeb5571cba6ac5918870639b673414730b1b3da5634890bfb2a78
 product: lovable
 product_name: Lovable
 record:
@@ -66,12 +66,12 @@ record:
   title: Export audit logs to your SIEM or cloud storage
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E
-  SCIM cannot delete admins. An identity provider can no longer delete…]]"
-- '[[Changes/Qoder/2026-10-14-locked-use-beta-on-macos-14-4-or-later-enable-locked-use-in-settings-computer-us|Locked
-  use (Beta)]]'
+- '[[Changes/Superwhisper/2026-10-14-improved-paste-reliability-notification-when-attempting-to-paste-into-apps-runni|Improved
+  paste reliability + notification when attempting to paste into apps running…]]'
 - '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
   are now open to labs at U.S. universities]]'
+- '[[Changes/Krea/2026-10-15-zero-data-retention-for-krea-3|Zero Data Retention for
+  Krea 3]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Earlier: 2026-10-15 · Krea · [[Changes/Krea/2026-10-15-zero-data-retention-for-krea-3|Zero Data Retention for Krea 3]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-enterprise-and-administration-changes-in-v0-12-3|2 Enterprise and Administration changes in v0.12.3]]
 <!-- chronolog:end -->
 

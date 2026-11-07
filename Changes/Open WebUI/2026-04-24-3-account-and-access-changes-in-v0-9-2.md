@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e69618b7bda2cc2f06dfa38cf3e9dd6051979ad93cbf36c67301d49f8d8446c
+machine_hash: 9a8b613bdf054476b015ed5aae8dc2fa4dfc6db0581033f9b10c36958ee26620
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2 Account and Access changes in v1.0.35]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-ai-models-are-now-refreshed-after-sign-in|AI: Models are now refreshed after sign-in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

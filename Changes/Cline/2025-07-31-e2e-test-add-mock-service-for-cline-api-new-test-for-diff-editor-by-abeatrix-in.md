@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3809703e7dfd22364d51d258fbff8ca906ed02ad07be04f99a19a5e827ed6af4
+machine_hash: 64698c069556082d1b72284287dbd1bd8f104b3c4aa888c799b3cd18919e4ee1
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,11 @@ record:
   title: 'e2e test: add mock service for cline API & new test for diff editor'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-26-add-an-rpc-to-the-host-bridge-to-scroll-the-diff-viewer-by-sjf-in-https-github-c|Add
-  an RPC to the host bridge to scroll the diff viewer]]'
 - '[[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]'
 - '[[Changes/Gemini CLI/2025-07-30-19-editor-experience-changes-in-v0-1-15|19 Editor
   Experience changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-ai-chat-starting-a-new-chat-no-longer-cancels-current-completion-if-chat-branchi|AI
+  Chat: Starting a new chat no longer cancels current completion if chat branching…]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-19-editor-experience-changes-in-v0-1-15|19 Editor Experience changes in v0.1.15]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-23-editor-experience-changes-in-v0-1-16|23 Editor Experience changes in v0.1.16]]
+- Earlier: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-ai-chat-starting-a-new-chat-no-longer-cancels-current-completion-if-chat-branchi|AI Chat: Starting a new chat no longer cancels current completion if chat branching…]]
+- Later: 2025-07-31 · Devin · [[Changes/Devin/2025-07-31-knowledge-title-editing|Knowledge Title Editing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

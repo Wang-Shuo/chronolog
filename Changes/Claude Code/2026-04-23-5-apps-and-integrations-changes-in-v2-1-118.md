@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c99baa9eb791548e80287bd1aff537f67c5bfc1566b95fe9ce39887b3f060676
+machine_hash: 165e76d7b646c65815e53503835b82c77acca978c8cd0d8d242e582803ad1988
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: 5 Apps and Integrations changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
-  Apps and Integrations changes in v2.1.117]]'
-- '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire
-  up remote globalSkills from enterprise remote config with full UI, toggle…]]'
+- '[[Changes/Devin/2026-04-22-repository-permissions-decoupled-from-git-integrations|Repository
+  Permissions Decoupled from Git Integrations]]'
+- '[[Changes/Devin/2026-04-22-mcp-oauth-token-expiry-warnings|MCP OAuth Token Expiry
+  Warnings]]'
 - '[[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3
   Apps and Integrations changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

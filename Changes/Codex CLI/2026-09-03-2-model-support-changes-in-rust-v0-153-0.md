@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38635d47e8fee309684bd91c395f456fc4d188abddb7c4843ffa7370513ced75
+machine_hash: ac4680be02040d6c9a67b220a6025f8d89a5725303598a28a076421b511ecbc8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default
-  provider header timeouts to five minutes so slow model startups fail less often]]'
+- '[[Changes/Superwhisper/2026-09-02-2-model-support-changes-in-superwhisper-windows-1-6-5|2
+  Model Support changes in Superwhisper Windows 1.6.5]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 - '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support

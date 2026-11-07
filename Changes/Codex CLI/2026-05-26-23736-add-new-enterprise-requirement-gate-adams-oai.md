@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 294585977f9dae16e85458beb2eda45e54360d797a44d6bbf70e71cabbcce3dd
+machine_hash: 9e1a556dad46c2dbe8587d6a4886545a56243db43440b21ab941f460ed7d3dbd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#23736 Add new enterprise requirement gate @adams-oai'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore:
-  enchance copywriting in none education plan warning modal]]'
 - '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
+- '[[Changes/Devin/2026-05-22-enterprise-max-concurrent-snapshot-builds|Enterprise
+  Max Concurrent Snapshot Builds]]'
+- '[[Changes/Devin/2026-05-22-pr-review-status-api|PR Review Status API]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-pr-review-status-api|PR Review Status API]]
 - Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]
 <!-- chronolog:end -->
 

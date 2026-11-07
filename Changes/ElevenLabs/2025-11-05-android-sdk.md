@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 09aa3d9ef3fc6d82b351c6cb045f4d0a7703aec04d4949634bd163a4212a94cc
+machine_hash: 516afcc8cef85234f23e421404957dd870f63db71abda488a5efc80f605aa081
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-30-ignore-unsupported-igpus-when-doing-device-discovery-on-windows|Ignore
-  unsupported iGPUs when doing device discovery on Windows]]'
-- '[[Changes/Codex CLI/2025-11-04-6124-fix-archive-conversation-on-windows-6124|♯6124
-  Fix "archive conversation" on Windows (♯6124)]]'
 - '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
   and Desktop changes in v0.12.0]]'
+- '[[Changes/LM Studio/2025-11-04-update-dependencies-to-support-macos-26|Update dependencies
+  to support macOS 26]]'
+- '[[Changes/LM Studio/2025-11-04-improved-macos-26-compatibility-and-support|Improved
+  macOS 26 compatibility and support]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-05-2025-11-05-d6fd95df|elevenlabs-2025-11-05-2025-11-05-d6fd95df]]'
 source_type: elevenlabs_changelog
 theme: mobile-desktop
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile and Desktop changes in v0.12.0]]
+- Earlier: 2025-11-04 · LM Studio · [[Changes/LM Studio/2025-11-04-improved-macos-26-compatibility-and-support|Improved macOS 26 compatibility and support]]
 - Later: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-desktop-notifications|Desktop notifications]]
 <!-- chronolog:end -->
 

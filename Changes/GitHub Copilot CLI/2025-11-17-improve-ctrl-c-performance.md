@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd3d4df155d5c9e74b2c9b8f8e0dedc317b211c9528a138418f3749166b345ab
+machine_hash: 00b189d974aff09acf04ab45c300cdab6c3965bdeb4888d535c9b46f323bd8fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,7 @@ record:
   title: Improve `Ctrl+C` performance
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3
-  Reliability and Performance changes in v0.6.35]]'
+- '[[Changes/Devin/2025-11-07-direct-attachment-download|Direct Attachment Download]]'
 - '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
   improve performance and readability of todo component]]'
 - '[[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved

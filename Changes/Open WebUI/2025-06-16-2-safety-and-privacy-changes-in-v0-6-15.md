@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9626c4fcd9ac05d5355aa2b212d3f349d8a8c20c35b4c59d62355c92f35e10c
+machine_hash: 2484bc0604fce590cef0ebc1a6401713848224a544264606a935d0426b0352a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,11 +50,12 @@ record:
   title: 2 Safety and Privacy changes in v0.6.15
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-06-04-security|Security]]'
 - '[[Changes/Open WebUI/2025-06-10-4-safety-and-privacy-changes-in-v0-6-14|4 Safety
   and Privacy changes in v0.6.14]]'
 - '[[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy
   changes in 1.4.2]]'
+- '[[Changes/Raycast/2025-06-11-this-release-aims-to-fix-a-number-of-instability-issues-that-you-have-experience|This
+  release aims to fix a number of instability issues that you have experienced…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|open-webui-2025-06-16-v0-6-15-github-225589258-f1066959]]'
 source_type: github_releases
 theme: safety-privacy
@@ -98,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy changes in 1.4.2]]
+- Earlier: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-this-release-aims-to-fix-a-number-of-instability-issues-that-you-have-experience|This release aims to fix a number of instability issues that you have experienced…]]
 - Later: 2025-06-20 · Manus · [[Changes/Manus/2025-06-20-open-the-browser-in-a-session-log-in-manually-once-we-encrypt-save-your-login-st|Introducing Manus Cloud Browser]]
 <!-- chronolog:end -->
 

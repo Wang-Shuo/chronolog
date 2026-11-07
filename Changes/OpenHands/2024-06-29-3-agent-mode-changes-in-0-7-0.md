@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2db2a09aa4cb96781e97d38c6433729603eb56d87967b67a5620b25b13588408
+machine_hash: 26ff07c59eafd44928c30c46cc265e66a00cbd2b4502bfc39ef807e482ecb31e
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Agent Mode changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-08-we-also-moved-the-agent-data-within-the-database-execute-the-below-script-to-com|We
-  also moved the agent data within the database, Execute the below…]]'
 - '[[Changes/Dify/2024-04-11-4-agent-mode-changes-in-0-6-2|4 Agent Mode changes in
   0.6.2]]'
 - '[[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in
   0.6.4]]'
+- '[[Changes/Devin/2024-05-29-shell-command-history|Shell Command History]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-agent-mode-changes-in-0-6-4|2 Agent Mode changes in 0.6.4]]
+- Earlier: 2024-05-29 · Devin · [[Changes/Devin/2024-05-29-shell-command-history|Shell Command History]]
 - Later: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-2-agent-mode-changes-in-v0-2-0|2 Agent Mode changes in v0.2.0]]
 <!-- chronolog:end -->
 

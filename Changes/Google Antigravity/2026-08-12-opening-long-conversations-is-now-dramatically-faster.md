@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ed2b240bfaf158c8b1ac139761efbcebf3877c3b5c5dd858638287490a8614b
+machine_hash: 896db0f0c69898b8047bd60ac9c6314e4393015a58c52767f18c7ec8fd59fbc9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,8 +41,8 @@ record:
   title: Opening long conversations is now dramatically faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Superwhisper/2026-08-10-significant-performance-boost-for-local-whisper-models|Significant
+  performance boost for local Whisper models]]'
 - '[[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability,
   Performance Gains, and User Experience Polish]]'
 - '[[Changes/Google Antigravity/2026-08-12-queued-messages-file-attachments-and-performance-improvements|Queued
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability, Performance Gains, and User Experience Polish]]
-- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We also made some large performance improvements, like lazy-loading of folders…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

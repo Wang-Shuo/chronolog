@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3f1f350cfc692e7ca82434a516c4f320bcfa2a2a557154bca7b98f7096de305e
+machine_hash: e90b9f2fe1089fe7b97d899ede91701b935bf9a667fad3b9156f7f9fb1720766
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes in 1.19.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support changes in v2026.11.1]]
+- Later: 2026-11-04 · Krea · [[Changes/Krea/2026-11-04-model-access-is-now-access-controls|Model Access is now Access Controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

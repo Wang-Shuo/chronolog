@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4093862a229af5bd86c7654ebbd6950f28a4bfc125368e3300866a544e8cb0fc
+machine_hash: 33543aedfae85926d433b5c3fdc6216b42d326418a39972017fa32f2fc5ef532
 product: openclaw
 product_name: OpenClaw
 record:
@@ -147,7 +147,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration changes in rust-v0.153.0]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting a resumed session with --share or --share-gist writes the whole transcript…]]
+- Later: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-microsoft-teams-improvements|Microsoft Teams Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

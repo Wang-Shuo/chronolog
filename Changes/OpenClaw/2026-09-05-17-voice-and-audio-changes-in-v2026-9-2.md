@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a9f81084f230eaff858f4b9661859115e96ebeb4e248119c8abec0c14c7d6bd
+machine_hash: c4b21246c616fc4108979af76848c37982a39e727c71e03bc20eac519ab95961
 product: openclaw
 product_name: OpenClaw
 record:

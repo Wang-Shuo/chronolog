@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 799c9d3baeb8143eb562fab597c3191343d41413328c0a4acfad5ae04925bdee
+machine_hash: ebac32da9ff3894e4531912e769646aa06bb0929ff9889137ac6b527b2db3fbc
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: Improved terminal rendering performance
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A
-  plugin could exhaust worker memory with one declared number. The blob chunk…]]'
-- '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
-  responsiveness in long sessions]]'
 - '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
   Reliability and Performance changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views|Extensions
+  : Improved performance when displaying large extension views]]'
+- '[[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views-7b924f|Extensions
+  : Improved performance when displaying large extension views]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2 Reliability and Performance changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-extensions-improved-performance-when-displaying-large-extension-views-7b924f|Extensions : Improved performance when displaying large extension views]]
 - Later: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2 Reliability and Performance changes in v0.34.1]]
 <!-- chronolog:end -->
 

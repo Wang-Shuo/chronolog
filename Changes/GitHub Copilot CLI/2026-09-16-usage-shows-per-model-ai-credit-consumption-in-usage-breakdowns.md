@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: ac30527935572939b3b49e66a967a01ecd22a7bc0fcf440cdc39054020d0de2d
+machine_hash: 598c9e71546bbc89aa8da26aac41d90589db3f61aaf19bbda8cc2f6a9ccdd1e5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: /usage shows per-model AI Credit consumption in usage breakdowns
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea-58f43c|Tasks
+  like these cost more to run than a single question, which is why this release…]]'
 - '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
   achievements: Your profile now includes Credits and activity stats, along…]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test: strengthen LLM subscription normalization]]
+- Later: 2026-09-16 · Krea · [[Changes/Krea/2026-09-16-admins-can-manage-billing-accounts|Admins can manage billing accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

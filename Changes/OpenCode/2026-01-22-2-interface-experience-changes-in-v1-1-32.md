@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6116c9258c62b4a3d1eaacee5200a9543915772bf3b489893fe11c1e66b62cb
+machine_hash: 5d81a583c48eb87a60c34b73565fa2c637e7180a38101043ed3962f5ecbb1ef3
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in v1.1.32
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop
-  Fixed navigation issues when working with large sessions in desktop app]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-interface-experience-changes-in-v1-10-0|3 Interface
+  Experience changes in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
   slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 - '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
@@ -88,7 +88,7 @@ Source: https://opencode.ai/changelog/v1.1.32
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
-- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512 Fix resume picker when user event appears after head @jdsalasca]]
+- Later: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-ai-added-action-to-go-parent-chat-in-title-menu|AI: Added action to go parent chat in title menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

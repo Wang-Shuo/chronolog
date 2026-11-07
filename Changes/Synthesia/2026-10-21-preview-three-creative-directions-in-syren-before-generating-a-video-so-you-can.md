@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afa220ebfaff893d879d38e5e7405f580bc044d40cc475d95207fe59385d70b1
+machine_hash: 452b359162fe6a4a3321bda3ab31b2b822d7d0221edf7544425ee47a0cce4ae7
 product: synthesia
 product_name: Synthesia
 record:

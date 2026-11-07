@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5713c6ff57512bfe8a07338551f3c8118f3065f92495bc77a96b31e4593797ec
+machine_hash: 5b9b2c57c1ca0bbc73063582a7465323e018c425b296f1bb5cf91b4e68023c7d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Reliability and Performance changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-improved-performance-while-responses-stream-in-and-when-switching-between-conver|Improved
-  performance while responses stream in and when switching between conversations]]'
-- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
-  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
 - '[[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6
   Reliability and Performance changes in v2.2.0]]'
+- '[[Changes/Raycast/2026-10-28-2-reliability-and-performance-changes-in-raycast-windows-2-10|2
+  Reliability and Performance changes in Raycast windows 2.10]]'
+- '[[Changes/Raycast/2026-10-28-search-improved-performance-of-translation-queries|Search
+  : Improved performance of translation queries]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6 Reliability and Performance changes in v2.2.0]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-search-improved-performance-of-translation-queries|Search : Improved performance of translation queries]]
 - Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core Improve snapshot performance by coalescing captures and avoiding repeated…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9c395a57bbe0712e9d5fb7a2c3a854d438dc317f4f3ed8f2aeae16fd661af13d
+machine_hash: 941b3fb2eb089c95fea9526dd447effc1044cc16dbd6a7e8e35e6c3c03222d97
 product: dify
 product_name: Dify
 record:
@@ -44,11 +44,11 @@ record:
   title: Imagine if every idea could become an AI agent
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
-  the ability for the agent to save browser screenshots as image files]]'
 - '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
   long files with Agent]]'
 - '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It''s
+  true: coding agents can be overconfident]]'
 source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
 source_type: github_releases
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
+- Earlier: 2025-05-15 · Devin · [[Changes/Devin/2025-05-15-it-s-true-coding-agents-can-be-overconfident-that-s-why-devin-2-1-now-provides-c|It's true: coding agents can be overconfident]]
 - Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-ask-agent-to-add-a-database|Ask Agent to add a database]]
 <!-- chronolog:end -->
 

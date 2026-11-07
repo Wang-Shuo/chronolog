@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c85aaa2b593374902bbd9278416c1c8eda3d4d408b3ff18e25fa4cf15733e91a
+machine_hash: 665e4a2da9c23f506e218684fcd13aae9a115f39c1f4d0a13c2e476f479a7e9d
 product: notion
 product_name: Notion
 record:
@@ -46,11 +46,11 @@ record:
   title: Simplified sidebar
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-21-archive-chat-feature-easily-archive-chats-with-a-new-sidebar-button-and-access-a|\U0001F4E6
-  Archive Chat Feature]]"
 - '[[Changes/Descript/2024-04-23-range-selection-behavior|Range selection behavior]]'
 - "[[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|\U0001F4E6
   Archived Chat Styling: Fixed styling issues in archived chat]]"
+- '[[Changes/Raycast/2024-04-24-ai-model-picker-the-model-information-popover-now-only-appears-after-changing-th|AI
+  Model Picker: The model information popover now only appears after changing…]]'
 source_release: '[[Releases/Notion/notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e|notion-2024-04-30-https-www-notion-com-releases-2024-04-30-c8e0299e]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-04-24 · Open WebUI · [[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|📦 Archived Chat Styling: Fixed styling issues in archived chat]]
+- Earlier: 2024-04-24 · Raycast · [[Changes/Raycast/2024-04-24-ai-model-picker-the-model-information-popover-now-only-appears-after-changing-th|AI Model Picker: The model information popover now only appears after changing…]]
 - Later: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|🔍 Scroll Gesture Bug]]
 <!-- chronolog:end -->
 

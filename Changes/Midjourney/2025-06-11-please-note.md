@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a43e7e04093ede19e709436cb6183a0ebeb474fea3672b0f8b1c96e6ed97f040
+machine_hash: c4ced83801c78aed2e0417574971e116c43c9fea06a148dfdd13506ee9b1b662
 product: midjourney
 product_name: Midjourney
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes in 1.4.2]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-3-model-support-changes-in-raycast-macos-v1-1-100-0|3 Model Support changes in Raycast macos-v1 1.100.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

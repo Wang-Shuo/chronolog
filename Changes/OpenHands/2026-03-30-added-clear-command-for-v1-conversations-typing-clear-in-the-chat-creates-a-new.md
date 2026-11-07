@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ac1792967814bc1b891e42e751e7734bddd13b7daad8f79c6ffb0cb0d35c636
+machine_hash: 4eaf8c7b147b0ff841925348d19b7fa4ea4cb2c86a011422b33dcaf050e04f63
 product: openhands
 product_name: OpenHands
 record:

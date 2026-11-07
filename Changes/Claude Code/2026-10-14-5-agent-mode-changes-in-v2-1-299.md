@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54d2c69047b13e8e4dc1baf32cdadee227e542cd85e2586e78eca3ab982fdaaa
+machine_hash: f4207def679a5529d237b1bd4f25435bf0adef31a4354a2f41f803b941ede17a
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: 5 Agent Mode changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Notion/2026-10-13-connect-your-notion-agents-to-150-tools-with-mcp|Connect
-  your Notion Agents to 150+ tools with MCP]]'
 - '[[Changes/Notion/2026-10-13-see-every-change-by-every-person-and-agent|See every
   change by every person and agent]]'
 - '[[Changes/Notion/2026-10-13-column-permissions-in-databases|Column permissions
   in databases]]'
+- '[[Changes/Superwhisper/2026-10-13-the-agent-chat-no-longer-pops-up-over-an-agent-session-you-re-already-in|The
+  agent chat no longer pops up over an agent session you''re already in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: agent-mode
@@ -114,7 +114,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-column-permissions-in-databases|Column permissions in databases]]
+- Earlier: 2026-10-13 · Superwhisper · [[Changes/Superwhisper/2026-10-13-the-agent-chat-no-longer-pops-up-over-an-agent-session-you-re-already-in|The agent chat no longer pops up over an agent session you're already in]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]]
 <!-- chronolog:end -->
 

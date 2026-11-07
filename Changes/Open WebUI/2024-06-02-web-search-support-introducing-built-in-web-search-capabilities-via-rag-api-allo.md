@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eea03871579e45a782815102f07ccb8c89c8913363f68ae411b6245404f5168e
+machine_hash: ce3aded5d0181372d3f8e8243a33cf210f99828202cb6ef3eeb4665b6afd3132
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: "**\U0001F50D Web Search Support**"
   type: change
 related_changes:
-- '[[Changes/Descript/2023-12-19-since-we-overhauled-our-ai-speaker-https-help-descript-com-hc-en-us-articles-173|New
-  AI Stock Speakers]]'
 - '[[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find
   pages with better search]]'
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
   @Web in chat will give the AI the ability to crawl the web!]]'
+- '[[Changes/Raycast/2024-03-07-ai-chat-automatic-web-search-preference-is-remembered-across-new-chats|AI
+  Chat: Automatic Web Search preference is remembered across new chats]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-ai-chat-automatic-web-search-preference-is-remembered-across-new-chats|AI Chat: Automatic Web Search preference is remembered across new chats]]
 - Later: 2024-06-04 · Open WebUI · [[Changes/Open WebUI/2024-06-04-searxng-web-search-fixed-the-issue-where-the-searxng-web-search-functionality-wa|🔍 SearxNG Web Search]]
 <!-- chronolog:end -->
 

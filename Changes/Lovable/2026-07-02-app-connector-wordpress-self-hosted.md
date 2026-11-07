@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e0f1a0eaad9b46cc0e269d63275977604db8cf20e257da5f9392e64c981ac894
+machine_hash: 14986561580aa3f150c50d195a028c98ae12de5e2ece79ec711d65dc37b9c65f
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-integrations|Integrations]]
+- Later: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-mcp-support-to-ai-presets|AI : MCP support to AI Presets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 938c8427931be05461d5016b558a218f0ced818100ed22d84b030468a32e0425
+machine_hash: 9561dd4613542cee402bdfac53a9db0a13706049038c77389b66993c630fbec3
 product: cline
 product_name: Cline
 record:
@@ -46,8 +46,8 @@ record:
     like…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4
-  Developer Workflow changes in v1.0.92]]'
+- '[[Changes/Raycast/2026-10-05-ai-permissions-reduced-approval-interruptions-for-routine-git-and-github-workflo|AI
+  Permissions : Reduced approval interruptions for routine Git and GitHub…]]'
 - '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
   Workflow changes in v2.1.292]]'
 - '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code

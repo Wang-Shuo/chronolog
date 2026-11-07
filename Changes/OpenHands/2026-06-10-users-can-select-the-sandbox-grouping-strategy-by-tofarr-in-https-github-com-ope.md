@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d736f129fda37d865f5635e7236d6fcceea09cc81f9fbd1eb462af5ec1bf261c
+machine_hash: 6ed1ee6cd727cc149455d5b98d863c5a24c36b43b36ac0c2840b79d730e2f498
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before you push]]
-- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose which production alerts reach your inbox]]
+- Later: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-ai-tool-call-permission-description-is-parsed-as-markdown-allowing-for-richer-co|AI : Tool call permission description is parsed as Markdown, allowing for richer content]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2ea6f5d350b34a711a3cc11f3f00a6656667eb791642fe19718be414cab9237
+machine_hash: 98b0319a32ff73a2873e6b532a5f7291e8298ffba1a216b558d69afd9d86fdc5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,10 +76,10 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
-  /security-review slash command to review code changes for security…]]'
 - '[[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core
   Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]'
+- '[[Changes/Raycast/2026-05-20-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 - '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
   now works with more security and compliance tools]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'

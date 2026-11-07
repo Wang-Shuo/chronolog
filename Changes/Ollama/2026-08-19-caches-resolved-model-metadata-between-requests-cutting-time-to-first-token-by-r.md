@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9138211e75d9f625ba5a7bef102f6581f4e115d046dee67b8186d3e0a3f1f812
+machine_hash: 550baf5fd4ead3da48e24dbe3611a25472c480151da1d52435db2ad4ed0c9fed
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,11 @@ record:
   title: Caches resolved model metadata between requests, cutting time-to-first-token…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model
-  Support changes in rust-v0.148.0]]'
 - '[[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini
   3.7 Flash is now the default model for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added
   ANTHROPIC_DEFAULT_MODEL environment variable]]'
+- '[[Changes/Devin/2026-08-19-model-degradation-notifications|Model Degradation Notifications]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-19-v0-32-15-github-373215105-3ab1cb25|ollama-2026-08-19-v0-32-15-github-373215105-3ab1cb25]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model Support changes in rust-v0.149.0]]
+- Earlier: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-model-degradation-notifications|Model Degradation Notifications]]
+- Later: 2026-08-19 · Superwhisper · [[Changes/Superwhisper/2026-08-19-added-s1-mini-an-on-device-language-model-with-tone-control-that-cleans-up-and-f|Added S1-mini, an on-device language model with tone control, that cleans up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

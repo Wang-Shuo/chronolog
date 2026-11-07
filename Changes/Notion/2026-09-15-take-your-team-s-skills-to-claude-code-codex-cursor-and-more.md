@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 540a3dc940bbcf399f98f32660c226ad6c7355fc060756a1df6d79a653903a39
+machine_hash: 0a5f6642cc4c2f2b69770576ac6278d67fd0bfd0262120a8cf78b321aca02265
 product: notion
 product_name: Notion
 record:
@@ -51,10 +51,10 @@ record:
   title: Take your team’s skills to Claude Code, Codex, Cursor, and more
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
-  settings for connections]]'
 - '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
   changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration
+  changes in Raycast macos 2.3]]'
 - '[[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every
   AI skill your team needs, in one library]]'
 source_release: '[[Releases/Notion/notion-2026-09-15-https-www-notion-com-releases-2026-09-15-bb814e7c|notion-2026-09-15-https-www-notion-com-releases-2026-09-15-bb814e7c]]'
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-collaboration-changes-in-raycast-macos-2-3|2 Collaboration changes in Raycast macos 2.3]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a29d64a8a9ec91070b8ec04b103ba7b9cb057a4207ec9edf75a899ef9eff5b88
+machine_hash: 982d31ebe0fb8f732869ed15c139385866baa5218ca7bdd5741dafdcc1c7da3a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -105,8 +105,7 @@ record:
   title: 12 Context Window changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
-  now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Raycast/2026-10-09-send-context-to-ai|Send Context to AI]]'
 - '[[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects
   from a chat]]'
 - '[[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window

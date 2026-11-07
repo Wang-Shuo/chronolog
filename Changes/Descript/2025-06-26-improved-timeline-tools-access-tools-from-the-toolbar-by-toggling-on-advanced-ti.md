@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 629b0f778624748273d02bafdae20887cceed1c3b4a449be89c77f893a8046f2
+machine_hash: ce41bbf9b789a0932a8b2cc87abda7725a3bde87f48b20554844544491e6b844
 product: descript
 product_name: Descript
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience changes in 1.5.0]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface Experience changes in v0.85.0]]
+- Later: 2025-06-26 · Raycast · [[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2 Interface Experience changes in Raycast windows 0.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

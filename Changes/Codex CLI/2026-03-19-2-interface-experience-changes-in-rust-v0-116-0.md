@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9572321527437546da8e29f2127abedef45dd9d86a7925f888ebf3c77eb945e
+machine_hash: e6d350335132b8a591a32c597c6f9fb6be10e32d3f00e2dace9228815b0854f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature tips tooltip during thinking state]]
-- Later: 2026-03-20 · Notion · [[Changes/Notion/2026-03-20-custom-skills-let-you-turn-any-repetitive-ai-task-into-an-easily-accessible-comm|Custom skills for Notion AI]]
+- Later: 2026-03-19 · Devin · [[Changes/Devin/2026-03-19-parent-child-session-grouping|Parent/Child Session Grouping]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

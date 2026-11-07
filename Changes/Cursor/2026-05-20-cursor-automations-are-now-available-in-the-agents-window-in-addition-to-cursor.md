@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f0b7039e1d4b7a545b0ea6814c32cd2ba27abf4f9023dd742c862ee936a4976b
+machine_hash: 05daed73644067a51840086eb4e29f3c93a7d4597a750253babe743107cde10f
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-codex-exec-resume-now-accepts-output-schema-so-resumed-automations-can-keep-sess|codex exec resume now accepts --output-schema, so resumed automations can keep…]]
-- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-custom-rrule-schedule-input|Custom RRULE Schedule Input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

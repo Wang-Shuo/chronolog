@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f7561012d13205ddff92f317953857ff3c9b0f0ccc648278bd4026046b83182a
+machine_hash: 2563d1a4d46bc9fe27618cfc3299c130acfa1fe61c38a441869dac38a3e24fa8
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
     agent's…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes
-  in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer-f2436c|AI
+  Chat : Agents you turn off in Settings no longer appear in the composer]]'
 - '[[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes
   in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode

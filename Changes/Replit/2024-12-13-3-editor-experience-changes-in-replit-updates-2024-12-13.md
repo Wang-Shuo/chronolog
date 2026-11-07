@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 968e0c85343b4c069405db7147435acbff21fd953ec3f598ffb93156a25a374f
+machine_hash: dddb6590f4f5888a24f453315814610af5dc67c2a292ef147bf4197c9a69a3b4
 product: replit
 product_name: Replit
 record:

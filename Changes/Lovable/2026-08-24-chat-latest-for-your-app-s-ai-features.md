@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2aae61864455d5fa24f23fcefebcf3fff909fb6ee0eb6fd691901c4e74ebd084
+machine_hash: fc0a720fb07db946790de98281f25af891ac30300ba72eec6f76447e52d7d12a
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes in 1.17.0]]
+- Later: 2026-08-24 · Recraft · [[Changes/Recraft/2026-08-24-take-total-control-over-your-output-before-you-hit-generate-choose-your-batch-si|Multi-Generation & Model Comparison]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

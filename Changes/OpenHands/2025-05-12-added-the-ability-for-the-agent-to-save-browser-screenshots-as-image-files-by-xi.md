@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c1546e35e42bdc3c1a07f714be50d4108fa033e2eac08b4aabd319f341a5c0e1
+machine_hash: 76c8a436f01d6329a8fdc80ff23b5ec3b63d2f0fed34c6ffbde4c2678028446c
 product: openhands
 product_name: OpenHands
 record:
@@ -44,9 +44,10 @@ record:
   title: Added the ability for the agent to save browser screenshots as image files
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-28-agents-platform-6b1e4d|Agents Platform]]'
 - '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
   support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/AnythingLLM/2025-05-06-improve-japanese-translation-to-maintain-agent-by-suzuki-shm-in-https-github-com|Improve
+  Japanese translation to maintain @agent]]'
 - '[[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'
 source_type: github_releases

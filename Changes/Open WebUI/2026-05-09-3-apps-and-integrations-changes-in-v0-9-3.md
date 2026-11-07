@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5db2ed7ac13e475cd14d8cd8409bd609300d4fa419f8051e3037e467bcff7ac
+machine_hash: a9f4656f9300eb47f33595f6ca4e24291fbd448040642baea29dc261461a4125
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,10 @@ record:
   title: 3 Apps and Integrations changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
-  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
-- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
-  Apps and Integrations changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-3-apps-and-integrations-changes-in-raycast-macos-0-56|3
+  Apps and Integrations changes in Raycast macos 0.56]]'
+- '[[Changes/Raycast/2026-05-08-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 - '[[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker
   notes and Presenter view in Slide Decks]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed1be2b7d9b2758211e14ee10150f80ae4141d9b95b3b345d1ee3b1e293b841e
+machine_hash: 65daed66f663cf73ed6229cd0c7ffb674d06d87146308252af804b48d91e5cf6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v0.3.33
   type: change
 related_changes:
-- '[[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated
-  wording on Mic mute tooltip to provide clearer instructions]]'
+- '[[Changes/LM Studio/2024-10-22-3-interface-experience-changes-in-lm-studio-0-3-5|3
+  Interface Experience changes in LM Studio 0.3.5]]'
 - '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
 - '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
@@ -94,7 +94,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.33
 ## Nearby in Interface Experience
 
 - Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]
-- Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat: regenerate history switch navigation]]
+- Later: 2024-10-25 · AnythingLLM · [[Changes/AnythingLLM/2024-10-25-enable-the-ability-to-disable-the-chat-history-ui-by-timothycarambat-in-https-gi|Enable the ability to disable the chat history UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

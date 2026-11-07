@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f43168a30bb43b85225cea3d3ec12352784b75f4be15602dc834bb1123007d2b
+machine_hash: b6548352ee57ee0c268996dab08e1212bcaf82fec77c7951ee7a066cb3b1d146
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export
-  AI SDK telemetry spans to OTLP trace backends]]'
 - '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
   and Integrations changes in v1.4.4]]'
+- '[[Changes/Raycast/2026-04-15-applications-added-a-recursive-search-option-for-portable-apps|Applications
+  : Added a recursive search option for portable apps]]'
 - '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases

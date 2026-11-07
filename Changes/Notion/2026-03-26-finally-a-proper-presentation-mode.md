@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b0fc47837f12bd4b03d3ced58e6828af3dd0da7ed3b231c6814bb943e06f7de3
+machine_hash: 7d6e8cf08616c0d26a1abd46907df30ee4ab48bcba65448adb8d31c052f569ac
 product: notion
 product_name: Notion
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Presentation Creation
 
 - Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core Adjust skill presentation to reduce token usage]]
-- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-built-in-agent-for-document-generation-https-docs-anythingll|AnythingLLM adds a new built-in agent for Document…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

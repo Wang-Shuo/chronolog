@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 571bb2736c060bd50b733bf313e659c748799b58e82878042eb43cfe4dc93683
+machine_hash: 7a7c0c668e974c94fd6eff32bdfec115722c7f4b9d79b31bada4babd40313a6b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Enterprise and Administration changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates
   and Refactor Enterprise Docs]]'
+- '[[Changes/Devin/2025-11-27-enterprise-api-v3-git-permissions-bulk-create-improvements|Enterprise
+  API v3 Git Permissions Bulk Create Improvements]]'
 - '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
   enterprise to readme]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add enterprise to readme]]
-- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can publish externally]]
+- Later: 2025-12-05 · Devin · [[Changes/Devin/2025-12-05-enterprise-api-v3-updates|Enterprise API v3 Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

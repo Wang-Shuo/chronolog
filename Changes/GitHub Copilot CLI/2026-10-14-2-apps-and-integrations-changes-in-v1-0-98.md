@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76c2c98f373f8fd88694964a7f866915c1f07bf002b2341bdb5e0b821b0d5d86
+machine_hash: b86466426938d59c738779b8ad2e4d24334aa931fe92ca0bf856a3406404f8a0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Apps and Integrations changes in v1.0.98
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-7-apps-and-integrations-changes-in-v2026-10-3|7 Apps
-  and Integrations changes in v2026.10.3]]'
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-browser-previews-shared-to-slack|Browser Previews Shared
+  to Slack]]'
+- '[[Changes/Devin/2026-10-14-new-observability-plugins|New Observability Plugins]]'
+- '[[Changes/Devin/2026-10-14-clearer-mcp-server-and-plugin-approval-cards|Clearer
+  MCP Server and Plugin Approval Cards]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-14-v1-0-98-github-413121884-eb243e64|github-copilot-cli-2026-10-14-v1-0-98-github-413121884-eb243e64]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-clearer-mcp-server-and-plugin-approval-cards|Clearer MCP Server and Plugin Approval Cards]]
 - Later: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-2-apps-and-integrations-changes-in-kimi-code-2-2-0|2 Apps and Integrations changes in Kimi Code 2.2.0]]
 <!-- chronolog:end -->
 

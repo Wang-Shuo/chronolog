@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed0dd85d24cbeefe4a43b8588bdec08d5c2cbe28784402cb84c552dfadabe922
+machine_hash: 49ccab3fe02b45f08071f9441901b5d7acbed07e93803f220ce67fff669d4dd3
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
-- Later: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
+- Later: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance: Improved performance for opening Raycast after pressing the hotkey]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

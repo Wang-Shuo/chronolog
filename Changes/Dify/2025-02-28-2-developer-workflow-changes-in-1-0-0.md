@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8204190ee66c5a5d0aaa7e752385cdab9c7f912b9f9456b8b561da83dbebe1ad
+machine_hash: ca066efbeef2cfc44b94581927698316f339959a460f325745468f86fd96c3b1
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in 1.0.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
-  resource usage of command to avoid OOM Runtime Kill]]'
 - '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
   @git to reference the current working changes or specific commits…]]'
+- '[[Changes/Devin/2025-02-26-2-developer-workflow-changes-in-devin-updates-2025-02-26|2
+  Developer Workflow changes in Devin updates — 2025-02-26]]'
 - "[[Changes/Open WebUI/2025-02-27-enhanced-logging-with-loguru-backend-logging-has-been-improved-with-loguru-makin|\U0001F4C8
   Enhanced Logging with Loguru]]"
 source_release: '[[Releases/Dify/dify-2025-02-28-1-0-0-github-202962689-d5695ce1|dify-2025-02-28-1-0-0-github-202962689-d5695ce1]]'

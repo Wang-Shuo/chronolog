@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a55abec12ea4f7826edf4e6e7053f26f077ea41790d392245b6129e93970293
+machine_hash: 08becb11cd44659db93e38321cc3e6e66ff8e529bf57bf21c3c7163db428e1a0
 product: aider
 product_name: Aider
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Developer Workflow changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore:
-  replace outdated config in vscode debug settings]]'
-- '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
-  Workflow changes in v0.34.0]]'
+- '[[Changes/Devin/2024-05-13-command-history|Command History]]'
+- '[[Changes/Devin/2024-05-13-open-vs-code-access-devin-s-machine|Open VS Code: Access
+  Devin''s machine]]'
 - '[[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat:
   support copy run text result in debug panel in workflow]]'
 source_release: '[[Releases/Aider/aider-2024-05-22-v0-36-0-github-156969729-e3ce2281|aider-2024-05-22-v0-36-0-github-156969729-e3ce2281]]'

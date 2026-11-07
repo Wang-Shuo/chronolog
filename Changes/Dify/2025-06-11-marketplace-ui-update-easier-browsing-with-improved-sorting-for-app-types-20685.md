@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c6339834999c8bdc3a851928b77fe355a2c6502fc148d1388053565bc903497
+machine_hash: ec465b2df2fad156ce3772ea59b83633b2a385861bb6358a2249ea1242d920aa
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]]
-- Later: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]]
+- Later: 2025-06-11 · Raycast · [[Changes/Raycast/2025-06-11-removed-system-settings-links-from-appearing-in-file-search-results|Removed system settings links from appearing in file search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

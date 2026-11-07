@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 462cac9cafbf9bb6353c6e67b0f96af17cdc3b36b0a85af21e263bd64b586ef8
+machine_hash: 7f95a831316276e09df4ca6771f7af494f15134b5c5526523caced9032111e94
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,10 @@ record:
   title: Added `forceRemoteSettingsRefresh` policy setting
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
-  Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
-- '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
-  optimize /workspaces plan resolution for SaaS and enterprise…]]'
-- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
-  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
+- '[[Changes/Devin/2026-04-03-enterprise-scoped-secrets|Enterprise-Scoped Secrets]]'
+- '[[Changes/Devin/2026-04-03-enterprise-build-pinning|Enterprise Build Pinning]]'
+- '[[Changes/Devin/2026-04-03-enterprise-acu-visibility-control|Enterprise ACU Visibility
+  Control]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]
+- Earlier: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-enterprise-acu-visibility-control|Enterprise ACU Visibility Control]]
 - Later: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]]
 <!-- chronolog:end -->
 

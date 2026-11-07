@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d732226463a27e2c1551bdd384d4b244bb13d4d36cefda878178ebe783f27c63
+machine_hash: 9ec845b2396bf0f7d303956d978e5a4eb40be4e71dec2b7c14ee4327b2570fee
 product: gemini
 product_name: Gemini
 record:
@@ -72,8 +72,8 @@ record:
   title: Deep Research is now powered by Gemini 2.0 Flash Thinking (experimental)…
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma
-  3((source link) Google Gemma 3 model is now available…]]'
+- '[[Changes/LM Studio/2025-03-12-windows-prevent-user-from-accidentally-setting-the-models-directory-inside-the-l|Windows
+  Prevent user from accidentally setting the models directory inside the LM…]]'
 - '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
   in v0.77.0]]'
 - '[[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added

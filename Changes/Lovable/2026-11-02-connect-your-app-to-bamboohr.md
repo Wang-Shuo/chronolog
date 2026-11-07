@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 13ac3791b97644a225dc50ca0fe082f06236b48a666254b2cdcb4458e9675491
+machine_hash: 98d464031742493822134745028feeff2246f100753a6495c9799e6961ece68f
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: Connect your app to BambooHR
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-30-3-apps-and-integrations-changes-in-qoder-0-5-1|3 Apps
-  and Integrations changes in Qoder 0.5.1]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
+- '[[Changes/Devin/2026-11-02-multiple-files-in-one-slack-post|Multiple Files in One
+  Slack Post]]'
 - '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
   integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-02-2026-11-02-7efe9660|lovable-2026-11-02-2026-11-02-7efe9660]]'

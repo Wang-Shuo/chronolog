@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a1428c13b00184e16bb16e9939eee7b62474eeb1c232910f01e9c8fd09862909
+machine_hash: 7e92a6c080a784d0294625d01e4f3d9d31612d62262bbad469dd855433b6ba4c
 product: dify
 product_name: Dify
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-2-voice-and-audio-changes-in-0-11-2|2 Voice and Audio changes in 0.11.2]]
-- Later: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-added-voice-input-device-to-select-audio-input-device-for-voice-recording-by-pre|Added --voice-input-device to select audio input device for voice recording, by @preynal]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-handle-openai-whisper-transcription-edge-case-by-shatfield4-in-https-github-com|Handle OpenAI whisper transcription edge case]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

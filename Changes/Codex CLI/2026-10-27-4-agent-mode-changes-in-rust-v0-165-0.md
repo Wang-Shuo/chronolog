@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4ee6503c96f2c3c1eb2cb79b9a215d858eec195d3a6f3ef1d6c65102331c2f1
+machine_hash: 1c48448de783b0cab8a46f7791e12c725b2bfd058db7aa86f861000d52b7ef6e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,7 @@ record:
   title: 4 Agent Mode changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop
-  showing a failed swarm for AgentSwarm calls rejected before any subagent…]]'
+- '[[Changes/Krea/2026-10-26-more-agent-plugins|More Agent plugins]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 - '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode

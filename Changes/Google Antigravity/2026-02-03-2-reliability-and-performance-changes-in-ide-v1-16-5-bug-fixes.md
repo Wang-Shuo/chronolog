@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7831b3ee091ce9c09e4739d274285ef7e27014e157a1c1b95a9389d0eb4bcae8
+machine_hash: efa1a075185d7a8f6a3e67ad2439960d1703babbf46645cdcb319e6c9ece4ff5
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Reliability and Performance changes in IDE v1.16.5 — Bug Fixes
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]'
 - '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
   memory usage for --resume (68% reduction for users with many sessions)…]]'
+- '[[Changes/Devin/2026-02-03-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat:
   use xdist to make make test faster]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-02-03-rel-ide-1-16-5-c7d84852|google-antigravity-2026-02-03-rel-ide-1-16-5-c7d84852]]'

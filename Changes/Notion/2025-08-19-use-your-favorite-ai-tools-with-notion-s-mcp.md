@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cb828fbaec33523e9d521371dd39a61dc8378022688e593d4a443afcdc801a1b
+machine_hash: 4fdb7dde6cf2e289c5aa94086827934561d3ea3933b6e5b4e931bdd29bc58981
 product: notion
 product_name: Notion
 record:
@@ -51,10 +51,8 @@ record:
   title: Use your favorite AI tools with Notion’s MCP
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-13-3-apps-and-integrations-changes-in-v0-1-20|3 Apps
-  and Integrations changes in v0.1.20]]'
-- '[[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41
-  Apps and Integrations changes in v0.1.21]]'
+- '[[Changes/Devin/2025-08-16-jam-mcp-integration|JAM MCP Integration]]'
+- '[[Changes/Devin/2025-08-16-enhanced-linear-integration|Enhanced Linear Integration]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps
   and Integrations changes in v0.1.22]]'
 source_release: '[[Releases/Notion/notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0|notion-2025-08-19-https-www-notion-com-releases-2025-08-19-87113ed0]]'

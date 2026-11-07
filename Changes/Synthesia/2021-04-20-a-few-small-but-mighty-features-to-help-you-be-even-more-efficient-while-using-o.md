@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89601c6a9edade0b6e33df446bb84af29e223eb6536d53c852a0b594bbd6fcd9
+machine_hash: d9c8a5712341a40d897099263c114598b387ea1527364fc490a503aa6e17d774
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,10 +43,10 @@ record:
   title: Rounded corners & line/character spacing
   type: change
 related_changes:
-- '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
-  offset]]'
 - '[[Changes/Notion/2020-04-07-2-files-and-data-changes-in-better-ipad-app|2 Files
   and Data changes in Better iPad app]]'
+- '[[Changes/Raycast/2020-10-07-g-suite-search-create-and-open-files|G Suite: Search,
+  create and open files]]'
 - "[[Changes/Notion/2021-03-10-customize-font-size-in-exported-pdfs|Customize font
   size in exported PDFs \U0001F50D]]"
 source_release: '[[Releases/Synthesia/synthesia-2021-04-20-https-www-synthesia-io-updates-rounded-corners-and-line-characte-47acbf8b|synthesia-2021-04-20-https-www-synthesia-io-updates-rounded-corners-and-line-characte-47acbf8b]]'

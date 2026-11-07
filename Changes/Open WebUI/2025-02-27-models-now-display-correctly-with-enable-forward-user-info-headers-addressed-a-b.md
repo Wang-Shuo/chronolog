@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 07ccbf2bd3d8ebc90e8fcac8abdadc98e88d25f2b8faaea00a7a8f5aaca7f308
+machine_hash: 1ba8ecd59fcd635571149fed475cb5d9d7514f7b283c5228de2c735533d52552
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "**\U0001F6E0️ Models Now Display Correctly with ENABLE_FORWARD_USER_INFO_HEADERS**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-02-20-2-model-support-changes-in-v0-5-12|2 Model Support
-  changes in v0.5.12]]'
+- '[[Changes/Devin/2025-02-26-sonnet-3-7-in-devin-we-incorporated-sonnet-3-7-in-devin-on-2-24-with-optimizatio|Sonnet
+  3.7 in Devin]]'
 - '[[Changes/Ollama/2025-02-27-2-model-support-changes-in-v0-5-13|2 Model Support
   changes in v0.5.13]]'
 - "[[Changes/Open WebUI/2025-02-27-reliable-model-imports-from-the-community-platform-resolved-import-failures-allo|\U0001F504

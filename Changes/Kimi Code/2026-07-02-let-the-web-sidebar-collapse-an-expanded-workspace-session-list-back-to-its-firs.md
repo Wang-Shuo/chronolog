@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 169810604ba5938430f4143a3a66d8698d16d3c9345b50769443c16c10dd0450
+machine_hash: 673066429699b072f9baedf445db19b209db920508deea1fdb3576749487d52b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-add-workspace-sorting-by-manual-order-or-last-edited-time-plus-collapse-all-and|Add workspace sorting by manual order or last-edited time, plus collapse-all…]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Later: 2026-07-02 · Raycast · [[Changes/Raycast/2026-07-02-ai-added-support-to-search-for-providers-in-model-picker|AI: Added support to search for providers in model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

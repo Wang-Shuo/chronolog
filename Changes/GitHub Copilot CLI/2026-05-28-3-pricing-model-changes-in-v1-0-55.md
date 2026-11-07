@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d49252eedcb1b3257f80485bc4f563b7e04333a86be27b0e52fb64613bfe02c8
+machine_hash: 5c9867b16080b9b82f147647b354c97d3457493178f08fdd9be34b7f9d291a4c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-search-on-the-create-and-organize-pages-now-works-for-signed-in-members-without|Search on the Create and Organize pages now works for signed-in members without…]]
-- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-billing|Billing]]
+- Later: 2026-05-29 · Raycast · [[Changes/Raycast/2026-05-29-bring-your-own-key-byok-seamlessly-integrates-your-existing-ai-provider-accounts|Bring Your Own Key (BYOK) seamlessly integrates your existing AI provider accounts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

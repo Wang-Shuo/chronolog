@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 97723495eb727f62634e1237e7af0cf0ce1101aaad6117ab1191298632c56fb0
+machine_hash: 27cfc3d3647a8d37c6f6538191d086fa52ab986c3a2bfa1b59b8c12c3fd0f83f
 product: notion
 product_name: Notion
 record:
@@ -58,10 +58,10 @@ record:
   title: Press a button, send a notification
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
-  changes in v0.4.0]]'
 - '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
   suggesting files that share names with files already in chat]]'
+- '[[Changes/AnythingLLM/2024-11-26-2-collaboration-changes-in-v1-3-0|2 Collaboration
+  changes in v1.3.0]]'
 - '[[Changes/Notion/2024-12-05-easy-scheduling-with-notion-calendar|Easy scheduling
   with Notion Calendar]]'
 source_release: '[[Releases/Notion/notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f|notion-2024-12-05-https-www-notion-com-releases-2024-12-05-73ff5e1f]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
+- Earlier: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 - Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
 <!-- chronolog:end -->
 

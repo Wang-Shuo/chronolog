@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 70860693938a5885db28bc7310d59301e9026806a159d93a72ba255e8b8c1f07
+machine_hash: e6a28501b8a90761e8bb9e2d52ee9d6fabd517fc7d3932e9947fdf62e796f438
 product: cursor
 product_name: Cursor
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-audio-previews-now-available-in-the-editor-sidebar|Audio previews now available in the Editor sidebar]]
-- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-music-api|Music API]]
+- Later: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-2-voice-and-audio-changes-in-raycast-ios-1-1-2|2 Voice and Audio changes in Raycast ios 1.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

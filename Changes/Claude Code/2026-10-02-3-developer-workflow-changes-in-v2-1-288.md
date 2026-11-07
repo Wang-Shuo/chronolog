@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa3e4946be42bcf2c618a2200a72032243df78ddda3ec3d489cab3c3c0371cc0
+machine_hash: 2dc9639dfd1b9cb26e9604433207ea7947a58582c26da8e8619605cd6c13634b
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete, statically analyzable read-only shell pipelines can now enter…]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer Workflow changes in v2.1.290]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-github-comments-that-start-sessions-get-an-reaction|GitHub Comments That Start Sessions Get an 👀 Reaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

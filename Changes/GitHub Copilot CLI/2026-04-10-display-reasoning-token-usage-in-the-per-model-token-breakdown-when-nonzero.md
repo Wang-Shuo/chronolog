@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e14f897772055b9993ddb8932a6a3ed1634355ba449beab92630c3f0f268b87b
+machine_hash: 8307f82cf7eef119e88761e3d26400686a497fc697753eb71eefed49af9c3ad5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:

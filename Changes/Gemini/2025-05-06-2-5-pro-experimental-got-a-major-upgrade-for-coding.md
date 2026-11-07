@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 045bb7a6d453aeeaedd3ef27e7823d40d291a7b6375601d4201083cf85900bea
+machine_hash: 4902c2b0d6610f9a161887c46586154716c1a8d9943d3e24811a18b3fa639b08
 product: gemini
 product_name: Gemini
 record:
@@ -70,12 +70,12 @@ record:
   title: 2.5 Pro (experimental) got a major upgrade for coding
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
-  launches V7 model speedups today]]'
 - '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
   in v3.14.0]]'
 - '[[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support
   changes in v0.6.6]]'
+- '[[Changes/AnythingLLM/2025-05-06-2-model-support-changes-in-v1-8-1|2 Model Support
+  changes in v1.8.1]]'
 source_release: '[[Releases/Gemini/gemini-2025-05-06-2025-05-06-8acd83b5|gemini-2025-05-06-2025-05-06-8acd83b5]]'
 source_type: gemini_changelog
 theme: model-support
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support changes in v0.6.6]]
+- Earlier: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-2-model-support-changes-in-v1-8-1|2 Model Support changes in v1.8.1]]
 - Later: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|🎨 Automatic1111 Image Model Setting Applied Properly]]
 <!-- chronolog:end -->
 

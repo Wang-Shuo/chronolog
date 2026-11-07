@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 178b11eaad70759698de96370bc79b82177183d00912469a68db33b96a7be711
+machine_hash: ea68ab20b0aeeedbf96a575111aa16399ab2e402beeb98c704fe40d9def4dc83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
     with you
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
-  the two bundles of the combined rollout package from invalidating each other''s…]]'
-- '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
-  changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-figma-live-embeds-in-link-previews|Figma Live Embeds
+  in Link Previews]]'
 - '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
   can choose whether new avatars are public or private by default]]'
+- '[[Changes/Superwhisper/2026-08-10-all-time-stats-view-with-x-share-card|All-time
+  stats view with X share card]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins can choose whether new avatars are public or private by default]]
+- Earlier: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-all-time-stats-view-with-x-share-card|All-time stats view with X share card]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
 <!-- chronolog:end -->
 

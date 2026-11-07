@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a767683266462acf21a9fe71aa50e3e1c28a60145475ce1b1184a836bdf72cbd
+machine_hash: c29607b20f10cd830646dd827bdda4cb671278335acba94f99277cfa219df2b4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,10 +47,10 @@ record:
     bottom…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
 - '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
   sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
+- '[[Changes/Raycast/2026-09-14-macos-golden-gate-is-out-bringing-many-user-interface-changes-while-there-are-no|macOS
+  Golden Gate is out, bringing many user interface changes]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3 Interface Experience changes in v1.0.85]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-reboot-vm-from-the-sidebar|Reboot VM from the Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d10011f50ad605edcb9e8e4ad181aa9c50b8db71e9e313501dc7dfe47152660
+machine_hash: a6d576dc7db4ed4cb2c6956aad2c854142fbe15122cdae962180fc2b714278dc
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2 Account and Access changes in v0.0.401]]
-- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]]
+- Later: 2026-02-04 · Raycast · [[Changes/Raycast/2026-02-04-login-sorted-out-a-json-response-that-could-fail-when-creating-an-account|Login: Sorted out a JSON response that could fail when creating an account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

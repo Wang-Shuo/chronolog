@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50ede971d28665de9cce6ba9122d3b701cf0897025611baa965c549b6f94f23a
+machine_hash: 1532a3fe7c71a178490aa79d5361a0cc429ee19605d805d65bb548565e73668c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -51,12 +51,10 @@ record:
   title: Conversations with very long histories now load faster and use less memory
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
-  Memory and Personalization changes in v2.1.268]]'
-- '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
-  and Personalization changes in 1.17.1]]'
 - '[[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14
   Memory and Personalization changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-projects|Projects]]'
+- '[[Changes/Raycast/2026-09-11-projects-6239fd|Projects]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb|google-antigravity-2026-09-15-rel-hub-2-14-0-a79096fb]]'
 source_type: antigravity_changelog
 theme: memory
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14 Memory and Personalization changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-projects-6239fd|Projects]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3 Memory and Personalization changes in v1.0.85]]
 <!-- chronolog:end -->
 

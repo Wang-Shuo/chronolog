@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8febd4676c5b5455096da417bdfa4973e363e1be9c90df613668e0d7c1b62cf7
+machine_hash: e1a0fdae9a1f5fbc3154929397f81106d8659ffb322da90eca8b8e5a85fb2160
 product: notion
 product_name: Notion
 record:
@@ -46,9 +46,10 @@ record:
     on the go
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-14-better-quote-blocks|Better quote blocks]]'
-- '[[Changes/Notion/2021-07-14-we-now-have-hand-picked-sans-and-serif-typefaces-for-chinese-simplified-traditio|We
-  now have hand-picked sans and serif typefaces for Chinese…]]'
+- '[[Changes/Raycast/2021-07-29-2-interface-experience-changes-in-raycast-macos-v1-1-21-0|2
+  Interface Experience changes in Raycast macos-v1 1.21.0]]'
+- '[[Changes/Raycast/2021-08-25-3-interface-experience-changes-in-raycast-macos-v1-1-22-0|3
+  Interface Experience changes in Raycast macos-v1 1.22.0]]'
 - '[[Changes/Descript/2021-09-08-studio-sound-improvements|Studio Sound improvements]]'
 source_release: '[[Releases/Notion/notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219|notion-2021-09-08-https-www-notion-com-releases-2021-09-08-cd974219]]'
 source_type: notion_changelog

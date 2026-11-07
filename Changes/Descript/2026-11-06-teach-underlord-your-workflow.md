@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3c99e1b93411949091ac6869553d00e81d11d8399e931e950da1e3a512eff03e
+machine_hash: b8d6933c0c5d4387e4143edd33eb2222309a4c1894cbecad43457a790a4291bd
 product: descript
 product_name: Descript
 record:
@@ -54,8 +54,8 @@ record:
   title: Teach Underlord your workflow
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
-  bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
+- '[[Changes/Recraft/2026-11-05-sunburst-keeps-edits-consistent-so-the-details-you-didn-t-ask-to-change-stay-unt|Sunburst
+  keeps edits consistent, so the details you didn''t ask to change stay…]]'
 - '[[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor
   Experience changes in rust-v0.167.0]]'
 - '[[Changes/Descript/2026-11-06-script-text-no-longer-shakes-up-and-down-while-you-edit|Script

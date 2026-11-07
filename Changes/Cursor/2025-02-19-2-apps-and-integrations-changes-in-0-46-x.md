@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32c4ceef5938f9ae85be74e24abfebdd8e0174c3ddc5a4e2345db45fa41b3da4
+machine_hash: 7957cec4980c500b68d0ad24debde1a8ea0b79c71e30e758aa1e67e1696f5a05
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority
-  access with Gemini Advanced]]'
 - '[[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3
   Apps and Integrations changes in Lovable updates — 2025-02-12]]'
+- '[[Changes/AnythingLLM/2025-02-18-2-apps-and-integrations-changes-in-v1-7-4|2 Apps
+  and Integrations changes in v1.7.4]]'
 - '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
   MCP Marketplace!]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/0-46-x
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
-- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for Assistant]]
+- Later: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-custom-focus-categories|Custom Focus Categories]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

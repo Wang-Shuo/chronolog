@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cfe6b148b6f76d465a73ed18b74f0b43b715f9003990bd87fdd11fe1f21c1f8b
+machine_hash: 61e4af7a5037d1d406ec0b4005ef79dca87d8615563cb5c4e029ca3ddd5c5380
 product: notion
 product_name: Notion
 record:
@@ -48,8 +48,8 @@ record:
   title: and search across Linear
   type: change
 related_changes:
-- '[[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make
-  your videos interactive]]'
+- '[[Changes/Devin/2025-06-26-enterprise-connected-accounts-ui|Enterprise Connected
+  Accounts UI]]'
 - '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Notion/notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd|notion-2025-07-10-https-www-notion-com-releases-2025-07-10-ecf58afd]]'

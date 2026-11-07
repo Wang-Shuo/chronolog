@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ca97cc129275ea2683ca128b87f5f60b5121605d9ddb0912c392e2ed07e7c37
+machine_hash: 4689b89c4aa1fb3be4e9037056493a1bb004bcae7575d8035756e0512f131614
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -60,9 +60,10 @@ record:
   title: 8 Editor Experience changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]'
 - '[[Changes/Open WebUI/2025-09-17-2-editor-experience-changes-in-v0-6-29|2 Editor
   Experience changes in v0.6.29]]'
+- '[[Changes/Raycast/2025-09-18-2-editor-experience-changes-in-raycast-ios-1-0-15|2
+  Editor Experience changes in Raycast ios 1.0.15]]'
 - '[[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
 source_type: github_releases

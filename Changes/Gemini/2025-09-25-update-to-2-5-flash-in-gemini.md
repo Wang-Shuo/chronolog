@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e8c884654f63e138973ac68fdb166fcb2ed1cfeebf63e3540746ebd301078f3
+machine_hash: 4e8b8343653ec28eb31151ba4be8d7f47ccff9e25c6a9e0afdf92722b2e36743
 product: gemini
 product_name: Gemini
 record:
@@ -62,8 +62,8 @@ record:
   title: Update to 2.5 Flash in Gemini
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
-  changes in v0.6.0]]'
+- '[[Changes/LM Studio/2025-09-24-4-model-support-changes-in-lm-studio-0-3-27|4 Model
+  Support changes in LM Studio 0.3.27]]'
 - '[[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models
   with Qwen3''s architecture including MoE now run in Ollama''s new engine]]'
 - '[[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor:

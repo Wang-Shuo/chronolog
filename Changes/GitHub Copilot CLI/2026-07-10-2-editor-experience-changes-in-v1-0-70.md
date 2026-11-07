@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10f2f756f2c428b1d43c12ba5dc7dbe30d8167f35556c09d361d969a76299f03
+machine_hash: 92ff5f1b16ddb0dcc007dd1f68b01f2386d13dfb7a95e2e468bd3003dfcdd8e4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Editor Experience changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
-  Handle completion separators and popup dismissal @charliemarsh-oai]]'
-- '[[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image
-  gallery in the Files tab]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent|AI
+  Chat : Reorder and edit queued messages before they''re sent]]'
+- '[[Changes/Raycast/2026-07-09-ai-chat-reorder-and-edit-queued-messages-before-they-re-sent-675bba|AI
+  Chat : Reorder and edit queued messages before they''re sent]]'
 - '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
   a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'

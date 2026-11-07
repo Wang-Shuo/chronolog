@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e4acda2c82ecd124cd4a166e0b57fdc0a844888a7febe63b65936ebcc098061
+machine_hash: 545a0abb89a9b1e68d389f1ebc5af0c251ea1dcbbbc8d6590d858e54a9c75e54
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI for faster access]]
-- Later: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2 Reliability and Performance changes in v0.1.17]]
+- Later: 2025-08-04 · Devin · [[Changes/Devin/2025-08-04-performance-optimizations|Performance Optimizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

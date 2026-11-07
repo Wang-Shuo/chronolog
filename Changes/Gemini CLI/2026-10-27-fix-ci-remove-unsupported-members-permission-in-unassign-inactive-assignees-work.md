@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2f35fa4468abc8c442bcc29c2875299193b37236ec28953102c881cc52800c3
+machine_hash: 95c4699c7bae3b15092ad6f853b8724509205dcb8955730d49f141c876dd93df
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,7 @@ record:
     workflow'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
-  the two repeated permission-mode notice lines in the swarm and goal start…]]'
+- '[[Changes/Superwhisper/2026-10-26-security-fixes|Security fixes]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 - '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3

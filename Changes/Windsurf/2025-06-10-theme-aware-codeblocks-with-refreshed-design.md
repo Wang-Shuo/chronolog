@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f864cf1050f451405a09500014de99c7757c83a8c76d0e9ca0d5892fdd4df11c
+machine_hash: a8b472d229d5574a8ff6e48c0fe87b26209d44ee33421aa8145a88a46e867953
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Theme-aware codeblocks with refreshed design
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic
-  code review with Bugbot]]'
 - '[[Changes/Cline/2025-06-05-add-setting-to-disable-aggressive-terminal-reuse-to-help-users-experiencing-task|Add
   setting to disable aggressive terminal reuse to help users experiencing task…]]'
 - '[[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added
   support on windows without WSL]]'
+- '[[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn
+  bad docker command]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-05 · OpenHands · [[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added support on windows without WSL]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-warn-bad-docker-command-by-timothycarambat-in-https-github-com-mintplex-labs-any|Warn bad docker command]]
 - Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved Housekeeping Command]]
 <!-- chronolog:end -->
 

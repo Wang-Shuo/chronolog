@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9417f773bde488c163f1402c10888c28603add217ddd21afe117fc6ea6b8191e
+machine_hash: eab81716f77ba71ee872b7d7026a4405bd9dd27677d8cad3c0fcf51d49c8817c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: MCP tool calls display tool name and parameter summary in the timeline
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5
-  Apps and Integrations changes in v1.0.15]]'
+- '[[Changes/AnythingLLM/2026-04-02-2-apps-and-integrations-changes-in-v1-12-0|2 Apps
+  and Integrations changes in v1.12.0]]'
 - '[[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps
   and Integrations changes in v2.1.91]]'
 - '[[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations

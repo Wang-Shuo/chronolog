@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ce8dc210b43b1b284d0d4c2bd83492e4256b91c561fc1367072cef860a01fad
+machine_hash: 1fb3899b96e335c46ee88a52c44a9cff25767fa85352dc64a10e0a1aec49f52b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Reliability and Performance changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
-  model availability check in the background to speed up startup]]'
 - '[[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI
   for faster access]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
   Reliability and Performance changes in v0.1.16]]'
+- '[[Changes/Devin/2025-08-04-performance-optimizations|Performance Optimizations]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2 Reliability and Performance changes in v0.1.16]]
+- Earlier: 2025-08-04 · Devin · [[Changes/Devin/2025-08-04-performance-optimizations|Performance Optimizations]]
 - Later: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2 Reliability and Performance changes in v0.11.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3cca3f0111883297fb0d1ec47b7090144115df79a32a6eb514224cede43f2b1c
+machine_hash: 2084f7c8bac7e38f062deebf5df81d49b4e94534a7fe30e78084c1ce202e470d
 product: notion
 product_name: Notion
 record:
@@ -66,12 +66,11 @@ record:
   title: Control which AI models your agents can use
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
-  your preview links]]'
-- '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
-  Enterprise and Administration changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
   model changes now apply to the current chat by default, including…]]'
+- '[[Changes/Raycast/2026-09-08-run-added-run-in-shell-and-run-in-shell-as-administrator-actions-plus-a-shell-pr|Run
+  : Added Run in Shell and Run in Shell as Administrator actions, plus a Shell…]]'
+- '[[Changes/Devin/2026-09-09-environment-build-attention|Environment Build Attention]]'
 source_release: '[[Releases/Notion/notion-2026-09-09-https-www-notion-com-releases-2026-09-09-20f50973|notion-2026-09-09-https-www-notion-com-releases-2026-09-09-20f50973]]'
 source_type: notion_changelog
 theme: enterprise-admin
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary model changes now apply to the current chat by default, including…]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-environment-build-attention|Environment Build Attention]]
 - Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
 <!-- chronolog:end -->
 

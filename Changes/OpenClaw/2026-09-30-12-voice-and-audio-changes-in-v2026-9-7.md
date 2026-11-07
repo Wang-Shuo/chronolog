@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2823eafef4d82b819fe1d3802211941f525332d84a98172f8ce0f8b41d4c7c62
+machine_hash: 7c3b6b360928b3bfe89b43db358b5a59d44b4a70a0cf8ef519aeabdc1022401f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -102,8 +102,8 @@ record:
   title: 12 Voice and Audio changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs
-  V4]]'
+- '[[Changes/Devin/2026-09-30-voice-call-bar-follows-the-composer|Voice Call Bar Follows
+  the Composer]]'
 - '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
   skills in Gemini tackle your most repetitive tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
@@ -181,7 +181,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073 Surface realtime voice catalog failures in the TUI @etraut-openai]]
+- Later: 2026-10-01 · AnythingLLM · [[Changes/AnythingLLM/2026-10-01-clean-up-tts-text-for-cloud-voices-and-telegram-voice-replies-by-shatfield4-in-h|Clean up TTS text for cloud voices and Telegram voice replies]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

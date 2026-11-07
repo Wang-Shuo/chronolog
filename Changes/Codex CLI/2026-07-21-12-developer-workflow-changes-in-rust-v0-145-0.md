@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 380c4626ee674b8534c3cfa4ffbfad56710a5acffcd22e7886be3d0f012b7a61
+machine_hash: df7f9683584e3b3ce92555478c3d22c51eae106e75d131f8933982d7389b869e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,10 +64,10 @@ record:
   title: 12 Developer Workflow changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run
-  web servers foreground-only end to end]]'
 - '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
   the embedded terminal theme with the app theme]]'
+- '[[Changes/Raycast/2026-07-20-notes-exit-a-code-block-by-tapping-the-empty-area-below-it|Notes
+  : Exit a code block by tapping the empty area below it]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
   footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'

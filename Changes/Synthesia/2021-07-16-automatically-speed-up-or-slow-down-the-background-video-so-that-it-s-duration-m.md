@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d11fa676b3f244fb3bdc1e738974c7ebbe71e367c371afe6d960adcc95b54b86
+machine_hash: e0f5633067958164783bd0445b7622f6047f6a537a2180ae6e024369e8f34af0
 product: synthesia
 product_name: Synthesia
 record:
@@ -42,11 +42,11 @@ record:
   title: Match to script
   type: change
 related_changes:
-- '[[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback
-  Speed controls on embedded videos]]'
 - '[[Changes/Notion/2021-04-21-improved-the-speed-of-displaying-page-history-versions-with-a-lot-of-content|Improved
   the speed of displaying page history versions with a lot of content]]'
 - "[[Changes/Notion/2021-04-21-pages-load-50-faster|Pages load 50% faster \U0001F955]]"
+- '[[Changes/Raycast/2021-06-16-my-schedule-improved-performance-by-fetching-only-events-of-the-next-month-inste|My
+  Schedule: Improved performance by fetching only events of the next month instead…]]'
 source_release: '[[Releases/Synthesia/synthesia-2021-07-16-https-www-synthesia-io-updates-match-to-script-21f30795|synthesia-2021-07-16-https-www-synthesia-io-updates-match-to-script-21f30795]]'
 source_type: synthesia_changelog
 theme: reliability-performance
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2021-04-21 · Notion · [[Changes/Notion/2021-04-21-pages-load-50-faster|Pages load 50% faster 🥕]]
-- Later: 2021-08-24 · Descript · [[Changes/Descript/2021-08-24-2-reliability-and-performance-changes-in-version-21-release|2 Reliability and Performance changes in Version 21 Release]]
+- Earlier: 2021-06-16 · Raycast · [[Changes/Raycast/2021-06-16-my-schedule-improved-performance-by-fetching-only-events-of-the-next-month-inste|My Schedule: Improved performance by fetching only events of the next month instead…]]
+- Later: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-improve-cold-start-performance-enhance-in-app-updates|Improve cold start performance, enhance in-app updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

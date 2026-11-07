@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87bc41d301ab51efe1e775b2279c34e72e433b42ff5ca334c941098b670793c8
+machine_hash: a21e3ee6c6a3b631f58a493f2001de172c4c27b495ec9f3abb7007b4e6adc98d
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Claude now has context about vscode's visible editors and opened tabs
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
-  Large 2((source link)]]'
+- '[[Changes/AnythingLLM/2024-07-26-6-context-window-changes-in-v1-0-0|6 Context Window
+  changes in v1.0.0]]'
 - '[[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix)
   colima: use a docker context specific to runner; prevent duplicate start]]'
 - '[[Changes/Cline/2024-07-28-updated-max-output-tokens-to-8192-so-less-lazy-coding-rest-of-code-here|Updated

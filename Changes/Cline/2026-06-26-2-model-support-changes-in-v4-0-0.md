@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a96eb7dc8696e234c482daf1b1331e76b46e56a7a9d162fc30fd1fd9308aaa33
+machine_hash: c448627507eccb7f2738807ab9392f61bfc87abab744f1a3f4e144dbcc52d721
 product: cline
 product_name: Cline
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 ## Nearby in Model Support
 
 - Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring GPT-4.5]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A saved model selection no longer briefly flips to a default while the page loads]]
+- Later: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-4-model-support-changes-in-lm-studio-0-4-17|4 Model Support changes in LM Studio 0.4.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

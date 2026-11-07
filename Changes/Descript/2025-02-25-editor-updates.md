@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9ba310b81fca29c9b9298567a91bbe3534301502e5144c46bbfd388a22d70754
+machine_hash: 8ca30bfef05827108c9dfd55e3dfce094daa8c21a0951075ab693dcbd9946901
 product: descript
 product_name: Descript
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-02-21 · Lovable · [[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements in visual edits((source link)]]
-- Later: 2025-02-28 · Lovable · [[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|'Edit' mode auto close after editing an element]]
+- Later: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize chat vs workspace width]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

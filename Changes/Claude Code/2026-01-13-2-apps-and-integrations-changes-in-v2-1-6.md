@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 055cdce58c206be5d67e1561272ccc15bb14c1a0099c0ed31f9bc965e421a6e7
+machine_hash: dd84246c1ad2ba9d0e7d93c58300535a0884cca56e102846e872fdeca1172dac
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-core-bump-copilot-plugin-version|Core Bump Copilot
-  plugin version]]'
 - '[[Changes/OpenCode/2026-01-12-core-improve-error-handling-for-built-in-plugin-installation-failures|Core
   Improve error handling for built-in plugin installation failures]]'
 - '[[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support
   resource content type in MCP tool output]]'
+- '[[Changes/Raycast/2026-01-12-widgets-prevented-widgets-from-resetting-to-an-empty-state-when-using-action-ext|Widgets:
+  Prevented widgets from resetting to an empty state when using action extensions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support resource content type in MCP tool output]]
+- Earlier: 2026-01-12 · Raycast · [[Changes/Raycast/2026-01-12-widgets-prevented-widgets-from-resetting-to-an-empty-state-when-using-action-ext|Widgets: Prevented widgets from resetting to an empty state when using action extensions]]
 - Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and Integrations changes in 1.11.3]]
 <!-- chronolog:end -->
 

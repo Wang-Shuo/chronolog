@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 46211203ea6b406402bb209a41ed4a8bf904b310607c0de112ceb68b4aa8deaf
+machine_hash: c2b9002621fbecc98fe5c715f4898c65818782ceb4a2ffc982d0bdd2f862d04e
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: "\U0001F310 Working remote ssh support through the \"OpenRemote - SSH\" extension"
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-27-opens-the-terminal-in-your-current-folder|Opens the
-  terminal in your current folder]]'
 - '[[Changes/Cursor/2023-04-07-turns-off-the-auto-install-of-the-cursor-command-and-fixes-its-install-altogethe|Turns
   off the auto-install of the "cursor ." command (and fixes its install altogether)]]'
 - '[[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don''t install
   "cursor" command on startup]]'
+- '[[Changes/Raycast/2023-04-28-3-developer-workflow-changes-in-raycast-macos-v1-1-50-0|3
+  Developer Workflow changes in Raycast macos-v1 1.50.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7|cursor-2023-04-29-0-2-8-https-cursor-com-changelog-0-2-8-dcee1ea7]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-04-14 · Cursor · [[Changes/Cursor/2023-04-14-don-t-install-cursor-command-on-startup|Don't install "cursor" command on startup]]
+- Earlier: 2023-04-28 · Raycast · [[Changes/Raycast/2023-04-28-3-developer-workflow-changes-in-raycast-macos-v1-1-50-0|3 Developer Workflow changes in Raycast macos-v1 1.50.0]]
 - Later: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to use!]]
 <!-- chronolog:end -->
 

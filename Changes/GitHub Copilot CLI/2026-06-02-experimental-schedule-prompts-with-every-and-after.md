@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7cc7f2fd83d48a2fb17228739344543a6ac38fc5aff4621c3ac567e405cb9b24
+machine_hash: 998236504684f80ca88f48183fd9a30fb4b3db901eda0bba4cef16e0ba4b0ac5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '`/experimental` schedule prompts with `/every` and `/after`'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2
-  Automation and Scheduling changes in Kimi Code 0.5.0]]'
 - '[[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask
   the agent to remind you at a specific time, run a task on a recurring cron…]]'
+- '[[Changes/Devin/2026-05-29-automations-files-changed-trigger|Automations: Files-Changed
+  Trigger]]'
 - "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
   Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-02-v1-0-58-github-333221338-cb1ede9b|github-copilot-cli-2026-06-02-v1-0-58-github-333221338-cb1ede9b]]'

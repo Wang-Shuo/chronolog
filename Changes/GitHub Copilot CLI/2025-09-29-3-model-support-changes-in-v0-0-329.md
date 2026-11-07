@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e54ff831a766f641822cb72325828f46f93bfb853363b84ded796f1dce8d1c3
+machine_hash: 36d80e25173ca38ff4f07e393c0b8ea9097a21d4d18eb995c4f755cae92fc8b1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Model Support changes in v0.0.329
   type: change
 related_changes:
-- '[[Changes/Descript/2025-09-29-why-choose-different-models|Why choose different
-  models?]]'
 - '[[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select
   which AI model powers…]]'
+- '[[Changes/Devin/2025-09-29-new-agent-preview-using-sonnet-4-5|New Agent Preview
+  using Sonnet 4.5]]'
 - '[[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
 source_type: github_releases

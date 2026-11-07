@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-03-05 · Accessibility and Localization: **\U00
   Updated Translations**: Refined multilingual support for better localization and
   accuracy across…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 541
+  lag_days: 1567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d427ee1197ed74f9cec9d6fd05872776287c409017f0d9a608964f4822aea7ce
+machine_hash: 3327cde302bdf079c8a06d882cd778a282d494d0b275a984078bf9d1cfbc84ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F30D Updated Translations**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-05-2-accessibility-and-localization-changes-in-v0-5-8|2
-  Accessibility and Localization changes in v0.5.8]]'
 - "[[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
   Updated Translations]]"
 - '[[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support
   for tree-sitter language pack]]'
+- '[[Changes/AnythingLLM/2025-03-04-more-localization-and-language-support|More localization
+  and language support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-03-05-v0-5-19-github-203781301-c4fd28ba|open-webui-2025-03-05-v0-5-19-github-203781301-c4fd28ba]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support for tree-sitter language pack]]
+- Earlier: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-more-localization-and-language-support|More localization and language support]]
 - Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch to tree-sitter-language-pack for tree sitter support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

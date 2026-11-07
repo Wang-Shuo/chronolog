@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c69140ba897e4311b696664afc7b43140478c7946b0eacb2a5771fa875702331
+machine_hash: 0c1713f0ac45cbd1dc56aab9bd8afaaab86f1360c4c74eee679ee9ce7cd7d34f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.289
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4
-  Apps and Integrations changes in rust-v0.160.0]]'
-- '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
-  Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Devin/2026-10-02-jira-invalid-webhook-connections-surface-immediately|Jira:
+  Invalid Webhook Connections Surface Immediately]]'
+- '[[Changes/Devin/2026-10-02-mcp-settings-show-only-the-controls-you-can-use|MCP
+  Settings Show Only the Controls You Can Use]]'
 - '[[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev
   is now available through Replit AI Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-03-v2-1-289-github-402671979-24326b23|claude-code-2026-10-03-v2-1-289-github-402671979-24326b23]]'

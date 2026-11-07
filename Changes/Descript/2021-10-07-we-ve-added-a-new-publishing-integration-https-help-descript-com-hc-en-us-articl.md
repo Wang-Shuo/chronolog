@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 72bf4606dca0fe2b10e63331792ac6e3962342ac0555b0802d01f2f8d5eb066f
+machine_hash: e1fe649913f98585e7a0cb5ceb2f94ae84add9a87eaddb0a18ff77a6c94c1c50
 product: descript
 product_name: Descript
 record:
@@ -46,10 +46,10 @@ record:
   title: Descript adds a new [publishing…
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-27-new-api-integrations-with-neeva-n8n|New API integrations
-  with Neeva & n8n]]'
-- '[[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration
-  with Tactiq]]'
+- '[[Changes/Raycast/2021-08-25-disabled-apps-and-quicklinks-will-now-be-hidden-as-expected-when-you-turn-on-the|Disabled
+  apps and quicklinks will now be hidden as expected when you turn…]]'
+- '[[Changes/Raycast/2021-09-10-2-apps-and-integrations-changes-in-raycast-macos-v1-1-23-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.23.0]]'
 - '[[Changes/Notion/2021-09-21-api-integrations|API integrations]]'
 source_release: '[[Releases/Descript/descript-2021-10-07-6390c9cd4a4a0d64fa56472c-f35f9385|descript-2021-10-07-6390c9cd4a4a0d64fa56472c-f35f9385]]'
 source_type: canny_changelog
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-api-integrations|API integrations]]
-- Later: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-any-workspace-member-can-add-integrations|Any workspace member can add integrations]]
+- Later: 2021-10-13 · Raycast · [[Changes/Raycast/2021-10-13-extensions-api-store-beta|Extensions API & Store Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

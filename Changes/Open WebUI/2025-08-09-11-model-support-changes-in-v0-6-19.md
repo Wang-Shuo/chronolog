@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a42eec4319e66a7bea6855f861108b17feca827e5fdbedef2d7ead67f7ab4d8
+machine_hash: e2cfc53f54c1a36a18c031e76b8f188125497ba138aa79773c15d7974d5bf9fc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,9 +95,8 @@ record:
   title: 11 Model Support changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
-  always provide reasoning]]'
 - '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
+- '[[Changes/Devin/2025-08-08-gpt-5-preview-access|GPT-5 Preview Access]]'
 - '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
   in v0.86.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'

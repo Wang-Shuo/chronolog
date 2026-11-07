@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 53e26f099f6c27f5ab446c823cb72df0e7cce34715d4eccc6bc156803a5e327a
+machine_hash: 50b37e930f1e844314cbf43e9c2ccbd773d973d6f25666d1b1b4e9233a313262
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,9 @@ record:
   title: “Fuzzy” improvements
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-03-25-priority-access-with-gemini-advanced-try-our-latest-2-5-pro-experimental-model|Priority
-  access with Gemini Advanced: Try our latest 2.5 Pro (experimental) model]]'
 - '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
   in v3.8.3]]'
+- '[[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]'
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT
   makes improvements to GPT-4o—it now feels more intuitive, creative…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
@@ -93,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
-- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-please-note|Please Note]]
+- Earlier: 2025-03-26 · Superwhisper · [[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model Support changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

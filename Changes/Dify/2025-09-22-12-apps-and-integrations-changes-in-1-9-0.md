@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49501488a7f4716894584ed3ce1ee46b3e6447b9ceec112752acd9e3aaad635e
+machine_hash: a802592a94de1de4588a4c345bffc3ea3cb649da9b00e34fd0fd87d41e215e88
 product: dify
 product_name: Dify
 record:
@@ -86,8 +86,8 @@ record:
   title: 12 Apps and Integrations changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP
-  ecosystem just got bigger]]'
+- '[[Changes/Raycast/2025-09-18-starting-today-power-users-and-developers-can-spin-up-custom-extensions-on-windo|Starting
+  today, power users and developers can spin up custom extensions on Windows]]'
 - '[[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]'
 - '[[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui):
   add OCA provider with model picker and auth integration]]'

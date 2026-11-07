@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e30bb0f0470fd4495533298436b728c18d8d8cb9ad901ebcef9dd86829c5a0f4
+machine_hash: c5f36e86f1356397066e352fa6d8f7d9dc808822579b717fdecc16a385b66edc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved stalled API stream handling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
-  brief mode to retry once when Claude responds with plain text instead…]]'
-- '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
-  Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-macos-0-53|2
+  Reliability and Performance changes in Raycast macos 0.53]]'
+- '[[Changes/Raycast/2026-04-10-2-reliability-and-performance-changes-in-raycast-windows-0-53|2
+  Reliability and Performance changes in Raycast windows 0.53]]'
 - '[[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose
   where your app runs with publishing geography]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'

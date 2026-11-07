@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a736ca360aefa52d746d1e9b613e940e7b2b3f84c939fbd862b3498962105947
+machine_hash: f7ca6f4583df4695549e22abc7050575aba37ef287d294e7b27790bedc0c2055
 product: synthesia
 product_name: Synthesia
 record:
@@ -42,12 +42,12 @@ record:
   title: 10 improvements to your Editor experience
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
-  reliability sweep]]'
-- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
-  editing and presenting experience]]'
 - '[[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find
   slash commands by their aliases in autocomplete]]'
+- '[[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess|Focus:
+  Edit Focus Session adjusts the duration or blocked categories while a session…]]'
+- '[[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess-c7e920|Focus:
+  Edit Focus Session adjusts the duration or blocked categories while a session…]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-06-12-https-www-synthesia-io-updates-10-improvements-to-your-editor-ex-75222bda|synthesia-2026-06-12-https-www-synthesia-io-updates-10-improvements-to-your-editor-ex-75222bda]]'
 source_type: synthesia_changelog
 theme: editor-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-find-slash-commands-by-their-aliases-in-autocomplete-typing-clear-now-suggests-n|Find slash commands by their aliases in autocomplete]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-focus-edit-focus-session-adjusts-the-duration-or-blocked-categories-while-a-sess-c7e920|Focus: Edit Focus Session adjusts the duration or blocked categories while a session…]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2 Editor Experience changes in v1.0.62]]
 <!-- chronolog:end -->
 

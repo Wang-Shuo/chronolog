@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87f240ec9985485bc9806c82299824061ec0c61a758c2973a2126ad78f0bf67b
+machine_hash: 58cb5eab09461b94170c92d919c037df950f5f64fcd89c9f0a20b4384dd9d283
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and Desktop changes in v1.2.6]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-this-is-a-free-desktop-specific-feature| this is a free & desktop specific feature!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

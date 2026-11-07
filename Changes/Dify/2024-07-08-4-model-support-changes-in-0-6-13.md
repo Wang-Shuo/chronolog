@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18e6290d13c33bc50beb3e3c029e1b9da59d41baa2f23772a42afaa0f3178e9a
+machine_hash: 68c7d8ac7d3f622721165beedfc146be3334c921f65e2dcaa39d4a059263fb31
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.13
 ## Nearby in Model Support
 
 - Earlier: 2024-07-07 · Aider · [[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
-- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update model provider configuration for Triton Inference Server and X…]]
+- Later: 2024-07-09 · Superwhisper · [[Changes/Superwhisper/2024-07-09-deprecate-ultra-turbo-model|Deprecate Ultra Turbo model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

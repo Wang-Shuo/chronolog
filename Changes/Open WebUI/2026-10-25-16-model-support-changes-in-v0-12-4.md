@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf67027adfee06f10af983700ee147a650a656ec3c2d14aa7ae0292403202b4a
+machine_hash: e85ee31aa8886f89f21a34030fa75108899f6c46acd9f223c49e4f5950476f55
 product: open-webui
 product_name: Open WebUI
 record:
@@ -234,7 +234,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 ## Nearby in Model Support
 
 - Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support changes in v2026.10.7]]
-- Later: 2026-10-26 · ChatGPT · [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-6-model-support-changes-in-v1-19-0|6 Model Support changes in v1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

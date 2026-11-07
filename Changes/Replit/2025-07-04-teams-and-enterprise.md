@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c09713141137eac3690bb043e343863201e6882a128d1fcbc699fe1688f278b
+machine_hash: 8b427d5ea62e55c69de710550a2319c57eb3b42d78cb2ecf73a2140262a00793
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make
   your videos interactive]]'
+- '[[Changes/Devin/2025-06-26-enterprise-connected-accounts-ui|Enterprise Connected
+  Accounts UI]]'
 - '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2025-07-04-2025-07-04-cb49ecc5|replit-2025-07-04-2025-07-04-cb49ecc5]]'
 source_type: replit_changelog

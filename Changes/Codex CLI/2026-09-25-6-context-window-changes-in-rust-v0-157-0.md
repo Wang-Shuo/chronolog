@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b08a62b42ab79aad161dc9518ab42e9fa75e8c634ef4b15faf0d5ab7de5baefb
+machine_hash: 50e63274307d739173c3671db7f453ab3d37ac8812e872a55ef53692d174ad82
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context Window changes in v2.1.283]]
-- Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor: remove test-conversation-id fallbacks in websocket context + add…]]
+- Later: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-child-sessions-start-with-their-parent-s-context|Child Sessions Start with Their Parent's Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

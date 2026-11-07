@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9549a6a044378c4d9fd06bf3dece7e820c70cc3b2475a08f6aea22fe2984ab4
+machine_hash: d4e4944598fd62df3ca1110bf36f97317d7c5c00c67469d04bd6b8e8c5153873
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Model Support changes in v3.67.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-16-model-support-changes-in-v0-8-4|16 Model Support
-  changes in v0.8.4]]'
+- '[[Changes/Superwhisper/2026-02-23-added-search-field-to-language-model-dropdown|Added
+  search field to language model dropdown]]'
 - '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
   /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
 - '[[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d0c2762e5f5e19c94c1f6c129c1fcf5cf328396fa24608e218773f24959e8a03
+machine_hash: 7aba7003333349aba136762ebec98504c720375beaf0fefd68aa026ae05ac347
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,7 @@ record:
   title: Integration visibility
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-16-features-integration-of-apache-opendal-https-github-com-apache-opendal-storage-f|Features
-  integration of Apache OpenDAL((source link) storage…]]'
+- '[[Changes/Raycast/2024-12-16-raycast-wrapped-2024|Raycast Wrapped 2024]]'
 - '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
   or disable for]]'
 - '[[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-opendal-integration-introducing-apache-opendal-https-github-com-apache-opendal-t|OpenDAL Integration: Introducing Apache…]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-notification-webhook-integration-get-alerts-via-webhooks-even-when-your-tab-is-c|🌐 Notification Webhook Integration]]
+- Later: 2024-12-24 · Devin · [[Changes/Devin/2024-12-24-if-you-ve-noticed-devin-stuck-on-the-same-action-or-unable-to-sleep-wake-up-plea|If you've noticed Devin stuck on the same action or unable to sleep/wake up, please…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

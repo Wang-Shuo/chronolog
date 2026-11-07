@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cf90a6196194467044f57a7c464b92fd3c1755e1a742b48afb9dad3b3bc9d96
+machine_hash: 7c9ee8da8935779faf82d68612766133a9f425eff246ec96dcc2df6dee68ef04
 product: cursor
 product_name: Cursor
 record:
@@ -39,8 +39,8 @@ record:
   title: Diffs in AI linter feedback
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
-  in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Raycast/2023-06-07-4-developer-workflow-changes-in-raycast-macos-v1-1-53-0|4
+  Developer Workflow changes in Raycast macos-v1 1.53.0]]'
 - '[[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete
   segment not commit]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small

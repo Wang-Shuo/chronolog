@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 38cd5d40151396d1f6390974ef0266d543d29eeb9f280de7996c3e80debb83bf
+machine_hash: 75a674d7f57703feddd4ed2d41e80ae6c68047e9760b649293d092214c72e41f
 product: runway
 product_name: Runway
 record:
@@ -45,12 +45,12 @@ record:
   title: Act-Two
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
-  changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
   kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Raycast/2025-07-16-3-model-support-changes-in-raycast-macos-v1-1-101-0|3
+  Model Support changes in Raycast macos-v1 1.101.0]]'
 source_release: '[[Releases/Runway/runway-2025-07-17-2025-07-17-act-two-ef78a390|runway-2025-07-17-2025-07-17-act-two-ef78a390]]'
 source_type: runway_changelog
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added OpenHands provider for LLM through OpenHands Cloud]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-3-model-support-changes-in-raycast-macos-v1-1-101-0|3 Model Support changes in Raycast macos-v1 1.101.0]]
 - Later: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]
 <!-- chronolog:end -->
 

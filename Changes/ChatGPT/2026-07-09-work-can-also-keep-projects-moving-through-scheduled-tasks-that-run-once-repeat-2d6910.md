@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6df8937d32d3428ed7b037fc1bb062333b5a485734da655abddf96ea9d94680c
+machine_hash: cebaa78ca6b7e50126eb70fad1852dbe8c525a91e03160cd0f8d7298bd2516d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,7 @@ record:
     repeat…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
-  Models with null capabilities. Chatting with a model whose capabilities…]]"
+- '[[Changes/Devin/2026-07-03-snapshot-build-trigger|Snapshot Build Trigger]]'
 - '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
   and Scheduling changes in 1.9.0]]'
 - '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
@@ -88,7 +87,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
-- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-keep-kimi-p-runs-alive-after-a-turn-ends-while-a-goal-is-still-active-or-a-cron|Keep kimi -p runs alive after a turn ends while a goal is still active or a cron…]]
+- Later: 2026-07-10 · Superwhisper · [[Changes/Superwhisper/2026-07-10-added-new-deep-links-to-start-and-stop-recording-making-it-easier-to-control-sup|Added new deep links to start and stop recording, making it easier to control…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

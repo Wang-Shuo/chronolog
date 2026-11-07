@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f94a50b6fbc786b6606b72b63b6fd94cb818bcf01233228087585ae45f93c33c
+machine_hash: 4d9f7f841ed21ab17ca3e1f537e315a6127e402229176f1846fb210ae8dcc33a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#25110 Move config document helpers into their own module @jif-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added
-  PDF attachment support for Grok]]'
+- '[[Changes/AnythingLLM/2026-05-26-support-pulling-generated-documents-from-api-calls-by-timothycarambat-in-https-g|Support
+  pulling generated documents from API calls]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas
   tools with optional object input schemas open correctly without validation errors]]'
 - '[[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right

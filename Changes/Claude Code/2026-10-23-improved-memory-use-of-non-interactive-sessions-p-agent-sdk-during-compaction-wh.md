@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 90af70b92389c315bc75474e466d13e5ef9c32d609b78fcb259377492308da71
+machine_hash: 138391ab8cff9456a2f247a772cb8cace4f8befabcc349faf0ab811dc234033b
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     compaction…
   type: change
 related_changes:
-- '[[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They
-  can work on tasks for up to 24 hours]]'
-- '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
-  Reliability and Performance changes in v2.1.309]]'
 - '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
   the same official Docker container no longer copies all its saved state…]]'
+- '[[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-windows-2-9|2
+  Reliability and Performance changes in Raycast windows 2.9]]'
+- '[[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-macos-2-9|2
+  Reliability and Performance changes in Raycast macos 2.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting the same official Docker container no longer copies all its saved state…]]
+- Earlier: 2026-10-22 · Raycast · [[Changes/Raycast/2026-10-22-2-reliability-and-performance-changes-in-raycast-macos-2-9|2 Reliability and Performance changes in Raycast macos 2.9]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2 Reliability and Performance changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

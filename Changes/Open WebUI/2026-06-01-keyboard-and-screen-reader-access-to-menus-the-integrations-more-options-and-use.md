@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-06-01 · Accessibility and Localization: ♿ **
   and screen reader access to menus.** The integrations, more-options, and user menus
   are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2020
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eb76fbda8c83719a5d33812fae108957673fd314039ec22224cb28543045fae0
+machine_hash: 3f8faff0545207faac3ea51cc25a2f444244cdf0481c467415f5bd90af6e9a8a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,8 +58,8 @@ record:
   title: ♿ **Keyboard and screen reader access to menus.** The integrations, more-options…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI
-  startup and accessibility were tightened by bounding terminal probes, clearing…]]'
+- '[[Changes/Raycast/2026-05-08-localization-improved-system-settings-localization-they-can-now-be-found-by-both|Localization:
+  Improved System Settings localization]]'
 - '[[Changes/Dify/2026-05-12-accessibility-and-semantics-improved-web-accessibility-removed-unnecessary-data|Accessibility
   and semantics]]'
 - '[[Changes/Lovable/2026-05-18-workspace-skills|Workspace skills]]'
@@ -117,7 +117,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

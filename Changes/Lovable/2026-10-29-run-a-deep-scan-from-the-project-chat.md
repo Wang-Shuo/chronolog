@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a89762dd3dce6b06107e5d8d64cd22ea9aa212c9dfb49e245ef22223a9777db8
+machine_hash: c6ac4a8866fa066f74b978ae45ca3a4cb47dd41673822bf32471e81db80370c6
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Run a Deep scan from the project chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
-  your dot]]'
 - '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
   Marketplace tab and the pages of plugins from third party developers now show…]]'
+- '[[Changes/Superwhisper/2026-10-28-2-safety-and-privacy-changes-in-superwhisper-macos-3-1-0|2
+  Safety and Privacy changes in Superwhisper macOS 3.1.0]]'
 - '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
   Safety and Privacy changes in rust-v0.166.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-29-2026-10-29-850979f2|lovable-2026-10-29-2026-10-29-850979f2]]'

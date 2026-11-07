@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac6178bd6d17be41f637d701ea9ba42cb4d75272213380a321beed2356fd26e2
+machine_hash: 2c651f94efb2c5e6d5bef826ddfa9424b021209de8188ad0057fa1f8cf6265c3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -206,7 +206,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage is now labeled Compute]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]]
+- Later: 2026-07-15 · Recraft · [[Changes/Recraft/2026-07-15-cost-22-credits-per-generation|Cost: 22 credits per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

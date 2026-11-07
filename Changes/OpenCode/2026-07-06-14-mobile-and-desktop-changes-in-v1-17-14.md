@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76c6f8f422b8f1ad39c8c3720843578195d255146f191510554cdcb397faf23d
+machine_hash: bd5323e4034ee05441aeab500927ca6645a7d0b8aa5439588739de512546eb72
 product: opencode
 product_name: OpenCode
 record:
@@ -136,7 +136,7 @@ Source: https://opencode.ai/changelog/v1.17.14
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-06 · Lovable · [[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop app is now on Windows]]
-- Later: 2026-07-07 · Claude · [[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web and mobile]]
+- Later: 2026-07-06 · Superwhisper · [[Changes/Superwhisper/2026-07-06-now-requires-macos-14-or-later|Now requires macOS 14 or later]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2e9f6e8584bed05365644ff3384f8346f3153f9798decd4d1caf37475377e9d
+machine_hash: 6525812c4d1a6a5e8cd92d35d0398db41383d7f783bf82012c74bcf10df7385b
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in v3.85.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
-  changes in v0.43.0]]'
 - '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
   changes in v1.15.9]]'
+- '[[Changes/Superwhisper/2026-05-22-2-model-support-changes-in-superwhisper-windows-1-3-13|2
+  Model Support changes in Superwhisper Windows 1.3.13]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
   subagents use GPT-5.4 or GPT-5.5 when available]]'
 source_release: '[[Releases/Cline/cline-2026-05-25-v3-85-0-github-329008379-9b345c1b|cline-2026-05-25-v3-85-0-github-329008379-9b345c1b]]'
@@ -90,7 +90,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.85.0
 ## Nearby in Model Support
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose subagents use GPT-5.4 or GPT-5.5 when available]]
-- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model Support changes in Kimi Code 0.2.0]]
+- Later: 2026-05-25 · Superwhisper · [[Changes/Superwhisper/2026-05-25-support-for-parakeet-local-models-on-arm-based-processors|Support for Parakeet local models on ARM based processors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

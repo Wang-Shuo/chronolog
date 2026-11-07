@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2dcf5e1bf3d7e69ef27b9427ba689b135132fd63a988ad661befa09ab3ca8ca
+machine_hash: 0c4cc6678ca4ce33d3b74f5e5471f6bc4779603e733c15b831c26e1db3c2a70f
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,9 @@ record:
   title: Stay in the loop on projects
   type: change
 related_changes:
-- '[[Changes/Notion/2023-03-23-automate-manual-tasks-with-buttons|Automate manual
-  tasks with buttons]]'
-- '[[Changes/Notion/2023-05-31-notifications-to-stay-in-the-loop|Notifications to
-  stay in the loop]]'
+- '[[Changes/Raycast/2023-09-21-my-schedule-icon-is-now-dynamically-showing-the-current-date|My
+  Schedule: Icon is now dynamically showing the current date]]'
+- '[[Changes/Raycast/2023-09-21-scheduled-exports-pro|Scheduled Exports (Pro)]]'
 - '[[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows
   in a database]]'
 source_release: '[[Releases/Notion/notion-2023-11-14-https-www-notion-com-releases-2023-11-14-a3f76103|notion-2023-11-14-https-www-notion-com-releases-2023-11-14-a3f76103]]'
@@ -78,7 +77,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2023-09-22 · Notion · [[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows in a database]]
-- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Later: 2023-11-15 · Raycast · [[Changes/Raycast/2023-11-15-make-rise-your-default-calendar-to-open-events-in-it-set-it-up-via-raycast-prefe|Make Rise your default calendar to open events in it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a8524b26eab253abbb6d743dd2ff89b77cadb86fc5eb1df079fdc03d960e262
+machine_hash: e7e1cd6b4090f16add12480b48da4a5be6ac515e46e8573b4f6654d254c7459e
 product: descript
 product_name: Descript
 record:
@@ -43,8 +43,8 @@ record:
     tools'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
-  live conversations like team meetings or voice notes, and turn those…]]'
+- '[[Changes/Superwhisper/2025-07-16-new-audio-backend-device-switching|New Audio
+  Backend & Device Switching]]'
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
   to Advanced Voice Mode for Free tier users]]'
 - '[[Changes/Descript/2025-07-17-brand-studio-allows-you-to-view-your-drive-s-custom-fonts-for-use-in-layout-pack|Brand

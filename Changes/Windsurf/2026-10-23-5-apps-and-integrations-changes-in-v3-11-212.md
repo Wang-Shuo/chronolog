@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdb4e23d2d71c61cc10a5b986219c02681bec93e438276ad12480efd95dce50b
+machine_hash: 01c9e91566af8725466037628be8bcaa988c5adccdf358fdcaeeb026e8231ae3
 product: windsurf
 product_name: Windsurf
 record:
@@ -104,7 +104,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your apps running when credits run out]]
-- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps and Integrations changes in v2026.10.7]]
+- Later: 2026-10-24 · Krea · [[Changes/Krea/2026-10-24-more-agent-nodes-and-plugin-polish|More Agent, Nodes, and plugin polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

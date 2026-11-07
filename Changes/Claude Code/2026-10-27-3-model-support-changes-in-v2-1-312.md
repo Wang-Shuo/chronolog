@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64058e3aba7d7820953afdaea8e47975652d2a222fc8fd7e7693d7b4346a948f
+machine_hash: 28c76c4f2f5874bbf7f70b613392197e3df0fd36e9fe9f8de8bd3c40bd61633b
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,9 @@ record:
   title: 3 Model Support changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-26-enabled-gemini-4-argon-in-antigravity-ide-for-eligible-tiers-bringing-google-s-n|Enabled
-  Gemini 4 Argon in Antigravity IDE for eligible tiers, bringing Google''s…]]'
 - '[[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update
   model switch confirmation prompts]]'
+- '[[Changes/Krea/2026-10-26-workspace-and-model-updates|Workspace and model updates]]'
 - '[[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App
   Studio]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18f5bccf7642940418add655e69151d6b22a6baa43216debacc9f6c6d93115bc
+machine_hash: 63653b23dce94da51984a8265da49b9a0fa876ef9140f5609a93563773586418
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Model Support changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks
-  for testing our V8.0 model over the last month!]]'
-- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
-  Support changes in rust-v0.121.0]]'
+- '[[Changes/Raycast/2026-04-15-ai-we-switched-to-gpt-5-4-mini-as-the-free-model-during-the-raycast-beta|AI
+  : We switched to GPT-5.4 Mini as the free model during the Raycast Beta]]'
+- '[[Changes/Superwhisper/2026-04-15-tweaks-to-model-library-filtering-interface|Tweaks
+  to model library filtering interface]]'
 - '[[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases

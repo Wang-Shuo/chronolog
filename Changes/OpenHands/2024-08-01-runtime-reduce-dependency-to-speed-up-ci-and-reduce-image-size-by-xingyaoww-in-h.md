@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60fead1985913ba836639c285c034dca7b5d4236bb36697016a49012bd982a08
+machine_hash: 55e8ed7ed9bdf7bf8593c0e4e85dd73b43cc277ed65734db9fd7f2cbeb78b438
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved performance of --lint on all dirty files in repo]]
-- Later: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]
+- Later: 2024-08-02 · AnythingLLM · [[Changes/AnythingLLM/2024-08-02-ollama-performance-mode-option-by-shatfield4-in-https-github-com-mintplex-labs-a|Ollama performance mode option]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

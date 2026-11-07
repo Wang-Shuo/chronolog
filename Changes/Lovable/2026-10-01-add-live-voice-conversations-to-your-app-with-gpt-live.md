@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 919e9e483f160df43b6747a30693cf151a60128cf9b4db633dfc8058a78c796f
+machine_hash: 26b7bdd0ae5a0ed73af66bd7b59ad2251cf19a6fbb43ee7d1e2c3b13702da030
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Add live voice conversations to your app with GPT Live
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
-  Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
 - '[[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice
   and Audio changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-clean-up-tts-text-for-cloud-voices-and-telegram-voice-replies-by-shatfield4-in-h|Clean
+  up TTS text for cloud voices and Telegram voice replies]]'
 - '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
   Surface realtime voice catalog failures in the TUI @etraut-openai]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-01-2026-10-01-a783b57b|lovable-2026-10-01-2026-10-01-a783b57b]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073 Surface realtime voice catalog failures in the TUI @etraut-openai]]
-- Later: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-packages|Packages]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-2-voice-and-audio-changes-in-raycast-ios-1-3-8|2 Voice and Audio changes in Raycast ios 1.3.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

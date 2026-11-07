@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 360ba96c328a987e0e3670342aa521f6154286cb93ff8c713c0c50e372553144
+machine_hash: 8b0a843808241c261f111f0456edd8704522652f209b4ac417bf76641f464ae0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
-  Workflow changes in v2.1.236]]'
+- '[[Changes/Raycast/2026-08-19-quick-ai-send-message-ai-setting-is-now-respected-by-quick-ai-as-well-which-allo|Quick
+  AI : “Send Message” AI setting is now respected by Quick AI as well…]]'
 - '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
   Workflow changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18

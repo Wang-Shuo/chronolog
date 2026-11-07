@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 89292c203b536ea3b2b660a090fe9c1f5fc9c8c4352ce181b04f37eb753e4578
+machine_hash: c1eaaee7b210a3213239fc095658be16651d5903e7fadfd5aa9694b45a32e2ef
 product: cline
 product_name: Cline
 record:
@@ -55,9 +55,10 @@ record:
     servers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added
-  support for MCP servers natively via CodeActAgent]]'
+- '[[Changes/Devin/2025-04-17-devin-will-now-link-to-devin-spaces-in-its-comment-on-jira-and-linear-use-spaces|Devin
+  will now link to Devin Spaces in its comment on Jira and Linear - use Spaces…]]'
+- '[[Changes/AnythingLLM/2025-04-18-3-apps-and-integrations-changes-in-v1-8-0|3 Apps
+  and Integrations changes in v1.8.0]]'
 - '[[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations
   matching]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'

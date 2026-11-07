@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 11f2d6746c6ab4f711f1cd29a34269da8772323e46907e3e44d00e53b82db4a5
+machine_hash: 7c8af128108eb0c8b93596d175d1618bb43d08ee2d8c18b8dd3245ea0445d8e8
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
-- Later: 2024-06-26 · Notion · [[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the Plus plan]]
+- Later: 2024-06-19 · Raycast · [[Changes/Raycast/2024-06-19-ai-chat-attachments|AI Chat Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

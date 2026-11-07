@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5685c26afdf96b9ff1e65b86024e06b241706515b396e4555fa62eb2f6f4d4c5
+machine_hash: 7b27d5597f48011463ed98a2a29d9ef1b8e7ff74ee120e1957d747b911407f40
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,10 @@ record:
   title: "**\U0001F30D Translation Updates**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
-  Experience changes in 0.46.x]]'
 - '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
   Experience changes in 0.25.0]]'
+- '[[Changes/Raycast/2025-02-19-2-interface-experience-changes-in-raycast-macos-v1-1-92-0|2
+  Interface Experience changes in Raycast macos-v1 1.92.0]]'
 - '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
   new Folders menu is available on both the Create and Organize pages]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3|open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3]]'

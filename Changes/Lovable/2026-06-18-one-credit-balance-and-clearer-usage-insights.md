@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 5ba798376945f09cf14b1c38df3b6b687a673ac960db1b852eb3c96f557fd008
+machine_hash: a097df65b3de35b73379b71c515e20ddbf0d57ddd1fe24256efc63a2d666a958
 product: lovable
 product_name: Lovable
 record:
@@ -56,10 +56,9 @@ record:
   title: One credit balance and clearer usage insights
   type: change
 related_changes:
-- '[[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed
-  Telethon]]'
-- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
-  screen redesign]]'
+- '[[Changes/Recraft/2026-06-12-quality-10-credits|Quality: 10 credits]]'
+- '[[Changes/Krea/2026-06-13-mcp-billing-now-follows-your-auth-method|MCP billing
+  now follows your auth method]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
   feat(app-server): expose rate-limit reset credits @jayp-oai]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
@@ -101,7 +100,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage can now show and redeem earned usage-limit reset credits…]]
+- Later: 2026-06-20 · Recraft · [[Changes/Recraft/2026-06-20-we-ve-lowered-api-pricing-across-the-recraft-v4-1-model-family|Lower API pricing for Recraft V4.1 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

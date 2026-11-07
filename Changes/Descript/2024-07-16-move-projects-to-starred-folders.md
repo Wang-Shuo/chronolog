@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e3d86cd5a35dbb3ed2f270c8571a78c7bcd2a3edd23c973ebdb2fe0d830ecc38
+machine_hash: 526fe0bdac938c2459798575e3aea1a2d38e4c1c640a6d65c078a9e3efe269fe
 product: descript
 product_name: Descript
 record:
@@ -57,12 +57,12 @@ record:
   title: Move projects to starred folders
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface
-  Experience changes in 0.6.13]]'
 - '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
   Sideways Scrolling in Settings]]'
 - '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
   Sidebar]]'
+- '[[Changes/Devin/2024-07-15-create-sessions-directly-from-slack-attach-playbooks-and-snapshots-using-slack-s|Create
+  sessions directly from Slack, attach Playbooks and Snapshots using Slack''s…]]'
 source_release: '[[Releases/Descript/descript-2024-07-16-6696a8f5b4bfbbdd0e357e35-249bec50|descript-2024-07-16-6696a8f5b4bfbbdd0e357e35-249bec50]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-09 · Runway · [[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned Sidebar]]
+- Earlier: 2024-07-15 · Devin · [[Changes/Devin/2024-07-15-create-sessions-directly-from-slack-attach-playbooks-and-snapshots-using-slack-s|Create sessions directly from Slack, attach Playbooks and Snapshots using Slack's…]]
 - Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
 <!-- chronolog:end -->
 

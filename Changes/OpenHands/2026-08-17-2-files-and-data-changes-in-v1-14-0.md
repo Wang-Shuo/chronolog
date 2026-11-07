@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b123dbc940493a878be718b2492215e958dd14f5ae4a8205c64475589bdd428c
+machine_hash: 684672e918ec2bfa1dc4a320f00591f96f9f66b73f328a3df2d2e2f5a494b311
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Files and Data changes in v1.14.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-07-feat-settings-polish-agent-canvas-version-update-ui-by-fraterccclxiii-in-https-g|feat(settings):
-  polish Agent Canvas version update UI]]'
 - '[[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added
   support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]'
 - '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
   Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
+- '[[Changes/AnythingLLM/2026-08-13-feat-folder-upload-with-relative-paths-preserved-in-document-manager-by-angelplu|feat:
+  folder upload with relative paths preserved in document manager]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'
 source_type: github_releases
 theme: file-data
@@ -84,8 +84,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283 Document secure devcontainer DNS exfiltration risk @copyberry]]
+- Earlier: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-feat-folder-upload-with-relative-paths-preserved-in-document-manager-by-angelplu|feat: folder upload with relative paths preserved in document manager]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-file-search-file-detail-previews-now-show-document-thumbnails-pdfs-keynote-pages|File Search : File detail previews now show document thumbnails…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

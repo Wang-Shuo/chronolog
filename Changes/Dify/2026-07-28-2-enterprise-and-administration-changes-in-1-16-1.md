@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72e13cd78ab72e18f13ae27cfa1f111fee4848d8fd017965239e5ce836ca08b0
+machine_hash: f469620a30779fb9a8e925529906255fa7b226a0e7205c32b099c188449fc75c
 product: dify
 product_name: Dify
 record:
@@ -45,7 +45,7 @@ record:
   title: 2 Enterprise and Administration changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls|Admin controls]]'
+- '[[Changes/Devin/2026-07-24-api-additions|API Additions]]'
 - '[[Changes/Lovable/2026-07-24-editors-can-see-build-secret-names|Editors can see
   build secret names]]'
 - '[[Changes/Open WebUI/2026-07-27-3-enterprise-and-administration-changes-in-v0-11-0|3

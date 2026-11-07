@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5b66040afcda6741a13fc8f23a12c97348a045c442275b6b0aca5e7c0f9b7e4
+machine_hash: 83e6d4b62cc5c343ae29cad859e614311ccd0e4fed3896148d0d09866c4e28b7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Voice and Audio changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
-  implement real-time voice mode with cloud and local backends]]'
+- '[[Changes/Raycast/2026-05-08-2-voice-and-audio-changes-in-raycast-macos-0-57|2
+  Voice and Audio changes in Raycast macos 0.57]]'
 - '[[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and
   Audio changes in v0.9.3]]'
 - '[[Changes/Dify/2026-05-12-audio-and-transcript-behavior-explicitly-resume-audiocontext-and-play-audio-on-f|Audio
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-audio-and-transcript-behavior-explicitly-resume-audiocontext-and-play-audio-on-f|Audio and transcript behavior]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode Voice mode]]
+- Later: 2026-05-12 · Raycast · [[Changes/Raycast/2026-05-12-dictation-added-support-for-function-keys-and-single-tap-modifiers-as-hotkeys|Dictation : Added support for function keys and single-tap modifiers as hotkeys]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

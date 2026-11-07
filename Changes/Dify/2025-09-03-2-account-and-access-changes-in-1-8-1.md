@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fb04ec3e173d7895f09553bbd69547a7377ceaffc11b347de2cf4287f31779b
+machine_hash: a22d5f6da87e12aa315d7225c6e40d6d60e9e322c1c694847c7936b5e9662f1c
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 ## Nearby in Account and Access
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737 Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-feat-mcp-add-odic-fallback-to-oauth-metadata-look-up-by-xiaoheh-in-https-github|feat(mcp): Add ODIC fallback to OAuth metadata look up]]
+- Later: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-login-integrated-single-sign-on-authentication|Login: Integrated single sign-on authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

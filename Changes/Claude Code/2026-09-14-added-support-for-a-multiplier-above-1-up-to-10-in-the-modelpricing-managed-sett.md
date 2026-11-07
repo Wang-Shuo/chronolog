@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 9ddef2ee7cc7d084abc12f5f784b3fd49bd75a601e21390b5d72fd9c8808d497
+machine_hash: 3b8778f50f13d6c3f71353b4f4a96ecf60735bc639facaae68a999d161bd5254
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     managed…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
-  your Lovable invite link from your phone]]'
-- '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea|Tasks
+  like these cost more to run than a single question, which is why this release…]]'
+- '[[Changes/Raycast/2026-09-11-tasks-like-these-cost-more-to-run-than-a-single-question-which-is-why-this-relea-58f43c|Tasks
+  like these cost more to run than a single question, which is why this release…]]'
 - '[[Changes/Qoder/2026-09-12-creative-achievements-your-profile-now-includes-credits-and-activity-stats-along|Creative
   achievements: Your profile now includes Credits and activity stats, along…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

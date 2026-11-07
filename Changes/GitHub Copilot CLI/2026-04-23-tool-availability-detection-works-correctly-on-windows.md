@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc7dd0df249ef683e2291a9a8216613b3d1246a208b37574267f8b65c9eaf6be
+machine_hash: 501fa8755d78a802f1432e20bec558f21e0d5a9af2782926abd46e79afb0b14b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Tool availability detection works correctly on Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile
-  and Desktop changes in v1.14.20]]'
+- '[[Changes/AnythingLLM/2026-04-22-remove-illegal-chars-for-windows-on-files-by-timothycarambat-in-https-github-com|Remove
+  illegal chars for Windows on files]]'
 - '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
   model picker showing stale model after switching chats in the macOS app]]'
 - '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use

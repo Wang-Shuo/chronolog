@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f5d8d0832ed3e3d4e950a948107246129d4d5bb4aadf99274b9075b524fda77
+machine_hash: 68eb5d28a733849915621e10ad76dd85884d51df4816a763d4e78819a19b7596
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Desktop Enable ctrl+n and ctrl+p for popover navigation in desktop app
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-reorder-model-picker-list-for-better-organization|Reorder
-  model picker list for better organization]]'
 - '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
   read/search progress indicators to show "Reading…" while in progress…]]'
 - '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
   missing sidebar item]]'
+- '[[Changes/LM Studio/2026-01-28-7-interface-experience-changes-in-lm-studio-0-4-0|7
+  Interface Experience changes in LM Studio 0.4.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-40-b7c9e067|opencode-2026-01-28-v1-1-40-b7c9e067]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove missing sidebar item]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-7-interface-experience-changes-in-lm-studio-0-4-0|7 Interface Experience changes in LM Studio 0.4.0]]
 - Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface Experience changes in v1.1.37]]
 <!-- chronolog:end -->
 

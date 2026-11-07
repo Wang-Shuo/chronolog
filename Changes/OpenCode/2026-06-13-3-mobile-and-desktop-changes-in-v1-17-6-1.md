@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aae1622e113fa6df4d1ad4b719c94e6541723bc283f14a011e915e50a7a32da6
+machine_hash: 23d89b1be1d2f7759fe7c4bc2011321920eb831d0a4290360010b3ad06fc686d
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,9 @@ record:
   title: 3 Mobile and Desktop changes in v1.17.6 + 1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-desktop-restore-linux-launcher-and-icon-identity-so-pinned-apps-keep-opening-cor|Desktop
-  Restore Linux launcher and icon identity so pinned apps keep opening correctly]]'
-- '[[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile
-  and Desktop changes in v1.17.0]]'
+- '[[Changes/Wispr Flow/2026-06-10-what-went-wrong-desktop|What went wrong (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-06-10-reliability-where-things-stand-desktop|Reliability:
+  where things stand (Desktop)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
   commands no longer flash a console window on Windows]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-13-v1-17-6-50d6a123|opencode-2026-06-13-v1-17-6-50d6a123]]'

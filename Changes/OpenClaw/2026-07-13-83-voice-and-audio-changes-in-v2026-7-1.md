@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61b89637c322506c004cf374758de7e5708945710e2474c25c60e0de1bd9c758
+machine_hash: 2cf50970a5e913c318cc272526fc0749e30dbf04f5b2e72fb2757d79337b28ba
 product: openclaw
 product_name: OpenClaw
 record:
@@ -367,10 +367,10 @@ record:
   title: 83 Voice and Audio changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
-  GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore
   the new Voices page]]'
+- '[[Changes/Superwhisper/2026-07-10-improved-sound-effects-with-cleaner-audio-now-sounds-good-even-at-high-volume-on|Improved
+  sound effects with cleaner audio, now sounds good even at high volume…]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
   returns to WhatsApp in the EEA]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -595,7 +595,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add /voice devices to choose and persist the microphone for voice mode]]
+- Later: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-improved-the-audio-input-device-picker-to-favorite-and-exlude-audio-devices|Improved the audio input device picker to favorite and exlude audio devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

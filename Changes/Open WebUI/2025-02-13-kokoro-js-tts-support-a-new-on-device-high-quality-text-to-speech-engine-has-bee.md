@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c8728a7fbf9ccaaf05db0123aaa10f754337562f932ba36c6d15b49663b7434
+machine_hash: a0e873ca95f4f87dbfa7e37387f2eef2f6917cfdeffc71612d0c4bc6d6a19984
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: "**\U0001F3A4 Kokoro-JS TTS Support**"
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
-  changes in v0.71.0]]'
 - '[[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription
   language]]'
+- '[[Changes/AnythingLLM/2025-01-29-audio-file-validations-by-shatfield4-in-https-github-com-mintplex-labs-anything|Audio
+  file validations]]'
 - '[[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You
   can hear a before and after sample below]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00|open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7844847512629b29c5797573108ba5e85dd5bb024613e469549879bda639117f
+machine_hash: acf577faaf1e4f977780828371efd46a3067168759a3b87954380e0962b6891d
 product: descript
 product_name: Descript
 record:
@@ -43,12 +43,12 @@ record:
     on longer…
   type: change
 related_changes:
-- '[[Changes/Notion/2020-07-28-reduced-animation-speed-for-hover-states-in-the-web-and-desktop-apps-to-make-the|Reduced
-  animation speed for hover states in the web and desktop apps to make the app…]]'
 - '[[Changes/Descript/2020-11-10-we-ve-now-increased-the-maximum-playback-speed-from-2x-to-3x|Increased
   playback speed]]'
 - '[[Changes/Notion/2020-12-08-the-api-is-now-in-private-beta-sign-up-for-access-to-the-public-beta-in-early-20|The
   API is now in private beta!]]'
+- '[[Changes/Raycast/2020-12-10-performance-general-improvements-to-make-the-app-snappier|Performance
+  : General improvements to make the app snappier]]'
 source_release: '[[Releases/Descript/descript-2020-12-17-5fdb6c85751aa3699b222ab8-76e6bd04|descript-2020-12-17-5fdb6c85751aa3699b222ab8-76e6bd04]]'
 source_type: canny_changelog
 theme: reliability-performance
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2020-12-08 · Notion · [[Changes/Notion/2020-12-08-the-api-is-now-in-private-beta-sign-up-for-access-to-the-public-beta-in-early-20|The API is now in private beta!]]
-- Later: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-our-embeddable-video-player-now-has-playback-speed-controls-at-the-bottom-of-the|Playback Speed controls on embedded videos]]
+- Earlier: 2020-12-10 · Raycast · [[Changes/Raycast/2020-12-10-performance-general-improvements-to-make-the-app-snappier|Performance : General improvements to make the app snappier]]
+- Later: 2020-12-22 · Raycast · [[Changes/Raycast/2020-12-22-file-search-improved-preview-display-performance-for-certain-file-types|File Search : Improved preview display performance for certain file types]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

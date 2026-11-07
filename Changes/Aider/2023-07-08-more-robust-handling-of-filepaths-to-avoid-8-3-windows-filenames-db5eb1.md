@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83bf121d9f05c33d58a7d735e668255863404bdda4d1ff744655e1ce742d451b
+machine_hash: 3252a698e76a5cab1d843143f9f592a78e93c78fd6a937cf19e47aff4e259b20
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile
-  now loads 60%+ faster]]'
 - '[[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker
   default effects]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-performance-improvements-when-loading-the-chat-actions-menu|AI
+  Chat: Performance improvements when loading the chat actions menu]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-2-github-111498168-d0c535d5|aider-2023-07-08-v0-8-2-github-111498168-d0c535d5]]'

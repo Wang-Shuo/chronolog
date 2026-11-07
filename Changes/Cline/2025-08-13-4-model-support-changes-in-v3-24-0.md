@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7526a802297193350bad64c1e1be54ed547c2e2998b6fc1560cf073d74453b63
+machine_hash: f8f53980b70a31b44ad18fc628a97b59fa49aebb883dd47a7efa0afe6d4d199b
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in v3.24.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5
-  Updates]]'
-- '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2183-include-output-truncation-message-in-too|(source
-  link) Include output truncation message in tool…]]'
 - '[[Changes/Gemini CLI/2025-08-12-7-model-support-changes-in-v0-1-19|7 Model Support
   changes in v0.1.19]]'
+- '[[Changes/LM Studio/2025-08-12-5-model-support-changes-in-lm-studio-0-3-23|5 Model
+  Support changes in LM Studio 0.3.23]]'
+- '[[Changes/Superwhisper/2025-08-12-messages-mode-custom-model-fixes|Messages Mode
+  & Custom Model Fixes]]'
 source_release: '[[Releases/Cline/cline-2025-08-13-v3-24-0-github-239802341-38ee512f|cline-2025-08-13-v3-24-0-github-239802341-38ee512f]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-7-model-support-changes-in-v0-1-19|7 Model Support changes in v0.1.19]]
+- Earlier: 2025-08-12 · Superwhisper · [[Changes/Superwhisper/2025-08-12-messages-mode-custom-model-fixes|Messages Mode & Custom Model Fixes]]
 - Later: 2025-08-13 · OpenHands · [[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support changes in 0.52.0]]
 <!-- chronolog:end -->
 

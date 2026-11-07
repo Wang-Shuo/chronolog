@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31afebfe1db5ba8e9a726e4f853b6f42e4cf1c06fd1280969ef0282d63339c83
+machine_hash: d1fc2ea7314ab3897c7a711a7f56dc52a8f475e3e3ab3150d9e02f94258ff604
 product: heygen
 product_name: HeyGen
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
-- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-a-new-way-to-build-from-your-phone|A new way to build from your phone]]
+- Later: 2026-07-23 · Raycast · [[Changes/Raycast/2026-07-23-3-voice-and-audio-changes-in-raycast-macos-0-70|3 Voice and Audio changes in Raycast macos 0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

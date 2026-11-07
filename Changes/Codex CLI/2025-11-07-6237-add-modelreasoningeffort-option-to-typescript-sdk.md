@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af8c3de2d1ae5915e3a0e229e44f2de2c02cab474d0faf5e06055e9c73f99c3f
+machine_hash: 60c07493911d33b138cd964062432286c83b1900407c4c2e46edd2c0eddc92f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-07 · Cline · [[Changes/Cline/2025-11-07-add-mcp-tool-usage-to-glm-prompt-by-canvrno-in-https-github-com-cline-cline-pull|Add MCP tool usage to GLM prompt]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps and Integrations changes in v0.13.0]]
+- Later: 2025-11-07 · Devin · [[Changes/Devin/2025-11-07-redshift-mcp-production-ready|Redshift MCP Production Ready]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

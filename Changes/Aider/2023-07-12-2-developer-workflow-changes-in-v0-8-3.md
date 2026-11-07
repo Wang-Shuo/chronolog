@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2810feabff951c2758999700cf12151125550b518ab89ebcf1382f1ed60f5c30
+machine_hash: 84b5cac72bd4017f3f5a976be15a9d1e42689c2322c4c7c0a962d431cf2a6e98
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in v0.8.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
-  Run & debug in Cursor again (the toolbar is back)]]'
+- '[[Changes/Raycast/2023-07-06-ai-chat-chats-are-now-saved-correctly-after-running-an-ask-ai-command|AI
+  Chat: Chats are now saved correctly after running an Ask AI command]]'
 - '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes|Ask
   to create a git repo if none found, to better track GPT''s code changes]]'
 - '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes-e7e81b|Ask

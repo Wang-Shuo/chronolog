@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 3ca38f9d8eb226670c190425348bba0b03db2498150c4338f84c714f37321fbf
+machine_hash: f4f16a887830582ca656927fd859b805de3d3f97d250ba2edc8ca8e48a0dd043
 product: lovable
 product_name: Lovable
 record:
@@ -42,8 +42,8 @@ record:
   title: Increased capacity for LLM calls, reducing the risk of mid-process rate limits
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|\U0001F527
-  Max Tokens Issue]]"
+- '[[Changes/Raycast/2025-02-05-7-model-support-changes-in-raycast-macos-v1-1-91-0|7
+  Model Support changes in Raycast macos-v1 1.91.0]]'
 - '[[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes
   in v0.74.0]]'
 - '[[Changes/Dify/2025-02-07-22-model-support-changes-in-0-15-3|22 Model Support changes

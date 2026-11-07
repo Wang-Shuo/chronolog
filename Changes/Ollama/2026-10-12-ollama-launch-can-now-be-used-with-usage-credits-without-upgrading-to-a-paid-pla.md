@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7c0d57c9514d685b6430cc5f75f88024db6490d7cc6fadaac5efd4d637084218
+machine_hash: 322c58bba45ac3c5cf450b9603b95cce1a3f774b10f4feabe02ed61f72a40063
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
     a paid plan'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
-  before your credits run out]]'
+- '[[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste-aebf65|AI
+  : Made AI requests smaller, so local models reply to a simple message much faster…]]'
 - '[[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model
   changes in v2026.10.1]]'
 - '[[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See

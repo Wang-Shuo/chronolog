@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50c4315ff8d20bffcdf0e28c4913ef4b412af351a5e254765534e94808a4d079
+machine_hash: 35e38385167416e2aa6e020139e79af87dacee97c7db911ec3553efdc57f2e69
 product: cline
 product_name: Cline
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved the model fallback notice and the autocompact-thrashing error to say…]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction now returns a summary even when instructions ask for tool use]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-oncall-lists-and-settings|Oncall Lists and Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

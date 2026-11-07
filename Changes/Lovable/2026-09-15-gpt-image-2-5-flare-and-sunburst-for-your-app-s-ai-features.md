@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 83756ec7298f6b97b76439c9ac3b4189ff059cff7be3e5ec7c872815996b7235
+machine_hash: 0685cf686c257afad61e039e2148ed2d3d820113e4ff2d364c62465143f92172
 product: lovable
 product_name: Lovable
 record:
@@ -56,12 +56,12 @@ record:
   title: GPT Image 2.5 Flare and Sunburst for your app's AI features
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated
-  images referenced by relative paths render in responses, as do screenshots…]]'
-- '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
-  Images 2.5 brings sharper details, more precise editing, and faster image…]]'
+- '[[Changes/Krea/2026-09-09-gpt-image-2-5-flare-and-gpt-image-2-5-sunburst|GPT Image
+  2.5 Flare and GPT Image 2.5 Sunburst]]'
 - '[[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation
   changes in v2026.9.4]]'
+- '[[Changes/Recraft/2026-09-11-openai-s-fastest-image-generation-and-editing-model-is-available-in-recraft-stud|New
+  Model: ChatGPT Images 2.5]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-15-2026-09-15-6e6a8d9f|lovable-2026-09-15-2026-09-15-6e6a8d9f]]'
 source_type: lovable_changelog
 theme: image-generation
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Recraft · [[Changes/Recraft/2026-09-11-openai-s-fastest-image-generation-and-editing-model-is-available-in-recraft-stud|New Model: ChatGPT Images 2.5]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953 Preserve per-image generation IDs in image generation analytics @copyberry]]
 <!-- chronolog:end -->
 

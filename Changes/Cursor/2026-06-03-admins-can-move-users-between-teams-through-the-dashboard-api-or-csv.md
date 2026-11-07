@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cba955456eb0305bb90755ad22655c012066133f3831d4450e6e4697b5d8f97
+machine_hash: 4eb72d20f8967a5c1de9c659106f8945e9f79d38578c99a56c5d66c305c3b3c3
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-now-supports-email-messages-web-microsoft-365-admin-cent|Organizational Messages now supports Email messages Web (Microsoft 365 admin center)]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling out ads in the UK]]
+- Later: 2026-06-03 · Devin · [[Changes/Devin/2026-06-03-devin-review-enrolled-users-spend-limits-and-ghes-gitlab-support|Devin Review: Enrolled Users, Spend Limits, and GHES/GitLab Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37a882bab6860bc698a489536ec2a65f0821594e9096ac6c7dd0da646892b1cf
+machine_hash: e5a2acd50c288447851664d6f126d608e144f6bd4524f356b9c620738accdd3e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Agent Mode changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
-  Mode changes in rust-v0.150.0]]'
 - '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
   Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
   Slack as an agent]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-agent-mode-changes-in-v1-16-1|2 Agent Mode changes
+  in v1.16.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.248
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to Slack as an agent]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-2-agent-mode-changes-in-v1-16-1|2 Agent Mode changes in v1.16.1]]
 - Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud Agents no longer require a connected GitHub or other third-party SCM provider…]]
 <!-- chronolog:end -->
 

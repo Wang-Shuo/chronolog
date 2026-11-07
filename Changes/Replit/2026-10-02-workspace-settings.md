@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c7094bc3803141469b93dd9d0daa87664cffbf9f61cd2405485274d8562498d
+machine_hash: c15a7b5f87c0aa58128935a326f12088ae0e7b279511292a7401323160a7ee73
 product: replit
 product_name: Replit
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-02 · Lovable · [[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show an announcement banner to everyone in your workspace]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude Tag Added an Edit button to the Allowed domains card on a channel's…]]
+- Later: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-devin-review-effort-levels|Devin Review Effort Levels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

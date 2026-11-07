@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da2cc6c41a7a2857ede888f08d768e8c17bc7f2293cf4e2084dcf84f0e8e532b
+machine_hash: cbc02f3e3ab60994207e0685a9ebeaf639a3aded7f0400b979695ac6d8b83751
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore: add type-check to pre-commit]]
-- Later: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]
+- Later: 2025-11-15 · Raycast · [[Changes/Raycast/2025-11-15-preferences-toggle-night-light-command|Preferences : Toggle Night Light command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

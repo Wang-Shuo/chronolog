@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1492c870c31166b6960865b75d57ff61bec2a2c52f112b7e5f6b3f6cfbb55e6f
+machine_hash: 5c538fffaea1ac11cc299c625f733c5295030823cdb3062ef64f5fe4901dc7f0
 product: descript
 product_name: Descript
 record:
@@ -53,8 +53,7 @@ record:
   title: Captions, redesigned
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You
-  know how some people are really good at prompting AI?]]'
+- '[[Changes/Devin/2026-09-16-teams-improvements|Teams Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 - '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354

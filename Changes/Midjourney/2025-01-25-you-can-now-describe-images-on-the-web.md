@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9a72c5da153e70736f99a43e7a6271450370b3a694e145f99a80667ffd8567af
+machine_hash: 8fbd5ceb7c75ab62a81d5854f3dcce17de1410272a2249d74e4783df91df1195
 product: midjourney
 product_name: Midjourney
 record:
@@ -51,9 +51,9 @@ record:
   title: '"describe" images on the web'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
 - '[[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]'
+- '[[Changes/LM Studio/2025-01-21-show-incompatible-status-on-windows-linux-avx-only-machines-in-cpu-section-of-ha|Show
+  "Incompatible" status on Windows/Linux AVX-only machines in CPU section…]]'
 - "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
   Desktop App Preparations]]"
 source_release: '[[Releases/Midjourney/midjourney-2025-01-25-https-updates-midjourney-com-describe-on-web-moodboard-blending-5cf298a4|midjourney-2025-01-25-https-updates-midjourney-com-describe-on-web-moodboard-blending-5cf298a4]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|🖥️ Desktop App Preparations]]
-- Later: 2025-02-05 · Ollama · [[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-desktop-build-of-this-release-1-7-3-are-attached-as-binaries-below| Desktop build of this release (1.7.3) are attached as binaries below]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

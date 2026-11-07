@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f855167ffc7cffb8ceaa2ad4007aa2efda3d4842b99f8452539ddbc1bb05a41b
+machine_hash: 0397b24a4493c5366a5f03662da9f045a6b93bab578e21955af71d54cdecfc56
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,12 +46,12 @@ record:
   title: Adaptive Fix
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-04-07-it-demonstrates-stronger-engineering-intelligence-across-autonomous-planning-sus|It
-  demonstrates stronger engineering intelligence across autonomous planning…]]'
 - '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
   changes in v0.37.0]]'
 - '[[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core
   Kept model variants scoped to the selected model]]'
+- '[[Changes/Superwhisper/2026-04-08-redesigned-model-library-with-improved-table-layout-and-chip-colors|Redesigned
+  model library with improved table layout and chip colors]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-08-v1-9600-41-4a53a1f5|windsurf-2026-04-08-v1-9600-41-4a53a1f5]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core Kept model variants scoped to the selected model]]
+- Earlier: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-redesigned-model-library-with-improved-table-layout-and-chip-colors|Redesigned model library with improved table layout and chip colors]]
 - Later: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3 Instant mini in ChatGPT]]
 <!-- chronolog:end -->
 

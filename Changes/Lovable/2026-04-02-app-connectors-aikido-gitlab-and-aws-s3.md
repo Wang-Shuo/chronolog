@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8c1375d2df840467857e889477468283161dbec845c3b98e8afbbb99761e114d
+machine_hash: 75a6ad6ce581e9efe16457f522fc070db711bd44d52cf88d364da6e0863d5c8d
 product: lovable
 product_name: Lovable
 record:
@@ -121,7 +121,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP tool calls display tool name and parameter summary in the timeline]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-enterprise-mcp-registry-enforcement|Enterprise MCP Registry Enforcement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

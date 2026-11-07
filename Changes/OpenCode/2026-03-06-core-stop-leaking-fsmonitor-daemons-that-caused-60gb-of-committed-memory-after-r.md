@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ada3d872ed10e2ad6c5da9e46ea1c12a6e9e9a5162fb8f93eb5bd076aa0f5d25
+machine_hash: b086d6e2dbef48e0ea1f5f8d48fa0bd5942ee08d4dbd067a880f0b2c8eabfb0d
 product: opencode
 product_name: OpenCode
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
-- Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]
+- Later: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-various-bug-fixes-performance-improvements-and-visual-polish-across-the-platform|Various bug fixes, performance improvements, and visual polish across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

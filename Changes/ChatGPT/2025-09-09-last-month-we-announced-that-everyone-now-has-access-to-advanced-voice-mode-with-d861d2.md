@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 841a54806e6daacd761a5dedc299d266b0503c3f7ae890e2c1f2903d06fd6c44
+machine_hash: 17d1b47e400d6f118d52f5cfad7d721e463c937b5771a4f61d580a143b59afff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-new-endpoints|New Endpoints]]
-- Later: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-javascript-sdk|JavaScript SDK]]
+- Later: 2025-09-10 · Superwhisper · [[Changes/Superwhisper/2025-09-10-custom-mode-icons-audio-device-enhancements|Custom Mode Icons & Audio Device Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

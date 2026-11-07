@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a036faccbfc4249d2236d22071de886bcb430dec4b92796edb8495a5d315409f
+machine_hash: 64cfd428f728fdd8abb1f9d631679db40112ad53105e41e0e1890c2d7193321e
 product: lovable
 product_name: Lovable
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety and Privacy changes in v2.1.236]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety and Privacy changes in v2.1.238]]
+- Later: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-2-safety-and-privacy-changes-in-raycast-macos-0-71|2 Safety and Privacy changes in Raycast macos 0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

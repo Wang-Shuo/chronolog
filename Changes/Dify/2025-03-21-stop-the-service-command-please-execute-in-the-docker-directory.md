@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f8fa254e6bb4494595ebb41f555071a499c5ee53d2fe0af9d9b8a0f66d437fc
+machine_hash: afa780f2225272c74c4b9872c0c7447ab2f80f1f25408dd21add81f279bd2c09
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: Stop the service, Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer
-  Workflow changes in v0.77.0]]'
+- '[[Changes/Raycast/2025-03-14-the-email-field-in-the-send-feedback-command-is-being-pre-populated|The
+  email field in the Send Feedback Command is being pre-populated]]'
 - '[[Changes/Dify/2025-03-18-3-developer-workflow-changes-in-1-1-0|3 Developer Workflow
   changes in 1.1.0]]'
 - '[[Changes/Dify/2025-03-20-stop-the-service-command-please-execute-in-the-docker-directory|Stop

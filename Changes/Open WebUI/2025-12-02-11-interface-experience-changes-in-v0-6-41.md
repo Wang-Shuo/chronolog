@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f8d0ef390b95f1ab3f47956935ae79d461b4f51bdb7a10e10a5508e9c8a2030
+machine_hash: ad98483b0b955c842556554b5d0fb408de46805eb9f5fe4dfdd9628e62ee856b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,7 +88,8 @@ record:
   title: 11 Interface Experience changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-navigation-update|Navigation update]]'
+- '[[Changes/Superwhisper/2025-11-26-recording-window-style-selection-in-configuration|Recording
+  window style selection in configuration]]'
 - '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
   Experience changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore:

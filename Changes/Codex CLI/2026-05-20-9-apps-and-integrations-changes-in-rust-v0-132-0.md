@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 269c513422a2072695bacd30f1060e2f7957c38677a759be410c935d74ef19a7
+machine_hash: 09207416eda4c3a51fc52708abf515577ec7210fdfe3e2a599a2a2fc92c8d651
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
-  can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
   Apps and Integrations changes in v1.0.49]]'
 - '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
   API enhancements for custom connector relevance and UX…]]'
+- '[[Changes/Raycast/2026-05-19-applications-use-alternate-name-for-creator-studio-apps|Applications:
+  Use alternate name for Creator Studio apps]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph API enhancements for custom connector relevance and UX…]]
+- Earlier: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-applications-use-alternate-name-for-creator-studio-apps|Applications: Use alternate name for Creator Studio apps]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4 Apps and Integrations changes in v1.0.51]]
 <!-- chronolog:end -->
 

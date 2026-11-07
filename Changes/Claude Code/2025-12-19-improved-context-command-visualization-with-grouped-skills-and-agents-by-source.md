@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f30f75577cbc6dc03a848a8f21758ab650e794574683be771b853e492242a46
+machine_hash: c40b565474a57b16b42e6562f1392a08eb8ccded23c5362fdcfcb74e32812fb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]
-- Later: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add /context command to visualize token usage]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-copy-pr-context-button|Copy PR Context Button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

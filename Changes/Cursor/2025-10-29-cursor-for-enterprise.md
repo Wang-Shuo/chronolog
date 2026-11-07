@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f88d15932373fc3dadf12e83b3084b6ad545423cee1576afe04513d901189e11
+machine_hash: 65cf3cfca7b90c7f8ee9de254d76466a5adcd01f1f47431822aa38b69bf25a1d
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-new-in-brand-studio-permissions|New in Brand Studio—permissions]]
-- Later: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-bulk-delete-for-organizations|Bulk delete for organizations]]
+- Later: 2025-10-31 · Devin · [[Changes/Devin/2025-10-31-enterprise-knowledge-folder-management|Enterprise Knowledge Folder Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

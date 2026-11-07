@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe34aefae467939680cafd1830669ef50b6366da16fd726e101733fb8a99b437
+machine_hash: 9a40c978a7740d76ae5af84cb1d751bb4694395d84ba764515c88b6df1f497e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-10-01 · OpenHands · [[Changes/OpenHands/2025-10-01-significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by|Significantly improved the security of the OpenHands enterprise Docker image…]]
-- Later: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex login --api-key was replaced with codex login --with-api-key that reads…]]
+- Later: 2025-10-03 · Devin · [[Changes/Devin/2025-10-03-enterprise-api-v2-git-permissions-endpoint-now-returns-permission-names-dict-map|Enterprise API v2 git permissions endpoint now returns permission\names dict…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

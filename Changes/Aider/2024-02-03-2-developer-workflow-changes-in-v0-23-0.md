@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4cb1d9d3c0f03fe4e5215241728c0916e3e802baa1cf2a909f68b4fa1d8c7c5d
+machine_hash: 202f260514648cab970eb4802dbd8769a473164fc364c5162ac10635d5d259cb
 product: aider
 product_name: Aider
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer
-  Workflow changes in v0.1.21]]'
+- '[[Changes/Raycast/2024-01-24-another-new-action-this-time-to-disable-commands-from-the-root-search-search-for|Another
+  new action, this time to disable commands from the root search]]'
 - '[[Changes/Dify/2024-02-01-2-developer-workflow-changes-in-0-5-3|2 Developer Workflow
   changes in 0.5.3]]'
 - '[[Changes/Ollama/2024-02-02-ollama-serve-will-now-print-prompt-when-ollama-debug-1-is-set|ollama

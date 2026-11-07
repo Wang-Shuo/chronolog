@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12e1e4e3a7f0297653aff69fece9d84f7bbfe92ad2f68f43d91265ea67d7909f
+machine_hash: 05e3ac0a129f29281236247bc9d9e5dc34d6549dde90edd32dad33dcf7b10019
 product: runway
 product_name: Runway
 record:
@@ -44,12 +44,11 @@ record:
   title: App Studio
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-26-gemini-4-argon-refreshed-agent-interface-and-inline-diff-shortcuts|Gemini
-  4 Argon, Refreshed Agent Interface, and Inline Diff Shortcuts]]'
 - '[[Changes/Google Antigravity/2026-10-26-enabled-gemini-4-argon-in-antigravity-ide-for-eligible-tiers-bringing-google-s-n|Enabled
   Gemini 4 Argon in Antigravity IDE for eligible tiers, bringing Google''s…]]'
 - '[[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update
   model switch confirmation prompts]]'
+- '[[Changes/Krea/2026-10-26-workspace-and-model-updates|Workspace and model updates]]'
 source_release: '[[Releases/Runway/runway-2026-10-26-2026-10-26-app-studio-3accdc76|runway-2026-10-26-2026-10-26-app-studio-3accdc76]]'
 source_type: runway_changelog
 theme: model-support
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update model switch confirmation prompts]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-workspace-and-model-updates|Workspace and model updates]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]]
 <!-- chronolog:end -->
 

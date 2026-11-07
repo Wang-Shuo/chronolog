@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 225fc48266c47501f5eb62e756dfb94d9c3ba991ef1e1014f451fce587a353d1
+machine_hash: 71245bc9296f4ac00beace698891aff16e706cac7e1b5d07e05677587e50f3a3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in 3.0]]
+- Later: 2026-04-02 · AnythingLLM · [[Changes/AnythingLLM/2026-04-02-8-agent-mode-changes-in-v1-12-0|8 Agent Mode changes in v1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa5884727c99e69f74e21f6b37afe11f58dd3439574b3cc9528ad0416c55ecbb
+machine_hash: 8a1d21fe33b90b297afd7e3ede3f7283baa507f953e02f47de4eec981794124f
 product: cursor
 product_name: Cursor
 record:
@@ -42,9 +42,9 @@ record:
   title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
-- '[[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First,
-  they’re completely autonomous (no manual prompting)]]'
 - '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
+- '[[Changes/Devin/2026-02-27-repository-selection-for-schedules|Repository Selection
+  for Schedules]]'
 - '[[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate
   core render util to use xterm.js as part of the rendering loop]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'

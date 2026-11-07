@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e8115b54310f8c963e195ea443d4ebcbbaf9a3b33fd249ba431315aec4a71ef
+machine_hash: 45f81586f463bb5a56f999a53f3619d711432e38d3b2e5d10eeb2205f944b280
 product: synthesia
 product_name: Synthesia
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2025-06-26 · Devin · [[Changes/Devin/2025-06-26-enterprise-connected-accounts-ui|Enterprise Connected Accounts UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

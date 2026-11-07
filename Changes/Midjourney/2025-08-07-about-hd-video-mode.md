@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3b8e7bedc9b51fc77c66346c31dad9c3fab025f06ff612e5f656d6b49ac7b8cc
+machine_hash: a2d080d0baf7a4333e9dc96f0c8c1c24262071605a1623df00a0ed1b17de7ffb
 product: midjourney
 product_name: Midjourney
 record:
@@ -61,10 +61,10 @@ record:
   title: About HD Video Mode
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
-  reasoning UX for Grok 4 models and correct pricing]]'
 - '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
   redirectUrl to credits purchasing experience]]'
+- '[[Changes/Recraft/2025-08-04-cost-per-generation-2-credits|Cost per generation:
+  2 credits]]'
 - '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-08-07-https-updates-midjourney-com-hd-mode-for-video-7961c4e5|midjourney-2025-08-07-https-updates-midjourney-com-hd-mode-for-video-7961c4e5]]'
 source_type: midjourney_changelog

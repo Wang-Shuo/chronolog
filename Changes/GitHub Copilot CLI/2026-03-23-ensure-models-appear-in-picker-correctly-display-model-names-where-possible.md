@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 06d4e58b1a68cea51e3001307f177c2e3433c7d07b076635190ae8ce39f4688e
+machine_hash: 8af925346a33a5bb3c7eda04469020d4990c76a66df21ff5f2952d6cff850d57
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: Ensure models appear in picker correctly, display model names where possible
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
-  Support changes in v1.0.10]]'
+- '[[Changes/Raycast/2026-03-20-ai-tightened-logic-for-claude-models-to-address-empty-responses-in-chat|AI:
+  Tightened logic for Claude models to address empty responses in chat]]'
 - '[[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support
   changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'

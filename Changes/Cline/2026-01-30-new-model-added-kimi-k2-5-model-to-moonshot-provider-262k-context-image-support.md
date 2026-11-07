@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 08bef7aea313b83c1b6f0c3502fd41dbc1d4cabd35ff94c68122aff1bdae8df6
+machine_hash: 89ae7640331497e9acd1779691f289ae739e37028f2f894c64ad3cd2f5d32712
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: __New model:__ Added Kimi-K2.5 model to Moonshot provider…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core):
-  enhanced anchored iterative context compression with self-verification]]'
+- '[[Changes/LM Studio/2026-01-28-bring-back-context-fullness-indicator-and-current-input-token-counter|Bring
+  back context fullness indicator and current input token counter]]'
 - '[[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle
   Venice cache creation tokens]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-compaction-messages-show-clearer-command-hints-to-view-checkpoint-summaries|Compaction

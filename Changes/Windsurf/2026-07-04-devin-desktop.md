@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4ca0536cbad3b46e8dc2be622cadb04399019c6ca8d4e5184a1780e261e5e897
+machine_hash: c1951be18880b875ea43838d1aa03b29c5b5500dcb23c680d3201d5feb94ed3a
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,8 +61,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
-  and Desktop changes in v1.17.13]]'
+- '[[Changes/Wispr Flow/2026-07-02-flow-now-switches-back-automatically-for-more-apps-ios|Flow
+  now switches back automatically for more apps (iOS)]]'
 - '[[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep
   automatic background updates from flashing a console window on Windows]]'
 - '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit

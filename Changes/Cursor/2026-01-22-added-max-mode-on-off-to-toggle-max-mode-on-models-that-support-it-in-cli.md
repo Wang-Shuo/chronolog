@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 61926ced1f4b4efcafc6c1c2d839395a9fff1f85547814de7d96d3930b6f8fae
+machine_hash: 399cc2bd50b2b20a1a15f8b36d15a00b1146946c91498596bd24582db000bf87
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     CLI
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support
-  changes in v1.1.30]]'
+- '[[Changes/AnythingLLM/2026-01-22-3-model-support-changes-in-v1-10-0|3 Model Support
+  changes in v1.10.0]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
 - '[[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597

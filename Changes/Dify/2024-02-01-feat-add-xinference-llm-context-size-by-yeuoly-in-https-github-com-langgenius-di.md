@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e98943a93a239d9ae5a90c6fd80af93e80cebda854863225541cb96ec08192e8
+machine_hash: b69613fddaa2cafb4c1d92251146f05c82562768da690143b44a9219b96915f8
 product: dify
 product_name: Dify
 record:
@@ -51,12 +51,12 @@ record:
   title: 'feat: add xinference llm context size'
   type: change
 related_changes:
-- '[[Changes/Notion/2023-12-20-properties-now-with-descriptions|Properties, now with
-  descriptions]]'
 - '[[Changes/Ollama/2024-01-08-increasing-context-size-with-num-ctx-will-now-work-up-to-a-model-s-supported-con|Increasing
   context size with num_ctx will now work…]]'
 - '[[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion
   docs]]'
+- '[[Changes/Superwhisper/2024-01-30-include-clipboard-context-in-llm|Include clipboard
+  context in LLM]]'
 source_release: '[[Releases/Dify/dify-2024-02-01-0-5-3-github-139471716-c501b05b|dify-2024-02-01-0-5-3-github-139471716-c501b05b]]'
 source_type: github_releases
 theme: context-window
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-01-17 · Notion · [[Changes/Notion/2024-01-17-connect-and-create-notion-docs|Connect and create Notion docs]]
+- Earlier: 2024-01-30 · Superwhisper · [[Changes/Superwhisper/2024-01-30-include-clipboard-context-in-llm|Include clipboard context in LLM]]
 - Later: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add max_tokens parameter rule for zhipuai glm4 and glm4v]]
 <!-- chronolog:end -->
 

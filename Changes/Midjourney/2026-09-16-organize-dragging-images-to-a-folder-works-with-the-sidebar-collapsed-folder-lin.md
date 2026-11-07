@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c848cf246ed8e2176ef70ba4101058a88e52fa57b9912cdaa95b6a68fe6d244
+machine_hash: 3b91913bc008c9df0969dc93a8962e37e63edb2a51b33e026b69983a90b8ee3b
 product: midjourney
 product_name: Midjourney
 record:
@@ -60,8 +60,7 @@ record:
   title: ORGANIZE Dragging images to a folder works with the sidebar collapsed
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized
-  the conversation menu so Archive and Delete sit together at the bottom…]]'
+- '[[Changes/Devin/2026-09-16-reboot-vm-from-the-sidebar|Reboot VM from the Sidebar]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
   Interface Experience changes in v1.0.85]]'
 - '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat

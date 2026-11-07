@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a15e17923ed359f3859420d707f3dee24442c9c981d775128463394c14eba577
+machine_hash: 1de5cbf4c9375385aa976564a0bd726d856029fb09e62ebf1fd696d5cbd43068
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer Workflow changes in v2026.9.9]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer Workflow changes in v0.12.0]]
+- Later: 2026-10-09 · Devin · [[Changes/Devin/2026-10-09-command-palette-and-find|Command palette and Find]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

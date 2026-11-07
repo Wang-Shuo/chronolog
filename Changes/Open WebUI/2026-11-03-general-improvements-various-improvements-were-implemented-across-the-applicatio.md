@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9abeeb83f4dfbc75f8174d62bd24b8525447f112c4295b08ff795fc1be0d208f
+machine_hash: fc0e3e72cb1c20dbb9f54d9a22ed4380a3d71c8b34e3be36c63cd1cca1dbb917
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-30-conversation-input-improved-slash-menu-categories-and-recent-items-file-search-i|Conversation
-  input: Improved slash-menu categories and recent items, @ file…]]'
+- '[[Changes/Wispr Flow/2026-10-30-faster-summaries-after-longer-meetings-notetaker|Faster
+  summaries after longer meetings (Notetaker)]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes:
   History items for v4 generations keep clone_strength and speed…]]'
 - '[[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster

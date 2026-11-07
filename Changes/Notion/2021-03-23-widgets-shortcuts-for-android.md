@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 333852d49cb65dadfedb4f056bb26ca8c90ffc7f2d5b6b906485a54b25097ffb
+machine_hash: cfd45a83f193da8a02438dee8fe3b28ed615c50bfb6fecd69e69ad8af200c41a
 product: notion
 product_name: Notion
 record:
@@ -55,10 +55,10 @@ record:
   title: "Widgets & shortcuts for Android \U0001F916"
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-17-descript-now-has-support-for-macos-big-sur-this-comes-by-way-of-a-brand-new-vide|Big
-  Sur Support and Performance Improvements]]'
 - "[[Changes/Notion/2021-01-27-better-dark-mode-settings|Better dark mode settings
   \U0001F526]]"
+- '[[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar:
+  Added support for Around to join meetings in the desktop app]]'
 - '[[Changes/Notion/2021-03-23-you-can-now-upgrade-from-a-free-personal-plan-personal-pro-plan-from-the-ios-app|Upgrade
   from a free Personal Plan → Personal Pro Plan from the iOS app]]'
 source_release: '[[Releases/Notion/notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0|notion-2021-03-23-https-www-notion-com-releases-2021-03-23-fc3387c0]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-01-27 · Notion · [[Changes/Notion/2021-01-27-better-dark-mode-settings|Better dark mode settings 🔦]]
+- Earlier: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-calendar-added-support-for-around-to-join-meetings-in-the-desktop-app|Calendar: Added support for Around to join meetings in the desktop app]]
 - Later: 2021-05-11 · Descript · [[Changes/Descript/2021-05-11-descript-now-supports-live-transcription-https-help-descript-com-hc-en-us-articl|Live Transcription in Windows App]]
 <!-- chronolog:end -->
 

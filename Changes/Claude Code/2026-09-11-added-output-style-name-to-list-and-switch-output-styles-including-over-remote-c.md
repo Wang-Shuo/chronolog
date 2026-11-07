@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f044005797dbc272761c0818a9bb797043da327bf6080a782695e2592a95431
+machine_hash: a80fff66a713a0f082f9f994216f153b327f70edca3cdb227aa83c8e6094be20
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]]
-- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get a warning when another Lovable project already uses your Supabase project]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-unified-plugin-marketplace|Unified Plugin Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

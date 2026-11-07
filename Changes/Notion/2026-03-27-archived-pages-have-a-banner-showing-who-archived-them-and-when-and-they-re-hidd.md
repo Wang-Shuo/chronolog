@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 642c642c64e6c7dc92228e0560d0b1ab37424c1567a8becae5a471065a3dd200
+machine_hash: 5dcb5faefc2b24e96e7f02afd08ff5d9accdcd4576f9f00ca6816a76aa048e7f
 product: notion
 product_name: Notion
 record:
@@ -49,10 +49,8 @@ record:
     hidden…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
-  Experience changes in v1.3.3]]'
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Devin/2026-03-27-focus-mode|Focus Mode]]'
+- '[[Changes/Devin/2026-03-27-inline-file-previews|Inline File Previews]]'
 - '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
   Experience changes in 1.13.3]]'
 source_release: '[[Releases/Notion/notion-2026-03-27-https-www-notion-com-releases-2026-03-27-f7973af9|notion-2026-03-27-https-www-notion-com-releases-2026-03-27-f7973af9]]'
@@ -87,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
-- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface Experience changes in v1.3.6 + 2]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-5-interface-experience-changes-in-raycast-macos-0-51|5 Interface Experience changes in Raycast macos 0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

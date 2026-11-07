@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c7eed4709f089e901fccaea9838e89d27589b651c353b0138cbebf84e7fe981c
+machine_hash: 396a61373d84f6ce6d5496e987b8405ddb315df928e517e5af7a86c2647c1805
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-07 · Notion · [[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan Mode]]
-- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons for Agent modes]]
+- Later: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-ai-in-addition-to-ai-extensions-ai-skills-can-be-loaded-automatically-depending|AI : In addition to AI Extensions, AI Skills can be loaded automatically depending…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

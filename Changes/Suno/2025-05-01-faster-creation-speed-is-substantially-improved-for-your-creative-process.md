@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09c1c55ead636b8b462701fbf17ddc2a2336d5fe9d4678d5ea4bd7dcaec89ee8
+machine_hash: bf5121ae024a4fb502a349c1ed4fddfe93f6502a755fdadd0c7282f001bf94ad
 product: suno
 product_name: Suno
 record:
@@ -41,10 +41,10 @@ record:
   title: Faster creation — Speed is substantially improved for your creative process
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new
-  Screen recorder—in Beta this week]]'
 - '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
   speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
+- '[[Changes/LM Studio/2025-04-24-dramatically-faster-first-time-model-load-times-on-rtx-50-series-gpus|Dramatically
+  faster first-time model load times on RTX 50-series GPUs]]'
 - '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Suno/suno-2025-05-01-e-v4-5-levels-up-creativity-c1350db5|suno-2025-05-01-e-v4-5-levels-up-creativity-c1350db5]]'
 source_type: suno_changelog

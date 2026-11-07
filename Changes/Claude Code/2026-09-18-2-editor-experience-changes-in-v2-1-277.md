@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1ff7e30c482a3ede12393417474d13f919754a80be3605942c753480796e55e
+machine_hash: 69de414cea88a0feaa100a9ada9ccb1296986467f4800f7615a22bf4c13824df
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2 Editor Experience changes in v1.0.86]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor Experience changes in v2026.9.5]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-command-palette-open-devin-review-from-a-pr-link|Command Palette: Open Devin Review from a PR Link]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

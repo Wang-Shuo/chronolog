@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 398d318d8a6e4f705b951e67aff05f8490bfa532dac7f80f3aa7e5a31ef4ce61
+machine_hash: ab63cb42b99d57b7e2994dedb4614c431cd781b1adf45ebadfd906863eac229c
 product: runway
 product_name: Runway
 record:

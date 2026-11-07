@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beafb76a98f5090724856dba81c7bfeeb767a08f3505dd0ece9121630dfbd57a
+machine_hash: ee52805a4cc44db0c449cc6bda40cc9edb44a0ad1c30b7b4c29fc1ade8f64b8e
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in 0.4.5
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat:
-  remove plugin page]]'
-- '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
-  We''ve continued to improve the Copilot++ ghost text experience]]'
+- '[[Changes/Superwhisper/2023-12-18-deeper-integration-with-macos-dock-icon-main-menu-bar-etc|Deeper
+  integration with macOS (dock icon, main menu bar) etc]]'
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
   what’s trending in the GPT Store]]'
+- '[[Changes/Raycast/2024-01-10-preferences-improved-visibility-of-the-uninstall-option-for-deprecation-extensio|Preferences:
+  Improved visibility of the uninstall option for deprecation extensions]]'
 source_release: '[[Releases/Dify/dify-2024-01-11-0-4-5-github-136588752-b09fda66|dify-2024-01-11-0-4-5-github-136588752-b09fda66]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +83,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.4.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover what’s trending in the GPT Store]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-preferences-improved-visibility-of-the-uninstall-option-for-deprecation-extensio|Preferences: Improved visibility of the uninstall option for deprecation extensions]]
 - Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
 <!-- chronolog:end -->
 

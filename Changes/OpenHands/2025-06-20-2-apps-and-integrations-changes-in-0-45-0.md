@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1564173734d674e7192b4c2f0bb92b39949022a91d73fd12322b5f238b87bf4
+machine_hash: 6972eaeb25c2e134c6f000dfbbd1e2606f7350fb6466db4d72ec674df3937301
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.45.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack Integration (Beta) with Cloud OpenHands @malhotra5…]]
-- Later: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat search connectors (Pro)]]
+- Later: 2025-06-20 · Raycast · [[Changes/Raycast/2025-06-20-extensions-we-have-added-a-load-of-new-extensions-including-linear-github-notion|Extensions: We have added a load of new extensions, including Linear, Github…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

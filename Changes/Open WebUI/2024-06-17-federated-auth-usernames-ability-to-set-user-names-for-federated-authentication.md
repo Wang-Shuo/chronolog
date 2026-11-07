@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 821f10fa5f16d24c2c897562488479a46944b4edbc922d52ed8e411c4ea29501
+machine_hash: 2871a746ba8e1c2b79362ce83c28a05297a2f45eb2fa54a6a013d3dbd44067ab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,9 @@ record:
     federated authentication"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|\U0001F512
-  Auth Disable Option: Introducing the ability to disable authentication]]"
 - '[[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support
   for Aliyun OSS authentication V4 by @S96EA in ♯3886]]'
+- '[[Changes/Devin/2024-05-29-interactive-browser|Interactive Browser]]'
 - '[[Changes/Dify/2024-06-14-feat-support-login-by-given-mail-by-iamjoel-in-https-github-com-langgenius-dify|feat:
   support login by given mail]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e|open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0921d48b41b80f806c91571d6f26f2ad478cb478b34b82c89ab70c6f237ce71e
+machine_hash: a80ce3c16e03ac4325302bb9a3f59b7795b3e0f718eeed3631b117e7dfa1f24e
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,10 +47,10 @@ record:
   title: Please Note
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-19-support-adaptive-thinking-for-claude-sonnet-4-6|Support
-  adaptive thinking for Claude Sonnet 4.6]]'
 - '[[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support
   changes in v1.2.7]]'
+- '[[Changes/Superwhisper/2026-02-19-2-model-support-changes-in-superwhisper-windows-1-2-5|2
+  Model Support changes in Superwhisper Windows 1.2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
   Support changes in v0.0.413]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-02-20-https-updates-midjourney-com-v8-rating-party-final-round-1066cafb|midjourney-2026-02-20-https-updates-midjourney-com-v8-rating-party-final-round-1066cafb]]'

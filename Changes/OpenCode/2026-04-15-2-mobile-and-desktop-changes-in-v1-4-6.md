@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 798ec2a964a87a73e6f1eee81ce287542bcf2c50a2651de0fd1f6f547cbdd0c4
+machine_hash: 6b657849f627cb952e04775e2ea5710a957fc64532d633c2aeac40d9d6ff31b0
 product: opencode
 product_name: OpenCode
 record:
@@ -82,7 +82,7 @@ Source: https://opencode.ai/changelog/v1.4.6
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-desktop-fixed-the-windows-desktop-backend-hanging-before-shutdown|Desktop Fixed the Windows desktop backend hanging before shutdown]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows: PowerShell tool is progressively rolling out]]
+- Later: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-hyperkey-hyperkey-support-is-now-available-on-windows|Hyperkey : Hyperkey support is now available on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

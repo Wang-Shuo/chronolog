@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 443506e705302b69b381c9aa64086a4986a07afc8dae8af3f55bd9806cb3aa7d
+machine_hash: 4107d0ed5a3c0c7e14bd6582b39b7a74e015f08b8b265063b686de430b14f5d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: Improve code search speed in large repos
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-02-19-improved-ui-responsiveness-for-chat-interactions-including-creating-conversation|Improved
-  UI responsiveness for chat interactions, including creating conversations…]]'
 - '[[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings,
   Artifacts, and Stability]]'
 - '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
   Reliability and Performance changes in v2.1.50]]'
+- '[[Changes/Devin/2026-02-20-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]]
+- Earlier: 2026-02-20 · Devin · [[Changes/Devin/2026-02-20-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-improved-tokenizer-performance|Improved tokenizer performance]]
 <!-- chronolog:end -->
 

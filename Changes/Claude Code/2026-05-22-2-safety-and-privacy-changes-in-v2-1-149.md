@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81b52fc830d2b09875d835612247dcd94512bf2cad974c85feaf5b895d8b424f
+machine_hash: 53f4394796688aaaa0b6a966d37d468d29d6acfe8acfe3e8b1a60671d8a262b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.149
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core
-  Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]'
+- '[[Changes/Raycast/2026-05-20-permissions-fixed-an-issue-where-raycast-would-not-open-system-settings-when-req|Permissions:
+  Fixed an issue where Raycast would not open System Settings…]]'
 - '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
   now works with more security and compliance tools]]'
 - '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17 Safety and Privacy changes in rust-v0.133.0]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-add-vi-mode-shortcuts-and-clarify-mcp-custom-sandbox-setup-by-chrisjcthomas|docs: add vi mode shortcuts and clarify MCP/custom sandbox setup]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-inline-repo-permission-toggle|Inline Repo Permission Toggle]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 720793e12c430a60e4a4bac981efd020a71e7ab3bdf8cd4684d620b9a8e8bd57
+machine_hash: b1e71112bc08153acd309cf655b4a42dffefed3d9478a8e3d1cfbb007c882f57
 product: opencode
 product_name: OpenCode
 record:
@@ -116,7 +116,7 @@ Source: https://opencode.ai/changelog/v1.17.10
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]]
+- Later: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-mcp-add-support-for-cimd|MCP : Add support for CIMD]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

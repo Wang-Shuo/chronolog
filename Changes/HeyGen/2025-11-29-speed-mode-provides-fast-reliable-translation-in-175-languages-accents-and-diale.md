@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 213e6ed339bb671a38c849f96c67bd62413376518e9fadb1de7d74dc3e22b847
+machine_hash: ee6627f08e72ddebbe5d09d96ccf09a0bc128f402be973cb428e871c406866c4
 product: heygen
 product_name: HeyGen
 record:
@@ -49,12 +49,11 @@ record:
     and dialects
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
-  and Performance changes in 1.10.1]]'
-- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
-  Fixes]]'
+- '[[Changes/Superwhisper/2025-11-26-performance-improvements-for-all-local-models|Performance
+  improvements for all Local models]]'
 - '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
   update Cerebras models and speed]]'
+- '[[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]'
 source_release: '[[Releases/HeyGen/heygen-2025-11-29-https-heygen-noticeable-news-publications-new-translation-engine-fb8ee5f9|heygen-2025-11-29-https-heygen-noticeable-news-publications-new-translation-engine-fb8ee5f9]]'
 source_type: heygen_changelog
 theme: reliability-performance
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Earlier: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]
 - Later: 2025-12-01 · HeyGen · [[Changes/HeyGen/2025-12-01-a-faster-cleaner-editing-experience|A faster, cleaner editing experience]]
 <!-- chronolog:end -->
 

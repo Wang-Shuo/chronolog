@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4d80161c0ce556d991c344ecb1ab63eb7507ff4a7a67740cd85fc5f61cd5310
+machine_hash: 26b07d5fa3117940f29f1da277ce2da4102e4d7597e440dbce5ff24f6cf6a72e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     errors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
 - '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
   PNGs]]'
 - '[[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added
   PDF attachment support for Grok]]'
+- '[[Changes/AnythingLLM/2026-05-26-support-pulling-generated-documents-from-api-calls-by-timothycarambat-in-https-g|Support
+  pulling generated documents from API calls]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added PDF attachment support for Grok]]
+- Earlier: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-support-pulling-generated-documents-from-api-calls-by-timothycarambat-in-https-g|Support pulling generated documents from API calls]]
 - Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]]
 <!-- chronolog:end -->
 

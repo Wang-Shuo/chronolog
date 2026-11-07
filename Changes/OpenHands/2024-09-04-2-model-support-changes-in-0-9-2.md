@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5a8b2be72839cb9c855059c4693ac52151f34dbb555bf66e97203f3e6997dfa
+machine_hash: 6bdc77435ac4c4489fdf928381b1fa0d803da7504dae6325915433f0359d45d8
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in 0.9.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama
-  will now show an improved error message when attempting to run unsupported models]]'
 - '[[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes
   in 0.7.3]]'
+- '[[Changes/Superwhisper/2024-09-03-utility-to-download-model-if-not-installed-prompt-on-recording-start|Utility
+  to download model if not installed prompt on recording start]]'
 - '[[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes
   in v0.55.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'

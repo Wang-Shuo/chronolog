@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0876d00541a768e07553cc1ef04f11679a0da204c25953d493fd515a9a60ff7a
+machine_hash: 0dc16bae6bb66a052889c8f8940396e408f754f9b3fe414dc2ac224ff7abc8a3
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Enhanced thinking tokens support
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
-  changes in 0.43.0]]'
 - '[[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat:
   add a flask_context_manager]]'
+- '[[Changes/LM Studio/2025-06-25-stream-tool-call-argument-tokens-to-the-ui-as-they-are-generated|Stream
+  tool call argument tokens to the UI as they are generated]]'
 - '[[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama
   will now limit context length to what the model was trained against to avoid…]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'

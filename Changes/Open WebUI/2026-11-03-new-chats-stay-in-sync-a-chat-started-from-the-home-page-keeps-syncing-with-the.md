@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c5e78b4c265574402f679ab235d281e8ac798d5995a4a108c59aecb34c6911c
+machine_hash: 1db38105af8f1674335393bd70f79c94f643623f2c34dcb287aba4d214c3c8de
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
     keeps syncing…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
-  changes in v2026.10.9]]'
+- '[[Changes/Devin/2026-10-30-network-access-request-outcomes-in-teams|Network Access
+  Request Outcomes in Teams]]'
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
 - '[[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration

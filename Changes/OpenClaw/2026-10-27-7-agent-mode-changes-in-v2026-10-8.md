@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3d88e8a57ca8ca1dc9edbe01da38d29a6299ae722ce0314c99a00150f361fb1
+machine_hash: 463c56c112e47b9b173c57f33c02d8ed7fe231137b76f62cd7c9a488927fbd55
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,8 +65,8 @@ record:
   title: 7 Agent Mode changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
-  Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-agent-builds-custom-nodes-in-nodes|Agent builds custom
+  nodes in Nodes]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning
   Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work

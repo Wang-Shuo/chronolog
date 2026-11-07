@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1092a5e11ad04ee0d7e4f2bf18464f74cab935572f0d12e79ac4f2ef8c20ec30
+machine_hash: 01e9a0f59f69dc43a56ed417a30b1cf328b3e06e2633b3601acc56414d9463bb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
-- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5 Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]
+- Later: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-slack-controls-in-the-sidebar|Slack Controls in the Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

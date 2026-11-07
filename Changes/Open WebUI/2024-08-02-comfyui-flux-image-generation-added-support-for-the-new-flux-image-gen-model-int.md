@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 837a25ce96cab0675d980b2882eae33ab54a0227441c674e66bd3c3f0eb26baa
+machine_hash: cd65b0651517265ac991de5c18b0cc47a398f7865323773e04acc5788c2c5931
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
   title: "**\U0001F579️ ComfyUI Flux Image Generation**"
   type: change
 related_changes:
-- "[[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|\U0001F5BC️
-  Customize Images (Pro and Premier)]]"
 - '[[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI
   image improvements]]'
+- '[[Changes/Raycast/2024-06-06-2-image-generation-changes-in-raycast-macos-v1-1-76-0|2
+  Image Generation changes in Raycast macos-v1 1.76.0]]'
 - '[[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation
   changes in 0.6.12]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'

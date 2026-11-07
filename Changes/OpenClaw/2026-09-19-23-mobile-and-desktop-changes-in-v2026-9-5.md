@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8de28d7f6cd247a9ae77887357ba85c50d96c2adf6c1fc1039046e430cc0d3c
+machine_hash: 2390028af7bc4a3367da11abdc25cd3a6597fada641aa2b43282889c0e346535
 product: openclaw
 product_name: OpenClaw
 record:
@@ -185,10 +185,10 @@ record:
   title: 23 Mobile and Desktop changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites:
-  Choose a template and build a website through conversation]]'
 - '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
   and network sandboxing on Windows are now supported]]'
+- '[[Changes/LM Studio/2026-09-19-mac-added-support-for-the-splash-engine-on-apple-silicon-m3-or-newer-running-mac|Mac
+  Added support for the Splash engine on Apple Silicon M3 or newer running macOS…]]'
 - '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
   macOS app will now no longer reopen windows you''ve closed when activating it]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'

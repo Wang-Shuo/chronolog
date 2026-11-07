@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 43d2ba851d94fecabc3b1d370a3ea04abab46147a12d464e876a59c430f0723d
+machine_hash: 8f31e27ad26bf31f92bf3dbe857bf0e221562bdf058a5de75ecb0e840f16feb6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-28-core-gemini-thinking-defaults-and-effort-options-now-match-the-supported-control|Core
-  Gemini thinking defaults and effort options now match the supported controls…]]'
-- '[[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare
-  AI Gateway models now honor provider response and stream timeouts]]'
+- '[[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati|Extensions
+  can now provide their own AI models to Raycast]]'
+- '[[Changes/Raycast/2026-09-28-extensions-can-now-provide-their-own-ai-models-to-raycast-just-install-a-compati-8e9a5a|Extensions
+  can now provide their own AI models to Raycast]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'

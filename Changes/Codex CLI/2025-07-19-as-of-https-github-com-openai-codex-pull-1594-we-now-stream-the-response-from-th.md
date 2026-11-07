@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8d2412484ff9cc14c7eef917f809752e166c1f8330c84ab68e4954187ac87f24
+machine_hash: 1ef10de28c96e7971deab34e33b25599f5f89dbcd187159d6ec7451416af3168
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: As of https://github.com/openai/codex/pull/1594, we now stream the response…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
-  OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Raycast/2025-07-16-3-model-support-changes-in-raycast-macos-v1-1-101-0|3
+  Model Support changes in Raycast macos-v1 1.101.0]]'
 - '[[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]'
 - '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b2e045e5e0a6bcb03e8cf47f19de6ebba1d6dbd0ed60a89a0d99da2294a57a6
+machine_hash: 3f87cd87b78983645e0495c968dc25a3ddae1faa0856e86ebd2a65cf29962c5b
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,10 @@ record:
   title: '[Gemma](https://ollama.com/library/gemma) is a new, top-performing family…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-14-setting-a-negative-keep-alive-value-e-g-1-will-now-correctly-keep-the-model-load|Setting
-  a negative keep_alive value (e.g. -1) will now correctly keep the model…]]'
 - '[[Changes/Ollama/2024-02-14-ollama-is-now-available-on-windows-in-preview-download-it-here-https-github-com|Ollama
   is now available on Windows in preview]]'
+- '[[Changes/Superwhisper/2024-02-20-cloud-language-model-added-claude-instant-1-2|Cloud
+  language model added (Claude Instant 1.2)]]'
 - '[[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support
   for bert and nomic-bert embedding models]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97|ollama-2024-02-22-v0-1-27-github-143272149-4d2bee97]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 011f4ca64ca416d380bff9eb565a6fe3b30900706758a620beac07f2a5609e52
+machine_hash: 19ba2282bd841919b8405db96ca9a0825743a5149f56078a323dd4776d65e561
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web search timeout errors now tell you the request’s actual time limit]]
-- Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search and Browsing changes in v2.2.0]]
+- Later: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-chore-drop-api-key-fragments-from-web-search-error-messages-by-u00dxk2-in-https|chore: drop API key fragments from web search error messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

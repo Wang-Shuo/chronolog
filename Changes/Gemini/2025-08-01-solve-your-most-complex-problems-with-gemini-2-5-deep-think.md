@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3fe3d28c23fa1175a9a6db21552cf45b55ee63a2bd243d32c07b803adf41e0c9
+machine_hash: 5c63be0f18b84497d90a24f6fb9aa4fdd3e7830474c8e2aad142c3342c586517
 product: gemini
 product_name: Gemini
 record:
@@ -68,8 +68,7 @@ record:
   title: Solve your most complex problems with Gemini 2.5 Deep Think
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
-  changes in v0.1.15]]'
+- '[[Changes/Raycast/2025-07-30-new-ai-experiments|New AI Experiments]]'
 - '[[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes
   in v3.20.3]]'
 - '[[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update

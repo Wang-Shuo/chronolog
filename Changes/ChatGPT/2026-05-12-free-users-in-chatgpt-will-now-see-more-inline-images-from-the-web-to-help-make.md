@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17dfd2d73f8dacd75ff78b750e8001cd1b4490557da67902281f7e0dbb3233e9
+machine_hash: 326b3ed785ff2334d5f426cc132655f751c98940989a7411be6eecd08ffc7c64
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]
-- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2 is not yet supported on Windows/Linux]]
+- Later: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-devin-review-mobile-improvements|Devin Review Mobile Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

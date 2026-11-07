@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a05b9631729bee2d80c6c11749424d1bedc684a3830d47669ea16a8b6ed0f69f
+machine_hash: 12fe49351ba71e9d3afb70844cdbbc139990722fe01b1778b77fc6046f9aff27
 product: v0
 product_name: v0
 record:
@@ -66,10 +66,9 @@ record:
   title: Team chats are easier to discover and collaborate on
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
-- '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
-  changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-sync-to-teams-from-the-webapp|Sync to Teams from the
+  Webapp]]'
+- '[[Changes/Devin/2026-09-09-teams-improvements|Teams Improvements]]'
 - '[[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes
   in 1.17.1]]'
 source_release: '[[Releases/v0/v0-2026-09-10-2026-09-10-3c3f563a|v0-2026-09-10-2026-09-10-3c3f563a]]'
@@ -111,7 +110,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-collaboration-changes-in-1-17-1|3 Collaboration changes in 1.17.1]]
-- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing settings for connections]]
+- Later: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-teams-parity-improvements|Teams Parity Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

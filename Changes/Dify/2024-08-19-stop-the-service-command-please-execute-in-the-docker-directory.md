@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ae972ac724721977d092a7e7366ca34b028d28427703a7e81ec17cdf7c7d8ca
+machine_hash: d58ab827c9ae45ea6afc876e5ec8d6b6f15a28d99b61148062f14fae9e7c2da8
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow
-  changes in 0.6.16]]'
+- '[[Changes/AnythingLLM/2024-08-08-multiple-slash-command-expansion-in-prompts-by-shatfield4|Multiple
+  /slash command expansion in prompts by @shatfield4]]'
 - '[[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer
   Workflow changes in v0.49.0]]'
 - '[[Changes/Dify/2024-08-14-stop-the-service-command-please-execute-in-the-docker-directory|Stop

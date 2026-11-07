@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 88a31d8718947d59de87ebfcca41817dae0f22ff1edd3e61d990007450a6873e
+machine_hash: bb798e23abe13f8878d8aaf5d0e66d6e1d836a65f501ad39962eecf6ffa30242
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
   title: Also adds MCP support, team-configurable blocklists, fixes Composer stuck…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability
-  and Performance changes in v0.71.0]]'
 - '[[Changes/Dify/2025-01-13-these-numerous-bug-fixes-and-enhancements-make-v0-15-1-more-robust-efficient-and|These
   numerous bug fixes and enhancements make v0.15.1 more robust, efficient…]]'
+- '[[Changes/Devin/2025-01-16-solution-for-docker-storage-performance-issues|Solution
+  for Docker storage & performance issues]]'
 - '[[Changes/Open WebUI/2025-01-22-2-reliability-and-performance-changes-in-v0-5-5|2
   Reliability and Performance changes in v0.5.5]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'

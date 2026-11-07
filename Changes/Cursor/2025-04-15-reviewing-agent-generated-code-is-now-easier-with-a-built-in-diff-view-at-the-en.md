@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 245370e6fdd3d26de1a05785f9d4161358b6c2960290b325ea7d87ce7f67429d
+machine_hash: 4a810ca8a8b4722d3c2c735ae38f2da2b5f0f7b72ef3a7252153ec42803cd597
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-04-14 · ElevenLabs · [[Changes/ElevenLabs/2025-04-14-agents-platform-a7909d|Agents Platform]]
-- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress UX]]
+- Later: 2025-04-18 · AnythingLLM · [[Changes/AnythingLLM/2025-04-18-3-agent-mode-changes-in-v1-8-0|3 Agent Mode changes in v1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

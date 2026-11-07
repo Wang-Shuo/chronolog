@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06da5fe351ee705eaefc1dd6bd7d70754f51c78413ae9ecdb0d19a933be91129
+machine_hash: e0319b8ca43ed17dc4574779e1874f3bdf6bdfc61946b1021a2418c775241bc1
 product: openhands
 product_name: OpenHands
 record:
@@ -43,7 +43,7 @@ record:
   title: 2 Interface Experience changes in 0.25.0
   type: change
 related_changes:
-- '[[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]'
+- '[[Changes/LM Studio/2025-02-18-turn-on-in-chat-sidebar|Turn on in chat sidebar]]'
 - "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
   your doc \U0001F440]]"
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.25.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
-- Later: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A new Folders menu is available on both the Create and Organize pages]]
+- Later: 2025-02-19 · Raycast · [[Changes/Raycast/2025-02-19-2-interface-experience-changes-in-raycast-macos-v1-1-92-0|2 Interface Experience changes in Raycast macos-v1 1.92.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

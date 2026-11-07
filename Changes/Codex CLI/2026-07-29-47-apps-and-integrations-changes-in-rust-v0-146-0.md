@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3efd58a31aa141be6222d03e810f36e80bd177d00586a59dd0dfd6aaa24ce969
+machine_hash: 467b641a85c9ff84c9ce7f758936457b103f3a8fd394a41a350bd68eb37bd744
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -282,7 +282,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
-- Later: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2 Apps and Integrations changes in Kimi Code 0.30.0]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-this-release-also-includes-many-smaller-fixes-and-improvements-including-clearer|This release also includes many smaller fixes and improvements, including clearer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43f1fce1a9d2a54f03df3302c5ca9ddc5786de7c332b527d11a74e4ddd127c8b
+machine_hash: 5b5a8645755d9f3a48ee5fc5e7c53e402fbf534c5876fff0d09da38d0e80f57d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     providing…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11706-apps-expose-more-fields-from-apps-listing-endpoints-mzeng-openai|♯11706
-  apps Expose more fields from apps listing endpoints]]'
 - '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
   the Cursor Marketplace]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2
   Apps and Integrations changes in v0.0.411]]'
+- '[[Changes/AnythingLLM/2026-02-18-3-apps-and-integrations-changes-in-v1-11-0|3 Apps
+  and Integrations changes in v1.11.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2 Apps and Integrations changes in v0.0.411]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-3-apps-and-integrations-changes-in-v1-11-0|3 Apps and Integrations changes in v1.11.0]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-3-apps-and-integrations-changes-in-cli-improvements-and-mermaid-ascii|3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 

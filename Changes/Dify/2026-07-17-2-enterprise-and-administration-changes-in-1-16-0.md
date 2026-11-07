@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a46e03ac54cef03a736751d4ddc5a0d1650b5ff3b60f1fbdbfe616402fd21621
+machine_hash: fdafc56218d3fb6e61f1e86ef3328eacf457bd031a594e8e3f56828515c4c606
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Enterprise and Administration changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The
-  Lovable badge returns on your next publish after a downgrade]]'
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Devin/2026-07-15-promote-playbooks-to-your-enterprise|Promote Playbooks
+  to Your Enterprise]]'
+- '[[Changes/Devin/2026-07-15-interactive-acu-chart-legends|Interactive ACU Chart
+  Legends]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins
   can manage access more precisely with support for nested permissions…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

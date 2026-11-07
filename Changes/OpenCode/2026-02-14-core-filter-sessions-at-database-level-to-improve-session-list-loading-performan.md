@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af5bb498907baf5bd2729ee68ceebbe430da5899e9abd86f22cffa14cffe0ce6
+machine_hash: 212b94d1a1485ccf0759396e4b938e3f940444a34c502c1d2ecb3610cf072744
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Core Filter sessions at database level to improve session list loading performance
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
-  improvements]]'
+- '[[Changes/Superwhisper/2026-02-13-whisper-model-stability-improvements|Whisper
+  model stability improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
   memory usage from encoding streaming chunks]]'
 - '[[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2

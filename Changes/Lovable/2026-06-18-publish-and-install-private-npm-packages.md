@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65699727916ba92cdbcb7e8a78d167381df20843948d0344d15b58192ab01014
+machine_hash: 89672ca9d6418fc8a9ae9ad2310604ef2ebab3a8395b7609714ae0020f5e94ac
 product: lovable
 product_name: Lovable
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS connections now support P-521 certificate signatures commonly used by enterprise…]]
-- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-user-only-pr-author-enforcement|"User Only" PR Author Enforcement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

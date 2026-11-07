@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cdfbc53f12ec47a3ed539034357c517cf92f18a04f8ec761a628244169c87bd6
+machine_hash: 1f7ae89e29fa593572cfa6f9697f0f1b6eda9c35315b6e7d9de16ae0bc6b02d6
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: Credentials embedded in git remote URLs are now redacted from the workspace…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
-  changes in v0.11.1]]'
-- '[[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support
-  changes in v1.18.23]]'
+- '[[Changes/Raycast/2026-08-25-2-model-support-changes-in-raycast-windows-2-0|2 Model
+  Support changes in Raycast windows 2.0]]'
+- '[[Changes/Raycast/2026-08-25-to-help-with-the-transition-signing-in-gives-you-a-7-day-free-trial-of-pro-inclu|To
+  help with the transition, signing in gives you a 7 day free trial of Pro…]]'
 - '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 source_release: '[[Releases/Cline/cline-2026-08-26-v4-1-16-github-376988707-45a7fae8|cline-2026-08-26-v4-1-16-github-376988707-45a7fae8]]'

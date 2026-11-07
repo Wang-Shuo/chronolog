@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 888f3f221b82ee4ac4e7aab4411b31763ca9d5000f9efc0d9be7f916efd2f263
+machine_hash: 68e98878dcbd5e6ddd781bfc4b9bb1cfad7487dfbfeb0d528c83e2a18ba4d65d
 product: runway
 product_name: Runway
 record:
@@ -41,10 +41,12 @@ record:
   title: Lip Sync in Gen-2
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
-  audition]]'
-- '[[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]'
-- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
+- '[[Changes/Superwhisper/2024-03-22-faster-voice-activated-improved-realtime-mode-for-all-models|Faster,
+  voice activated improved Realtime mode for all models]]'
+- '[[Changes/Superwhisper/2024-03-22-experimental-turbo-voice-models-with-next-gen-realtime-mode|Experimental
+  Turbo Voice models with next gen Realtime mode]]'
+- '[[Changes/Superwhisper/2024-03-31-add-ultra-cloud-model-to-voice-models|Add Ultra
+  Cloud model to Voice models]]'
 source_release: '[[Releases/Runway/runway-2024-04-16-2024-04-16-lip-sync-in-gen-2-14ebe026|runway-2024-04-16-2024-04-16-lip-sync-in-gen-2-14ebe026]]'
 source_type: runway_changelog
 theme: voice
@@ -71,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]
+- Earlier: 2024-03-31 · Superwhisper · [[Changes/Superwhisper/2024-03-31-add-ultra-cloud-model-to-voice-models|Add Ultra Cloud model to Voice models]]
 - Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
 <!-- chronolog:end -->
 

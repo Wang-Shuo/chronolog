@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 311d711f480e699ed6ef6968d738b28292ebb7cf939fe7f7e90d9bc5aa90de2d
+machine_hash: d6bb1dfb1637257e7b38d7fabd192da52973011952df98cc755024fa78b63215
 product: notion
 product_name: Notion
 record:
@@ -69,10 +69,10 @@ record:
   title: Give AI the context it needs with AI connectors
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
-  Enterprise and Administration changes in v0.3.0]]'
 - '[[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Devin/2025-09-12-enterprise-settings-reorganization|Enterprise Settings
+  reorganization]]'
 - '[[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 source_release: '[[Releases/Notion/notion-2025-09-18-https-www-notion-com-releases-2025-09-18-c029ddc5|notion-2025-09-18-https-www-notion-com-releases-2025-09-18-c029ddc5]]'

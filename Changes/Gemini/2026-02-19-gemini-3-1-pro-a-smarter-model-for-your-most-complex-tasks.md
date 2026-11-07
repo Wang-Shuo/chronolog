@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a48dec9de6fdb58d54aa26a2456541374fe651770250f9b77503378ca47afe36
+machine_hash: 6c7bee9c7369bc03892c0ddf2eba1a125028a318722356126eab99461cdee6a1
 product: gemini
 product_name: Gemini
 record:
@@ -65,8 +65,7 @@ record:
   title: 'Gemini 3.1 Pro: A smarter model for your most complex tasks'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
-  MiniMax-M2.5 model support]]'
+- '[[Changes/Recraft/2026-02-18-visual-taste-at-its-core|Visual taste at its core]]'
 - '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
   changes in v2.1.49]]'
 - '[[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]'

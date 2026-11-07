@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7758d6cd7d01b4ed4dcfefd9b5a482a263359ff1aee2c8c6adef19a99bf9d4c2
+machine_hash: e581b3fd1359203c5e29cbf276b954e7f6d024a146909d8ec926697607acd20e
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Manage scheduled jobs in Lovable Cloud
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
-  Editor Experience changes in v1.0.64]]'
+- '[[Changes/Devin/2026-06-24-pin-unpin-sessions-from-command-palette|Pin/Unpin Sessions
+  from Command Palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
 - '[[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show

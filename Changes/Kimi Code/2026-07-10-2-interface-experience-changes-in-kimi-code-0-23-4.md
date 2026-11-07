@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a40f11ac5f1b4f1bec24d6e81d3f9a756ca5b37fd3210170f83dc0f79ba478c
+machine_hash: 730e31ec27db70e55bb511926da4a8dbc78bc6028ee1bf86931d992b14a1ae2d
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,10 +44,8 @@ record:
   title: 2 Interface Experience changes in Kimi Code 0.23.4
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
-  Interface Experience changes in Side Chats and Conversation Search]]'
-- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
-  and repo pickers]]'
+- '[[Changes/Devin/2026-07-10-streamlined-copy-actions|Streamlined Copy Actions]]'
+- '[[Changes/Devin/2026-07-10-fullscreen-devin-desktop|Fullscreen Devin Desktop]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
   Interface Experience changes in v1.0.70]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-10-0-23-4-eaffeeb0|kimi-code-2026-07-10-0-23-4-eaffeeb0]]'

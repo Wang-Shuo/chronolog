@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33d845aea9c002f92365eb0474112af51dd829163bbcef3958be50b0e8b17496
+machine_hash: 349d13ec741cc849d04f0ca750e849746c8c8fab353b2287c12fb3099726b043
 product: heygen
 product_name: HeyGen
 record:
@@ -52,8 +52,7 @@ record:
   title: A faster, cleaner editing experience
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
+- '[[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]'
 - '[[Changes/HeyGen/2025-11-29-speed-mode-provides-fast-reliable-translation-in-175-languages-accents-and-diale|Speed
   Mode provides fast, reliable translation in 175+ languages, accents, and dialects]]'
 - '[[Changes/HeyGen/2025-11-29-if-you-re-scaling-content-globally-you-now-have-clear-options-speed-when-you-nee|If

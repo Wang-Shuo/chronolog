@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 56f98d2d193d1ffa00d24d24ffa59dc2ede732ca4f46050a309ff870efe96a84
+machine_hash: 9fb6a6e79f5b8fd5ada90749f67f86133556bdb8566f448b19f717be71339fe1
 product: claude
 product_name: Claude
 record:
@@ -75,8 +75,7 @@ record:
   title: Claude in Chrome updates
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
-  docs]]'
+- '[[Changes/Devin/2025-12-12-enterprise-api-v3-enhancements|Enterprise API v3 Enhancements]]'
 - '[[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
   new enterprise instructions]]'

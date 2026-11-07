@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a22c8b148ab78fbe21704749ace9a41f2e74e1a6fa4ec5cc0b9eff4f3b4ffc20
+machine_hash: 10c61535c5ff03af36acb1b283df03fed35deb03c2d090e28771075433eaea4b
 product: descript
 product_name: Descript
 record:
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

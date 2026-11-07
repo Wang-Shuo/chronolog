@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7dce21b7ad86dfc8babe95a2f1b5ca1a38c64dd9ccfe8765d9855d586613f95
+machine_hash: eb359a45f56b5b56888943d79237dd2a24ef825ed5a8dbb432149af9cc06b068
 product: v0
 product_name: v0
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Apps and Integrations changes in Bug fixes and improvements for Dec 9th
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-apps-and-integrations-changes-in-v1-9-1|2 Apps
+  and Integrations changes in v1.9.1]]'
 - '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
   Apps and Integrations changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps

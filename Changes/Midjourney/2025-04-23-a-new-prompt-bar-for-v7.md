@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c2a7ba0e84a5199448d2176a99c9580d936afd7b8b49631d75cdd4fdb290a021
+machine_hash: 7855519ab4ba906ee0d80f4655da8b39fe9021511bbcf6b5258da9cc133fe670
 product: midjourney
 product_name: Midjourney
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider selection]]
-- Later: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio Generation (TTS, S2S, SFX, Voice Design)]]
+- Later: 2025-04-24 · Superwhisper · [[Changes/Superwhisper/2025-04-24-nova-3-voice-model-app-fixes|Nova 3 Voice Model & App Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

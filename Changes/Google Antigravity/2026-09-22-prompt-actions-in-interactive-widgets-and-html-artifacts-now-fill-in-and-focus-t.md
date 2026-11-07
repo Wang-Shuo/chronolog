@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57be677e17d301f85b4875e1e36b8b2f1c996bcb0e84c00ab06c3a29c6602731
+machine_hash: 2409e3e14d1e318eac2d6be2a925c82b065e933efc6f08bc104b2386cc77df47
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In the Sessions tab, rows you can dismiss now take x then x again to confirm]]
-- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-copilot-enhanced-topic-assignment-web-viva-glint|Copilot Enhanced Topic Assignment Web (Viva Glint)]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-bitbucket-data-center-comments-reviewers-and-decline|Bitbucket Data Center: Comments, Reviewers and Decline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

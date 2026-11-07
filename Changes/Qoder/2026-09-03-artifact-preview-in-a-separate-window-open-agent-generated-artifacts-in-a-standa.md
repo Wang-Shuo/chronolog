@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 242eea5c43b85aecd96ab1f6ac2349c3f37f0450f6f97cac61d16d95c213af28
+machine_hash: ae9592e0bf8a4d80d717a5e660b9521d4a0f75d064271272eb1eabd02cc2a6c6
 product: qoder
 product_name: Qoder
 record:

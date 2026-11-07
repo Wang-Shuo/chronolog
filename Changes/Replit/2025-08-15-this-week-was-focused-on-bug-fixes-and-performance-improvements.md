@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e1b0aeb00d7874053021a7302fd077c1126a1e415ff5c6a5e79199a99b047df
+machine_hash: 6dd17fb6cfbd06bc4b65a68cf0e63f365deca6b8bda48f36b3bf806bd54fe214
 product: replit
 product_name: Replit
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2 Reliability and Performance changes in v0.11.5]]
-- Later: 2025-08-20 · ElevenLabs · [[Changes/ElevenLabs/2025-08-20-global-tts-api-preview|Global TTS API preview]]
+- Later: 2025-08-16 · Devin · [[Changes/Devin/2025-08-16-various-reliability-performance-and-usability-improvements-across-the-app|Various reliability, performance, and usability improvements across the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

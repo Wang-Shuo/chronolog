@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd19caaa076cf50318d5f4a46cb0a44fa0f3e5108353301fe7484ca5028396ee
+machine_hash: a12734219447dac6c8ed58b4188f2da05e634e652dd09f4f4e104bffd7790aad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,9 @@ record:
   title: Disable chat history on iOS
   type: change
 related_changes:
-- '[[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made
-  updates to the mobile search experience that improved load times]]'
 - "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
   \U0001F973]]"
+- '[[Changes/Raycast/2023-03-29-history|History]]'
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
   app for iOS in more countries]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earlier: 2023-03-29 · Raycast · [[Changes/Raycast/2023-03-29-history|History]]
 - Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT makes two updates to the mobile ChatGPT app]]
 <!-- chronolog:end -->
 

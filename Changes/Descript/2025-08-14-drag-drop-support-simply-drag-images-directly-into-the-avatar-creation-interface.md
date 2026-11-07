@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dfa2256981182f59bc3bbc805756bbe023224bb8eab3680226db690f4d1401eb
+machine_hash: be489af6a4e16d6bc6fae74d4c203495a56daf2ae6c15b9d96b6ece47e7c7cab
 product: descript
 product_name: Descript
 record:
@@ -45,8 +45,9 @@ record:
   title: '**Drag & drop support** - Simply drag images directly into the avatar creation…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-visual-edits-v2|Visual edits v2]]'
 - '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
+- '[[Changes/Devin/2025-08-12-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
   Reliability and Performance changes in v0.1.19]]'
 source_release: '[[Releases/Descript/descript-2025-08-14-689cc1a7b085b5834e3bf896-ac84359e|descript-2025-08-14-689cc1a7b085b5834e3bf896-ac84359e]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b3e483c474b1c9e78994b868cebe1a13be7b4eb4f8724abab145e80966b2df5
+machine_hash: 383380fdff19eedcd747613aead9324c7c71fe310c8be29c76e4ea14475c173d
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,11 @@ record:
     for audio…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
-  Updates]]'
-- '[[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice
-  delivery controls]]'
 - '[[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI
   integrations]]'
+- '[[Changes/Superwhisper/2026-01-23-new-parakeet-realtime|New Parakeet Realtime]]'
+- '[[Changes/Superwhisper/2026-01-23-system-audio-and-meeting-mode-can-now-be-configured-from-organization-settings|System
+  audio and meeting mode can now be configured from organization settings]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-25-v1-1-35-267f5a19|opencode-2026-01-25-v1-1-35-267f5a19]]'
 source_type: opencode_changelog
 theme: voice
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
+- Earlier: 2026-01-23 · Superwhisper · [[Changes/Superwhisper/2026-01-23-system-audio-and-meeting-mode-can-now-be-configured-from-organization-settings|System audio and meeting mode can now be configured from organization settings]]
 - Later: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
 <!-- chronolog:end -->
 

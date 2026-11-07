@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30ff47ab59d4465a602e0f8655c710c36552ef0fa0c7874d110dd681ad306cac
+machine_hash: ef16bcef6b70dec6eb4dde135c4636a3f05998944a92e8547a73a3722efb84cc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,9 @@ record:
   title: 3 Developer Workflow changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4
-  Developer Workflow changes in v1.0.14]]'
-- '[[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer
-  Workflow changes in v1.3.12 + 2]]'
-- '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
-  Workflow changes in v2.1.89]]'
+- '[[Changes/Devin/2026-04-01-pr-resuming|PR Resuming]]'
+- '[[Changes/Devin/2026-04-01-bash-syntax-highlighting|Bash Syntax Highlighting]]'
+- '[[Changes/Devin/2026-04-01-streaming-terminals|Streaming Terminals]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer Workflow changes in v2.1.89]]
+- Earlier: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-streaming-terminals|Streaming Terminals]]
 - Later: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-2-developer-workflow-changes-in-v1-0-15|2 Developer Workflow changes in v1.0.15]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 393267ddf0a6b774b1d6f758dda7e6a42f1e40d44dfd510810da2c27a4476129
+machine_hash: d7f138d6ffdf272ab82b98698f129b1047118eb806458f4eac07229a5b165ccf
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,10 +57,10 @@ record:
   title: 3 Search and Browsing changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed
-  the interactive session''s WebSearch budget to refill over time (100 calls/hour]]'
-- '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
-  Search and Browsing changes in rust-v0.161.0]]'
+- '[[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search|Custom
+  AI Providers]]'
+- '[[Changes/Raycast/2026-10-09-custom-ai-providers-you-can-now-give-custom-provider-models-raycast-s-web-search-a80f41|Custom
+  AI Providers]]'
 - '[[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search
   and Browsing changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 77045763f62f2321b6110bf7d35759db29a4f52d7774407c845988ca885e1e8a
+machine_hash: 2f12631534065bcba081323b2b728a8bfc94f9ad3dc5ce809cfa57bbfacc456b
 product: lovable
 product_name: Lovable
 record:
@@ -47,7 +47,8 @@ record:
   title: Bulk management of workspace members
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Devin/2026-03-11-idp-groups-in-enterprise-settings|IdP Groups in Enterprise
+  Settings]]'
 - '[[Changes/Claude Code/2026-03-14-added-session-quality-survey-enterprise-admins-can-configure-the-sample-rate-via|Added
   session quality survey]]'
 - '[[Changes/Lovable/2026-03-16-audit-logs|Audit logs]]'

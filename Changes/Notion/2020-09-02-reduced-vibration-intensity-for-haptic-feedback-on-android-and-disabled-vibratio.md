@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfdff3006cd9c64d3f01a063cce6cef68710a135b921f2f3d1489666365fc4c4
+machine_hash: 21cfdff7d2947592e365876249c793fbdec421f58dd883bece60e4a5e02d493e
 product: notion
 product_name: Notion
 record:
@@ -43,12 +43,11 @@ record:
     vibration…
   type: change
 related_changes:
-- '[[Changes/Notion/2020-05-13-7-mobile-and-desktop-changes-in-faster-mobile-start-up-time|7
-  Mobile and Desktop changes in Faster mobile start up time]]'
 - "[[Changes/Notion/2020-05-28-better-emoji-support-on-windows-and-android-we-used-to-rely-on-your-system-font|Better
   emoji support on Windows and Android \U0001F648 We used to rely on your system font…]]"
 - "[[Changes/Notion/2020-06-09-2-mobile-and-desktop-changes-in-inline-math|2 Mobile
   and Desktop changes in Inline math \U0001F9EE]]"
+- '[[Changes/Raycast/2020-08-03-system-commands|System Commands]]'
 source_release: '[[Releases/Notion/notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b|notion-2020-09-02-https-www-notion-com-releases-2020-09-02-e355590b]]'
 source_type: notion_changelog
 theme: mobile-desktop
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2020-06-09 · Notion · [[Changes/Notion/2020-06-09-2-mobile-and-desktop-changes-in-inline-math|2 Mobile and Desktop changes in Inline math 🧮]]
+- Earlier: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-system-commands|System Commands]]
 - Later: 2020-09-17 · Notion · [[Changes/Notion/2020-09-17-shift-return-is-now-supported-on-ipad-use-this-to-create-a-line-break-within-the|Shift + return is now supported on iPad!]]
 <!-- chronolog:end -->
 

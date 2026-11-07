@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81e71ad95acd53bdf5ef04e6a988512e126ff6ab4e34370272376397bc729442
+machine_hash: 016faab8ddf2b1ad7bc2bc5b90962cdf84ff9fe2ae6c8e63d2dbeb299bdfc425
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-accessibility-mode-reaches-the-menus-accessibility-mode-now-marks-the-menu-entry|♿
-  Accessibility mode reaches the menus. Accessibility mode now marks the menu…]]'
 - '[[Changes/Open WebUI/2026-08-31-3-interface-experience-changes-in-v0-11-2|3 Interface
   Experience changes in v0.11.2]]'
+- '[[Changes/Raycast/2026-08-31-2-interface-experience-changes-in-raycast-ios-1-3-6|2
+  Interface Experience changes in Raycast ios 1.3.6]]'
 - '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
   Experience changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]]
-- Later: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty project groups no longer show in the sidebar]]
+- Later: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-open-docs-pages-in-chatgpt-claude-or-perplexity|Open docs pages in ChatGPT, Claude, or Perplexity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

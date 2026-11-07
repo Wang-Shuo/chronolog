@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a63016a6826fab9d1863b7b06231dd981b53d6d24f48bf0ba3464e453a6b196
+machine_hash: 9cdd3acf90c53ec1f6cac6c377ae1173f89150f3b15c5c93156947d26ca67dfa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux 2 Pro now available for image generation]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-4-image-generation-changes-in-v0-6-42|4 Image Generation changes in v0.6.42]]
+- Later: 2025-12-20 · Recraft · [[Changes/Recraft/2025-12-20-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d6d13639f0dd05dae2f167dd16cb415270ac1976ca9fcae3e897cb72405d4f4
+machine_hash: c78ffbaa30aee64c9299cef4a59475b33459d27eed5c663ee88b4a51985329cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,10 +79,10 @@ record:
   title: 19 Agent Mode changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
-  Agent Mode changes in Build programmatic agents…]]'
 - '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
   1.14.0]]'
+- '[[Changes/Superwhisper/2026-04-29-added-support-for-pi-coding-agent|Added support
+  for Pi coding agent]]'
 - '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases

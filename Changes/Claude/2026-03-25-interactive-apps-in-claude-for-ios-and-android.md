@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c7ccc844f61501232ff6a183884e1a66585d18020fbaab3b62d5b2377f7b67f
+machine_hash: fd1d1cfbd2aff0bae83468d5945a9c17405097ce44557c4fa96209297586550c
 product: claude
 product_name: Claude
 record:
@@ -57,7 +57,8 @@ record:
   title: Interactive apps in Claude for iOS and Android
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
+- '[[Changes/Raycast/2026-03-23-raycast-on-windows-now-supports-quick-look|Raycast
+  on Windows now supports Quick Look!]]'
 - '[[Changes/Microsoft 365 Copilot/2026-03-24-scatter-image-effect-android-windows-ios-mac-web-microsoft-365-copilot-app|Scatter
   image effect Android, Windows, iOS, Mac, Web (Microsoft 365 Copilot app)]]'
 - '[[Changes/Microsoft 365 Copilot/2026-03-24-delegate-calendar-search-in-microsoft-365-copilot-android-windows-ios-mac-web-mi|Delegate

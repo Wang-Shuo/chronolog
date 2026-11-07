@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 221f705b58c88bd6ee7576840f6531f498e9711a94e8a18096c4c5039e8aa78c
+machine_hash: 432492a1fbb956e83b2467fc838a4af94fe630b19e61c270f1909316f74b905d
 product: lovable
 product_name: Lovable
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-enterprise-and-administration-changes-in-1-12-0|2 Enterprise and Administration changes in 1.12.0]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-enterprise-admin-requirements-can-now-restrict-web-search-modes-and-define-netwo|Enterprise/admin requirements can now restrict web search modes and define network…]]
+- Later: 2026-02-06 · Devin · [[Changes/Devin/2026-02-06-enterprise-organization-selection|Enterprise Organization Selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

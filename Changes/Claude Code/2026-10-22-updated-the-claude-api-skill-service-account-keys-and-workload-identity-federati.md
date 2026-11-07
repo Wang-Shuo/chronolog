@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50950b82cee5e1dd2d3fc2d42bf69735df805af6e877fe5d847d41c8d16ce7ed
+machine_hash: cc36a7ff5ba166bdb4e7fac9141187423b6c00b15aa7ff158663f88e6f231a2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Updated the /claude-api skill
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open
-  + → MCPs in the chat composer, choose Slack , and connect your workspace]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
   only reasoning effort no longer forces compaction in over-budget sessions]]'
+- '[[Changes/Krea/2026-10-20-agent-picks-up-context-from-your-past-sessions|Agent
+  picks up context from your past sessions]]'
 - '[[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source
   link) brings Recursive''s coding model to Ollama]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

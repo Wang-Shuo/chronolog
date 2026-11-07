@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa49c748b9f1e048abb4ef9738b90fb87d2ff3f5b8142903479449cacc6eb838
+machine_hash: 72fc3453594059b89e7720000e3b53840e025c7f1db994b8c405f948855e9a83
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account and Access changes in v2026.9.3]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account and Access changes in v2.1.268]]
+- Later: 2026-09-09 · LM Studio · [[Changes/LM Studio/2026-09-09-improved-sign-in-reliability|Improved sign-in reliability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

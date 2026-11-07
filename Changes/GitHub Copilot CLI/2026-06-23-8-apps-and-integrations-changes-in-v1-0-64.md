@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae64afe4cb276b63353dc2d1e126476fc0bdf200b79099f4c1cb3295f4f751ff
+machine_hash: 899ae58b8289e2c7217dda50ad39cdef147c780f034fc6378730348014de4283
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 8 Apps and Integrations changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido
-  penetration testing is now available on all plans]]'
+- '[[Changes/Raycast/2026-06-22-ai-tool-calling-in-chat-with-local-and-custom-mcp-tools|AI:
+  Tool calling in chat with local and custom MCP tools]]'
 - '[[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate
   work to Claude in Slack with Claude Tag]]'
 - '[[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2

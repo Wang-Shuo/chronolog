@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9a630e608e49987b110afcd2ac84d21052416717e72e7fec3fba246dfb638f3d
+machine_hash: 3a9b98f7578f6813670ac22f9f991c60c62c9a853bdb08fb3c7da566b45b40ca
 product: cline
 product_name: Cline
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience changes in v0.47.0]]
-- Later: 2024-08-01 · Cline · [[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows diff view of new or edited files right in the editor]]
+- Later: 2024-07-31 · Raycast · [[Changes/Raycast/2024-07-31-window-layout-improvements|Window Layout Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

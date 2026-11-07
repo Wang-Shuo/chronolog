@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce2e5d8754de7e842a9cdce0f83fe3680d81aa74286a9ecde724ddc632bc01ca
+machine_hash: d3c98486213f6212368b91d152f9994aa36caeb4111dc9e9f34db10c3b79a1b4
 product: ollama
 product_name: Ollama
 record:
@@ -41,10 +41,10 @@ record:
   title: Ollama will now import GGUF files faster by minimizing file copies
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance
-  improvements for repo map calculation]]'
 - '[[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama
   will now provide an error instead of crashing on Windows when running models…]]'
+- '[[Changes/Superwhisper/2024-08-12-faster-history-window-load-time|Faster history
+  window load time]]'
 - '[[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper
   is more robust if page never idles]]'
 source_release: '[[Releases/Ollama/ollama-2024-08-13-v0-3-6-github-170052645-0cbb2851|ollama-2024-08-13-v0-3-6-github-170052645-0cbb2851]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ccd37812837b0bcb1f1a0698a82aa157b46e07251c4da3dae5eb805ebfb67fdf
+machine_hash: 6b6ebd3076e9d8a09f0aa0c3bb637069a132cf110c86c4af66b2027f54f698ae
 product: gemini
 product_name: Gemini
 record:
@@ -58,10 +58,10 @@ record:
   title: Update to 2.0 Flash in Gemini
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-04-17-try-our-2-5-flash-experimental-model|Try our 2.5 Flash
-  (experimental) model]]'
 - '[[Changes/Ollama/2025-04-17-deepcoder-https-ollama-com-library-deepcoder-a-fully-open-source-14b-coder-model|DeepCoder((source
   link) a fully open-Source 14B coder…]]'
+- '[[Changes/AnythingLLM/2025-04-18-4-model-support-changes-in-v1-8-0|4 Model Support
+  changes in v1.8.0]]'
 - '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
   in v3.13.0]]'
 source_release: '[[Releases/Gemini/gemini-2025-04-19-2025-04-19-494e83fd|gemini-2025-04-19-2025-04-19-494e83fd]]'

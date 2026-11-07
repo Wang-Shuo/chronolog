@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0b794de5b5bd1e2dd5d154105134b29e5317c9f81a6ede4af5b36b1fcaee0ac
+machine_hash: 292057e21366edfead1b699702e08963d632d728dd135ad4598824f5032400e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
   title: Image generation update to ChatGPT Free
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney
-  V7 image generation is now ~40% faster!]]'
-- "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
-  Better Handling & Storage of Interpreter-Generated Images]]"
+- '[[Changes/Raycast/2025-06-17-ai-you-can-choose-with-image-generation-tool-to-use-in-chat-settings|AI:
+  You can choose with image generation tool to use in chat settings]]'
+- '[[Changes/Recraft/2025-07-09-recraft-now-supports-the-model-context-protocol-letting-you-generate-images-dire|Recraft
+  now supports the Model Context Protocol, letting you generate images…]]'
 - '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
   week’s updates are all about giving you more control, more capabilities…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923|chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This week’s updates are all about giving you more control, more capabilities…]]
-- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full rollout]]
+- Later: 2025-08-08 · Recraft · [[Changes/Recraft/2025-08-08-we-ve-added-a-new-batch-of-b200-gpus-making-image-generation-in-recraft-up-to-2|2× faster image generation, 3× faster upscale]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

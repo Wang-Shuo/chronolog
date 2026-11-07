@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1be4ac2b8f32c4cce4e7d8d44ea181b345e60f52b111e2bb82e92da3cc23ab38
+machine_hash: af8bc24861431c12fd5c6e18b41efe7b07e92ee4f0d1e385f0a5fd1462cf7766
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,13 @@ record:
   title: 3 Interface Experience changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
-  now changes the model for the current session only]]'
 - '[[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App
   creation and onboarding]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
   Interface Experience changes in v1.0.49]]'
+- "[[Changes/Raycast/2026-05-19-the-next-generation-of-raycast-is-here-a-new-foundation-redesigned-from-the-insi|The
+  next generation of Raycast is here \U0001F389 A new foundation, redesigned from
+  the inside out]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3 Interface Experience changes in v1.0.49]]
+- Earlier: 2026-05-19 · Raycast · [[Changes/Raycast/2026-05-19-the-next-generation-of-raycast-is-here-a-new-foundation-redesigned-from-the-insi|The next generation of Raycast is here 🎉 A new foundation, redesigned from the inside out]]
 - Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface Experience changes in v1.15.6]]
 <!-- chronolog:end -->
 

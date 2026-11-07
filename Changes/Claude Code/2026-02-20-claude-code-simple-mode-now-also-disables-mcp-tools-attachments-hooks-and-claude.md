@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1401583d18c3f8b991594837aac4bee05f635ceb179995e5990f60ae18e3afd
+machine_hash: 7924775dea08eaa41c2ec152403710988e950a0da24ed8e59414b3f3a17a7c97
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
-  launch integration will now always show the model picker]]'
-- '[[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps
-  and Integrations changes in v1.2.7]]'
 - '[[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal
   Add custom tool and MCP call responses that are visible and collapsible]]'
+- '[[Changes/Raycast/2026-02-19-2-apps-and-integrations-changes-in-raycast-windows-0-46|2
+  Apps and Integrations changes in Raycast windows 0.46]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-here-capture-thoughts-instantly-without-switching-apps-think-it|Raycast
+  Notes is here!]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal Add custom tool and MCP call responses that are visible and collapsible]]
+- Earlier: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-raycast-notes-is-here-capture-thoughts-instantly-without-switching-apps-think-it|Raycast Notes is here!]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
 <!-- chronolog:end -->
 

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-26 · Accessibility and Localization: **\U00
   Globalization Enhancements**: Updates to internationalization (i18n) support, further
   refining…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 411
+  lag_days: 1437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 68ca33d68f1b3f334dbf7ffebab2a04d34b5c2f7e5b04c7eff32491db1a59017
+machine_hash: 540c2cbf719e327a22999e87ded6ba003c6603243c7648fc283625a35cd25e81
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: "**\U0001F310 Globalization Enhancements**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-added-english-versions-for-customizable-model-scale-documentation-to-broaden-acc|Added
-  English versions for customizable model scale documentation to broaden…]]'
 - "[[Changes/Open WebUI/2024-10-07-enhanced-accessibility-for-floating-buttons-implemented-the-ability-to-close-flo|\U0001F527
   Enhanced Accessibility for Floating Buttons]]"
+- '[[Changes/LM Studio/2024-10-22-2-accessibility-and-localization-changes-in-lm-studio-0-3-5|2
+  Accessibility and Localization changes in LM Studio 0.3.5]]'
 - "[[Changes/Open WebUI/2024-10-26-new-language-support-introduced-hungarian-translations-and-updated-french-transl|\U0001F30D
   New Language Support]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4|open-webui-2024-10-26-v0-3-34-github-182069894-6839b1c4]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

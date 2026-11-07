@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d103fe68827a0c88aeeac7ff8f8f41abae613e75bcf16f6b1feb0e68fe436be
+machine_hash: c11ce3f7ac4877e3b28daaa9b03d2407423fc8a8e876f606fa4a9e35aa7d4014
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +45,11 @@ record:
     lines…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-2-editor-experience-changes-in-v2-2-2|2 Editor Experience
-  changes in v2.2.2]]'
-- '[[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and
-  Annotations]]'
 - '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
   Experience changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-rendered-previews-for-markdown-and-patch-files-from-devin-s-machine|Rendered
+  Previews for Markdown and Patch Files from Devin''s Machine]]'
+- '[[Changes/Devin/2026-10-30-files-tab-improvements|Files Tab Improvements]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Earlier: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-files-tab-improvements|Files Tab Improvements]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41fc3bb313b50b3e1429dc4eddb7142ecceaff4d019f82da05cfccec23921178
+machine_hash: c38a43acceb7285e1e516a1b50a477431e1d933d367b2dd8d379bafb3c591ee0
 product: dify
 product_name: Dify
 record:
@@ -44,11 +44,11 @@ record:
   title: '**TTS Streaming Config**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
-  Audio changes in v0.3.6]]'
 - '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
   Input is now available to everyone, including those with free accounts!]]'
 - '[[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]'
+- '[[Changes/Superwhisper/2024-07-09-deepgram-realtime-speaker-separation-system-audio|Deepgram
+  realtime speaker separation & system audio]]'
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
 source_type: github_releases
 theme: voice
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]
+- Earlier: 2024-07-09 · Superwhisper · [[Changes/Superwhisper/2024-07-09-deepgram-realtime-speaker-separation-system-audio|Deepgram realtime speaker separation & system audio]]
 - Later: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation w/ dubbing is now in Beta]]
 <!-- chronolog:end -->
 

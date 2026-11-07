@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acc39cb365166e158a399412b73b65b0ff9c839789c7899ddae2f5f85429ae7c
+machine_hash: c3d781a94c4112f448b87e23738b860b397a33d05142894c2610374dac8b976c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-memory-show-displays-documentation-links-for-learning-about-and-managing-copilot|/memory show displays documentation links for learning about and managing Copilot Memory]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915 3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]
+- Later: 2026-05-26 · AnythingLLM · [[Changes/AnythingLLM/2026-05-26-10-memory-and-personalization-changes-in-v1-13-0|10 Memory and Personalization changes in v1.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef9b685ad9683afe2e45a5f9a7ed45934668747221b8ca7ee6d38b2734076b1c
+machine_hash: add4a5c492109e107ce6dad5b5748af1d9927dc2ec81e1da332acdf0f9edfcf1
 product: cline
 product_name: Cline
 record:
@@ -53,12 +53,12 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with-d2d830|Add
-  support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]'
 - "[[Changes/Open WebUI/2025-05-28-localization-translation-enhancements-improved-and-expanded-simplified-tradition|\U0001F30D
   Localization & Translation Enhancements]]"
 - '[[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window
   changes in v0.84.0]]'
+- '[[Changes/AnythingLLM/2025-06-10-automatic-context-window-detection-by-timothycarambat-in-https-github-com-mintpl|Automatic
+  Context window detection]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'
 source_type: github_releases
 theme: context-window
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-context-window-changes-in-v0-84-0|2 Context Window changes in v0.84.0]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-automatic-context-window-detection-by-timothycarambat-in-https-github-com-mintpl|Automatic Context window detection]]
 - Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-refactor-replaces-direct-db-session-usage-with-context-managers-by-laipz8200-in|refactor: Replaces direct DB session usage with context managers]]
 <!-- chronolog:end -->
 

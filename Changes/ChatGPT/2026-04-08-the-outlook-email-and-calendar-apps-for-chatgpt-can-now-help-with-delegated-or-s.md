@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 665541465e990dd82ed518eeb618844bbc8664ef75fc7e63868b85877b00ffab
+machine_hash: 5d4ef34f198c5ccbc117d62bd7dba24c755034d3a924aeaae467bcb17af6a116
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-code-interpreter-now-works-on-files-found-via-chat-search-microsoft-365-copilot|Code interpreter now works on files found via Chat search…]]
-- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2 Search and Browsing changes in rust-v0.120.0]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-browser-tool-parity-improvements|Browser Tool Parity Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

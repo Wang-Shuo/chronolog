@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4cf4adc93d4f32ae0f206834b7924dabaae8ea9c154abf5b01c3cee4e0d08c4d
+machine_hash: ea990ce6a8bf4e79cddbb2ed4cd6931186c65ec7cf77d6b8972277200547a427
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents can now search past conversations and use chat history as context]]
-- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context Window changes in rust-v0.104.0]]
+- Later: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-2-context-window-changes-in-v1-11-0|2 Context Window changes in v1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

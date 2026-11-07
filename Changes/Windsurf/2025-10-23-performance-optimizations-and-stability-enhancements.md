@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b4cae216743500db33d04543116711d2c862d97f8f81704128e80e4f6d7aa79
+machine_hash: 1971a9f787091179ef77ddf4ea9c21f4b3129d54150861f3b41a2c9b5de1e7c1
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,8 +40,8 @@ record:
   title: Performance optimizations and stability enhancements
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made
-  improvements to the memory footprint of Copilot CLI, especially when dealing…]]'
+- '[[Changes/Superwhisper/2025-10-22-parakeet-vocabulary-scrollbars-in-settings-stability-improvements|Parakeet
+  Vocabulary, Scrollbars in settings, Stability improvements]]'
 - '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
   work: Upload notes, proposals, and contracts so collaborators can draft…]]'
 - '[[Changes/Codex CLI/2025-10-23-chore-ci-speed-up-macos-builds-by-using-larger-runner-by-javisoto-in-https-githu|chore(ci):

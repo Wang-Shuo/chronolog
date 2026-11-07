@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: a99e073ce5d04b2e7ea1ae84963a57532244ad5a29ad23b8074f0f8a5bfd4b9e
+machine_hash: 89b107c620e6bfa4a92975855265aa3bd214525f493c3674287e652910456c09
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,10 @@ record:
   title: White Glove Sunset Update
   type: change
 related_changes:
-- '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
-  Alpha has better audio quality and increased expressiveness among other heavily…]]'
 - '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
   audition]]'
+- '[[Changes/Superwhisper/2024-03-01-unload-local-voice-model-after-1-minute-of-no-use-time-delay-is-configurable|Unload
+  local voice model after 1 minute of no use, time delay is configurable]]'
 - '[[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]'
 source_release: '[[Releases/Descript/descript-2024-03-04-65e60ab1e3ea7de031601850-e6977776|descript-2024-03-04-65e60ab1e3ea7de031601850-e6977776]]'
 source_type: canny_changelog
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice audition]]
-- Later: 2024-04-16 · Runway · [[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip Sync in Gen-2]]
+- Earlier: 2024-03-01 · Superwhisper · [[Changes/Superwhisper/2024-03-01-unload-local-voice-model-after-1-minute-of-no-use-time-delay-is-configurable|Unload local voice model after 1 minute of no use, time delay is configurable]]
+- Later: 2024-03-22 · Superwhisper · [[Changes/Superwhisper/2024-03-22-faster-voice-activated-improved-realtime-mode-for-all-models|Faster, voice activated improved Realtime mode for all models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

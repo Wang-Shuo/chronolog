@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 167aa082c970bed6d031afec2689e25eba01473bab118ebaeaab7cbd48a7b574
+machine_hash: 52b721222f662e4de6cd4bb280b4c0daa12c3c8c55acb889b2cb9821673fc930
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,11 @@ record:
   title: Set up Entra ID single sign-on from the Microsoft app gallery
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
-  History for macOS]]'
-- '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
-  policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]'
 - '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
   the GitHub app setup tip to no longer appear in repositories whose origin…]]'
+- '[[Changes/Devin/2026-08-14-auto-scan-schedules-api|Auto-Scan Schedules API]]'
+- '[[Changes/Devin/2026-08-14-devin-local-on-by-default-for-enterprise|Devin Local
+  On by Default for Enterprise]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-14-2026-08-14-e5550355|lovable-2026-08-14-2026-08-14-e5550355]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed the GitHub app setup tip to no longer appear in repositories whose origin…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-devin-local-on-by-default-for-enterprise|Devin Local On by Default for Enterprise]]
 - Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-admin-api-available-in-beta|Admin API available in beta]]
 <!-- chronolog:end -->
 

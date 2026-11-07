@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b94982dc0628c884f8f63883865bda110a6c57a33f1c88f17e8e4036a2457c9
+machine_hash: 2f2d5492632c4eea13e1f2b020572cc7c37acfbbe0f49d0acd235ddb88e1992f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-10-29 · OpenHands · [[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety and Privacy changes in 0.60.0]]
-- Later: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-3-safety-and-privacy-changes-in-rust-v0-54-0|3 Safety and Privacy changes in rust-v0.54.0]]
+- Later: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-keyboard-privacy-statement-accessible-from-settings-in-the-app|Keyboard: Privacy statement, accessible from settings in the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

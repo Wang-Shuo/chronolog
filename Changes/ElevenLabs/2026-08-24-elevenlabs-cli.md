@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 802c9907a647ebf1693255aa93664c4c23d902c5bce299cd86d7ec7367ef30a4
+machine_hash: 25c834ef2395c40318cc67914363e62422fd3c280bb160b954004db2e19fc5f5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,8 +49,7 @@ record:
   title: ElevenLabs CLI
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
-  the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Devin/2026-08-21-new-v3-scan-api-endpoints|New v3 Scan API Endpoints]]'
 - '[[Changes/Midjourney/2026-08-21-editor|Editor]]'
 - '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
   task completion telemetry for interactive sessions]]'

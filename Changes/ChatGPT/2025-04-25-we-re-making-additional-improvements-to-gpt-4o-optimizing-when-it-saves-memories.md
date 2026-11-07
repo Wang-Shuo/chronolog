@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae6a4d49dd08405d51074dd950ad9b8dd19dfeb6b82e3d573b1a4aac592a44c0
+machine_hash: e83e53e319b9389abebe8d5ca62b6e26e6728a55a7f16da0d209ea916ade03c0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,11 @@ record:
   title: Improvements to GPT-4o
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in
-  Gemini]]'
-- '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
-  in 1.3.0]]'
 - '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
   in v3.13.2]]'
+- '[[Changes/LM Studio/2025-04-24-support-for-glm4-models|Support for GLM4 models]]'
+- '[[Changes/LM Studio/2025-04-24-5-model-support-changes-in-lm-studio-0-3-15|5 Model
+  Support changes in LM Studio 0.3.15]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes in v3.13.2]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-5-model-support-changes-in-lm-studio-0-3-15|5 Model Support changes in LM Studio 0.3.15]]
 - Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add prompt caching to gemini models in cline / openrouter providers]]
 <!-- chronolog:end -->
 

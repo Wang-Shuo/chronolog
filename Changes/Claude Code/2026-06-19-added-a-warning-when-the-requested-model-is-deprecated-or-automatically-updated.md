@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 16f253c4e8cc580100214c0e7522a73632fdc9db684605c73edcc0e9a89bd9cb
+machine_hash: 9e5f21e1e33bbb911c751e573fc96392a15023b87559cdc4a56b30a1832eacf2
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: Added a warning when the requested model is deprecated or automatically updated…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
-  A and North family models now run on Apple Silicon with the MLX engine]]'
-- '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
-  send to choose a model]]'
-- '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
-  ai model mapping fix]]'
+- '[[Changes/Raycast/2026-06-18-during-the-beta-phase-all-testers-get-free-access-to-ai-chat-with-the-gpt-5-4-mi|During
+  the Beta phase, all testers get free access to AI Chat with the GPT 5.4 Mini model]]'
+- '[[Changes/Raycast/2026-06-18-ai-all-ai-modes-now-show-their-details-in-model-switchers-and-models-not-availab|AI
+  : All AI Modes now show their details in model switchers and models not available…]]'
+- '[[Changes/Raycast/2026-06-18-ai-all-ai-modes-now-show-their-details-in-model-switchers-and-models-not-availab-ee4a0b|AI
+  : All AI Modes now show their details in model switchers and models not available…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: model-support
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex ai model mapping fix]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed the Enhance Prompt button from the composer, since the models ask clarifying…]]
+- Earlier: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-ai-all-ai-modes-now-show-their-details-in-model-switchers-and-models-not-availab-ee4a0b|AI : All AI Modes now show their details in model switchers and models not available…]]
+- Later: 2026-06-19 · Recraft · [[Changes/Recraft/2026-06-19-recraft-v4-1-models-now-generate-twice-as-fast-in-as-little-as-6-seconds-v4-1-pr|Faster generations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

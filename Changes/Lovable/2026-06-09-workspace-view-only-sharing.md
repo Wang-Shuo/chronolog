@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4f48daf01060e046d99ed111b423f09e4df2d6e2b285a32c5e8b4087eed617a0
+machine_hash: b92e8128181ad27c17d69dbea45d815d4019a729d7966bf328c6faa2a28899ab
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Workspace view-only sharing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
-  changes in rust-v0.137.0]]'
+- '[[Changes/Raycast/2026-06-04-teams-share-ai-commands-with-your-whole-team-cb10ee|Teams:
+  Share AI Commands with your whole team]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
   the Mission Control sharing status of synced sessions in the /session info view]]'
 - '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in collaborative workspaces]]
-- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]
+- Later: 2026-06-09 · Superwhisper · [[Changes/Superwhisper/2026-06-09-added-stat-share-card-feature|Added Stat share card feature]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

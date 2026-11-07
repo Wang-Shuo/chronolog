@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e77711d688cb43128153f85aa9051c534f2415cab02539b2034f020f26fa9c2
+machine_hash: c858445fec6e9fc9111f129f1c885ee08fc35dfe660e3dccd488d895f004d279
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -53,9 +53,10 @@ record:
   title: Add an all-sessions picker view with name search, paginated browsing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2
-  Search and Browsing changes in v1.0.61]]'
-- '[[Changes/Descript/2026-06-11-descript-api-cli-v0-11-0|Descript API CLI v0.11.0]]'
+- '[[Changes/Raycast/2026-06-12-file-search-paths-ending-with-a-slash-in-browsing-mode-no-longer-display-the-fol|File
+  Search: Paths ending with a slash in Browsing mode no longer display the folder…]]'
+- '[[Changes/Raycast/2026-06-12-file-search-paths-ending-with-a-slash-in-browsing-mode-no-longer-display-the-fol-84df3c|File
+  Search: Paths ending with a slash in Browsing mode no longer display the folder…]]'
 - '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
   codex Expand hosted web search citation guidance @yuning-oai]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-15-0-15-0-dcbef64e|kimi-code-2026-06-15-0-15-0-dcbef64e]]'

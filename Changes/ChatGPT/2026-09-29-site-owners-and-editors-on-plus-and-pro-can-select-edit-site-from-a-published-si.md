@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c4efe0140f9d52e9c58557f1ad933fcfd56538aaba582552553d70ad3041f265
+machine_hash: a3532476bd7f1781002647529f6852f821bb8ef187178c4ddf328f761bf7b020
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,11 +46,12 @@ record:
     Site…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
   Mobile and Desktop changes in rust-v0.158.0]]'
 - '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
   Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
+- '[[Changes/Wispr Flow/2026-09-28-a-reminder-to-add-the-languages-you-speak-desktop|A
+  reminder to add the languages you speak (Desktop)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]
+- Earlier: 2026-09-28 · Wispr Flow · [[Changes/Wispr Flow/2026-09-28-a-reminder-to-add-the-languages-you-speak-desktop|A reminder to add the languages you speak (Desktop)]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
 <!-- chronolog:end -->
 

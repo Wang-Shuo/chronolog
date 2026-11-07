@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ce1e94e7fedb79a1d26a5890c0742ca2d7d6ca1112a2b7eb53266246a607160
+machine_hash: 3bda43b2a26b27461b7a579a76c9fc60a3dfe4bac08568b69e5591345c7e9ede
 product: heygen
 product_name: HeyGen
 record:
@@ -44,10 +44,9 @@ record:
   title: 'Pronunciation redesign: Add and manage glossaries directly in the panel'
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
-  searchable version selector for easier navigation]]'
 - '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
   Experience changes in v1.1.26]]'
+- '[[Changes/Superwhisper/2026-01-19-note|NOTE]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
 source_release: '[[Releases/HeyGen/heygen-2026-01-20-https-heygen-noticeable-news-publications-updated-script-panel-891bb335|heygen-2026-01-20-https-heygen-noticeable-news-publications-updated-script-panel-891bb335]]'

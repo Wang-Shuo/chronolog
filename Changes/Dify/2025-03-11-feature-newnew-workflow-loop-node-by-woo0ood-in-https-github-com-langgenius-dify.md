@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f603fb7cce33b8648b0a2b242b9975b3d9b11e3faa4fe21f1b80b4498685f396
+machine_hash: aabb8126594089fffb96ae8f46300e89580b05dcb7d3dbde3483d288e96dd98c
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: Feature/newnew workflow loop node
   type: change
 related_changes:
-- '[[Changes/Notion/2025-02-18-do-more-with-recurring-tasks|Do more with recurring
-  tasks]]'
 - '[[Changes/Notion/2025-02-18-more-improvements-to-start-the-year|More improvements
   to start the year!]]'
 - '[[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons
   to replace your scheduling app]]'
+- '[[Changes/Devin/2025-02-26-misc-brain-improvements-devin-is-less-likely-to-loop-while-trying-to-fix-ci-lint|Misc
+  brain improvements]]'
 source_release: '[[Releases/Dify/dify-2025-03-11-1-0-1-github-204980295-9e378bef|dify-2025-03-11-1-0-1-github-204980295-9e378bef]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons to replace your scheduling app]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-misc-brain-improvements-devin-is-less-likely-to-loop-while-trying-to-fix-ci-lint|Misc brain improvements]]
 - Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation and Scheduling changes in 1.2.0]]
 <!-- chronolog:end -->
 

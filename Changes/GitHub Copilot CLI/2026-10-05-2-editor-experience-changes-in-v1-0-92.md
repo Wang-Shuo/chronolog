@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19cab68b2ae38bfbaa162dd9f61db510bf8670e8ae4eb5909a3ce5f9659b24be
+machine_hash: 4236ce770b21fd016c5a276dac6cd7cbe5af87474e2e44451426fc4f7bc0a816
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: 2 Editor Experience changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
-  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
-- '[[Changes/Midjourney/2026-10-02-editing|EDITING]]'
-- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
-  tabs after updates]]'
+- '[[Changes/Devin/2026-10-05-customize-points-to-the-right-tab|Customize Points to
+  the Right Tab]]'
+- '[[Changes/Devin/2026-10-05-open-html-pdf-and-svg-attachments-in-a-new-tab|Open
+  HTML, PDF and SVG Attachments in a New Tab]]'
+- '[[Changes/Devin/2026-10-05-pr-links-in-devin-review-follow-your-preference|PR Links
+  in Devin Review Follow Your Preference]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser tabs after updates]]
+- Earlier: 2026-10-05 · Devin · [[Changes/Devin/2026-10-05-pr-links-in-devin-review-follow-your-preference|PR Links in Devin Review Follow Your Preference]]
 - Later: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore Lovable work after a push to your Git repository replaces it]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 95b2f35de2b5202832e2eccdf6746e2417aaa364ad8c6b3489d2230765f82f8f
+machine_hash: f3d29e523064eabbfffabc3e0d73f2029add1142d7a9fbfe0405b924fd830452
 product: notion
 product_name: Notion
 record:
@@ -51,9 +51,9 @@ record:
   title: New week, new models
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-one-elevenlabs-engine-with-a-model-picker|One ElevenLabs
-  engine, with a model picker]]'
 - '[[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]'
+- '[[Changes/LM Studio/2026-10-13-coexistence-with-bionic-run-both-apps-together-bionic-uses-lm-studio-for-local-m|Coexistence
+  with Bionic]]'
 - '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
   Argon for your app''s AI features]]'
 source_release: '[[Releases/Notion/notion-2026-10-13-https-www-notion-com-releases-2026-10-13-a75e0ec7|notion-2026-10-13-https-www-notion-com-releases-2026-10-13-a75e0ec7]]'

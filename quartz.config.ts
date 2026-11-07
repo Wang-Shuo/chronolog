@@ -4,10 +4,14 @@ import { ActiveChronolog } from "./_scripts/publication_filter"
 import { ChronologFeed } from "./_scripts/feed"
 import ChronologFolderContent from "./_scripts/folder_content"
 import { ChronologStatic } from "./_scripts/static_assets"
+import { shareTransformerResources } from "./_scripts/shared_resources"
 
 // Page views are counted only when the build sets CHRONOLOG_GOATCOUNTER_CODE (the site
 // code of <code>.goatcounter.com; cookie-free). Without it no analytics script is emitted.
 const goatcounter = process.env.CHRONOLOG_GOATCOUNTER_CODE
+const obsidian = shareTransformerResources(
+  Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false }),
+)
 
 const config: QuartzConfig = {
   configuration: {
@@ -76,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({ priority: ["frontmatter", "filesystem"] }),
       Plugin.SyntaxHighlighting(),
       // Source quotes can contain #Heading fragments; taxonomy comes from frontmatter.
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false }),
+      obsidian.transformer,
       // Quotes are verbatim source text: SmartyPants would turn `--flag` into `—flag`.
       Plugin.GitHubFlavoredMarkdown({ enableSmartyPants: false }),
       Plugin.TableOfContents(),
@@ -87,6 +91,7 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
+      obsidian.emitter,
       Plugin.ContentPage(),
       // Archive/index.md lists the months itself; other folders keep the page list.
       Plugin.FolderPage({ pageBody: ChronologFolderContent() }),

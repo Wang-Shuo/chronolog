@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 570d09b1121b4e63e18aee568f605d448a35929a6fea823b6a53a2b31b4e7591
+machine_hash: 16a39d7bfad72c76561a4355e695809b0222735332d71113de0038b2752fa63a
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya everyone, we're releasing a HD mode for our video model today!]]
-- Later: 2025-08-07 · Windsurf · [[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]
+- Later: 2025-08-07 · Superwhisper · [[Changes/Superwhisper/2025-08-07-gpt-5-models-application-support|GPT-5 Models & Application Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

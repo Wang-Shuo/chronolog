@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbcc01d537aff674337440612f5d3818ff02601b69dcfafe15cea5999336e0d6
+machine_hash: 2fa1e68d2cf67cd865a5f0e2d45db8419e31b803f79c0f0aa7d0d2a1d49b4c19
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,9 +53,9 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/v0/2025-11-17-we-launched-a-new-enterprise-page|Enterprise]]'
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
+- '[[Changes/Devin/2025-11-21-enterprise-api-v2-pagination-limit-update|Enterprise
+  API v2 Pagination Limit Update]]'
+- '[[Changes/Devin/2025-11-21-prefix-based-git-permissions|Prefix-based Git Permissions]]'
 - '[[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'
 source_type: github_releases

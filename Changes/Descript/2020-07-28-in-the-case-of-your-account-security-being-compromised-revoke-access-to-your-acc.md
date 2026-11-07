@@ -13,12 +13,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f904b87beac53bd2d6939e7aad29d4941c6247c45710a118978328c194b6dcb5
+machine_hash: 0b3889e2aca60f8cc69906c21fc4de44ccbec53707fc043006eae21c9b931c2d
 product: descript
 product_name: Descript
 record:
@@ -79,13 +79,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Later: 2020-11-11 · Notion · [[Changes/Notion/2020-11-11-flexible-sub-page-permissions|Flexible sub-page permissions 📑]]
+- Later: 2020-10-16 · Raycast · [[Changes/Raycast/2020-10-16-important-we-changed-permission-scopes-required-to-use-github-so-you-will-be-ask|⚠️ Important: We changed permission scopes required to use GitHub so you will…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 37 tracked products.
+- Earliest same-theme entry among the 45 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

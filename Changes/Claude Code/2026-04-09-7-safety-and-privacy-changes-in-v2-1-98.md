@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc4d2640bd9be8526784b5b811a82999589f70a5853661ad63234b52cb9b9f74
+machine_hash: e9341dd7e9abda42c1a5949e388eb5afa40ce2c8ad6700ff5738e5316f5ddd02
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,8 +60,7 @@ record:
   title: 7 Safety and Privacy changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
-  and Privacy changes in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-us-privacy-controls|US Privacy Controls]]'
 - '[[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety
   and Privacy changes in v0.37.0]]'
 - '[[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal

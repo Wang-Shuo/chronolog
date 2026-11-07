@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e4fb8749d90f12836be16563adb41524ecfd3f9083dda7ea04291598633492ae
+machine_hash: c338a24fbad2aa81ed7db25f6bd89608b956553f43198b4144790623ac25800e
 product: heygen
 product_name: HeyGen
 record:
@@ -44,8 +44,7 @@ record:
   title: Avatar management / identity-selection redesign
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
-  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/Devin/2026-08-07-command-palette-improvements|Command Palette Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy
   an image to your clipboard from an artifact or the file viewer, using the menu…]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2

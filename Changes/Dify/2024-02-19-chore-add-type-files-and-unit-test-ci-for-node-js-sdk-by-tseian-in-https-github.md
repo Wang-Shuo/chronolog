@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e30f3b706e36b8599e894e4fdd266baf1832e4538f5a0753d9c8df8be253e4a
+machine_hash: 9397d5f3fe86a3c1f40f76f457fd7bc1b7a15c0bef51c2fad2236f4879ddf2f5
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Chore: Add type files and unit test ci for Node.js SDK'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
 - '[[Changes/Dify/2024-02-01-2-apps-and-integrations-changes-in-0-5-3|2 Apps and Integrations
   changes in 0.5.3]]'
 - '[[Changes/Dify/2024-02-06-3-apps-and-integrations-changes-in-0-5-4|3 Apps and Integrations
   changes in 0.5.4]]'
+- '[[Changes/Raycast/2024-02-07-2-apps-and-integrations-changes-in-raycast-macos-v1-1-67-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.67.0]]'
 source_release: '[[Releases/Dify/dify-2024-02-19-0-5-6-github-142556067-45a96eb6|dify-2024-02-19-0-5-6-github-142556067-45a96eb6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-02-06 · Dify · [[Changes/Dify/2024-02-06-3-apps-and-integrations-changes-in-0-5-4|3 Apps and Integrations changes in 0.5.4]]
+- Earlier: 2024-02-07 · Raycast · [[Changes/Raycast/2024-02-07-2-apps-and-integrations-changes-in-raycast-macos-v1-1-67-0|2 Apps and Integrations changes in Raycast macos-v1 1.67.0]]
 - Later: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-feat-add-api-version-selection-for-azure-openai-apis-by-leslie2046-in-https-gith|feat:add api-version selection for azure openai APIs]]
 <!-- chronolog:end -->
 

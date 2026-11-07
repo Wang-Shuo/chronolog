@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edd1f83570dd4ad8a1a0c220bd38c25e979f7085703f01163cf2b9e4e74cf56b
+machine_hash: 2b6712bdf79603f753c0f573df2cfe3639d45ded41c3019ef428de504b6bba96
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Apps and Integrations changes in v1.3.15 + 1
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors:
-  Aikido, GitLab, and AWS S3]]'
 - '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
   Hex, Confidence, and PostHog]]'
+- '[[Changes/Devin/2026-04-03-enterprise-mcp-registry-enforcement|Enterprise MCP Registry
+  Enforcement]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-04-v1-3-15-6f7be106|opencode-2026-04-04-v1-3-15-6f7be106]]'

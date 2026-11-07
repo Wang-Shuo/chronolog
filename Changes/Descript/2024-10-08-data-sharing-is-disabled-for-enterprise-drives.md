@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3fb5991ae66db3c1edae4dcd79df47ca1b180ca653140681eac7fa67b25ef53d
+machine_hash: 060877e3644d5ba272add685457cba71d063a622e3585f88c2368a2cac957917
 product: descript
 product_name: Descript
 record:
@@ -47,9 +47,8 @@ record:
   title: Data sharing is disabled for Enterprise Drives
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
-  added a new way to share your Gamma creations]]'
 - '[[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]'
+- '[[Changes/Devin/2024-09-26-introducing-devin-for-teams|Introducing Devin for Teams]]'
 - '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
   this release, we’re truly showcasing the power of Dify!]]'
 source_release: '[[Releases/Descript/descript-2024-10-08-670564dc958faa93e6166a33-dd601db4|descript-2024-10-08-670564dc958faa93e6166a33-dd601db4]]'

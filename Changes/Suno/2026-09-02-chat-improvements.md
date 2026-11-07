@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b88d0a18c64c71af15653f44405adf93bcfc5a5c0c24bc527157dfa3c1a91d26
+machine_hash: dbd0f526ba89a15bd08fc567b2cece8caba92400ff788ec5398180fb04f2623b
 product: suno
 product_name: Suno
 record:
@@ -46,8 +46,8 @@ record:
   title: Chat improvements
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2
-  Reliability and Performance changes in Qoder 0.1.3]]'
+- '[[Changes/Raycast/2026-08-31-2-reliability-and-performance-changes-in-raycast-ios-1-3-6|2
+  Reliability and Performance changes in Raycast ios 1.3.6]]'
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 - '[[Changes/Suno/2026-09-02-overall-responsiveness|Overall responsiveness]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
-- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On Linux, managed local model and embedding services are preferred…]]
+- Later: 2026-09-02 · Superwhisper · [[Changes/Superwhisper/2026-09-02-other-bug-fixes-and-performance-improvements|Other bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

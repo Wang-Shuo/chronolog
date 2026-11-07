@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de1c35143ad9b9d6ca68a260c27a4c0da18f7d8ff6a07d343980a7612ef75e6b
+machine_hash: c3655f74cfd9eb6d0a273bfd1d04dee1a9738ff98f8141311e0def5ca2469c5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     to a Slack…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
-  artifact database writes]]'
 - '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
   designs, decks, and docs in any conversation]]'
+- '[[Changes/Devin/2026-09-16-copied-messages-keep-their-formatting|Copied Messages
+  Keep Their Formatting]]'
 - '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
   track authenticated Canvas arrivals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

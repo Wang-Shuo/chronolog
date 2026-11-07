@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55e4a852364dc6cbc4d4ca49199b84ff85b8925bcfdf9065ed6c09d1f0a9c7a3
+machine_hash: c43110137ef35e0dc26cc2de57ef161a29b01eef00ea03078914c580b83ce6b7
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-enterprise-and-administration-changes-in-1-16-1|2 Enterprise
-  and Administration changes in 1.16.1]]'
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
+- '[[Changes/Wispr Flow/2026-07-29-pro-teams-now-get-a-leaderboard-desktop|Pro teams
+  now get a leaderboard (Desktop)]]'
 - '[[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry
   is now Managed registry]]'
+- '[[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where
+  Legacy Cascade Is Available]]'
 source_release: '[[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|replit-2026-07-31-2026-07-31-9665255c]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry is now Managed registry]]
+- Earlier: 2026-07-31 · Devin · [[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where Legacy Cascade Is Available]]
 - Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting today for ChatGPT Enterprise and Education users, long pastes are handled…]]
 <!-- chronolog:end -->
 

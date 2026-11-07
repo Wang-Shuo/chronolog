@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d22713cbcf32d0783e923bb60173a9234f6da719820319a0a39571602591641
+machine_hash: eb91e6676fb697ae42f533c530a34ce52ed6ab41d025c6d1d8d96806f653e02d
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added strong model as a fallback for commit messages (and chat summaries)]]
-- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support changes in v0.3.11]]
+- Later: 2024-08-02 · AnythingLLM · [[Changes/AnythingLLM/2024-08-02-gemini-pro-1-5-api-support-for-2m-context-and-new-experimental-model-by-rahswe-i|Gemini Pro 1.5, API support for 2M context and new experimental model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

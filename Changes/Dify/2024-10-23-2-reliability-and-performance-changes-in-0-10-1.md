@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 820f5ef728fc0a45b4747382cb9e0d51fdbb1288ffd70d549f3eb7fb098f6708
+machine_hash: afc12eb6294b8231d6b05734d602ea6daca5d0b66ddb44dbe6611fd6ca87752e
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Reliability and Performance changes in 0.10.1
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-17-2-reliability-and-performance-changes-in-v0-3-14|2
-  Reliability and Performance changes in v0.3.14]]'
 - '[[Changes/Dify/2024-10-21-2-reliability-and-performance-changes-in-0-10-0|2 Reliability
   and Performance changes in 0.10.0]]'
 - '[[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending
   follow on requests to vision models will now be much faster]]'
+- '[[Changes/LM Studio/2024-10-22-2-reliability-and-performance-changes-in-lm-studio-0-3-5|2
+  Reliability and Performance changes in LM Studio 0.3.5]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending follow on requests to vision models will now be much faster]]
+- Earlier: 2024-10-22 · LM Studio · [[Changes/LM Studio/2024-10-22-2-reliability-and-performance-changes-in-lm-studio-0-3-5|2 Reliability and Performance changes in LM Studio 0.3.5]]
 - Later: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]
 <!-- chronolog:end -->
 

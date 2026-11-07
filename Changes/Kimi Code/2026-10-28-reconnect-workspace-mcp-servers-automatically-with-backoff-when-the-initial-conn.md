@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30cc7d1ba6cd88b0b1cb1694a7b48cfcf7387fde6e03d6de36afb07d9d1c1497
+machine_hash: 10ea2a3ac43a36c34249a818d767276cb2f88be09a247777ea67c4de935b7f69
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Reconnect workspace MCP servers automatically with backoff when the initial…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
+- '[[Changes/Devin/2026-10-28-plugin-item-view-and-user-only-skills|Plugin Item View
+  and User-only Skills]]'
 - '[[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A
   plugin''s page now shows its developer and version, with links to its website…]]'
 - '[[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation

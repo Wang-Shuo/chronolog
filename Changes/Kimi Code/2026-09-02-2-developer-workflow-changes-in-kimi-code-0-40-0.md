@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98ae2e1f05b2a6c02eee393201081e5b7e4bad0d8fd0c7e192d2a93df635f689
+machine_hash: d10b4160b80be88c53978ddd77303b3efa6990382f6678ded11f295a8c3cc63b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Developer Workflow changes in Kimi Code 0.40.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
-  terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
   rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
+- '[[Changes/Devin/2026-09-02-scan-composer-command|/scan Composer Command]]'
 - '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
   split layouts are now preserved across window reloads]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-02-0-40-0-d3ae6ef8|kimi-code-2026-09-02-0-40-0-d3ae6ef8]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0690c3ad945e567ce783e23134d131330f8545d86932f5a4d079b8948e5bbe67
+machine_hash: 0dfd72e445a7b972e278fc4c45fe3df8ab126b6aff905a8a91985286d84bd121
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,11 @@ record:
   title: Core Fix MiniMax M3 thinking variant selection
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2
-  Interface Experience changes in Slash commands, the Shopify…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
-  /model plan (or /model --plan) to pick a model used while in plan mode]]'
+- '[[Changes/Raycast/2026-07-23-2-interface-experience-changes-in-raycast-windows-0-70|2
+  Interface Experience changes in Raycast windows 0.70]]'
 - '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
   Experience changes in v2.1.219]]'
+- '[[Changes/Devin/2026-07-24-redesigned-model-picker|Redesigned Model Picker]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-24-v1-18-5-afa44289|opencode-2026-07-24-v1-18-5-afa44289]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
+- Earlier: 2026-07-24 · Devin · [[Changes/Devin/2026-07-24-redesigned-model-picker|Redesigned Model Picker]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface Experience changes in v0.11.0]]
 <!-- chronolog:end -->
 

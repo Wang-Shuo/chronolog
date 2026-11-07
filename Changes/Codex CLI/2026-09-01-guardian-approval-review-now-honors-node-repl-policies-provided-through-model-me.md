@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e83eeec37c1debd420071bab84c5e87c5d57f4263d0b9de3292ac29c83ab3828
+machine_hash: 0b2e7663b155e5726deb8409d77491df174d7115cd80a170e0f7d31e25005cfc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model Support changes in rust-v0.152.0]]
-- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support changes in v2026.8.2]]
+- Later: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-reve-retired|Reve retired]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

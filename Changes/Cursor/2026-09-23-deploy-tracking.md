@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7edd5079b1ad51e2c29ad02270473415f09e9f8565262e1ee61e3486d3d5334f
+machine_hash: 0f3d2453f33c2cbb7a2b494c2950f84445939e7fa2c1e9e74df4c15a91ef9fa2
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Deploy tracking
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
+- '[[Changes/AnythingLLM/2026-09-22-x-mistral-embeddings-are-now-batched-making-large-document-embedding-significant|x
+  Mistral embeddings are now batched, making large document embedding…]]'
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering skills and other customizations is now dramatically faster on large…]]
-- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce the CLI's startup time and memory usage]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

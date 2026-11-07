@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f04a63972bc28bede7638362b64d3b384a4e6fc7e72ce1a8f9ea60de67ecb79d
+machine_hash: d4783120f8c125f85a9cde899ebf40cd0edb1f1e9f7dbd5c09aa0efd7ce05ec4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +40,11 @@ record:
   title: Code & Repo navigation
   type: change
 related_changes:
-- '[[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience
-  changes in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
   Experience changes in v0.10.0]]'
 - '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
   drop citation rendering]]'
+- '[[Changes/Devin/2025-10-24-slash-command-improvements|Slash Command Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c|github-copilot-cli-2025-10-24-v0-0-350-github-256864744-709fc85c]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui: drop citation rendering]]
-- Later: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag and drop now works from Brand Studio and Editor sidebar]]
+- Earlier: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-slash-command-improvements|Slash Command Improvements]]
+- Later: 2025-10-24 · Superwhisper · [[Changes/Superwhisper/2025-10-24-main-menu-for-app-now-matches-app-menu|Main menu for app now matches app menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

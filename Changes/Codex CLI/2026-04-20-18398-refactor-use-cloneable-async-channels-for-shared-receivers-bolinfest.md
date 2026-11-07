@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ff7294dc448a83f10c324e250e87ea22f6994a44b9183ecd98c8ae1f66b5f1f
+machine_hash: 93f2bcabbe29face5a20a85100c8c4079adb95c9d6867223685360f5938e7d3a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#18398 refactor: use cloneable async channels for shared receivers @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
-  codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/Raycast/2026-04-15-quicklinks-hotkeys-should-no-longer-reset-at-startup-for-shared-quicklinks|Quicklinks:
+  Hotkeys should no longer reset at startup for shared Quicklinks]]'
 - '[[Changes/Descript/2026-04-16-announcing-the-descript-customer-obsession-hackathon-telethon-may-14-15|Announcing—the
   Descript Customer Obsession Hackathon Telethon (May 14–15)]]'
 - '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core

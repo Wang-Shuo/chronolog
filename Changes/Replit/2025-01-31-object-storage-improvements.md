@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3995350f17a8a8a41b19329d7d7119cef300b71e6388ff44d6740a423c42e68d
+machine_hash: 3dfa776510458bd72087cbb468a6f687d86e295cc84cc1f6e338aad63f29ca0a
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Object Storage improvements
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|\U0001F50D
-  Query Generation Issue]]"
 - '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
   Alignment checker for browsing agent]]'
 - '[[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The
   Model Context Protocol((source link) allows agents…]]'
+- '[[Changes/AnythingLLM/2025-01-29-add-vector-search-api-endpoint-by-timothycarambat-in-https-github-com-mintplex-l|Add
+  vector search API endpoint]]'
 source_release: '[[Releases/Replit/replit-2025-01-31-2025-01-31-879df024|replit-2025-01-31-2025-01-31-879df024]]'
 source_type: replit_changelog
 theme: search-browsing
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-12-12 · Cline · [[Changes/Cline/2024-12-12-the-model-context-protocol-https-github-com-modelcontextprotocol-allows-agents-l|The Model Context Protocol((source link) allows agents…]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-add-vector-search-api-endpoint-by-timothycarambat-in-https-github-com-mintplex-l|Add vector search API endpoint]]
 - Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-3-search-and-browsing-changes-in-v0-5-8|3 Search and Browsing changes in v0.5.8]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ca2ec3a1bf0bc835978f053827d8260c8f15782409db8e53f4ef6adf5331f43
+machine_hash: dd0474d10ed3d017761711cd056f467e192ac499ebe968b97365e315b46f2722
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,12 @@ record:
   title: Dragging to select a region of an image for a comment now updates the selection…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface
-  Experience changes in v2026.8.2]]'
 - '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
   you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 - '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
   Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Devin/2026-09-02-new-sidebar-grouping-and-filters|New Sidebar Grouping
+  and Filters]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80|google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
+- Earlier: 2026-09-02 · Devin · [[Changes/Devin/2026-09-02-new-sidebar-grouping-and-filters|New Sidebar Grouping and Filters]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6c0c5c6fafcef1179c17d8e4452eb20f89874511bd946410d77e7755e8293fc4
+machine_hash: 16fc81d409281876eb27c53ca80bb79df7aebee81fac99cdbdf05894a8e3c733
 product: lovable
 product_name: Lovable
 record:
@@ -58,8 +58,8 @@ record:
   title: Connect to Databricks with your own account
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-05-app-chat-connectors-beehiiv-and-ramp|App + chat connectors:
-  beehiiv and Ramp]]'
+- '[[Changes/Raycast/2026-10-05-extensions-clarified-how-uninstalling-an-extension-affects-its-settings-and-data-af387a|Extensions
+  : Clarified how uninstalling an extension affects its settings and data…]]'
 - '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
   Apps and Integrations changes in v2.1.292]]'
 - '[[Changes/Lovable/2026-10-06-chat-connectors-excalidraw|Chat connectors: Excalidraw+]]'

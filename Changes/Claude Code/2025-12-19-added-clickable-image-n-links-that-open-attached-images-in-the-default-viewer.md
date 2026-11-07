@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a02671b547ece55b30fcf96e15adc92542c64fe37d3faa622b2f0d5783efff8e
+machine_hash: 22d6f197041cdf74524b48f2522b64cd4a37a6452108f617a8fe5639f0184a21
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,8 @@ record:
     viewer'
   type: change
 related_changes:
-- '[[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]'
+- '[[Changes/AnythingLLM/2025-12-09-2-multimodal-input-changes-in-v1-9-1|2 Multimodal
+  Input changes in v1.9.1]]'
 - '[[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input
   changes in 1.11.0]]'
 - '[[Changes/Synthesia/2025-12-12-view-and-edit-your-full-video-script-in-one-continuous-layout-making-it-easier-t|Review

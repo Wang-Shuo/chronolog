@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1451c7a9595a01e72c5b7f4a1043563ec2db0fd8062f1349f0d9f8e988ab06f8
+machine_hash: 99d66ad37a8ecbd73a370f8af52ae3fff6e5931a8bcdc9fd161c20f1fef2c632
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-claude-models-for-your-app-s-ai-features|Claude models
-  for your app''s AI features]]'
-- '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
-  extended-retention models in your Enterprise workspace]]'
 - '[[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support
   changes in v2026.9.6]]'
+- '[[Changes/Recraft/2026-09-23-finally-zero-lag-in-your-workflow-recraft-v4-1-flash-generates-images-in-1-3-sec|V4.1
+  Flash: The Fastest Model on the Market]]'
+- '[[Changes/Superwhisper/2026-09-23-bring-your-own-key-byok-setups-now-respect-your-organization-s-cloud-model-setti|Bring-your-own-key
+  (BYOK) setups now respect your organization''s cloud model settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support changes in v2026.9.6]]
+- Earlier: 2026-09-23 · Superwhisper · [[Changes/Superwhisper/2026-09-23-bring-your-own-key-byok-setups-now-respect-your-organization-s-cloud-model-setti|Bring-your-own-key (BYOK) setups now respect your organization's cloud model settings]]
 - Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes in v4.1.21]]
 <!-- chronolog:end -->
 

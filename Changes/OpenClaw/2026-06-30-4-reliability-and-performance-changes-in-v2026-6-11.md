@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff0ae3bbe73dfa616abdf16a0d70e9c0c0de1695228487125c2b60aca663d62b
+machine_hash: e06fb01a56e5f39bc399ba90f0fcc3f5b7aa47535e4aa9fc2767f7d37e0272e2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -118,7 +118,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2 Reliability and Performance changes in v0.31.1]]
-- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-skills-analytics|Skills Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 794fa5067bd1ab460df110abf44e680a319cd907f833a65c697d8fc5305a8368
+machine_hash: 48b3fb84078de8e9c844b0c85fb32422b135052c5921098c1e32b5005a5bb25d
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show
-  live elapsed time for execution subagents in timeline entries]]'
 - '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
   agent permissions from your account settings]]'
+- '[[Changes/AnythingLLM/2026-09-22-5-agent-mode-changes-in-v1-16-2|5 Agent Mode changes
+  in v1.16.2]]'
 - '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
   changes in v2.1.280]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

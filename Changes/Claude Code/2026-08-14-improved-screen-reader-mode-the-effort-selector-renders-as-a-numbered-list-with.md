@@ -4,20 +4,20 @@ date: '2026-08-14'
 description: 'Claude Code · 2026-08-14 · Accessibility and Localization: Improved
   screen reader mode: the `/effort` selector renders as a numbered list with a typed-number…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2094
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01c6b42270fb46135033eec32ea9eacca28bb915fd90d6ba8e35ad7a98a0e7d
+machine_hash: ff2b0083f2ece3124bfea339eaccda5c99db99b807c6393c252276eb902d1e71
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Improved screen reader mode
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
-  Accessibility and Localization changes in 1.16.1]]'
 - '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
   accessibility in the Settings modal with better heading hierarchy…]]'
 - '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
   win!]]'
+- '[[Changes/Devin/2026-08-07-accessibility-improvements|Accessibility Improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility win!]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3 Accessibility and Localization changes in 1.17.0]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-accessibility-improvements|Accessibility Improvements]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-high-contrast-mode-system-option|High Contrast Mode: System Option]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

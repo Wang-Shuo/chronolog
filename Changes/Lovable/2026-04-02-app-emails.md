@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d389847a659e0d2642b36ff56e8d0e0432604c90b06a96ecb6b5bb7d4b90578b
+machine_hash: 32d61eb1fd72919841b327dfc0f3b1798d39228b5b4dbf89ffe20c3222a6c0de
 product: lovable
 product_name: Lovable
 record:
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]]
+- Later: 2026-04-03 · Devin · [[Changes/Devin/2026-04-03-gitlab-pat-rotation-fix-responsive-mobile-layouts-startup-command-display-improv|GitLab PAT rotation fix, responsive mobile layouts, startup command display…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

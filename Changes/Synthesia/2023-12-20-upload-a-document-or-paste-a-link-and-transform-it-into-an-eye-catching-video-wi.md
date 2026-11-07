@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ad0cf999055efa61346c325b2fe55ba74971499c0aedc808054aa1b853bd24ea
+machine_hash: 3cc62f77a5e1e5a23b62cf6bd06c78b1b7bd51ee5e83a413404f646684440e69
 product: synthesia
 product_name: Synthesia
 record:
@@ -47,12 +47,12 @@ record:
   title: 'Introducing: AI Video Assistant'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
 - '[[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New
   AI Action: Find Good Clips]]'
 - '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
   Input changes in v0.1.15]]'
+- '[[Changes/Raycast/2023-12-13-camera-preview-the-window-will-remain-visible-even-when-losing-focus|Camera
+  preview : The window will remain visible even when losing focus]]'
 source_release: '[[Releases/Synthesia/synthesia-2023-12-20-https-www-synthesia-io-updates-introducing-ai-video-assistant-c81d5933|synthesia-2023-12-20-https-www-synthesia-io-updates-introducing-ai-video-assistant-c81d5933]]'
 source_type: synthesia_changelog
 theme: multimodal
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal Input changes in v0.1.15]]
+- Earlier: 2023-12-13 · Raycast · [[Changes/Raycast/2023-12-13-camera-preview-the-window-will-remain-visible-even-when-losing-focus|Camera preview : The window will remain visible even when losing focus]]
 - Later: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-edit-for-clarity-intelligently-identifies-and-removes-distracting-filler-words-t|Edit for Clarity intelligently identifies and removes distracting filler words…]]
 <!-- chronolog:end -->
 

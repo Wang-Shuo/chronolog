@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8465be700617a3c822da1aab7af9800ac758fc8af625a174895bb835f8147438
+machine_hash: 5fb5bb32f205fd2e5c76332e8df401972b01f10e3962d95d6ff9e74764ac8dac
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: 'feat(automations): add a Git Sync page'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore:
-  bump SDK deps…]]'
 - '[[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation:
   Change your effect parameters over time to breathe life into your final mix]]'
 - '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
   two Cline installations on different builds from shutting each other''s Hub…]]'
+- '[[Changes/Devin/2026-08-14-in-page-search-in-automations|In-Page Search in Automations]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop two Cline installations on different builds from shutting each other's Hub…]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-in-page-search-in-automations|In-Page Search in Automations]]
+- Later: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-automation-schedule-timezones|Automation Schedule Timezones]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

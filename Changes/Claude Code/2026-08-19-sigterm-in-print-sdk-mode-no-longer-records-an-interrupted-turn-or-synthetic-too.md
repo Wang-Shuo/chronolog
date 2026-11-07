@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: babfedcaa40adfe936b2777f1dc1fb0000d0b107d15d73bc9196383fa43ad0c9
+machine_hash: a0d507dab6eb7e4cb04f61f2f6478e4e326215ba7dca5f2ecae75813868bebab
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57 Apps and Integrations changes in rust-v0.148.0]]
-- Later: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make several refinements and internal improvements]]
+- Later: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-new-mcp-marketplace-entry|New MCP Marketplace Entry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

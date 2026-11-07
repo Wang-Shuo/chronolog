@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27619ae119d31253f399502fd45b463360d45ba327375927fd62377c76b35777
+machine_hash: ee642e58288b30aaf762350cac9fa73803ece6acaeaea9686503eef68fefab12
 product: ollama
 product_name: Ollama
 record:
@@ -49,8 +49,7 @@ record:
   title: 3 Model Support changes in v0.1.8
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
+- '[[Changes/Raycast/2023-10-18-gpt-4-for-teams|GPT-4 for Teams]]'
 - '[[Changes/Ollama/2023-10-20-4-model-support-changes-in-v0-1-4|4 Model Support changes
   in v0.1.4]]'
 - '[[Changes/Ollama/2023-10-27-5-model-support-changes-in-v0-1-6|5 Model Support changes

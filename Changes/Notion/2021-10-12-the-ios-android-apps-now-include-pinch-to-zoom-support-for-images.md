@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3971634a642ac4afd2e5f2a1a834685ccc51a972660f29ece9962167fc9cfa78
+machine_hash: c49e86f7eff8ce9511bdcfe1ae9554f747d8c1d93b39ee0224fcd04682d49c6e
 product: notion
 product_name: Notion
 record:
@@ -53,10 +53,9 @@ record:
   title: The iOS & Android apps now include pinch-to-zoom support for images
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-21-create-siri-shortcuts-to-your-notion-pages|Create Siri
-  Shortcuts to your Notion pages]]'
 - '[[Changes/Notion/2021-09-21-find-your-notion-pages-in-search-on-iphone-ipad|Find
   your Notion pages in Search on iPhone & iPad]]'
+- '[[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]'
 - '[[Changes/Notion/2021-10-12-notion-is-now-available-in-japanese|Notion is now available
   in Japanese]]'
 source_release: '[[Releases/Notion/notion-2021-10-12-https-www-notion-com-releases-2021-10-12-5b20e594|notion-2021-10-12-https-www-notion-com-releases-2021-10-12-5b20e594]]'
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2021-09-21 · Notion · [[Changes/Notion/2021-09-21-find-your-notion-pages-in-search-on-iphone-ipad|Find your Notion pages in Search on iPhone & iPad]]
+- Earlier: 2021-09-23 · Raycast · [[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]
 - Later: 2021-10-19 · Notion · [[Changes/Notion/2021-10-19-better-comments-on-mobile|Better comments on mobile]]
 <!-- chronolog:end -->
 

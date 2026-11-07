@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8297b8014b2470132714a492b7d7372042c1a8502131262f971668cb0806c0ac
+machine_hash: 6c4cb6a1737f134deb5d5e8aef85496484fa4f81664dbfde7110b84cfd0dc6e6
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Model Support changes in v1.18.26
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model
-  Support changes in rust-v0.152.0]]'
 - '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
   approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/Krea/2026-09-01-reve-retired|Reve retired]]'
 - '[[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support
   changes in v2026.8.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-09-01-v1-18-26-2389a2b1|opencode-2026-09-01-v1-18-26-2389a2b1]]'

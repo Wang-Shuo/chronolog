@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77185d3c2783388d26bf3990500b3a23aeafc449a77757957d97c7b2cf8ff1bf
+machine_hash: 19ab87c659e56e5db2b613c761bc608d6c738262c8b2316858027ee402998e91
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2 Search and Browsing changes in rust-v0.157.0]]
-- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search and Browsing changes in v2026.9.7]]
+- Later: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-ask-devin-recognizes-commented-out-code|Ask Devin Recognizes Commented-Out Code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

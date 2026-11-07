@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d63a287524c57e4d2d0774295fc6a89bb243b917f5898a127ebbaa6c7e526ca5
+machine_hash: 62efc9a0e72feb2d755c23931d6bacc6d23e58e1ab195d92042e13a4f493476d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     are not…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
-  all paid plans]]'
-- '[[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your
-  Developer Portal, now in the sidebar]]'
+- '[[Changes/Raycast/2026-08-19-the-best-chats-start-with-the-right-context-screen-awareness-brings-context-from-e9a115|The
+  best chats start with the right context]]'
+- '[[Changes/Raycast/2026-08-19-3-context-window-changes-in-raycast-windows-0-71|3
+  Context Window changes in Raycast windows 0.71]]'
 - '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
   Window changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'

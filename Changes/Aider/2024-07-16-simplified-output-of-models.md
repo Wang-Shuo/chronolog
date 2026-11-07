@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe36fc0d3cd17f1a26404d7a2b72cc1ad61eb75bf9e691bc7cff3a406dc2a930
+machine_hash: ad8b313e9adba350f952fd80e5d8ce4effe1889a45deee054f0c260885455567
 product: aider
 product_name: Aider
 record:
@@ -39,10 +39,10 @@ record:
   title: Simplified output of `--models`
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
-  in v0.43.0]]'
 - '[[Changes/Dify/2024-07-08-4-model-support-changes-in-0-6-13|4 Model Support changes
   in 0.6.13]]'
+- '[[Changes/Superwhisper/2024-07-09-deprecate-ultra-turbo-model|Deprecate Ultra Turbo
+  model]]'
 - '[[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update
   model provider configuration for Triton Inference Server and X…]]'
 source_release: '[[Releases/Aider/aider-2024-07-16-v0-44-0-github-165669366-b5564367|aider-2024-07-16-v0-44-0-github-165669366-b5564367]]'

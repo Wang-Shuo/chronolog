@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ad9931ecfa7ff1b6914bd23f516b11f6e706b280808062cc71efff761fc711b
+machine_hash: a5ede153281cc3ccf491bc0c920c8238de42d0fd0f66c9cf528c63469adfe747
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -49,10 +49,11 @@ record:
   title: Harden workspace security
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout-af394f|Cursor
-  launches two Cursor bots for the last mile of shipping code]]'
-- '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Devin/2026-09-23-security-profiles-for-snapshot-builds|Security Profiles
+  for Snapshot Builds]]'
+- '[[Changes/Devin/2026-09-23-outposts-permissions|Outposts Permissions]]'
+- '[[Changes/Devin/2026-09-23-devin-resumes-right-after-permission-responses|Devin
+  Resumes Right After Permission Responses]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-23-2-1-0-1c8bbd91|kimi-code-2026-09-23-2-1-0-1c8bbd91]]'
 source_type: kimi_code_changelog
 theme: safety-privacy
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-findings|Findings]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-devin-resumes-right-after-permission-responses|Devin Resumes Right After Permission Responses]]
 - Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project Security view]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cf37c228ccd2dff72d27e19b64c2bcbb6918850eb855d082ec6d56b0e26a2e86
+machine_hash: 410cfbe9e61a987861b41cacc35ff6422e40c65b1ddceea2fa443a86ddb0e5a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
-- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-please-note|Please Note]]
+- Earlier: 2025-03-26 · Superwhisper · [[Changes/Superwhisper/2025-03-26-translation-model-clarity|Translation Model Clarity]]
+- Later: 2025-03-27 · LM Studio · [[Changes/LM Studio/2025-03-27-7-model-support-changes-in-lm-studio-0-3-14|7 Model Support changes in LM Studio 0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

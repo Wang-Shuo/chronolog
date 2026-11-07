@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9705d507258d0c58d25bd62bee48729c41d37b8ed150e642e33c1dd7f50b0533
+machine_hash: 7cd4f7adadd87d731c41ce42727801fe6c30a222ab412a155e48bbbbf9e075d0
 product: dify
 product_name: Dify
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]
-- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-generate-button-for-avatar-added-to-scene-editor-toolbar|Generate button for Avatar added to Scene editor toolbar]]
+- Later: 2025-06-17 · Raycast · [[Changes/Raycast/2025-06-17-2-editor-experience-changes-in-raycast-ios-1-0-5|2 Editor Experience changes in Raycast ios 1.0.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

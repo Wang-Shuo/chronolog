@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5d270a7adb644a3982fb389372b3c00bde4b15e4e7145454264712715503c52c
+machine_hash: 2fde1fae02c2e7cc14c2f93c01e4cda1cbb3db922bca0f8e2f9270f250241a9d
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Recreate any UI from a screenshot
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent
-  Mode changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-richer-acp-methods-and-mentions|Richer ACP Methods and
+  @-Mentions]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add
   --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]'
 - '[[Changes/Replit/2026-04-10-agent|Agent]]'

@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "baseline_releases": 5076,
+  "preserved_products": 37,
+  "preserved_card_records": 18201,
+  "preserved_pending_records": 2229,
+  "differences": {
+    "releases": [],
+    "cards": [],
+    "coverage": [],
+    "pending": []
+  },
+  "candidate_snapshot_sha256": "4abe53f4d792e3074e4a7a438137d0c35ea01dc60cd7c09e1a3f922ae5b0d58c"
+}

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad9d7a416240dceb9cb375b692559268233144bc2125b33c8bebcee2a1a20332
+machine_hash: 5897463d1748527d048e4713363dda5239164ff8e24954e61078c3e7d0b62d5d
 product: descript
 product_name: Descript
 record:
@@ -58,10 +58,9 @@ record:
   title: Docked panels are now remembered
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
-  you''ve configured your browser to use one of these supported languages, you''ll…]]'
-- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
-  front end rendering]]'
+- '[[Changes/Raycast/2023-09-21-sonoma-ready|Sonoma ready]]'
+- '[[Changes/Raycast/2023-09-21-dynamic-placeholders-automatically-set-the-selection-in-the-right-place-when-ins|Dynamic
+  Placeholders : Automatically set the selection in the right place…]]'
 - '[[Changes/Descript/2023-10-02-new-view-options-in-drive-view|New View Options in
   Drive View]]'
 source_release: '[[Releases/Descript/descript-2023-10-16-65243a48ec2dd97343eccd6b-ff9e32b2|descript-2023-10-16-65243a48ec2dd97343eccd6b-ff9e32b2]]'

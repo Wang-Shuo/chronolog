@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a21a14834b489356542408ccf727ff6a525da3e11e94b388d68de3cbcaad958
+machine_hash: f91cf4fb4d45129b0e2fc6780d803b75a856b2e7e89c60849cac93b10f28b268
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat(cli): Fixes CLI authentication redirect error'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|\U0001F5C4️
-  Redis session storage is now available as an experimental option for OAuth…]]"
 - '[[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated
   the OAuth login UI to begin polling as soon as the device code is generated…]]'
+- '[[Changes/AnythingLLM/2025-10-09-add-support-for-simple-sso-no-login-redirect-config-setting-by-timothycarambat-i|Add
+  support for SIMPLE_SSO_NO_LOGIN_REDIRECT config setting]]'
 - '[[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We
   are in the middle of significantly improving support for connecting to MCP…]]'
 source_release: '[[Releases/Cline/cline-2025-10-16-v3-33-0-github-255077310-b9a1872c|cline-2025-10-16-v3-33-0-github-255077310-b9a1872c]]'

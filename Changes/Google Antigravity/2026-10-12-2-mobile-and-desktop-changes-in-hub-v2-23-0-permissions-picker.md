@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 520693fb494740fb22fd60f9718fee6137878ede3e8636bd81137ace28ff6a18
+machine_hash: 55d756237e5820460e3dc95195fe6dd88eab634c2e556e32bf4321f3daa977ff
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Mobile and Desktop changes in HUB v2.23.0 — Permissions picker…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
-  Desktop Windows preview with Microsoft and NVIDIA]]'
+- '[[Changes/Wispr Flow/2026-10-09-flow-offers-to-add-a-language-you-speak-desktop|Flow
+  offers to add a language you speak (Desktop)]]'
 - '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
   and Desktop changes in v0.12.0]]'
 - '[[Changes/OpenClaw/2026-10-10-15-mobile-and-desktop-changes-in-v2026-10-1|15 Mobile

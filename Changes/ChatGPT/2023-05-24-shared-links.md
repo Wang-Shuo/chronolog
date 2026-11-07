@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c5ddea0ca1b646ab188d6c0a790886d5f74cfbeb46bfa33423f3151568be9d7d
+machine_hash: 985c522d07002156be5e9c980d17fe1a8a127702745714f9354870d6ab304117
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,11 +42,10 @@ record:
   title: Shared Links
   type: change
 related_changes:
-- '[[Changes/Descript/2023-02-21-auto-published-quick-recordings-quick-recordings-are-now-automatically-published|Auto-published
-  Quick Recordings]]'
 - '[[Changes/Descript/2023-03-06-for-quick-recordings-the-copy-link-and-open-share-page-functionality-have-been-m|For
   quick recordings, the copy link and open share page functionality have been…]]'
 - '[[Changes/Notion/2023-03-23-new-page-icons|New page icons]]'
+- '[[Changes/Raycast/2023-05-10-custom-themes|Custom Themes]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96|chatgpt-2023-05-24-ios-app-available-in-more-countries-shared-links-in-alpha-bing-p-9800ed96]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -77,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-new-page-icons|New page icons]]
+- Earlier: 2023-05-10 · Raycast · [[Changes/Raycast/2023-05-10-custom-themes|Custom Themes]]
 - Later: 2023-05-31 · Notion · [[Changes/Notion/2023-05-31-import-projects-from-asana|Import projects from Asana]]
 <!-- chronolog:end -->
 

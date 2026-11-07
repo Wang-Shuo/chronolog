@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f14b59361bb95aa88f069e9b72c0b4b589900917b5392251131c4ffb13c9756d
+machine_hash: a0da31c8421cb717507ea295c21ea3a063af9c4ad9c1c735555e85aa1d8263a0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,9 +53,10 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]'
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
   of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Devin/2025-12-19-enterprise-api-v3-metrics-endpoints|Enterprise API v3
+  Metrics Endpoints]]'
 - '[[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New
   admin controls for transcription glossary and do not translate lists]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'

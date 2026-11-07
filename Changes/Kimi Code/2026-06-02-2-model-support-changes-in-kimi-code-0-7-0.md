@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63912d3c99c9402b58bd909bc2c8945a56935cf839f34a35e4de99e43fd449a1
+machine_hash: 99ea5705bd51893a5af447eeebfb94eab5af3243a93eb6b299bfe4e8e4594821
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Model Support
 
 - Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-4-model-support-changes-in-kimi-code-0-8-0|4 Model Support changes in Kimi Code 0.8.0]]
-- Later: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]
+- Later: 2026-06-02 · Krea · [[Changes/Krea/2026-06-02-krea-2-on-artificial-analysis|Krea 2 on Artificial Analysis]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

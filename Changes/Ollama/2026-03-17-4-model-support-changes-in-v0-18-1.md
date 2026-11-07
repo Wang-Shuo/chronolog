@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7cde0b4178b8a8d24e1fe316664d03b1449774079ad06e9997d96d02615c70ed
+machine_hash: 759389fa5f14cd89a78e98e90a7ed1c14a751b471ade23d5a1bbf19707554720
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.18.1
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today we’re letting the community test an early version of our V8 model…]]
-- Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
+- Later: 2026-03-18 · AnythingLLM · [[Changes/AnythingLLM/2026-03-18-x-ability-to-select-the-provider-and-model-for-the-workspace-without-leaving-the|x Ability to select the provider and model for the workspace without leaving the page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

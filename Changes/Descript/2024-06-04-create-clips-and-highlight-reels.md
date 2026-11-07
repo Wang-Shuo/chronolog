@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 05f4e9e89131718c1b855f6770f6278d48aa2773b6579b1c03546045d0801e8a
+machine_hash: 3f7a8eb490d7df36fa413afd53c706901445733cd171bcb00ebdd85f4d9a9ada
 product: descript
 product_name: Descript
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo map is now optimized based on text of chat history as well as files added to chat]]
-- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨ Various UI Styling Issues]]
+- Later: 2024-06-06 · Raycast · [[Changes/Raycast/2024-06-06-2-interface-experience-changes-in-raycast-macos-v1-1-76-0|2 Interface Experience changes in Raycast macos-v1 1.76.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

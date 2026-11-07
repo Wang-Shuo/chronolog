@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1da8b5a7533aa78d6d52934eb701dde7c3a80437d6d68b9db7a995ec45cdc11e
+machine_hash: b9b48b53eb5740d9ec7023c911fbf3a51f8b3b65b981c4d5a106a29884b7d203
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-18-apps-and-integrations-changes-in-v0-1-14|18 Apps and Integrations changes in v0.1.14]]
-- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-2-apps-and-integrations-changes-in-1-7-1|2 Apps and Integrations changes in 1.7.1]]
+- Later: 2025-07-28 · Devin · [[Changes/Devin/2025-07-28-inline-secrets-management-for-mcp-configurations|Inline Secrets Management for MCP Configurations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

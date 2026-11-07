@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 524be2ac294474b850c3810f42358138da20c92df78ed4f140b60788dd596ed0
+machine_hash: a1928cbc8233919c21e8f6d87a5c893bdb5f54cedf0a0004c24269f6bcfdbba1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 5 Account and Access changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core
-  Added connector-based authentication flows and support for stored provider…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
   MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/Krea/2026-06-13-oauth-sign-in-for-the-krea-mcp-server|OAuth sign-in for
+  the Krea MCP server]]'
 - '[[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added
   external browser OAuth for the Snowflake Cortex provider]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 040e1fdcca9e83119e40b41154924c1712e813355d6e3b81cb3a9868863904c7
+machine_hash: f323b707809d683aca5497204291bb67ca4c45d4952186bb325a5689fd203872
 product: qoder
 product_name: Qoder
 record:
@@ -44,10 +44,10 @@ record:
   title: '**Worktree**: Improved starting-point list loading and creation preparation…'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render
-  mermaid code blocks as diagrams in the terminal]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
+- '[[Changes/Devin/2026-09-18-perforce-workspace-follows-connection-changes|Perforce:
+  Workspace Follows Connection Changes]]'
 - '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
   command that is killed when the app restarts is now reported as canceled instead…]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-18-0-3-3-82ff3ac1|qoder-2026-09-18-0-3-3-82ff3ac1]]'

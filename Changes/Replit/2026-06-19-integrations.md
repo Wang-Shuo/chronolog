@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39b2651c09936623363d07a42b363b5889dadd496f3a631ffb4a4e6573524307
+machine_hash: c8043cb2cf0aa06d14f14abf1f890e578282c3ccf30306938d202ed0de4afeaa
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,11 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
-  AI activity]]'
-- '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
-  MCP registry parsing more tolerant of old and inconsistent schemas]]'
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Devin/2026-06-19-dedicated-mcp-management-page|Dedicated MCP Management
+  Page]]'
+- '[[Changes/Devin/2026-06-19-mcp-marketplace-expansion|MCP Marketplace Expansion]]'
+- '[[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting
+  in Webapp Comments]]'
 source_release: '[[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|replit-2026-06-19-2026-06-19-ff036602]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added attribution.sessionUrl setting to omit the claude.ai session link…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Earlier: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-slack-formatting-in-webapp-comments|Slack Formatting in Webapp Comments]]
+- Later: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate AWS Sdk to OpenAI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

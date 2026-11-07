@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6215a3bf4442a37660370f7f6a098177aaeac1834b82d1e98780ecfd231b4850
+machine_hash: a6dadaeb6ab5e700224e377230e56fb1abbeef27f7f86e702743a939394fade9
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,11 @@ record:
   title: Add tooltips to bottom row menu
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
-  new slash command menu letting you type…]]'
-- '[[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just
-  right-click from the filmstrip or tap the ... menu on a card and choose…]]'
 - '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
   changes in 1.3.0]]'
+- '[[Changes/Recraft/2025-04-23-precision-matters-when-editing-specific-parts-of-an-image-with-recraft-s-updated|Updated
+  selection panel]]'
+- '[[Changes/LM Studio/2025-04-24-slimmer-app-sidebar|Slimmer app sidebar]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience changes in 1.3.0]]
+- Earlier: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-slimmer-app-sidebar|Slimmer app sidebar]]
 - Later: 2025-05-01 · Midjourney · [[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]
 <!-- chronolog:end -->
 

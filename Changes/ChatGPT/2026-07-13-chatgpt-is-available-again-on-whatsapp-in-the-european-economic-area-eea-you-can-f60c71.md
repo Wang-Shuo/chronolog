@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ac7d2d4e7f4a6297de1de6826c0bc27b7c5b67f7cf73d4c6d0449db56793b82
+machine_hash: 899cc3ee6034f65d67135f134f7c7bc9ac6b662d15d6e296a8468ec9649a0f04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,11 +63,12 @@ record:
   title: ChatGPT returns to WhatsApp in the EEA
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore
   the new Voices page]]'
+- '[[Changes/Superwhisper/2026-07-10-improved-sound-effects-with-cleaner-audio-now-sounds-good-even-at-high-volume-on|Improved
+  sound effects with cleaner audio, now sounds good even at high volume…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-09 · Synthesia · [[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore the new Voices page]]
+- Earlier: 2026-07-10 · Superwhisper · [[Changes/Superwhisper/2026-07-10-improved-sound-effects-with-cleaner-audio-now-sounds-good-even-at-high-volume-on|Improved sound effects with cleaner audio, now sounds good even at high volume…]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice and Audio changes in v2026.7.1]]
 <!-- chronolog:end -->
 

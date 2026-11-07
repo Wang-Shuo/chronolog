@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2185510b151edb951a83e405115fcbbc4efa877bf3da7c1523109602574edfe3
+machine_hash: 0f97cf9dd2fa3f37326f8c083bb87955d956c6c0b807e8f416b9886386160193
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.36.0
 ## Nearby in Context Window
 
 - Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization triggers]]
-- Later: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window changes in v0.5.3]]
+- Later: 2025-09-15 · LM Studio · [[Changes/LM Studio/2025-09-15-2-context-window-changes-in-lm-studio-0-3-26|2 Context Window changes in LM Studio 0.3.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

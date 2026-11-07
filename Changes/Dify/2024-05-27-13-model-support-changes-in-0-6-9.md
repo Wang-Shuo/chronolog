@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d463eca1bfa57513c3527dd8013376fa7a2f009b884b93f89668cc0f8ae8fb67
+machine_hash: d1794564eecdd6fed040f7e86e3867bb2569727b4d9d979eaa74af4252cf9d47
 product: dify
 product_name: Dify
 record:
@@ -71,8 +71,8 @@ record:
   title: 13 Model Support changes in 0.6.9
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support
-  changes in v0.1.39]]'
+- '[[Changes/Superwhisper/2024-05-22-pro-tier-includes-gpt-4o-and-claude-sonnet|Pro
+  tier includes GPT-4o and Claude Sonnet]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
 - '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5616982605e9e178d0e39369a347804f3acf7d36f74d48e0434107ac920726d
+machine_hash: ce9c326e4641259ccda380747fdf9d6eec4daafbc0ef1f97dd1994a5e78d0ee0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: Add /mcp registry installation for browsing and installing MCP servers
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add
-  an all-sessions picker view with name search, paginated browsing…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-16-infinite-scroll-chat-history-web-microsoft-365-copilot-chat|Infinite
   scroll chat history Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/AnythingLLM/2026-06-22-feat-add-fastcrw-web-search-provider-by-us-in-https-github-com-mintplex-labs-any|feat:
+  add fastCRW web search provider]]'
 - '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
   Search and Browsing changes in rust-v0.142.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

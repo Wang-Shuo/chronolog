@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78888993f988c9772d62c2061d0626ccbef621659e4585ccb4731e63d2313d45
+machine_hash: 95c46d2a30f183c720061bf859b50c2247048d637a00eba33d3ab45d7a2dee80
 product: opencode
 product_name: OpenCode
 record:
@@ -41,8 +41,7 @@ record:
   title: Core Return MCP server not found errors from the HTTP API
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
+- '[[Changes/Devin/2026-05-22-slack-channel-override|Slack Channel Override]]'
 - '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
   refactor releasing guide and add update mechanisms]]'
 - '[[Changes/Google Antigravity/2026-05-22-antigravity-ide-integration|Antigravity

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62eb2993528317991ce665b4468e5e8c513b9f41838c3b8789688c07c51f7bbe
+machine_hash: 23201537e4ca733721c951150ad095740c9e98d1821459f4918a76d76da39fbd
 product: descript
 product_name: Descript
 record:
@@ -42,12 +42,12 @@ record:
   title: We've combined the Composition Sidebar and Media Library into a unified [Project…
   type: change
 related_changes:
-- "[[Changes/Notion/2021-03-10-organize-your-shred-pages|Organize your shred pages
-  \U0001F9F9]]"
-- '[[Changes/Notion/2021-03-23-clicking-on-commented-text-within-a-block-will-now-open-the-comment-menu-and-kee|Clicking
-  on commented text within a block will now open the comment menu and keep…]]'
+- '[[Changes/Raycast/2021-05-12-hotkey-recorder-it-s-now-possible-to-use-hotkeys-previously-reported-as-used-by|Hotkey
+  Recorder : It''s now possible to use hotkeys previously reported as used…]]'
 - '[[Changes/Notion/2021-05-13-you-can-now-set-the-language-of-a-code-block-without-leaving-your-keyboard-by-us|You
   can now set the language of a code block without leaving your keyboard, by using…]]'
+- '[[Changes/Raycast/2021-05-26-root-search-configure-any-command-or-app-by-pressing-it-opens-the-preferences-wi|Root
+  Search: Configure any command or app by pressing ⌘ ⇧ ,]]'
 source_release: '[[Releases/Descript/descript-2021-06-15-6390c9ac4a4a0d64fa56433c-2ae9474e|descript-2021-06-15-6390c9ac4a4a0d64fa56433c-2ae9474e]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-05-13 · Notion · [[Changes/Notion/2021-05-13-you-can-now-set-the-language-of-a-code-block-without-leaving-your-keyboard-by-us|You can now set the language of a code block without leaving your keyboard, by using…]]
+- Earlier: 2021-05-26 · Raycast · [[Changes/Raycast/2021-05-26-root-search-configure-any-command-or-app-by-pressing-it-opens-the-preferences-wi|Root Search: Configure any command or app by pressing ⌘ ⇧ ,]]
 - Later: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-added-the-ability-to-auto-level-https-help-descript-com-hc-en-us-articles|Auto-leveling for multi-clip selection]]
 <!-- chronolog:end -->
 

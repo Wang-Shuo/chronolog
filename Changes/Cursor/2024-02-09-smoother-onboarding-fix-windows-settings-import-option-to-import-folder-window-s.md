@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9907530d4cc680a9af5707fe0016258ec49b7a8f2c92aa3a0b69fc2d50d0fcbc
+machine_hash: 5b68dfe2419b3bc1a1be7196b6b9271dc32d754e7bb6e9e3151afacfdd43f056
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     state)
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
-  ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
   images into the Command-K prompt bar!]]'
+- '[[Changes/Raycast/2024-02-07-application-hotkey-improved-the-behavior-for-minimized-applications|Application
+  Hotkey : improved the behavior for minimized applications]]'
 - '[[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'
 source_type: cursor_changelog

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 641d49e93faa0f1aca8b534093b0a0dd25ceec2b056079ca71c85d17ed59da6b
+machine_hash: 52ee781bebe68630e596b2639f7567910e3a8ed653176e62e819fd1e0f529926
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps and Integrations changes in v0.26.0]]
-- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-apps-and-integrations-changes-in-v1-1-40-1|2 Apps and Integrations changes in v1.1.40 + 1]]
+- Later: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-updated-style-for-integrations-panel-and-select|Updated style for Integrations panel and select]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

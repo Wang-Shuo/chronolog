@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 11fba5a70d1ba6581b099c22ce6f2e70e7fe58be1bafd9c75545ab3c4ecf88f2
+machine_hash: 2f4410d1a6d3b07a984bbdd76c0bfed2318f3227ea77ae71f8e812362d1f1e64
 product: lovable
 product_name: Lovable
 record:
@@ -52,7 +52,8 @@ record:
   title: Bring your app or website to Lovable
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte-d73de9|AI
+  Chat : Added support for searching and mentioning items from compatible AI…]]'
 - '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
   Interface Experience changes in rust-v0.166.0]]'
 - '[[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There''s

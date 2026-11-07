@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff1e132874f6989f21a8bf1569187ca46330048c3d75143b7f80359bb0563ea8
+machine_hash: 5d914b04b6662f6606e6fbcbef6f24425fbddb4b19973b8dd6864a10bbfbb76e
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,11 +41,12 @@ record:
   title: '`/release-notes` is now an interactive version picker'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-workspace-onboarding-and-discovery|Workspace onboarding
-  and discovery]]'
-- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
   session picker loads significantly faster, especially with large session histories]]'
+- '[[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad|Importer:
+  Avoid mapping hotkey characters to the number pad]]'
+- '[[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad-5bb922|Importer
+  : Avoid mapping hotkey characters to the number pad]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
+- Earlier: 2026-04-03 · Raycast · [[Changes/Raycast/2026-04-03-importer-avoid-mapping-hotkey-characters-to-the-number-pad-5bb922|Importer : Avoid mapping hotkey characters to the number pad]]
 - Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session resume picker correctly groups sessions by branch and repository on first use]]
 <!-- chronolog:end -->
 

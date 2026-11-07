@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5583e21f3f55c07ad7a9bef7ee413a7b4b2b51972cbcf434b78355ebe2a61c67
+machine_hash: d7a248c830993ea4aac925d24e2290f4b9446d29149b9a00f976a997cef2326f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Grep searches in large monorepos use an indexed search engine for significantly…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
-  correlation: Every send() now carries a platform-generated requestId, exposed…]]'
 - '[[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma
   4 QAT weights((source link)]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-all-model-providers-are-now-opt-out-of-tool-calling-by-default-everything-will|x
+  All model providers are now opt-out of tool calling by default]]'
 - '[[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637
   codex Speed up external agent session imports @stefanstokic-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

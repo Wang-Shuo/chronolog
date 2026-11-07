@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 538c8a0c781dca300a1c7a7da1de1eb4edca12048a7d42c04ce7e546bd836f88
+machine_hash: f37df9b53e6fb487acbe9423c36748b1b1868752ed73e8e4d7b5974aab7e5a1d
 product: descript
 product_name: Descript
 record:
@@ -50,12 +50,12 @@ record:
     by letting…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
-  Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 - '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
   Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
 - '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
   to unified diff editing format]]'
+- '[[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard
+  History: Added an action to edit the content of a history item]]'
 source_release: '[[Releases/Descript/descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3|descript-2024-01-16-65a6d658491f6c29a0aecc79-738324e3]]'
 source_type: canny_changelog
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Earlier: 2024-01-10 · Raycast · [[Changes/Raycast/2024-01-10-clipboard-history-added-an-action-to-edit-the-content-of-a-history-item|Clipboard History: Added an action to edit the content of a history item]]
 - Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c8733486509edca25e3f3d3031fdeb6c25eb259d7c9571bad1fc7f106bcdba7
+machine_hash: b30f307d1d159fb15489e50a0bea089668fbc2d0a3447686b6f74fb77acfa045
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49876 Remove personality plumbing from the TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved
-  /memory: the left and right arrow keys now flip its on/off settings, such…]]'
-- '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
-  Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
 - '[[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2
   Memory and Personalization changes in v2026.9.8]]'
+- '[[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index|File
+  Search : The file indexer uses about 60% less memory when it updates its index]]'
+- '[[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index-ee1d12|File
+  Search : The file indexer uses about 60% less memory when it updates its index]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55|codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55]]'
 source_type: github_releases
 theme: memory
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2 Memory and Personalization changes in v2026.9.8]]
+- Earlier: 2026-10-05 · Raycast · [[Changes/Raycast/2026-10-05-file-search-the-file-indexer-uses-about-60-less-memory-when-it-updates-its-index-ee1d12|File Search : The file indexer uses about 60% less memory when it updates its index]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223 Remove legacy personality template metadata @rhan-oai]]
 <!-- chronolog:end -->
 

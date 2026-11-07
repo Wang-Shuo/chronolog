@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4efa9756f480d224999fa8cdaad673ab934d732b4d7ea5534d000fef3c41f197
+machine_hash: d19366f083d03feeb24161828a582ecd0215a835c8736452ac6da28a7d41b978
 product: midjourney
 product_name: Midjourney
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web: Add a flat/by-workspace tab to the mobile session list]]
-- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced with Google Sheets]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-split-editor-groups-in-the-session-workspace|Split Editor Groups in the Session Workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e466dda1625a386fd848bba8b32d2825e9853c6319fd59732f93994c5527c835
+machine_hash: 6fb27566042d8082bba624f8c4990f3a943ab321a441c55c0d5cd227b0a2d64f
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8 Account and Access changes in rust-v0.149.0]]
-- Later: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core Fixed OpenCode device login links when servers return relative verification…]]
+- Later: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-a-sign-in-flow-that-actually-works-android|A Sign-In Flow That Actually Works (Android)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

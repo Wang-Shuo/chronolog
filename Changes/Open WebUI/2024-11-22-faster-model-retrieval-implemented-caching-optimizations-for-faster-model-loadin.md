@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ec983645124cc0bb4f79c060f83c94dc6c0567036fab082e32bfce935a23514f
+machine_hash: 0c9e1a92d73c310ab16e9b91d494d659995296018b8e27d5168cc313c27fd523
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: '**⚡ Faster Model Retrieval**'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-11-chore-ci-bring-back-poetry-cache-to-speed-up-ci-jobs-by-bowenliang123-in-https-g|chore(ci):
-  bring back poetry cache to speed up CI jobs]]'
 - "[[Changes/Open WebUI/2024-11-19-duckduckgo-rate-limit-fix-addressed-issues-with-duckduckgo-search-integration-en|\U0001F50D
   DuckDuckGo Rate Limit Fix]]"
+- '[[Changes/Superwhisper/2024-11-19-stability-improvements-for-silence-removal|Stability
+  improvements for silence removal]]'
 - '[[Changes/Ollama/2024-11-20-improved-performance-issues-that-occurred-in-ollama-versions-0-4-0-0-4-2|Improved
   performance issues that occurred in Ollama versions 0.4.0-0.4.2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-22-v0-4-3-github-186798959-e5255b40|open-webui-2024-11-22-v0-4-3-github-186798959-e5255b40]]'

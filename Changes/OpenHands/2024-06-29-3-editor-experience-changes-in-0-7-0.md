@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3345e594a6171ca6757b9648b87c97df4245ce6c61b16e6540158205d44650e5
+machine_hash: 7b34495fb8233362f830d592183e60de26df44fe4ff979e95f7757091cfe4961
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]]
-- Later: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-editor-updates|Editor updates]]
+- Later: 2024-06-30 · Devin · [[Changes/Devin/2024-06-30-use-devin-s-editor-and-shell|Use Devin's Editor and Shell]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

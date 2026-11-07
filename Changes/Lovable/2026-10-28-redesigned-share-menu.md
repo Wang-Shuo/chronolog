@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8c5d08c23cf4df60d2429e1763f40a8a52a0dd2ce9e0b875a14ff27676f37d88
+machine_hash: 15dcf450a31f1f0d537654fd410d33f07b702be3a5b1c539ecd2d5bedcdcf544
 product: lovable
 product_name: Lovable
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2 Interface Experience changes in Kimi Code 2.4.0]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12 Interface Experience changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-added-support-for-searching-and-mentioning-items-from-compatible-ai-exte|AI Chat : Added support for searching and mentioning items from compatible AI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

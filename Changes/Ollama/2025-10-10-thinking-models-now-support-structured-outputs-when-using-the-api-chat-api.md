@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2146064ce3f662ef863632583ad094debfb4e851aceb91639b1666d7261e7397
+machine_hash: 16b98f53055b4e370b367554f28a8f7594fa42ce33dff0ea4c4335389db560e4
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
     API
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update
-  local models docs & remove emojis from Docs]]'
 - '[[Changes/Gemini CLI/2025-10-08-revert-get-around-the-initial-empty-response-from-gemini-2-5-flash-by-sandytao52|Revert
   "Get around the initial empty response from gemini-2.5-flash]]'
+- '[[Changes/AnythingLLM/2025-10-09-7-model-support-changes-in-v1-9-0|7 Model Support
+  changes in v1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-10-improved-the-error-handling-in-the-model-picker-when-no-models-are-available-fix|Improved
   the error handling in the /model picker when no models are available…]]'
 source_release: '[[Releases/Ollama/ollama-2025-10-10-v0-12-5-github-253669209-1dff0471|ollama-2025-10-10-v0-12-5-github-253669209-1dff0471]]'

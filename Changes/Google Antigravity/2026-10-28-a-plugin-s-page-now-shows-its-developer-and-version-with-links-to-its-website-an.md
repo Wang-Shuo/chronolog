@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0331f3404c53c3c5f0b693259024d769f73ac7e2c61817bba27862cf15499ff9
+machine_hash: 375a9f2b0b739c1308c9c6c6eca345ad66e4d0c3e1e4e4f99ba8a86e9f92bcbc
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,12 @@ record:
   title: A plugin's page now shows its developer and version, with links to its website…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-plugins-can-now-attach-and-update-keyed-session-instructions-with-ctx-session-in|Plugins
-  can now attach and update keyed session instructions…]]'
 - '[[Changes/OpenCode/2026-10-27-opencode-ai-root-is-now-the-promise-api|opencode/ai
   root is now the Promise API]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
   name dialog viewport limits]]'
+- '[[Changes/Devin/2026-10-28-plugin-item-view-and-user-only-skills|Plugin Item View
+  and User-only Skills]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c|google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c]]'
 source_type: antigravity_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
+- Earlier: 2026-10-28 · Devin · [[Changes/Devin/2026-10-28-plugin-item-view-and-user-only-skills|Plugin Item View and User-only Skills]]
 - Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect workspace MCP servers automatically with backoff when the initial…]]
 <!-- chronolog:end -->
 

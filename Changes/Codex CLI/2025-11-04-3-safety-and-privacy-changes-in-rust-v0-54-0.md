@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a6fffe74032db6fe97c506f9afa05b8d99b871d831fc3b486a2b5fecb260326
+machine_hash: 6ceb8444432fcbc5e391217e6e2dca0ec951a7a2c2aca14c0491b7268948c086
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.54.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
 - '[[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety
   and Privacy changes in 0.60.0]]'
 - '[[Changes/Codex CLI/2025-10-30-3-safety-and-privacy-changes-in-rust-v0-52-0|3 Safety
   and Privacy changes in rust-v0.52.0]]'
+- '[[Changes/Raycast/2025-10-31-keyboard-privacy-statement-accessible-from-settings-in-the-app|Keyboard:
+  Privacy statement, accessible from settings in the app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-04-rust-v0-54-0-github-259667879-e60aafd4|codex-cli-2025-11-04-rust-v0-54-0-github-259667879-e60aafd4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.54.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-3-safety-and-privacy-changes-in-rust-v0-52-0|3 Safety and Privacy changes in rust-v0.52.0]]
+- Earlier: 2025-10-31 · Raycast · [[Changes/Raycast/2025-10-31-keyboard-privacy-statement-accessible-from-settings-in-the-app|Keyboard: Privacy statement, accessible from settings in the app]]
 - Later: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-fix-infra-simplify-cancel-in-progress-and-add-permission-to-set-status-step-by-s|fix(infra) - Simplify cancel in progress and add permission to set status step]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2959baf33628061f0b6a14bed62094de5bea3b6ef666782b81ca18404b64057
+machine_hash: 0830468a497a51d26172159f23e3d32d17c729e3b3dbeee296958f96e5ddcfb6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
-- Later: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search the template and design system pickers]]
+- Later: 2026-06-26 · LM Studio · [[Changes/LM Studio/2026-06-26-2-interface-experience-changes-in-lm-studio-0-4-17|2 Interface Experience changes in LM Studio 0.4.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8716c173c2e166296b387e7aed325ea7b9276f5a6fdb8202d7d8bfb128c24ff6
+machine_hash: 827adb993a5662ce70992ee41fe3251b57f97239d9a186fadc9633fc30427946
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,8 +53,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice
-  and Audio changes in v2026.9.6]]'
+- '[[Changes/Superwhisper/2026-09-23-improved-handling-of-longer-recordings-with-the-s1-mini-model-for-more-reliable|Improved
+  handling of longer recordings with the S1-mini model for more reliable…]]'
 - '[[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice
   and Audio changes in rust-v0.157.0]]'
 - '[[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975 Prevent stale voice answers from reappearing during speech recovery @etraut-openai]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- Later: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-ai-chat-dictation-with-ctrl-m-in-the-ai-chat-and-quick-ai-composers-now-uses-the|AI Chat : Dictation with Ctrl + M in the AI Chat and Quick AI composers now uses…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

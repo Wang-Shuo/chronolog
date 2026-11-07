@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3068f6753d2f08b9b64a996f963f2a42eaf0500002d121726e7edea340ce1728
+machine_hash: 295823ef90abf91e3114ee6e2f3e81a9751e719ce2b11a12fddc2c3b349cba63
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: Improved the settings error for rules such as `Edit(C:\dir\(name)\**)`, where…
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
-  code diff against the base branch]]'
+- '[[Changes/Devin/2026-09-02-redesigned-findings-tab|Redesigned Findings Tab]]'
 - '[[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web:
   Add a code wrap toggle to the diff panel and streamline its header]]'
 - '[[Changes/Synthesia/2026-09-02-design-any-scene-with-layouts-a-library-of-100-ready-made-designs-right-in-the-e|Design

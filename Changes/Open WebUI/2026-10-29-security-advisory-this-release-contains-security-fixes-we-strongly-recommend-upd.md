@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba4e83fe7552f66b690d99082fef6b41c55390d1e1b698580b5b52f5f6471519
+machine_hash: 121c6bf9a8eb2f70e025cd765072cd73538821c8e3dfeb737ab68ca6c8c60241
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
   title: "\U0001F6E1️ **Security Advisory**: This release contains **security fixes**"
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
-  Marketplace tab and the pages of plugins from third party developers now show…]]'
+- '[[Changes/Superwhisper/2026-10-28-2-safety-and-privacy-changes-in-superwhisper-macos-3-1-0|2
+  Safety and Privacy changes in Superwhisper macOS 3.1.0]]'
 - '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
   Safety and Privacy changes in rust-v0.166.0]]'
 - '[[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan

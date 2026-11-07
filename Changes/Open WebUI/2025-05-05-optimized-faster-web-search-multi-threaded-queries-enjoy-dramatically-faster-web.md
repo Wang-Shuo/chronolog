@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cdc8265645f2b6b975054aba84f3dc6f6df4318a6b88f9be82e767252f17067
+machine_hash: ea3948c3f70bb79b41a561d4cb62d86dd32517cd0dd2bdaaeb98e789e4e1ef2c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
   title: "\U0001F680 **Optimized Faster Web Search & Multi-Threaded Queries**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
-  your local Chrome browser for session-based browsing, enabling debugging…]]'
 - "[[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|\U0001F9ED
   Sougou Web Search Integration]]"
 - '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
   (Powered by AI)]]'
+- '[[Changes/Devin/2025-04-25-we-shipped-deep-wiki-http-www-deepwiki-com-up-to-date-documentation-you-can-talk|We
+  shipped Deep Wiki((source link) Up-to-date documentation you can talk to]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-05-v0-6-6-github-216502762-5c099040|open-webui-2025-05-05-v0-6-6-github-216502762-5c099040]]'
 source_type: github_releases
 theme: search-browsing
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions (Powered by AI)]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
+- Earlier: 2025-04-25 · Devin · [[Changes/Devin/2025-04-25-we-shipped-deep-wiki-http-www-deepwiki-com-up-to-date-documentation-you-can-talk|We shipped Deep Wiki((source link) Up-to-date documentation you can talk to]]
+- Later: 2025-05-06 · AnythingLLM · [[Changes/AnythingLLM/2025-05-06-update-bing-search-api-azure-service-copy-unavailable-by-thejjw-in-https-github|Update Bing Search API Azure Service copy - Unavailable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

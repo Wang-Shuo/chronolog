@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29389383c8b58a017d752ad4286533978ef054893d918617b574d5d869dc9473
+machine_hash: dcaf927e35a9347e6beedecf7383dc9ab487b505990198a32222764019e2e3c7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Added `/terminal-setup` command to set up multi-line input on terminals not…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-08-added-support-for-multi-line-input-for-terminals-that-support-the-kitty-protocol|Added
-  support for multi-line input for terminals that support the Kitty…]]'
 - '[[Changes/Codex CLI/2025-10-09-tui-switch-to-tree-sitter-highlight-bash-highlighting-by-nornagon-openai-in-http|TUI
   Switch to tree-sitter-highlight bash highlighting]]'
+- '[[Changes/Raycast/2025-10-10-2-developer-workflow-changes-in-raycast-windows-0-32|2
+  Developer Workflow changes in Raycast windows 0.32]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-developer-workflow-changes-in-v0-9-0|3 Developer
   Workflow changes in v0.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-15-v0-0-341-github-254556067-87cb2ceb|github-copilot-cli-2025-10-15-v0-0-341-github-254556067-87cb2ceb]]'

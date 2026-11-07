@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61dac2ef26ac36e326a6a8c5d3d27aefe6c87e6f54f3703c9a4d4a4adf8d7181
+machine_hash: 4e978fce12058b24fb0c21120670aa8485f22ee400a623e8c3fbf06b830a32d8
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: Stop the service，Command, please execute in the docker directory
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow
-  changes in 0.9.2]]'
 - '[[Changes/Dify/2024-10-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
+- '[[Changes/LM Studio/2024-10-22-2-developer-workflow-changes-in-lm-studio-0-3-5|2
+  Developer Workflow changes in LM Studio 0.3.5]]'
 - '[[Changes/Dify/2024-10-23-2-developer-workflow-changes-in-0-10-1|2 Developer Workflow
   changes in 0.10.1]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'

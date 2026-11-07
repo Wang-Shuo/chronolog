@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60e037936f27af5f4d4ce408401e6fe278a11fca28955ad9a77bb248ef971bec
+machine_hash: 05731dba199d77b35f616b278cae6aa5573f167d138524281f884e95a94c2c45
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Reliability and Performance changes in 0.9.2
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2
-  Reliability and Performance changes in v0.3.31]]'
 - '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
   and Performance changes in v2.0.0]]'
+- '[[Changes/Superwhisper/2024-10-09-performance-new-models|Performance & new Models]]'
 - '[[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved
   UI responsiveness when in a Room with only 1 participant]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'

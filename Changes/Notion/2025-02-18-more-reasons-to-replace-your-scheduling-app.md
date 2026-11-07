@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 75dc8a1dee8d035e8e78a3fc6643d42b1d807c165e8efe37656c144abd081ff5
+machine_hash: c576f5a9ca503b69da469a92e156cbf80a58e05d534336664e8630c1f73778f2
 product: notion
 product_name: Notion
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2 Automation and Scheduling changes in v0.5.12]]
-- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew workflow loop node]]
+- Later: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-misc-brain-improvements-devin-is-less-likely-to-loop-while-trying-to-fix-ci-lint|Misc brain improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

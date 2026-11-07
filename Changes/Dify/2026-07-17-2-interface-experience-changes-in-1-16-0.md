@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab0b0939f093badb1db31183c96356f7bb7fc4dd07b0ff4682ed50af65a29080
+machine_hash: ade62379210ca69cb48ad907fd5520f5c310260591a6501a8172e4532227e484
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
-  an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
+- '[[Changes/Raycast/2026-07-16-2-interface-experience-changes-in-raycast-windows-0-69|2
+  Interface Experience changes in Raycast windows 0.69]]'
 - '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
   /resume in the agent view now opens a picker of past sessions]]'
 - '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'

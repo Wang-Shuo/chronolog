@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c47b5b40641339cd3a1ff772490fa0e2e08038c263725e74bf66e8c6785f249
+machine_hash: 00870aaa42910c3cd38fe5dd0301a9c52df124e6a7eb99b509fac4bcbbab19b1
 product: notion
 product_name: Notion
 record:
@@ -42,9 +42,9 @@ record:
   title: Improved reliability of Sign in with Apple on iOS
   type: change
 related_changes:
-- '[[Changes/Notion/2020-08-10-finished-rolling-out-sign-in-with-apple-to-100-of-devices-across-ios-android-web|Finished
-  rolling out Sign in with Apple to 100% of devices across iOS, Android, web…]]'
 - '[[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]'
+- '[[Changes/Raycast/2021-08-25-improve-on-login-start-performance|Improve on-login
+  start performance]]'
 - '[[Changes/Notion/2022-06-29-synced-databases-now-in-open-beta|Synced Databases,
   now in open beta]]'
 source_release: '[[Releases/Notion/notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72|notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72]]'

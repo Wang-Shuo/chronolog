@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c609e788705adb269df210761f44e3e1ef42d6ee4698e4225b88d18534f4ca9
+machine_hash: c593c0ce23f66f7219cd93b83c56338485947f304d119bbdb7b1649dba58fa22
 product: descript
 product_name: Descript
 record:
@@ -44,11 +44,12 @@ record:
   title: With Brand Studio, your team can now maintain brand consistency without sacrificing…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]'
 - '[[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request
   validation and remove credit balance for cline team]]'
 - '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
   changes in v0.6.16]]'
+- '[[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI:
+  Always use the original image when saving and sharing a chat image]]'
 source_release: '[[Releases/Descript/descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43|descript-2025-07-17-68791ed11d4d86d77022ab4c-f89d5f43]]'
 source_type: canny_changelog
 theme: collaboration
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration changes in v0.6.16]]
+- Earlier: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-ai-always-use-the-original-image-when-saving-and-sharing-a-chat-image|AI: Always use the original image when saving and sharing a chat image]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|👥 User Group Add/Remove Endpoints]]
 <!-- chronolog:end -->
 

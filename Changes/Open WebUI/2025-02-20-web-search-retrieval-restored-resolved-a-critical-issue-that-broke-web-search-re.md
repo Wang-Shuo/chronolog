@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65fe240458b0ed7f79f232dbdcc6f73206d328f609f2ec0179cb067c69ecdf64
+machine_hash: 6584de5bcf41e3ea4ad4d15ab8bfbfc63c44ee7f210b6e7bf607f375e2faaf99
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: "**\U0001F50D Web Search Retrieval Restored**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-18-2-search-and-browsing-changes-in-v0-5-13|2 Search
-  and Browsing changes in v0.5.13]]'
 - '[[Changes/Cursor/2025-02-19-web-search-agent-can-now-automatically-search-the-web-for-up-to-date-information|Web
   search: Agent can now automatically search the web for up-to-date information…]]'
+- '[[Changes/Raycast/2025-02-19-raycast-ai-added-an-option-to-configure-web-search-for-quick-ai-to-change-go-to|Raycast
+  AI: Added an option to configure web search for Quick AI]]'
 - "[[Changes/Open WebUI/2025-02-20-smarter-web-search-with-agentic-workflows-web-searches-now-intelligently-gather|\U0001F30D
   Smarter Web Search with Agentic Workflows]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-20-v0-5-16-github-201514707-588d5ee3|open-webui-2025-02-20-v0-5-16-github-201514707-588d5ee3]]'

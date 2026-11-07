@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6bf25f0473d1c8cb211c05ab3bb929affb6b4f523cd788b3b863e5ef001084cd
+machine_hash: 1b4e8db14a488081d299eb4743e1dc0de5abee92b569db63a0501147e7cf37b2
 product: ollama
 product_name: Ollama
 record:
@@ -58,8 +58,8 @@ record:
   title: '[Granite-3.2-Vision](https://ollama.com/library/granite3.2-vision): A compact…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
-  Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/AnythingLLM/2025-02-18-2-files-and-data-changes-in-v1-7-4|2 Files and
+  Data changes in v1.7.4]]'
 - '[[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene
   Editor]]'
 - "[[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post

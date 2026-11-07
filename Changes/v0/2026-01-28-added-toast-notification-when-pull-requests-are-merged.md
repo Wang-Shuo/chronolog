@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32f9067e003227070b5bc4dcf4a4fe508a826c763f30f726da695c30430b7353
+machine_hash: c13e70a3c98ea9a28abba39e6642ab7265e7121defbeabc4eadefcac54b3b95c
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
   title: Added toast notification when pull requests are merged
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
-  layout adapts better to narrow terminal widths]]'
+- '[[Changes/LM Studio/2026-01-28-4-developer-workflow-changes-in-lm-studio-0-4-0|4
+  Developer Workflow changes in LM Studio 0.4.0]]'
 - '[[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal
   Add streaming prop to markdown element]]'
 - '[[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer

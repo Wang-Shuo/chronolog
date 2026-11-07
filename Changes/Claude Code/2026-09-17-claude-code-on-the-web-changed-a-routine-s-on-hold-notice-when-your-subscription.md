@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8c033c10c8c8131c3cfec7556071ef93c9d59ffa0759782dc5f5701806554bba
+machine_hash: 32149c905fdc0c80990cab6f362f370e549db41fc3190768d6fdc124fd54cae2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Claude Code on the web] Changed a routine''s on-hold notice'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
-  support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage
-  shows per-model AI Credit consumption in usage breakdowns]]'
+- '[[Changes/Krea/2026-09-16-admins-can-manage-billing-accounts|Admins can manage
+  billing accounts]]'
+- '[[Changes/Krea/2026-09-16-organizations-is-open-to-everyone|Organizations is open
+  to everyone]]'
 - '[[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test:
   strengthen LLM subscription normalization]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

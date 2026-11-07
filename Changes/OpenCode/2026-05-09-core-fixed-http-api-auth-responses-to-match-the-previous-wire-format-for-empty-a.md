@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 40f653120946bf496c4aaf2489e4f79b4ceca1a45b9726ee0aea18ca7e7921b9
+machine_hash: bb94ff36191ada3891be53087bb5ff0ef6f2ac4adf9dd13eb5aada28ec60653d
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
     empty…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Devin/2026-05-01-linear-team-mapping-improvements|Linear Team Mapping
+  Improvements]]'
 - '[[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share
   avatar outfits and spaces]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration

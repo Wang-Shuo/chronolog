@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 95f9c888d4c24437e0eb02e54597f1433226cf7d5a90955ab0c96f99d6db1f9d
+machine_hash: 3dd92f65011ad471be150040dd1c0fc2863fb9f7fd11d8012f8e753df10c7020
 product: lovable
 product_name: Lovable
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-01-24 · Replit · [[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]
-- Later: 2025-01-29 · OpenHands · [[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved performance of GitHub API integration by using modern async HTTP client]]
+- Later: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-breakout-latex-plugin-for-delims-by-timothycarambat-in-https-github-com-mintplex|breakout latex plugin for delims]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

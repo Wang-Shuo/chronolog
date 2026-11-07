@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb849da3c0e85987c34871c5cd6293220c1f906577b5119fcd2c74dd385921c7
+machine_hash: ea302fe3dba0641577e2be6ab7f6dc6b1bc435dea4f1608a57ec13a8d77eab87
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,8 +47,7 @@ record:
   title: Add Mermaid diagram rendering to the web chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
-  Experience changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-analytics-page-improvements|Analytics Page Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
   Interface Experience changes in v1.0.68]]'
 - '[[Changes/Kimi Code/2026-07-01-keep-the-waiting-spinner-visible-while-encrypted-reasoning-streams-fixing-a-blan|Keep

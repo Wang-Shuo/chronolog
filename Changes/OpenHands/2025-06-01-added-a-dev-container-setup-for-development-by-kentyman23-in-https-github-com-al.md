@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8f100212ec97f025221b600d450c43bd69e3f6a059ffe09c37715e0039f40f5
+machine_hash: da92162ba3742d918dbd33e8045d2f09682517bafbb4b3e68de50f70fee97358
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: Added a dev container setup for development
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
-  ability to generate commit message via cline (Thanks zapp88!)]]'
-- "[[Changes/Open WebUI/2025-05-19-preview-button-for-code-artifacts-instantly-jump-from-an-html-code-block-to-its|\U0001F4DD
-  Preview Button for Code Artifacts]]"
+- '[[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf|Add
+  lms chat command to the CLI to chat with a model in the terminal (Thanks @mayfer!)]]'
+- '[[Changes/LM Studio/2025-05-23-add-lms-chat-command-to-the-cli-to-chat-with-a-model-in-the-terminal-thanks-mayf-55f0b8|Add
+  lms chat command to the CLI to chat with a model in the terminal…]]'
 - '[[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow
   changes in 1.4.1]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-01-0-40-0-github-222298073-991c1bbb|openhands-2025-06-01-0-40-0-github-222298073-991c1bbb]]'

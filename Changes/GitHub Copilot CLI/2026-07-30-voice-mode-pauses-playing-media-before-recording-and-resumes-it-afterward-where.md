@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5bc3680eff8d9924a1ef4351b68e17d851193c174d8d4a78a194726a5473b309
+machine_hash: bc879fb195efc7b899790f9d5e7a128f0b7fa7bdcc18456752b675476b31d337
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,11 @@ record:
     where…
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
-  and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
 - '[[Changes/HeyGen/2026-07-29-full-script-editing-before-render-edit-any-line-and-the-voice-updates-automatica|Full
   script editing before render: Edit any line and the voice updates automatically]]'
 - '[[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]'
+- '[[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX
+  voice models are now hidden on Intel Macs, where they aren''t supported]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: voice
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-29 · HeyGen · [[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]
+- Earlier: 2026-07-29 · Superwhisper · [[Changes/Superwhisper/2026-07-29-mlx-voice-models-are-now-hidden-on-intel-macs-where-they-aren-t-supported|MLX voice models are now hidden on Intel Macs, where they aren't supported]]
 - Later: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven v3]]
 <!-- chronolog:end -->
 

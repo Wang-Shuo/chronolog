@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e0a34e5468ee38f473bcd88cdf441f6a1188593b81d0bda80a23e21d65755b4
+machine_hash: 628915b7f8e5ce5e0debb0f3d4c91dbea71f739b3702b22354cc2ff55ada28e1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
     saved connection…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core
-  Replaced Claude Code’s misleading /login instruction with claude auth login]]'
 - '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
   Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
+- '[[Changes/Devin/2026-11-02-oauth-discovery-from-the-server-s-401|OAuth Discovery
+  from the Server''s 401]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
   OAuth discovery names the host the client connected to, so MCP clients…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'

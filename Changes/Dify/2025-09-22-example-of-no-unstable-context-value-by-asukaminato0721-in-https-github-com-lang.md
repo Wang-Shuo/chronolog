@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4aed277eb8e77949e1c61b18c31e1b52118fcc89fe74715ebc1a3aa28aa96ce1
+machine_hash: 9729372484bbf2b80ee0b6e048531c64e2829f70bcacd37f727c06eb333851ca
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: example of no-unstable-context-value
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass
-  max_tokens to moonshot provider]]'
 - '[[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857
   Make ESC button work when auto-compaction (♯3857)]]'
 - '[[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems
   are Now Shareable]]'
+- '[[Changes/Devin/2025-09-19-session-analysis-knowledge-management|Session Analysis
+  & Knowledge Management]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-18 · Gemini · [[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems are Now Shareable]]
+- Earlier: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-session-analysis-knowledge-management|Session Analysis & Knowledge Management]]
 - Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093 chore: enable auto-compaction for gpt-5-codex (♯4093)]]
 <!-- chronolog:end -->
 

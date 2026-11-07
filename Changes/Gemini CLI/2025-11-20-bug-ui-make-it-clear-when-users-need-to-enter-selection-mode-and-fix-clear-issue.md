@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96bdd97af96bce45f0bec07cacd46b913171d8d2837781c59d4f2db6aa44c077
+machine_hash: f83641fc7dc80f1bcf197543c7081de06a28bd03b5148313e50e17d18f6e320f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     issue
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-2-interface-experience-changes-in-rust-v0-58-0|2
-  Interface Experience changes in rust-v0.58.0]]'
 - '[[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch
   to alternate buffer mode before rendering Ink]]'
+- '[[Changes/Raycast/2025-11-15-there-is-a-brand-new-way-to-set-shortcuts-for-your-favourite-commands-and-apps-a|There
+  is a brand new way to set shortcuts for your favourite commands and apps…]]'
 - '[[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle
   "Don''t Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b|gemini-cli-2025-11-20-v0-17-0-github-264144730-908dc66b]]'

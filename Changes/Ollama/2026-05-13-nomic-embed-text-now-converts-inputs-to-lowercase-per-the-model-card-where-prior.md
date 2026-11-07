@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d8e485dd31ff19f8f1684866b8d20556cfe8e10dcd09cc1b569d2168699da7af
+machine_hash: f8271954b8fa4234970afaab7c2ee38ecf17fcf20b76f21665ea10efe9f705d9
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,7 @@ record:
     prior…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
-  a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Krea/2026-05-12-krea-2-is-here|Krea 2 is here]]'
 - '[[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx:
   refined model push behavior]]'
 - '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable

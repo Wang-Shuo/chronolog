@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a00fe42533de2496f101851095ae78dcf6e2cf74aa8d005b18784c27bcb4b507
+machine_hash: f9cd99e05faa846a5f8d4c4df2fb3a077da3c41de9b1bdb0e274c73efe57fcb4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface Experience changes in v0.10.0]]
-- Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]
+- Later: 2025-10-24 · Devin · [[Changes/Devin/2025-10-24-slash-command-improvements|Slash Command Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

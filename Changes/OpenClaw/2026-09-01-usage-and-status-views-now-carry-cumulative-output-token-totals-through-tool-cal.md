@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: eb63ebb986f3f8cd84beb30f20dc9672a4a334e8758a2f236b6e24decb4aeb74
+machine_hash: aa699dd5dc4bcda13f9c107b2e8498110cc722660ebe5d481eef90a4f8dbe5d0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -62,12 +62,12 @@ record:
     calls…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
-  a per-session prompt-cache line to /cost…]]'
 - '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
+- '[[Changes/Krea/2026-09-01-minimax-h3-max-launch-pricing-ended|MiniMax H3 Max launch
+  pricing ended]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-01-v2026-8-2-cca64187|openclaw-2026-09-01-v2026-8-2-cca64187]]'
 source_type: openclaw_changelog
 theme: pricing-model
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit banners offer actions for checking usage, managing credits, resetting…]]
+- Earlier: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-minimax-h3-max-launch-pricing-ended|MiniMax H3 Max launch pricing ended]]
 - Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost estimates no longer appear in task history for subscription-billed tasks…]]
 <!-- chronolog:end -->
 

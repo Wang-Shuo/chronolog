@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b80c5c161183ab2c66f74d14e663fffd501f1cf6826bc38d5c4271774bdbd44f
+machine_hash: 9410ef62dafcb3ee4609a1fd3c1eacd29abd102dde440d2e4973a0b950d85f93
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Workspace build secrets appear in your project's secrets list
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-25-only-free-and-pro-projects-are-eligible-for-linkedin-skills|Only
-  Free and Pro projects are eligible for LinkedIn skills]]'
 - '[[Changes/Open WebUI/2026-08-25-4-enterprise-and-administration-changes-in-v0-11-1|4
   Enterprise and Administration changes in v0.11.1]]'
+- '[[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3
+  API]]'
 - '[[Changes/Lovable/2026-08-26-record-who-is-behind-each-commit-lovable-pushes|Record
   who is behind each commit Lovable pushes]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-enterprise-and-administration-changes-in-v0-11-1|4 Enterprise and Administration changes in v0.11.1]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3 API]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
 <!-- chronolog:end -->
 

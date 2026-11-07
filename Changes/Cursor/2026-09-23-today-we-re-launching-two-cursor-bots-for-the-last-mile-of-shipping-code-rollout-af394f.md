@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 333b4c2ce058fd49285a7ea5863996ab5ab24bf8e33531c38d11d15e508e7692
+machine_hash: 23324be41269db52aedd00367394da3dc0575aece7a0189dd248e0c0e98b2ea7
 product: cursor
 product_name: Cursor
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety and Privacy changes in v2.1.281]]
-- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden workspace security]]
+- Later: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-microsoft-teams-without-tenant-wide-admin-consent|Microsoft Teams Without Tenant-Wide Admin Consent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

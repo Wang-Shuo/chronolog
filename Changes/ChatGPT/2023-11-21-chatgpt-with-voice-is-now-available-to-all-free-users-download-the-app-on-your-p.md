@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 7fea809078fb3c8d682c7560a51af261ab6671f2be45ae07f06d6d70e4d02ef5
+machine_hash: dd774ba69ea055dfc53693e22904d5b4c94371b4f91318bff4ec1dbcf2a1bfeb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,8 @@ record:
   title: ChatGPT with voice is available to all users
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-31-wordless-media|Wordless Media]]'
+- '[[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio
+  playback UI/UX]]'
 - '[[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO
   download is here]]'
 - '[[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]'
@@ -74,7 +75,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-11-15 · Descript · [[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]
-- Later: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
+- Later: 2023-11-24 · Superwhisper · [[Changes/Superwhisper/2023-11-24-delete-recording-from-dictation-history|Delete recording from dictation history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3aa1e2df10ef7cbae15c29cf71da1e2e7b4bf9446bc92169e102e294682ac58
+machine_hash: 32b8d7fe29c9e85c2ecbda6a828ec36a4b70c8b8678b55d02dd3f0f8b629d686
 product: dify
 product_name: Dify
 record:
@@ -80,10 +80,10 @@ record:
   title: 12 Model Support changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model
-  Support changes in Kimi Code 0.25.0]]'
-- '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
-  changes in v0.32.1]]'
+- '[[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view|AI
+  Settings : Added default reasoning effort settings to models view]]'
+- '[[Changes/Raycast/2026-07-16-ai-settings-added-default-reasoning-effort-settings-to-models-view-a8b1e4|AI
+  Settings : Added default reasoning effort settings to models view]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
   changes in v2.1.212]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

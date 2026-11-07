@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce0fef1fe4c07039804c1f686ed5ecf97c30b75ed063c2b2145f8eb3c0eb4c56
+machine_hash: caccfb6c72dae1230c82429b255340fd039575b37ee762c1dafff020d3d19e02
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
-  new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
 - '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
   onboarding flow on first launch]]'
+- '[[Changes/Raycast/2026-08-19-core-text-fields-now-expand-your-macos-text-replacements|Core:
+  Text fields now expand your macOS Text Replacements]]'
 - '[[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for
   you playlist]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5bbc187dbe1fcd244aa9a14d7a43f30b223a370955b467c095d9011c2a3171f7
+machine_hash: 27da78d8cc14823d26f1a06b0efd68477ffe30af78ca4eed5dc9cdcbfb9dcf47
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified composer]]
-- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface Experience changes in v0.8.1]]
+- Later: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-devin-fast-mode|Devin Fast Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

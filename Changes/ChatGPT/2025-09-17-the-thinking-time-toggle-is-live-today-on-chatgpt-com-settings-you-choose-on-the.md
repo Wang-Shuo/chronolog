@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42440d088cb7641abae531360d06cc58e31502b9011fdc539ccb44409ff7dc0d
+machine_hash: 19558e2d408cb2f8d1c3cb49ad1760589997d009f8b275ddb4ea64ad082ccec5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,11 @@ record:
   title: The thinking-time toggle is live today on chatgpt.com
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-03-2-mobile-and-desktop-changes-in-rust-v0-29-0|2 Mobile
-  and Desktop changes in rust-v0.29.0]]'
-- '[[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211
-  fixes image pasting from Finder with ctrl+v on macOS]]'
-- '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
-  Planning Improvements]]'
+- '[[Changes/Raycast/2025-09-12-misc-updated-design-and-support-for-ios-26|Misc: Updated
+  design and support for iOS 26]]'
+- '[[Changes/Raycast/2025-09-15-macos-tahoe-ready|macOS Tahoe Ready]]'
+- '[[Changes/Superwhisper/2025-09-15-tahoe-icon-claude-improvements|Tahoe Icon & Claude
+  Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c|chatgpt-2025-09-17-toggle-thinking-time-in-the-message-composer-66cafc9c]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -93,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep Planning Improvements]]
-- Later: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating and editing files with Claude for Pro plans and mobile]]
+- Earlier: 2025-09-15 · Superwhisper · [[Changes/Superwhisper/2025-09-15-tahoe-icon-claude-improvements|Tahoe Icon & Claude Improvements]]
+- Later: 2025-09-18 · Raycast · [[Changes/Raycast/2025-09-18-app-icons-updated-custom-app-icons-with-a-nested-concentric-border-to-align-with|App Icons : Updated custom app icons with a nested concentric border to align…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

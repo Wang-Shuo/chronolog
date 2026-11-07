@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4f98be07c45ad8d46f745995f99da65224c0f2bbebc840ecdb6a1d6101f7b27
+machine_hash: c6e214072fd96d1a6b425d56998b557023df10fba4b743ee95a5abea7d02959c
 product: v0
 product_name: v0
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3 Interface Experience changes in rust-v0.65.0]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2 Interface Experience changes in rust-v0.66.0]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-add-svelte-rendering-to-markdown-renderer-by-timothycarambat-in-https-github-com|add svelte rendering to markdown renderer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

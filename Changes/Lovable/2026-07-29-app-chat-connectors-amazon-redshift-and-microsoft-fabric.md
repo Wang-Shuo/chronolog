@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a282471087636ef45fb796c7419cdc501c123abc600a93f862f1d47f938757dc
+machine_hash: e0336d5ce3984a5f47f535873c7940b580bc3d785cb7129f8f9d41365be20682
 product: lovable
 product_name: Lovable
 record:
@@ -55,10 +55,10 @@ record:
   title: 'App + chat connectors: Amazon Redshift and Microsoft Fabric'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
-  in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
   Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-this-release-also-includes-many-smaller-fixes-and-improvements-including-clearer|This
+  release also includes many smaller fixes and improvements, including clearer…]]'
 - '[[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2
   Apps and Integrations changes in Kimi Code 0.30.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-29-2026-07-29-599fab6b|lovable-2026-07-29-2026-07-29-599fab6b]]'

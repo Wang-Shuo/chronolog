@@ -1,0 +1,189 @@
+{
+  "title": "ChronoLog",
+  "viewport": 1440,
+  "documentWidth": 1440,
+  "productCount": 45,
+  "products": [
+    [
+      "/chronolog/Products/ChatGPT",
+      "ChatGPT"
+    ],
+    [
+      "/chronolog/Products/Claude-Code",
+      "Claude Code"
+    ],
+    [
+      "/chronolog/Products/Devin",
+      "Devin"
+    ],
+    [
+      "/chronolog/Products/GitHub-Copilot-CLI",
+      "GitHub Copilot CLI"
+    ],
+    [
+      "/chronolog/Products/Google-Antigravity",
+      "Google Antigravity"
+    ],
+    [
+      "/chronolog/Products/Kimi-Code",
+      "Kimi Code"
+    ],
+    [
+      "/chronolog/Products/Krea",
+      "Krea"
+    ],
+    [
+      "/chronolog/Products/Lovable",
+      "Lovable"
+    ],
+    [
+      "/chronolog/Products/Ollama",
+      "Ollama"
+    ],
+    [
+      "/chronolog/Products/Open-WebUI",
+      "Open WebUI"
+    ],
+    [
+      "/chronolog/Products/OpenClaw",
+      "OpenClaw"
+    ],
+    [
+      "/chronolog/Products/OpenCode",
+      "OpenCode"
+    ],
+    [
+      "/chronolog/Products/OpenHands",
+      "OpenHands"
+    ],
+    [
+      "/chronolog/Products/Qoder",
+      "Qoder"
+    ],
+    [
+      "/chronolog/Products/Raycast",
+      "Raycast"
+    ],
+    [
+      "/chronolog/Products/Superwhisper",
+      "Superwhisper"
+    ],
+    [
+      "/chronolog/Products/Windsurf",
+      "Windsurf"
+    ],
+    [
+      "/chronolog/Products/Aider",
+      "Aider"
+    ],
+    [
+      "/chronolog/Products/AnythingLLM",
+      "AnythingLLM"
+    ],
+    [
+      "/chronolog/Products/Claude",
+      "Claude"
+    ],
+    [
+      "/chronolog/Products/Cline",
+      "Cline"
+    ],
+    [
+      "/chronolog/Products/Codex-CLI",
+      "Codex CLI"
+    ],
+    [
+      "/chronolog/Products/Cursor",
+      "Cursor"
+    ],
+    [
+      "/chronolog/Products/DeepSeek-API",
+      "DeepSeek API"
+    ],
+    [
+      "/chronolog/Products/Descript",
+      "Descript"
+    ],
+    [
+      "/chronolog/Products/Dify",
+      "Dify"
+    ],
+    [
+      "/chronolog/Products/ElevenLabs",
+      "ElevenLabs"
+    ],
+    [
+      "/chronolog/Products/Gamma",
+      "Gamma"
+    ],
+    [
+      "/chronolog/Products/Gemini",
+      "Gemini"
+    ],
+    [
+      "/chronolog/Products/Gemini-CLI",
+      "Gemini CLI"
+    ],
+    [
+      "/chronolog/Products/Granola",
+      "Granola"
+    ],
+    [
+      "/chronolog/Products/HeyGen",
+      "HeyGen"
+    ],
+    [
+      "/chronolog/Products/LM-Studio",
+      "LM Studio"
+    ],
+    [
+      "/chronolog/Products/Manus",
+      "Manus"
+    ],
+    [
+      "/chronolog/Products/Microsoft-365-Copilot",
+      "Microsoft 365 Copilot"
+    ],
+    [
+      "/chronolog/Products/Midjourney",
+      "Midjourney"
+    ],
+    [
+      "/chronolog/Products/Notion",
+      "Notion"
+    ],
+    [
+      "/chronolog/Products/Recraft",
+      "Recraft"
+    ],
+    [
+      "/chronolog/Products/Replit",
+      "Replit"
+    ],
+    [
+      "/chronolog/Products/Runway",
+      "Runway"
+    ],
+    [
+      "/chronolog/Products/Suno",
+      "Suno"
+    ],
+    [
+      "/chronolog/Products/Synthesia",
+      "Synthesia"
+    ],
+    [
+      "/chronolog/Products/Wispr-Flow",
+      "Wispr Flow"
+    ],
+    [
+      "/chronolog/Products/Z.ai-API",
+      "Z.ai API"
+    ],
+    [
+      "/chronolog/Products/v0",
+      "v0"
+    ]
+  ],
+  "stats": "ChronoLog\n\nTracked changes in AI products, from official release notes. 45 products \u00b7 21,692 tracked changes \u00b7 29 themes \u00b7 archive to 2026-11-06 \u00b7 About the data\n\nLatest changes\nAider\nNo changes archived between 2026-10-08 and 2026-11-06.\nAnythingLLM\n2026-10-26 \u00b7 AnythingLLM v1.19.0 \u00b7 6 cards: Model Support, Context Window, Files and Data, +3 more\nChatGPT\n2026-10-30 \u00b7 Memory and Personalization: Account switching on iOS and Android\n2026-10-28 \u00b7 Safety and Privacy: Texting your dot\n2026-10-28 \u00b7 P"
+}

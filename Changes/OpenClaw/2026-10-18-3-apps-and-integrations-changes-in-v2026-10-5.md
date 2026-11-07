@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ba0f5bcf22ec50e64f5e42809a5a9866e55bad1185ecf7413570553bfc0a600
+machine_hash: 0064d6859e0a029d9e6275960aee00f5d7449621ce7cdbdc1abe24095ecd7637
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,11 +51,12 @@ record:
   title: 3 Apps and Integrations changes in v2026.10.5
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
-- '[[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance
-  warnings]]'
-- '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
-  icons no longer fail to load in project settings]]'
+- '[[Changes/Krea/2026-10-17-launch-pop-ups-no-longer-appear-inside-desktop-plugins|Launch
+  pop-ups no longer appear inside desktop plugins]]'
+- '[[Changes/Krea/2026-10-17-enable-integrations-from-the-agent-s-connect-button|Enable
+  integrations from the Agent''s Connect button]]'
+- '[[Changes/Krea/2026-10-17-custom-apps-remember-settings-per-session|Custom apps
+  remember settings per session]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-18-v2026-10-5-fdda4c73|openclaw-2026-10-18-v2026-10-5-fdda4c73]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -97,7 +98,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration icons no longer fail to load in project settings]]
+- Earlier: 2026-10-17 · Krea · [[Changes/Krea/2026-10-17-custom-apps-remember-settings-per-session|Custom apps remember settings per session]]
 - Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
 <!-- chronolog:end -->
 

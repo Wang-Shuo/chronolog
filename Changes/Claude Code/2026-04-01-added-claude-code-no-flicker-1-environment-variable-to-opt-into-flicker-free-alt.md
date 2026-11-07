@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e04ba4b1040a82c09562cfc8f746b4f65e71bd6f0c704a40f052fa32a689d58
+machine_hash: e22394e6cdb0c0d8c47395a0372cd51946962a9da6120fbb48bb3ca17b848ce9
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `CLAUDE_CODE_NO_FLICKER=1` environment variable to opt into flicker-free…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3
-  Interface Experience changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-2-interface-experience-changes-in-v1-0-14|2
   Interface Experience changes in v1.0.14]]'
+- '[[Changes/Wispr Flow/2026-03-31-language-picker-in-the-flow-bar-desktop|Language
+  Picker in the Flow Bar (Desktop)]]'
 - '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
   --resume picker to no longer show sessions created by claude -p or SDK…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed --resume picker to no longer show sessions created by claude -p or SDK…]]
-- Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface Experience changes in v0.36.0]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-sticky-sidebar-headers|Sticky Sidebar Headers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

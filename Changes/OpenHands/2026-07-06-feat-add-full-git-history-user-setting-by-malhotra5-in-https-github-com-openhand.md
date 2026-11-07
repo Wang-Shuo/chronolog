@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65a212f39189c2130cee982c799972ae7c20cbb2faa6fb5d32b71e0009d4b9d8
+machine_hash: d44c8303126ff8b2f63e37eeb0615f3b3b414237aa104d7076b10f1ab5275e08
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat: Add full Git history user setting'
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich
-  PATH from the user''s login shell at startup, so shell commands find…]]'
+- '[[Changes/Raycast/2026-07-03-windows-management-you-can-now-minimize-current-window-with-the-minimize-command|Windows
+  Management : You can now minimize current window with the Minimize command]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
   /review pr back to a fast single-pass review]]'
 - '[[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer

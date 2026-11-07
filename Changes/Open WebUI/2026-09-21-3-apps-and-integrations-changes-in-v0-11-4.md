@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3f758e1c5ba7db635f8e3b5c2c5fc93fe36bad44980c135f7a26ff6d4451045
+machine_hash: b10691463b538d13a5b9e6f04cf11d0833bf415fe7517703d17a43885f4aa4a7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 3 Apps and Integrations changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
-  Apps and Integrations changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-devin-can-manage-org-and-enterprise-plugins|Devin Can
+  Manage Org and Enterprise Plugins]]'
 - '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8
   Apps and Integrations changes in v1.0.87]]'

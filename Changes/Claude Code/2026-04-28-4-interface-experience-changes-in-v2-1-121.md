@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42ff882719a2590bccf714c06ea72521a62be12f9beb7b2b6b4babae3c5ae4e5
+machine_hash: 40b885698ee75cfeb5f7b11f98ac1f0b9c230faf3288b5a5c2677ca35f715ce7
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Interface Experience changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
-  picker shows a selection indicator (❯) next to the highlighted item]]'
-- '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
-  and navigation]]'
+- '[[Changes/Superwhisper/2026-04-24-added-onboarding-toasts-to-help-new-users-get-started|Added
+  onboarding toasts to help new users get started]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2
   Interface Experience changes in v1.0.37]]'
+- '[[Changes/Raycast/2026-04-27-emoji-picker-new-emojis-introduced-in-macos-26-4-are-available-in-the-search-emo|Emoji
+  Picker: New emojis introduced in macOS 26.4 are available in the Search Emojis…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: interface-experience
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-interface-experience-changes-in-v1-0-37|2 Interface Experience changes in v1.0.37]]
+- Earlier: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-emoji-picker-new-emojis-introduced-in-macos-26-4-are-available-in-the-search-emo|Emoji Picker: New emojis introduced in macOS 26.4 are available in the Search Emojis…]]
 - Later: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2 Interface Experience changes in v1.0.39]]
 <!-- chronolog:end -->
 

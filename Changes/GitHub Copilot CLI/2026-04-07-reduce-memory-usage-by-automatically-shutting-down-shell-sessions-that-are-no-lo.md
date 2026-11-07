@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7ff39feb460118dc68682bbdaf8a94f2ff286c2e0d7e1fbee79fea0f466721e
+machine_hash: bc35c2eaef9b43b7ba934221d59578761e69f9f429f099977029e96e9e2e7f26
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     no longer…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-browser-performance-tools|Browser performance tools]]'
 - '[[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]'
+- '[[Changes/Devin/2026-04-03-smarter-codebase-search|Smarter Codebase Search]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576|github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576]]'

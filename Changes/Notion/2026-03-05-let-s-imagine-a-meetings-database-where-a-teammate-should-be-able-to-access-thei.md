@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4c0104de8b255e4886516bdc7c14145203c47d14f7ec728a9ff89fbd2d33e77f
+machine_hash: 64dd32160aff9b950efccf949705d3092eca9c5039650041313a90888831fd19
 product: notion
 product_name: Notion
 record:
@@ -46,12 +46,12 @@ record:
   title: Let’s imagine a meetings database where a teammate should be able to access…
   type: change
 related_changes:
-- '[[Changes/Notion/2025-11-17-a-new-home-for-all-your-meetings|A new home for all
-  your meetings]]'
 - '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
   Crunched]]'
 - '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
   Granola MCP]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast
+  Notes is a lightweight tool that helps you capture ideas quickly without…]]'
 source_release: '[[Releases/Notion/notion-2026-03-05-https-www-notion-com-releases-2026-03-05-406c8cec|notion-2026-03-05-https-www-notion-com-releases-2026-03-05-406c8cec]]'
 source_type: notion_changelog
 theme: meeting-notes
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2026-02-04 · Granola · [[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing Granola MCP]]
+- Earlier: 2026-02-19 · Raycast · [[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast Notes is a lightweight tool that helps you capture ideas quickly without…]]
 - Later: 2026-03-18 · Notion · [[Changes/Notion/2026-03-18-custom-instructions-let-you-define-exactly-how-ai-meeting-notes-makes-your-summa|Custom instructions for AI Meeting Notes]]
 <!-- chronolog:end -->
 

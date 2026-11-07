@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f670068352377eb4fdb5357824c355a062f9a261b6f6e3fe1bbd41a06ba8358
+machine_hash: b34c2fdd5fe95c489cb750677a752b9f9b438b994deecd7fcfa633d68a59903a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Model Support changes in rust-v0.104.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
-  Support changes in v0.0.411]]'
 - '[[Changes/Midjourney/2026-02-17-please-note|Please Note]]'
 - '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
   changes in v0.8.3]]'
+- '[[Changes/AnythingLLM/2026-02-18-4-model-support-changes-in-v1-11-0|4 Model Support
+  changes in v1.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34|codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.104.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support changes in v0.8.3]]
+- Earlier: 2026-02-18 · AnythingLLM · [[Changes/AnythingLLM/2026-02-18-4-model-support-changes-in-v1-11-0|4 Model Support changes in v1.11.0]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2 Model Support changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 

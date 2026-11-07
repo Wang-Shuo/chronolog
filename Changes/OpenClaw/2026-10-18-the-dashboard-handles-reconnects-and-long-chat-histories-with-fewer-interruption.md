@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb1838c98bbcf995d9914896309541e82c72555740cfff7550a5ece4a0e52fc3
+machine_hash: a0d67e3b76a0d32b107355382799361f6bdad5b90c833b36450d5f806e465c18
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,12 +58,12 @@ record:
   title: The Dashboard handles reconnects and long chat histories with fewer interruptions…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
-  app]]'
-- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
-  and Access changes in v0.12.3]]'
 - '[[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account
   and Access changes in v2026.10.4]]'
+- '[[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a|Custom
+  Providers : Numeric provider API keys are now kept exactly as written…]]'
+- '[[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a-5895a4|Custom
+  Providers : Numeric provider API keys are now kept exactly as written…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-18-v2026-10-5-fdda4c73|openclaw-2026-10-18-v2026-10-5-fdda4c73]]'
 source_type: openclaw_changelog
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account and Access changes in v2026.10.4]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-custom-providers-numeric-provider-api-keys-are-now-kept-exactly-as-written-and-a-5895a4|Custom Providers : Numeric provider API keys are now kept exactly as written…]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3 Account and Access changes in v1.0.100]]
 <!-- chronolog:end -->
 

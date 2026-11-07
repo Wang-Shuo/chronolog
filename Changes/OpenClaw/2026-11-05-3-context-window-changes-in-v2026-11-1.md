@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e0115c2b819e55563bee03a067b9552da4ed9f8368087dc215d473384f4bf27
+machine_hash: c7acb1047378abb7a3d69fc83e1976cff083d516e644814f280c2eb28a6e7c9e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Context Window changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context
-  Window changes in v2026.10.10]]'
-- '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
-  in 1.19.0]]'
 - '[[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account
   Selector in Outlook Copilot Side Pane Web (Outlook)]]'
+- '[[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w|Raycast
+  introduces Dictate to AI, a new command that combines what you say…]]'
+- '[[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w-9ef173|Raycast
+  introduces Dictate to AI, a new command that combines what you say…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: context-window
@@ -101,7 +101,7 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account Selector in Outlook Copilot Side Pane Web (Outlook)]]
+- Earlier: 2026-11-04 · Raycast · [[Changes/Raycast/2026-11-04-today-we-re-introducing-dictate-to-ai-a-new-command-that-combines-what-you-say-w-9ef173|Raycast introduces Dictate to AI, a new command that combines what you say…]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context Window changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

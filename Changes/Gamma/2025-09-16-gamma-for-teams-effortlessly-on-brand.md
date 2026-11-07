@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 35b98bc0c14ab8173d33c02376616e49f958a18ef281c1736478b5379110c84b
+machine_hash: 4c20e54a88d81c875de22e9ef3803210e12230ce90cf22c04efa41540083b8a3
 product: gamma
 product_name: Gamma
 record:
@@ -50,12 +50,11 @@ record:
   title: 'Gamma for teams: Effortlessly on-brand'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
-- '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
-  Changes]]'
+- '[[Changes/Devin/2025-09-12-api-v2-knowledge-sharing|API v2 knowledge sharing]]'
 - '[[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing
   Manus collaboration]]'
+- '[[Changes/Recraft/2025-09-12-we-ve-added-the-ability-to-seamlessly-switch-between-a-personal-account-and-a-te|Personal
+  & Team Workspace switcher]]'
 source_release: '[[Releases/Gamma/gamma-2025-09-16-690151ce8eb4dca3dafc78f1-22ee04a7|gamma-2025-09-16-690151ce8eb4dca3dafc78f1-22ee04a7]]'
 source_type: gamma_changelog
 theme: collaboration
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-12 · Manus · [[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing Manus collaboration]]
+- Earlier: 2025-09-12 · Recraft · [[Changes/Recraft/2025-09-12-we-ve-added-the-ability-to-seamlessly-switch-between-a-personal-account-and-a-te|Personal & Team Workspace switcher]]
 - Later: 2025-09-17 · Granola · [[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared with me: a new way to keep up-to-date with important conversations]]
 <!-- chronolog:end -->
 

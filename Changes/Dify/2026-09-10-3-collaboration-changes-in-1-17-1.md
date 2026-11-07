@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88ac816a3706e5867288210d0c772b5e20ebeffea4642de8f59a880c372fe672
+machine_hash: aeb54f391db5b21d4741c4da63cfd2c004f3ad21e67bfd887b160e1ea4375ee5
 product: dify
 product_name: Dify
 record:
@@ -55,11 +55,11 @@ record:
   title: 3 Collaboration changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
 - '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
   changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-sync-to-teams-from-the-webapp|Sync to Teams from the
+  Webapp]]'
+- '[[Changes/Devin/2026-09-09-teams-improvements|Teams Improvements]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
 source_type: github_releases
 theme: collaboration
@@ -111,7 +111,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-teams-improvements|Teams Improvements]]
 - Later: 2026-09-10 · v0 · [[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team chats are easier to discover and collaborate on]]
 <!-- chronolog:end -->
 

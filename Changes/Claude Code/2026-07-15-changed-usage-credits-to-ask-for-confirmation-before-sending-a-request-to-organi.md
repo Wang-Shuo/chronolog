@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29f8baf247f8c94c2057c74bdb26da6a0185d5b682a0144f1e519919033363b0
+machine_hash: 35c6c74c395303fc60d917e159459b19b8ae609cee6e76889917db76cbcbe99d
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The Lovable badge returns on your next publish after a downgrade]]
-- Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins can manage access more precisely with support for nested permissions…]]
+- Later: 2026-07-15 · Devin · [[Changes/Devin/2026-07-15-promote-playbooks-to-your-enterprise|Promote Playbooks to Your Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

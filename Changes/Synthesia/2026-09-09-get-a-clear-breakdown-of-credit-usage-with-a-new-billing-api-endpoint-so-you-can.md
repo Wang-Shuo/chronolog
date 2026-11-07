@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 32214ffd9c3d7d5df916aff570c582d72d6cff98f7612ea776c6f4d1d11f97db
+machine_hash: 248312eae9620e80401c2eab3c0bd41dabdd5dd7af58216b8373155a61b80522
 product: synthesia
 product_name: Synthesia
 record:
@@ -47,10 +47,10 @@ record:
   title: Track credit usage with the Billing API
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
-  Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
   Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Krea/2026-09-09-postpaid-invoicing-for-enterprise-billing-accounts|Postpaid
+  invoicing for enterprise billing accounts]]'
 - '[[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy
   credits and set auto top-ups]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-09-https-www-synthesia-io-updates-track-credit-usage-with-the-billi-a84c547e|synthesia-2026-09-09-https-www-synthesia-io-updates-track-credit-usage-with-the-billi-a84c547e]]'

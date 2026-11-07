@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb51e165e7ab533c9cc77a60e1e8e9480dd67b2ea97fc9a28f5d803eb0bd4e5f
+machine_hash: 4dcb5f3019dd130b0dd519a8e249794245beb2e07816598101b9090e153910a7
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in Kimi Code 0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
-  Experience changes in v2.1.169]]'
 - '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
   Experience changes in Changelog update]]'
+- '[[Changes/AnythingLLM/2026-06-09-x-better-latex-rendering-support|x Better LaTex
+  rendering support]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
   Interface Experience changes in v1.0.61]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-09-0-12-0-fb6901e1|kimi-code-2026-06-09-0-12-0-fb6901e1]]'

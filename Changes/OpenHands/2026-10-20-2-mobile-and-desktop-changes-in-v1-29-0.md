@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99fc9572283885ad52c00201fc9e30a0d2e6c69146678ae9ffdce9c71acd608e
+machine_hash: 68adcd205c839111e2c38b6ff15758697a3afaf8139112490574c66a0fc68073
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Mobile and Desktop changes in v1.29.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
-  your last chat in the desktop app]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
   Improved git command start-up with a standard Git for Windows install…]]'
+- '[[Changes/Wispr Flow/2026-10-19-dark-mode-for-desktop-is-here-desktop|Dark Mode
+  for Desktop Is Here (Desktop)]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
   sandboxed commands can connect directly to localhost TCP services when local…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4|openhands-2026-10-20-v1-29-0-github-418940388-2427c7e4]]'
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS sandboxed commands can connect directly to localhost TCP services when local…]]
-- Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note: Flint is supported on MacOS]]
+- Later: 2026-10-20 · Superwhisper · [[Changes/Superwhisper/2026-10-20-iphone-duo-compatibility|iPhone Duo compatibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

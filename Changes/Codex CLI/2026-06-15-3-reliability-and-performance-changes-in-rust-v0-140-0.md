@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0596eded5e8e6dc7e4bc34081083bfac267b94febf18a268497e91b03ec14ad4
+machine_hash: 07e5ca8cbc56b3407811d888b925ced9d5b50b9f477ae9bf6476a14a608ef30d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
-  Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Raycast/2026-06-12-snippets-improved-snippet-expansion-reliability-and-accuracy-faster-expansion-wh|Snippets:
+  Improved snippet expansion reliability and accuracy]]'
 - '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
   and export]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed up branch and HEAD detection in warm sessions]]
-- Later: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves open-source SOTA performance on coding and long-horizon task benchmarks…]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-4-reliability-and-performance-changes-in-v1-14-1|4 Reliability and Performance changes in v1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

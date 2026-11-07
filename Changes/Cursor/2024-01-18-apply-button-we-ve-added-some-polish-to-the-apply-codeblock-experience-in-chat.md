@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d42a15a99aa56164ed33d7290da9f831b54427ee83c2f1197f4caf4644f98b1
+machine_hash: 155ad4cbd7dcddd55e5e679a94de74e9126553987a0e15daeca51dd3e0e10fd0
 product: cursor
 product_name: Cursor
 record:

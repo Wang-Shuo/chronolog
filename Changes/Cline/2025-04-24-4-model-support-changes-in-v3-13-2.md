@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a24a0dead1183be1a4a299fc235b9c6e0072943129d94c47dc976c00e14e23e1
+machine_hash: 5ac8bd991bee1a3199f24291e8241be8939d1d7759baba46f05258b5dda797fa
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in v3.13.2
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
-  in v3.13.0]]'
 - '[[Changes/Gemini/2025-04-19-update-to-2-0-flash-in-gemini|Update to 2.0 Flash in
   Gemini]]'
 - '[[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes
   in 1.3.0]]'
+- '[[Changes/Superwhisper/2025-04-23-gpt-4-1-models-api-key-encryption|GPT-4.1 Models
+  & API Key Encryption]]'
 source_release: '[[Releases/Cline/cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52|cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52]]'
 source_type: github_releases
 theme: model-support
@@ -91,8 +91,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-4-model-support-changes-in-1-3-0|4 Model Support changes in 1.3.0]]
-- Later: 2025-04-25 · ChatGPT · [[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements to GPT-4o]]
+- Earlier: 2025-04-23 · Superwhisper · [[Changes/Superwhisper/2025-04-23-gpt-4-1-models-api-key-encryption|GPT-4.1 Models & API Key Encryption]]
+- Later: 2025-04-24 · LM Studio · [[Changes/LM Studio/2025-04-24-support-for-glm4-models|Support for GLM4 models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

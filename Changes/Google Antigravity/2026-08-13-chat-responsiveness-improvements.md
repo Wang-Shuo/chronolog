@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3fcd4b0ba529decc83ef6059ff72acaa635631367ad8d9211e4dfd638f4a7930
+machine_hash: 64ced5403365842fde3fd6698c5c3b5e757885b83aca8040bd4af69686a68368
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,10 +41,10 @@ record:
   title: Chat Responsiveness Improvements
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-queued-messages-file-attachments-and-performance-improvements|Queued
-  Messages, File Attachments, and Performance Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening
   long conversations is now dramatically faster]]'
+- '[[Changes/AnythingLLM/2026-08-13-we-also-made-some-large-performance-improvements-like-lazy-loading-of-folders-fo|We
+  also made some large performance improvements, like lazy-loading of folders…]]'
 - '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-13-rel-hub-2-8-1-d42d8a75|google-antigravity-2026-08-13-rel-hub-2-8-1-d42d8a75]]'
 source_type: antigravity_changelog

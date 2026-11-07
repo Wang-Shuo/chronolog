@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 18781612a04bf2774733e7210b54e21508c4eb7a299105f49f4d9e3df3c2e0e4
+machine_hash: 9d2988a5fc4a7fe2cf154a2c927bc4e8fbee99fb18dd1d67c9c9cdd43b0101b2
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,9 @@ record:
   title: Log out everywhere
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
-  and Privacy changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
   Safety and Privacy changes in rust-v0.150.0]]'
+- '[[Changes/Devin/2026-08-26-security-section|Security Section]]'
 - '[[Changes/Google Antigravity/2026-08-26-2-safety-and-privacy-changes-in-hub-v2-11-0-generative-ui-and-ui|2
   Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'

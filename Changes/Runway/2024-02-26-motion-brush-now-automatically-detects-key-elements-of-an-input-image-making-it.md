@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93ab579e3f2442326b48da23d7ab81ab1f3db2171e4c1754a63856b742787a8d
+machine_hash: ba57213f30c38b827b28dca55f5018af38b670921b8fbabff47d1882b58c2438
 product: runway
 product_name: Runway
 record:
@@ -54,10 +54,10 @@ record:
   title: Auto-detect Motion Brush Areas
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
-  optimize add hit count query performance when dataset hit]]'
 - '[[Changes/Gamma/2024-02-14-search-performance-faster-search-from-your-home-screen-or-using-cmd-k-from-anywh|Search
   Performance]]'
+- '[[Changes/Raycast/2024-02-21-2-reliability-and-performance-changes-in-raycast-macos-v1-1-68-0|2
+  Reliability and Performance changes in Raycast macos-v1 1.68.0]]'
 - '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
   improvements (up to 2x) when running…]]'
 source_release: '[[Releases/Runway/runway-2024-02-26-2024-02-26-auto-detect-motion-brush-areas-bf7d7e76|runway-2024-02-26-2024-02-26-auto-detect-motion-brush-areas-bf7d7e76]]'

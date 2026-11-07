@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea9539137940eba53ed2e1d5c23d59e9af4b7f36ed7d845ca9aad0f576a9b3ee
+machine_hash: 18c3cf39715aa5eefefa8f5a2ddcc5c8a6982b1a6ac304852c41f910feddbaff
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -100,7 +100,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.28.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added a repository filter to the session picker and directory grouping to the agent…]]
-- Later: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]
+- Later: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-polished-the-mobile-model-picker-and-sidebar|Polished the mobile model picker and sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

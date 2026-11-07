@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9d651a57111e7753188765d828548cbc1986720f4cfc817f1827b3082b4136c4
+machine_hash: 5418161df66c6e59f9287c8d8fcde4793dab62bb8fa5d7b41f55fee0b7959200
 product: notion
 product_name: Notion
 record:
@@ -49,8 +49,7 @@ record:
   title: More models, without the lock-in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
-  changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-persist-model-selection|Persist Model Selection]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
   support for the kimi-k2.7-code model]]'
 - '[[Changes/Kimi Code/2026-07-01-merge-consecutive-user-turns-for-strict-providers-gemini-vertex-fixing-an-http-4|Merge

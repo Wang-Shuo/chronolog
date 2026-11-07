@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68a2adf4e806fdba880987cc95841001564b991e14054db072ce2c89068b589d
+machine_hash: d5955c513cba95640cdeb7130819e0f1d84601e02933eba0faf028e80c8b392d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Reduce memory usage from encoding streaming chunks
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
-  memory leaks]]'
-- '[[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed
-  for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]'
 - '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
   improvements]]'
+- '[[Changes/Devin/2026-02-13-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Superwhisper/2026-02-13-whisper-model-stability-improvements|Whisper
+  model stability improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance improvements]]
+- Earlier: 2026-02-13 · Superwhisper · [[Changes/Superwhisper/2026-02-13-whisper-model-stability-improvements|Whisper model stability improvements]]
 - Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2 Reliability and Performance changes in v0.8.1]]
 <!-- chronolog:end -->
 

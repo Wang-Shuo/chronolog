@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d26e733fd5c93b3d5c601b4e2a98490da67d18464d9a8857a460d0315aa232d
+machine_hash: 73ea59918866818a3ba64743348f35f8bf800ef0a65ec068cef4cfcef6650739
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: "**\U0001F5D1️ Temporary File Handling On Windows**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|\U0001F517
-  Call Mode Activation via URL]]"
 - '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
   print the pip command when self updating on Windows, without running it]]'
+- '[[Changes/AnythingLLM/2024-09-11-mobile-render-fix-by-jeffscottward-in-https-github-com-mintplex-labs-anything-ll|Mobile
+  render fix]]'
 - '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
   Windows, /run correctly uses PowerShell or cmd.exe]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9|open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9]]'

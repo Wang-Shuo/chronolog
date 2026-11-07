@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47042e05ee401274344c5c5ffd158cc96d5e6498625a4021181668796f663a4f
+machine_hash: 372967bc96f056162d4a78a0324047a718a5031b578a56b0e31110d1f6d8242e
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat: set default thinking level for Gemini 3 Pro models'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
-  changes in v0.19.0]]'
+- '[[Changes/LM Studio/2025-12-02-support-for-mistralai-s-ministral-models-3b-8b-13b|Support
+  for MistralAI''s Ministral models (3B, 8B, 13B)]]'
 - '[[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support
   changes in v0.6.41]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72e2199dc601bf9729859570bfcc63a2a64915595b69f7d52bc515a7b3644f5a
+machine_hash: e870b99d61822674d9db581bf4cc33c1f4d55c74e4a635cef341201c5602c040
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,12 @@ record:
   title: '**⚙️ General Stability Enhancements**'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
-  selection improvements: you can now select text across horizontal rulers]]'
-- '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
+- '[[Changes/Devin/2025-02-26-3-reliability-and-performance-changes-in-devin-updates-2025-02-26|3
+  Reliability and Performance changes in Devin updates — 2025-02-26]]'
 - '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
   to Google Slides]]'
+- '[[Changes/Raycast/2025-02-26-improved-the-loading-speed-of-our-settings-window|Improved
+  the loading speed of our Settings window]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export to Google Slides]]
+- Earlier: 2025-02-26 · Raycast · [[Changes/Raycast/2025-02-26-improved-the-loading-speed-of-our-settings-window|Improved the loading speed of our Settings window]]
 - Later: 2025-02-28 · Replit · [[Changes/Replit/2025-02-28-database-performance-improvement|Database performance improvement]]
 <!-- chronolog:end -->
 

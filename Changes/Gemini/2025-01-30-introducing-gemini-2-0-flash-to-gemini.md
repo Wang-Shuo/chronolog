@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 26e417c5af2c6c220526948f3440b8e1c86b2745b7e0e24af365bf0544d775b9
+machine_hash: c738fa719bc4b1aee877f3c92dea10df2ed06a3c3affd4f3fa0520c6bf0df5b7
 product: gemini
 product_name: Gemini
 record:
@@ -62,10 +62,10 @@ record:
   title: Introducing Gemini 2.0 Flash to Gemini
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
-  Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
 - '[[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support
   changes in v0.5.7]]'
+- '[[Changes/AnythingLLM/2025-01-29-13-model-support-changes-in-v1-4-0|13 Model Support
+  changes in v1.4.0]]'
 - '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
   last used API/model when switching between Plan and Act, for users that like…]]'
 source_release: '[[Releases/Gemini/gemini-2025-01-30-2025-01-30-a3d58baf|gemini-2025-01-30-2025-01-30-a3d58baf]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
-- Later: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes in v0.73.0]]
+- Later: 2025-01-30 · LM Studio · [[Changes/LM Studio/2025-01-30-new-auto-evict-optionally-auto-unload-previously-loaded-api-models-before-loadin|New: Auto-Evict - optionally auto-unload previously loaded API models before…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b963bf9a681329363cc69c59124636e17abbe58f9668e009335fe6d21f4446f8
+machine_hash: c7a150d3bc848576506c6a29b466f640c6c4a5b9b7db836cf0bf2ab401ab7f99
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved unicode encoding for `/run` command output, by @ctoth
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap
-  now works when resizing the terminal with ollama run]]'
+- '[[Changes/Raycast/2023-12-13-improved-contrast-of-highlights-in-the-fix-spelling-and-grammar-ai-command|Improved
+  contrast of highlights in the “Fix Spelling and Grammar” AI Command]]'
 - '[[Changes/Dify/2023-12-19-2-developer-workflow-changes-in-0-3-34|2 Developer Workflow
   changes in 0.3.34]]'
 - '[[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added

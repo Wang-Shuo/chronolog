@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95c638186302eb7d183dd98a337fff3131444587237e1061d644159ecd5817a9
+machine_hash: c291c2a38c9a8a77a9b183737c77429e5a4a98d39aac5972f8a57d3f98d324cd
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Voice and Audio changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
-  api add speech to text]]'
 - '[[Changes/Descript/2023-08-10-other-tweaks-fixes|Other tweaks & fixes]]'
 - '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
   link) support, which allows you…]]'
+- '[[Changes/Superwhisper/2023-08-15-recordings-are-now-converted-to-mono-if-the-source-audio-is-in-stereo|Recordings
+  are now converted to mono if the source audio is in stereo]]'
 source_release: '[[Releases/Aider/aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a|aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a]]'
 source_type: github_releases
 theme: voice
@@ -82,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earlier: 2023-08-15 · Superwhisper · [[Changes/Superwhisper/2023-08-15-recordings-are-now-converted-to-mono-if-the-source-audio-is-in-stereo|Recordings are now converted to mono if the source audio is in stereo]]
 - Later: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-using-overdub-regenerate-with-videos-overdub-https-help-descript-com-hc-en-us-ar|Using Overdub & Regenerate with Videos]]
 <!-- chronolog:end -->
 

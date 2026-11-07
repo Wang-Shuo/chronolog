@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c0d67ae66825a9a664185f68dc6112b6c4ac25b18fbfce89a968ae4b7c3dce5
+machine_hash: 92b8303d518506d8488c9550c32bc9fa8307eed4f029765df96d8079180f62bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-6-interface-experience-changes-in-hub-v2-7-1-reliability-performance|6 Interface Experience changes in HUB v2.7.1 — Reliability, Performance…]]
-- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-the-sidebar-now-remembers-which-folders-you-have-collapsed-or-expanded-including|The sidebar now remembers which folders you have collapsed or expanded, including…]]
+- Later: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-sidebar-organization-improvements|Sidebar Organization Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

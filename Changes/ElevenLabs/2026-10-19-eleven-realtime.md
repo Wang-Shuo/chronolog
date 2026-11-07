@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2d6e1ba1d5839573424342d66c515f4e7fa9ebb9859e5547190d5ec66e12239a
+machine_hash: b6faf0889fa1cf876f81552a0a4ca9abcf68fcea39649477ca6f6761949052a3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -79,10 +79,10 @@ record:
   title: Eleven Realtime
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT
-  Transcribe for your app''s speech-to-text features]]'
-- '[[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord
-  voice changes]]'
+- '[[Changes/Raycast/2026-10-16-2-voice-and-audio-changes-in-raycast-macos-2-8|2 Voice
+  and Audio changes in Raycast macos 2.8]]'
+- '[[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation:
+  Settings are now organised better, making it easier to find exactly what…]]'
 - '[[Changes/ElevenLabs/2026-10-19-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
@@ -128,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
+- Earlier: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-dictation-settings-are-now-organised-better-making-it-easier-to-find-exactly-wha|Dictation: Settings are now organised better, making it easier to find exactly what…]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
 <!-- chronolog:end -->
 

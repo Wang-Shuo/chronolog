@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b75151543acc127477ba02261f4996539dd06cc14b5b18b934829dcb1301adb
+machine_hash: d2ac7a9bd7e0cdab1ea2147354853f9941b9b7da83ed2a48920e39f52ff52b17
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Interface Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
-  Interface Experience changes in v1.0.66]]'
 - '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
   Experience changes in v2026.6.11]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
   Experience changes in v2.1.198]]'
+- '[[Changes/Devin/2026-07-01-analytics-page-improvements|Analytics Page Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-analytics-page-improvements|Analytics Page Improvements]]
 - Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-keep-the-waiting-spinner-visible-while-encrypted-reasoning-streams-fixing-a-blan|Keep the waiting spinner visible while encrypted reasoning streams, fixing a blank…]]
 <!-- chronolog:end -->
 

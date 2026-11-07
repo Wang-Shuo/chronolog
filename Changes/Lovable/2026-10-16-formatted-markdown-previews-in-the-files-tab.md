@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9043dc0d27842169522b5cd5e5578a3febfcd75e05e42a279e7a482f69bbfb2e
+machine_hash: b1a02018b87c89fe4baeb853c9412dbc7cbc82a9b1a1c5cc969eb5be5db0c99f
 product: lovable
 product_name: Lovable
 record:
@@ -44,10 +44,9 @@ record:
   title: Formatted Markdown previews in the Files tab
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/Devin/2026-10-16-open-chat-images-in-a-tab|Open Chat Images in a Tab]]'
+- '[[Changes/Krea/2026-10-16-try-tools-before-you-log-in|Try tools before you log
+  in]]'
 - '[[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document
   previews in the Files tab]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-try-tools-before-you-log-in|Try tools before you log in]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor Experience changes in v0.12.3]]
 <!-- chronolog:end -->
 

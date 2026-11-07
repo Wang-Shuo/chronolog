@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90ed496975997ee555b5e1477278be764328cf8d22eb393acb90cd64ed7478d1
+machine_hash: 742e731e4a3cacb5762731dbb5537c7e3870a1fb6b04b38edc91362e862b4b71
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,9 +54,9 @@ record:
     delete…"
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-10-13-member-usage-limits-and-requests|Member usage limits
-  and requests]]'
 - '[[Changes/HeyGen/2026-10-13-look-packs-over-the-api|Look Packs over the API]]'
+- '[[Changes/Devin/2026-10-14-github-enterprise-server-app-permissions|GitHub Enterprise
+  Server App Permissions]]'
 - "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
   Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'

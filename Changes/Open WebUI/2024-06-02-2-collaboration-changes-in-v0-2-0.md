@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc1a8ac2af8228f939f23b23ce97363cbf670894b67f4508c2b3d555b28745c7
+machine_hash: ba999ccdfa3251b6aa3323cf5650f0f99b238ff2e79343c352c1cc23d75eab97
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Collaboration changes in v0.2.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|\U0001F517
-  Share Link Copy Button]]"
 - "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
   Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Devin/2024-05-29-playbooks-library|Playbooks Library]]'
 - '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
   as always, for your support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 719b3e0013f4c0fa005a912abbb3e2e453eab2fdbba17bca9569814431e8a84e
+machine_hash: d50f5a7de8e0524b7bd84d215825c02c288bf9729097f40f9e4421adcac3a912
 product: ollama
 product_name: Ollama
 record:
@@ -56,9 +56,9 @@ record:
   title: '[Granite 3.1 Dense](https://ollama.com/library/granite3.1-dense)'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-custom-domain-error-handling|Custom domain error handling]]'
 - '[[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3
   Reliability and Performance changes in v0.5.4]]'
+- '[[Changes/LM Studio/2025-01-06-mlx-updates-apple-silicon|MLX updates (Apple Silicon)]]'
 - '[[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance
   improvement of UI during long sessions]]'
 source_release: '[[Releases/Ollama/ollama-2025-01-08-v0-5-5-github-193800987-48cb1ade|ollama-2025-01-08-v0-5-5-github-193800987-48cb1ade]]'

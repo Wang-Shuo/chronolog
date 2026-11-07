@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afeed13ed3d4d090802b2058d6813f9be4f1d5e643f8f50161828febf2a47686
+machine_hash: be4c12e2db958db188d9ebc8839d04c83401c5fe23c6537c07eaa698df1f3ded
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.61.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat:
-  upgrade sap ai-sdk-js packages major version]]'
 - '[[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing
   Manus Browser Operator]]'
 - '[[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5
   Apps and Integrations changes in rust-v0.59.0]]'
+- '[[Changes/Raycast/2025-11-19-as-we-prepare-for-our-public-beta-release-we-are-moving-into-the-microsoft-store|As
+  we prepare for our public beta release we are moving into the Microsoft Store]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88|codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.61.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5 Apps and Integrations changes in rust-v0.59.0]]
+- Earlier: 2025-11-19 · Raycast · [[Changes/Raycast/2025-11-19-as-we-prepare-for-our-public-beta-release-we-are-moving-into-the-microsoft-store|As we prepare for our public beta release we are moving into the Microsoft Store]]
 - Later: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps and Integrations changes in v0.17.0]]
 <!-- chronolog:end -->
 

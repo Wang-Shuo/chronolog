@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75584e766ca09c3bf1f16ae41bf3076265fcf4ad3a8f7d2b78ba81942738c2e8
+machine_hash: 34aae2dbe7c30585073e7dd1188480d926327ed1a6e4efc11a17a9db8eb19b17
 product: claude-code
 product_name: Claude Code
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2 Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]
-- Later: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability, Performance Gains, and User Experience Polish]]
+- Later: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-significant-performance-boost-for-local-whisper-models|Significant performance boost for local Whisper models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

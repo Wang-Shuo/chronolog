@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b94023f976d17c52070630338d8dfa1b2f7afad91ebca44cc3bb413d5d3f5732
+machine_hash: 52ec00072ccc5681d3499f901bdecb333e59a409280f1d23b802752626765869
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Interface Experience changes in v1.1.7
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
 - '[[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop
   Fix session navigation with keyboard shortcuts]]'
+- '[[Changes/Superwhisper/2026-01-07-model-picker-design-update|Model picker design
+  update]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
   remote sessions using GraphQL ID or session picker]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-08-v1-1-7-2cbf88f3|opencode-2026-01-08-v1-1-7-2cbf88f3]]'

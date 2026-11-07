@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: caca6ac66f9db331af304679d469c1fdeee9a4f800571f0c72be1b34b340ccbe
+machine_hash: 800ea49f54f43f01c822a898edccd0b18b3976482198f6d1502dec5899508d72
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,11 +48,11 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-desktop-added-flat-input-surfaces-and-a-compact-input-size|Desktop
-  Added flat input surfaces and a compact input size]]'
 - '[[Changes/OpenCode/2026-10-30-persistent-desktop-terminals|Persistent Desktop Terminals]]'
 - '[[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile
   and Desktop changes in v2.2.3]]'
+- '[[Changes/Superwhisper/2026-10-30-optimized-for-iphone-duo|Optimized for iPhone
+  Duo!]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: mobile-desktop
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile and Desktop changes in v2.2.3]]
+- Earlier: 2026-10-30 · Superwhisper · [[Changes/Superwhisper/2026-10-30-optimized-for-iphone-duo|Optimized for iPhone Duo!]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|🖼️ Image drops from photo apps. Images dropped into chats and channels are now…]]
 <!-- chronolog:end -->
 

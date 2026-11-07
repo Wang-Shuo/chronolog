@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae3df0583a7036c2a56d1c5e1fa9ed93f43c43f520523b513795063710b5a163
+machine_hash: 4291db6fa7ad09edf32a41db96653235c32c766bdbbfaca3ff0baf6ddf576519
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,12 @@ record:
   title: 'feat: update Cerebras models and speed'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-25-a-critical-postgresql-user-listing-performance-issue-was-resolved-by-removing-a|\U0001F5C4️
-  A critical PostgreSQL user listing performance issue was resolved by removing…]]"
 - '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
   and Performance changes in 1.10.1]]'
 - '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
   Fixes]]'
+- '[[Changes/Superwhisper/2025-11-26-performance-improvements-for-all-local-models|Performance
+  improvements for all Local models]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug Fixes]]
-- Later: 2025-11-29 · HeyGen · [[Changes/HeyGen/2025-11-29-speed-mode-provides-fast-reliable-translation-in-175-languages-accents-and-diale|Speed Mode provides fast, reliable translation in 175+ languages, accents, and dialects]]
+- Earlier: 2025-11-26 · Superwhisper · [[Changes/Superwhisper/2025-11-26-performance-improvements-for-all-local-models|Performance improvements for all Local models]]
+- Later: 2025-11-27 · Raycast · [[Changes/Raycast/2025-11-27-snippet-expansion|Snippet Expansion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

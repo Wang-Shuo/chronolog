@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21a0e3ecfde5c9da5a0afcc79ee11070550b5f96f15e0bc4e87f53baaed0e6d3
+machine_hash: 218ad307b4e04af7c6d22ef735db4db665185623273a3096598208dbb774c48b
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,12 +44,11 @@ record:
   title: Pressing Cmd+A or Ctrl+A now selects only the content pane or terminal you…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
-  Workflow changes in v2.1.285]]'
-- '[[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5
-  Developer Workflow changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
   Workflow changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-read-only-live-shell-preview|Read-Only Live Shell Preview]]'
+- '[[Changes/Devin/2026-09-30-devin-fixes-its-own-prs-review-findings-before-they-are-posted|Devin
+  Fixes Its Own PRs'' Review Findings Before They Are Posted]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad|google-antigravity-2026-09-30-rel-hub-2-19-1-1ff0e7ad]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer Workflow changes in v2.1.286]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-devin-fixes-its-own-prs-review-findings-before-they-are-posted|Devin Fixes Its Own PRs' Review Findings Before They Are Posted]]
 - Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer Workflow changes in v2026.9.7]]
 <!-- chronolog:end -->
 

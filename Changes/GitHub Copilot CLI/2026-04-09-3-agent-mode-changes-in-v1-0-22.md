@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 967bea392fb3648ca9b64d252639625c8ffc61b7559abed85c4e0d8fb21f2c71
+machine_hash: c4de631e7e678cee8179adcca2e7ee28c8a7ac19c87b352f862eaf9a1f7f5775
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,7 @@ record:
   title: 3 Agent Mode changes in v1.0.22
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
-  in v2.1.97]]'
+- '[[Changes/Devin/2026-04-08-higher-quality-wiki-v2|Higher-Quality Wiki v2]]'
 - '[[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode
   changes in v0.37.0]]'
 - '[[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes

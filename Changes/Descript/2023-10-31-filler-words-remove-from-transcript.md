@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 82980fe5965ac98c74653a59d3633fc8b76bb01cb47d5c5c4abe1d1542a9afc5
+machine_hash: e4f45d97e7bea4d7c1e07fb71e8bac004c070c58be21f01a291e798de5c0bba3
 product: descript
 product_name: Descript
 record:
@@ -45,11 +45,12 @@ record:
   title: 'Filler words: Remove from transcript'
   type: change
 related_changes:
-- '[[Changes/Descript/2023-10-17-instant-speaker-creation|Instant speaker creation]]'
 - '[[Changes/Descript/2023-10-17-overdub-generation-improvements|Overdub generation
   improvements]]'
 - '[[Changes/Descript/2023-10-17-speaker-label-dropdown-revamp|Speaker label dropdown
   revamp]]'
+- '[[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio
+  wave larger]]'
 source_release: '[[Releases/Descript/descript-2023-10-31-653ffa527a62af7120988567-19ddd0b4|descript-2023-10-31-653ffa527a62af7120988567-19ddd0b4]]'
 source_type: canny_changelog
 theme: voice
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-10-17 · Descript · [[Changes/Descript/2023-10-17-speaker-label-dropdown-revamp|Speaker label dropdown revamp]]
-- Later: 2023-11-13 · Synthesia · [[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO download is here]]
+- Earlier: 2023-10-25 · Superwhisper · [[Changes/Superwhisper/2023-10-25-make-size-of-audio-wave-larger|Make size of audio wave larger]]
+- Later: 2023-10-31 · Superwhisper · [[Changes/Superwhisper/2023-10-31-improved-audio-playback-ui-ux|Improved audio playback UI/UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

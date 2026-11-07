@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ae00d2f9fab5dc9da0440378a0fd27be9eec7264cf680bae6c53416d4a88e1e
+machine_hash: f70cad0c85d2bdd13059336f31b4fd773dd5bf30607dfd1dcf6e9c07beee6404
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: Remote session statusline shows the remote working directory and branch instead…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
-  in 1.14.0]]'
 - '[[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window
   changes in v1.14.30]]'
 - '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
   Add MultiAgentV2 root and subagent context hints @jif-oai]]'
+- '[[Changes/Devin/2026-05-01-auto-fix-includes-ci-checks|Auto-Fix Includes CI Checks]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805 Add MultiAgentV2 root and subagent context hints @jif-oai]]
+- Earlier: 2026-05-01 · Devin · [[Changes/Devin/2026-05-01-auto-fix-includes-ci-checks|Auto-Fix Includes CI Checks]]
 - Later: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-core-improved-v2-session-rendering-with-cleaner-tool-states-better-compaction-su|Core Improved v2 session rendering with cleaner tool states, better compaction…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1525d64d4d8ab52266d33301fa2a2791e80504205cbf73d6fa7bf17d32a22ed3
+machine_hash: 50e612db98e5512caaa7784eb609bfa35ba335ff85c8f32223811d38ce08540e
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
   title: SDK Added if and until inputs for client.experimental.schedule.create , plus…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
-  Automation and Scheduling changes in v1.34.0]]'
+- '[[Changes/Raycast/2026-10-28-my-schedule-added-missing-copy-event-attendee-actions|My
+  Schedule: Added missing Copy Event Attendee actions]]'
 - '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
   Automation and Scheduling changes in v0.12.5]]'
 - '[[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK Add…]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation and Scheduling changes in v2.2.3]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-reaction-trigger-for-teams-automations|Reaction Trigger for Teams Automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

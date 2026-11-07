@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1906fb3c0f586b8150b6f9c465e55017aaf8e09b016bd470417d0305ab4532c5
+machine_hash: d2642b03e856f035c30547a4f66a094d412f373b41ab8fb97857fcca98ffa72c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -65,11 +65,11 @@ record:
   title: 5 Search and Browsing changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
-  uses an orchestrator/subagent model for more thorough and reliable deep…]]'
 - '[[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]'
 - '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
   rollout: store web search and mcp tool calls @owenlin0]]'
+- '[[Changes/Raycast/2026-05-08-store-ensured-search-results-show-instantly-when-cached|Store
+  : Ensured search results show instantly when cached]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: search-browsing
@@ -121,7 +121,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054 rollout: store web search and mcp tool calls @owenlin0]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-store-ensured-search-results-show-instantly-when-cached|Store : Ensured search results show instantly when cached]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core Limited OpenAI deep research models to the reasoning level they actually support]]
 <!-- chronolog:end -->
 

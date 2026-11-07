@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4d88cb8d4c04e3ebf40f6c752ed7de39d5e4cc75f1a72713cb047e46dd89e1d7
+machine_hash: a20b06daaadee68923c3fa6eb43b2de8e49e6e20bd0116baa50df60fb5112a16
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,7 @@ record:
   title: "**\U0001F512 Experimental OAuth Support**: New experimental OAuth support"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support
-  for Aliyun OSS authentication V4 by @S96EA in ♯3886]]'
+- '[[Changes/Devin/2024-05-29-interactive-browser|Interactive Browser]]'
 - '[[Changes/Dify/2024-06-14-feat-support-login-by-given-mail-by-iamjoel-in-https-github-com-langgenius-dify|feat:
   support login by given mail]]'
 - "[[Changes/Open WebUI/2024-06-17-federated-auth-usernames-ability-to-set-user-names-for-federated-authentication|\U0001F58A️

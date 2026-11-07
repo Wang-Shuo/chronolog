@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bf9d52066d1697798e26cba558890df6f6d4e0c42e2bb3056183205edbd9bdea
+machine_hash: a403d42615d5034fc352f71e0612df26f715101201e62017f1d74435fb79104b
 product: descript
 product_name: Descript
 record:
@@ -50,8 +50,8 @@ record:
   title: Schedule a Room
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore:
-  bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]'
+- '[[Changes/Devin/2026-07-31-ip-allowlists-cover-automation-webhooks|IP Allowlists
+  Cover Automation Webhooks]]'
 - '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
   drive the automation UI from the interface manifest]]'
 - '[[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename

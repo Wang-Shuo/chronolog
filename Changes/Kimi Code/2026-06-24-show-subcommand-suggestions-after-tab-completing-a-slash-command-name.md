@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7da15d2cc018b85cd270b6a16832c802b6743f4d4b220f11c67bfa57f0398ae3
+machine_hash: c7adb0c6e4d79a5a0ebc46070c22aee8098c0545334324dd62e720652a833eed
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -40,10 +40,10 @@ record:
   title: Show subcommand suggestions after Tab-completing a slash command name
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
-  code-mode: preserve initial yield at completion @cconger]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
   Editor Experience changes in v1.0.64]]'
+- '[[Changes/Devin/2026-06-24-pin-unpin-sessions-from-command-palette|Pin/Unpin Sessions
+  from Command Palette]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-24-0-19-2-5e4b18ae|kimi-code-2026-06-24-0-19-2-5e4b18ae]]'

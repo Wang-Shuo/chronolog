@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b3cdf6b311d3599c436a451c7ab1c91339231df36a4c7fec709cf665aa94a107
+machine_hash: c7bb46385bbf49bd8a36621b51fe2d74e2d6fcde3823089435a1eab4e7dc35f9
 product: lovable
 product_name: Lovable
 record:
@@ -59,10 +59,9 @@ record:
   title: Let Lovable debug and improve your app's AI features
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
-  screen redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
   cache-write pricing for models that omit it]]'
+- '[[Changes/Devin/2026-06-24-acu-billing-schedule-warning|ACU Billing Schedule Warning]]'
 - '[[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes
   in 1.15.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-25-2026-06-25-9cc4e699|lovable-2026-06-25-2026-06-25-9cc4e699]]'

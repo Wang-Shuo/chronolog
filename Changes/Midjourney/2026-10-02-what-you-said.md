@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1f5bfc29baa0e99c8fe96491671d537b01d55b443b4a06a884488d5b98db3b5e
+machine_hash: 28f15b0ce5e089857ab032f245de0ccbf91c44ccbaaac63ee7f4a89378ae0a8f
 product: midjourney
 product_name: Midjourney
 record:
@@ -63,8 +63,8 @@ record:
   title: WHAT YOU SAID
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
-  $.ui.selection() for mods]]'
+- '[[Changes/Devin/2026-10-02-test-recording-viewer-fullscreen|Test Recording Viewer
+  Fullscreen]]'
 - '[[Changes/Midjourney/2026-10-02-icymi-last-week-we-launched-a-few-features-on-alpha-midjourney-com-that-we-re-re|ICYMI
   – last week, we launched a few features on alpha.midjourney.com that we''re…]]'
 - '[[Changes/Midjourney/2026-10-02-create-feed|CREATE FEED]]'
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
-- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Earlier: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-test-recording-viewer-fullscreen|Test Recording Viewer Fullscreen]]
+- Later: 2026-10-02 · Raycast · [[Changes/Raycast/2026-10-02-new-navigation|New Navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f157334e8100de5c5dd18b0d9345f4f6f6f086f9286a1d98e1ca99befd657888
+machine_hash: cd88e0112453e2596a10576b867332bb316e9c34075f5bacf5368a9bbe7412fe
 product: v0
 product_name: v0
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-08-27-harness-for-complex-tasks-qoder-s-harness-keeps-planning-execution-verification|Harness
-  for complex tasks]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Devin/2026-08-28-new-org-permission-manage-personal-automations|New Org
+  Permission: Manage Personal Automations]]'
 - '[[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web:
   Fix switching the permission mode in one session changing it for every session]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'

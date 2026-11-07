@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5cb06d7db126e769982866d8f74635b5f694a15be4c6f451c8339b8edb826c68
+machine_hash: 044ae21c84a94b966cd183bb327fd8574657663eebd3b271144411fccadedd39
 product: replit
 product_name: Replit
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated launch animations and composer design on Android]]
-- Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-mobile-hover-issue-resolved-users-can-now-edit-responses-smoothly-on-mobile-with|📱 Mobile Hover Issue Resolved]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-lastly-we-skipped-a-few-docker-versions-to-make-docker-desktop-the-same-release|Lastly, we skipped a few Docker versions to make Docker = Desktop the same release…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

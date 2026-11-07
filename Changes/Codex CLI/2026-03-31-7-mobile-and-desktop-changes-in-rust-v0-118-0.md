@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41c9ce04fb1727acce34a4b1262056ff7641b1b242204d48422e405c02ae7be1
+machine_hash: 58b6bf77c168a4a59848d7afd6dc5623a26c8905aa885f80fa1f0a1f7922cbb9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added first-class PowerShell support on Windows]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]]
+- Later: 2026-03-31 · Wispr Flow · [[Changes/Wispr Flow/2026-03-31-shortcuts-controls-desktop|Shortcuts & Controls (Desktop)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

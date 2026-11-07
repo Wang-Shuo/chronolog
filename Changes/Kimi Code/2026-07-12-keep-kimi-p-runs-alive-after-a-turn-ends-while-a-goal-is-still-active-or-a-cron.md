@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19cb4c4f23cbbc53b4051c334786c593beda775ceae821203c78b5889c5d6a07
+machine_hash: 37e8d4db66a047d02621353c42771565b4989d9afadfa824febf49308e3d2ca5
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,12 +47,12 @@ record:
     or a cron…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
-  and Scheduling changes in 1.9.0]]'
 - '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
   Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
 - '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
   can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Superwhisper/2026-07-10-added-new-deep-links-to-start-and-stop-recording-making-it-easier-to-control-sup|Added
+  new deep links to start and stop recording, making it easier to control…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-12-0-23-6-0f24ae91|kimi-code-2026-07-12-0-23-6-0f24ae91]]'
 source_type: kimi_code_changelog
 theme: automation-scheduling
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
+- Earlier: 2026-07-10 · Superwhisper · [[Changes/Superwhisper/2026-07-10-added-new-deep-links-to-start-and-stop-recording-making-it-easier-to-control-sup|Added new deep links to start and stop recording, making it easier to control…]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79 Automation and Scheduling changes in v2026.7.1]]
 <!-- chronolog:end -->
 

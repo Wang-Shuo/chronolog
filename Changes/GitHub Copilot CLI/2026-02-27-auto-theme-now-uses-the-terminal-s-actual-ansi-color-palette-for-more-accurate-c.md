@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f0cf0590025e5f3ffc437a9471c23a1b78552a3b16a57129547f136f67e4ed4
+machine_hash: 410ea8461dccebc76470a6e6388d80499ffb7f38f24ce4a1b5de43cacc90ab17
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: AUTO theme now uses the terminal's actual ANSI color palette for more accurate…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-26-bugbot-can-automatically-fix-issues-it-finds-in-pull-requests|Bugbot
-  can automatically fix issues it finds in pull requests]]'
 - '[[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate
   commit message from staged changes only when staging exists]]'
+- '[[Changes/Devin/2026-02-27-devin-review-github-commit-status-checks|Devin Review:
+  GitHub Commit Status Checks]]'
 - '[[Changes/Gemini CLI/2026-02-27-4-developer-workflow-changes-in-v0-31-0|4 Developer
   Workflow changes in v0.31.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-27-v0-0-419-github-291175614-4b7d865f|github-copilot-cli-2026-02-27-v0-0-419-github-291175614-4b7d865f]]'

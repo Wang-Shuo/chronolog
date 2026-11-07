@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb1769c37df4a181a0465fb1949d60dfbd74ff1a211f2cde069fb74775f8206b
+machine_hash: 3395fca8579888ddb2056a003d9e536b3e8a2a1068d3403d5cb29d449ae7168b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
     Open…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-06-desktop-load-tab-when-opening-file|Desktop Load tab
-  when opening file]]'
+- '[[Changes/Devin/2026-03-07-session-status-in-browser-tab|Session Status in Browser
+  Tab]]'
 - '[[Changes/OpenCode/2026-03-07-preserve-original-line-endings-in-edit-tool|Preserve
   original line endings in edit tool]]'
 - '[[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience

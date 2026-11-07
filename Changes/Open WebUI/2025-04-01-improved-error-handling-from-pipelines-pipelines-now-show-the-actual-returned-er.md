@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 223e1d6649e44eeed2466ed81093796c86fcf4fd456eed67252c8146acf3690f
+machine_hash: f5835c03b3d59c6054ea91466441c3504a7de23084116936669d90a10f4fea12
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: "\U0001F4DA **Improved Error Handling from Pipelines**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop
-  the service, Command, please execute in the docker directory]]'
-- '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
-  bash SOFT timeout from 30 to 10 seconds]]'
+- '[[Changes/AnythingLLM/2025-03-27-protected-slash-command-check-by-shatfield4-in-https-github-com-mintplex-labs-an|Protected
+  slash command check]]'
+- '[[Changes/Raycast/2025-03-27-there-is-now-a-new-quick-open-command-that-opens-any-url-passed-to-root-search|There
+  is now a new Quick Open command that opens any URL passed to root search]]'
 - '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
   Workflow changes in v0.80.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'

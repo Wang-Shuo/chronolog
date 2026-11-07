@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c0ee0786f0e02837bd074c3db55d9476b4c250e4ac5c0aea6a70b76647570bd
+machine_hash: 4d5550b351e46c784a9c4d94cf2c8360b2434a223307c6d6dd1ac9803813198b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
   title: "**\U0001F4AC Redesigned Chat Input UI**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
-  General UI/UX Refinements]]'
+- '[[Changes/LM Studio/2025-01-30-developer-moved-logging-options-to-the-developer-logs-panel-header-menu|Developer
+  Moved logging options to the Developer Logs panel header (••• menu)]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle
   Smart Layouts Have Arrived]]'

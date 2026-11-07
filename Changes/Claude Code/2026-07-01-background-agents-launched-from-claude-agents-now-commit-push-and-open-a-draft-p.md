@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd2168831a3b2b528b5c2934c1663fa8ee92154330ef1ef6c7e2564a96ca6b0e
+machine_hash: b5cb8d586f6f996e27cd421c760cfb7ff70f8742a1f12bb8280b7ebd54ae8b51
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer Workflow changes in v1.17.12]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6 Developer Workflow changes in v1.0.68]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-auto-review-scoped-to-your-prs|Auto-Review Scoped to Your PRs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

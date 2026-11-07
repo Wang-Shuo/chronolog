@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fdaa5b7bbdc7b002760ff408ecc5649f4d4f46cb8dc94a05d87aad34daee3952
+machine_hash: 299dc2e39dcfea6219fe071cfda865d35bb464f93c72e8e630366f482695dc92
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,8 +49,8 @@ record:
   title: Built-in browser and attachments of any file type
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
-  Data changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-2-files-and-data-changes-in-v1-19-0|2 Files and
+  Data changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
   the Artifact tool''s choice between a page and a document]]'
 - '[[Changes/Gamma/2026-10-26-previews-that-match-your-format|Previews that match

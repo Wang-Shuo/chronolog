@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 52642978710dc20fc0304f4ce8b647af4e9270f5fa8c1d9c3c428054451817aa
+machine_hash: 385a35f164a30b94c9dfb0bacfc4133bc187a227349e4e49dee670b7d7b0302a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
     or reason…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom
-  BYOK endpoints]]'
-- '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
-  Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
-- '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support
-  changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-bring-your-own-model-brings-three-familiar-ways-to-use-your-preferred-ai-models|Bring
+  Your Own Model brings three familiar ways to use your preferred AI models back…]]'
+- '[[Changes/Raycast/2026-09-08-ai-added-support-openai-compatible-custom-providers-local-models-via-ollama-and-872926|AI
+  : Added support OpenAI-compatible custom providers, local models via Ollama…]]'
+- '[[Changes/Raycast/2026-09-08-bring-your-own-model-brings-three-familiar-ways-to-use-your-preferred-ai-models-ad9a1b|Bring
+  Your Own Model brings three familiar ways to use your preferred AI models back…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-bring-your-own-model-brings-three-familiar-ways-to-use-your-preferred-ai-models-ad9a1b|Bring Your Own Model brings three familiar ways to use your preferred AI models back…]]
 - Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]]
 <!-- chronolog:end -->
 

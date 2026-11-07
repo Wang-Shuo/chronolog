@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 65dbabfd2ea581979211fb35d78c8e418384a499d853def13155d621514f6205
+machine_hash: f533a5e757bb2bf02f8ebf4f5c7e500bb8ef8b865b2b2c7c9b47620a14ed01c3
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,10 @@ record:
   title: Image tools
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed
-  hook output over 50K characters to be saved to disk with a file path…]]'
 - '[[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core):
   cap JIT context upward traversal at git root]]'
+- '[[Changes/AnythingLLM/2026-04-02-we-have-added-a-new-feature-called-intelligent-tool-selection-https-docs-anythin|AnythingLLM
+  adds a new feature called Intelligent Tool…]]'
 - '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
   Window changes in v2.1.91]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-02-2026-04-02-7ad85f39|lovable-2026-04-02-2026-04-02-7ad85f39]]'

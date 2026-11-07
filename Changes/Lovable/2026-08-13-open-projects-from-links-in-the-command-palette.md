@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 03a70e5114fc481390506f6d268b0d07c037cbf1afd3f167b30bdc5dbd371df7
+machine_hash: 2526c0f989be0ab0db7044c25718dcce2f56915ac8743a167f930cdd2261fb5f
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Open projects from links in the command palette
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-08-11-parallel-content-and-identity-crawl-improves-content-freshness-web-microsoft-365|Parallel
-  content and identity crawl improves content freshness…]]'
 - '[[Changes/Microsoft 365 Copilot/2026-08-11-sharepoint-authoritative-sites-windows-web-microsoft-365-sharepoint|SharePoint:
   Authoritative Sites Windows, Web (Microsoft 365 SharePoint)]]'
+- '[[Changes/AnythingLLM/2026-08-13-this-flow-also-allows-image-attachments-for-edits-followups-or-combination-promp|This
+  flow also allows image attachments for edits, followups, or combination prompts…]]'
 - '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
   the editor''s foreground color for diff block text, so diffs stay legible…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-13-2026-08-13-bf09d366|lovable-2026-08-13-2026-08-13-bf09d366]]'

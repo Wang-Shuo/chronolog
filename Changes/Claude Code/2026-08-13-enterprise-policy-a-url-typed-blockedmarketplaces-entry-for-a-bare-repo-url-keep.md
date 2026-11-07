@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a47cf3a172501ccc6f89efbfb5658402356dcb2452233cc8c0849fc3d04a5722
+machine_hash: 45f7b459139e6042f45b60b066f5d395030c24202b96a6885e986cbf888a7de8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
     URL keeps…'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
   Enterprise and Administration changes in v1.0.79]]'
+- '[[Changes/LM Studio/2026-08-12-support-for-local-server-api-key-in-enterprise-internal-network-endpoint-mode|Support
+  for local server API key in enterprise internal network endpoint mode]]'
 - '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
   History for macOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

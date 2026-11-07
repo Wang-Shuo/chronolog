@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f69ceb87a1eb51bf2d58766cbbd93df551ca80856baf8ad726808b6b39273927
+machine_hash: dfb7e0605c917955fa878b6c38b72a007971a55cfdff45a5ccc744f6b3b2aff3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -93,10 +93,10 @@ record:
   title: 12 Collaboration changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-08-here-s-this-week-s-round-of-changes-on-alpha-midjourney-com-the-highlight-this-w|here''s
-  this week''s round of changes on alpha.midjourney.com]]'
-- '[[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September
-  database compatibility]]'
+- '[[Changes/Wispr Flow/2026-10-09-speaker-detection-in-teams-gallery-view-and-google-meet-notetaker|Speaker
+  detection in Teams gallery view and Google Meet (Notetaker)]]'
+- '[[Changes/Wispr Flow/2026-10-09-an-idle-teams-window-no-longer-triggers-meeting-pop-ups-notetaker|An
+  idle Teams window no longer triggers meeting pop-ups (Notetaker)]]'
 - '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
   changes in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

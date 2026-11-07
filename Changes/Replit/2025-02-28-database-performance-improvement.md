@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6472b77e5d419f44513cd426e5acd2df0296033ce81c3db54a6fa370bebda9c2
+machine_hash: 06194ef110e853cc4ae8e982d233859a9199b9ae2e1d14076c5e34b2db3f1a28
 product: replit
 product_name: Replit
 record:
@@ -44,9 +44,10 @@ record:
   title: Database performance improvement
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
 - '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
   to Google Slides]]'
+- '[[Changes/Raycast/2025-02-26-improved-the-loading-speed-of-our-settings-window|Improved
+  the loading speed of our Settings window]]'
 - '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
   General Stability Enhancements]]'
 source_release: '[[Releases/Replit/replit-2025-02-28-2025-02-28-81625fa9|replit-2025-02-28-2025-02-28-81625fa9]]'

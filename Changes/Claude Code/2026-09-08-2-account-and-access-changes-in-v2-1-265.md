@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9352d5f0bd81abb2b7a50ffaa35ff1ff1db52c3f36de9cc6ac07f6a2608d76b0
+machine_hash: 8cb72baad305dcb96f289b25bb04abe955500cd5e32eb61ec0b011df42aefc04
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Account and Access changes in v2.1.265
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop
-  Use the desktop client ID during OpenCode account device authentication]]'
 - '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
   and Access changes in v2026.9.2]]'
+- '[[Changes/Krea/2026-09-07-sso-connection-names-and-workspace-auto-join|SSO connection
+  names and workspace auto-join]]'
 - '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
   app emails from TanStack Start projects without Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'

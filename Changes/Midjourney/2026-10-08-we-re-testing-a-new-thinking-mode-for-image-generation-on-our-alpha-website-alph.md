@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d08a69ba610b7531d53f26fe59cc6522c13504814540e0eb3319b686c73b7f37
+machine_hash: c48ad1f7c72387284b6154da962f0a7903d9b2322530e4ae0a8113e1b0e5c9ab
 product: midjourney
 product_name: Midjourney
 record:
@@ -48,9 +48,9 @@ record:
   title: We're testing a new "Thinking Mode" for image generation on our Alpha website…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-3-image-generation-changes-in-rust-v0-158-0|3 Image
-  Generation changes in rust-v0.158.0]]'
 - '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
+- '[[Changes/AnythingLLM/2026-10-01-2-image-generation-changes-in-v1-17-0|2 Image
+  Generation changes in v1.17.0]]'
 - '[[Changes/Runway/2026-10-02-ideogram-4-5-is-now-supported-in-runway-mcp-bringing-its-image-generation-capabi|Ideogram
   4.5]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-testing-thinking-mode-b4049203|midjourney-2026-10-08-https-updates-midjourney-com-testing-thinking-mode-b4049203]]'

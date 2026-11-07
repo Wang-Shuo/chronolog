@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d430bdf0aa370c91b0572d129e6ff13f38f0d81c8f18026fd13e54c6b61d4949
+machine_hash: 1d111e23b1f97ee0c8e943118fc0b621016ee80b75a658ab85aaa5bb8c6029b4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10 Safety and Privacy changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-2-safety-and-privacy-changes-in-superwhisper-macos-3-1-0|2 Safety and Privacy changes in Superwhisper macOS 3.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

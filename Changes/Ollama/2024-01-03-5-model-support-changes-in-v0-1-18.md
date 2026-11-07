@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce14b2acd0b2ec361a5cd732daec7d8d08a8dc8bca05b9231407aa46c2f5d425
+machine_hash: 4fbf56db2ca8b3aaeac4a1c2c786c8c5e3b222473ee083a44e56882fe3ec55a4
 product: ollama
 product_name: Ollama
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Model Support changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-19-6-model-support-changes-in-v0-1-17|6 Model Support
-  changes in v0.1.17]]'
 - '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
   in v0.19.0]]'
+- '[[Changes/Superwhisper/2023-12-20-show-output-from-language-model-as-it-outputs|Show
+  output from language model as it outputs]]'
 - '[[Changes/Dify/2024-01-02-11-model-support-changes-in-0-4-0|11 Model Support changes
   in 0.4.0]]'
 source_release: '[[Releases/Ollama/ollama-2024-01-03-v0-1-18-github-134950093-b924051a|ollama-2024-01-03-v0-1-18-github-134950093-b924051a]]'

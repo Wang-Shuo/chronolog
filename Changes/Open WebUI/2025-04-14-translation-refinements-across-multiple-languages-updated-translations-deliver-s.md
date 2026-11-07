@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-14 · Accessibility and Localization: \U0001
   **Translation Refinements Across Multiple Languages**: Updated translations deliver
   smoother…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 581
+  lag_days: 1607
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 899ce11cafe10c3d6b47a37e8e85583ba4d7a04bab4add2623ed3acd32c7c9c2
+machine_hash: 97287bd1d9e54150cb4f8507184070423a5f56b614531317c5de665293311ca5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: "\U0001F30E **Translation Refinements Across Multiple Languages**"
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch
-  to tree-sitter-language-pack for tree sitter support]]'
 - '[[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big
   upgrade in programming languages…]]'
 - "[[Changes/Open WebUI/2025-04-01-internationalization-language-support-updates-added-estonian-and-galician-langua|\U0001F30D
   Internationalization Language Support Updates]]"
+- '[[Changes/Raycast/2025-04-09-clipboard-passwords-should-now-be-ignored-when-copied-using-the-passwords-menu-b|Clipboard
+  : Passwords should now be ignored when copied using the Passwords menu bar…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-14-v0-6-5-github-212150865-a86da863|open-webui-2025-04-14-v0-6-5-github-212150865-a86da863]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-internationalization-language-support-updates-added-estonian-and-galician-langua|🌍 Internationalization Language Support Updates]]
+- Earlier: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-clipboard-passwords-should-now-be-ignored-when-copied-using-the-passwords-menu-b|Clipboard : Passwords should now be ignored when copied using the Passwords menu bar…]]
 - Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-3-accessibility-and-localization-changes-in-v0-6-8|3 Accessibility and Localization changes in v0.6.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

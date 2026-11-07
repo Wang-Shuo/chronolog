@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2ba4e2762c854e3a13de25e14029c69895d6520e17c499d7769405b8730f89d
+machine_hash: 8fc5ca45a85c9aacfc11b29649536fadce70a8e69b7a8da6c56309e65bd648fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,10 +78,10 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-20-correct-the-yolo-and-auto-permission-mode-descriptions-yolo-auto-approves-tool-a|Correct
-  the YOLO and Auto permission mode descriptions]]'
 - '[[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix
   running subagents not observing permission mode switches made after they started]]'
+- '[[Changes/Raycast/2026-07-20-dictation-fixed-microphone-permission-issues-when-starting-dictation|Dictation
+  : Fixed microphone permission issues when starting dictation]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81fcb348eb74f7f01581a95fc37affc649cb25169abd3e225df768596cbe2a36
+machine_hash: 1399f9277fef0813d0b1a8985b5cf79eb3083a2c8a842055c0e77daaf3df295e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
-- Later: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Later: 2024-04-19 · Superwhisper · [[Changes/Superwhisper/2024-04-19-performance-improvements-for-switching-between-recordings-in-history|Performance improvements for switching between recordings in History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

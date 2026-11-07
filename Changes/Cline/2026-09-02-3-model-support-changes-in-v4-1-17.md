@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1ef2fa44164f29b45415271c8803dd8564f8030eaed9e8cc36dadeb9157eca9
+machine_hash: 007f55d5a75d62ce7cf94b7250231cb3bf47c342e75592ef92d77a3052f3e033
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,7 @@ record:
   title: 3 Model Support changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
-  approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/Krea/2026-09-01-reve-retired|Reve retired]]'
 - '[[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support
   changes in v2026.8.2]]'
 - '[[Changes/OpenCode/2026-09-01-2-model-support-changes-in-v1-18-26|2 Model Support

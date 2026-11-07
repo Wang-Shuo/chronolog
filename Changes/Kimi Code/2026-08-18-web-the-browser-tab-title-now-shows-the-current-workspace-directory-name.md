@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d750117a18d8118e6d98dc822b680a8319661940c7d2c44cea1f146e4c468f3a
+machine_hash: 9455de50b0884b75e7c59f4163b021df8bf078eef89504e24331ffbbd8079532
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828 Track running unified exec processes at turn completion @copyberry]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
+- Later: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-preview-tab-renamed-to-browser|Preview Tab Renamed to Browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

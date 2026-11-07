@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4c4d2cf5a4643c41e3b6b42691556a12c43144418e23ceccf02a59259c9f108
+machine_hash: 0a9c80859029b464cb83c6e9433a3d95c88acd37bb7d4595ccecbf5d89687697
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-smarter-seo-for-new-apps|Smarter SEO for new apps]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps and Integrations changes in v0.3.0]]
+- Later: 2025-09-03 · Raycast · [[Changes/Raycast/2025-09-03-2-apps-and-integrations-changes-in-raycast-windows-0-30|2 Apps and Integrations changes in Raycast windows 0.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

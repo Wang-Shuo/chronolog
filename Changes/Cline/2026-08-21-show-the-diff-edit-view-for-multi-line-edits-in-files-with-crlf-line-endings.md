@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9645820e9e8e45765cf6f5cd0e38ffbc59619d05fe6105d446680c74ee69db8
+machine_hash: 788fd52821d2019bb6a8ca3f6cb5d369d0a7fc1bb603e24b95846b19488be52e
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
-- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-editor|Editor]]
+- Later: 2026-08-21 · Devin · [[Changes/Devin/2026-08-21-new-v3-scan-api-endpoints|New v3 Scan API Endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d7c901770c26d11697d14a7bb2cd3f07891341abc9ec30ede189c008c1b06bc
+machine_hash: 391fd29309bd0b3168d16e58448002b0e6225e363eed1ea36441220f0c04b07c
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,10 @@ record:
   title: 'feat(verify-openhands): adopt the shared known-bug contract'
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
-  avatar changes show immediately in the scope switcher instead of a cached image]]'
-- '[[Changes/OpenClaw/2026-10-18-review-the-conversation-before-publishing-the-link-exposes-existing-and-future-u|Review
-  the conversation before publishing]]'
-- '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
-  a warning on Pro and Max plans when resuming an inactive conversation would…]]'
+- '[[Changes/Devin/2026-10-19-teams-tag-mentions|Teams Tag Mentions]]'
+- '[[Changes/Devin/2026-10-19-recover-a-crashed-session-from-teams|Recover a Crashed
+  Session from Teams]]'
+- '[[Changes/Devin/2026-10-19-clearer-group-chat-permissions|Clearer Group-chat Permissions]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'
 source_type: github_releases
 theme: collaboration
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]]
+- Earlier: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-clearer-group-chat-permissions|Clearer Group-chat Permissions]]
 - Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session Share now shows an error when it can’t discover receivers, instead…]]
 <!-- chronolog:end -->
 

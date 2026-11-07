@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5024dda8633d042a62d0b2c808bd7779f040a395f85b486ba5203b4a555233a
+machine_hash: 92c0a1448b555cc3c6fbd9e081a2ea2514d10016e1611b33d3660aa17899bbe6
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Optimized preview loading performance when using Design Mode
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party
-  services faster]]'
 - '[[Changes/Replit/2025-12-05-fast-mode-handles-more-autonomously|Fast Mode handles
   more autonomously]]'
 - '[[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally
   available]]'
+- '[[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats
+  view with typing speed and time saved]]'
 source_release: '[[Releases/v0/v0-2025-12-09-2025-12-09-bug-fixes-1ab6f77e|v0-2025-12-09-2025-12-09-bug-fixes-1ab6f77e]]'
 source_type: v0_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-05 · Replit · [[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally available]]
+- Earlier: 2025-12-08 · Superwhisper · [[Changes/Superwhisper/2025-12-08-stats-view-with-typing-speed-and-time-saved|Stats view with typing speed and time saved]]
 - Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
 <!-- chronolog:end -->
 

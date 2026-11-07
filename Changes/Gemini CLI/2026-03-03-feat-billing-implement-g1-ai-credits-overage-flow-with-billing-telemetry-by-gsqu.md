@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: af8cf3e246b34f04ee28d5ce0799aecde94886f028e25f46a6447fefadee105f
+machine_hash: a2fd7435f09b3d8911aed49b0654812e4c9ff8681b1aa14af3b0925e9982dfaa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,10 @@ record:
   title: 'feat(billing): implement G1 AI credits overage flow with billing telemetry'
   type: change
 related_changes:
-- '[[Changes/Descript/2026-02-10-accounts-billing|Accounts & Billing]]'
-- '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
-  support the stateful pause/resume mechanism required by HITL and provide…]]'
-- '[[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations
-  no longer require a separate API plan]]'
+- '[[Changes/Recraft/2026-02-27-cost-per-generation|Cost per generation]]'
+- '[[Changes/Recraft/2026-02-27-cost-per-generation-8-credits|New model: Seedream
+  5.0 Lite]]'
+- '[[Changes/Recraft/2026-02-28-cost-per-generation|Cost per generation]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a|gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a]]'
 source_type: github_releases
 theme: pricing-model
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations no longer require a separate API plan]]
+- Earlier: 2026-02-28 · Recraft · [[Changes/Recraft/2026-02-28-cost-per-generation|Cost per generation]]
 - Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
 <!-- chronolog:end -->
 

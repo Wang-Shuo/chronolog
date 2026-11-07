@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 806069514529998e020fa0b049c894865a809bad829fea30110afaa062ea7036
+machine_hash: 3d704db37a3d732acbc261ebfbca74ef61827798e45886d4dc743ebe8e5aa556
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop
-  Added collapsible model provider sections in V2 settings]]'
 - '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model
   Support changes in rust-v0.146.0]]'
+- '[[Changes/Superwhisper/2026-07-29-2-model-support-changes-in-superwhisper-macos-2-17-0|2
+  Model Support changes in Superwhisper macOS 2.17.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow
   reasoning effort to be omitted so the server can select the default]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'

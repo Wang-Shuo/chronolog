@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61e9c5382e6326c758c6bb39bdba7a35939919ac093decba6babf0a17ce1f2fa
+machine_hash: 07f0fd26bda21484ab7ed76dc0b42397c775c2c6a56e14476f428c775ba658f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps and Integrations changes in v1.17.12]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-mcp-read-only-mode|MCP Read-Only Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

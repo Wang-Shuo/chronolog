@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c947fa77e1ee52094132a65e0534133b8b72248500fdb19dcca24f5a9f27396
+machine_hash: 1e14ca8a21ecd9d25adfad26bbf8ac877925a97726e0eaa7bc9a89be1cec50d9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: '#33167 Document the Windows exec yield time range @copyberry'
   type: change
 related_changes:
-- '[[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create
-  brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
+- '[[Changes/Devin/2026-07-17-inline-link-previews|Inline Link Previews]]'
 - '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
   in 1.16.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'

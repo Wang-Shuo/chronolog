@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6204cf17016ea58104d81e3f6d11bf0be6af608d3a59e4981e183327fe51c3f
+machine_hash: 327e1d3dde9a450fa4a859e11084390fca57adeccfca3853ee984edc58eefe91
 product: openhands
 product_name: OpenHands
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|📁 Files API: Compatible with OpenAI, this feature allows for custom…]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor: move image agnostic util to shared runtime util]]
+- Later: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-affiliate-program-you-can-now-earn-30-commission-by-joining-our-affiliate-progra|Affiliate Program: You can now earn 30% commission by joining our Affiliate Program…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

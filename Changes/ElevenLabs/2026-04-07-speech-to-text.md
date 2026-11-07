@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 89c130d0f4bf5c1209104fd1d8e850e47375c3732f715fb738c631a400756e1c
+machine_hash: 48afbeb78839f7ee1814e28d247203dea9232da08492cbd1c8988353f3d92850
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-01-voices-7b77ff|Voices]]'
 - '[[Changes/ElevenLabs/2026-04-01-speech-to-text-8868d1|Speech to Text]]'
+- '[[Changes/AnythingLLM/2026-04-02-voice-messages-attachments|Voice messages & Attachments]]'
 - '[[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice
   input on desktop]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-07-2026-04-07-1ced55b5|elevenlabs-2026-04-07-2026-04-07-1ced55b5]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-04-06 · Notion · [[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice input on desktop]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice and Audio changes in rust-v0.119.0]]
+- Later: 2026-04-08 · Superwhisper · [[Changes/Superwhisper/2026-04-08-2-voice-and-audio-changes-in-superwhisper-macos-2-12-0|2 Voice and Audio changes in Superwhisper macOS 2.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

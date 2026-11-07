@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6cf2991afd45c6ce242535eedae8921932c2b38741578e1112fdd9972a30794a
+machine_hash: 39c3a158383659cbff64877813d5bd75e2f6941c121324ee83c4aec65736b25b
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     like…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
-  models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
   Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
 - '[[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support
   changes in v0.5.7]]'
+- '[[Changes/AnythingLLM/2025-01-29-13-model-support-changes-in-v1-4-0|13 Model Support
+  changes in v1.4.0]]'
 source_release: '[[Releases/Cline/cline-2025-01-30-v3-2-6-github-197481129-124c52a1|cline-2025-01-30-v3-2-6-github-197481129-124c52a1]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-23 · Open WebUI · [[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support changes in v0.5.7]]
+- Earlier: 2025-01-29 · AnythingLLM · [[Changes/AnythingLLM/2025-01-29-13-model-support-changes-in-v1-4-0|13 Model Support changes in v1.4.0]]
 - Later: 2025-01-30 · Gemini · [[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing Gemini 2.0 Flash to Gemini]]
 <!-- chronolog:end -->
 

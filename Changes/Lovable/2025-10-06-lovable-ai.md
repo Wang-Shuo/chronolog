@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 75bf14ee3a6ef120f56225dea807c6c0c26a78e588b255c9ef809372fcbdee3a
+machine_hash: 62029a54fee850e6c53f9b7aaf25c3f4cef8f9cc4f3262ef2eccc87f18f5ab7a
 product: lovable
 product_name: Lovable
 record:
@@ -62,10 +62,10 @@ record:
   title: Lovable AI**
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-03-ollama-flash-attention-can-now-be-overridden-to-0-for-models-that-have-flash-att|OLLAMA_FLASH_ATTENTION
-  can now be overridden to 0 for models that have flash…]]'
 - '[[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model
   Support changes in rust-v0.45.0]]'
+- '[[Changes/LM Studio/2025-10-06-2-model-support-changes-in-lm-studio-0-3-29|2 Model
+  Support changes in LM Studio 0.3.29]]'
 - '[[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]]'
 source_release: '[[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|lovable-2025-10-06-2025-10-06-d7db7508]]'
 source_type: lovable_changelog
@@ -113,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model Support changes in rust-v0.45.0]]
+- Earlier: 2025-10-06 · LM Studio · [[Changes/LM Studio/2025-10-06-2-model-support-changes-in-lm-studio-0-3-29|2 Model Support changes in LM Studio 0.3.29]]
 - Later: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-new-llm-models|New LLM Models]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c62e88cb13ca018aa8f5e658ab78d8bfc6239ce7efbcaf4a325faf7ee5e6ccc
+machine_hash: d7a81ec80ccaed921a2d8bdc943991074b3364686b6ab78d3db365b042ca7481
 product: ollama
 product_name: Ollama
 record:
@@ -40,8 +40,8 @@ record:
   title: Reliability improvements when hitting context limits
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
-  in the logs the prompt cache hit or miss for Deepseek Chat]]'
+- '[[Changes/Superwhisper/2024-10-28-recording-context-leak-fix|Recording context
+  leak fix]]'
 - '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
   fname command will make a file of /add and /read-only commands…]]'
 - '[[Changes/Dify/2024-11-05-2-context-window-changes-in-0-11-0|2 Context Window changes

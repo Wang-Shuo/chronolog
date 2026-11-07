@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 837fc51ee6dde45783ba89f14df924ca60a6d8ba8003e1b932b4ab142cdfad16
+machine_hash: 04946a90ab865a66a6a885101eca4ab9b84b1ae93ddf9ed267ae3a12839edc1c
 product: notion
 product_name: Notion
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2023-03-06 · Descript · [[Changes/Descript/2023-03-06-for-quick-recordings-the-copy-link-and-open-share-page-functionality-have-been-m|For quick recordings, the copy link and open share page functionality have been…]]
-- Later: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Later: 2023-05-10 · Raycast · [[Changes/Raycast/2023-05-10-custom-themes|Custom Themes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

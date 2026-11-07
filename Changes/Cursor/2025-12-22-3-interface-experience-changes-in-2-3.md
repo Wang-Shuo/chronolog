@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee0fa9b59da7782c659a17e1543a7126f2bd3efd405c7154a916dc224ea323ef
+machine_hash: 6d077f4b2df39fd73141ed7905faf3105f07e36fb09bc0a9b6d7101b1244c161
 product: cursor
 product_name: Cursor
 record:
@@ -46,7 +46,8 @@ record:
   title: 3 Interface Experience changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
+- '[[Changes/Raycast/2025-12-20-you-ve-probably-seen-these-in-raycast-when-your-search-term-doesn-t-have-any-mat|You''ve
+  probably seen these in Raycast, when your search term doesn''t have any…]]'
 - '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
   Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model

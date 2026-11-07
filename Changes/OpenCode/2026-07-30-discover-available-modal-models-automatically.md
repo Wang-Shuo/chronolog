@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 13f12318b029923da35a64406e0b172d0deae26567bc031f257998055839b93a
+machine_hash: ee2c310d763aa12b658fc6378cc8a490ec9c9089e6b317e48ebc6931170cd4a7
 product: opencode
 product_name: OpenCode
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-opus-5|Opus 5]]
-- Later: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]
+- Later: 2026-07-30 · Superwhisper · [[Changes/Superwhisper/2026-07-30-3-model-support-changes-in-superwhisper-windows-1-5-8|3 Model Support changes in Superwhisper Windows 1.5.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

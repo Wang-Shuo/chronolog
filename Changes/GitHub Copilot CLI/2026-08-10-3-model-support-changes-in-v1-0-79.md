@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 056dc87c9e07dc8b5f7329af43fcbec36bf96beb0c12d693c084f24c67fac771
+machine_hash: d8c51406dfa99a4a50be00fbd385b015a609e3ae50c10a11495a70d5220db10b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 ## Nearby in Model Support
 
 - Earlier: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-retry-network-interruptions-that-happen-mid-stream-but-before-any-model-output-i|Retry network interruptions that happen mid-stream but before any model output…]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]]
+- Later: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-2-model-support-changes-in-superwhisper-ios-2-20|2 Model Support changes in Superwhisper iOS 2.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

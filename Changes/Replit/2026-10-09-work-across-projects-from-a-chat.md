@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: de26167986147133af78dd5ee96295a359901be364459f3f12085f7ac764b705
+machine_hash: 770dcf24ceb6ffe54baf6f7399518c4bfec97b53fe941d7ada93df48ebe2eb66
 product: replit
 product_name: Replit
 record:
@@ -55,12 +55,11 @@ record:
   title: Work across projects from a chat
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-model-retries-and-context-one-shot-model-requests-through-the-gateway-retain-the|Model
-  retries and context]]'
 - '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
   Window changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
   now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Raycast/2026-10-09-send-context-to-ai|Send Context to AI]]'
 source_release: '[[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|replit-2026-10-09-2026-10-09-58884c93]]'
 source_type: replit_changelog
 theme: context-window
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context now applies to new and resumed ACP sessions instead of silently using…]]
+- Earlier: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-send-context-to-ai|Send Context to AI]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window changes in v0.12.0]]
 <!-- chronolog:end -->
 

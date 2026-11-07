@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 900d18eeb855ad0609f8e826fe93325ad43c07d5ce93d5d58f2f583c71014649
+machine_hash: 8eff6b34f39be019c8ed8f5e67b69ba9f4d663263c5d10417a5760f8cda42f70
 product: midjourney
 product_name: Midjourney
 record:
@@ -63,8 +63,7 @@ record:
   title: Prompt bar and pills
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway
-  Ruby]]'
+- '[[Changes/Superwhisper/2026-08-20-improvements-fixes|Improvements & Fixes]]'
 - '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
   tool calling for custom OpenAI-Compatible models whose stored capability…]]'
 - '[[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes

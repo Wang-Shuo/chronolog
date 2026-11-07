@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b76b7de8f9e032e0bfb2963097fe8aceae155c7da869980a0e2eb1752fda6ba4
+machine_hash: 616dc9cf6102f1ec8b5fee2d2d9382d9d81f62637227b473ae1af1d88246b4aa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
     files to folders…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
-  Window changes in rust-v0.130.0]]'
+- '[[Changes/Raycast/2026-05-08-ai-model-picker-details-the-model-picker-now-has-a-beautiful-new-detail-panel-fo|AI
+  Model Picker Details]]'
 - '[[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External
   access tokens for Private Deployments]]'
 - '[[Changes/Open WebUI/2026-05-09-4-context-window-changes-in-v0-9-3|4 Context Window

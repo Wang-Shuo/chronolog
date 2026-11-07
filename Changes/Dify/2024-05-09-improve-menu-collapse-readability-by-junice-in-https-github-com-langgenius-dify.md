@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cab1b4bf51e3377165b99320cb040c457a309eda287f140e747774707d18084
+machine_hash: 5ab29618e328d660226b73b5963fd876b96f5b6ee7132e8e79be7f947856ec89
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: 'improve: menu collapse readability'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
-  Autoselect: We''ve also added automatic selection for Command-K!]]'
 - '[[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling
   Update Coming Soon]]'
 - "[[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|\U0001F5BC️
   Improved Chat Sidebar]]"
+- '[[Changes/Raycast/2024-05-08-date-pickers-you-can-now-enter-things-like-in-1h-and-10min-and-the-date-picker-w|Date
+  Pickers : You can now enter things like “in 1h and 10min” and the Date Picker…]]'
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|🖼️ Improved Chat Sidebar]]
+- Earlier: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-date-pickers-you-can-now-enter-things-like-in-1h-and-10min-and-the-date-picker-w|Date Pickers : You can now enter things like “in 1h and 10min” and the Date Picker…]]
 - Later: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]]
 <!-- chronolog:end -->
 

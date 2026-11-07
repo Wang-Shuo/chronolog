@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3baf40d93deb1f66f2280da325f7ddcc196f23575b34e0e0129bb7351b2f0eed
+machine_hash: aa81223b7382e4b6b7e04e486366f9315485c7bc1ab443a88a6791367164c99c
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Changed `/review <pr>` back to a fast single-pass review
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
-  agents session rows now show pull-request links as bare ♯N without…]]'
-- '[[Changes/Kimi Code/2026-07-02-show-draft-pull-requests-with-a-distinct-draft-status-instead-of-displaying-them|Show
-  draft pull requests with a distinct draft status instead of displaying them as open]]'
+- '[[Changes/Devin/2026-07-03-this-release-also-includes-fixes-for-virtualized-review-comments-hijacking-scrol|This
+  release also includes fixes for virtualized Review comments hijacking scroll…]]'
 - '[[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich
   PATH from the user''s login shell at startup, so shell commands find…]]'
+- '[[Changes/Raycast/2026-07-03-windows-management-you-can-now-minimize-current-window-with-the-minimize-command|Windows
+  Management : You can now minimize current window with the Minimize command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-enrich-path-from-the-user-s-login-shell-at-startup-so-shell-commands-find-user-i|Enrich PATH from the user's login shell at startup, so shell commands find…]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-windows-management-you-can-now-minimize-current-window-with-the-minimize-command|Windows Management : You can now minimize current window with the Minimize command]]
 - Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer Workflow changes in v1.17.14]]
 <!-- chronolog:end -->
 

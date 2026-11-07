@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 93e576a059b0aeadec661ce4ee95dd927f00cd73d3221aa4fc00bda34b429e51
+machine_hash: 8ae9e9bf4d7e6cadf982563dd6cca87bca1369515ba8dc57b6382531fca10064
 product: gemini
 product_name: Gemini
 record:
@@ -55,10 +55,10 @@ record:
   title: Go Live with Gemini
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore:
-  allow download audio/video through HTTP node]]'
-- '[[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus
-  after voice input]]'
+- '[[Changes/Superwhisper/2024-09-03-set-default-audio-engine-back-to-old-audio-engine-fc09fa|Set
+  default audio engine back to old audio engine]]'
+- '[[Changes/Superwhisper/2024-09-03-set-default-audio-engine-back-to-old-audio-engine-fc3fd6|Set
+  default audio engine back to old audio engine]]'
 - '[[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch
   /voice transcription exceptions, show the WAV file so the user can recover it]]'
 source_release: '[[Releases/Gemini/gemini-2024-09-04-2024-09-04-aa1a42e9|gemini-2024-09-04-2024-09-04-aa1a42e9]]'

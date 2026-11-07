@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f4a031e06c252b62cd0d073237c092a63c7c1b6d05bf64d26253c8231c9f384d
+machine_hash: 0bf5e381634db49524a1bff24a7922b958dda1b5472ac35fb9a7774b73d9b5e7
 product: ollama
 product_name: Ollama
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-07-31 · ChatGPT · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38024-expose-image-generation-usage-limit-failures-copyberry|♯38024 Expose image generation usage-limit failures @copyberry]]
+- Later: 2026-08-13 · AnythingLLM · [[Changes/AnythingLLM/2026-08-13-3-image-generation-changes-in-v1-16-0|3 Image Generation changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

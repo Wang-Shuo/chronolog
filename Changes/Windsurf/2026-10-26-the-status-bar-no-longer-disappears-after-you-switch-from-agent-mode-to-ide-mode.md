@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a970ba23e530f6c854c7b36e2c7fd663b6f330549aa40c61eff788b3a8f24d72
+machine_hash: d8b1e4a52d4b791f31b53429d37fdd0e69246c61bed6b0e89cdd0a24fe5914e9
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,12 +55,10 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9
-  Agent Mode changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added
-  drag-and-drop support for files or screenshots directly onto the Agent panel]]'
 - '[[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop
   showing a failed swarm for AgentSwarm calls rejected before any subagent…]]'
+- '[[Changes/Krea/2026-10-26-krea-for-touchdesigner|Krea for TouchDesigner]]'
+- '[[Changes/Krea/2026-10-26-more-agent-plugins|More Agent plugins]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -94,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop showing a failed swarm for AgentSwarm calls rejected before any subagent…]]
+- Earlier: 2026-10-26 · Krea · [[Changes/Krea/2026-10-26-more-agent-plugins|More Agent plugins]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
 <!-- chronolog:end -->
 

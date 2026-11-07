@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a25e9369e202695b9cee76b92ddc21d4efbb3adedfe27c393c8c5bb555f29a2
+machine_hash: e1a9ca32d1ebd924517ebe54664722bc738546a4dc9a238322675f72cc67f666
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v3.82.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support
-  changes in v1.14.30]]'
 - '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
   Support changes in rust-v0.128.0]]'
+- '[[Changes/Raycast/2026-04-30-ai-search-models-in-model-sheet|AI: Search models
+  in model sheet]]'
 - '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
   changes in v2.1.126]]'
 source_release: '[[Releases/Cline/cline-2026-05-01-v3-82-0-github-316454894-185028d6|cline-2026-05-01-v3-82-0-github-316454894-185028d6]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 447a38bdb2d61134a6a100197de6a975670eab9b72198165a6c73d5b0cc72118
+machine_hash: f08f3660d1f01fcc78111a9adc1f55b88d493ed8abae3f4e5709166f7ca27f29
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved the Artifact tool's choice between a page and a document
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-8-files-and-data-changes-in-1-18-0|8 Files and Data changes
-  in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas):
   quiet backend logs by default]]'
 - '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
   Data changes in v0.12.4]]'
+- '[[Changes/AnythingLLM/2026-10-26-2-files-and-data-changes-in-v1-19-0|2 Files and
+  Data changes in v1.19.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and Data changes in v0.12.4]]
+- Earlier: 2026-10-26 · AnythingLLM · [[Changes/AnythingLLM/2026-10-26-2-files-and-data-changes-in-v1-19-0|2 Files and Data changes in v1.19.0]]
 - Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-previews-that-match-your-format|Previews that match your format]]
 <!-- chronolog:end -->
 

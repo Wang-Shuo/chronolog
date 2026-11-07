@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a93e0823840c0886cff5b2d514fb801241243bca0dc79ef8a8d6ae20c1cbe1a5
+machine_hash: a31b9b24b7575de18b5ec6306c08aca5261da60d033513d1589bc856ba66d036
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Apps and Integrations changes in v1.1.40 + 1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add
-  MCP prompts support - prompts from connected MCP servers now appear in slash…]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
   and Integrations changes in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
   show server-name displays server details and available tools]]'
+- '[[Changes/LM Studio/2026-01-28-updated-style-for-integrations-panel-and-select|Updated
+  style for Integrations panel and select]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-40-b7c9e067|opencode-2026-01-28-v1-1-40-b7c9e067]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ Source: https://opencode.ai/changelog/v1.1.40
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp show server-name displays server details and available tools]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-updated-style-for-integrations-panel-and-select|Updated style for Integrations panel and select]]
 - Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-core-bump-plugin-version|Core Bump plugin version]]
 <!-- chronolog:end -->
 

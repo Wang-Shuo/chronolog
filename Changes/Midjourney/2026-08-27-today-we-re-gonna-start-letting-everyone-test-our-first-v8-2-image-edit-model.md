@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 930a275b862f981748336c40abc769c181bb848af1f635d8170a9c86d120da38
+machine_hash: 39c916e793fda375a445a56dc5fbefccbd4a7847f0f07958dfee196cbd50bf92
 product: midjourney
 product_name: Midjourney
 record:
@@ -72,12 +72,11 @@ record:
   title: Today we’re gonna start letting everyone test our first V8.2 image edit model!
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
-  avoid Metal GPU timeouts when loading models from slow storage]]'
-- '[[Changes/Z.ai API/2026-08-26-native-visual-capabilities-enable-the-model-to-observe-interfaces-rendering-resu|Native
-  visual capabilities enable the model to observe interfaces, rendering…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
+- '[[Changes/Krea/2026-08-27-gemini-omni-flash-1-1|Gemini Omni Flash 1.1]]'
+- '[[Changes/Krea/2026-08-27-minimax-h3-and-minimax-h3-max|MiniMax H3 and MiniMax
+  H3 Max]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e|midjourney-2026-08-27-https-updates-midjourney-com-edit-model-for-v8-d8d62f6e]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -129,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model Support changes in v1.0.81]]
+- Earlier: 2026-08-27 · Krea · [[Changes/Krea/2026-08-27-minimax-h3-and-minimax-h3-max|MiniMax H3 and MiniMax H3 Max]]
 - Later: 2026-08-27 · Ollama · [[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The Claude Desktop proxy no longer interrupts in-flight requests when the model…]]
 <!-- chronolog:end -->
 

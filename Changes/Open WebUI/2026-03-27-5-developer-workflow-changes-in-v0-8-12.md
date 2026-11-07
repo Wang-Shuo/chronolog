@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a425aa400a7ee8b349642346578642fcf6bef7c32ff033d59e8850f3262490c
+machine_hash: a09dbc63921d4f7f012324db864e6d2389ca2e4a4eb319cfe3e5685f986b16c7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.12
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]
-- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer Workflow changes in v1.3.6 + 2]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-3-developer-workflow-changes-in-raycast-macos-0-51|3 Developer Workflow changes in Raycast macos 0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

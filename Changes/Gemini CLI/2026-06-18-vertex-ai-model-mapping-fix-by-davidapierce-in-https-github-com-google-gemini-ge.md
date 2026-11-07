@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 505ba02d9054499455d3e95e38d14b45122452ac11bc0d25fde6b4336517f981
+machine_hash: 6e620c637bd17ea90f50c808afb4e55a26f04768b15a6de4e1facc548ef58df5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-during-the-beta-phase-all-testers-get-free-access-to-ai-chat-with-the-gpt-5-4-mi|During the Beta phase, all testers get free access to AI Chat with the GPT 5.4 Mini model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

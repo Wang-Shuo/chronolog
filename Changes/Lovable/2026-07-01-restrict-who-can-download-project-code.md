@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6701c5efb540342520ad870ed1680f91fea571a69ab4c49cedd80e39754fddc8
+machine_hash: 99208f1033cebd90841b39470b45851838a33a4b89a15b5194cb0b189b9c86f6
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Restrict who can download project code
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-30-project-monitoring-beta|Project monitoring (Beta)]]'
 - '[[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot
   group admins can choose how broadly slash commands are available…]]'
 - '[[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop
   Add workspace controls when starting a new session]]'
+- '[[Changes/Devin/2026-07-01-acu-limit-audit-trail|ACU Limit Audit Trail]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-01-2026-07-01-070e4e1f|lovable-2026-07-01-2026-07-01-070e4e1f]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop Add workspace controls when starting a new session]]
+- Earlier: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-acu-limit-audit-trail|ACU Limit Audit Trail]]
 - Later: 2026-07-03 · Lovable · [[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace admins and owners can transfer projects again]]
 <!-- chronolog:end -->
 

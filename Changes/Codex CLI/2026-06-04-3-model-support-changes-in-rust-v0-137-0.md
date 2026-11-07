@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9db78c298505fe80cac025f53b1f5057c7e8590c56396c434d3f7f9b8df81c0c
+machine_hash: ef7592382aca4aeec848f926189ba643ecf6a0c75ca675e61abc02ccb8ea0a37
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-03-add-minimax-m3-model-support|Add MiniMax M3 model support]]'
 - '[[Changes/Ollama/2026-06-03-ollama-create-experimental-now-respects-requires-in-modelfiles-for-mlx-based-mod|ollama
   create --experimental now respects REQUIRES in Modelfiles for MLX-based models]]'
 - '[[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support
   changes in v0.30.2]]'
+- '[[Changes/Raycast/2026-06-03-ai-settings-added-ability-to-globally-disable-ai-models-to-settings-ai-models|AI
+  Settings : Added ability to globally disable AI models to Settings  AI  Models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-2-model-support-changes-in-v0-30-2|2 Model Support changes in v0.30.2]]
+- Earlier: 2026-06-03 · Raycast · [[Changes/Raycast/2026-06-03-ai-settings-added-ability-to-globally-disable-ai-models-to-settings-ai-models|AI Settings : Added ability to globally disable AI models to Settings  AI  Models]]
 - Later: 2026-06-05 · Cline · [[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes in v3.88.0]]
 <!-- chronolog:end -->
 

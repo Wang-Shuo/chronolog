@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d20712030b5d0a6adf0ce94f7c7b543c365680881f775fdb6082e36c72ce423f
+machine_hash: aa40086ec9ccfd67e92c9913f1123f0271943e98715b31c12879f97664dcb352
 product: opencode
 product_name: OpenCode
 record:
@@ -44,11 +44,10 @@ record:
   title: 2 Interface Experience changes in v1.2.21
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
-  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
 - '[[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop
   Remove keyboard shortcut tooltips from new session and new workspace buttons…]]'
 - '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
+- '[[Changes/Devin/2026-03-07-install-devin-as-an-app|Install Devin as an App]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-07-v1-2-21-72375855|opencode-2026-03-07-v1-2-21-72375855]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -88,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.2.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
+- Earlier: 2026-03-07 · Devin · [[Changes/Devin/2026-03-07-install-devin-as-an-app|Install Devin as an App]]
 - Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17e7958f3913a6bf79ff8ade659291512444bbcc6beaf8438b99d499fe98fe1f
+machine_hash: aa12466e8e948a94360e933d871877a528cbffb4be8781d404d3bfe587b69321
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,12 @@ record:
     wording)'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-30-opus-5|Opus 5]]'
 - '[[Changes/OpenCode/2026-07-30-discover-available-modal-models-automatically|Discover
   available Modal models automatically]]'
 - '[[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop
   Hide the model variant selector until model data finishes loading]]'
+- '[[Changes/Superwhisper/2026-07-30-3-model-support-changes-in-superwhisper-windows-1-5-8|3
+  Model Support changes in Superwhisper Windows 1.5.8]]'
 source_release: '[[Releases/Cline/cline-2026-07-31-v4-1-0-github-362842844-bb117e78|cline-2026-07-31-v4-1-0-github-362842844-bb117e78]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop Hide the model variant selector until model data finishes loading]]
+- Earlier: 2026-07-30 · Superwhisper · [[Changes/Superwhisper/2026-07-30-3-model-support-changes-in-superwhisper-windows-1-5-8|3 Model Support changes in Superwhisper Windows 1.5.8]]
 - Later: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
 <!-- chronolog:end -->
 

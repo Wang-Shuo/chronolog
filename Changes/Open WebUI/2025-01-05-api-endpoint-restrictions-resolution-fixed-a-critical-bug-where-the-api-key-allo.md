@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7543ec9402c1a3ad5612efe65cfdf124758872ae3a44cd281917e1287e400107
+machine_hash: 88c40757c5fd4b87c15645a2845d58fb57b98b37c0401ddd887bd9ec69df11d3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "**\U0001F511 API Endpoint Restrictions Resolution**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
-  custom sandbox for resolver]]'
+- '[[Changes/Raycast/2024-12-04-deeplinks-removed-security-alert-showing-when-opening-a-deeplink-from-quicklink|Deeplinks:
+  Removed security alert showing when opening a deeplink from quicklink]]'
 - "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
   most requested feature is here \U0001F389 You can now let Cline work more…]]"
 - "[[Changes/Open WebUI/2024-12-25-api-key-authentication-restriction-narrowed-api-key-auth-permissions-to-api-mode|\U0001F4A1

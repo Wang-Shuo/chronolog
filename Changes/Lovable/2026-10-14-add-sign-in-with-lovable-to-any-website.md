@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 430d8b172c3eaf39a7907be2b69e1095f974f366c8db397466e7cb11394ec3c9
+machine_hash: a731c141dd7b55619115e0379344a5b537c21c71a649bd787de35719549e3dbd
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Add Sign in with Lovable to any website
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only
+  Enterprise Members are Routed to Their Enterprise Sign-in]]'
 - '[[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let
   your app''s users sign in with their Lovable account]]'
 - '[[Changes/Lovable/2026-10-14-connect-your-apps-to-lovable-with-oauth|Connect your
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
+- Earlier: 2026-10-14 · Devin · [[Changes/Devin/2026-10-14-sso-only-enterprise-members-are-routed-to-their-enterprise-sign-in|SSO-only Enterprise Members are Routed to Their Enterprise Sign-in]]
 - Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-clearer-error-messages-when-cloud-access-fails-sign-in-problems-payment-issues-i|Clearer error messages when cloud access fails]]
 <!-- chronolog:end -->
 

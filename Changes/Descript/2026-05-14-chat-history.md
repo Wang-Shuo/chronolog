@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 92752a0960cb5d6e8d4647038c9a8160859bb9f7efdfc99edf109340feb1d8d3
+machine_hash: 9a6a08b8f5c66c0df8e3a2f1410475b5ce78c80b278c2eda322581d4e201eb97
 product: descript
 product_name: Descript
 record:
@@ -66,11 +66,11 @@ record:
   title: Chat history
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience
-  changes in 3.4]]'
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
+- '[[Changes/Devin/2026-05-13-sub-devin-sidebar-improvements|Sub-Devin Sidebar Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
   j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2
+  Interface Experience changes in Raycast macos 0.59]]'
 source_release: '[[Releases/Descript/descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2|descript-2026-05-14-6a05e75cbbef22ce4b0633c9-b87fafc2]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -121,7 +121,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
+- Earlier: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2 Interface Experience changes in Raycast macos 0.59]]
 - Later: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored markdown rendering for session output by default]]
 <!-- chronolog:end -->
 

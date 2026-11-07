@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ae65ba0720c427178a3ff6fa7ffce4f74430bec1dc93e13820cb74e1cdd79fd
+machine_hash: c02bc1174cb312e66500319b27f7107a085692b7d4b03e490fb79ffcbe86b9f0
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in IDE v2.5.2 — Queued Messages, File…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-11-6-interface-experience-changes-in-hub-v2-7-1-reliability-performance|6
-  Interface Experience changes in HUB v2.7.1 — Reliability, Performance…]]'
 - '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
   Added session groups in the sidebar]]'
+- '[[Changes/Devin/2026-08-12-sidebar-organization-improvements|Sidebar Organization
+  Improvements]]'
 - '[[Changes/Google Antigravity/2026-08-12-the-sidebar-now-remembers-which-folders-you-have-collapsed-or-expanded-including|The
   sidebar now remembers which folders you have collapsed or expanded, including…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82|google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82]]'

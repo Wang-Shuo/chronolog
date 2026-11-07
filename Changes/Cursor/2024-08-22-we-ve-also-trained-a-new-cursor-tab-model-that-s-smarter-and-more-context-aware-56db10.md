@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 63a10a9f366f690fc9396ca27cbbf4e76ab0509c26b370b52903d0e374ef796c
+machine_hash: 3d418e4e6c355e4c2b634d46b15830380ebb2aa5c48fa2fa3729b89bf62f922c
 product: cursor
 product_name: Cursor
 record:
@@ -61,12 +61,12 @@ record:
   title: We've also trained a new Cursor Tab model that's smarter and more context-aware
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-06-chore-make-prompt-generator-max-tokens-configurable-by-gijigae-in-https-github-c|chore:
-  make prompt generator max tokens configurable]]'
 - '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
   read-only files to the chat context with /read and --read, including…]]'
 - '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
   chat history size in /tokens]]'
+- '[[Changes/AnythingLLM/2024-08-19-agent-context-window-context-window-refactor-by-timothycarambat-in-https-github|Agent
+  Context window + context window refactor]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: context-window
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for chat history size in /tokens]]
+- Earlier: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-agent-context-window-context-window-refactor-by-timothycarambat-in-https-github|Agent Context window + context window refactor]]
 - Later: 2024-08-24 · Gamma · [[Changes/Gamma/2024-08-24-plus-token-limit-increased-from-5-000-to-10-000-tokens-per-generation|Plus: Token limit increased from 5,000 to 10,000 tokens per generation]]
 <!-- chronolog:end -->
 

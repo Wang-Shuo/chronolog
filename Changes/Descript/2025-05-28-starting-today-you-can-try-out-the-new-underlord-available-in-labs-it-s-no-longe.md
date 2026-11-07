@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21576ca9de65562a82514a73a0c100b32d390fd5e8863a23c2a2b4e88f04a272
+machine_hash: fd5de06fe0dcb2dc3712df6267b18f6ca6e8e314a5d7fe8d30716b6f07af5e9d
 product: descript
 product_name: Descript
 record:
@@ -58,9 +58,10 @@ record:
   title: New in Labs—the new Underlord
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
 - '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
   Experience changes in v0.6.10]]'
+- '[[Changes/LM Studio/2025-05-23-2-editor-experience-changes-in-lm-studio-0-3-16|2
+  Editor Experience changes in LM Studio 0.3.16]]'
 - '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
 source_release: '[[Releases/Descript/descript-2025-05-28-6837249b6b061d204b7079f3-4a01a1ca|descript-2025-05-28-6837249b6b061d204b7079f3-4a01a1ca]]'
 source_type: canny_changelog

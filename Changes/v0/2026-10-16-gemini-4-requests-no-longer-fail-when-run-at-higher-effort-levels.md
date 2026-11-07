@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 695ea05dbad92346354109f91a0bb78c1b0656d658992341832ea9e49e350db0
+machine_hash: 581f19af1ac5a3f8bc4f0efd9dfb9d4702f86ddbe1da955c7c4c927b4caabb6d
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,10 @@ record:
   title: Gemini 4 requests no longer fail when run at higher effort levels
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI
-  reasoning with tools]]'
-- '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
-  Configure model reasoning options to generate reasoning variants, replacing…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c|AI
+  Chat : Images you attach when using local models now stay on your device…]]'
+- '[[Changes/Raycast/2026-10-16-ai-chat-images-you-attach-when-using-local-models-now-stay-on-your-device-when-c-f34b5c|AI
+  Chat : Images you attach when using local models now stay on your device…]]'
 - '[[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku
   5.5 in the model selector]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'

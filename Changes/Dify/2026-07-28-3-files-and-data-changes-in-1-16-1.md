@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bcc45daf37136223961680e05b7322bd87bccd7746ec7cc577755e52124a491
+machine_hash: 92db64b972a1917f4b20c89cf4f8104f9fd74bf44057debc763f50a9f11f521f
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Files and Data changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web:
-  Show transparent images over a checkerboard canvas]]'
 - '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
   starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Recraft/2026-07-23-refine-paths-directly-on-the-canvas|Refine paths directly
+  on the canvas]]'
 - '[[Changes/Open WebUI/2026-07-27-9-files-and-data-changes-in-v0-11-0|9 Files and
   Data changes in v0.11.0]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'

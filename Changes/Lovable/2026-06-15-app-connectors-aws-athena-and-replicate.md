@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 33f3fcbc7b352e7d5ba62e99fca7108cac6a0fc89409204b879a911cc7e7ec75
+machine_hash: c2c18d2b292d3c115048f24ffd429467444b2968e5da2cdbb1c91228111b47d2
 product: lovable
 product_name: Lovable
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3 Apps and Integrations changes in Kimi Code 0.15.0]]
-- Later: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
+- Later: 2026-06-16 · AnythingLLM · [[Changes/AnythingLLM/2026-06-16-2-apps-and-integrations-changes-in-v1-14-1|2 Apps and Integrations changes in v1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

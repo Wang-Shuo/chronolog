@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99306237b8d29fd27c8772aa90643e8880fee509a61ae84b1789acef796cc0e6
+machine_hash: 99d134c44cb28c7bc76c35b781ba6d12901116db40a1c8865c1430d340ace826
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-24-7-interface-experience-changes-in-kimi-code-0-19-2|7
-  Interface Experience changes in Kimi Code 0.19.2]]'
-- '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
-  Experience changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-ai-chat-pressing-esc-only-closes-history-sidebar-when-in-overlay-mode-c36bfc|AI
+  Chat : Pressing Esc only closes history sidebar when in overlay mode]]'
+- '[[Changes/AnythingLLM/2026-06-25-2-interface-experience-changes-in-v1-15-0|2 Interface
+  Experience changes in v1.15.0]]'
 - '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
   Experience changes in 1.15.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-25-rel-hub-2-2-1-521749ad|google-antigravity-2026-06-25-rel-hub-2-2-1-521749ad]]'

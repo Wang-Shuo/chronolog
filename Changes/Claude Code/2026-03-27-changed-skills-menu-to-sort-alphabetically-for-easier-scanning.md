@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a79bd5895e72baefe50151cd26cf0611319c54fea76663dca9f99f292ad5a7af
+machine_hash: 8e3028dca39dce87f2ec5e2d55c181320a7c8bb1d5aaaaf4c54f5588fe024110
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Changed `/skills` menu to sort alphabetically for easier scanning
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-26-a-new-sidebar-built-for-focus|A new sidebar, built
-  for focus]]'
 - '[[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive
   pages for better search & AI results]]'
 - '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
   Experience changes in v1.3.3]]'
+- '[[Changes/Superwhisper/2026-03-26-re-styled-keyboard-shortcut-inputs-for-a-cleaner-look|Re-styled
+  keyboard shortcut inputs for a cleaner look]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface Experience changes in v1.3.3]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
+- Earlier: 2026-03-26 · Superwhisper · [[Changes/Superwhisper/2026-03-26-re-styled-keyboard-shortcut-inputs-for-a-cleaner-look|Re-styled keyboard shortcut inputs for a cleaner look]]
+- Later: 2026-03-27 · Devin · [[Changes/Devin/2026-03-27-focus-mode|Focus Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

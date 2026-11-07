@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b6964b5af968e3fc8ef2323463c161f6cb57d481e1db8bd061812fb79afcdf7e
+machine_hash: feaaead42f18f9e4165158a90476cae1f59d291fa6e95ad5423f926498824fcd
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,8 @@ record:
   title: '[VSCode] Improved the agent map'
   type: change
 related_changes:
-- '[[Changes/Notion/2026-09-15-on-the-go-use-the-notion-agents-ios-app|On the go?]]'
+- '[[Changes/Devin/2026-09-16-agent-mode-icons-in-the-sidebar|Agent Mode Icons in
+  the Sidebar]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent
   Mode changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-2-agent-mode-changes-in-v1-19-0|2 Agent Mode changes

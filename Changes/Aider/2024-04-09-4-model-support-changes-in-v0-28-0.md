@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f18ad1c565d5e83326cd747bf9046f687bf3aff46ab7328afb04546db74eff0c
+machine_hash: 6dd05406e5d3b4145785a2b8eccdf1af5afba48c7da9d40afe4ca7a829d6bedf
 product: aider
 product_name: Aider
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-03-31-3-model-support-changes-in-v0-1-116|3 Model Support
-  changes in v0.1.116]]'
+- '[[Changes/Superwhisper/2024-04-02-make-claude-3-haiku-available-to-superwhisper-pro-users|Make
+  Claude 3 Haiku available to Superwhisper Pro users]]'
 - '[[Changes/Ollama/2024-04-05-4-model-support-changes-in-v0-1-31|4 Model Support
   changes in v0.1.31]]'
 - '[[Changes/Dify/2024-04-08-feat-new-llm-add-support-for-openrouter-by-korayem-in-https-github-com-langgeniu|feat

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2eb96a3e6d63fa598dc4222761af08412e9ebb67ab7620fe74decdec4f5b20c4
+machine_hash: c867c4bb18e304cc41c9eafa225e914d47683646db0e91b767310fd21c816daf
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: Added `claude_code.assistant_response` OpenTelemetry log event containing…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5
-  Instant Update]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
-  Support changes in v1.0.65]]'
 - '[[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core
   Hid gpt-5.5-pro when using Codex OAuth]]'
+- '[[Changes/Raycast/2026-06-24-ai-chat-when-switching-models-an-info-card-now-pops-up-with-a-brief-description|AI
+  Chat : When switching models, an info card now pops up with a brief description…]]'
+- '[[Changes/Wispr Flow/2026-06-24-more-consistent-and-accurate-formatting-all-platforms|More
+  consistent and accurate formatting (All platforms)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core Hid gpt-5.5-pro when using Codex OAuth]]
+- Earlier: 2026-06-24 · Wispr Flow · [[Changes/Wispr Flow/2026-06-24-more-consistent-and-accurate-formatting-all-platforms|More consistent and accurate formatting (All platforms)]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model Support changes in rust-v0.142.2]]
 <!-- chronolog:end -->
 

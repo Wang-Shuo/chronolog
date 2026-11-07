@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff044e4af64861ce111abc23affa58b95333f2f219fb88c3f94513ddabd325ac
+machine_hash: 8956e3c4460127f0b6eb65970e7b8d7a90f383dc14c029bc5748adab8f6d0d09
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in 0.9.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
-  print the pip command when self updating on Windows, without running it]]'
+- '[[Changes/AnythingLLM/2024-09-11-mobile-render-fix-by-jeffscottward-in-https-github-com-mintplex-labs-anything-ll|Mobile
+  render fix]]'
 - '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
   Windows, /run correctly uses PowerShell or cmd.exe]]'
 - "[[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|\U0001F5D1️

@@ -4,20 +4,20 @@ date: '2025-03-04'
 description: 'Aider · 2025-03-04 · Accessibility and Localization: Added support for
   tree-sitter language pack.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 540
+  lag_days: 1566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2212d5fb1edf4941605d69bfbf94f5ad67a1cdd81b0f455139f273650d6f838a
+machine_hash: f63e078aca56af587f95ecd869019c26d139ce7223ed019d15b12e0af1bf1a9e
 product: aider
 product_name: Aider
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|🌍 Updated Translations]]
-- Later: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|🌍 Updated Translations]]
+- Later: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-more-localization-and-language-support|More localization and language support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

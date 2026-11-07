@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6417c5f970a22e9aaf2e6d43641c2866d6ae5b4b13f5cc43b1cb423f00628f81
+machine_hash: 3241d38342541b76cc7ff4cbeeed60d84f9c16c5153c388e7157bebcdaa04c6f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context Window changes in rust-v0.78.0]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window changes in v0.7.0]]
+- Later: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-copy-context-button|Copy Context Button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ff4a356bccc279a9f43ff3b0c40926a1c2cba36092eb02670f6f744ed97b9c2
+machine_hash: 06b82884b36e4371b8204cf7412895f6ccdb04086862f9a03b6677a9c07ff3fe
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased stability around MCP SSE connections]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations changes in 1.2.0]]
+- Later: 2025-04-08 · Devin · [[Changes/Devin/2025-04-08-to-start-assigning-tickets-go-to-devin-s-integrations-https-app-devin-ai-setting|To start assigning tickets, go to Devin's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

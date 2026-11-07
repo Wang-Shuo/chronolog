@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b22d5da866d6666aebaeb699b5f9701b045b3d1ddd98c5ba3818394a96746c31
+machine_hash: 460791b38bdad31f900c0bef9f933f133698291885023d0db1d5d29098100af5
 product: lovable
 product_name: Lovable
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2 Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]
-- Later: 2026-06-23 · Claude · [[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate work to Claude in Slack with Claude Tag]]
+- Later: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-ai-extensions-and-mcps-unlock-smarter-workflows-while-on-the-go-connect-and-call|AI Extensions and MCPs unlock smarter workflows while on the go]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

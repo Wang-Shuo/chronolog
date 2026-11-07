@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11e68e6395de537f472b8a17a8a57ec8ddfd2b9b59a4f1ce1e9a02d00c42bf02
+machine_hash: e9a5febd4ede02234ce9d085fc883de5989522c15c6eb3d880ed343da2ab4358
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-05-12 · ChatGPT · [[Changes/ChatGPT/2025-05-12-chatgpt-deep-research-with-sharepoint-and-onedrive-is-available-globally-to-team-c5147c|Microsoft SharePoint and OneDrive connector for deep research for Plus/Pro/Team]]
-- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search and Browsing changes in v0.6.11]]
+- Later: 2025-05-21 · Raycast · [[Changes/Raycast/2025-05-21-ai-the-ai-chat-quick-ai-web-search-setting-now-works-even-if-the-ask-web-command|AI: The AI Chat/Quick AI Web Search setting now works even if the Ask Web command…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

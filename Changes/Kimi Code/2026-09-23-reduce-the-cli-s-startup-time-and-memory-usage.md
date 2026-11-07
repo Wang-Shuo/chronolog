@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff6c28dabc58a2ae8986b54afc82cdcb14b30053a5c81355282dbb16e7823e91
+machine_hash: f9c0b1610926448a7df50446b13419b59a2341ee6ef29a0078c575cc8db24dde
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,11 +43,10 @@ record:
   title: Reduce the CLI's startup time and memory usage
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
-  Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
   skills and other customizations is now dramatically faster on large…]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Devin/2026-09-23-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-09-23-2-1-0-1c8bbd91|kimi-code-2026-09-23-2-1-0-1c8bbd91]]'
 source_type: kimi_code_changelog
 theme: reliability-performance
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-performance-improvements|Performance Improvements]]
 - Later: 2026-09-23 · Ollama · [[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2 Reliability and Performance changes in v0.34.4]]
 <!-- chronolog:end -->
 

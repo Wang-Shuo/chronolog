@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4c159119718b7ad39dabec8d7ffb463482f62a623e419183da84031ccef45d7d
+machine_hash: 4c8c3b581cc2b0ae8332c167616946818ace040010a9799d3c707ba62ef7b286
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,7 @@ record:
   title: New Team Marketplaces
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World
-  Cup updates]]'
+- '[[Changes/Devin/2026-06-19-improved-feedback-controls|Improved Feedback Controls]]'
 - '[[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4
   Collaboration changes in Annotations mode, in-form questions…]]'
 - '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve Markdown blockquotes in /share exports]]
+- Later: 2026-06-22 · Raycast · [[Changes/Raycast/2026-06-22-3-collaboration-changes-in-raycast-ios-1-3-0|3 Collaboration changes in Raycast ios 1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

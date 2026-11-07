@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b166154820745447ccfc9eb28a60df226256e3bf36ae94adef77a9db6caeac9c
+machine_hash: fc99729749cdbb980306e95229c5dd4b1e0a8e05fc2ba33f17f4191094c68fdf
 product: opencode
 product_name: OpenCode
 record:
@@ -62,8 +62,8 @@ record:
   title: 10 Interface Experience changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3
-  Interface Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-polished-the-mobile-model-picker-and-sidebar|Polished
+  the mobile model picker and sidebar]]'
 - '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
 - '[[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On
   Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]'

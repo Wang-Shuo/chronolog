@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c92569c1e0b891759209c25ff92310f2347669f2eabda3a61a32aad0ffcda70
+machine_hash: 1268f5a29c20fcfc8d3958584e61bcc9fe2f7fd4e3ac1a5366c3886b76fbf247
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,12 +53,12 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
-  Now Available on ChatGPT Free Tier]]'
-- '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
-  Enterprise and Administration changes in v0.3.0]]'
+- '[[Changes/Devin/2025-09-05-enterprise-dashboard-enhancements|Enterprise Dashboard
+  Enhancements]]'
 - '[[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Devin/2025-09-12-enterprise-settings-reorganization|Enterprise Settings
+  reorganization]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0|open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Earlier: 2025-09-12 · Devin · [[Changes/Devin/2025-09-12-enterprise-settings-reorganization|Enterprise Settings reorganization]]
 - Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-give-ai-the-context-it-needs-with-ai-connectors|Give AI the context it needs with AI connectors]]
 <!-- chronolog:end -->
 

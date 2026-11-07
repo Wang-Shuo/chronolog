@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2c5f6011aca80e0892b44e7d4e38bd20d61cac207b029f7998f4b87760ea037
+machine_hash: 25c566fa8542f41a267932ce0d3456a7090fc543ea86029caee43d86fde1af8b
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Editor Experience changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
-  Experience changes in v0.9.2]]'
-- '[[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal
-  Fixed editor lock detection to ignore locks from unrelated workspaces]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
-  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Raycast/2026-04-27-theme-studio-preview-create-and-edit-themes-to-make-raycast-your-own-using-our-n|Theme
+  Studio : Preview, create and edit themes to make Raycast your own using our…]]'
+- '[[Changes/Raycast/2026-04-27-2-editor-experience-changes-in-raycast-macos-0-55|2
+  Editor Experience changes in Raycast macos 0.55]]'
+- '[[Changes/Devin/2026-04-29-revamped-blueprint-authoring-experience|Revamped Blueprint
+  Authoring Experience]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: editor-experience
@@ -115,7 +115,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add copilot completion bash / zsh / fish subcommand to generate static shell…]]
+- Earlier: 2026-04-29 · Devin · [[Changes/Devin/2026-04-29-revamped-blueprint-authoring-experience|Revamped Blueprint Authoring Experience]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045 Fix plan mode nudge test after task completion signature change @canvrno-oai]]
 <!-- chronolog:end -->
 

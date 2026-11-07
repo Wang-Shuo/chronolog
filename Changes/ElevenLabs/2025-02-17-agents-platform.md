@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d92a4d5b9ae0c76f14169db56e9c3ce29a888a3f166aab4b493250d5b3bb4e39
+machine_hash: 1ce830ec27d745edcfe7dc879842bb43db9d17236a16467a1c60b801500bef21
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-agent-updates|Agent updates]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]]
+- Later: 2025-02-18 · AnythingLLM · [[Changes/AnythingLLM/2025-02-18-2-agent-mode-changes-in-v1-7-4|2 Agent Mode changes in v1.7.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff9a3c7e154a56c314cf08bac6ed628c3708af266789b1240a811ddc2709f6c5
+machine_hash: b5855f1b2253d5d41e15edf9672b6add7a459034d42743a6f5e56217a264e2d5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs: Document proxy settings]]
-- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-5-files-and-data-changes-in-1-11-0|5 Files and Data changes in 1.11.0]]
+- Later: 2025-12-09 · AnythingLLM · [[Changes/AnythingLLM/2025-12-09-feat-add-base64-document-attachment-support-to-api-chat-endpoints-by-naaa760-in|feat: add base64 document attachment support to API chat endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

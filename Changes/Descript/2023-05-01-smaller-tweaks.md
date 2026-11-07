@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bf6feb8b3b3afb4651cb99fbe7b0aa99120c99cce85b759c0a875323ca69a4ba
+machine_hash: 88c0be0e20d284982181200e34c3b312ca5ca8e07741c59a056c3133d5f91b0e
 product: descript
 product_name: Descript
 record:
@@ -70,10 +70,10 @@ record:
   title: Smaller tweaks
   type: change
 related_changes:
-- '[[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate
-  your workspace with Census, Rootly & Bardeen.ai]]'
-- '[[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse
-  through a page’s images from one place]]'
+- '[[Changes/Raycast/2022-09-28-root-search-search-index-is-partially-rebuilt-after-each-triggered-search-result|Root
+  Search : Search index is partially rebuilt after each triggered search result]]'
+- '[[Changes/Raycast/2023-02-01-flight-tracker-don-t-show-it-when-the-flight-number-matches-aliases-quicklinks-n|Flight
+  Tracker: Don’t show it when the flight number matches aliases, Quicklinks…]]'
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
   An experimental model that knows when and how to browse the internet]]'
 source_release: '[[Releases/Descript/descript-2023-05-01-645049ad41656608fecedbe4-93d218e2|descript-2023-05-01-645049ad41656608fecedbe4-93d218e2]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9562595b49045fec5fec47c2250ce4e656a220d0621f5547f69209f7173d75f
+machine_hash: d6b1f8cb546f1661ee0dec7e25eb7791b17bfd96779d6b861511d45732e02629
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,9 +54,10 @@ record:
   title: Improved auto mode classifier latency by reducing reasoning on routine actions…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
   performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Superwhisper/2026-05-29-improved-waveform-display-performance|Improved
+  waveform display performance]]'
 - '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
   Reliability and Performance changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'

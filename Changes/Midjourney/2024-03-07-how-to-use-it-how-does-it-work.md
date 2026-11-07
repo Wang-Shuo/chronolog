@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 03f22b12cdfe32c68bb4a3b445253172a6432e31931ed1bc64580dbfa430e48f
+machine_hash: 0c6ff55937f3b214a469204e7ce4515d2c1f4a9975132076fc56215d475d27cb
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,8 +49,8 @@ record:
   title: How to use it / how does it work
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-02-14-search-performance-faster-search-from-your-home-screen-or-using-cmd-k-from-anywh|Search
-  Performance]]'
+- '[[Changes/Raycast/2024-02-21-2-reliability-and-performance-changes-in-raycast-macos-v1-1-68-0|2
+  Reliability and Performance changes in Raycast macos-v1 1.68.0]]'
 - '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
   improvements (up to 2x) when running…]]'
 - '[[Changes/Runway/2024-02-26-motion-brush-now-automatically-detects-key-elements-of-an-input-image-making-it|Auto-detect
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-motion-brush-now-automatically-detects-key-elements-of-an-input-image-making-it|Auto-detect Motion Brush Areas]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
+- Later: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-quicklinks-favicon-resolving-should-be-more-robust-now|Quicklinks: Favicon resolving should be more robust now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

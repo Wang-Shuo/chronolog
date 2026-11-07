@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Google Antigravity · 2026-08-26 · Accessibility and Localization: Several
   overall UX improvements for performance, accessibility, and project configurations.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-    now supports a limited selection of languages in the interface]]'
+  first_in_tracked: '[[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved
+    searching for localized application and preference names]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1080
+  lag_days: 2106
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10ef7f13d3afc64fbacf95adc6b2e5a07e1d0469a5252236eb64a13d5970a9d8
+machine_hash: 886b8cfc7dcf53fbd83206d1940dd18c465bda03ae5ef44a9900bec758ab715c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -53,12 +53,11 @@ record:
     configurations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
-  screen reader mode]]'
 - '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
   Accessibility and Localization changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
   Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
+- '[[Changes/Devin/2026-08-26-accessibility-improvements|Accessibility Improvements]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81|google-antigravity-2026-08-26-rel-hub-2-11-0-9dbc2d81]]'
 source_type: antigravity_changelog
 theme: accessibility-localization
@@ -94,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿ Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]
+- Earlier: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-accessibility-improvements|Accessibility Improvements]]
 - Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|🏷️ High Contrast Mode is now Accessibility Mode. The interface setting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earliest same-theme entry in the tracked set: 2020-11-19 · Raycast · [[Changes/Raycast/2020-11-19-improved-searching-for-localized-application-and-preference-names|Improved searching for localized application and preference names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

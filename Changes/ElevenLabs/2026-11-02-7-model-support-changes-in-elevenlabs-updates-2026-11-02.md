@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 424bd9698ce45cfa8f34e26bece687345711bdb6a8148d08108f30912be48f7f
+machine_hash: 1b0c4f4e1a1e178fc5f891f1321e1e7d495572405ac6190973e939213bb74150
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -155,7 +155,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 ## Nearby in Model Support
 
 - Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
-- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]
+- Later: 2026-11-02 · Recraft · [[Changes/Recraft/2026-11-02-review-four-different-directions-each-generated-with-the-model-best-suited-to-it|Review four different directions, each generated with the model best suited to it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0127752ca8441df983bc305b53542edfacf33f893a67707b964f7ac269870363
+machine_hash: c0d67d1cfc22fb2e67a3fb57b871fb64eca5f448a0c7f354a9807fc82106864e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,7 +51,8 @@ record:
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/Krea/2026-10-27-krea-3-api-sizing-and-billing-updates|Krea 3 API sizing
+  and billing updates]]'
 - '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work
   IQ APIs: Usage-based billing Windows, Linux, Mac…]]'
 - '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core

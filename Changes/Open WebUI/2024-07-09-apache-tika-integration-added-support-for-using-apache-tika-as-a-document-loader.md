@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2fcfeb69c018efd51a2b8e118b0c8af6924294c26b1313b49b212ef1699f59bf
+machine_hash: 3d2fcd4d00b494a111b9fdd1865250a1926c5a77f4b5d6f297d13bcc0bb9a770
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "**\U0001F4C4 Apache Tika Integration**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
+- '[[Changes/Raycast/2024-07-03-clipboard-history-six-digit-hexadecimal-color-codes-copied-from-graphics-design|Clipboard
+  History: Six-digit hexadecimal color codes copied from Graphics & Design…]]'
 - '[[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev):
   bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]'
 - '[[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and Integrations changes in 0.6.13]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps and Integrations changes in 0.8.0]]
+- Later: 2024-07-11 · Superwhisper · [[Changes/Superwhisper/2024-07-11-super-mode-selection-clipboard-context-integration|Super mode selection & clipboard context integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

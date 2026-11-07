@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 43e58492fc422a130273cfcc14834e3ab047d5b13fb591fc26852338327b9420
+machine_hash: 402d5da495f77c8744f609a33e9b1b9dc40fc46f182d25e2adaa03234f8aae62
 product: descript
 product_name: Descript
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added /edit as an alias for the /editor command]]
-- Later: 2025-03-28 · Lovable · [[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase functions now get deployed when updated in code editor]]
+- Later: 2025-03-25 · Devin · [[Changes/Devin/2025-03-25-ask-devin|Ask Devin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

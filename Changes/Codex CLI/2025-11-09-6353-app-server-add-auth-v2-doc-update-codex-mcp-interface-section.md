@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 372cd8a335c01b11f19fea2270b2d6445524d9ae8011efed8c4a51b98f2523a1
+machine_hash: d1786e5b21d02268c19bdea1e66c67754f0adac399f74c1baf3827fc950a47da
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#6353 – App-server: add auth v2 doc & update Codex MCP interface section'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
-  Add modelReasoningEffort option to TypeScript SDK]]'
+- '[[Changes/Devin/2025-11-07-redshift-mcp-production-ready|Redshift MCP Production
+  Ready]]'
 - '[[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps
   and Integrations changes in v0.13.0]]'
 - '[[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support

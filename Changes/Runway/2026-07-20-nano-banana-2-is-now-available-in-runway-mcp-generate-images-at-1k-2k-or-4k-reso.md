@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fe102d0c60f5c5c0a7790a736e2faddd42ce54502d26bd3c9ab42653159aa8d5
+machine_hash: d1877e444b66074965229ba83a31c2e526c39043ac0c91fdfe4de0bae066e63a
 product: runway
 product_name: Runway
 record:
@@ -54,8 +54,8 @@ record:
   title: Nano Banana 2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing
-  Model changes in v2026.7.1]]'
+- '[[Changes/Recraft/2026-07-15-cost-22-credits-per-generation|Cost: 22 credits per
+  generation]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
   Model changes in v1.0.71]]'
 - '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes

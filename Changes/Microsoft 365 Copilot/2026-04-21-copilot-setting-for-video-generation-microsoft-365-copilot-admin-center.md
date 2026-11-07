@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: de181ddf664dff86423065d6cb6f091a36ae30571d9b40d4dacde3c6db7dac6b
+machine_hash: 915fd57f9d67ef9a064431e3ef3accd57f239c236d61471b48ba9b7043c21d54
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -46,10 +46,10 @@ record:
   title: Copilot setting for video generation (Microsoft 365 Copilot admin center)
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video
-  Agent now generates cinematic footage around your Digital Twin]]'
 - '[[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance
   2.0]]'
+- '[[Changes/Recraft/2026-04-14-we-ve-added-new-video-generation-models-seedance-2-0-seedance-2-0-fast-pixverse|Recraft
+  adds new video generation models]]'
 - '[[Changes/Descript/2026-04-16-the-hedra-character-2-avatar-video-generation-model-https-help-descript-com-hc-e|The
   Hedra Character 2 avatar video generation…]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-04-21-2026-04-21-ee8b8ec6|microsoft-365-copilot-2026-04-21-2026-04-21-ee8b8ec6]]'

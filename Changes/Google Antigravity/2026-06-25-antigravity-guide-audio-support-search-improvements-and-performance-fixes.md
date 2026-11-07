@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a2e3631a8363bdcc32267acefb1336f4edce90707f7c9323dc145865e821195a
+machine_hash: 672809e6adb9819a2d376be5d5f6e88f4fdfba2e0f7770ea01a6825b2afba793
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -56,7 +56,8 @@ record:
   title: Antigravity Guide, audio support, search improvements, and performance fixes
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-voice-and-audio-changes-in-v1-15-0|3 Voice and
+  Audio changes in v1.15.0]]'
 - '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
   inject session into audio TTS]]'
 - '[[Changes/Google Antigravity/2026-06-25-added-support-for-rendering-and-playing-audio-files-mp3-wav-ogg-m4a-within-the-s|Added

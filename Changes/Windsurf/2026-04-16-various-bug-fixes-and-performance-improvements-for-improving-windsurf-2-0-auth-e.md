@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f772ba561b9cbf1866128dd7edaba72c6c4c277b5f92186846f6aaff4a0b5161
+machine_hash: 5949278a65c79bde61d5d8a58754429e70c7ca1c10a4e3b6cdbee8d66428edfa
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
     auth experience
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
-  stability exec server @jif-oai]]'
+- '[[Changes/Devin/2026-04-15-this-release-also-includes-a-range-of-smaller-fixes-and-polish-including-a-prope|This
+  release also includes a range of smaller fixes and polish, including a proper…]]'
 - '[[Changes/Descript/2026-04-16-new-transitions|New Transitions]]'
 - '[[Changes/Descript/2026-04-16-we-ve-made-some-backend-improvements-that-should-result-in-better-performance-fo|We’ve
   made some backend improvements that should result in better performance…]]'

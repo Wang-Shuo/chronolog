@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f8e241a2b4650ea7a71c4a65f22deb7a90cea94ff809a0649f316537287f560
+machine_hash: 9c2030d9fbc287adbca00cfb6f8ebc3cec636db791afbac34586ae227003dff5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Search and Browsing changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-4-search-and-browsing-changes-in-v0-7-0|4 Search
-  and Browsing changes in v0.7.0]]'
 - '[[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2
   Search and Browsing changes in rust-v0.86.0]]'
 - '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
   WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
+- '[[Changes/Raycast/2026-01-20-new-run-command-a-modern-replacement-for-the-classic-windows-run-dialog-instead|New
+  Run command, a modern replacement for the classic Windows Run dialog]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'
 source_type: github_releases
 theme: search-browsing
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]]
+- Earlier: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-new-run-command-a-modern-replacement-for-the-classic-windows-run-dialog-instead|New Run command, a modern replacement for the classic Windows Run dialog]]
 - Later: 2026-01-28 · Gemini · [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet your new AI browsing assistant: Gemini in Chrome]]
 <!-- chronolog:end -->
 

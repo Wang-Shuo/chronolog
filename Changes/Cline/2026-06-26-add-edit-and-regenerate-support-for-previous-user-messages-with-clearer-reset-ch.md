@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1b36ebf555ff62db2c92a2d4d449dedd7bf914ea2527c80f7d2e23cbace46de8
+machine_hash: 28e0f9a0a9e0817e95fe548d4fe6f39fce0c4971aae50bb9bbbcdca518aae9cb
 product: cline
 product_name: Cline
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor Experience changes in v1.17.11]]
-- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-preserve-full-tool-output-logs-when-previews-are-truncated-and-link-background-t|Preserve full tool output logs when previews are truncated and link background task…]]
+- Later: 2026-06-26 · Devin · [[Changes/Devin/2026-06-26-post-build-section-for-blueprints|Post-Build Section for Blueprints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

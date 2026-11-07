@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d53d6c6484e936db0d150a75c10975514b8bcbd4957655505caa349683667285
+machine_hash: 3d4a31a4f08cbfb4a638d6a42bea91234c614d3667edf733bed6547246a03c4f
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Core Fixed OpenCode device login links when servers return relative verification…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16
-  Account and Access changes in rust-v0.148.0]]'
 - '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
   Account and Access changes in rust-v0.149.0]]'
 - '[[Changes/Kimi Code/2026-08-20-support-two-oauth-login-methods-kimi-ai-and-kimi-com|Support
   two OAuth login methods — kimi.ai and kimi.com]]'
+- '[[Changes/Wispr Flow/2026-08-21-a-sign-in-flow-that-actually-works-android|A Sign-In
+  Flow That Actually Works (Android)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-24-v1-18-22-241bae74|opencode-2026-08-24-v1-18-22-241bae74]]'
 source_type: opencode_changelog
 theme: account-access
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-support-two-oauth-login-methods-kimi-ai-and-kimi-com|Support two OAuth login methods — kimi.ai and kimi.com]]
+- Earlier: 2026-08-21 · Wispr Flow · [[Changes/Wispr Flow/2026-08-21-a-sign-in-flow-that-actually-works-android|A Sign-In Flow That Actually Works (Android)]]
 - Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT Work can now complete tasks on signed-in websites]]
 <!-- chronolog:end -->
 

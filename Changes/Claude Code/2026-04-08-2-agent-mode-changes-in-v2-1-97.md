@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f888304ba0db3be6b413983e8ff60e413b04f00dddaaa43d165b1cb141da9a0
+machine_hash: 5cbde3ef75cd379dceda616b6019f20cac92d5f6834a2aee19d4efab5dffe07d
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-07 · Google Antigravity · [[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode changes in v0.37.0]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-higher-quality-wiki-v2|Higher-Quality Wiki v2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

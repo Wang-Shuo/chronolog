@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 622b21da92acc284b5db7131d69076c3c98235f6f2a0a39f69d95719fe52dc47
+machine_hash: ddf711c0e4afe91716ef3798dd43aa60ac99be65b5a67cd8621bb8e08920911d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: "**\U0001F4DE Post-Call User Interface Cleanup**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus
-  after voice input]]'
+- '[[Changes/Superwhisper/2024-09-03-set-default-audio-engine-back-to-old-audio-engine-fc3fd6|Set
+  default audio engine back to old audio engine]]'
 - '[[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch
   /voice transcription exceptions, show the WAV file so the user can recover it]]'
 - '[[Changes/Gemini/2024-09-04-go-live-with-gemini|Go Live with Gemini]]'

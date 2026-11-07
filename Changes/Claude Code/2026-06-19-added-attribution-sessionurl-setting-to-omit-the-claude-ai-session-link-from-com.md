@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 356d593ccd3f1ed9534967532fb723866cc6ff6aba7a2f37e8a23d43f24aae66
+machine_hash: a95acd128ac238ae365f8784464e95e99da4bcfc093421ae49a725e8c9e80baa
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added `attribution.sessionUrl` setting to omit the claude.ai session link…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add
-  /reload suggestion in plugin-change hints]]'
-- '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
-  AI activity]]'
+- '[[Changes/Raycast/2026-06-18-mcp-you-can-now-install-mcp-servers-and-use-them-in-quick-ai-and-ai-chat|MCP
+  : You can now install MCP servers and use them in Quick AI and AI Chat]]'
+- '[[Changes/Raycast/2026-06-18-it-s-your-space-for-real-back-and-forth-conversations-with-ai-quick-ai-is-great|It''s
+  your space for real, back-and-forth conversations with AI]]'
 - '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
   MCP registry parsing more tolerant of old and inconsistent schemas]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-18 · Windsurf · [[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made MCP registry parsing more tolerant of old and inconsistent schemas]]
-- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-integrations|Integrations]]
+- Later: 2026-06-19 · Devin · [[Changes/Devin/2026-06-19-dedicated-mcp-management-page|Dedicated MCP Management Page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

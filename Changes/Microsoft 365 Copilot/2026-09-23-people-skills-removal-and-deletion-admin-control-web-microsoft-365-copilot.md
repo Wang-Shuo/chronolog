@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e7ac091051df05f1461869c0f684312a4dce10a44187379163a1f70f9286ea54
+machine_hash: 7c1af289fe4275e6e38f0f4f3bfa5d95d5b1ee24f5535805381a097b81b5f379
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -60,12 +60,12 @@ record:
   title: People Skills - removal and deletion admin control [Web] (Microsoft 365 Copilot)
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
-  design system for each group]]'
-- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
-  Enterprise and Administration changes in v0.11.4]]'
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Devin/2026-09-23-organization-admins-can-manage-autoreview|Organization
+  Admins Can Manage Autoreview]]'
+- '[[Changes/Devin/2026-09-23-self-hosted-git-servers-on-non-default-ports|Self-Hosted
+  Git Servers on Non-Default Ports]]'
+- '[[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions
+  Update]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-09-23-2026-09-23-6719e501|microsoft-365-copilot-2026-09-23-2026-09-23-6719e501]]'
 source_type: m365_copilot_changelog
 theme: enterprise-admin
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-23 · Devin · [[Changes/Devin/2026-09-23-github-app-permissions-update|GitHub App Permissions Update]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
 <!-- chronolog:end -->
 

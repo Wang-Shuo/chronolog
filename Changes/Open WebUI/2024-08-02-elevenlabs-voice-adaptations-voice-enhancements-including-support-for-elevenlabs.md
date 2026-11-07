@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b7a7fcccff727f8680413adc70c8f8a813234b43e9b0bfa6a2c72aa4b38b9d25
+machine_hash: 67464b3852820da4372d8211f386e71cd68b10169dccaba821703e8effb004a0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,12 @@ record:
   title: "**\U0001F5E3 ElevenLabs Voice Adaptations**"
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]'
-- '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
-  Streaming Config]]'
 - '[[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation
   w/ dubbing is now in Beta]]'
+- '[[Changes/AnythingLLM/2024-07-26-3-voice-and-audio-changes-in-v1-0-0|3 Voice and
+  Audio changes in v1.0.0]]'
+- '[[Changes/Superwhisper/2024-07-30-add-new-audio-engine-option-for-multi-channel-input-devices|Add
+  new audio engine option for multi-channel input devices]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases
 theme: voice
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation w/ dubbing is now in Beta]]
-- Later: 2024-08-09 · Runway · [[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech to Speech]]
+- Earlier: 2024-07-30 · Superwhisper · [[Changes/Superwhisper/2024-07-30-add-new-audio-engine-option-for-multi-channel-input-devices|Add new audio engine option for multi-channel input devices]]
+- Later: 2024-08-08 · AnythingLLM · [[Changes/AnythingLLM/2024-08-08-speech-to-text-hotkey-by-rrojaski-in-https-github-com-mintplex-labs-anything-llm|Speech to text hotkey]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

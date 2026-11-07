@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cda43a29ec6fcefb10e71b1d45bb9654da2feadbfeb9816326e4f2cb298d8fc6
+machine_hash: b2ce8308121a3fbca80b720d127d32bf04c5284c657b83d886b54f64ceb04533
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3 Apps and Integrations changes in v0.0.419]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3 Apps and Integrations changes in rust-v0.107.0]]
+- Later: 2026-03-02 · AnythingLLM · [[Changes/AnythingLLM/2026-03-02-lemonade-integration-by-timothycarambat-in-https-github-com-mintplex-labs-anythi|Lemonade integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

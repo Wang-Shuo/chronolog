@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 816c4b635ef05447b55ad3097108e6b031c07691ff031a9c391abf804760964b
+machine_hash: 56c211fa41a7f5034f2675a03b2c739d538ec1504f15ef64fd30e3247da333a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `ANTHROPIC_DEFAULT_MODEL` environment variable
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
-  add LLM pre-flight validation to prevent saving misconfigured profiles]]'
 - '[[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model
   Support changes in rust-v0.148.0]]'
+- '[[Changes/Krea/2026-08-18-report-open-source-model-usage-with-post-oss-usage|Report
+  open-source model usage with POST /oss/usage]]'
 - '[[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini
   3.7 Flash is now the default model for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini 3.7 Flash is now the default model for your app's AI features]]
-- Later: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches resolved model metadata between requests, cutting time-to-first-token…]]
+- Later: 2026-08-19 · Devin · [[Changes/Devin/2026-08-19-model-degradation-notifications|Model Degradation Notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

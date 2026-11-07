@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23991b6113ee04f5edd7940bf4682f08f429f943763093204c74936d2c83bb12
+machine_hash: 0bd5169d52582735d41d2a2215c68328d7be7047768a47115f26de08989e0308
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,8 +41,8 @@ record:
   title: Onboarding Fix
   type: change
 related_changes:
-- '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
-  pages have a banner showing who archived them and when, and they’re hidden…]]'
+- '[[Changes/Raycast/2026-03-27-translator-use-selected-text-as-source-setting-when-enabled-triggering-the-trans|Translator:
+  "Use Selected Text as Source" setting]]'
 - '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
   Experience changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2

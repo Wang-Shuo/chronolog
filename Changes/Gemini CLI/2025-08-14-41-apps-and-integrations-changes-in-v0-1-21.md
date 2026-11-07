@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a93e623e14a4a4005581510e20e22663ae5982dabade4356a5b1dd43ab817549
+machine_hash: f32f22bde452d74fd9fc9cac8465b3bb1b870c15e1b2c4061b56be042c42af11
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -266,7 +266,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-13 · Gemini CLI · [[Changes/Gemini CLI/2025-08-13-3-apps-and-integrations-changes-in-v0-1-20|3 Apps and Integrations changes in v0.1.20]]
-- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps and Integrations changes in v0.1.22]]
+- Later: 2025-08-15 · AnythingLLM · [[Changes/AnythingLLM/2025-08-15-modify-the-postgresql-sql-connector-to-support-querying-tables-from-schemas-othe|Modify the PostgreSQL SQL connector to support querying tables from schemas other…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

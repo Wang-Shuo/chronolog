@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0e61323aae142a4817717762af3475f5def806b0298b1abbdf567fdead5a2365
+machine_hash: 22eeaa53cb9dceef5be6f15f0ed8502e3ef13f1afee7d412a88cbda00ee5b739
 product: gemini
 product_name: Gemini
 record:
@@ -53,11 +53,12 @@ record:
   title: Bard is now Gemini
   type: change
 related_changes:
-- '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 - '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
   ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
 - '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
   images into the Command-K prompt bar!]]'
+- '[[Changes/Raycast/2024-02-07-application-hotkey-improved-the-behavior-for-minimized-applications|Application
+  Hotkey : improved the behavior for minimized applications]]'
 source_release: '[[Releases/Gemini/gemini-2024-02-08-2024-02-08-d9ed44d5|gemini-2024-02-08-2024-02-08-d9ed44d5]]'
 source_type: gemini_changelog
 theme: interface-experience
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
+- Earlier: 2024-02-07 · Raycast · [[Changes/Raycast/2024-02-07-application-hotkey-improved-the-behavior-for-minimized-applications|Application Hotkey : improved the behavior for minimized applications]]
 - Later: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother onboarding (fix Windows settings import, option to import folder/window state)]]
 <!-- chronolog:end -->
 

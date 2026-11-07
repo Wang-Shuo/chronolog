@@ -41,6 +41,7 @@ def test_load_sources_returns_enabled_products():
         "manus", "openclaw", "opencode",
         "descript", "heygen", "synthesia", "qoder", "kimi-code",
         "microsoft-365-copilot", "notion", "zai-api",
+        "krea", "recraft", "raycast", "devin", "lm-studio", "anythingllm", "superwhisper", "wispr-flow",
     }
     assert {product["feed_type"] for product in products} == {
         "chatgpt_changelog",
@@ -54,6 +55,8 @@ def test_load_sources_returns_enabled_products():
         "openclaw_changelog", "opencode_changelog",
         "canny_changelog", "heygen_changelog", "synthesia_changelog", "notion_changelog",
         "qoder_changelog", "kimi_code_changelog", "m365_copilot_changelog", "zai_changelog",
+        "krea_changelog", "raycast_changelog", "devin_changelog", "lmstudio_changelog",
+        "superwhisper_changelog", "wispr_flow_changelog",
     }
 
 

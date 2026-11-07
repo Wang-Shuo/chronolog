@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7394f16aaa7773ebed2a462a32e0cdfe9de1f5df8c54d20fc30cd952509fbcc7
+machine_hash: c3650f7ca728a66e5bbf34c631844d6b666001a9a1d672eca598f0070662e19c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Editor Experience changes in v0.0.333
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-4-editor-experience-changes-in-v0-7-0|4 Editor
-  Experience changes in v0.7.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-2-editor-experience-changes-in-v0-0-331|2
   Editor Experience changes in v0.0.331]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-run-npm-install-g-github-copilot-latest-to-update|Run
   npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Superwhisper/2025-10-01-mode-edit-fix|Mode edit fix]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-02-v0-0-333-github-251863837-dcfe8a00|github-copilot-cli-2025-10-02-v0-0-333-github-251863837-dcfe8a00]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.333
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-run-npm-install-g-github-copilot-latest-to-update|Run npm install -g @github/copilot@latest to update!]]
+- Earlier: 2025-10-01 · Superwhisper · [[Changes/Superwhisper/2025-10-01-mode-edit-fix|Mode edit fix]]
 - Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-2-editor-experience-changes-in-rust-v0-44-0|2 Editor Experience changes in rust-v0.44.0]]
 <!-- chronolog:end -->
 

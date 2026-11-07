@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d176a5cc616e8c0ec5c8dff8c7388572689ae276baeb5dc4c8d1c47cf30bc5e8
+machine_hash: 39218f58851e326bf9f24a8e01f34a2ac5cdf61655fbd3f2948d83be4a4c67ef
 product: notion
 product_name: Notion
 record:
@@ -50,11 +50,11 @@ record:
   title: Manage all connections from one tab
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-the-vs-code-editor-in-your-chats-autosaves-by-default-with-a-new-vercel-light-th|The
-  VS Code editor in your chats autosaves by default, with a new Vercel Light theme…]]'
 - '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
   PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
 - '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/Krea/2026-05-13-recipients-can-generate-using-your-moodboard-but-not-edit-it|Recipients
+  can generate using your moodboard, but not edit it]]'
 source_release: '[[Releases/Notion/notion-2026-05-13-https-www-notion-com-releases-2026-05-13-4c4a40f5|notion-2026-05-13-https-www-notion-com-releases-2026-05-13-4c4a40f5]]'
 source_type: notion_changelog
 theme: editor-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]
+- Earlier: 2026-05-13 · Krea · [[Changes/Krea/2026-05-13-recipients-can-generate-using-your-moodboard-but-not-edit-it|Recipients can generate using your moodboard, but not edit it]]
 - Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core Autocomplete configured @mentions in prompts]]
 <!-- chronolog:end -->
 

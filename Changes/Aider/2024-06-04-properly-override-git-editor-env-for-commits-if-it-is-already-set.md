@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f9eff3f8e3a3ff347504709db92dd5d3f2f997075429a18b9999d8a52f5538a
+machine_hash: 78ab8fd6a4cf456c3ee83816516818b03ef34e6a322d6225568e9ea2636edced
 product: aider
 product_name: Aider
 record:
@@ -40,10 +40,9 @@ record:
   title: Properly override `GIT_EDITOR` env for commits if it is already set
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
-  1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
   partial completions with Copilot++]]'
+- '[[Changes/Devin/2024-05-29-view-code-updates|View Code Updates]]'
 - '[[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️
   Edit Titles with Double Click]]'
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81af208967f50d9b4a4cedcfcc9e43903d36f0afc0123b99fc5ef4ef6b42b15d
+machine_hash: 986cbc260e22d0074530d39048e181d224c0ea5c355e6da0f4afe7f9357da801
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Editor Experience changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-29-core-send-image-edit-references-and-image-sizes-in-the-formats-expected-by-openr|Core
-  Send image-edit references and image sizes in the formats expected…]]'
-- '[[Changes/OpenCode/2026-10-29-2-editor-experience-changes-in-v2-2-2|2 Editor Experience
-  changes in v2.2.2]]'
 - '[[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and
   Annotations]]'
+- '[[Changes/Raycast/2026-10-29-ai-chat-edit-and-resend-earlier-messages-or-delete-a-message-and-the-conversatio|AI
+  Chat : Edit and resend earlier messages, or delete a message and the conversation…]]'
+- '[[Changes/Superwhisper/2026-10-29-mode-editor-top-bar-buttons-highlight-correctly-on-hover|Mode
+  editor top bar buttons highlight correctly on hover]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and Annotations]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core When edit can't find oldString , the error shows the file's closest lines…]]
+- Earlier: 2026-10-29 · Superwhisper · [[Changes/Superwhisper/2026-10-29-mode-editor-top-bar-buttons-highlight-correctly-on-hover|Mode editor top bar buttons highlight correctly on hover]]
+- Later: 2026-10-30 · Devin · [[Changes/Devin/2026-10-30-rendered-previews-for-markdown-and-patch-files-from-devin-s-machine|Rendered Previews for Markdown and Patch Files from Devin's Machine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

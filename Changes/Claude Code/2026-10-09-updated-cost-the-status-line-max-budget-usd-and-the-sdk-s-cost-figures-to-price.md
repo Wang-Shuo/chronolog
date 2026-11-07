@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d5d1c5f6032dff6045e61f3b1bc17c69f1bf873aca58eacf2590309f9aee1b6b
+machine_hash: 5272d041dc2908eeb59efc5709c13789bb187369ed336bb4b44279ce1f9f5716
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,8 +58,8 @@ record:
   title: Updated `/cost`, the status line, `--max-budget-usd` and the SDK's cost figures…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
-  credit usage limits and alerts for your workspace]]'
+- '[[Changes/Krea/2026-10-08-let-krea-know-which-workspace-reports-open-source-usage|Let
+  Krea know which workspace reports open-source usage]]'
 - '[[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]'
 - '[[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude
   Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]'

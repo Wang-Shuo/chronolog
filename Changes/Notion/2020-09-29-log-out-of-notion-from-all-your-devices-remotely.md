@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5df3f1da9eaa43093e0002a7c19abdcf678676d828394621d62799a11b374ce5
+machine_hash: b165057fbe9de0946706078c45e6afd80b01797def7519d8342b7a13c8cce46b
 product: notion
 product_name: Notion
 record:
@@ -47,12 +47,12 @@ record:
   title: "Log out of Notion from all your devices, remotely \U0001F4E1"
   type: change
 related_changes:
-- '[[Changes/Notion/2020-09-02-polished-some-rough-edges-on-the-full-template-gallery-button-at-the-bottom-righ|Polished
-  some rough edges on the ↗ Full template gallery button at the bottom right…]]'
-- '[[Changes/Descript/2020-09-08-now-you-can-name-or-rename-published-pages-directly-in-the-published-pages-menu|Rename
-  Published Pages]]'
 - '[[Changes/Descript/2020-09-08-we-ve-recently-updated-our-drive-switching-view-in-the-left-hand-sidebar-of-the|Re-designed
   Drive Switcher View]]'
+- '[[Changes/Raycast/2020-09-08-2-interface-experience-changes-in-raycast-macos-v1-0-26-3|2
+  Interface Experience changes in Raycast macos-v1 0.26.3]]'
+- '[[Changes/Raycast/2020-09-22-jira-added-support-for-new-date-picker-and-date-time-picker-fields-when-creating|Jira:
+  Added support for new date picker and date-time picker fields when creating issues]]'
 source_release: '[[Releases/Notion/notion-2020-09-29-https-www-notion-com-releases-2020-09-29-aa9896a3|notion-2020-09-29-https-www-notion-com-releases-2020-09-29-aa9896a3]]'
 source_type: notion_changelog
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2020-09-08 · Descript · [[Changes/Descript/2020-09-08-we-ve-recently-updated-our-drive-switching-view-in-the-left-hand-sidebar-of-the|Re-designed Drive Switcher View]]
-- Later: 2020-10-02 · Descript · [[Changes/Descript/2020-10-02-we-ve-added-a-new-clip-properties-menu-in-the-track-inspector-which-allows-you-t|Clip Properties Menu Accessible]]
+- Earlier: 2020-09-22 · Raycast · [[Changes/Raycast/2020-09-22-jira-added-support-for-new-date-picker-and-date-time-picker-fields-when-creating|Jira: Added support for new date picker and date-time picker fields when creating issues]]
+- Later: 2020-09-30 · Raycast · [[Changes/Raycast/2020-09-30-improved-date-picker-to-match-more-autocompletions-and-show-time-in-hint|Improved date picker to match more autocompletions and show time in hint]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

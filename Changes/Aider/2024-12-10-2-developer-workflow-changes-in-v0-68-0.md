@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 091c5e6e02278528e2b99c0603ac0accd6c7a336200fd355430bc973329e581c
+machine_hash: 4fca2b36c88a88db86fc4df7667c42ee62f8ff37825b549772983b79cf215724
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v0.68.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-03-2-developer-workflow-changes-in-0-13-0|2 Developer Workflow
-  changes in 0.13.0]]'
+- '[[Changes/Raycast/2024-12-04-browser-extension-when-clicking-on-the-raycast-icon-in-your-browser-the-ask-abou|Browser
+  Extension : When clicking on the Raycast icon in your browser…]]'
 - '[[Changes/Dify/2024-12-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop
   the service，Command, please execute in the docker directory]]'
 - '[[Changes/Dify/2024-12-09-stop-the-service-command-please-execute-in-the-docker-directory|Stop

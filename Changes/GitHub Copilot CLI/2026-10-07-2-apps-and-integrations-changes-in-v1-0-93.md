@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2fd9c5bbc739e463429d7bef393f30577962859a4228d0224bb084e4793a1beb
+machine_hash: f504e346264bfe8257f3458a05ec2eddd5d694176aa8a62c7c48a4472bcc1af2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.93
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3
-  Apps and Integrations changes in v2.1.293]]'
-- '[[Changes/Cline/2026-10-07-when-an-mcp-tool-returns-more-output-than-fits-in-context-cline-can-now-read-the|When
-  an MCP tool returns more output than fits in context, Cline can now read the rest]]'
 - '[[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5
   Apps and Integrations changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-issue-card-titles-link-to-the-issue|Issue Card Titles
+  Link to the Issue]]'
+- '[[Changes/Devin/2026-10-07-refreshed-plugin-rows-and-logos|Refreshed Plugin Rows
+  and Logos]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062|github-copilot-cli-2026-10-07-v1-0-93-github-405830978-790ea062]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.93
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5 Apps and Integrations changes in rust-v0.161.0]]
+- Earlier: 2026-10-07 · Devin · [[Changes/Devin/2026-10-07-refreshed-plugin-rows-and-logos|Refreshed Plugin Rows and Logos]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|Improved how prompt hooks on Stop and SubagentStop written as instructions…]]
 <!-- chronolog:end -->
 

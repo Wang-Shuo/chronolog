@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0da5ef0fe89cd5b256e20dd2fabf4a00d3198ebbaa54d3003e6743901701a667
+machine_hash: dbaac6fdee268062ef11f461c97e9317e802fd4721303b7362f74c6b706cadd3
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.90
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps and Integrations changes in v2.1.89]]
-- Later: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-elevenagents-2b20f8|ElevenAgents]]
+- Later: 2026-04-01 · Devin · [[Changes/Devin/2026-04-01-slack-thread-permissions|Slack Thread Permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

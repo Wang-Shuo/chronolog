@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaf761d5c03739a1a6e94f9892ab816a037b52baf51a02287e368a51a8f033eb
+machine_hash: 0c6ff8aea3136a411a332c176a2dcdc8e1f8c14bb014adbd5833442ed35575bf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,11 +49,10 @@ record:
   title: 2 Apps and Integrations changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2
-  Apps and Integrations changes in v0.0.370]]'
-- '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
-  and Integrations changes in v2.0.73]]'
+- '[[Changes/Devin/2025-12-19-jira-project-mapping-search|Jira Project Mapping Search]]'
 - '[[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]'
+- '[[Changes/Raycast/2025-12-20-6-apps-and-integrations-changes-in-raycast-windows-0-40|6
+  Apps and Integrations changes in Raycast windows 0.40]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -102,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-19 · Replit · [[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]
+- Earlier: 2025-12-20 · Raycast · [[Changes/Raycast/2025-12-20-6-apps-and-integrations-changes-in-raycast-windows-0-40|6 Apps and Integrations changes in Raycast windows 0.40]]
 - Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations changes in 2.3]]
 <!-- chronolog:end -->
 

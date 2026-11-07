@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2836ed69cc4474546f173adc1f189428813b08d6342c6736796c5de2204e38e
+machine_hash: 992dbb6e8c39ec66998241b369c4e3574858d4d15fd7138cd7c4cfc77f2fe3af
 product: open-webui
 product_name: Open WebUI
 record:
@@ -199,7 +199,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.4
 ## Nearby in Model Support
 
 - Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-model-access-keyerror-fix-the-api-models-endpoint-no-longer-crashes-with-a-500-e|🚫 Model access KeyError fix. The /api/models endpoint no longer crashes…]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]
+- Later: 2026-02-23 · Superwhisper · [[Changes/Superwhisper/2026-02-23-added-search-field-to-language-model-dropdown|Added search field to language model dropdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

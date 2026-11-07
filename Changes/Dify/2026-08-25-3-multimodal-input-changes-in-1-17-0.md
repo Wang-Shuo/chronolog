@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80177624776fdbe2b1f31b65f787d0151c30599ecfd54ab7a1d8c1e6390535ee
+machine_hash: e33897e4e7b74e82bdee8627776156192c2d1da0eafe59e25aa82d37b7f95933
 product: dify
 product_name: Dify
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Multimodal Input changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing
-  Nodes]]'
 - '[[Changes/HeyGen/2026-08-20-why-it-matters|Why it matters]]'
 - '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
   Release]]'
+- '[[Changes/Recraft/2026-08-21-create-for-starting-from-scratch-or-working-with-references-including-ai-editing|Create,
+  for starting from scratch or working with references, including AI…]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: multimodal
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-21 · DeepSeek API · [[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp Release]]
+- Earlier: 2026-08-21 · Recraft · [[Changes/Recraft/2026-08-21-create-for-starting-from-scratch-or-working-with-references-including-ai-editing|Create, for starting from scratch or working with references, including AI…]]
 - Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal Input changes in v0.11.1]]
 <!-- chronolog:end -->
 

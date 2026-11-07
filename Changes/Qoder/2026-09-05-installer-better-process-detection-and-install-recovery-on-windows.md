@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9c4a485e803934dc9e2e7618143569882c73603b56b50b0918cb42d48751cf8
+machine_hash: df759ce93ad4aa6563c926717e7035a22dba7f8c8bc786e713721e49572b6088
 product: qoder
 product_name: Qoder
 record:
@@ -43,10 +43,10 @@ record:
   title: '**Installer**: Better process detection and install recovery on Windows'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile
-  and Desktop changes in v2026.9.1]]'
-- '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
-  Increase the open-in app icon size for better visibility]]'
+- '[[Changes/Wispr Flow/2026-09-04-import-your-otter-transcripts-to-notetaker-desktop|Import
+  Your Otter Transcripts to Notetaker (Desktop)]]'
+- '[[Changes/Wispr Flow/2026-09-04-quality-of-life-improvements-desktop|Quality-of-Life
+  Improvements (Desktop)]]'
 - '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
   and Desktop changes in v2026.9.2]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-05-0-1-8-a74ae884|qoder-2026-09-05-0-1-8-a74ae884]]'

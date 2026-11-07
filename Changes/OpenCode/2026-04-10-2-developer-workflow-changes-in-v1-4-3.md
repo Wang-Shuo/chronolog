@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c55fe71c7f2c00e2d8fa1906e580cf5b5fd4a7508d04a04b49c752ec81a0fe4
+machine_hash: 883fb0863f273f7cdf539049b6de3683c31591ad25bf2c6e2cd0814b88039a39
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Developer Workflow changes in v1.4.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28
-  Developer Workflow changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-devin-cli-polish|Devin CLI Polish]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal
   state (alt screen, cursor, raw mode) is restored correctly after CLI…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
@@ -84,7 +83,7 @@ Source: https://opencode.ai/changelog/v1.4.3
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2 Developer Workflow changes in v1.0.23]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
+- Later: 2026-04-10 · Raycast · [[Changes/Raycast/2026-04-10-what-s-new-added-a-setting-to-the-changelog-command-to-disable-what-s-new-items|What’s New : Added a setting to the Changelog command to disable “What’s new?” items…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

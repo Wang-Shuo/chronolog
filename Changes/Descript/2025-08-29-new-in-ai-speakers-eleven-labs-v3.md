@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ecb41d5c739c554d85089d29cd6a6b9772c540795c297fcb128cf8ec2becafc3
+machine_hash: 131118108019c8d576a09a66c24047726d7dd7d6e9bbbd3483b30664919bc7ff
 product: descript
 product_name: Descript
 record:
@@ -50,10 +50,10 @@ record:
   title: New in AI Speakers—Eleven Labs V3
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
-  in v3.26.6]]'
-- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
-  changes in v0.6.26]]'
+- '[[Changes/Recraft/2025-08-28-we-ve-added-a-new-external-model-nano-banana-available-to-paid-subscribers-only|Recraft
+  adds a new external model — Nano Banana]]'
+- '[[Changes/Recraft/2025-08-28-how-to-edit-with-nano-banana|How to edit with Nano
+  Banana]]'
 - '[[Changes/Descript/2025-08-29-how-to-access-eleven-labs-v3|How to access Eleven
   Labs V3]]'
 source_release: '[[Releases/Descript/descript-2025-08-29-68b1e395b74af4d306806f9e-cb74db75|descript-2025-08-29-68b1e395b74af4d306806f9e-cb74db75]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support changes in v0.6.26]]
+- Earlier: 2025-08-28 · Recraft · [[Changes/Recraft/2025-08-28-how-to-edit-with-nano-banana|How to edit with Nano Banana]]
 - Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model Support changes in rust-v0.28.0]]
 <!-- chronolog:end -->
 

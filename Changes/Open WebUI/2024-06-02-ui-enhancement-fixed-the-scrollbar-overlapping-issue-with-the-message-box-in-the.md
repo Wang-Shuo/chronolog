@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f44bc3d9afdc21fde2ce9ea92a37bd980d132ae4a88905d573a36419339194b2
+machine_hash: f2acb9738200d0a4d5599e784d906f9173af05ad6a2d236029187a8cc97fd4f9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,9 +42,9 @@ record:
   title: "**\U0001F5A5️ UI Enhancement**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
-  Enhanced Sidebar UI]]"
 - '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
+- '[[Changes/Raycast/2024-05-22-typing-practice-source-now-fits-2-lines-on-the-scorecard-and-has-a-tooltip-when|Typing
+  Practice: Source now fits 2 lines on the scorecard and has a tooltip when hovering]]'
 - '[[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved
   Variable Assigner supports more flexible variable selection]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'

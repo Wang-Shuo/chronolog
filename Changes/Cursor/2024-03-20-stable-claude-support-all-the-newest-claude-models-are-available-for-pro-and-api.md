@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f37b0272fb940eff1eb78187abddc39f7f333f460e6db6ee49bc8eaf67e2ec6c
+machine_hash: e97b2ba38efa3e22af30f003ef9e31c3c408fee839f9930219c78565fcdb51f7
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,9 @@ record:
   title: Stable Claude Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
-  Support]]'
-- '[[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes
-  in 0.5.9]]'
+- '[[Changes/Superwhisper/2024-03-15-claude-3-haiku-added|Claude 3 Haiku added]]'
+- '[[Changes/Superwhisper/2024-03-15-make-language-model-connections-creation-more-obvious|Make
+  Language model connections creation more obvious]]'
 - '[[Changes/Dify/2024-03-19-16-model-support-changes-in-0-5-10|16 Model Support changes
   in 0.5.10]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'

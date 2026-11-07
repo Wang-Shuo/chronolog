@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77961dd1782898d49951660abe98d93c3082f79d38535634b8ffb5b646fb2558
+machine_hash: d312b5a96856b073e172d3395a1f575fc4ee2819291005bb11fc7d0ce4d88868
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.0.73
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2 Apps and Integrations changes in v0.0.370]]
-- Later: 2025-12-19 · Replit · [[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]
+- Later: 2025-12-19 · Devin · [[Changes/Devin/2025-12-19-jira-project-mapping-search|Jira Project Mapping Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

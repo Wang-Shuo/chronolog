@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bfca3d741bfdd4a27fbcd55f28e783d0c80620cf94f6bbec8b5d6c23387a881
+machine_hash: f3e8546c46aa4e699c51d51757f22a04191a6654ecb96de637c79883d8d79dde
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#49082 Skip remote Git discovery for Guardian diff paths @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
-  the external editor (Ctrl+G)]]'
 - '[[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor
   Experience changes in v2026.9.7]]'
+- '[[Changes/AnythingLLM/2026-10-01-autosave-workspace-settings-on-edit-by-shatfield4-in-https-github-com-mintplex-l|Autosave
+  workspace settings on edit]]'
 - '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
   Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
-- Later: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-editing|EDITING]]
+- Later: 2026-10-02 · Devin · [[Changes/Devin/2026-10-02-outposts|Outposts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

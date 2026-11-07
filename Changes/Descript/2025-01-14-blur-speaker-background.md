@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 47a680e7d0ed317f651e475739707241b3fa0f283a2f763f1884edaee10a37e9
+machine_hash: d964ca50a34a75a7451cdc22d13897f4d33113f25fc195d156fbe278c1058043
 product: descript
 product_name: Descript
 record:
@@ -51,10 +51,11 @@ record:
   title: Blur speaker background
   type: change
 related_changes:
-- '[[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]'
 - '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
   API ToC]]'
+- '[[Changes/Superwhisper/2025-01-13-onboarding-rebuild-super-mode-release|Onboarding
+  Rebuild & Super Mode Release]]'
 source_release: '[[Releases/Descript/descript-2025-01-14-6786a95d3b552b17d8b08c8a-b51af829|descript-2025-01-14-6786a95d3b552b17d8b08c8a-b51af829]]'
 source_type: canny_changelog
 theme: interface-experience
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge API ToC]]
-- Later: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨ General UI/UX Refinements]]
+- Earlier: 2025-01-13 · Superwhisper · [[Changes/Superwhisper/2025-01-13-onboarding-rebuild-super-mode-release|Onboarding Rebuild & Super Mode Release]]
+- Later: 2025-01-16 · Raycast · [[Changes/Raycast/2025-01-16-raycast-notes-added-action-menu-items-for-moving-list-items-up-down-and-for-open|Raycast Notes: Added action menu items for moving list items up/down and for opening…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

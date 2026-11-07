@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f69e0366ab81df7db0467e283f5e79266fa554ae4b406b7f3985e96e6fc966a4
+machine_hash: 3604f7e3388526a1dc6fdd78bda00fd83f3966bb214a4cff911280e912971de2
 product: lovable
 product_name: Lovable
 record:
@@ -67,9 +67,9 @@ record:
   title: Edit an SSO provider's connection settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
-  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
-- '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
+- '[[Changes/Devin/2026-09-11-safer-secret-defaults|Safer Secret Defaults]]'
+- '[[Changes/Devin/2026-09-11-effective-membership-in-member-lists|Effective Membership
+  in Member Lists]]'
 - '[[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock
   workspace membership to your identity provider]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-11-2026-09-11-fe1ab3d8|lovable-2026-09-11-2026-09-11-fe1ab3d8]]'
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
+- Earlier: 2026-09-11 · Devin · [[Changes/Devin/2026-09-11-effective-membership-in-member-lists|Effective Membership in Member Lists]]
 - Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages arriving while OpenClaw is paused now wait until it is ready again…]]
 <!-- chronolog:end -->
 

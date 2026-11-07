@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e4156a19af63d0efa659a84685c2994d849bc6dbbc606e40cb5b96468b0bd3f
+machine_hash: 9e7da2eb898993da6926428eda04e39f3896cda38cb9ee5e3452931b7321f061
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Model Support changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
-  changes in v1.1.26]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
 - '[[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First
   round of 2026 updates is in!]]'
+- '[[Changes/Raycast/2026-01-20-quick-ai-disabled-ai-model-selects-when-there-is-only-a-single-model-available|Quick
+  AI : Disabled AI model selects when there is only a single model available]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: model-support
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First round of 2026 updates is in!]]
+- Earlier: 2026-01-20 · Raycast · [[Changes/Raycast/2026-01-20-quick-ai-disabled-ai-model-selects-when-there-is-only-a-single-model-available|Quick AI : Disabled AI model selects when there is only a single model available]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support changes in v0.25.0]]
 <!-- chronolog:end -->
 

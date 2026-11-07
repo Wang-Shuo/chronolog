@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 794e18cdb3005f6986d6adde70736bb26152e60f6d3fdf224345da8861e03709
+machine_hash: 0b8d85a294f671d7d1781059b47392b1ff699c613a41c7244d60884a00816493
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,11 @@ record:
   title: 2 Model Support changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
-  to ChatGPT]]'
 - '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Raycast/2023-08-09-gpt-4-subscription-added-an-option-to-cancel-a-subscription-on-the-account-setti|GPT-4
+  subscription : added an option to cancel a subscription on the account settings
+  page]]'
 - '[[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support
   changes in v0.0.14]]'
 source_release: '[[Releases/Aider/aider-2023-08-11-v0-12-0-github-116058625-6861e6b4|aider-2023-08-11-v0-12-0-github-116058625-6861e6b4]]'

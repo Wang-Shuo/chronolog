@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8a6a58acba37909464b6cf19109515e125f1748791579f7cfd157ec5c13ba30f
+machine_hash: 63bbc23d6c583eadb9dda7a760895ec450efc31f55e827556f3972054d33927b
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -84,8 +84,7 @@ record:
   title: deepseek-chat
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes
-  in 1.1.1]]'
+- '[[Changes/Superwhisper/2025-03-20-speed-model-improvements|Speed & Model Improvements]]'
 - '[[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes
   in v0.78.0]]'
 - '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes

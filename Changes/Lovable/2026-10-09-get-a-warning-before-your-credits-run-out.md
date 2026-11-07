@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f02bac019cf980ae7023a1381a0126f00b91cc1814cd0b222e59388ff905cf18
+machine_hash: 9031c404c7d59873ce8e27812bbfea4dc632958124ecaf395447cef7001fd130
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
-- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model changes in v2026.10.1]]
+- Later: 2026-10-09 · Raycast · [[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste|AI : Made AI requests smaller, so local models reply to a simple message much faster…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

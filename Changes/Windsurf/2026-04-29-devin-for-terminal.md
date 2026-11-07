@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0e15f6841b154a80e3aa804ba3a693919b2e83e1ce4b93cc8186fb12c770a980
+machine_hash: ea85930f130f4da4f28e6d2a39c4f4cde72f0f1e2c6909529e969ea51d168f52
 product: windsurf
 product_name: Windsurf
 record:
@@ -57,8 +57,7 @@ record:
   title: Devin for Terminal
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
-  first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Devin/2026-04-29-pr-auto-close-removed|PR Auto-Close Removed]]'
 - '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
   changes in 1.14.0]]'
 - '[[Changes/OpenCode/2026-04-29-2-developer-workflow-changes-in-v1-14-30|2 Developer

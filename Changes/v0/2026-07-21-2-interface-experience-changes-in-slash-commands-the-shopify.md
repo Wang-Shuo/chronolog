@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7546fdc9b9be4624dfb4b258e16a109874389038f00ceea6cd99d0bd66db9a85
+machine_hash: 932b7a1c8548b034edb45f18de1b1e47a091cbcfd035052876169ac43de3ec38
 product: v0
 product_name: v0
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Interface Experience changes in Slash commands, the Shopify…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop
-  Preserve command drafts in the command menu]]'
+- '[[Changes/Superwhisper/2026-07-20-2-interface-experience-changes-in-superwhisper-macos-2-16-5|2
+  Interface Experience changes in Superwhisper macOS 2.16.5]]'
 - '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
   Interface Experience changes in rust-v0.145.0]]'
 - '[[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c82737e25bdbc8d74f4f00537a3b74376a6812bb7f80c96bfa29ecc3c287f819
+machine_hash: fd2c2f9f190707614b5c7b460b82cae36a7e18ea63ac472d64c1ae90984ca12d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
     through…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode
-  changes in v2.1.286]]'
+- '[[Changes/Devin/2026-09-30-devin-as-a-native-jira-agent|Devin as a Native Jira
+  Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval
   now takes into account messages you type while the agent is working…]]'
 - '[[Changes/Google Antigravity/2026-09-30-message-subagents-directly-export-markdown-as-pdf-and-conversation-only-undo|Message

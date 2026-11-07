@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4650bca466f57e9141cfd081a5011a1f1d312deb65760addcf35b778f6d36b49
+machine_hash: 949d8f4afba3acfe2161c9633ad64b28030dafb35171341ce566479afcbc94b5
 product: ollama
 product_name: Ollama
 record:
@@ -41,9 +41,10 @@ record:
   title: '**Batches**: generate embeddings for several documents in one request'
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF
-  to convert existing documents]]'
-- '[[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]'
+- '[[Changes/AnythingLLM/2024-07-26-23-files-and-data-changes-in-v1-0-0|23 Files and
+  Data changes in v1.0.0]]'
+- '[[Changes/AnythingLLM/2024-08-01-add-drag-and-drop-to-chat-window-for-auto-upload-embed-of-documents-by-timothyca|Add
+  drag-and-drop to chat window for auto upload & embed of documents]]'
 - '[[Changes/Open WebUI/2024-08-02-2-files-and-data-changes-in-v0-3-11|2 Files and
   Data changes in v0.3.11]]'
 source_release: '[[Releases/Ollama/ollama-2024-08-06-v0-3-4-github-168823160-b230b3cc|ollama-2024-08-06-v0-3-4-github-168823160-b230b3cc]]'

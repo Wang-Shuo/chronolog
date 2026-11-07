@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10ba513efd57e168e7ae76651fbfe4a332be14673d82a917f134746336087cdd
+machine_hash: d45c739f3ff28c6960ef449dc2ea8026cec882e9812f7efa4ded07dac03e6d41
 product: dify
 product_name: Dify
 record:
@@ -73,10 +73,9 @@ record:
   title: 6 Account and Access changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account
-  and Access changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
   Account and Access changes in rust-v0.154.0]]'
+- '[[Changes/LM Studio/2026-09-09-improved-sign-in-reliability|Improved sign-in reliability]]'
 - '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
   and Access changes in v2.1.268]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

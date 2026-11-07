@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1601ffd513d260b8b70dbf0055f1e7df3c713e4def452085df5c3e9755484ada
+machine_hash: aa9cbf9f09138a5d2d2c3342b88138502eca1f9d83bd98dad9e4d9724a251fa7
 product: notion
 product_name: Notion
 record:
@@ -42,10 +42,10 @@ record:
   title: They can work on tasks for up to 24 hours
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
-- '[[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node
-  worker memory limits]]'
+- '[[Changes/Raycast/2026-10-16-3-reliability-and-performance-changes-in-raycast-macos-2-8|3
+  Reliability and Performance changes in Raycast macos 2.8]]'
+- '[[Changes/Raycast/2026-10-16-4-reliability-and-performance-changes-in-raycast-windows-2-8|4
+  Reliability and Performance changes in Raycast windows 2.8]]'
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
 source_release: '[[Releases/Notion/notion-2026-10-19-https-www-notion-com-releases-2026-10-19-b6a62bdc|notion-2026-10-19-https-www-notion-com-releases-2026-10-19-b6a62bdc]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
+- Later: 2026-10-19 · Superwhisper · [[Changes/Superwhisper/2026-10-19-keyboard-performance-improvements|Keyboard performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

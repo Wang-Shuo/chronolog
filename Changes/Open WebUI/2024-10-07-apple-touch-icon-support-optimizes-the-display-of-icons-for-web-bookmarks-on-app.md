@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 075f7af5a7dfb3cda64323c7b7b83d9593ab797f7649dccf39f69d3a3ac35d89
+machine_hash: 7eb37be3ab091bc6d5b8c3450c5e6344e1bfe0616f2f946875c801e3c33ad760
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop changes in 0.9.0]]
-- Later: 2024-10-16 · Suno · [[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]
+- Later: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-eject-all-disks-now-ignores-ios-18-simulator-disk-images|Eject All Disks : Now ignores iOS 18 simulator disk images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

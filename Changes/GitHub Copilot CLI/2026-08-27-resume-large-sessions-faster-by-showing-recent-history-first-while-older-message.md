@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e5b53918926ff688d7b6e2475d118d18346099794bf5192ed0613e9d724be77
+machine_hash: e201ba4910ef49fabbeb05ee75dce4bd03a5fe4a20f904f34e6174b3d8a74998
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
     messages load
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
-  Bash tool latency on bash shells by replaying snapshot functions without…]]'
-- '[[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]'
-- '[[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10
-  Reliability and Performance changes in v0.11.1]]'
+- '[[Changes/Raycast/2026-08-25-2-reliability-and-performance-changes-in-raycast-macos-2-0|2
+  Reliability and Performance changes in Raycast macos 2.0]]'
+- '[[Changes/Recraft/2026-08-25-create-at-the-speed-of-thought|Create at the speed
+  of thought!]]'
+- '[[Changes/AnythingLLM/2026-08-27-this-replaces-our-previous-snapdragon-npu-engine-any-previous-models-from-the-ol|
+  This replaces our previous Snapdragon NPU engine]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10 Reliability and Performance changes in v0.11.1]]
+- Earlier: 2026-08-27 · AnythingLLM · [[Changes/AnythingLLM/2026-08-27-this-replaces-our-previous-snapdragon-npu-engine-any-previous-models-from-the-ol| This replaces our previous Snapdragon NPU engine]]
 - Later: 2026-08-27 · Lovable · [[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55712c1dfd66a96e9a39d33ed55f67ffda2ae90ce87f151ceb761282c413d795
+machine_hash: 3dd6b4a467896ec7ab283ccc57694275d783894486dce7e0679510616805e47a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,9 +77,10 @@ record:
   title: 18 Safety and Privacy changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
-  and Privacy changes in v2.1.236]]'
-- '[[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]'
+- '[[Changes/Raycast/2026-08-19-2-safety-and-privacy-changes-in-raycast-macos-0-71|2
+  Safety and Privacy changes in Raycast macos 0.71]]'
+- '[[Changes/Raycast/2026-08-19-ai-fixed-answering-a-tool-permission-prompt-doing-nothing-after-quitting-and-reo|AI
+  : Fixed answering a tool permission prompt doing nothing after quitting…]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

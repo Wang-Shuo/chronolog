@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb441b739d039b77e24bb1cb46693e2d34acdb9c1eeef2c1205dbba7dc13e2c8
+machine_hash: e484c217d3dedf35c3296b88d4223611cc75830543f08ddd490be5006f18d052
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Voice and Audio changes in ElevenLabs updates — 2025-03-10
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-03-speech-to-text|Speech to Text]]'
 - '[[Changes/Synthesia/2025-03-03-meet-dynamic-captions-new-feature-available-for-all-plans-each-word-highlights-a|Add
   Dynamic Captions to your videos]]'
+- '[[Changes/AnythingLLM/2025-03-04-speech-to-text-typo-correction-by-yashschandra-in-https-github-com-mintplex-labs|speech
+  to text typo correction]]'
 - '[[Changes/ElevenLabs/2025-03-10-voices|Voices]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-03-10-2025-03-10-fbc82651|elevenlabs-2025-03-10-2025-03-10-fbc82651]]'
 source_type: elevenlabs_changelog
@@ -85,7 +86,7 @@ Source: https://elevenlabs.io/docs/changelog/2025/3/10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-03-03 · Synthesia · [[Changes/Synthesia/2025-03-03-meet-dynamic-captions-new-feature-available-for-all-plans-each-word-highlights-a|Add Dynamic Captions to your videos]]
+- Earlier: 2025-03-04 · AnythingLLM · [[Changes/AnythingLLM/2025-03-04-speech-to-text-typo-correction-by-yashschandra-in-https-github-com-mintplex-labs|speech to text typo correction]]
 - Later: 2025-03-17 · ElevenLabs · [[Changes/ElevenLabs/2025-03-17-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55abe7e542a8fd06c797309d65978e86b0cc98f89f4b8c2fb1781cb08a2b47a3
+machine_hash: 2967b0f6b5b5a648e9a81dea8f924acb8b86f678e0e4b2daaac6763b21f4abaf
 product: replit
 product_name: Replit
 record:

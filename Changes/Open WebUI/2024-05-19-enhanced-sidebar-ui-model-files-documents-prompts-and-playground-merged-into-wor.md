@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bd44adcab6c4795808fb9afade0a6d501819fbe927077302d15196eb014f3a7
+machine_hash: 5e21bfbf8b03fe8a7ac29c9e9e3d10ea21a7bdf43970cb5680a63257354a42ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,9 @@ record:
   title: "**\U0001F4C2 Enhanced Sidebar UI**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-09-improve-menu-collapse-readability-by-junice-in-https-github-com-langgenius-dify|improve:
-  menu collapse readability]]'
-- '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
-  --restore-chat-history to restore prior chat history on launch, so you can…]]'
+- '[[Changes/Devin/2024-05-13-organizations-unlist-sessions|Organizations Unlist Sessions]]'
+- '[[Changes/Superwhisper/2024-05-13-major-improvements-to-messages-prompt-template-in-create-mode-menu|Major
+  improvements to messages prompt template in create mode menu]]'
 - '[[Changes/Ollama/2024-05-15-to-clear-the-chat-history-for-a-session-when-running-ollama-run-use-clear|To
   clear the chat history for a session when running ollama run, use /clear]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-05-19-v0-1-125-github-156427993-5af04c15|open-webui-2024-05-19-v0-1-125-github-156427993-5af04c15]]'

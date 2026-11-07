@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d98acf714b66c38333e342146ce3d41e169dd7fe2d4f3f6e3722179f97edccac
+machine_hash: 1a4c632a4813926e9b77db4921be673b1f6ee9f4f01a61f3da5935eec325f972
 product: notion
 product_name: Notion
 record:
@@ -49,9 +49,10 @@ record:
   title: Notion AI (in private alpha)
   type: change
 related_changes:
-- '[[Changes/Notion/2022-09-13-editor-bug-bash|Editor bug bash]]'
 - '[[Changes/Notion/2022-10-12-choosing-dark-light-mode-from-one-tab-will-instantly-take-effect-on-all-other-op|Choosing
   Dark/Light mode from one tab will instantly take effect on all other open tabs]]'
+- '[[Changes/Raycast/2022-10-12-tag-editor-now-adjusts-height-correctly-when-loading-initial-content|Tag
+  Editor : Now adjusts height correctly when loading initial content]]'
 - '[[Changes/Descript/2022-11-15-multitrack-screen-recording-https-help-descript-com-hc-en-us-articles-1016588157|Multitrack
   screen…]]'
 source_release: '[[Releases/Notion/notion-2022-11-17-https-www-notion-com-releases-2022-11-17-23edb7c3|notion-2022-11-17-https-www-notion-com-releases-2022-11-17-23edb7c3]]'
@@ -89,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2022-11-15 · Descript · [[Changes/Descript/2022-11-15-multitrack-screen-recording-https-help-descript-com-hc-en-us-articles-1016588157|Multitrack screen…]]
-- Later: 2022-12-14 · Synthesia · [[Changes/Synthesia/2022-12-14-the-rich-text-editor-is-now-available-for-all-accounts-simplifies-adding-pauses|Rich Text Editor]]
+- Later: 2022-11-23 · Raycast · [[Changes/Raycast/2022-11-23-export-settings-data-you-can-now-edit-and-view-the-export-password-in-the-comman|Export Settings & Data]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a5393e5a8c708336259b704e70c95c760957608ad9d8031cdbcc17a62d56fd8e
+machine_hash: 3de3fd5c89df1274637f99da155f06caa2e8918158fbfff354888ca167541bcc
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,7 +47,8 @@ record:
   title: Copilot Chat model selector now offers GPT-5.2 [Android, Windows, iOS, Mac…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Superwhisper/2026-01-26-api-models-fixed-groq-byok-and-custom-model-endpoint-issues|API
+  & Models: Fixed Groq BYOK and custom model endpoint issues]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model

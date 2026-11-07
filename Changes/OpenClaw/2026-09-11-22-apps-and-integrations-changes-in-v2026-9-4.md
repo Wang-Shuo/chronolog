@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd0475410fc35297f0ac9d9d3726ecaeb3a6a38354bffd8597c9e709f9caced6
+machine_hash: 31dcd7a1ef88d8c6d4fe318d8b7a3fcfd1bd3bf058f089e627c8c7069862ebb3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -156,8 +156,8 @@ record:
   title: 22 Apps and Integrations changes in v2026.9.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Devin/2026-09-11-datadog-mcp-on-the-stable-endpoint|Datadog MCP on the
+  Stable Endpoint]]'
 - '[[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get
   a warning when another Lovable project already uses your Supabase project]]'
 - '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
@@ -261,7 +261,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect other MCP clients to the Lovable MCP server]]
-- Later: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed PostgreSQL in Databricks Apps]]
+- Later: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-window-management-custom-layouts-have-a-new-other-windows-option-minimize-others|Window Management : Custom layouts have a new Other Windows option: Minimize Others…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

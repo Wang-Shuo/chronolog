@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dbc77cc7596e92c2c42de7786061b41da911d29ad8f531ff783cb15dfcd659b
+machine_hash: dc55fbd647f3238e610cb7a6998d4ddc7e4cb510beb0a16eb01926ea8a61c011
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved `/mobile` to show a single QR code for claude.ai/mobile, which opens…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-reach-the-official-app-store-listing-straight-from-the-iphone-setup|Reach
-  the official App Store listing straight from the iPhone setup guide]]'
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable
-  desktop access for Azure cloud workers , whether OpenClaw manages them…]]'
+- '[[Changes/Raycast/2026-09-11-window-management-added-minimize-on-this-display-a-per-monitor-show-desktop-that|Window
+  Management : Added Minimize on This Display , a per-monitor Show Desktop…]]'
+- '[[Changes/Raycast/2026-09-11-ui-ensured-macos-text-replacements-work-across-all-editing-surfaces|UI
+  : Ensured macOS text replacements work across all editing surfaces]]'
 - '[[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File
   openin: Choose whether to open each file type in the desktop app…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

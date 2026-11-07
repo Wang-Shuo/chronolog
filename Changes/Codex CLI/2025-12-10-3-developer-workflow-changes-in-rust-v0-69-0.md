@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2083ec638a27ba7df7a9119d29cb58bad8f043e513756036b15279512c385ffb
+machine_hash: bab8f595a736dc60ebb34f9be62f8a55faf1c434d85c3eb40063d9a513fd7eda
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Developer Workflow changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore:
-  make create_approval_requirement_for_command an async fn ♯7501 @Michael Bolin]]'
+- '[[Changes/AnythingLLM/2025-12-09-disable-prisma-cli-telemetry-in-entrypoint-shell-script-by-angelplusultra-in-htt|Disable
+  Prisma CLI Telemetry in Entrypoint Shell Script]]'
 - '[[Changes/Codex CLI/2025-12-09-2-developer-workflow-changes-in-rust-v0-66-0|2 Developer
   Workflow changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-feat-core-add-configurable-inactivity-timeout-for-shell-commands-by-galz10-in-ht|feat(core):

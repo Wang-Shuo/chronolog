@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 1ebec712614c3f1e3d534dec9daf96eb233345863d5dc0904f377dec609e3441
+machine_hash: 0abd76f6836c1670680af7710bbab9679814ce60d61f79fee8dfa60743167d31
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,8 @@ record:
   title: Enterprise data warehouse connectors
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
+- '[[Changes/Devin/2025-11-21-mcp-usage-tracking-for-enterprises|MCP Usage Tracking
+  for Enterprises]]'
 - '[[Changes/ElevenLabs/2025-11-21-packages|Packages]]'
 - '[[Changes/ElevenLabs/2025-11-21-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|replit-2025-11-21-2025-11-21-d3d6b6ca]]'

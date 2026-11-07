@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6db0be07e1a717faab86412dad9747e27ca5eadec037b194321188f090c1f99c
+machine_hash: 5b1563f4c1c6189dd5209bc47bc287f978f1fa8e24a2ce215749823a5474c377
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,9 @@ record:
     when the user has…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13
-  Memory and Personalization changes in v2026.10.1]]'
-- '[[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4
-  Memory and Personalization changes in v2026.10.2]]'
+- '[[Changes/Raycast/2026-10-12-cloud-sync-v2|Cloud Sync v2]]'
+- '[[Changes/Raycast/2026-10-12-2-memory-and-personalization-changes-in-raycast-ios-1-4-0|2
+  Memory and Personalization changes in Raycast ios 1.4.0]]'
 - '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
   Memory and Personalization changes in v2026.10.3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'

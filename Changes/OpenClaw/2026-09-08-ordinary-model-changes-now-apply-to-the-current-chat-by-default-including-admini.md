@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cb2c9ed3ae1ff080f7fafc82a413f9b53e93cc0ac49214df9a9e01f1126d7169
+machine_hash: 4a84e6253b0f2da7205b3e28843f764e297a4be9b5c3c5ea66e6083df53e679b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -60,9 +60,10 @@ record:
   title: Ordinary model changes now apply to the current chat by default, including…
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]'
 - '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
   your preview links]]'
+- '[[Changes/Wispr Flow/2026-09-04-for-teams-enterprise-desktop|For Teams & Enterprise
+  (Desktop)]]'
 - '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
   Enterprise and Administration changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
@@ -114,7 +115,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4 Enterprise and Administration changes in v2026.9.2]]
-- Later: 2026-09-09 · Notion · [[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control which AI models your agents can use]]
+- Later: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-run-added-run-in-shell-and-run-in-shell-as-administrator-actions-plus-a-shell-pr|Run : Added Run in Shell and Run in Shell as Administrator actions, plus a Shell…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

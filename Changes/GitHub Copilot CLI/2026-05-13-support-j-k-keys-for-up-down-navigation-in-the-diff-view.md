@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3ab4bee91a6517474989e4fd01f4cac3efc64299003d4a05d8d1115d0a27ccf7
+machine_hash: af0c34b2af6750a34dcfd2576ffa99a7cec8bea6ebc0041548dd01ef5bb9b07f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,9 @@ record:
   title: Support j/k keys for up/down navigation in the /diff view
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show
-  a clear "Searching..." state in the @-mention file picker]]'
-- '[[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience
-  changes in 3.4]]'
 - '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
+- '[[Changes/Devin/2026-05-13-snapshot-build-delete|Snapshot Build Delete]]'
+- '[[Changes/Devin/2026-05-13-sub-devin-sidebar-improvements|Sub-Devin Sidebar Improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3|github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]
-- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-chat-history|Chat history]]
+- Earlier: 2026-05-13 · Devin · [[Changes/Devin/2026-05-13-sub-devin-sidebar-improvements|Sub-Devin Sidebar Improvements]]
+- Later: 2026-05-13 · Raycast · [[Changes/Raycast/2026-05-13-2-interface-experience-changes-in-raycast-macos-0-59|2 Interface Experience changes in Raycast macos 0.59]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

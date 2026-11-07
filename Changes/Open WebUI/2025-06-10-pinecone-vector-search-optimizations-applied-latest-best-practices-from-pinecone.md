@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 172134df7413e72cda6bd5abeab1247df9757b19b22bfe543d7d7e147d1cfb40
+machine_hash: f9139d2aba68b43718e613752011a8c8c2fadbe2e7114d1cbbdb064963221b3c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,9 +48,9 @@ record:
   title: "\U0001F680 **Pinecone & Vector Search Optimizations**"
   type: change
 related_changes:
-- '[[Changes/Synthesia/2025-06-04-today-we-re-excited-to-roll-out-three-enterprise-grade-upgrades-that-help-you-wo|Enterprise
-  Update: Avatar Sharing, Bulk Actions & JIT Provisioning]]'
 - '[[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]'
+- '[[Changes/Superwhisper/2025-06-05-custom-providers-performance-tracking|Custom
+  Providers & Performance Tracking]]'
 - '[[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
   macOS app is now a native application and starts much faster while requiring…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'

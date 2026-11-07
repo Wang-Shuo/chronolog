@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0c83c5665f854d00c36bb611b35d8aad66d179561f897d3c1bd9df87d466ac9
+machine_hash: 5e37d637d6e19e827ae86421288c684a9a58bb2e2fbcde36e7297a637864e513
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 'docs: update MCP server OAuth redirect port documentation'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
-  Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/Devin/2026-04-10-this-release-also-includes-a-range-of-smaller-fixes-and-polish-across-the-webapp|This
+  release also includes a range of smaller fixes and polish across the webapp…]]'
 - '[[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions
   Added configurable OAuth redirect URIs for remote MCP servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout

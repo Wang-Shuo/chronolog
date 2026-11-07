@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8596dba43a45098f872cd20d96eff7494bd3f44ee8901b6b5362713252a525fb
+machine_hash: d33568c0d786a532db7dbfac146ec110197eec53a78daa969d2bf40750bc48f9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer
-  Workflow changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
   Workflow changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
   Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/Devin/2026-09-09-archiving-closes-child-sessions-prs|Archiving Closes
+  Child Sessions'' PRs]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7|google-antigravity-2026-09-09-rel-hub-2-13-0-0c6af7b7]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Devin · [[Changes/Devin/2026-09-09-archiving-closes-child-sessions-prs|Archiving Closes Child Sessions' PRs]]
 - Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer Workflow changes in v1.17.0]]
 <!-- chronolog:end -->
 

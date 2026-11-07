@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2936b746d6bda35c4be344164558b9b9330432d847d5952b475d833b482c570d
+machine_hash: 8bb70cb355ef569be178400719b1a8b8a02d00d09c1336cfc42b340685a27e4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,7 @@ record:
   title: Improved deleting a background session whose worktree has unpushed commits
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
-  rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
+- '[[Changes/Devin/2026-09-02-scan-composer-command|/scan Composer Command]]'
 - '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
   split layouts are now preserved across window reloads]]'
 - '[[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2

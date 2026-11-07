@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2193ee02d50a09569d9e8e405c5e3105fb7d721b90e19d7a55656cd395d5593e
+machine_hash: ec32e0bb2c6333c8c94a0fb567576a321fe9746e9ab3ab787f9a5d473dc54999
 product: dify
 product_name: Dify
 record:
@@ -41,11 +41,12 @@ record:
   title: 'refactor: inject session into audio TTS'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
-- '[[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add
-  voice to your app with text-to-speech and speech-to-text]]'
-- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
+- '[[Changes/Raycast/2026-06-22-dictation-you-can-now-retry-failed-transcriptions-more-often-in-ai-chat-notes-an|Dictation
+  : You can now retry failed transcriptions more often in AI Chat, Notes…]]'
+- '[[Changes/Superwhisper/2026-06-22-2-voice-and-audio-changes-in-superwhisper-windows-1-5-1|2
+  Voice and Audio changes in Superwhisper Windows 1.5.1]]'
+- '[[Changes/AnythingLLM/2026-06-25-3-voice-and-audio-changes-in-v1-15-0|3 Voice and
+  Audio changes in v1.15.0]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: voice
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]
+- Earlier: 2026-06-25 · AnythingLLM · [[Changes/AnythingLLM/2026-06-25-3-voice-and-audio-changes-in-v1-15-0|3 Voice and Audio changes in v1.15.0]]
 - Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-added-support-for-rendering-and-playing-audio-files-mp3-wav-ogg-m4a-within-the-s|Added support for rendering and playing audio files (.mp3, .wav, .ogg, .m4a) within…]]
 <!-- chronolog:end -->
 

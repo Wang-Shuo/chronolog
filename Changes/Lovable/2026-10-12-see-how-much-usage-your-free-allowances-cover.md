@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 647bff84f01ee139d60bac9d460a665bb742fe11beaa1fadfc60bb1a5a004b22
+machine_hash: 43cec869f3ed572d221f8fc68aa13f39a90a2d56ae7828f004b6a42aac6b5bd0
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,10 @@ record:
   title: See how much usage your free allowances cover
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
-- '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
-  before your credits run out]]'
+- '[[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste|AI
+  : Made AI requests smaller, so local models reply to a simple message much faster…]]'
+- '[[Changes/Raycast/2026-10-09-ai-made-ai-requests-smaller-so-local-models-reply-to-a-simple-message-much-faste-aebf65|AI
+  : Made AI requests smaller, so local models reply to a simple message much faster…]]'
 - '[[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model
   changes in v2026.10.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-12-2026-10-12-16e5a6a0|lovable-2026-10-12-2026-10-12-16e5a6a0]]'

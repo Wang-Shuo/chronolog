@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e01f46dad6a32ea3ec0e8b9d47f9e0ffccec53dae5477253d8800e19093725f1
+machine_hash: 5c3684b4cf2d50d0d40109587d430e58d38bbcfebe54cd1ad53fb2c904529f51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
     handled…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-30-private-registry-is-now-managed-registry|Private registry
-  is now Managed registry]]'
+- '[[Changes/Devin/2026-07-31-control-where-legacy-cascade-is-available|Control Where
+  Legacy Cascade Is Available]]'
 - '[[Changes/Replit/2026-07-31-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a|chatgpt-2026-08-04-large-pastes-are-now-handled-as-attachments-for-all-plans-8f11f30a]]'

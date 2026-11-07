@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7629a0707c8f442297db5836ab38687fdbf7fc1b0f4ca3bf3403f2f61d7ee03c
+machine_hash: a06f712c8ccfdad7ab56c34d9e2c84c8d6190c5c80ab6345265cb3c7494e7bc9
 product: dify
 product_name: Dify
 record:
@@ -45,7 +45,8 @@ record:
   title: 3 Files and Data changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]'
+- '[[Changes/AnythingLLM/2024-08-01-add-drag-and-drop-to-chat-window-for-auto-upload-embed-of-documents-by-timothyca|Add
+  drag-and-drop to chat window for auto upload & embed of documents]]'
 - '[[Changes/Open WebUI/2024-08-02-2-files-and-data-changes-in-v0-3-11|2 Files and
   Data changes in v0.3.11]]'
 - '[[Changes/Ollama/2024-08-06-batches-generate-embeddings-for-several-documents-in-one-request|Batches:

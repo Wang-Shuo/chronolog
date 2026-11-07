@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 49c0e5022fb3def05ed74520b07b34da4aaf68bb855ff85de3e05e46a7276942
+machine_hash: d81150ed64b99fcc5632293661eb7d3e10008740e222ea94ca5bacb7cc0be887
 product: lovable
 product_name: Lovable
 record:
@@ -80,8 +80,8 @@ record:
   title: 'App connectors: Chargebee, GatewayAPI, Lexware, Pipedrive, PrestaShop, Sevdesk…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
-  AWS Athena and Replicate]]'
+- '[[Changes/AnythingLLM/2026-06-16-2-apps-and-integrations-changes-in-v1-14-1|2 Apps
+  and Integrations changes in v1.14.1]]'
 - '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
   plugin loading performance in remote sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2

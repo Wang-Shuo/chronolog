@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c959dfbacc13eddc35d6ce45b6757bde54967ed335a7a4948e9cf2aec206c2b
+machine_hash: 6dbaa4a6c5ed0da93c0f47eeecfb957e767d3c37e643e3f6b59616cc9e2c8376
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -114,8 +114,8 @@ record:
   title: 28 Model Support changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-7-model-support-changes-in-v0-1-19|7 Model Support
-  changes in v0.1.19]]'
+- '[[Changes/Superwhisper/2025-08-12-messages-mode-custom-model-fixes|Messages Mode
+  & Custom Model Fixes]]'
 - '[[Changes/Cline/2025-08-13-4-model-support-changes-in-v3-24-0|4 Model Support changes
   in v3.24.0]]'
 - '[[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support
@@ -219,7 +219,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Model Support
 
 - Earlier: 2025-08-13 · OpenHands · [[Changes/OpenHands/2025-08-13-3-model-support-changes-in-0-52-0|3 Model Support changes in 0.52.0]]
-- Later: 2025-08-15 · ChatGPT · [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5 Updates]]
+- Later: 2025-08-14 · Raycast · [[Changes/Raycast/2025-08-14-ai-access-qwen-models-with-the-added-preset|AI : Access Qwen models with the added preset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

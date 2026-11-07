@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5f73a1032468ed92487b8fadd0c55080dd054b03737375cc090a8419ed200c00
+machine_hash: a2eb949a858bf6b10d6974e76ecec27698a681c71cb48ee910f44f64d6b2e205
 product: qoder
 product_name: Qoder
 record:
@@ -48,10 +48,10 @@ record:
     username…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3
-  Account and Access changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
   and Access changes in v2.1.281]]'
+- '[[Changes/Devin/2026-09-23-bring-your-own-oauth-setup-guides-for-microsoft-365-and-google-workspace-mcps|Bring-Your-Own
+  OAuth Setup Guides for Microsoft 365 and Google Workspace MCPs]]'
 - '[[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account
   and Access changes in v2026.9.6]]'
 source_release: '[[Releases/Qoder/qoder-2026-09-23-0-4-1-cd1ea33d|qoder-2026-09-23-0-4-1-cd1ea33d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a1ad8d429c578ac5821f274fc4585974b7451038009ee59f4c8545b721c3666
+machine_hash: cc0559f8d08a7512ef6aea5025c8d3490ddd1b93588b0493916c1b10c1649d4e
 product: dify
 product_name: Dify
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-gemini-with-2-0-flash-thinking-experimental-is-now-even-better-at-completing-com|Gemini with 2.0 Flash Thinking (experimental) is now even better at completing…]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added --git-commit-verify flag (default]]
+- Later: 2025-03-19 · Devin · [[Changes/Devin/2025-03-19-connect-multiple-github-orgs-to-the-same-devin-account-you-can-easily-set-this-u|Connect multiple GitHub orgs to the same Devin account - you can easily set…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

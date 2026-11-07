@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4056dc21e650e22e9e922f648f203ab50f4a21551208e12b58ff7292d1c9499b
+machine_hash: 0e18d83f67b797f281b6f2a8a4d79c9ef9ed1a7467b915290caf46c926123437
 product: heygen
 product_name: HeyGen
 record:

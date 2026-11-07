@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5badf70d22eacf69e07dfb4d1141c12c12029c0f3c1bd418a42396a84896d247
+machine_hash: 2a7616ca7e8a030937d4790c925b068d9ee2fc912d1b6104bf1d8dd2159fd9f9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
   title: Follow along outside the app
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use
-  Ctrl+Space to toggle voice dictation]]'
-- '[[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved
-  live voice usage alerts and draft handling]]'
+- '[[Changes/Krea/2026-08-28-wan-3-0|Wan 3.0]]'
+- '[[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster
+  launch and time to transcription-ready]]'
 - '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
   from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
+- Earlier: 2026-08-28 · Superwhisper · [[Changes/Superwhisper/2026-08-28-faster-launch-and-time-to-transcription-ready|Faster launch and time to transcription-ready]]
 - Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
 <!-- chronolog:end -->
 

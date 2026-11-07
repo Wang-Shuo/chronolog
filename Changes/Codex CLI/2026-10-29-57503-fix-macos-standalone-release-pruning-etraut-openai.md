@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cacdc4b857ce646046c13cde485cf5a2467807ad8e1f9c2cc443e3e8b49f377c
+machine_hash: 30f367d95c179acf9446b74053e24bedf83f30677562176e8aa75dd33e472a7f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#57503 Fix macOS standalone release pruning @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-restored-the-todo-tool-in-desktop-via-opt-in|Restored
-  the Todo tool in desktop via opt-in]]'
 - '[[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the
   desktop app experience]]'
 - '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Superwhisper/2026-10-28-updated-app-icon-style-to-match-macos-dark-mode|Updated
+  app icon style to match macOS dark mode]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
+- Earlier: 2026-10-28 · Superwhisper · [[Changes/Superwhisper/2026-10-28-updated-app-icon-style-to-match-macos-dark-mode|Updated app icon style to match macOS dark mode]]
 - Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-10-mobile-and-desktop-changes-in-v2-2-2|10 Mobile and Desktop changes in v2.2.2]]
 <!-- chronolog:end -->
 

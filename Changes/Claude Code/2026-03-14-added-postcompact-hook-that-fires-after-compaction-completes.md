@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e5a82f206b6556a4dc6d9336c743c6690c06fdb18a9265833d4f3024c0a8435
+machine_hash: c3a41d3117c39e92e5bf5e57105e5879ab0d6abf33e39f1ba0dc11edeaf93bd1
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Added `PostCompact` hook that fires after compaction completes
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-cli-invert-context-window-display-to-show-usage-by-keithguerin-in-https-git|feat(cli):
-  invert context window display to show usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status
   line context window percentage no longer inflates across turns by using…]]'
+- '[[Changes/Superwhisper/2026-03-12-added-mode-activation-to-mode-card-context-menu|Added
+  mode activation to mode card context menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add
   preCompact hook to run commands before context compaction starts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'

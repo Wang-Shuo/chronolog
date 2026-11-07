@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40c9314ececadc96bbb0b19deca65a3e0fe47e05942208f81cd00f8411b9dd4b
+machine_hash: e5304581ed28fdc5b2f97043869a142542ba9c44b44582bbc4d0479958e012c6
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.2.25
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added tooltip to disabled New Chat button for view-only access]]
-- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface Experience changes in v1.2.26]]
+- Later: 2026-03-13 · Devin · [[Changes/Devin/2026-03-13-session-list-improvements|Session List Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

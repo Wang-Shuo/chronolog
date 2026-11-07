@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e77594df94ff506ea3e248a05c2905235fb4d0edbd7c14a4e5d5bc2e15e0341e
+machine_hash: 91e4160c8db35528ed3f50c183abdd47277fa11ec8a041db940fff054005d27e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Files and Data changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes
-  in 1.19.0]]'
 - '[[Changes/Qoder/2026-11-05-take-documents-and-sites-further|Take Documents and
   Sites Further]]'
 - '[[Changes/Qoder/2026-11-05-sites-design-canvas-adjust-site-page-content-and-layout-on-a-design-canvas-and-u|Sites
   design canvas]]'
+- '[[Changes/Recraft/2026-11-05-generate-at-1k-or-2k-then-edit-upscale-or-vectorize-right-on-your-project-canvas|Generate
+  at 1K or 2K, then edit, upscale, or vectorize right on your project canvas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: file-data
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-sites-design-canvas-adjust-site-page-content-and-layout-on-a-design-canvas-and-u|Sites design canvas]]
+- Earlier: 2026-11-05 · Recraft · [[Changes/Recraft/2026-11-05-generate-at-1k-or-2k-then-edit-upscale-or-vectorize-right-on-your-project-canvas|Generate at 1K or 2K, then edit, upscale, or vectorize right on your project canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

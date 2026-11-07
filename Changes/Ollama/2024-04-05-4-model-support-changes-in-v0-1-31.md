@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd2d015d7a7fe220997a63b42acbc604d99ed82f6a69affc0b608096e57cf7ed
+machine_hash: 9a7bf75cf2a021efee755d426d00a23048140d611ae9efe3d99bc500ac11662d
 product: ollama
 product_name: Ollama
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Model Support changes in v0.1.31
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-03-26-3-model-support-changes-in-v0-1-30|3 Model Support
-  changes in v0.1.30]]'
-- '[[Changes/Dify/2024-03-29-4-model-support-changes-in-0-5-11|4 Model Support changes
-  in 0.5.11]]'
 - '[[Changes/Open WebUI/2024-03-31-3-model-support-changes-in-v0-1-116|3 Model Support
   changes in v0.1.116]]'
+- '[[Changes/Superwhisper/2024-04-02-improve-visibility-of-language-model-formatting-feature|Improve
+  visibility of language model formatting feature]]'
+- '[[Changes/Superwhisper/2024-04-02-make-claude-3-haiku-available-to-superwhisper-pro-users|Make
+  Claude 3 Haiku available to Superwhisper Pro users]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-05-v0-1-31-github-149878071-f2eeffc7|ollama-2024-04-05-v0-1-31-github-149878071-f2eeffc7]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.31
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-3-model-support-changes-in-v0-1-116|3 Model Support changes in v0.1.116]]
+- Earlier: 2024-04-02 · Superwhisper · [[Changes/Superwhisper/2024-04-02-make-claude-3-haiku-available-to-superwhisper-pro-users|Make Claude 3 Haiku available to Superwhisper Pro users]]
 - Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-feat-new-llm-add-support-for-openrouter-by-korayem-in-https-github-com-langgeniu|feat (new llm): add support for openrouter]]
 <!-- chronolog:end -->
 

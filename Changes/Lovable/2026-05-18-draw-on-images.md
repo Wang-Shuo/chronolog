@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a3ddf7f8a2436c7fccc626349561a5437a069668b72eebea9bef42d36aa4f9bd
+machine_hash: df2a4dc89569e0b55fbb7e9249970ca62caa3eec82af422e30bdfee1c8cf37a9
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Draw on images
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core
-  Fixed repeated auto-compaction in sessions after compaction reordered messages]]'
 - '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
   Fixed async commands losing the active instance context, which could break…]]'
+- '[[Changes/Recraft/2026-05-17-turn-a-short-prompt-into-a-richer-one-with-one-click-adds-visual-context-style-c|Prompt
+  enhancer]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

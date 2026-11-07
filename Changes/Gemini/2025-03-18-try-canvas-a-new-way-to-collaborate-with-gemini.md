@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9ca2d456e8baecc449242898e5a29139e4a27bbc9ea2e155576178c94ee2e244
+machine_hash: 151cca33bf9a144f57d25ce167f82ffde912a1dddbdafc23f86e05c856fca817
 product: gemini
 product_name: Gemini
 record:
@@ -69,9 +69,9 @@ record:
   title: Try Canvas, a new way to collaborate with Gemini
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-27-deduplication-for-retrieved-documents-documents-retrieved-during-searches-are-no|\U0001F5C2️
-  Deduplication for Retrieved Documents]]"
 - '[[Changes/ElevenLabs/2025-03-03-updated-endpoints|Updated Endpoints]]'
+- '[[Changes/AnythingLLM/2025-03-04-2-files-and-data-changes-in-v1-7-5|2 Files and
+  Data changes in v1.7.5]]'
 - '[[Changes/Dify/2025-03-18-2-files-and-data-changes-in-1-1-0|2 Files and Data changes
   in 1.1.0]]'
 source_release: '[[Releases/Gemini/gemini-2025-03-18-2025-03-18-ed299ed0|gemini-2025-03-18-2025-03-18-ed299ed0]]'

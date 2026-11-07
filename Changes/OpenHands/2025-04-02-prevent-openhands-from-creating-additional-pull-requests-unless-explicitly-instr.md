@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08b669f9bf90bd23cb411576427a09627243c33cee300bcc16a6470807b479b8
+machine_hash: 97a1b062e9689b4cb61163960790d247993467d9c62d0f525aa8242e9017d7f2
 product: openhands
 product_name: OpenHands
 record:
@@ -45,8 +45,8 @@ record:
     instructed
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
-  bash SOFT timeout from 30 to 10 seconds]]'
+- '[[Changes/Raycast/2025-03-27-there-is-now-a-new-quick-open-command-that-opens-any-url-passed-to-root-search|There
+  is now a new Quick Open command that opens any URL passed to root search]]'
 - '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
   Workflow changes in v0.80.0]]'
 - "[[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|\U0001F4DA

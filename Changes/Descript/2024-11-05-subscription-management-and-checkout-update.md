@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: a44b97c1a3fc441aaeb7af08b4d3668e9570e00901d548ba95cbb9701545337b
+machine_hash: ede3fa39683fb8cbdd1ca353e0591958320a4d04426a745627ef3979766cd90c
 product: descript
 product_name: Descript
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-10-21 · Gemini · [[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding Workspace extensions in Beta for Google Workspace customers]]
-- Later: 2024-11-14 · Runway · [[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway API updates]]
+- Later: 2024-11-06 · Raycast · [[Changes/Raycast/2024-11-06-financial-functions-calculate-interest-related-queries-e-g-savings-required-for|Financial functions: calculate interest-related queries…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

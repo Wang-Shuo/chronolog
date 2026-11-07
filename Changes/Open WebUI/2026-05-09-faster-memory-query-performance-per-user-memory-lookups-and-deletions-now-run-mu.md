@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7bfd30fac16950d63a158ed13d90fa9163b5edc4a3bc02d780c294d917e62918
+machine_hash: 669014184d13e62aa20d794cffc659420f5e84da7e7f84615a887dcccb2e7298
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,12 +61,12 @@ record:
     now run…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
-  sources and more personalized responses in ChatGPT]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory):
   persist auto-memory scratchpad for skill extraction]]'
 - '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
   Memory and Personalization changes in rust-v0.129.0]]'
+- '[[Changes/Raycast/2026-05-08-import-add-support-for-importing-ai-extension-custom-instructions|Import
+  : Add support for importing AI extension custom instructions]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: memory
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16 Memory and Personalization changes in rust-v0.129.0]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-import-add-support-for-importing-ai-extension-custom-instructions|Import : Add support for importing AI extension custom instructions]]
 - Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory): add Auto Memory inbox flow with canonical-patch contract]]
 <!-- chronolog:end -->
 

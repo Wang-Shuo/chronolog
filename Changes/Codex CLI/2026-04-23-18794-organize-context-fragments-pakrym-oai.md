@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac7583c955b4ab751caacb19a0680f961622c7d91af67d8f4a58bb27e4c9b84d
+machine_hash: 2cefd3b4445e5a616528f66bec5162df4f68d9057badd63e96110e59cedf759e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#18794 Organize context fragments @pakrym-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context
-  Window changes in rust-v0.122.0]]'
 - '[[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window
   changes in v1.14.19]]'
 - '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
   changes in v0.9.0]]'
+- '[[Changes/Superwhisper/2026-04-22-context-menu-on-settings-modes-items-right-click-with-duplicate-delete-and-set-a|Context-menu
+  on Settings - Modes items right-click with duplicate, delete and set active]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window changes in v0.9.0]]
+- Earlier: 2026-04-22 · Superwhisper · [[Changes/Superwhisper/2026-04-22-context-menu-on-settings-modes-items-right-click-with-duplicate-delete-and-set-a|Context-menu on Settings - Modes items right-click with duplicate, delete and set active]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context Window changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 

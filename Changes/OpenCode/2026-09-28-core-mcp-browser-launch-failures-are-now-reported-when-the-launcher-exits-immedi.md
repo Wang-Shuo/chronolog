@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b32e8255ba5ae7fad4fe290fa106033331d2a52ee2fd7681a036f4083ea2a268
+machine_hash: 32c3498d35a473c6718c27abe701e6d03f0a886d858c9710460450b3492069d3
 product: opencode
 product_name: OpenCode
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-slash-commands-provided-by-plugins-now-show-their-plugin-name-in-the-menu-can-be|Slash commands provided by plugins now show their plugin name in the / menu, can…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]]
+- Later: 2026-09-28 · Raycast · [[Changes/Raycast/2026-09-28-we-updated-a-few-extensions-ollama-ai-ai-by-vercel-cerebras-groq-lm-studio-etc-d|We updated a few extensions: Ollama AI , AI by Vercel , Cerebras , Groq , LM Studio , etc]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

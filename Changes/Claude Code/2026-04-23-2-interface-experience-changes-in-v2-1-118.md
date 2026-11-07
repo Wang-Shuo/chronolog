@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 590b0db82179869e25754d0d385230f58abd2f784e9da5157feef2f20511418e
+machine_hash: caa7888efbd29e68e2e9bc1f75e08a51bc0d5a61a08a9e3e8805a528b2909025
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Interface Experience changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface
-  Experience changes in v0.9.0]]'
 - '[[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop
   Fixed sidebar project avatars to fall back to icon.url when no override is set]]'
+- '[[Changes/Devin/2026-04-22-sso-connection-picker|SSO Connection Picker]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

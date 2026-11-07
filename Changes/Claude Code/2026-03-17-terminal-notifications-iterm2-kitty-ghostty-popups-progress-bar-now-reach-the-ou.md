@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2886dcd5135e8d378485bdffc571df4f7b65b5828b066de3b98e59be344a1baf
+machine_hash: 11a7bdde037cbcb3d647e0a3699f9933e28dbe4507ab3c47ad0eb40581cf54e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Terminal notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-4-developer-workflow-changes-in-v1-0-6|4
-  Developer Workflow changes in v1.0.6]]'
+- '[[Changes/Raycast/2026-03-16-2-developer-workflow-changes-in-raycast-windows-0-49|2
+  Developer Workflow changes in Raycast windows 0.49]]'
 - '[[Changes/v0/2026-03-16-added-v0-label-to-pull-requests-created-by-v0|Added "v0"
   label to pull requests created by v0]]'
 - '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background

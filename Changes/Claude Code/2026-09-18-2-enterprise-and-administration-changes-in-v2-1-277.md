@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00186b24f07d8d63fa8bd5db3c4a1ffdbcaf02fcb9117918cd412abd67d4ff1b
+machine_hash: 08b10332c8b7fbc1730de820781dc7d204346f3134259e6149558b67cf482938
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2 Enterprise and Administration changes in v2026.9.5]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-require-session-access-for-pr-comments-org-setting|"Require Session Access for PR Comments" Org Setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

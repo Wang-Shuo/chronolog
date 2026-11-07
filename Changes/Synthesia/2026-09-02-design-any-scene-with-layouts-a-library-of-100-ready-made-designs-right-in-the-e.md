@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5d7795cbebd23f0956ac49dd75f69027f5e4c7840080ebe303ba03bb3e6c0d2
+machine_hash: a90ff4cb1e1962789c2b95155dc16cd152fe972d11ef4da61c101874e30355e9
 product: synthesia
 product_name: Synthesia
 record:
@@ -42,10 +42,9 @@ record:
   title: Design any scene with Layouts
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
-  Session renames now save reliably from the title editor and tab context menu]]'
 - '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
   code diff against the base branch]]'
+- '[[Changes/Devin/2026-09-02-redesigned-findings-tab|Redesigned Findings Tab]]'
 - '[[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web:
   Add a code wrap toggle to the diff panel and streamline its header]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-02-https-www-synthesia-io-updates-build-better-videos-with-layouts-31f77a90|synthesia-2026-09-02-https-www-synthesia-io-updates-build-better-videos-with-layouts-31f77a90]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bf8d4d912c336939c274ad27613a36f7331ae5f669774efb41b4bca116a30fe
+machine_hash: f694733bafbec16b8b251d3e819d49f112cf3436a27b7fd7de5e33d415172e78
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer
-  Workflow changes in v2026.9.4]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer
   your Claw’s questions and enter secrets from the terminal, with clearer…]]'
 - '[[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File
   review: Reduced CPU usage when multiple code diffs are expanded alongside…]]'
+- '[[Changes/Raycast/2026-09-14-system-new-toggle-airplane-mode-command-to-switch-airplane-mode-on-and-off-strai|System
+  : New Toggle Airplane Mode command to switch airplane mode on and off…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: developer-workflow
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File review: Reduced CPU usage when multiple code diffs are expanded alongside…]]
+- Earlier: 2026-09-14 · Raycast · [[Changes/Raycast/2026-09-14-system-new-toggle-airplane-mode-command-to-switch-airplane-mode-on-and-off-strai|System : New Toggle Airplane Mode command to switch airplane mode on and off…]]
 - Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New Permissions System & Terminal and Git version control for Enterprise]]
 <!-- chronolog:end -->
 

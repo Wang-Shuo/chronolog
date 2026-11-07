@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1c8f061fe9e7643fd4889d7fcfa2a051f0b6149e5949dab4f511aa40fad0a95
+machine_hash: 5dd4e965654d00beb6921b36d6ed1f058ed866886fa1efa3058682f4ff2c8f45
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,9 @@ record:
   title: Enterprise docs
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
-  enterprise to readme]]'
-- '[[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2
-  Enterprise and Administration changes in v0.6.41]]'
+- '[[Changes/Devin/2025-12-05-enterprise-hypervisors-capacity-utilization|Enterprise
+  Hypervisors Capacity Utilization]]'
+- '[[Changes/Devin/2025-12-05-service-users-page-improvements|Service Users Page Improvements]]'
 - '[[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can
   publish externally]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can publish externally]]
-- Later: 2025-12-12 · Replit · [[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2025-12-12 · Devin · [[Changes/Devin/2025-12-12-enterprise-api-v3-enhancements|Enterprise API v3 Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

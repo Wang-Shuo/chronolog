@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3daeff4ef4a16b78b87b2a1ede37c79bbd62122d62176c3e8d0fcc6eceb5021d
+machine_hash: b8df71a456d63ce70bb6601d371dcf145b6d26198e55d6daaee9786f20265ffb
 product: replit
 product_name: Replit
 record:
@@ -61,12 +61,10 @@ record:
   title: Cleaner task settings dropdown
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-a-lot-of-engineering-work-spans-more-than-one-codebase-you-can-now-attach-multip|Multi-repo
-  automations]]'
-- '[[Changes/Cursor/2026-05-20-cursor-automations-are-now-available-in-the-agents-window-in-addition-to-cursor|Automations
-  in the Agents Window]]'
-- '[[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor
-  brings Cursor Automations to the Agents Window and introduces the ability…]]'
+- '[[Changes/Devin/2026-05-22-custom-rrule-schedule-input|Custom RRULE Schedule Input]]'
+- '[[Changes/Devin/2026-05-22-github-connection-no-longer-required-for-automations|GitHub
+  Connection No Longer Required for Automations]]'
+- '[[Changes/Devin/2026-05-22-platform-default-settings|Platform Default Settings]]'
 source_release: '[[Releases/Replit/replit-2026-05-22-2026-05-22-243c68d8|replit-2026-05-22-2026-05-22-243c68d8]]'
 source_type: replit_changelog
 theme: automation-scheduling
@@ -100,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-this-release-brings-cursor-automations-to-the-agents-window-and-introduces-the-a-cd58e1|Cursor brings Cursor Automations to the Agents Window and introduces the ability…]]
+- Earlier: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-platform-default-settings|Platform Default Settings]]
 - Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-music|Music]]
 <!-- chronolog:end -->
 

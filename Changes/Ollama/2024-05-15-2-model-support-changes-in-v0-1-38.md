@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df5a86bc3ea10890f0b122d5c14977bd66f1080e9ac7895d4008a39966ab1faa
+machine_hash: 7dd55ce73037d8db9f949aa4304bc04b715607c317b2b92bedb0479224643ba3
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in v0.1.38
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
-  GPT-4o]]'
 - '[[Changes/Dify/2024-05-13-12-model-support-changes-in-0-6-8|12 Model Support changes
   in 0.6.8]]'
+- '[[Changes/Superwhisper/2024-05-13-include-gpt-4o-to-models-available-for-openai|Include
+  GPT-4o to models available for OpenAI]]'
 - '[[Changes/Gemini/2024-05-14-introducing-gemini-1-5-pro-to-gemini-advanced|Introducing
   Gemini 1.5 Pro to Gemini Advanced]]'
 source_release: '[[Releases/Ollama/ollama-2024-05-15-v0-1-38-github-155764609-cc812676|ollama-2024-05-15-v0-1-38-github-155764609-cc812676]]'

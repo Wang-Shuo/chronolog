@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c25bd3728d538cf58a02c8340c6f174b58eacd02f71e30bc479fde9c088f6e96
+machine_hash: 5d9ba91306a05d3ae73e68b1b2443e2a89348bf2fcd17c404c48c3a93f1065f9
 product: heygen
 product_name: HeyGen
 record:
@@ -43,10 +43,10 @@ record:
   title: HeyGen has moved to a monthly release cadence for enterprise
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
 - '[[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable
   5 is in the model picker]]'
+- '[[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy
+  Cascade Disabled by Default for Enterprises]]'
 - '[[Changes/HeyGen/2026-08-07-2-enterprise-and-administration-changes-in-august-2026-enterprise-releases|2
   Enterprise and Administration changes in August 2026 Enterprise Releases]]'
 source_release: '[[Releases/HeyGen/heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b|heygen-2026-08-07-https-heygen-noticeable-news-publications-august-2026-enterprise-ee1eb69b]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable 5 is in the model picker]]
+- Earlier: 2026-08-07 · Devin · [[Changes/Devin/2026-08-07-legacy-cascade-disabled-by-default-for-enterprises|Legacy Cascade Disabled by Default for Enterprises]]
 - Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email invites on paid plans]]
 <!-- chronolog:end -->
 

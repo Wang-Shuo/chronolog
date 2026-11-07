@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 542e2b10a6b0742247fef04ca6176922ba7b50c1cc89fe96b39e57a304d90ddd
+machine_hash: 4dbb75cb9b64969d9e043c25845f1275b14a695685b09a14493ea50bb5399e3f
 product: synthesia
 product_name: Synthesia
 record:
@@ -43,12 +43,11 @@ record:
   title: Improved resolution options for generated B-roll
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
-  Reliability and Performance changes in v0.34.4]]'
 - '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
   Reliability and Performance changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Devin/2026-09-25-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Synthesia/synthesia-2026-09-25-https-www-synthesia-io-updates-improved-resolution-options-for-g-4c400467|synthesia-2026-09-25-https-www-synthesia-io-updates-improved-resolution-options-for-g-4c400467]]'
 source_type: synthesia_changelog
 theme: reliability-performance
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-performance-improvements|Performance Improvements]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved startup time and memory use by building only the parts of the settings…]]
 <!-- chronolog:end -->
 

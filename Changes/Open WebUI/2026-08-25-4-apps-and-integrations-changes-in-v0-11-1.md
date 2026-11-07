@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad3d94f8f95c74aad0cf8b6e2f5b26a2b1ac19d2a34fd8517448274b6cbcbf23
+machine_hash: 29374e265ee59f9588c1510baa92aa10ff891e40e1997862d1e5382c263cf9eb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-21919-fix-typescript-strict-null-errors-in-integration-tests|SSR Agent Issue Fix (21919): Fix TypeScript strict-null errors in integration tests]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2 Apps and Integrations changes in v2.1.247]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ai-added-support-for-mentioning-ai-extensions-when-replying-to-a-question-asked|AI : Added support for mentioning AI extensions when replying to a question asked…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

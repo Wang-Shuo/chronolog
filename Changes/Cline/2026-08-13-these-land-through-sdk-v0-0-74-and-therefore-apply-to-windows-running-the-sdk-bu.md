@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c8a5414a43d665da9c10ee4336c36840906232a330180759fe29cc42839f7f6
+machine_hash: 5bd50ae32faee9ea19aa9421f8a93f51016b468c8d76a528be5cc8b2c2f6ed2c
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add
-  the Modern Web Guidance plugin to the bundled plugin marketplace]]'
 - '[[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several
   projects at once]]'
+- '[[Changes/AnythingLLM/2026-08-13-4-apps-and-integrations-changes-in-v1-16-0|4 Apps
+  and Integrations changes in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
   Apps and Integrations changes in v2.1.232]]'
 source_release: '[[Releases/Cline/cline-2026-08-13-v4-1-9-github-369742457-b48c0c59|cline-2026-08-13-v4-1-9-github-369742457-b48c0c59]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3957408ebbf2f441bcdeb5bd7d467d07241c9204afbf38932593a24e951e2a30
+machine_hash: 76859a1950fd74beb4cf351fc55c58f021a82e3cf9fed9045460472fe43df20c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Show live elapsed time for execution subagents in timeline entries
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set
-  the approval reviewer''s reasoning and optional Fast mode independently…]]'
+- '[[Changes/Devin/2026-09-21-shell-command-durations-in-the-worklog|Shell Command
+  Durations in the Worklog]]'
 - '[[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'

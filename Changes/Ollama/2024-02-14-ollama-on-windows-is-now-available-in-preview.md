@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9794209d9ca1cf9f39194f1a46ce13fada60b8b5b8e8b30658f2f80c32ff682a
+machine_hash: bd648926ee9451836c0636aa97f230905b558a423c5bc0752dbcf92ae0321796
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: Ollama on Windows is now available in preview
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
-  fe mobile responsive next]]'
+- '[[Changes/Superwhisper/2023-12-14-minimum-system-version-is-now-macos-13|Minimum
+  system version is now macOS 13]]'
 - '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
   false auto-commits on Windows, by @ctoth]]'
 - '[[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick

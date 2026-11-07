@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 082f496fe4c7bb34c039ac4d8c5d5fbc6527d8507a7f32bf0c6fbc412f7f737d
+machine_hash: a389cb9f4a1a88338cd9aabde667caa01f335d3dc48fc3696b3ed81bdf5f34c9
 product: cline
 product_name: Cline
 record:
@@ -56,12 +56,11 @@ record:
   title: 5 Model Support changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
-  the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
 - '[[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall
   back to the built-in models.dev catalog snapshot when the public catalog…]]'
 - '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
   run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
+- '[[Changes/Superwhisper/2026-08-04-updates-to-models-library|Updates to Models Library]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'
 source_type: github_releases
 theme: model-support
@@ -104,7 +103,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]
+- Earlier: 2026-08-04 · Superwhisper · [[Changes/Superwhisper/2026-08-04-updates-to-models-library|Updates to Models Library]]
 - Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain when a free model promotion ends]]
 <!-- chronolog:end -->
 

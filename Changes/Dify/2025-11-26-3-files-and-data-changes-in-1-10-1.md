@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 440659ad98426f5d54f6d193c28ce329efe9779cabdca73ae7c148771cbe83cd
+machine_hash: 0f7526158ae8fcd683d341925b43fc828ed234c02868b284d4d38f117338c843
 product: dify
 product_name: Dify
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Files and Data changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-3-files-and-data-changes-in-v0-6-35|3 Files and
-  Data changes in v0.6.35]]'
+- '[[Changes/Recraft/2025-11-18-you-can-now-enhance-any-layer-directly-on-the-canvas-with-drop-shadow-stroke-and|Layer
+  effects: Shadows, strokes, and blurs]]'
 - '[[Changes/Ollama/2025-11-19-deepseek-ocr-https-ollama-com-library-deepseek-ocr-deepseek-ocr-uses-optical-2d|DeepSeek-OCR((source
   link) DeepSeek-OCR uses optical…]]'
 - '[[Changes/Open WebUI/2025-11-24-2-files-and-data-changes-in-v0-6-37|2 Files and

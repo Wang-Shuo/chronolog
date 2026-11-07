@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7ae377b6538deaa050642ec0e62ae94fe13ce59cb32c180d5a89d3359a8323a
+machine_hash: c91f7ca97a35893817e0f4ae60c88722c318bad0788f63c8f22128abc776b172
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: SDK hosts now receive a persistent `localSettings` suggestion for Bash permission…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
+- '[[Changes/Devin/2026-05-01-snapshot-revert-for-declarative-setup|Snapshot Revert
+  for Declarative Setup]]'
 - '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
   SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
 - '[[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core

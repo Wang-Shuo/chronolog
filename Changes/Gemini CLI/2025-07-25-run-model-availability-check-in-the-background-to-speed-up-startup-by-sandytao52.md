@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b0c452d7ecc4f4f8c76e56eea0261e43e7dc78b2bf940da236dddb3210b6e024
+machine_hash: 4c53f3dda4521f6e4878b55f64e0b7c40facb84c94a863c10af4f32f5ebbf148
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: Run model availability check in the background to speed up startup
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-19-2-reliability-and-performance-changes-in-v0-6-17|2
-  Reliability and Performance changes in v0.6.17]]'
 - '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
   up E2E tests]]'
 - '[[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability
   and Performance changes in 1.7.0]]'
+- '[[Changes/Superwhisper/2025-07-24-faster-parakeet-long-recording-support|Faster
+  Parakeet & Long Recording Support]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability and Performance changes in 1.7.0]]
+- Earlier: 2025-07-24 · Superwhisper · [[Changes/Superwhisper/2025-07-24-faster-parakeet-long-recording-support|Faster Parakeet & Long Recording Support]]
 - Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]]
 <!-- chronolog:end -->
 

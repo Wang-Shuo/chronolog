@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b752ea75d6a480d739af13040b8e580d389ae5f26b46343f9557782b31729c2
+machine_hash: bbdc99a3cce4259ec33cf84c04d7d13ce3a928213b30454763a636c66498a76a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
     animations…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File
-  review: Reduced CPU usage when multiple code diffs are expanded alongside…]]'
+- '[[Changes/Raycast/2026-09-14-system-new-toggle-airplane-mode-command-to-switch-airplane-mode-on-and-off-strai|System
+  : New Toggle Airplane Mode command to switch airplane mode on and off…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
   Workflow changes in v2.1.273]]'
 - '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New

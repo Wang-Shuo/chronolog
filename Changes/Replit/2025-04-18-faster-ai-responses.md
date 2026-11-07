@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3983411e3ab5c49280d2b4d19acfb0204fd2bf1434801ba5f82abcc33e1dbd37
+machine_hash: 9b32c44a48514358b27027982fe6d93a9a634b4b951d0a99a22ca05d75c5abf8
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Faster AI responses
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-14-2-reliability-and-performance-changes-in-v0-6-5|2
-  Reliability and Performance changes in v0.6.5]]'
 - '[[Changes/Notion/2025-04-15-write-beautiful-emails-faster|Write beautiful emails,
   faster]]'
+- '[[Changes/Devin/2025-04-17-use-devin-s-analysis-to-get-up-to-speed-devin-has-the-self-awareness-to-report-c|Use
+  Devin''s analysis to get up to speed]]'
 - '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
   and Performance changes in v0.6.6]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'

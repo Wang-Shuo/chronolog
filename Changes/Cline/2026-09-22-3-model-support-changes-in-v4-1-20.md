@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20bac966b4c443b8fb4d046992bf7f0ca855579877a9b6a52bb03229b2fdf680
+machine_hash: 30aeaf135f0df7f786361a1e3fd7364131d0042143a8841bacb486e93bab8fcc
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
   title: 3 Model Support changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support
-  changes in v0.11.4]]'
+- '[[Changes/AnythingLLM/2026-09-22-7-model-support-changes-in-v1-16-2|7 Model Support
+  changes in v1.16.2]]'
 - '[[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]'
 - '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
   changes in v2.1.280]]'

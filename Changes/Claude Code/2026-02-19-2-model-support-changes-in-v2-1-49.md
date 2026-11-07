@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37102231400d5a9fceee141304e538272d433073a4ceaa806e3d94d58b178301
+machine_hash: a1e42b4518e77d426811497ded4655eafe65e30249dad3349d46959842b2630d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.49
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support
-  changes in v0.29.0]]'
 - '[[Changes/Midjourney/2026-02-18-please-note|Please Note]]'
 - '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
   MiniMax-M2.5 model support]]'
+- '[[Changes/Recraft/2026-02-18-visual-taste-at-its-core|Visual taste at its core]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-18 · OpenHands · [[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add MiniMax-M2.5 model support]]
+- Earlier: 2026-02-18 · Recraft · [[Changes/Recraft/2026-02-18-visual-taste-at-its-core|Visual taste at its core]]
 - Later: 2026-02-19 · Cline · [[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]
 <!-- chronolog:end -->
 

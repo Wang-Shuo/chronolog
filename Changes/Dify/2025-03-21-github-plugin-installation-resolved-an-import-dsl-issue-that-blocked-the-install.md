@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0ce3a6777d797045af567bd141a01242e0dffbefaa51e019e656275292601cd
+machine_hash: 3ec299f9e5db68fc564a8edb4c2f655795af1f34c339b752aebdeae64a0033cd
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: '**GitHub Plugin Installation**'
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-03-13-gemini-with-2-0-flash-thinking-experimental-is-now-even-better-at-completing-com|Gemini
-  with 2.0 Flash Thinking (experimental) is now even better at completing…]]'
-- '[[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced
-  Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]'
+- '[[Changes/Devin/2025-03-19-connect-multiple-github-orgs-to-the-same-devin-account-you-can-easily-set-this-u|Connect
+  multiple GitHub orgs to the same Devin account - you can easily set…]]'
+- '[[Changes/Raycast/2025-03-19-workspace-added-the-quit-all-apps-except-frontmost-command-use-this-feature-to-f|Workspace:
+  Added the “Quit All Apps Except Frontmost” command]]'
 - '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
   --git-commit-verify flag (default]]'
 source_release: '[[Releases/Dify/dify-2025-03-21-1-1-2-github-207382802-6a01a92e|dify-2025-03-21-1-1-2-github-207382802-6a01a92e]]'

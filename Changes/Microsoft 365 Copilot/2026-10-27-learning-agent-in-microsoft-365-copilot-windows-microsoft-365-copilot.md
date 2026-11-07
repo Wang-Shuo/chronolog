@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2634517e0100dc3cde34ec12d68e580e3884cc3b3a7451e5de95cef1a4ca23ec
+machine_hash: 445c70388557a69330a45435ea17f112dc5d330bb0dd0cd6f5dcf09521e9aac9
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -45,12 +45,11 @@ record:
   title: Learning Agent in Microsoft 365 Copilot [Windows] (Microsoft 365 Copilot)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-attach-files-of-any-type-such-as-videos-design-files-or-programs-up|Attach
-  files of any type, such as videos, design files, or programs, up to 20 MB]]'
 - '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
   Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Krea/2026-10-27-nodes-and-promo-updates|Nodes and promo updates]]'
+- '[[Changes/Krea/2026-10-27-agent-builds-custom-nodes-in-nodes|Agent builds custom
+  nodes in Nodes]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: m365_copilot_changelog
 theme: agent-mode
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3 Agent Mode changes in HUB v2.28.0 — Built-in browser…]]
+- Earlier: 2026-10-27 · Krea · [[Changes/Krea/2026-10-27-agent-builds-custom-nodes-in-nodes|Agent builds custom nodes in Nodes]]
 - Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes in v2026.10.8]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 25185f66cf9de8c397f57bc55a80567004d31209f959e9c8001095664ae91afe
+machine_hash: 4aeffbc6dcf30f9d7bbef0e3ea835cceca2c8b367d939a56039f858efe945e9c
 product: runway
 product_name: Runway
 record:
@@ -43,12 +43,12 @@ record:
   title: Runway Adobe Plugins
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-8-editor-experience-changes-in-v2026-9-2|8 Editor
-  Experience changes in v2026.9.2]]'
-- '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
-  files no longer copy automatically during a remix]]'
 - '[[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor
   Experience changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for|Window
+  Management : Added Create Layout From Current Windows command allowing…]]'
+- '[[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for-e8862a|Window
+  Management : Added Create Layout From Current Windows command allowing…]]'
 source_release: '[[Releases/Runway/runway-2026-09-08-2026-09-08-runway-adobe-plugins-89f7e532|runway-2026-09-08-2026-09-08-runway-adobe-plugins-89f7e532]]'
 source_type: runway_changelog
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor Experience changes in v2026.9.3]]
+- Earlier: 2026-09-08 · Raycast · [[Changes/Raycast/2026-09-08-window-management-added-create-layout-from-current-windows-command-allowing-for-e8862a|Window Management : Added Create Layout From Current Windows command allowing…]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a4d0e54b76c226be78214c6fb26d72771c92152b66b4eb82947b6dd8e3c448a8
+machine_hash: 3c1a3ef8de66f4ef05557efea3f051179dd98de4541d03705c055da8ff45fd91
 product: notion
 product_name: Notion
 record:
@@ -56,11 +56,11 @@ record:
   title: Public pages are now hosted at [yourdomain].notion.site
   type: change
 related_changes:
-- '[[Changes/Descript/2021-03-23-descript-has-updated-the-project-browser-to-include-two-new-workspaces-areas-dri|Introducing
-  Workspaces]]'
 - "[[Changes/Notion/2021-04-29-report-page-option|Report page option \U0001F6A9]]"
 - '[[Changes/Descript/2021-06-15-we-ve-improved-the-comments-feature-so-that-when-you-type-you-will-now-get-a-lis|Improved
   Comments for Drive Members]]'
+- '[[Changes/Raycast/2021-07-13-linear-add-support-for-the-new-issue-triage-set-the-triage-status-in-the-create|Linear:
+  Add support for the new Issue Triage]]'
 source_release: '[[Releases/Notion/notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb|notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb]]'
 source_type: notion_changelog
 theme: collaboration
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2021-06-15 · Descript · [[Changes/Descript/2021-06-15-we-ve-improved-the-comments-feature-so-that-when-you-type-you-will-now-get-a-lis|Improved Comments for Drive Members]]
+- Earlier: 2021-07-13 · Raycast · [[Changes/Raycast/2021-07-13-linear-add-support-for-the-new-issue-triage-set-the-triage-status-in-the-create|Linear: Add support for the new Issue Triage]]
 - Later: 2021-07-27 · Notion · [[Changes/Notion/2021-07-27-introducing-notion-for-non-profits|Introducing: Notion for non-profits]]
 <!-- chronolog:end -->
 

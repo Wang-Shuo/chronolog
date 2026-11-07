@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 921c372cfdfeba2516bbc771a208c532c8f53d39e1403f1b88e35138fa56bec0
+machine_hash: 12a89c7cb5f27e6f314096f6f5033730f993ad0d2f292bd6ac1a18403f5df60d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F9E9 Batch Multiple Embeddings**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-05-15-a-new-command-is-now-available-ollama-ps-this-command-displays-currently-loaded|A
-  new command is now available: ollama ps]]'
 - '[[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New
   experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]'
+- '[[Changes/Superwhisper/2024-05-22-improved-performance-for-response-rendering-in-recording-window|Improved
+  performance for response rendering in recording window]]'
 - '[[Changes/Dify/2024-05-27-general-fixes-various-bug-fixes-and-improvements-to-enhance-stability-and-perfor|General
   Fixes: Various bug fixes and improvements to enhance stability and performance]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e|open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e]]'

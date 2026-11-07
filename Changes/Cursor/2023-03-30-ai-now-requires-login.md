@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf6b6887d707e02443b29e388633fd59282dd7ac7922eea5f38bf7b54bde177b
+machine_hash: 903a63f965852cdb9a2c0d1a772c65cc0122c943f7bce836399dbcf17d069c50
 product: cursor
 product_name: Cursor
 record:
@@ -40,7 +40,8 @@ record:
   title: AI now requires login
   type: change
 related_changes:
-- '[[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]'
+- '[[Changes/Raycast/2021-08-25-improve-on-login-start-performance|Improve on-login
+  start performance]]'
 - '[[Changes/Notion/2022-06-29-synced-databases-now-in-open-beta|Synced Databases,
   now in open beta]]'
 - '[[Changes/Notion/2022-08-11-improved-reliability-of-sign-in-with-apple-on-ios|Improved

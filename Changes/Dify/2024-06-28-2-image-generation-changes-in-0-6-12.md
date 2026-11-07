@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf6033074795e4eb06a998f4f0e216e92c00880bc935f90f32d206cce35a4ee2
+machine_hash: bc1b01966897df1d5ed10ddb907f6fe58f56b83302550b696be5a9d213b2c368
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Image Generation changes in 0.6.12
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
-  Image Generation Compatibility Issue]]"
 - "[[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|\U0001F5BC️
   Customize Images (Pro and Premier)]]"
 - '[[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI
   image improvements]]'
+- '[[Changes/Raycast/2024-06-06-2-image-generation-changes-in-raycast-macos-v1-1-76-0|2
+  Image Generation changes in Raycast macos-v1 1.76.0]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
 source_type: github_releases
 theme: image-generation
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-06-05 · Gamma · [[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI image improvements]]
+- Earlier: 2024-06-06 · Raycast · [[Changes/Raycast/2024-06-06-2-image-generation-changes-in-raycast-macos-v1-1-76-0|2 Image Generation changes in Raycast macos-v1 1.76.0]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-comfyui-flux-image-generation-added-support-for-the-new-flux-image-gen-model-int|🕹️ ComfyUI Flux Image Generation]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c98d800a66da42b0fe5d29865ee2e46cc07448778e866e6c7b44d5b2de16d5fd
+machine_hash: d4a8385b28ae1535c13f56483078ff0394849dbf4cd340c8953908901142afba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '[#3217] Added logic to cancel pending oauth login to free up localhost port'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access
-  changes in 1.8.1]]'
+- '[[Changes/Raycast/2025-09-03-login-integrated-single-sign-on-authentication|Login:
+  Integrated single sign-on authentication]]'
 - '[[Changes/Gemini CLI/2025-09-04-feat-mcp-add-odic-fallback-to-oauth-metadata-look-up-by-xiaoheh-in-https-github|feat(mcp):
   Add ODIC fallback to OAuth metadata look up]]'
 - '[[Changes/Codex CLI/2025-09-05-3-account-and-access-changes-in-rust-v0-30-0|3 Account

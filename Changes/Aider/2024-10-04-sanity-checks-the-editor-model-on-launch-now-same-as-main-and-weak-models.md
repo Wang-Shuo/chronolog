@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9fe0716dee74304cc5f18166a8bd861cf09e8712758a6595dc2a4e8d73efe419
+machine_hash: a6c437043ca6ca0bfd79b00d2bd9805b8819f4da683f4c2af150801788bb9cad
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,12 @@ record:
   title: Sanity checks the `--editor-model` on launch now, same as main and weak models
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-36-model-support-changes-in-0-9-0|36 Model Support changes
-  in 0.9.0]]'
 - '[[Changes/Dify/2024-09-30-stream-for-gemini-now-available-aaee86-in-8678-https-github-com-langgenius-dify|Stream
   for Gemini now available…]]'
 - '[[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
   1.5 Pro in Gemini Advanced just became more capable]]'
+- '[[Changes/AnythingLLM/2024-10-03-2-model-support-changes-in-v1-2-3|2 Model Support
+  changes in v1.2.3]]'
 source_release: '[[Releases/Aider/aider-2024-10-04-v0-59-0-github-178490526-875f6306|aider-2024-10-04-v0-59-0-github-178490526-875f6306]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-10-02 · Gemini · [[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini 1.5 Pro in Gemini Advanced just became more capable]]
+- Earlier: 2024-10-03 · AnythingLLM · [[Changes/AnythingLLM/2024-10-03-2-model-support-changes-in-v1-2-3|2 Model Support changes in v1.2.3]]
 - Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-3-model-support-changes-in-v0-3-31|3 Model Support changes in v0.3.31]]
 <!-- chronolog:end -->
 

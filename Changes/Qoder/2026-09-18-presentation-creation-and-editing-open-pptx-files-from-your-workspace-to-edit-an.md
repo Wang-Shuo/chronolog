@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16992f7f00e2b5ba5b3d65cab7aab07fb641c06670c89399d61ce8b6493cac69
+machine_hash: 251d0e0a17fac81004e41fc50ae783b776c3a5851079d127b7e054e9d5ffeda1
 product: qoder
 product_name: Qoder
 record:

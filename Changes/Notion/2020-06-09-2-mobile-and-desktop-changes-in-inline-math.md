@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 449ac985e8f1496a6a1a0203b80b24155dba8b48668a1ed9841b43097579ff66
+machine_hash: eca30338d761f51b9e22c5d8d1b89fd0e54485fb4f0759d4e15cc410b58be0a2
 product: notion
 product_name: Notion
 record:
@@ -88,7 +88,7 @@ Source: https://www.notion.com/releases/2020-06-09
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2020-05-28 · Notion · [[Changes/Notion/2020-05-28-better-emoji-support-on-windows-and-android-we-used-to-rely-on-your-system-font|Better emoji support on Windows and Android 🙈 We used to rely on your system font…]]
-- Later: 2020-09-02 · Notion · [[Changes/Notion/2020-09-02-reduced-vibration-intensity-for-haptic-feedback-on-android-and-disabled-vibratio|Reduced vibration intensity for haptic feedback on Android, and disabled vibration…]]
+- Later: 2020-08-03 · Raycast · [[Changes/Raycast/2020-08-03-system-commands|System Commands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

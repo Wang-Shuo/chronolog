@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fe030569c5adcdfc4e02c9416e3edcfb8fa4155e69b779f9b6deaf97dd4abd7b
+machine_hash: 1654da71fe27fe023d74ee87b6714b824613b9d7cab9871110498f70446fa27f
 product: lovable
 product_name: Lovable
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience changes in 1.17.1]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]]
+- Later: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-home-tap-the-selected-tab-again-to-quickly-scroll-back-to-the-top|Home: Tap the selected tab again to quickly scroll back to the top]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

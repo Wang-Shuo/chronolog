@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c2d161d5eae8af05dfad5bb2ec74f56d44fe35f2ee952836d8762c02bb14f20
+machine_hash: 2d6a91c5cc00875b720f82f3c11d911d19be0279d41bcbbe443d6ee99ea3699a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added preview (temporary) tabs to the auxiliary pane, allowing files to open…]]
-- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-redesign-overview-experience-in-copilot-notebooks-in-onenote-windows-mac-web-one|Redesign Overview experience in Copilot notebooks in OneNote Windows, Mac, Web (OneNote)]]
+- Later: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-word-level-diff-highlights|Word-Level Diff Highlights]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

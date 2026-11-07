@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c678b63099889bf4d60bc46326e4eaa742a8171b983fd2a6149b203fbdca31e
+machine_hash: 746ef3e1919ad8418ab161ed802bd5f3509fb958a31b052faa8926bdfbe01153
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,9 +46,10 @@ record:
   title: "\U0001F9E9 **OpenAI-Compatible Embeddings Endpoint**"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-sdks|SDKs]]'
 - '[[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If
   you have feedback, please create an issue on GitHub with the app label]]'
+- '[[Changes/AnythingLLM/2025-06-10-3-apps-and-integrations-changes-in-v1-8-2|3 Apps
+  and Integrations changes in v1.8.2]]'
 - '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
   collapsible MCP response panels to keep conversations focused on the main AI…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'
@@ -91,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add collapsible MCP response panels to keep conversations focused on the main AI…]]
-- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations changes in 1.4.2]]
+- Later: 2025-06-11 · Devin · [[Changes/Devin/2025-06-11-devin-can-now-open-prs-using-your-github-username|Devin can now open PRs using your GitHub username]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

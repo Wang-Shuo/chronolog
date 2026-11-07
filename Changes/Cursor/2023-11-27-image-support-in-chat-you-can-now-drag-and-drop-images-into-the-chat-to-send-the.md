@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ec772008615d0c5060b9108a1e1851a5a780a04d3610eff16b6c3112655d3813
+machine_hash: 208a19e24c44af2ccfd67093793ab2e50d34e473035f95b5277eb7669a3927bf
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2023-11-21 · Gemini · [[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding Bard’s understanding of YouTube videos]]
-- Later: 2023-11-30 · Descript · [[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New AI Action: Find Good Clips]]
+- Later: 2023-11-29 · Raycast · [[Changes/Raycast/2023-11-29-camera-preview|Camera Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

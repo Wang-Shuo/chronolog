@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 979c162ebf9339c43949abbd92109e9a15e970babcb19d28fa51f7893d29652b
+machine_hash: d577c4d07a85ef740acdd61b9494dd70d81049ec82d59099f1e9c7a3215ec4c1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
-  sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/Superwhisper/2026-09-04-lower-memory-use-during-long-recordings|Lower
+  memory use during long recordings]]'
 - '[[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21
   Memory and Personalization changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10

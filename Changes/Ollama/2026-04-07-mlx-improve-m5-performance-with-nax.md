@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdb44932417cc01e7cf191adf4d20d85f3fa2cd40ded425ef49f42cb1b0559ee
+machine_hash: d974dfb93db02d719b13cf3cebacc1cf7f10f8eb99ecbc0cef86c36ecb27140c
 product: ollama
 product_name: Ollama
 record:
@@ -40,7 +40,7 @@ record:
   title: 'mlx: Improve M5 performance with NAX'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]'
+- '[[Changes/Devin/2026-04-03-smarter-codebase-search|Smarter Codebase Search]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce memory usage by automatically shutting down shell sessions that are no longer…]]
-- Later: 2026-04-08 · HeyGen · [[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-faster-syntax-highlighting|Faster Syntax Highlighting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

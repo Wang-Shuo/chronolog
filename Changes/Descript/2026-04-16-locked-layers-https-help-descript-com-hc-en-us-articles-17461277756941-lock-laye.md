@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c688121fd19fef3e986ced029211cb3fa0e39971835eb1864d47e0006615dd8
+machine_hash: 774f6f48825048e260a3fb899d7c10d95c17fcde0579ecd086b239ee3581e5d1
 product: descript
 product_name: Descript
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
-- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-text-to-dialogue|Text to Dialogue]]
+- Later: 2026-04-17 · LM Studio · [[Changes/LM Studio/2026-04-17-improved-style-in-chat-pdf-exports|Improved style in chat PDF exports]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

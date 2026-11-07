@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f10b66dab1bceb09b69575fe781a2da97b7e24f4dd2534b97217a5761c97c0b
+machine_hash: 8a943e381b1261c688347e1489ff9faed3895db0f5ba919e1ce61fe180005bfd
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Reliability and Performance changes in v1.13.6
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
-  Fix instance disposal to prevent memory leaks and dangling references]]'
 - '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
   and Performance changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
   with large conversation history load faster on startup]]'
+- '[[Changes/LM Studio/2026-01-13-mac-m5-enable-auto-upgrade-to-mlx-nax-engine-to-fix-mlx-model-crashes-and-improv|MacM5
+  Enable auto-upgrade to MLX NAX engine to fix MLX model crashes and improve…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-13-v1-13-6-e1532028|windsurf-2026-01-13-v1-13-6-e1532028]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -80,7 +80,7 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions with large conversation history load faster on startup]]
+- Earlier: 2026-01-13 · LM Studio · [[Changes/LM Studio/2026-01-13-mac-m5-enable-auto-upgrade-to-mlx-nax-engine-to-fix-mlx-model-crashes-and-improv|MacM5 Enable auto-upgrade to MLX NAX engine to fix MLX model crashes and improve…]]
 - Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
 <!-- chronolog:end -->
 

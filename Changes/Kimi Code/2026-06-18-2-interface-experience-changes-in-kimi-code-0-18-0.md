@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a15e0a25d5c02215a8159959df486bd60394f2f6828e06e0de933fa9af5b882c
+machine_hash: c651a025ec93386407ee093678634af46b6202c614d33919585511a0192c6511
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in Kimi Code 0.18.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A
-  new Scheduled page, discoverable in the sidebar, gives users one place to view…]]'
-- '[[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved
-  streaming of long paragraphs]]'
+- '[[Changes/Devin/2026-06-17-sidebar-unpin-remove-from-folder-quick-actions|Sidebar:
+  Unpin & Remove-from-Folder Quick Actions]]'
+- '[[Changes/Devin/2026-06-17-ask-devin-repos-picker-scoped-to-search-repos|Ask Devin:
+  @repos Picker Scoped to Search Repos]]'
 - '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier
   pinning and sidebar organization]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-18-0-18-0-63c4290a|kimi-code-2026-06-18-0-18-0-63c4290a]]'
@@ -87,7 +87,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
-- Later: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added /config --help to list all available shorthand keys for /config key=value]]
+- Later: 2026-06-18 · Raycast · [[Changes/Raycast/2026-06-18-2-interface-experience-changes-in-raycast-macos-0-65|2 Interface Experience changes in Raycast macos 0.65]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

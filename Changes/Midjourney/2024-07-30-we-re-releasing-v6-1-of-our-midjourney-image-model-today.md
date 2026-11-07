@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ac74e5de76173085a7aa7e09dcfe90f739db79caa8450aef9b8c2b5cee47657c
+machine_hash: 9a2511064484dcf54aa6cad8bdbed3ac667aded4fa2ef251cd0470e51ef42950
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,8 @@ record:
   title: we’re releasing V6.1 of our Midjourney Image Model today!
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
-  in v0.3.0]]'
+- '[[Changes/AnythingLLM/2024-07-26-47-model-support-changes-in-v1-0-0|47 Model Support
+  changes in v1.0.0]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
 - '[[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]'

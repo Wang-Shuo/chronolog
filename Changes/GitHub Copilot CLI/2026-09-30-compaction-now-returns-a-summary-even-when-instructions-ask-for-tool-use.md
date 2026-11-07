@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8c9c6e209ba136e9fd1bdf1891c93778513cda6dd80e4fabd1e4341524f964e
+machine_hash: 5ef5f1c7e76a534b2d4d7f9b8492b54e2fa2495afe22d12f42dcf0bbc06a4237
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Compaction now returns a summary even when instructions ask for tool use
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-4-context-window-changes-in-rust-v0-159-0|4 Context
-  Window changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
   the model fallback notice and the autocompact-thrashing error to say…]]'
 - '[[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning
   tokens are no longer counted twice in token usage]]'
+- '[[Changes/Devin/2026-09-30-oncall-lists-and-settings|Oncall Lists and Settings]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-30 · Cline · [[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning tokens are no longer counted twice in token usage]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-oncall-lists-and-settings|Oncall Lists and Settings]]
 - Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window changes in v2026.9.7]]
 <!-- chronolog:end -->
 

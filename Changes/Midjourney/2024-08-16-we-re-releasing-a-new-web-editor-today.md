@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6aeed2825ca899a10aaa91842e0e5e38ec923dcf0b0473b5310b965f56a0facc
+machine_hash: ba85f4481639c6ba2fc97451cbfda1d141a3bf2c3c550cc0630adf0f00bde96a
 product: midjourney
 product_name: Midjourney
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|🗑️ Deprecated Frontend Functions]]
-- Later: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience changes in 0.7.1]]
+- Later: 2024-08-19 · AnythingLLM · [[Changes/AnythingLLM/2024-08-19-slash-commands-edit-bug-fix-by-shatfield4-in-https-github-com-mintplex-labs-anyt|Slash commands edit bug fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

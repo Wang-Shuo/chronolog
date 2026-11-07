@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 598ef3223edcdb7a6e276cef7afebffd538cbdf31f38d821787d616c16a895e5
+machine_hash: eb05de2c143f2022d04057dd2e88337863c89f400d91736e18dd464aed8d35a0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
-  Workflow changes in v2.1.81]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
   Developer Workflow changes in v1.0.10]]'
+- '[[Changes/Raycast/2026-03-20-misc-access-command-details-from-search-home|Misc:
+  Access command details from search/home]]'
 - '[[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer
   Workflow changes in v1.3.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.11
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer Workflow changes in v1.3.0]]
-- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills): improve async-pr-review workflow and logging]]
+- Later: 2026-03-24 · Devin · [[Changes/Devin/2026-03-24-streaming-shell-output-in-worklog|Streaming Shell Output in Worklog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

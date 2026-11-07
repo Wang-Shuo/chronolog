@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7db44a9bd5f7d622e6621639597e8098390d4a80eb6034724864ad4c3df6ccc
+machine_hash: 249a076c84ac4844d897435559fd27d6dc6fbfb70ab10dbac0d526afabaa603d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 8 Apps and Integrations changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask
-  /btw side questions about photos attached to the current message when using…]]'
-- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
-  Apps and Integrations changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-personal-mcp-servers-are-private|Personal MCP Servers
+  Are Private]]'
+- '[[Changes/Devin/2026-09-21-devin-can-manage-org-and-enterprise-plugins|Devin Can
+  Manage Org and Enterprise Plugins]]'
 - '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases

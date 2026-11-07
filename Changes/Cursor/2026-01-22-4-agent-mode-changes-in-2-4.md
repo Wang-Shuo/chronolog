@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b47c15ee7499fb36787b7f9b93e37bbac877bed05dd0e8e55708e65104e540e
+machine_hash: 4517c62c7dd2beab140e311755cdf89d7920a2561267c977a5883c57668bc505
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Agent Mode changes in 2.4
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-21-added-ai-sdk-v6-support-for-agents|Added AI SDK v6 support
-  for agents]]'
+- '[[Changes/AnythingLLM/2026-01-22-4-agent-mode-changes-in-v1-10-0|4 Agent Mode changes
+  in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai|♯9650
   chore: tweak AGENTS.md @dylan-hurd-oai]]'
 - '[[Changes/Cursor/2026-01-22-skills|Skills]]'

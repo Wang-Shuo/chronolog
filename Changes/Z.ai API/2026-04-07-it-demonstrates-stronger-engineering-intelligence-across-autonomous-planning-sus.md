@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8e0fb548bda0f629db606b0d8a369503c8c22828c5a7ef9392487538f920fe19
+machine_hash: da0f79198cc804a6bb4c93394e028e788b382d4ace4fc4993eb74ebf65a136a2
 product: zai-api
 product_name: Z.ai API
 record:

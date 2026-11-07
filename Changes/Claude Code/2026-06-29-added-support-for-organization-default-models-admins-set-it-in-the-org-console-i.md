@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 401588d9d697510dfea8a4c1a91ec27ab04db448a5b8cc5bd995a88ef332ae44
+machine_hash: 17ff0d9583e41b4d211dee5afcb64e5e098b332c4e023455d15a931cc7a461ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Added support for organization default models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
-  GPT-4.5]]'
-- '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
-  in v4.0.0]]'
+- '[[Changes/LM Studio/2026-06-26-4-model-support-changes-in-lm-studio-0-4-17|4 Model
+  Support changes in LM Studio 0.4.17]]'
 - '[[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A
   saved model selection no longer briefly flips to a default while the page loads]]'
+- '[[Changes/LM Studio/2026-06-27-added-guidance-in-model-settings-for-llama-cpp-options-that-move-when-lm-studio|Added
+  guidance in model settings for llama.cpp options that move when LM Studio…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: model-support
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A saved model selection no longer briefly flips to a default while the page loads]]
+- Earlier: 2026-06-27 · LM Studio · [[Changes/LM Studio/2026-06-27-added-guidance-in-model-settings-for-llama-cpp-options-that-move-when-lm-studio|Added guidance in model settings for llama.cpp options that move when LM Studio…]]
 - Later: 2026-06-29 · Cline · [[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes in v4.0.2]]
 <!-- chronolog:end -->
 

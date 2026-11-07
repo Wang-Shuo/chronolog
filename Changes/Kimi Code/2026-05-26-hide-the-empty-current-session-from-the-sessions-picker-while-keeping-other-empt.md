@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53c78099825845b7e2ebeed950a01c160fd901a3ca742030361e500e88530263
+machine_hash: 1c37847f710e41f5d5e6837a765618c57f987ddfbbe4cd8ea5d2923adf92f845
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -43,8 +43,8 @@ record:
     empty…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
-  Keep the spinner color aligned with the active agent]]'
+- '[[Changes/Superwhisper/2026-05-22-mode-change-keyboard-shortcut-helper-at-bottom-of-modes-list|Mode
+  change keyboard shortcut helper at bottom of modes list]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
   Interface Experience changes in v1.0.52]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 12ebe3374aa81c04376fa679cbaac103087731e9a8cc7d08975db0045e000fdc
+machine_hash: 403d569006624d9aa729de3b2112ce2a6bc042b39aeeb990544ba02490b36497
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,11 @@ record:
   title: Find, buy, and connect a domain from chat
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-record-who-is-behind-each-commit-lovable-pushes|Record
-  who is behind each commit Lovable pushes]]'
-- '[[Changes/Lovable/2026-08-26-workspace-build-secrets-appear-in-your-project-s-secrets-list|Workspace
-  build secrets appear in your project''s secrets list]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
   Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/Krea/2026-08-27-workspace-usage-api|Workspace usage API]]'
+- '[[Changes/Wispr Flow/2026-08-28-for-teams-enterprise-desktop|For Teams & Enterprise:
+  (Desktop)]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-01-2026-09-01-13cb07e2|lovable-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
+- Earlier: 2026-08-28 · Wispr Flow · [[Changes/Wispr Flow/2026-08-28-for-teams-enterprise-desktop|For Teams & Enterprise: (Desktop)]]
 - Later: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your workspace adopts Lovable]]
 <!-- chronolog:end -->
 

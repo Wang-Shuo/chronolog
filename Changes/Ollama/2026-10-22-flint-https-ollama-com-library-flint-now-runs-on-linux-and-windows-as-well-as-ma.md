@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86b38380f495b2e0fc53743685ba8210df5c8f225fbdf8079c7bcffed1545b0f
+machine_hash: e5a76f767ee31ad365a273f769dfdb692e823608dff87c38b7fd031a730ac810
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
     as well as macOS'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
-  and Desktop changes in v1.29.0]]'
+- '[[Changes/Superwhisper/2026-10-20-traffic-light-buttons-now-match-native-spacing-and-shape-across-all-macos-versio|Traffic
+  light buttons now match native spacing and shape across all macOS versions]]'
 - '[[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note:
   Flint is supported on MacOS]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a4377262b99baa9ea7e4bfe0811c64a6cec873790000ebaab44b5f63385ede7
+machine_hash: 0bcf5b2597665b55c11f93f42956b55073299adc3ecb63a03122fee07702afe7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     haven't…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-07-feat-show-per-run-llm-cost-in-the-activity-log-and-exports-by-hieptl-in-https-gi|feat:
-  show per-run LLM cost in the Activity Log and exports]]'
-- '[[Changes/Cline/2026-08-09-retry-network-interruptions-that-happen-mid-stream-but-before-any-model-output-i|Retry
-  network interruptions that happen mid-stream but before any model output…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model
   Support changes in v1.0.79]]'
+- '[[Changes/Superwhisper/2026-08-10-2-model-support-changes-in-superwhisper-ios-2-20|2
+  Model Support changes in Superwhisper iOS 2.20]]'
+- '[[Changes/Superwhisper/2026-08-10-3-model-support-changes-in-superwhisper-windows-1-5-10|3
+  Model Support changes in Superwhisper Windows 1.5.10]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model Support changes in v1.0.79]]
+- Earlier: 2026-08-10 · Superwhisper · [[Changes/Superwhisper/2026-08-10-3-model-support-changes-in-superwhisper-windows-1-5-10|3 Model Support changes in Superwhisper Windows 1.5.10]]
 - Later: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes in v4.1.8]]
 <!-- chronolog:end -->
 

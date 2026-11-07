@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b9c96088a996a8ef659bcf55c49dc300187f5d3ce606a94da7ea7b62f246bf7
+machine_hash: 697565c68c3631974e2b8ae8ac26c338df55ff34bbba02a388b4115e5d118e29
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,7 @@ record:
   title: Add MiniMax M3 model support
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model
-  Support changes in Kimi Code 0.7.0]]'
+- '[[Changes/Krea/2026-06-02-krea-2-on-artificial-analysis|Krea 2 on Artificial Analysis]]'
 - '[[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use
   Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]'
 - '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support

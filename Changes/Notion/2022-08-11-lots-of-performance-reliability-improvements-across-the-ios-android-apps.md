@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dae9e85b5b6052c69d14ba31f90deb49b6d089d2345eaf0372a1eb6a769daed
+machine_hash: 8e1933abc0b9d517b292eb3b12dc7a3e1dca6f64c231c6edf0d07622bdd30335
 product: notion
 product_name: Notion
 record:
@@ -42,12 +42,12 @@ record:
   title: Lots of performance & reliability improvements across the iOS & Android apps
   type: change
 related_changes:
-- '[[Changes/Notion/2022-03-15-deeply-nested-sub-pages-load-50-faster|Deeply nested
-  sub-pages load 50% faster]]'
-- '[[Changes/Notion/2022-04-14-if-you-think-of-notion-like-a-kitchen-our-engineers-are-constantly-cooking-up-ne|If
-  you think of Notion like a kitchen, our engineers are constantly cooking up new…]]'
 - '[[Changes/Notion/2022-04-14-large-databases-load-2-5-faster|Large databases load
   2.5× faster]]'
+- '[[Changes/Raycast/2022-05-18-various-optimizations-that-should-improve-the-app-s-cold-start-time-reduce-the-a|Various
+  optimizations that should improve the app’s cold start time, reduce…]]'
+- '[[Changes/Raycast/2022-06-29-you-can-now-opt-in-to-create-a-quicklink-even-faster-as-we-automatically-fill-th|Opt-in
+  to create a Quicklink even faster as we automatically fill the form based…]]'
 source_release: '[[Releases/Notion/notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72|notion-2022-08-11-https-www-notion-com-releases-2022-08-11-ccc8ec72]]'
 source_type: notion_changelog
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-large-databases-load-2-5-faster|Large databases load 2.5× faster]]
-- Later: 2022-11-12 · Descript · [[Changes/Descript/2022-11-12-note-windows-7-reached-end-of-life-status-eol-unsupported-by-microsoft-on-januar|Note: Windows 7 reached "end of life" status (EOL / unsupported) by Microsoft…]]
+- Earlier: 2022-06-29 · Raycast · [[Changes/Raycast/2022-06-29-you-can-now-opt-in-to-create-a-quicklink-even-faster-as-we-automatically-fill-th|Opt-in to create a Quicklink even faster as we automatically fill the form based…]]
+- Later: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-improved-calculator|Improved Calculator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

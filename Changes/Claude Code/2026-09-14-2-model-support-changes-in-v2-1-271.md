@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27e8845e392e81cfdc523061ab3dd856a62162d3dd1c688ac34c733ff2df1b94
+machine_hash: 21a503f676c06563348a6e935b4108664e05dd32a1870ad0054638fcb3713c30
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
-- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
-  changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-bring-your-own-subscriptions-85a1bb|Bring Your Own
+  Subscriptions]]'
+- '[[Changes/Raycast/2026-09-11-4-model-support-changes-in-raycast-macos-2-3|4 Model
+  Support changes in Raycast macos 2.3]]'
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

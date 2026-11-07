@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64c7840bdf40e76cc6bda8de8fd8d8cee83b4e6cb28388fc20d539819d3a4341
+machine_hash: 554fbf32fedec3b903acdd965f4b8eda616ac18c3d196e813820274b2b2258b0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -78,12 +78,12 @@ record:
   title: 8 Interface Experience changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop
-  Added a macOS Settings menu entry]]'
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
+- '[[Changes/Raycast/2026-05-08-2-interface-experience-changes-in-raycast-macos-0-57|2
+  Interface Experience changes in Raycast macos 0.57]]'
+- '[[Changes/Raycast/2026-05-08-ability-to-make-more-tweaks-to-an-an-existing-hotkey-at-any-point-just-by-reopen|Ability
+  to make more tweaks to an an existing hotkey at any point just by reopening…]]'
+- '[[Changes/Raycast/2026-05-08-subtle-suggestions-of-hotkey-types-to-record|Subtle
+  suggestions of hotkey types to record]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
 source_type: github_releases
 theme: interface-experience
@@ -141,7 +141,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
+- Earlier: 2026-05-08 · Raycast · [[Changes/Raycast/2026-05-08-subtle-suggestions-of-hotkey-types-to-record|Subtle suggestions of hotkey types to record]]
 - Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface Experience changes in v1.14.44 + 2]]
 <!-- chronolog:end -->
 

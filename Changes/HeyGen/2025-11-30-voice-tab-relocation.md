@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b902af40554ae9e64907b8636d9995e346fab2c12605da2f4b3c4733e48f8e59
+machine_hash: 161f85ccc9c60e351d2623f8fc9904e6b433b679e2beb8194b3be0b5ae18b614
 product: heygen
 product_name: HeyGen
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-11-29 · HeyGen · [[Changes/HeyGen/2025-11-29-precision-mode-is-our-best-in-class-translation-engine-built-for-when-accuracy-m|Precision Mode is our best-in-class translation engine, built for when accuracy…]]
-- Later: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-lip-sync-for-translated-videos|Lip sync for translated videos]]
+- Later: 2025-12-01 · Superwhisper · [[Changes/Superwhisper/2025-12-01-3-voice-and-audio-changes-in-superwhisper-windows-1-0-2|3 Voice and Audio changes in Superwhisper Windows 1.0.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

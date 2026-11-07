@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bee10059e8c5e52b8bdb5151fa946bf4c5b3c9e3fcdb78020d3c256b807a21cc
+machine_hash: 7c4dbb86f3438db6db01f7a9cdcd4f2d06a9d14eae6d4bef788b9e1983060247
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758 feat: include available decisions in command approval requests @bolinfest]]
-- Later: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate commit message from staged changes only when staging exists]]
+- Later: 2026-02-26 · Raycast · [[Changes/Raycast/2026-02-26-2-developer-workflow-changes-in-raycast-windows-0-47|2 Developer Workflow changes in Raycast windows 0.47]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

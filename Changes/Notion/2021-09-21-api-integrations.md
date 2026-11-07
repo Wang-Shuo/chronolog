@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2984be148786d17870a46e2ceffb124653424ab17095f01060476249b0e9a927
+machine_hash: 056e5ec6b4e6940773fe414573600e79c6c85b5f4155ca41217bfb325bb9b411
 product: notion
 product_name: Notion
 record:
@@ -54,12 +54,12 @@ record:
   title: API integrations
   type: change
 related_changes:
-- '[[Changes/Notion/2021-07-27-better-access-management-for-your-api-integrations|Better
-  access management for your API integrations]]'
-- '[[Changes/Notion/2021-07-27-new-api-integrations-with-neeva-n8n|New API integrations
-  with Neeva & n8n]]'
 - '[[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration
   with Tactiq]]'
+- '[[Changes/Raycast/2021-08-25-disabled-apps-and-quicklinks-will-now-be-hidden-as-expected-when-you-turn-on-the|Disabled
+  apps and quicklinks will now be hidden as expected when you turn…]]'
+- '[[Changes/Raycast/2021-09-10-2-apps-and-integrations-changes-in-raycast-macos-v1-1-23-0|2
+  Apps and Integrations changes in Raycast macos-v1 1.23.0]]'
 source_release: '[[Releases/Notion/notion-2021-09-21-https-www-notion-com-releases-2021-09-21-529023d6|notion-2021-09-21-https-www-notion-com-releases-2021-09-21-529023d6]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-08-24 · Notion · [[Changes/Notion/2021-08-24-new-api-integration-with-tactiq|New API integration with Tactiq]]
+- Earlier: 2021-09-10 · Raycast · [[Changes/Raycast/2021-09-10-2-apps-and-integrations-changes-in-raycast-macos-v1-1-23-0|2 Apps and Integrations changes in Raycast macos-v1 1.23.0]]
 - Later: 2021-10-07 · Descript · [[Changes/Descript/2021-10-07-we-ve-added-a-new-publishing-integration-https-help-descript-com-hc-en-us-articl|Descript adds a new publishing…]]
 <!-- chronolog:end -->
 

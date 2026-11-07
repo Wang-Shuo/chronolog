@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d304e7d80ae8b1650f52af4eb3a4d969994ddb226ffaf801343db26eed7709e
+machine_hash: 5ad94011a1e743b0a3d98b65f291e1341273356156e5286a49a5796ae758692c
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,9 @@ record:
   title: Ollama on Apple silicon [is now built](https://ollama.com/blog/mlx) on top…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core
-  Skip snapshotting files larger than 2MB to improve performance]]'
-- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
-  local SSE event streaming in worker for improved performance]]'
+- '[[Changes/Devin/2026-03-27-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
+- '[[Changes/Devin/2026-03-27-test-recording-viewer|Test Recording Viewer]]'
 - '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
   and Performance changes in 1.13.3]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-27-v0-19-0-github-302442479-29abac08|ollama-2026-03-27-v0-19-0-github-302442479-29abac08]]'
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability and Performance changes in 1.13.3]]
-- Later: 2026-03-27 · Replit · [[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]
+- Later: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-file-search-using-a-new-indexing-engine-for-faster-search-results-and-more-filte|File Search: Using a new indexing engine for faster search results and more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

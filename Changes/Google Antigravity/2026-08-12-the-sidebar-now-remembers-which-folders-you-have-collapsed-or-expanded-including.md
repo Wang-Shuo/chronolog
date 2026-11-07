@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a03914ff4f614b126afd65f93b65ab51fb608ce1d21af6e445c856f7c8fbe04
+machine_hash: 7c83de71613337e17a11aa16b07989aff5810374b83faffec63c23ba42ea2f28
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -48,12 +48,12 @@ record:
   title: The sidebar now remembers which folders you have collapsed or expanded, including…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
-  the auto-approve menu the single source of truth for unattended runs and remove…]]'
 - '[[Changes/Google Antigravity/2026-08-11-6-interface-experience-changes-in-hub-v2-7-1-reliability-performance|6
   Interface Experience changes in HUB v2.7.1 — Reliability, Performance…]]'
 - '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
   Added session groups in the sidebar]]'
+- '[[Changes/Devin/2026-08-12-sidebar-organization-improvements|Sidebar Organization
+  Improvements]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-12-rel-hub-2-8-0-d6fba20e|google-antigravity-2026-08-12-rel-hub-2-8-0-d6fba20e]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
+- Earlier: 2026-08-12 · Devin · [[Changes/Devin/2026-08-12-sidebar-organization-improvements|Sidebar Organization Improvements]]
 - Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2 Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]
 <!-- chronolog:end -->
 

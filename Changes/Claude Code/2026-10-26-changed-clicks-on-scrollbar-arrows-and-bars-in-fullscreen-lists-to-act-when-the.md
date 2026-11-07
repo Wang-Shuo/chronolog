@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5ca48556fac989deb922838283e975405302b4c44c7bf1b325223eb0c6f9691
+machine_hash: 26099a44dd33925ff27768f92209beda1b00d8b2ee3822c83dd88f5ceb21f02d
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface Experience changes in v0.12.4]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript downloads: The dubbing project menu can download target language…]]
+- Later: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-transcript-and-composer-refinements|Transcript and Composer Refinements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

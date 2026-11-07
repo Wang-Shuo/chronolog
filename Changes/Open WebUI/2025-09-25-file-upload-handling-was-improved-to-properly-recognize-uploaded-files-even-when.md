@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 581951ea98ae1ebdf79e8daa4204993c14fa7a54b39b81e690555c6eb2b96140
+machine_hash: f87ef901f3eb7c02eb86c21373e7a3762c7a44efb140c1e69f94a281b7cc39b4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
     files even…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-09-09-unicode-filename-support-is-improved-for-external-document-loaders-by-properly-u|\U0001F4C1
-  Unicode filename support is improved for external document loaders by properly…]]"
 - '[[Changes/Open WebUI/2025-09-17-3-files-and-data-changes-in-v0-6-29|3 Files and
   Data changes in v0.6.29]]'
 - '[[Changes/Dify/2025-09-22-6-files-and-data-changes-in-1-9-0|6 Files and Data changes
   in 1.9.0]]'
+- '[[Changes/Recraft/2025-09-23-we-ve-opened-a-waitlist-for-chat-mode-https-www-recraft-ai-chat-beta-utm-source|Get
+  early access to Chat mode]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'
 source_type: github_releases
 theme: file-data
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-6-files-and-data-changes-in-1-9-0|6 Files and Data changes in 1.9.0]]
+- Earlier: 2025-09-23 · Recraft · [[Changes/Recraft/2025-09-23-we-ve-opened-a-waitlist-for-chat-mode-https-www-recraft-ai-chat-beta-utm-source|Get early access to Chat mode]]
 - Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and Data changes in v0.8.0]]
 <!-- chronolog:end -->
 

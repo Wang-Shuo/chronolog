@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b034fbba10ff25b5b358a200a188492ae8218ea5bf397025fafc87408e931a6e
+machine_hash: 2bfdc9319b4f9d7e0f9dc11029f4100a61ad7a774ef9930e07bd55c0d6b45e2f
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'refactor: create shared react-i18next mock to reduce duplication'
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in
-  info from your projects, teams, and users]]'
+- '[[Changes/Raycast/2025-12-17-keyboard-share-gifs-from-the-keyboard|Keyboard: Share
+  GIFs from the keyboard]]'
 - '[[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221
   Change “Team” to “Buisness” and add Education]]'
 - "[[Changes/Open WebUI/2025-12-21-user-uploaded-images-are-now-automatically-converted-from-base64-to-actual-file|\U0001F5BC️

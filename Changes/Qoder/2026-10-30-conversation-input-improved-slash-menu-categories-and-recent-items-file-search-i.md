@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a72bbdc0cbe4b1e96f601be9d54a9e950ce8385eb274b66bd369696ee689bfd
+machine_hash: 8cf47ceeab75943330212d1d1e90e9eded7c1e41d1a0b6f9426707e459b05276
 product: qoder
 product_name: Qoder
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes: History items for v4 generations keep clone_strength and speed…]]
+- Later: 2026-10-30 · Wispr Flow · [[Changes/Wispr Flow/2026-10-30-faster-summaries-after-longer-meetings-notetaker|Faster summaries after longer meetings (Notetaker)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

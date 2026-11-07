@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c715262b979dc0accd99adf4ef1e5314972d8ca80acf30d45cc32f2671293ebd
+machine_hash: 1b7e7c7980fc5b2a2e22119b1c5653f508ffdf1b7c1eb2bd865129d416b49b4e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice cloning permissions]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
+- Later: 2026-10-26 · Superwhisper · [[Changes/Superwhisper/2026-10-26-security-fixes|Security fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

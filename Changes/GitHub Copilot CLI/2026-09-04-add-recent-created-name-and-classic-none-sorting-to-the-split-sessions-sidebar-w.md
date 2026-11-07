@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f53f43ea73da8ba57e3e2dd724bb572c58df0612a56beab7a1db4b9fb000e82
+machine_hash: 595acfa2f5cc48288dda47640165bce0358e4beb7c5fcc377a2e220bde263854
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     sidebar…
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch
-  tasks archiving]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
   0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
+- '[[Changes/Devin/2026-09-04-lightbox-keyboard-navigation-and-mermaid-diagrams|Lightbox
+  Keyboard Navigation and Mermaid Diagrams]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
+- Earlier: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-lightbox-keyboard-navigation-and-mermaid-diagrams|Lightbox Keyboard Navigation and Mermaid Diagrams]]
 - Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-a-new-home-experience|A new Home experience]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb06e663be1ccccb41cdb96625efad23db7014f2ade7660e334c24f0ae24358f
+machine_hash: 1a19d4927413290497862ec2e252ff724b579d94fec2a885a7ae0120b195a18e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Spinner animation no longer delays visible output from appearing in the timeline
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface
-  Experience changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface
   Experience changes in v0.34.0]]'
+- '[[Changes/AnythingLLM/2026-03-18-3-interface-experience-changes-in-v1-11-2|3 Interface
+  Experience changes in v1.11.2]]'
 - '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
   "Show turn duration" toggle to the /config menu]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512|github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512]]'

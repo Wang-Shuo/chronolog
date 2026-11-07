@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82ce962517c548c3e8e624ec388a7e2c2d70a451710532931ecf46267589a86a
+machine_hash: c9ba6426dd86d5a3e1960d802b839fa11a923e08682c9c79c3e717fc4d49e4ec
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-3-safety-and-privacy-changes-in-v0-6-1|3 Safety and Privacy changes in v0.6.1]]
-- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-5-safety-and-privacy-changes-in-v0-6-3|5 Safety and Privacy changes in v0.6.3]]
+- Later: 2025-04-09 · Raycast · [[Changes/Raycast/2025-04-09-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon Provider: We added a new setting to let you pick your favicon provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

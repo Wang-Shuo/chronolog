@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80ec00519e59d36ea09de824e6f378ade37ec36ff103a9397e6288aa19c4dc9d
+machine_hash: 7937b065fd0dcd5cd7b0fce2d26fc8ee868e4e77974e07b9f2050b4dd9fc1dfc
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Improved GitHub Copilot token handling with better validation and error messages…
   type: change
 related_changes:
-- '[[Changes/Descript/2025-06-25-generate-button-for-avatar-added-to-scene-editor-toolbar|Generate
-  button for Avatar added to Scene editor toolbar]]'
-- '[[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]'
+- '[[Changes/LM Studio/2025-06-25-cmd-shift-e-on-mac-or-ctrl-shift-e-on-pc-always-opens-the-system-prompt-editor-f|Cmd
+  + Shift + E on Mac or Ctrl + Shift + E on PC always opens the system prompt…]]'
 - '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
   also a new dropdown View menu in the upper lefthand side of the screen…]]'
+- '[[Changes/Devin/2025-06-26-git-permissions-ui|Git Permissions UI]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s also a new dropdown View menu in the upper lefthand side of the screen…]]
+- Earlier: 2025-06-26 · Devin · [[Changes/Devin/2025-06-26-git-permissions-ui|Git Permissions UI]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor Experience changes in v0.1.8]]
 <!-- chronolog:end -->
 

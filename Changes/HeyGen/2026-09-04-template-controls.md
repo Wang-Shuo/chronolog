@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5243dab43a0954550a733c06a02573a254d014634a77208fb3b56e60897872ed
+machine_hash: 610cee5da956213d010f5d098a8b680ae2f3ba5e574aeae915496161c9d9d4f2
 product: heygen
 product_name: HeyGen
 record:
@@ -64,12 +64,12 @@ record:
   title: Template controls
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4
-  now supports images and audio on MLX engine]]'
 - '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
   and Audio changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice
   and Audio changes in v2026.9.1]]'
+- '[[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your
+  clipboard contents are now preserved after dictation by default]]'
 source_release: '[[Releases/HeyGen/heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6|heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6]]'
 source_type: heygen_changelog
 theme: voice
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice and Audio changes in v2026.9.1]]
+- Earlier: 2026-09-03 · Superwhisper · [[Changes/Superwhisper/2026-09-03-your-clipboard-contents-are-now-preserved-after-dictation-by-default|Your clipboard contents are now preserved after dictation by default]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice and Audio changes in v2026.9.2]]
 <!-- chronolog:end -->
 

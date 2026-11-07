@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f421266ed885fea611817919017e9c96192d264ef8bd51890e16e9bb0494739
+machine_hash: 915d9dd931fd9e4be5d8e7a0eec83bc0360b2b291fa2c9eb4533830bff2fd842
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'chore: address security alerts on braces escape and KaTeX'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy
-  changes in 0.5.7]]'
+- '[[Changes/Superwhisper/2024-03-13-if-user-has-completed-onboarding-do-not-continue-prompting-for-accessiblity-perm|If
+  user has completed onboarding, do not continue prompting for accessiblity permission]]'
 - "[[Changes/Open WebUI/2024-04-04-security-patches-applied-necessary-security-patches|\U0001F512
   Security Patches: Applied necessary security patches]]"
 - "[[Changes/Open WebUI/2024-04-10-share-chat-permission-resolved-issue-with-chat-sharing-permissions|\U0001F512

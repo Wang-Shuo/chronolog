@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0e63507dd0abc865c3d5102b45f22e413d6584f518dc2800201259a204627d9
+machine_hash: aef79ba56f2fbda8af1a92b500974d2466be7f66b34b8d409a688a8a9275e806
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 10 Apps and Integrations changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
-  Apps and Integrations changes in v2.1.304]]'
+- '[[Changes/Devin/2026-10-19-devin-oncall-is-now-generally-available|Devin Oncall
+  Is Now Generally Available]]'
 - '[[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]'
 - '[[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
@@ -132,7 +132,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-python-sdk|Python SDK]]
-- Later: 2026-10-19 · Lovable · [[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]
+- Later: 2026-10-19 · Krea · [[Changes/Krea/2026-10-19-quote-a-generation-with-mcp-preflight|Quote a generation with MCP preflight]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

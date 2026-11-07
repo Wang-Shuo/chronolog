@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca8604cbb3863d606f8b105d8b1cfda2b6780442d3dfc81a1cd9c9ee1ecc17f1
+machine_hash: 44e5f5355b09d9d629e0f4fdc3ebf01be8b085f9fa9da0d14d6c1d304607dd7e
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Refractor: move image agnostic util to shared runtime util'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A
-  special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]'
 - "[[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|\U0001F4C1
   Files API: Compatible with OpenAI, this feature allows for custom…]]"
 - '[[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add
   links to a feedback sharing site]]'
+- '[[Changes/Raycast/2024-07-03-affiliate-program-you-can-now-earn-30-commission-by-joining-our-affiliate-progra|Affiliate
+  Program: You can now earn 30% commission by joining our Affiliate Program…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-13-0-8-0-github-165308599-8532f458|openhands-2024-07-13-0-8-0-github-165308599-8532f458]]'
 source_type: github_releases
 theme: collaboration
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add links to a feedback sharing site]]
+- Earlier: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-affiliate-program-you-can-now-earn-30-commission-by-joining-our-affiliate-progra|Affiliate Program: You can now earn 30% commission by joining our Affiliate Program…]]
 - Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend: update url for share opendevin trajectory visualization]]
 <!-- chronolog:end -->
 

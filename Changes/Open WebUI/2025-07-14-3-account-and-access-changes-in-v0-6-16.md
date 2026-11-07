@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bffee032870afbb2182a9d6381656eda798924513b8fcc6718436f2afd3a5f0a
+machine_hash: fda623cea4562b8488cd3ae0fbb0cf5b89c7efd139299643e97f66ca408db439
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,10 +56,9 @@ record:
   title: 3 Account and Access changes in v0.6.16
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access
-  changes in 1.5.0]]'
-- '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
-  AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
+- '[[Changes/Raycast/2025-07-02-login-support-for-2fa|Login: Support for 2FA]]'
+- '[[Changes/AnythingLLM/2025-07-09-flag-to-disable-login-ui-and-endpoints-for-credentialed-auth-by-timothycarambat|Flag
+  to disable login UI and endpoints for credentialed auth]]'
 - '[[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add
   NO_BROWSER environment variable to trigger offline oauth flow]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'

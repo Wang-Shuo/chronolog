@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 550d01e79b1a83fcdae3cf6109d3d3820e7a0d1165706f83852ab8461115ab38
+machine_hash: 03b73497900cb31d273300c440b07ea5b8fe637fa131485371958599ddc8e9cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     paths…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
-  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 - '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
   and Onboarding - A clearer path from download to a first useful…]]'
 - '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
   the reliability of installation and updates on Windows]]'
+- '[[Changes/Raycast/2026-08-31-2-mobile-and-desktop-changes-in-raycast-ios-1-3-6|2
+  Mobile and Desktop changes in Raycast ios 1.3.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-31 · Qoder · [[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved the reliability of installation and updates on Windows]]
+- Earlier: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-2-mobile-and-desktop-changes-in-raycast-ios-1-3-6|2 Mobile and Desktop changes in Raycast ios 1.3.6]]
 - Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile and Desktop changes in v2026.8.2]]
 <!-- chronolog:end -->
 

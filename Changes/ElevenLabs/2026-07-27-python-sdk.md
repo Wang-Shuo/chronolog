@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: be6e314eb859c04b829c5bad559d2114a4f944c1629e5bab20b3a2029c3e00d3
+machine_hash: 8303c3e31075f39246dd20e6c0d301c80a44b9a14a2552399a78943202e1eb16
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your
-  avatar still delivers the script in your face and voice, no camera required]]'
+- '[[Changes/Raycast/2026-07-23-3-voice-and-audio-changes-in-raycast-windows-0-70|3
+  Voice and Audio changes in Raycast windows 0.70]]'
 - '[[Changes/Replit/2026-07-24-a-new-way-to-build-from-your-phone|A new way to build
   from your phone]]'
 - '[[Changes/ElevenLabs/2026-07-27-packages|Packages]]'

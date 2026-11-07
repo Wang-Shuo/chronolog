@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cefaadaa9e330ba73ab996dfe63be7f9a2932841e7eea260d6d7bf866f9c1f7
+machine_hash: 6eca472e7a9d9261ce1a73254922b620574bbbeffdb3b45dc40d9ead0dbce92b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     done`)…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
-  Interface Experience changes in rust-v0.132.0]]'
-- '[[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface
-  Experience changes in v1.15.6]]'
+- '[[Changes/Raycast/2026-05-20-6-interface-experience-changes-in-raycast-macos-0-61|6
+  Interface Experience changes in Raycast macos 0.61]]'
+- '[[Changes/Raycast/2026-05-20-introducing-the-quick-fix-command-it-takes-your-selected-text-fixes-spelling-and-dfb3be|Introducing
+  the Quick Fix command]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
   history no longer records consecutive duplicate entries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 57128aa287053b28be6c2bc831bafe3f2a5a92cdec345e1c80e0816858a0893a
+machine_hash: bfbc249443db12949a7bcc4640ebd44fd438dfef4fc2fdfbd365a35f41fcff66
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -41,10 +41,10 @@ record:
   title: Quickly launch the Microsoft 365 Copilot app on your iOS device…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-15-mobile-and-desktop-changes-in-v2026-6-11|15 Mobile
-  and Desktop changes in v2026.6.11]]'
 - '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
   and Desktop changes in v1.17.12]]'
+- '[[Changes/Devin/2026-07-01-cross-platform-repository-cloning|Cross-Platform Repository
+  Cloning]]'
 - '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
   for Android is here!]]'
 source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f|microsoft-365-copilot-2026-07-01-2026-07-01-070e4e1f]]'

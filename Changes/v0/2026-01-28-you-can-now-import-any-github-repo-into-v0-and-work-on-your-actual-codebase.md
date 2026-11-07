@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9679415c969c35f4af8dfa8ab4a3ad5bebcacfe02d8ded0669be921facfdd6f
+machine_hash: f58a760afa81979813fb2319c1161aab1f12841f236bd2ff66ee0735515ca060
 product: v0
 product_name: v0
 record:
@@ -45,10 +45,10 @@ record:
   title: Import any GitHub repo into v0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
-  Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
   now appear in @mention autocomplete]]'
+- '[[Changes/LM Studio/2026-01-28-show-release-notes-in-a-dedicated-tab-after-app-updates|Show
+  release notes in a dedicated tab after app updates]]'
 - '[[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience
   changes in v1.1.37]]'
 source_release: '[[Releases/v0/v0-2026-01-28-2026-01-28-github-import-84bd738b|v0-2026-01-28-2026-01-28-github-import-84bd738b]]'

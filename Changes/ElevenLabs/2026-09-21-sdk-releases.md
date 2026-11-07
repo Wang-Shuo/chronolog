@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8a60b997ce65d3a8edaf5e6adf4baa7d9919283e3bef85d2eca76968526e9171
+machine_hash: fb2a23541b80bc078d30401eff7e98b9a68891fd77472a612fdaf20bc0f49ffd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-09-18-remote-control-automatically-sync-local-conversation-history-updated-within-the|Remote
-  Control: Automatically sync local conversation history updated within…]]'
-- '[[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask
-  /btw side questions about photos attached to the current message when using…]]'
-- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
-  Apps and Integrations changes in v2026.9.5]]'
+- '[[Changes/Devin/2026-09-21-google-workspace-mcps-through-plugins|Google Workspace
+  MCPs Through Plugins]]'
+- '[[Changes/Devin/2026-09-21-personal-mcp-servers-are-private|Personal MCP Servers
+  Are Private]]'
+- '[[Changes/Devin/2026-09-21-devin-can-manage-org-and-enterprise-plugins|Devin Can
+  Manage Org and Enterprise Plugins]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52 Apps and Integrations changes in v2026.9.5]]
+- Earlier: 2026-09-21 · Devin · [[Changes/Devin/2026-09-21-devin-can-manage-org-and-enterprise-plugins|Devin Can Manage Org and Enterprise Plugins]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
 <!-- chronolog:end -->
 

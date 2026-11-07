@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9313c0ed957f408291253c1d20e5f62283325759f720a229e93baf6cd7171363
+machine_hash: a1ffedbadabc6b789074b43ebb92e917359e97a6160957ad1f761dc56e2732ac
 product: openclaw
 product_name: OpenClaw
 record:
@@ -180,12 +180,12 @@ record:
   title: 20 Account and Access changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
-  and Access changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
   Account and Access changes in v1.0.83]]'
 - '[[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop
   Use the desktop client ID during OpenCode account device authentication]]'
+- '[[Changes/Wispr Flow/2026-09-04-a-smoother-sign-in-handoff-android|A Smoother Sign-In
+  Handoff (Android)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: account-access
@@ -276,8 +276,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop Use the desktop client ID during OpenCode account device authentication]]
-- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send app emails from TanStack Start projects without Cloud]]
+- Earlier: 2026-09-04 · Wispr Flow · [[Changes/Wispr Flow/2026-09-04-a-smoother-sign-in-handoff-android|A Smoother Sign-In Handoff (Android)]]
+- Later: 2026-09-07 · Krea · [[Changes/Krea/2026-09-07-sso-connection-names-and-workspace-auto-join|SSO connection names and workspace auto-join]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c285ecd2fd6b667bde77a85d50fd6a252cb9a9910ef77a7d8ad9b4962589a457
+machine_hash: 94cdecea73dcf775bfb7ab881000e0c8a904f893d130fe348ec21d4577d6a80f
 product: midjourney
 product_name: Midjourney
 record:
@@ -45,11 +45,12 @@ record:
     sv2
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-03-07-how-to-use-it-how-does-it-work|How to use it /
-  how does it work]]'
-- '[[Changes/Midjourney/2024-03-07-what-is-it|What is it?]]'
+- '[[Changes/Raycast/2024-03-07-quicklinks-favicon-resolving-should-be-more-robust-now|Quicklinks:
+  Favicon resolving should be more robust now]]'
 - '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
   Copilot++: We''ve made Copilot++ ~2x faster!]]'
+- '[[Changes/Raycast/2024-03-20-snippets-improved-snippets-reliability-and-performance-we-have-been-fine-tuning|Snippets:
+  Improved snippets reliability and performance]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-03-21-https-updates-midjourney-com-new-style-refs-and-5c98cf33|midjourney-2024-03-21-https-updates-midjourney-com-new-style-refs-and-5c98cf33]]'
 source_type: midjourney_changelog
 theme: reliability-performance
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
-- Later: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Earlier: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-snippets-improved-snippets-reliability-and-performance-we-have-been-fine-tuning|Snippets: Improved snippets reliability and performance]]
+- Later: 2024-03-22 · Superwhisper · [[Changes/Superwhisper/2024-03-22-realtime-view-performance-improvements|Realtime view performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

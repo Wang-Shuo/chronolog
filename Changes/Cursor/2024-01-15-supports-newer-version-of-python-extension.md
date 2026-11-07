@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1ea2ee1fc18c998cff636a0f5b36947f53fb7eda6e5641b9b35cdc870e0cef3
+machine_hash: 309d3b06933de8d267f094cb2dac749e00c53920f0aa7456404c276841ef4eb9
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Supports newer version of python extension
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
-  We''ve continued to improve the Copilot++ ghost text experience]]'
 - '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
   what’s trending in the GPT Store]]'
+- '[[Changes/Raycast/2024-01-10-preferences-improved-visibility-of-the-uninstall-option-for-deprecation-extensio|Preferences:
+  Improved visibility of the uninstall option for deprecation extensions]]'
 - '[[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations
   changes in 0.4.5]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'

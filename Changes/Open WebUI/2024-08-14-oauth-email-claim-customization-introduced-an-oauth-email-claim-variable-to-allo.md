@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a2ebd38ae6f170aacefa35aeafcb74d9645aeaf3390979cc82d29c852d16a91
+machine_hash: 39083d2fa0f1bc3b3a484b55816716b4f43968e3ceed4d0c51499ea6d74695e3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: "**\U0001F300 OAuth Email Claim Customization**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action):
-  move docker login above Set up QEMU in build-push action workflow]]'
 - "[[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|\U0001F6E0️
   Custom Environment for OpenID Claims]]"
+- '[[Changes/AnythingLLM/2024-07-26-4-account-and-access-changes-in-v1-0-0|4 Account
+  and Access changes in v1.0.0]]'
 - "[[Changes/Open WebUI/2024-08-02-enhanced-oauth-introduced-custom-redirect-uri-support-for-oauth-behind-reverse-p|\U0001F512
   Enhanced OAuth]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e|open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e]]'

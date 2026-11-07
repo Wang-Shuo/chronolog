@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cfc1d9a05583adeb5803ea0c5aa99d8d8276741fefeeb09dad3594ea81f0757
+machine_hash: ee62ab0caf370c84013b4f1ab5bbd149405a224e5f6b19674be8abd39e8df51e
 product: opencode
 product_name: OpenCode
 record:
@@ -52,8 +52,8 @@ record:
   title: 7 Mobile and Desktop changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
-  a new command for Devin Desktop to rerun the migration from Windsurf]]'
+- '[[Changes/Wispr Flow/2026-06-04-an-update-on-wispr-flow-reliability-desktop|An
+  Update on Wispr Flow Reliability (Desktop)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
   Mobile and Desktop changes in v1.0.60]]'
 - '[[Changes/OpenCode/2026-06-05-3-mobile-and-desktop-changes-in-v1-16-2|3 Mobile

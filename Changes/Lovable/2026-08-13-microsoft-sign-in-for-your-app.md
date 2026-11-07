@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 172b51e7fe9a84cfe8c48b632a083b759433d01022a7d54e448c696ace4da955
+machine_hash: 3b2f3b226c4f9f720f9b3a7a5b6813bcc4fa10825206db2b1a78b596969cbd49
 product: lovable
 product_name: Lovable
 record:

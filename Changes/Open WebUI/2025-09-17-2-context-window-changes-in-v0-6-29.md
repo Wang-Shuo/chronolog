@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c529d304fce56bf194a9a103edbb1f15c9aadf092f0a86e9f5366cee7cc9f498
+machine_hash: a87dc0c0979d4902bc0cdcb0c51a30acab97af9f1d2b1abd3869afa63f080d07
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Context Window changes in v0.6.29
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
-  triggers]]'
 - '[[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context
   Window changes in rust-v0.36.0]]'
+- '[[Changes/LM Studio/2025-09-15-2-context-window-changes-in-lm-studio-0-3-26|2 Context
+  Window changes in LM Studio 0.3.26]]'
 - '[[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window
   changes in v0.5.3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0|open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0]]'

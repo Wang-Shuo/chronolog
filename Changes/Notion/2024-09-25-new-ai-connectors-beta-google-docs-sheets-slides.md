@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0faced8b25f82618f92021f1e6427c0be77ba1cdf4d0d0598cc0404fc3bb55ec
+machine_hash: 0ef4a816d2b9c5be713095e11781adf96cf2d7fd25c32373576281fcbcbb6be0
 product: notion
 product_name: Notion
 record:

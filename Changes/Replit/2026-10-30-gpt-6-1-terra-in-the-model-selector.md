@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a8cd1824bec4b47f4fe1f1dc8bda745a246844fc4f5b2923d1bcce5fe5a639c8
+machine_hash: 438a1a35dad5e28b4a8dc52baba92648c38ce1992e61ac4346a7a5a4c5aa7354
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,7 @@ record:
   title: GPT-6.1 Terra in the model selector
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
-  changes in v2.1.314]]'
+- '[[Changes/Devin/2026-10-30-typed-finding-tags|Typed Finding Tags]]'
 - '[[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support
   changes in v2.2.3]]'
 - '[[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core

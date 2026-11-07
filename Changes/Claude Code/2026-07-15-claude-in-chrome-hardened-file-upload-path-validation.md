@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfbc7a72b343471842e2dca65aef9ce772eddca0f17ae751bd52d5aa361a8fa9
+machine_hash: 781dfd0a1d65eb62aad8fa6db1d1329203244408d9aa9f320ad8bc286f4b9947
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Claude in Chrome: hardened file-upload path validation'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
-  Bring README.md over from Agent Canvas]]'
 - '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
   app-server: document thread and turn IDs are UUID7 @owenlin0]]'
 - '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
   Data changes in v2026.7.1]]'
+- '[[Changes/Superwhisper/2026-07-13-new-installations-now-use-superwhisper-instead-of-documents-superwhisper-as-thei|New
+  installations now use ~/superwhisper instead of ~/Documents/superwhisper…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: file-data
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and Data changes in v2026.7.1]]
+- Earlier: 2026-07-13 · Superwhisper · [[Changes/Superwhisper/2026-07-13-new-installations-now-use-superwhisper-instead-of-documents-superwhisper-as-thei|New installations now use ~/superwhisper instead of ~/Documents/superwhisper…]]
 - Later: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]
 <!-- chronolog:end -->
 

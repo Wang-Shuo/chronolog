@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9483245c033d206f6e9b250d9cda2226739e397b717d774f5764d35b13f91e65
+machine_hash: 5538f8756bf413720bdb885d9ecf830a698f25eb112883a093685e4aae850762
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Model Support changes in 0.5.3
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes
-  in 0.5.1]]'
 - '[[Changes/Dify/2024-01-26-3-model-support-changes-in-0-5-2|3 Model Support changes
   in 0.5.2]]'
 - '[[Changes/Ollama/2024-01-26-stable-lm-2-https-ollama-ai-library-stablelm2-a-state-of-the-art-1-6b-small-lang|Stable
   LM 2((source link)]]'
+- '[[Changes/Superwhisper/2024-01-30-no-longer-send-empty-results-to-llm|No longer
+  send empty results to LLM]]'
 source_release: '[[Releases/Dify/dify-2024-02-01-0-5-3-github-139471716-c501b05b|dify-2024-02-01-0-5-3-github-139471716-c501b05b]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-26 · Ollama · [[Changes/Ollama/2024-01-26-stable-lm-2-https-ollama-ai-library-stablelm2-a-state-of-the-art-1-6b-small-lang|Stable LM 2((source link)]]
+- Earlier: 2024-01-30 · Superwhisper · [[Changes/Superwhisper/2024-01-30-no-longer-send-empty-results-to-llm|No longer send empty results to LLM]]
 - Later: 2024-02-01 · Gemini · [[Changes/Gemini/2024-02-01-bard-with-gemini-pro-is-coming-to-more-languages|Bard with Gemini Pro is coming to more languages]]
 <!-- chronolog:end -->
 

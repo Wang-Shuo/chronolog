@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fede06f08950f941a8e95a97075a4bd96ec48a8830545142547ba7eaef77106d
+machine_hash: 16e8a0926bb5449d9c42ae88d929a2f00b8a45e870ee5176dedb50ab9657396d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -168,7 +168,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and Audio changes in v2026.9.3]]
-- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-choose-deepgram-flux-to-turn-incoming-voice-notes-into-text-your-cla|Choose Deepgram Flux to turn incoming voice notes into text your Claw can use…]]
+- Later: 2026-09-10 · Raycast · [[Changes/Raycast/2026-09-10-dictation-improved-reliability-when-the-active-audio-device-changes|Dictation: Improved reliability when the active audio device changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

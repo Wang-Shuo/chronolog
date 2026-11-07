@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dab044f29e6ac4d03256c9d59f15702a334a8f7e1ecfac2998bed34e70658a36
+machine_hash: 0dad914390a03f7d3db589116aad44527f43a26183046074f0c98d202e32c6c9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
+- '[[Changes/Raycast/2026-04-27-extensions-restored-ability-to-delete-tokens-by-clicking-in-tag-picker|Extensions
+  : Restored ability to delete tokens by clicking × in tag picker]]'
 - '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
   Apps and Integrations changes in v2.1.122]]'
 - '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43a1378cf3bc8c69001be227033f41c71cf5ccd10dc2601db03166cb2b172fc4
+machine_hash: c7c321a0bfd337b8aed5b3c058ad7e964ba1752e0153a14e2006238a85bd717d
 product: dify
 product_name: Dify
 record:
@@ -53,10 +53,10 @@ record:
   title: 4 Files and Data changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-11-minor-fix-wrong-position-of-retry-document-indexing-task-time-elapsed-by-neatguy|minor
-  fix: wrong position of retry_document_indexing_task time elapsed]]'
-- '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
-  certificate issue workaround]]'
+- '[[Changes/AnythingLLM/2025-08-15-workspace-chat-with-documents-overhaul-by-timothycarambat-in-https-github-com-mi|Workspace
+  Chat with documents overhaul]]'
+- '[[Changes/Recraft/2025-08-15-you-can-now-export-your-projects-in-pdf-format-directly-from-recraft|PDF
+  export]]'
 - "[[Changes/Open WebUI/2025-08-21-resolved-silently-dropped-streaming-response-chunks-fixed-an-issue-where-the-fin|\U0001F4AC
   Resolved Silently Dropped Streaming Response Chunks]]"
 source_release: '[[Releases/Dify/dify-2025-08-27-1-8-0-github-242787340-c7104f29|dify-2025-08-27-1-8-0-github-242787340-c7104f29]]'

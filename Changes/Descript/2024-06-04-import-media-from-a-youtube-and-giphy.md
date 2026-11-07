@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c879ba2f8e89ffcbeb83a8bba4ce4992e8e8ff4973c4e0c9fc15790523f289bf
+machine_hash: 5108abca899b35b3c6f0938526245d3ebf9a463547734d9cd1868633fd1ab53e
 product: descript
 product_name: Descript
 record:
@@ -48,11 +48,12 @@ record:
   title: Import media from a YouTube and GIPHY
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
 - '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
   changes in 0.6.4]]'
 - "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
   Youtube RAG Pipeline]]"
+- '[[Changes/Raycast/2024-05-08-open-camera-added-a-setting-to-exclude-wallpaper-from-the-photo|Open
+  Camera: Added a setting to exclude wallpaper from the photo]]'
 source_release: '[[Releases/Descript/descript-2024-06-04-665e365f94fa1d97d3fc73dc-63f9523b|descript-2024-06-04-665e365f94fa1d97d3fc73dc-63f9523b]]'
 source_type: canny_changelog
 theme: multimodal
@@ -94,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|📹 Youtube RAG Pipeline]]
-- Later: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Earlier: 2024-05-08 · Raycast · [[Changes/Raycast/2024-05-08-open-camera-added-a-setting-to-exclude-wallpaper-from-the-photo|Open Camera: Added a setting to exclude wallpaper from the photo]]
+- Later: 2024-06-06 · Superwhisper · [[Changes/Superwhisper/2024-06-06-new-super-mode-experimental-still-see-launch-video|New Super mode (experimental still - see launch video)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

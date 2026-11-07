@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a6dd67d3747996679a1bd866970e3cf3474a3b2221969dee1ff61b1bc7e7b94
+machine_hash: 6c43b5f37e0fbf05d2501a4f1f1e185c98474223b682e9cdcbc20c7d55d4c467
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -170,7 +170,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 ## Nearby in Editor Experience
 
 - Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
-- Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-e2e-test-add-mock-service-for-cline-api-new-test-for-diff-editor-by-abeatrix-in|e2e test: add mock service for cline API & new test for diff editor]]
+- Later: 2025-07-30 · Raycast · [[Changes/Raycast/2025-07-30-ai-chat-starting-a-new-chat-no-longer-cancels-current-completion-if-chat-branchi|AI Chat: Starting a new chat no longer cancels current completion if chat branching…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

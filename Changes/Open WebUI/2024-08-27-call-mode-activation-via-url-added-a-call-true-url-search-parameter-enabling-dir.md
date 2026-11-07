@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94cb6a7fe6052ae3fa578ecc062366360d79ef50e8a3dd4aabd921b0c921bce9
+machine_hash: 031ca5b7e94dc7a2642bee17c53cc9b03fdfc777cf4085b173fc91f1a796ac1d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,11 @@ record:
   title: "**\U0001F517 Call Mode Activation via URL**"
   type: change
 related_changes:
-- '[[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten
-  Tracks on Web and Desktop preview]]'
 - "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
   Haptic Feedback on Support Devices]]"
+- '[[Changes/Raycast/2024-08-14-send-screen-to-ai-chat-addressed-issue-where-the-attachment-would-not-load-in-ma|Send
+  Screen to AI Chat : Addressed issue where the attachment would not load in macOS
+  14]]'
 - '[[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual
   and convenient help from Gemini]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67|open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67]]'
@@ -85,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-08-26 · Gemini · [[Changes/Gemini/2024-08-26-contextual-and-convenient-help-from-gemini|Contextual and convenient help from Gemini]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only print the pip command when self updating on Windows, without running it]]
+- Later: 2024-09-03 · Devin · [[Changes/Devin/2024-09-03-devin-responds-to-comments-on-prs|Devin responds to comments on PRs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

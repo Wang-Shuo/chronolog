@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe8a351cc75aa4556bda566ff32c610cbcf9c7d9604a4748f9f3a95b03b662d6
+machine_hash: cc178bf478af8141aaa71b976054a8269e9f51a384c16662b599804559ffa7c8
 product: descript
 product_name: Descript
 record:
@@ -42,10 +42,10 @@ record:
   title: Optimized video files for playback
   type: change
 related_changes:
-- '[[Changes/Descript/2023-02-21-we-now-make-the-first-frame-of-your-video-the-default-thumbnail|We
-  now make the first frame of your video the default thumbnail]]'
 - '[[Changes/Descript/2023-02-21-you-can-easily-change-your-video-thumbnail-to-any-frame-from-your-video|You
   can easily change your video thumbnail to any frame from your video]]'
+- '[[Changes/Raycast/2023-02-22-2-multimodal-input-changes-in-raycast-macos-v1-1-48-0|2
+  Multimodal Input changes in Raycast macos-v1 1.48.0]]'
 - '[[Changes/Synthesia/2023-03-09-now-with-just-one-click-you-can-easily-edit-your-videos-we-re-also-introducing-v|The
   EDIT Button is here!]]'
 source_release: '[[Releases/Descript/descript-2023-03-29-642382776174d209cbef84f7-f13ad4c4|descript-2023-03-29-642382776174d209cbef84f7-f13ad4c4]]'

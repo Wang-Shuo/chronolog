@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d441ae13a4c0c5dca9d3e95e97ec1ade1a50b725321010f3e0e4f0eb1210af7
+machine_hash: 07d1b0106245f445941ba9dde74cf739c89ce138477f4efe47d41e77359c4035
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: '1.5.5: General stability improvements and bug fixes to enhance overall application…'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This
-  week was focused on bug fixes and performance improvements]]'
+- '[[Changes/Devin/2025-08-16-various-reliability-performance-and-usability-improvements-across-the-app|Various
+  reliability, performance, and usability improvements across the app]]'
 - '[[Changes/ElevenLabs/2025-08-20-global-tts-api-preview|Global TTS API preview]]'
 - '[[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2
   Reliability and Performance changes in v0.11.6]]'

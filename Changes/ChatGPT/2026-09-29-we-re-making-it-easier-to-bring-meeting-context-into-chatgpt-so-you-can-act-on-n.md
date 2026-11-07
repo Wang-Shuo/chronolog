@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0beeef5999692d252c134e3373482225b650f576cfddadb90b509aa55be225fe
+machine_hash: ae3099d6b5c36037589cdb374022bbedf86fa5883ddd8270ca1a3943a89f5348
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
     on next…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
-  MCP browser launch failures are now reported when the launcher exits immediately]]'
+- '[[Changes/Raycast/2026-09-28-applications-added-support-for-finding-apps-by-alternate-names-and-spotlight-key|Applications
+  : Added support for finding apps by alternate names and Spotlight…]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work

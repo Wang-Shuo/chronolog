@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 586137bd366109943d1a8b624e1f80838bcbd949bbb723accfb8169935ff9267
+machine_hash: 5ad52243e5d6522c40f3615fb88f0e801528b7d6414bfeb3a9030b3d3e8ce67e
 product: replit
 product_name: Replit
 record:
@@ -70,12 +70,12 @@ record:
   title: Web search in Agent automations
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps):
-  bump scheduler from 0.26.0 to 0.27.0 in /web…]]'
 - '[[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler
   and cleanup module]]'
 - '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
   Automation and Scheduling changes in v0.25.0]]'
+- '[[Changes/Raycast/2026-01-23-ai-commands-help-you-automate-repetitive-work-in-seconds-pick-a-pre-made-command|AI
+  Commands help you automate repetitive work in seconds]]'
 source_release: '[[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|replit-2026-01-23-2026-01-23-0f161827]]'
 source_type: replit_changelog
 theme: automation-scheduling
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2 Automation and Scheduling changes in v0.25.0]]
+- Earlier: 2026-01-23 · Raycast · [[Changes/Raycast/2026-01-23-ai-commands-help-you-automate-repetitive-work-in-seconds-pick-a-pre-made-command|AI Commands help you automate repetitive work in seconds]]
 - Later: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]]
 <!-- chronolog:end -->
 

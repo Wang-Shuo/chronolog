@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fb4bcff6a74d4d224341b4200adbfb75456e2099bc7e70432051c7a57e26b6e
+machine_hash: 86d8d8f8e83f2ea2188b59803df6628ad7e2b1fb491bc82c4f43109cf9274413
 product: opencode
 product_name: OpenCode
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety and Privacy changes in v2026.6.11]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4 Safety and Privacy changes in v1.0.68]]
+- Later: 2026-07-01 · Devin · [[Changes/Devin/2026-07-01-read-only-scan-profiles|Read-Only Scan Profiles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

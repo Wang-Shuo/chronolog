@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b42cdadcc05d56677854f3f36955542ed70131929bf0f399a876d8e30caaa1ca
+machine_hash: 09bb495843a224cc16b447f883a879a6e7aa0e2c4ccd2f76a73b05a10be12efd
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-07-01 · Aider · [[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added --attribute-commit-message to prefix aider's commit messages with "aider:"]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer Workflow changes in 0.7.1]]
+- Later: 2024-07-03 · Raycast · [[Changes/Raycast/2024-07-03-2-developer-workflow-changes-in-raycast-macos-v1-1-78-0|2 Developer Workflow changes in Raycast macos-v1 1.78.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

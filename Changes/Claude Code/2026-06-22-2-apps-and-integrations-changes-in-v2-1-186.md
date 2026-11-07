@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab37c6761e57cf43a5b0b626edf9ff0010a7446931678fe56bfb5837c551d73a
+machine_hash: 471f60f69064306f8671b8a3e628a1707f17efb60b08f3e9f170b1397f6b75fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-integrations|Integrations]]'
 - '[[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP
   servers: Apollo and Black Forest Labs]]'
 - '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
+- '[[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate
+  AWS Sdk to OpenAI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.186
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]
+- Earlier: 2026-06-22 · AnythingLLM · [[Changes/AnythingLLM/2026-06-22-migrate-aws-sdk-to-openai-by-timothycarambat-in-https-github-com-mintplex-labs-a|Migrate AWS Sdk to OpenAI]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37 Apps and Integrations changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 

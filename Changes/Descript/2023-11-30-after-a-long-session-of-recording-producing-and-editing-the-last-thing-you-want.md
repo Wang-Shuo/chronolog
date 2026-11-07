@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9d2e949db63167a628aaf8090fd72edb1ba364715019803e03fb322c465115a
+machine_hash: 1750a4c73d896f0d2f6391590cf4de1083f377571cbadcf559330412e00a9a54
 product: descript
 product_name: Descript
 record:
@@ -67,12 +67,11 @@ record:
   title: 'New AI Action: Find Good Clips'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-21-feat-sdk-vision-support-by-garfielddai-in-https-github-com-langgenius-dify-pull|Feat/sdk
-  vision support]]'
 - '[[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding
   Bard’s understanding of YouTube videos]]'
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
   Support in Chat]]'
+- '[[Changes/Raycast/2023-11-29-camera-preview|Camera Preview]]'
 source_release: '[[Releases/Descript/descript-2023-11-30-6568ccbe7ece8b4ef3dbc42e-85433d79|descript-2023-11-30-6568ccbe7ece8b4ef3dbc42e-85433d79]]'
 source_type: canny_changelog
 theme: multimodal
@@ -115,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
+- Earlier: 2023-11-29 · Raycast · [[Changes/Raycast/2023-11-29-camera-preview|Camera Preview]]
 - Later: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal Input changes in v0.1.15]]
 <!-- chronolog:end -->
 

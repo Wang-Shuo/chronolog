@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c6be41991a1aefb7b32794d43af5a79f50366fe42d8da5e7fade95ce6a4e5672
+machine_hash: ac726cdcd6d0c106e90178d3ffa8c499705f63b34a2bf9586a25282b43f683e0
 product: notion
 product_name: Notion
 record:
@@ -44,8 +44,8 @@ record:
   title: Upgrades to web publishing
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
-  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
+- '[[Changes/Raycast/2023-12-13-ai-commands-highlight-edits-in-the-ai-response-by-enabling-this-option-via-creat|AI
+  Commands: Highlight edits in the AI response by enabling this option…]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
   Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
-- Later: 2023-12-29 · Cursor · [[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple Command-K, Copilot++ UI]]
+- Later: 2023-12-26 · Superwhisper · [[Changes/Superwhisper/2023-12-26-enabled-cmd-v-paste-shortcut-into-prompt-editor|Enabled cmd + v paste shortcut into prompt editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

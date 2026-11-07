@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4cf619832c4b95f3e37502ab8461097e779f37eec4d55ced83b45c899adf4b7
+machine_hash: f63fafae9a63a56d1df76cbe6b96c06f8e90b8c741a3bb422a0390cc39e17676
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,11 +115,12 @@ record:
   title: 12 Voice and Audio changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
-  and Audio changes in rust-v0.162.0]]'
-- '[[Changes/OpenClaw/2026-10-08-2-voice-and-audio-changes-in-v2026-9-9|2 Voice and
-  Audio changes in v2026.9.9]]'
-- '[[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]'
+- '[[Changes/Raycast/2026-10-09-2-voice-and-audio-changes-in-raycast-macos-2-7|2 Voice
+  and Audio changes in Raycast macos 2.7]]'
+- '[[Changes/Raycast/2026-10-09-2-voice-and-audio-changes-in-raycast-windows-2-7|2
+  Voice and Audio changes in Raycast windows 2.7]]'
+- '[[Changes/Wispr Flow/2026-10-09-meeting-recordings-recover-from-save-and-upload-errors-notetaker|Meeting
+  recordings recover from save and upload errors (Notetaker)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: voice
@@ -190,7 +191,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-08 · Suno · [[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]
+- Earlier: 2026-10-09 · Wispr Flow · [[Changes/Wispr Flow/2026-10-09-meeting-recordings-recover-from-save-and-upload-errors-notetaker|Meeting recordings recover from save and upload errors (Notetaker)]]
 - Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and Audio changes in v2026.10.1]]
 <!-- chronolog:end -->
 

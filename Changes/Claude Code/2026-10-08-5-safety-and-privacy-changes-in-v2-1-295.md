@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8df1efadcb280e055bd8c91209660ded09dca065e8a4a1d3b533880da99661b
+machine_hash: 41ab463d007d141e1d2465c580e7d65b5058a88b9b91fd61f57cab3c9cfc561f
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,7 @@ record:
   title: 5 Safety and Privacy changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
-  Safety and Privacy changes in rust-v0.161.0]]'
+- '[[Changes/Devin/2026-10-07-devin-review-permissions|Devin Review Permissions]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
   Safety and Privacy changes in v1.0.93]]'
 - '[[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On

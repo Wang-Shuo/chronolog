@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a88fee4d30df691ef72b909f3502205188914df58e098321a3a3efce37b7de1
+machine_hash: 1d788d526caed91a1606edb24613a3f907b02df436e067776a5dd67f48869acc
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
-  for Amazon Redshift]]'
 - '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
   can use your connected service account while building]]'
+- '[[Changes/Raycast/2026-08-19-2-apps-and-integrations-changes-in-raycast-windows-0-71|2
+  Apps and Integrations changes in Raycast windows 0.71]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
   Apple Messages from Codex and ChatGPT Work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

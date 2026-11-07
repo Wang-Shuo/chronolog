@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1309a7d71ddc81c1668115cfa76b81f25d40bcf73ff450f560043080f1ac641e
+machine_hash: 95c03525990331447b8d5d27c0008e7998d97c85f8e5eadd1a8c9ad05513636d
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Fast Mode now available to everyone
   type: change
 related_changes:
-- '[[Changes/Notion/2025-11-17-less-load-time-more-work-time|Less load time, more
-  work time]]'
 - '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
   Compaction Support]]'
 - '[[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3
   Reliability and Performance changes in v0.13.0]]'
+- '[[Changes/Devin/2025-11-21-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 source_release: '[[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|replit-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3 Reliability and Performance changes in v0.13.0]]
+- Earlier: 2025-11-21 · Devin · [[Changes/Devin/2025-11-21-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 - Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]
 <!-- chronolog:end -->
 

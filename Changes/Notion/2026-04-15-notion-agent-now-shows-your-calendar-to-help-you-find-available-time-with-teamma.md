@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 67239133c08139a0cdaa2372e55d44f4dcde6e98bbc1aed8b442cdc3e244ed13
+machine_hash: c7d380f51ba792bb94cf5a9c3f643fea4fd3bff2115a64597ec2305e115ae837
 product: notion
 product_name: Notion
 record:
@@ -46,12 +46,11 @@ record:
   title: Schedule meetings with Notion Agent
   type: change
 related_changes:
-- '[[Changes/Notion/2026-04-14-teams-and-custom-agents-working-together|Teams and
-  Custom Agents, working together]]'
 - '[[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI
   Autofill in databases, powered by Custom Agents]]'
 - '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
   changes in rust-v0.121.0]]'
+- '[[Changes/Devin/2026-04-15-acp-summarizer|ACP Summarizer]]'
 source_release: '[[Releases/Notion/notion-2026-04-15-https-www-notion-com-releases-2026-04-15-6b2a209c|notion-2026-04-15-https-www-notion-com-releases-2026-04-15-6b2a209c]]'
 source_type: notion_changelog
 theme: agent-mode
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · Devin · [[Changes/Devin/2026-04-15-acp-summarizer|ACP Summarizer]]
 - Later: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]
 <!-- chronolog:end -->
 

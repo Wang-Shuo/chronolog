@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a00a66f93e70a316baf42c7cf6df3dd9cf25ea7f0357c59b29e6c12592bb99f3
+machine_hash: bef9409814cc0f568f289906cbe0bc4ea5f72783612823ba094188612c874125
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v0.3.22
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
-  This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
 - '[[Changes/Runway/2024-09-16-use-our-simple-to-integrate-api-to-access-our-latest-and-most-powerful-video-mod|Runway
   API]]'
 - '[[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support
   changes in v0.3.11]]'
+- '[[Changes/Raycast/2024-09-18-ai-commands-built-in-commands-previously-using-the-open-ai-gpt-3-5-turbo-model-n|AI
+  Commands: Built-in commands previously using the Open AI GPT-3.5 Turbo model now…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.22
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support changes in v0.3.11]]
+- Earlier: 2024-09-18 · Raycast · [[Changes/Raycast/2024-09-18-ai-commands-built-in-commands-previously-using-the-open-ai-gpt-3-5-turbo-model-n|AI Commands: Built-in commands previously using the Open AI GPT-3.5 Turbo model now…]]
 - Later: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-5-model-support-changes-in-0-8-3|5 Model Support changes in 0.8.3]]
 <!-- chronolog:end -->
 

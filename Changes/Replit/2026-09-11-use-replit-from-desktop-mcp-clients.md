@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b4d52b5fa2c8ef0aa88d625092c0dc18dc3c0733b1fb5e230519cc07017b3985
+machine_hash: b950dc70d16a8eb46d3eb176395bd2e15d8fe2c34261240e101e18693a34a3f2
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Use Replit from desktop MCP clients
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22
-  Apps and Integrations changes in v2026.9.4]]'
-- '[[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search
-  installed and available plugins together, browse by purpose, and keep…]]'
+- '[[Changes/Raycast/2026-09-11-2-apps-and-integrations-changes-in-raycast-macos-2-3|2
+  Apps and Integrations changes in Raycast macos 2.3]]'
+- '[[Changes/Raycast/2026-09-11-we-rebuilt-the-core-of-raycast-ai-you-can-now-give-ai-chat-a-task-and-it-works-o-ee32d8|We
+  rebuilt the core of Raycast AI]]'
 - '[[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed
   PostgreSQL in Databricks Apps]]'
 source_release: '[[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|replit-2026-09-11-2026-09-11-fe1ab3d8]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search installed and available plugins together, browse by purpose, and keep…]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-we-rebuilt-the-core-of-raycast-ai-you-can-now-give-ai-chat-a-task-and-it-works-o-ee32d8|We rebuilt the core of Raycast AI]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
 <!-- chronolog:end -->
 

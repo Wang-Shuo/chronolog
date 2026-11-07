@@ -1,0 +1,85 @@
+---
+card_id: raycast-2025-06-26-0f170a
+date: '2025-06-26'
+description: 'Raycast · 2025-06-26 · Other changes: 4 changes in Raycast windows 0.25
+  — Quicklinks: Added the ability to import Quicklinks'
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 4d368dd1e441a133252a8b8ebcb350633d0626ed0bec809a43e5a3d178276346
+product: raycast
+product_name: Raycast
+record:
+  card_id: raycast-2025-06-26-0f170a
+  comparison: ''
+  date: '2025-06-26'
+  description: 'Raycast — Raycast windows 0.25: 4 other changes'
+  evidence:
+  - quote: 'Quicklinks: Added the ability to import Quicklinks'
+    source_release: https://www.raycast.com/changelog/windows/0-25
+  - quote: 'Snippets: Added the ability to import Snippets'
+    source_release: https://www.raycast.com/changelog/windows/0-25
+  - quote: 'Installer: We updated our installer to include all the required libraries.'
+    source_release: https://www.raycast.com/changelog/windows/0-25
+  - quote: 'Shortcuts: We change our delete shortcut to use the D key instead of delete
+      to prevent conflicts with some editors and made this consistent through the
+      app.'
+    source_release: https://www.raycast.com/changelog/windows/0-25
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: raycast
+  product_name: Raycast
+  slug: 4-other-changes-in-raycast-windows-0-25
+  source_release: raycast-2025-06-26-windows-0-25-3634a5f3
+  source_type: raycast_changelog
+  theme: uncategorized
+  title: 4 other changes in Raycast windows 0.25
+  type: change
+source_release: '[[Releases/Raycast/raycast-2025-06-26-windows-0-25-3634a5f3|raycast-2025-06-26-windows-0-25-3634a5f3]]'
+source_type: raycast_changelog
+theme: uncategorized
+title: 4 other changes in Raycast windows 0.25
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 4 other changes in Raycast windows 0.25
+
+**Raycast** · 2025-06-26 · Other changes · Digest · [Official source](https://www.raycast.com/changelog/windows/0-25) · from [[Releases/Raycast/raycast-2025-06-26-windows-0-25-3634a5f3|Raycast windows 0.25]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Quicklinks: Added the ability to import Quicklinks
+
+> Snippets: Added the ability to import Snippets
+
+> Installer: We updated our installer to include all the required libraries.
+
+> Shortcuts: We change our delete shortcut to use the D key instead of delete to prevent conflicts with some editors and made this consistent through the app.
+
+Source: https://www.raycast.com/changelog/windows/0-25
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Raycast/2025-06-26-favicon-provider-we-added-a-new-setting-to-let-you-pick-your-favicon-provider-or|Favicon Provider: We added a new setting to let you pick your favicon provider…]] · Safety and Privacy
+- [[Changes/Raycast/2025-06-26-2-interface-experience-changes-in-raycast-windows-0-25|2 Interface Experience changes in Raycast windows 0.25]] · Interface Experience
+- [[Changes/Raycast/2025-06-26-2-developer-workflow-changes-in-raycast-windows-0-25|2 Developer Workflow changes in Raycast windows 0.25]] · Developer Workflow
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20raycast-2025-06-26-0f170a&body=Card%3A%20Changes%2FRaycast%2F2025-06-26-4-other-changes-in-raycast-windows-0-25.md%0ACard%20ID%3A%20raycast-2025-06-26-0f170a%0ASource%3A%20https%3A%2F%2Fwww.raycast.com%2Fchangelog%2Fwindows%2F0-25%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

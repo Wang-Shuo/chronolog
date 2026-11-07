@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 712d75f783f15992f6913a17eed75fd1a71cecd8b5f441c0754828482eac795a
+machine_hash: 9d280f5e628ee5580a80c1679fb5893aefd313a5f57ea711ab29de2f9f029d3c
 product: qoder
 product_name: Qoder
 record:
@@ -85,7 +85,7 @@ Source: https://changelog.qoder.com/app#0.1.3
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
+- Later: 2026-08-31 · Raycast · [[Changes/Raycast/2026-08-31-2-reliability-and-performance-changes-in-raycast-ios-1-3-6|2 Reliability and Performance changes in Raycast ios 1.3.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

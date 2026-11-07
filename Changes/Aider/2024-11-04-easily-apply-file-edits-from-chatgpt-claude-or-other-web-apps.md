@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8377b06b64546b20dd95e7f807689e40b93434c4810960b21b54126fd6b36a41
+machine_hash: 581c10d1397d98802eb77f66a2cbb2753596fe334000810a36f787f01e21bbd7
 product: aider
 product_name: Aider
 record:
@@ -41,8 +41,8 @@ record:
   title: Easily apply file edits from ChatGPT, Claude or other web apps
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-feat-tools-refactor-the-base-table-plugin-by-hgnulb-in-https-github-com-langgeni|feat(Tools):
-  Refactor the base table plugin]]'
+- '[[Changes/AnythingLLM/2024-10-25-github-data-connector-improvements-by-shatfield4-in-https-github-com-mintplex-la|Github
+  data connector improvements]]'
 - "[[Changes/Open WebUI/2024-10-26-feedback-export-enhancements-feedback-history-data-can-now-be-exported-to-json-a|\U0001F527
   Feedback Export Enhancements]]"
 - '[[Changes/Dify/2024-10-28-text-to-image-with-stable-diffusion-3-5-bring-your-text-to-life-with-the-new-sta|Text-to-Image

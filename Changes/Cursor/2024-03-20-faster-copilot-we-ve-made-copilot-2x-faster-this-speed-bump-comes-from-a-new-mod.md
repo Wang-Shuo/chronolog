@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9b7dc46724ff45490ed2b9797df988fb8fd8710436a8bee3333406d905c3d8e8
+machine_hash: 5dedcaaf1eca4fcb8af30b2986a951015e8d7562654b0dcd683a0754fae1eaed
 product: cursor
 product_name: Cursor
 record:
@@ -63,11 +63,11 @@ record:
   title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
-- '[[Changes/Runway/2024-02-26-motion-brush-now-automatically-detects-key-elements-of-an-input-image-making-it|Auto-detect
-  Motion Brush Areas]]'
 - '[[Changes/Midjourney/2024-03-07-how-to-use-it-how-does-it-work|How to use it /
   how does it work]]'
 - '[[Changes/Midjourney/2024-03-07-what-is-it|What is it?]]'
+- '[[Changes/Raycast/2024-03-07-quicklinks-favicon-resolving-should-be-more-robust-now|Quicklinks:
+  Favicon resolving should be more robust now]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-03-07 · Midjourney · [[Changes/Midjourney/2024-03-07-what-is-it|What is it?]]
-- Later: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv 3 A new version of sv1 with better performance and more 'vibey' than sv2]]
+- Earlier: 2024-03-07 · Raycast · [[Changes/Raycast/2024-03-07-quicklinks-favicon-resolving-should-be-more-robust-now|Quicklinks: Favicon resolving should be more robust now]]
+- Later: 2024-03-20 · Raycast · [[Changes/Raycast/2024-03-20-snippets-improved-snippets-reliability-and-performance-we-have-been-fine-tuning|Snippets: Improved snippets reliability and performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 05c52f74e01cf5827a3b6c50bed3f0408578ac510a0f2ad4b53f01e1b24a8bd7
+machine_hash: c218a0b261c1c65eacbfc78865b6bd41885b6d3c71f8c423df5f92265df28a22
 product: opencode
 product_name: OpenCode
 record:
@@ -60,10 +60,10 @@ record:
   title: Use Claude Code in OpenCode
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
-  click using Google]]'
 - '[[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google
   sign-in client secrets are now masked in console and log-tail output]]'
+- '[[Changes/Raycast/2026-10-29-ai-chat-offer-browser-sign-in-for-mcp-email-links|AI
+  Chat: Offer browser sign-in for MCP email links]]'
 - '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
   the cloud session error shown while a request refused for your claude.ai…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|opencode-2026-10-30-v2-2-3-0c0c59eb]]'

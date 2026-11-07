@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 007cdb28547c01c2c27358f6c4eba3b09e57081263befa63d69714d4bcf1cd04
+machine_hash: 2932cf4bd2093ec6786a6be057f4de75874675e393ae76d615a9b186db858120
 product: notion
 product_name: Notion
 record:
@@ -42,10 +42,10 @@ record:
   title: Your credits go about 10× further
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
-  publish requests and findings in the Action center]]'
-- '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
-  with a scheduled-ending or cancelled Premium subscription keep…]]'
+- '[[Changes/Krea/2026-10-17-see-the-cost-before-you-generate-in-agent-and-mcp|See
+  the cost before you generate in Agent and MCP]]'
+- '[[Changes/Krea/2026-10-17-corrected-api-pricing-details-see-api-keys-and-billing-https-www-krea-ai-docs-de|Corrected
+  API pricing details]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
   usage reporting no longer shows partial status or phantom unattributed…]]'
 source_release: '[[Releases/Notion/notion-2026-10-19-https-www-notion-com-releases-2026-10-19-b6a62bdc|notion-2026-10-19-https-www-notion-com-releases-2026-10-19-b6a62bdc]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
-- Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Later: 2026-10-20 · Krea · [[Changes/Krea/2026-10-20-2-pricing-model-changes-in-flux-3-max-video-agent-api-agent|2 Pricing Model changes in FLUX 3 Max video, Agent API, Agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

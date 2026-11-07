@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30cf1c35874333649514dfc14fac7c1eaa264e427d31d06959ce96691104095e
+machine_hash: 6d771cfac74a0671522c0a50518c1742221234a633fa7e2e44113f50b19f4cb8
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'chore(verify-openhands): time network responses and order them by completion'
   type: change
 related_changes:
-- '[[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental
-  conversation import]]'
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
-  sessions Changed the cloud environment dialog to open network access, setup…]]'
+- '[[Changes/Devin/2026-10-23-suggest-a-change-from-the-diff|Suggest a Change from
+  the Diff]]'
 - '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
   changes in 1.18.0]]'
+- '[[Changes/Krea/2026-10-23-bounding-boxes-for-krea-3-edits-in-the-api|Bounding boxes
+  for Krea 3 edits in the API]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e|openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience changes in 1.18.0]]
+- Earlier: 2026-10-23 · Krea · [[Changes/Krea/2026-10-23-bounding-boxes-for-krea-3-edits-in-the-api|Bounding boxes for Krea 3 edits in the API]]
 - Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In IDE mode, a chat tab whose agent could not start a session says why and offers…]]
 <!-- chronolog:end -->
 

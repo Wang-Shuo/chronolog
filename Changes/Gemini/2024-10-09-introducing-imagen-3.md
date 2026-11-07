@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6fdeb0e60a7edf70159b165b6d3f668c2dfe5ed12dcab18e947234e26cf233a8
+machine_hash: 755989d05598e575c91b326eb84209edf8fc6fb4e82753fbe14535e1884dfa8b
 product: gemini
 product_name: Gemini
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes in v2.0.0]]
-- Later: 2024-10-11 · Ollama · [[Changes/Ollama/2024-10-11-4-model-support-changes-in-v0-3-13|4 Model Support changes in v0.3.13]]
+- Later: 2024-10-09 · Raycast · [[Changes/Raycast/2024-10-09-quick-ai-regenerating-after-changing-the-model-should-now-utilize-the-new-model|Quick AI: Regenerating after changing the model should now utilize the new model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

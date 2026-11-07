@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 84f4c1846c1824dcea8093a1525ab7e14b57bb4af256b5f255e72e6ef62e7bde
+machine_hash: 4c9cd5c1aaa635cd3c6b6de7f91f0e649d4bb083cceb485af0f79f8a66f5cc75
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now visible in /status]]
-- Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-3-pricing-model-changes-in-1-10-1|3 Pricing Model changes in 1.10.1]]
+- Later: 2025-11-21 · Recraft · [[Changes/Recraft/2025-11-21-cost-per-generation|Cost per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 964ec78dd9b7d24fd27dd52097cecc06dbfa52543618a2d6921c3fc11f86c71d
+machine_hash: 3c10d6214ab5922d25a3d8bf8c58bd729d3a77e5ca234686d3548b92b510e8a1
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in Kimi Code 0.30.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core
-  Restored compatibility with legacy MCP SDK clients]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
   Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Devin/2026-07-29-this-release-also-includes-many-smaller-fixes-and-improvements-including-clearer|This
+  release also includes many smaller fixes and improvements, including clearer…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-29-0-30-0-5c77f0bd|kimi-code-2026-07-29-0-30-0-5c77f0bd]]'
 source_type: kimi_code_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Devin · [[Changes/Devin/2026-07-29-this-release-also-includes-many-smaller-fixes-and-improvements-including-clearer|This release also includes many smaller fixes and improvements, including clearer…]]
 - Later: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App + chat connectors: Amazon Redshift and Microsoft Fabric]]
 <!-- chronolog:end -->
 

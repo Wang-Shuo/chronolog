@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86dc1242042d5387decce55f714b8f6eb062d50e69bdb575645e944cf9aa2d85
+machine_hash: dd53c5c76fb08078e2e3da8b6192d62e2b95002e499d7c3b94bc813038952117
 product: open-webui
 product_name: Open WebUI
 record:
@@ -268,7 +268,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t to toggle reasoning display is now listed in the /help and ? overlay]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-x-new-customization-chat-setting-for-unload-model-when-closed-to-unload-the-mode|x New Customization  Chat setting for Unload model when closed to unload…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

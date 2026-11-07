@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be199854ea6b0fbb7aa03491084911e684d3cbcc39fd8b2abce0c7ac429df076
+machine_hash: 5fcd13b0da522491ddf013fa9b95f7758d927b35935c5193e307751b07927525
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in Kimi Code 0.36.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
-  Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]'
 - '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
   Sidebar Folders, Crash Fixes, and UI Enhancements]]'
+- '[[Changes/AnythingLLM/2026-08-13-now-in-the-file-picker-you-can-drag-entire-folders-and-their-hierarchy-will-be-p|Now
+  in the file picker you can drag entire folders and their hierarchy will…]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-08-13-0-36-0-b841eb68|kimi-code-2026-08-13-0-36-0-b841eb68]]'
@@ -87,7 +87,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]]
-- Later: 2026-08-14 · Kimi Code · [[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web: Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]
+- Later: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-sidebar-improvements|Sidebar Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

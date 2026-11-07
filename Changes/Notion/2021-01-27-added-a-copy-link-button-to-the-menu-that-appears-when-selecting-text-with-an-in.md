@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 334c4a3cb354a869747d0db9dbb8c1fe862ac2c65ef5a8f8db82d29a6318162f
+machine_hash: c5b37179246f0cd56321bdd8d0c2b75013000db4d21c822ae94b26e59e5382f6
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,10 @@ record:
     an inline…
   type: change
 related_changes:
-- "[[Changes/Notion/2020-11-11-show-backlinks-in-a-popup-or-hide-them|Show backlinks
-  in a popup, or hide them \U0001F5EF️]]"
-- '[[Changes/Notion/2020-11-19-added-a-duplicate-button-to-the-menu-for-pages-within-databases-it-s-now-possibl|Added
-  a Duplicate button to the ••• menu for pages within databases]]'
+- '[[Changes/Raycast/2020-12-22-preferences-added-keyboard-navigation-for-the-extension-list|Preferences
+  : Added keyboard navigation ( ⌥ + ↑ / ↓ ) for the extension list]]'
+- '[[Changes/Raycast/2021-01-20-window-management-added-a-command-to-toggle-fullscreen|Window
+  Management: Added a command to toggle fullscreen]]'
 - '[[Changes/Descript/2021-01-27-you-can-now-export-animated-gif-s-in-addition-to-mp4-files-from-the-video-export|Descript
   now supports exporting animated GIF''s]]'
 source_release: '[[Releases/Notion/notion-2021-01-27-https-www-notion-com-releases-2021-01-27-a5e61124|notion-2021-01-27-https-www-notion-com-releases-2021-01-27-a5e61124]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2021-01-27 · Descript · [[Changes/Descript/2021-01-27-you-can-now-export-animated-gif-s-in-addition-to-mp4-files-from-the-video-export|Descript now supports exporting animated GIF's]]
-- Later: 2021-02-18 · Descript · [[Changes/Descript/2021-02-18-descript-on-mac-now-allows-you-to-switch-between-screen-capture-and-fullscreen-r|Fullscreen webcam recording (Mac)]]
+- Later: 2021-02-03 · Raycast · [[Changes/Raycast/2021-02-03-browser-bookmarks-a-new-dropdown-menu-in-the-bookmarks-list-allows-you-to-select|Browser Bookmarks : A new dropdown menu in the bookmarks list allows you to select…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

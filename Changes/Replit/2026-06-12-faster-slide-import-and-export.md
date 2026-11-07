@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bce4c0167401856db6033002c88da6ee6a0f3c93e21448fee916356b09d1b369
+machine_hash: c10c45ed4829973226f652b5f7df404ad06b88028a661202a8a4e930530bdef7
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Faster slide import and export
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and
-  fix database performance problems]]'
-- '[[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster
-  file search across large projects with the new fff -backed search tools]]'
+- '[[Changes/Superwhisper/2026-06-11-2-reliability-and-performance-changes-in-superwhisper-windows-1-4-13|2
+  Reliability and Performance changes in Superwhisper Windows 1.4.13]]'
 - '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
   Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Raycast/2026-06-12-snippets-improved-snippet-expansion-reliability-and-accuracy-faster-expansion-wh|Snippets:
+  Improved snippet expansion reliability and accuracy]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Earlier: 2026-06-12 · Raycast · [[Changes/Raycast/2026-06-12-snippets-improved-snippet-expansion-reliability-and-accuracy-faster-expansion-wh|Snippets: Improved snippet expansion reliability and accuracy]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed up branch and HEAD detection in warm sessions]]
 <!-- chronolog:end -->
 

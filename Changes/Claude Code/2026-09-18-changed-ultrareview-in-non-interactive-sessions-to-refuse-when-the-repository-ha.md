@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a87da04aeb821749331978ada7ea204b8ab01a325edaed40f1bb0477710a830
+machine_hash: 489c48e1609a0ed20331d341b79f4148fe626c0400d00839fb9e14573811580d
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration changes in v2026.9.5]]
+- Later: 2026-09-18 · Devin · [[Changes/Devin/2026-09-18-mentions-and-session-links-in-microsoft-teams|Mentions and Session Links in Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

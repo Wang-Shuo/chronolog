@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fc805e79e6b9ea30b7d669f046d5109ba0ad591ddaade447a6b7fa0179d3d38
+machine_hash: d32411387dec20991ba895843924b9c7e98fc390cbd41f47c6ebe3e933966ea1
 product: dify
 product_name: Dify
 record:
@@ -63,12 +63,12 @@ record:
   title: 9 Developer Workflow changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
-  syntax highlighting from shell commands in the timeline]]'
-- '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
-  the command in running Bash tool cards and allow expanding it with Ctrl+O…]]'
 - '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
   Workflow changes in v1.17.10]]'
+- '[[Changes/Raycast/2026-06-24-capture-window-new-capture-window-command-to-capture-a-raycast-window-to-share-i|Capture
+  Window : New Capture Window command to capture a Raycast window to share…]]'
+- '[[Changes/Raycast/2026-06-24-raycast-focus-added-missing-import-focus-categories-command-and-export-category|Raycast
+  Focus : Added missing Import Focus Categories command and Export Category…]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: developer-workflow
@@ -131,7 +131,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer Workflow changes in v1.17.10]]
+- Earlier: 2026-06-24 · Raycast · [[Changes/Raycast/2026-06-24-raycast-focus-added-missing-import-focus-categories-command-and-export-category|Raycast Focus : Added missing Import Focus Categories command and Export Category…]]
 - Later: 2026-06-25 · Gemini CLI · [[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat: add eval:inventory CLI command and reporting logic]]
 <!-- chronolog:end -->
 

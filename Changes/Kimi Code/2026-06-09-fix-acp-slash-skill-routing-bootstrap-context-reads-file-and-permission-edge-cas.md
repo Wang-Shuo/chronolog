@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e751ddbf65fb33b00d93bd7c6274cde7bba16270660aa8b83968b4a11703bf7
+machine_hash: 81e1cd44596537f0de04b4d27ab81d1d424a4f44934e73a1802b79d3ef3cb1e8
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -55,8 +55,7 @@ record:
     edge…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6
-  Safety and Privacy changes in rust-v0.138.0]]'
+- '[[Changes/LM Studio/2026-06-08-security-hardening|Security hardening]]'
 - '[[Changes/Codex CLI/2026-06-09-5-safety-and-privacy-changes-in-rust-v0-139-0|5
   Safety and Privacy changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-pasted-images-no-longer-leak-into-the-main-prompt-after-a-permission-dialog-clos|Pasted

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8b7b4357349383f8f8263c835c46b35a8643cdc1d6398c9a693c7006fec01adb
+machine_hash: cc012dc441a6c4a9270b9ae38a656291d096b0aca9baccee7f886a0a73872c3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,7 @@ record:
   title: Improved agent view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
-  and repo pickers]]'
+- '[[Changes/Devin/2026-07-10-fullscreen-devin-desktop|Fullscreen Devin Desktop]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
   Interface Experience changes in v1.0.70]]'
 - '[[Changes/Kimi Code/2026-07-10-2-interface-experience-changes-in-kimi-code-0-23-4|2

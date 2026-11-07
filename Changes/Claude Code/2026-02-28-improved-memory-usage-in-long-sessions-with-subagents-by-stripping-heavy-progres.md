@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4df53c50a83a11cd42690be02a515d3df8e7e0ac479aa0525975ff47b02f95d4
+machine_hash: 5288b20022946e6e5ff74050ff6e94eae77a7023bbb13772499000f395b68e55
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     progress…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This
-  should noticeably increase the general speed and performance across the entire…]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
+- '[[Changes/LM Studio/2026-02-27-dgx-spark-enable-direct-i-o-to-improve-model-load-latency|DGX
+  Spark Enable Direct I/O to improve model load latency]]'
 - '[[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases

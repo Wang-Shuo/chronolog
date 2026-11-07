@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6d8ed532cd89bf8435a354d3e49d81c10f431a99ce27dc719a71626973903d26
+machine_hash: b2897d35c3b39aba87dc2de7df4b072834ecf13082eb71b5ad66bc46de4842e6
 product: aider
 product_name: Aider
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing is now out of beta]]
-- Later: 2023-10-20 · Ollama · [[Changes/Ollama/2023-10-20-4-model-support-changes-in-v0-1-4|4 Model Support changes in v0.1.4]]
+- Later: 2023-10-18 · Raycast · [[Changes/Raycast/2023-10-18-ai-commands-the-gpt-3-5-turbo-instruct-model-is-now-available-it-is-a-replacemen|AI Commands : The GPT-3.5 Turbo Instruct model is now available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

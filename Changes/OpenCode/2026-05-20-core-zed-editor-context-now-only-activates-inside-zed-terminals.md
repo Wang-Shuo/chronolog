@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a64ae4066c181aadcbffd67601bee51782092fa4d66a3a8db9e9432c03a06d74
+machine_hash: 117408d65823b97b36526d53e39ed6bd7d2672f8dae91a2bdf637fb61658457c
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable status line in the terminal footer displays session info such as model…]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context Window changes in rust-v0.133.0]]
+- Later: 2026-05-20 · Raycast · [[Changes/Raycast/2026-05-20-core-allow-running-several-instances-of-raycast-with-different-users-in-the-cont|Core: Allow running several instances of Raycast with different users in the context…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6600d97aaa223a73b16cab279f6e2caee8f3fc9b77271684eb699eec84aabae4
+machine_hash: 35dfa4cd196c37211771ad1aa60683e5efc086886387d1eb30794e8cc375c686
 product: openhands
 product_name: OpenHands
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-18 · Midjourney · [[Changes/Midjourney/2026-02-18-please-note|Please Note]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]]
+- Later: 2026-02-18 · Recraft · [[Changes/Recraft/2026-02-18-visual-taste-at-its-core|Visual taste at its core]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

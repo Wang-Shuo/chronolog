@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e9e665ceea62f5c7808c979e359b26889fd24742ce24aa04d671a6d942ba444
+machine_hash: eba7de9e60460d7c816aae1c8ea03335ec3bdead3cb417bec0d8b4d98ad811f1
 product: notion
 product_name: Notion
 record:
@@ -47,8 +47,7 @@ record:
   title: Search Salesforce accounts, leads, opportunities, and contacts in Notion
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New
-  Plugins on the Cursor Marketplace]]'
+- '[[Changes/Devin/2026-03-11-datadog-mcp-integration|Datadog MCP Integration]]'
 - '[[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps
   and Integrations changes in v0.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4

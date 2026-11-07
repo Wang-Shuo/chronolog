@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 291751213377700911fa0d2ad042d98a82c8ca63a113df6f16d332702bff15b4
+machine_hash: 1308ec7b009a394f0210b9b8d9d7a25231ce1e3e72ef3d3cbafcbb8f3e90e117
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-2-developer-workflow-changes-in-0-6-14|2 Developer Workflow changes in 0.6.14]]
-- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer Workflow changes in 0.8.1]]
+- Later: 2024-07-17 · Raycast · [[Changes/Raycast/2024-07-17-4-developer-workflow-changes-in-raycast-macos-v1-1-79-0|4 Developer Workflow changes in Raycast macos-v1 1.79.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3dda652f793e3db8fcf99cf229de2386a8fe3ece03cacad7dcfea7132560b9c
+machine_hash: 3f804bea8ecbb833e20971a9fcaee9e41f1822e7863d53da40a5c32609ed4f68
 product: open-webui
 product_name: Open WebUI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-only-free-and-pro-projects-are-eligible-for-linkedin-skills|Only Free and Pro projects are eligible for LinkedIn skills]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-record-who-is-behind-each-commit-lovable-pushes|Record who is behind each commit Lovable pushes]]
+- Later: 2026-08-26 · Devin · [[Changes/Devin/2026-08-26-batch-remediation-via-v3-api|Batch Remediation via v3 API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

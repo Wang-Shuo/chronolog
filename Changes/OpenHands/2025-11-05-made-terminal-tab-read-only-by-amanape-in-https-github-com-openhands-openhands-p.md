@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79f4975005530f765347a3447557e6fa81864bce6a53ec4e8a82b71435b2fc5f
+machine_hash: 8485df421468e97ed317da0122f0d4480091295ed25bdb7796bb23ee275e1c28
 product: openhands
 product_name: OpenHands
 record:
@@ -51,10 +51,10 @@ record:
   title: Made terminal tab read-only
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-6043-chore-add-shell-serialization-tests-for-json-6043|♯6043
-  chore: Add shell serialization tests for json (♯6043)]]'
 - '[[Changes/Gemini CLI/2025-11-04-docs-github-revamp-pull-request-template-by-jerop-in-https-github-com-google-gem|docs(github):
   revamp pull request template]]'
+- '[[Changes/LM Studio/2025-11-04-added-lms-runtime-get-and-lms-runtime-update-cli-commands-to-manage-runtime-exte|Added
+  lms runtime get and lms runtime update CLI commands to manage runtime…]]'
 - '[[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]'
 source_release: '[[Releases/OpenHands/openhands-2025-11-05-0-61-0-github-260040608-a8779d3b|openhands-2025-11-05-0-61-0-github-260040608-a8779d3b]]'
 source_type: github_releases

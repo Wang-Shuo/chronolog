@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f1559eeeea3701526ced1c15d0db73e64089229acda7db4e15c03cf252dbd96
+machine_hash: c67140363d6c1105999cdbc9112e555c6da7d5d2fa992db2b745b85b01d0c4b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
-  and Performance changes in 1.16.0]]'
 - '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
   a periodic progress heartbeat for long-running tool calls that previously went…]]'
+- '[[Changes/Superwhisper/2026-07-20-refined-the-typing-speed-test-and-stat-sharing-controls|Refined
+  the typing speed test and stat sharing controls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added a periodic progress heartbeat for long-running tool calls that previously went…]]
+- Earlier: 2026-07-20 · Superwhisper · [[Changes/Superwhisper/2026-07-20-refined-the-typing-speed-test-and-stat-sharing-controls|Refined the typing speed test and stat sharing controls]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3 Reliability and Performance changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

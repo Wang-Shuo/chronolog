@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a2cf0aedfbdaa3fe596a91dc7c9c7702ad0c4aea0450de1cef2637d672405ae
+machine_hash: 52131ae47a121bd466e303f2909357d76c27c9970769bb13ef73f256cd9caf9a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: Add grep tool Codex models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
-  changes in v0.20.0]]'
+- '[[Changes/LM Studio/2025-12-09-support-for-essentialai-s-rnj-1-model|Support for
+  EssentialAI''s rnj-1 model]]'
 - '[[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support
   changes in v0.13.3]]'
 - '[[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model

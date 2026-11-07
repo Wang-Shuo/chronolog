@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e6d7e139a709b9224a4cf2935283ce5ddd1f6dec57cedfdfed20e4ee29b6dd2
+machine_hash: 82ba455c8f8e625eb8ec31838c83bfc41b69eb66e7abbbf379a63b32b3df8695
 product: notion
 product_name: Notion
 record:
@@ -43,8 +43,8 @@ record:
     menu
   type: change
 related_changes:
-- "[[Changes/Notion/2021-12-23-3-interface-experience-changes-in-hack-week|3 Interface
-  Experience changes in Hack week \U0001F469\U0001F3FC\U0001F4BB\U0001F468\U0001F3FF\U0001F4BB\U0001F9D1\U0001F3FD\U0001F4BB]]"
+- '[[Changes/Raycast/2022-01-12-script-commands-when-a-script-command-with-the-compact-mode-is-run-via-a-hotkey|Script
+  Commands: When a script command with the compact mode is run via a hotkey…]]'
 - '[[Changes/Notion/2022-01-19-customize-which-page-opens-first-when-you-launch-notion|Customize
   which page opens first when you launch Notion]]'
 - '[[Changes/Notion/2022-01-19-blocks-that-point-to-a-url-such-as-web-bookmark-blocks-link-previews-now-include|Blocks

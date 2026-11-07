@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bdf97168fb562dac7818e56dea7b63a74ba8711929728b45164fc9964120041
+machine_hash: 00855dea0b1202afe168ae621f0344ef1f5a8c5794332f6b9a905c98936cb7f7
 product: lovable
 product_name: Lovable
 record:
@@ -47,9 +47,9 @@ record:
   title: '[Introducing Code viewer to Lovable](https://x.com/lovable_dev/status/1895500151889768596)'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements
-  in visual edits((source link)]]'
 - '[[Changes/Descript/2025-02-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize
+  chat vs workspace width]]'
 - '[[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|''Edit''
   mode auto close after editing an element]]'
 source_release: '[[Releases/Lovable/lovable-2025-02-28-2025-02-28-81625fa9|lovable-2025-02-28-2025-02-28-81625fa9]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-editor-updates|Editor updates]]
+- Earlier: 2025-02-26 · Devin · [[Changes/Devin/2025-02-26-customize-chat-vs-workspace-width-drag-to-make-the-chat-as-narrow-or-wide-as-you|Customize chat vs workspace width]]
 - Later: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev Mode:((source link) Easily edit any…]]
 <!-- chronolog:end -->
 

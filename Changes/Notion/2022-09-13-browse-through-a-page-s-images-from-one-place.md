@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 811b16b3925730060fabe5fda57a555d8e9fa3fb6227d9f55c0c140bb850d2b9
+machine_hash: a99d941e8cea5f0c277e6ae95d2cd81186158b6a54e9d4ffcc4f01670138501d
 product: notion
 product_name: Notion
 record:
@@ -49,10 +49,9 @@ record:
   title: Browse through a page’s images from one place
   type: change
 related_changes:
-- '[[Changes/Descript/2020-12-17-spot-audition-allows-you-to-automatically-playback-your-search-results-as-you-cy|Spot
-  Audition search results]]'
-- '[[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public
-  projects are no longer indexable by search engines]]'
+- '[[Changes/Raycast/2021-07-29-2-search-and-browsing-changes-in-raycast-macos-v1-1-21-0|2
+  Search and Browsing changes in Raycast macos-v1 1.21.0]]'
+- '[[Changes/Raycast/2022-04-20-search-screenshots|Search Screenshots]]'
 - '[[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate
   your workspace with Census, Rootly & Bardeen.ai]]'
 source_release: '[[Releases/Notion/notion-2022-09-13-https-www-notion-com-releases-2022-09-13-a4d08f0e|notion-2022-09-13-https-www-notion-com-releases-2022-09-13-a4d08f0e]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2022-05-10 · Notion · [[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate your workspace with Census, Rootly & Bardeen.ai]]
-- Later: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Later: 2022-09-28 · Raycast · [[Changes/Raycast/2022-09-28-root-search-search-index-is-partially-rebuilt-after-each-triggered-search-result|Root Search : Search index is partially rebuilt after each triggered search result]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

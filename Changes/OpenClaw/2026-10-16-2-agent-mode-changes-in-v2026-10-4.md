@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02dffa9f08697686c251868627c4e140d4a06c8ff4e039b49af7a336d18e2692
+machine_hash: fa320dff5d0d67ff8b2c118eb1452c6a8d79a5d60552db22408e787cae4fca02
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Agent Mode changes in v2026.10.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode
-  changes in v2.1.302]]'
 - '[[Changes/Cursor/2026-10-16-environments-api|Environments API]]'
 - '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
+- '[[Changes/Krea/2026-10-16-agent-transcripts-show-each-command|Agent transcripts
+  show each command]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-16-v2026-10-4-c8c204e0|openclaw-2026-10-16-v2026-10-4-c8c204e0]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -95,8 +95,8 @@ Source: https://docs.openclaw.ai/releases/2026.10.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
-- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes in v2026.10.5]]
+- Earlier: 2026-10-16 · Krea · [[Changes/Krea/2026-10-16-agent-transcripts-show-each-command|Agent transcripts show each command]]
+- Later: 2026-10-16 · Raycast · [[Changes/Raycast/2026-10-16-ai-chat-agents-you-turn-off-in-settings-no-longer-appear-in-the-composer|AI Chat : Agents you turn off in Settings no longer appear in the composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11c7eb37066bf9505da4a3b81f513f619f91bc56f860893af2ebedcdaf282a9b
+machine_hash: 773ae3a27c542d5158544d5e08deb8c4da8b094b9a3ffe3fa3d06ad4dd25f737
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,11 +49,11 @@ record:
   title: 3 Safety and Privacy changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Z.ai API/2026-08-18-emergent-cybersecurity-capabilities-glm-5-3-matches-mythos-5-in-white-box-code-r|Emergent
-  Cybersecurity Capabilities]]'
-- '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
-  and Privacy changes in v2.1.236]]'
 - '[[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]'
+- '[[Changes/Raycast/2026-08-19-2-safety-and-privacy-changes-in-raycast-macos-0-71|2
+  Safety and Privacy changes in Raycast macos 0.71]]'
+- '[[Changes/Raycast/2026-08-19-ai-fixed-answering-a-tool-permission-prompt-doing-nothing-after-quitting-and-reo|AI
+  : Fixed answering a tool permission prompt doing nothing after quitting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]
+- Earlier: 2026-08-19 · Raycast · [[Changes/Raycast/2026-08-19-ai-fixed-answering-a-tool-permission-prompt-doing-nothing-after-quitting-and-reo|AI : Fixed answering a tool permission prompt doing nothing after quitting…]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 

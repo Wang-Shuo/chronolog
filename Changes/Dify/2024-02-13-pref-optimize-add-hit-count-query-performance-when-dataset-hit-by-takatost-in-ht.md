@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c90344ef86d0e8d82be18ca06e05d736c9444999596d07752814df0818819f8
+machine_hash: ce366b213c3b05c8b698177520c70798875dac177c9442775a5c88b4b1000b7c
 product: dify
 product_name: Dify
 record:
@@ -42,9 +42,9 @@ record:
   title: 'pref: optimize add hit count query performance when dataset hit'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
-  making API requests, the new keep_alive parameter can be used to control how…]]'
 - '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
+- '[[Changes/Superwhisper/2024-02-08-stability-improvements-for-local-language-models|Stability
+  improvements for local language models]]'
 - '[[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets
   page is ~1.5x faster]]'
 source_release: '[[Releases/Dify/dify-2024-02-13-0-5-5-github-141734357-775b8760|dify-2024-02-13-0-5-5-github-141734357-775b8760]]'

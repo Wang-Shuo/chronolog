@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3255bb7c932eae79dc875c651e1d7ec02731c91e10897089eb7dd2746fd069a6
+machine_hash: db18f0a80fbec6b12c1d718b3a020012f4619e85c6b3766a2a10c0117e2bd31d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
-  nodes, including LLM and Question Classifier]]'
+- '[[Changes/LM Studio/2026-03-18-new-default-separate-reasoning-content-and-content-in-api-responses-is-now-on-by|New
+  default: "separate reasoning_content and content in API responses" is now…]]'
 - '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
   effort frontmatter support for skills and slash commands to override…]]'
 - '[[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes

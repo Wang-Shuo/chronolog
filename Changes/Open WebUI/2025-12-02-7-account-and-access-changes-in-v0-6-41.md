@@ -14,12 +14,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c96428b84b3b0ce14b23c258c1bac67dbf9d615ad799baaf64131b8a2a0a4b0
+machine_hash: f08292eca9082cf20e8fa04738ab04e8510d9f34ca9ec195d65e0258d6d2921e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -75,9 +75,9 @@ record:
   title: 7 Account and Access changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added
-  better error states for onboarding users during authentication flow]]'
 - '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
+- '[[Changes/Raycast/2025-11-27-authentication-removed-the-required-login-step-before-getting-started|Authentication
+  : Removed the required login step before getting started]]'
 - '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
   support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'

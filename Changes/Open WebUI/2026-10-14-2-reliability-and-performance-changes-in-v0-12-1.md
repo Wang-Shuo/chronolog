@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d74fe6c78a2772a5f6d27cb4f1871448b20978eef1b9974872c28ab1894a3b2
+machine_hash: 9411a38d631678c46634f44fdbff085fd5d64b9b24f2f12182f3af1272849200
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
-  memory relief in long sessions can now bypass its cooldown before V8…]]'
+- '[[Changes/Superwhisper/2026-10-13-faster-improved-language-detection|Faster & improved
+  language detection]]'
 - '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
   memory and disk use when PDFs are @-mentioned]]'
 - "[[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504

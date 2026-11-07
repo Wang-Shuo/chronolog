@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65465dbe2005d9418d6c9e14d6260679539d911eb2a3c1f24f7d1041d6251378
+machine_hash: 9008b37fd1e552e440e15d8bf4898f4d64f0cc09671ea3eb6c2653c4036d6930
 product: descript
 product_name: Descript
 record:
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat: add circular scrolling to GotoAnything command menu]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface Experience changes in v3.31.0]]
+- Later: 2025-09-24 · LM Studio · [[Changes/LM Studio/2025-09-24-new-sort-chats-sidebar-by-date-updated-date-created-or-token-count|New: Sort chats sidebar by date updated, date created, or token count]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

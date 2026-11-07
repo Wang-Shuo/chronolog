@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fe696e4f959a3507a033687d44f79769b961567504c83a5121c9a5471d6c501
+machine_hash: 74870b804b4cabddbe14c279c02efcc7ec9ff6f225133ef5bd475df1809b4444
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.15
 ## Nearby in Model Support
 
 - Earlier: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-4-model-support-changes-in-v0-0-15|4 Model Support changes in v0.0.15]]
-- Later: 2023-08-26 · Ollama · [[Changes/Ollama/2023-08-26-2-model-support-changes-in-v0-0-16|2 Model Support changes in v0.0.16]]
+- Later: 2023-08-24 · Superwhisper · [[Changes/Superwhisper/2023-08-24-2-model-support-changes-in-superwhisper-macos-1-13-1|2 Model Support changes in Superwhisper macOS 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

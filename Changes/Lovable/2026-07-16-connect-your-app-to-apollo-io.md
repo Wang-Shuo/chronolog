@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b398c0d67e08f59c947d1faf698a3c11b8cb51a16f3a92bba523819c13c2354d
+machine_hash: 9a6ba148cc79216057e873c3cf06adfeb89232f604109dbb140e31446b71be00
 product: lovable
 product_name: Lovable
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16 Apps and Integrations changes in v1.0.71]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP tool calls running longer than 2 minutes now move to the background…]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-2-apps-and-integrations-changes-in-raycast-macos-0-69|2 Apps and Integrations changes in Raycast macos 0.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

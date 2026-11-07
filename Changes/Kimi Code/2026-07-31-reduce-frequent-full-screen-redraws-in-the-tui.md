@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3094da84ed33ea9167d1e694e18def4bf1b8f0e52acc9d4f674b4f770f83d2e9
+machine_hash: 014fa68c87453aabf76ac13bd1a92457d47c48a2a1e02df926bef0478314c17a
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -41,10 +41,9 @@ record:
   title: Reduce frequent full-screen redraws in the TUI
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-29-add-a-customizable-footer-status-line-configured-via-status-line-in-tui-toml|Add
-  a customizable footer status line, configured via status_line in tui.toml]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
+- '[[Changes/Superwhisper/2026-07-30-2-interface-experience-changes-in-superwhisper-windows-1-5-8|2
+  Interface Experience changes in Superwhisper Windows 1.5.8]]'
+- '[[Changes/Devin/2026-07-31-session-sidebar-improvements|Session Sidebar Improvements]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-31-0-31-1-b6be4cd6|kimi-code-2026-07-31-0-31-1-b6be4cd6]]'

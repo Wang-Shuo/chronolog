@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4d5e4db6d81b77f38d54ab014e27d042ee24f354ede2208bf8cff146cbd0d34e
+machine_hash: e046d941d1085630e96366b0161d840c6ec8de663c02f28c02517c579be1f902
 product: descript
 product_name: Descript
 record:
@@ -49,11 +49,11 @@ record:
   title: Media Library files now transcribe automatically
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-improved-voice-to-show-your-dictation-language-on-enable-and-warn-when-your-lang|Improved
-  /voice to show your dictation language on enable and warn…]]'
 - '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
   and Audio changes in rust-v0.115.0]]'
 - '[[Changes/ElevenLabs/2026-03-16-packages|Packages]]'
+- '[[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator
+  : Added voice pack installation prompt when needed…]]'
 source_release: '[[Releases/Descript/descript-2026-03-17-69b3257b60b225e10f6a3a28-246aeffc|descript-2026-03-17-69b3257b60b225e10f6a3a28-246aeffc]]'
 source_type: canny_changelog
 theme: voice
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-packages|Packages]]
+- Earlier: 2026-03-16 · Raycast · [[Changes/Raycast/2026-03-16-translator-added-voice-pack-installation-prompt-when-needed-download-may-take-a|Translator : Added voice pack installation prompt when needed…]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice): implement speech-friendly response formatter]]
 <!-- chronolog:end -->
 

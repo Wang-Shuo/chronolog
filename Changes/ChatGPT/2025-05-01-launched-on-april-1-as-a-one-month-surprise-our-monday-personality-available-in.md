@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 0840f1198a71d19a4c5d450fd265546ce6f5fe3495e71030573645bd916e589e
+machine_hash: ee0112e9b5c673d27fd99ebedd758cfc7a5b742538769a1f407bc7b542400416
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,9 +57,9 @@ record:
   title: Sunsetting Monday GPT
   type: change
 related_changes:
-- '[[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider
-  selection]]'
 - '[[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]'
+- '[[Changes/Superwhisper/2025-04-24-nova-3-voice-model-app-fixes|Nova 3 Voice Model
+  & App Fixes]]'
 - '[[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio
   Generation (TTS, S2S, SFX, Voice Design)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e|chatgpt-2025-05-01-sunsetting-monday-gpt-9d013d1e]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5099051f811b3a7d7c9704d0def1812cb8f9b0907ce6ea3a7ff2d2336c7c83e
+machine_hash: 9d1f3bb57b47cc500a71034a6824074210bb62025b0d91be5ffa7aa66581a8cf
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Developer Workflow changes in v3.11.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
-  Review Improved the Code Review admin section to retry the first load…]]'
 - '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
   Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-turn-on-automatic-reviews-from-a-pull-request|Turn on
+  Automatic Reviews from a Pull Request]]'
 - '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
   /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'

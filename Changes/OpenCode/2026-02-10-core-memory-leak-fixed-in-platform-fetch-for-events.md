@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b97b01e1f2bc1cfcb70a1ec33223297a753d37f2ecbb9a6edaf90dd0fcae81ab
+machine_hash: 242317d32b56769f0b728aa067c025b74ea0f187d1be8f7799a66accdfaba3c8
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: Core Memory leak fixed in platform fetch for events
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
+- '[[Changes/Devin/2026-02-06-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
 - '[[Changes/Descript/2026-02-10-we-ve-also-updated-our-lip-sync-model-for-translated-videos-it-s-hella-good-now|Descript
   updates our lip sync model for translated videos]]'

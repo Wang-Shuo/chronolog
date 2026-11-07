@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 17a0079fcdba4fc00f31f55ccc56ec05a12d7963d0994606dfe46426798f8ce4
+machine_hash: bc409795f7717ca90f8e1d94cd29f60dc8bd08ca9cd704c6bfce4ba536d89701
 product: opencode
 product_name: OpenCode
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
+- Later: 2026-07-16 · Raycast · [[Changes/Raycast/2026-07-16-ai-mentions-get-preserved-when-copying-a-selection-in-the-ui|AI : @-mentions get preserved when copying a selection in the UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

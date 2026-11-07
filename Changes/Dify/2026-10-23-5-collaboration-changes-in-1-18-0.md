@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9c029c888fda4af3b165a299085bd082f98af3612bfdbaf1f1d44304ee1833e
+machine_hash: 4caca86ee06eb966d9f09ed5162572024fe822c4962278fbd95d13a7091bd84b
 product: dify
 product_name: Dify
 record:
@@ -70,12 +70,12 @@ record:
   title: 5 Collaboration changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
-  adopt the shared known-bug contract]]'
 - '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
   Share now shows an error when it can’t discover receivers, instead…]]'
 - '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
   changes in rust-v0.164.0]]'
+- '[[Changes/Devin/2026-10-23-private-sessions-from-microsoft-teams-channels|Private
+  Sessions from Microsoft Teams Channels]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
 source_type: github_releases
 theme: collaboration
@@ -128,7 +128,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Devin · [[Changes/Devin/2026-10-23-private-sessions-from-microsoft-teams-channels|Private Sessions from Microsoft Teams Channels]]
 - Later: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
 <!-- chronolog:end -->
 

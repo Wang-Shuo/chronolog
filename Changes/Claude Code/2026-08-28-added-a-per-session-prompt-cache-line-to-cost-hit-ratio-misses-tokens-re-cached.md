@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: abd1812fc95137ff40f7bde026e3360e0e1561f968b4a21848809cc9dd2ed14e
+machine_hash: 812907e54352a5689bb85ab050a05cfc8c3036afbf58ea4cb3656352808d576d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Added a per-session prompt-cache line to `/cost`…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
-  Export turn cost as an OTEL metric @copyberry]]'
 - '[[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable
   works up to 10 hours on a single message]]'
+- '[[Changes/AnythingLLM/2026-08-27-feat-cost-tracking-by-timothycarambat-in-https-github-com-mintplex-labs-anything|Feat/cost
+  tracking]]'
 - '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
   /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · Devin · [[Changes/Devin/2026-08-28-code-scan-history|Code Scan History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5d73d58ac830d508dc8f33801b07756b0a703557ab2470405834d55ff06ac55
+machine_hash: d383be2dfc09a384217d8b581a98c6b49c5eb6aa092877777c6bb109e13fe06b
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in Kimi Code 0.13.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
-  Developer Workflow changes in v1.0.61]]'
 - '[[Changes/Kimi Code/2026-06-09-wrap-long-single-line-shell-commands-in-approval-prompts-so-the-full-command-rem|Wrap
   long single-line shell commands in approval prompts so the full command remains…]]'
 - '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
   Workflow changes in v2.1.172]]'
+- '[[Changes/Devin/2026-06-10-devin-review-pending-pr-reviews-canceled-on-new-commits|Devin
+  Review: Pending PR Reviews Canceled on New Commits]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-06-10-0-13-0-67935ee9|kimi-code-2026-06-10-0-13-0-67935ee9]]'
 source_type: kimi_code_changelog
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
+- Earlier: 2026-06-10 · Devin · [[Changes/Devin/2026-06-10-devin-review-pending-pr-reviews-canceled-on-new-commits|Devin Review: Pending PR Reviews Canceled on New Commits]]
 - Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer Workflow changes in v1.17.0]]
 <!-- chronolog:end -->
 

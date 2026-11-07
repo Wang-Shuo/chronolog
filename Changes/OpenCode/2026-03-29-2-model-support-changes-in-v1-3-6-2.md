@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01dd321f4268d62de931c143a8427f0c265e07d2b850cde5a4b3362a2346ff04
+machine_hash: c4d1cf0cde69d2329484a875d02919ca297f08ef3070b8e31e6a8527b57d141a
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
-  in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
   app will now no longer incorrectly show "model is out of date"]]'
 - "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
   Admin model visibility. Administrators can now see models even when no access…]]"
+- '[[Changes/Raycast/2026-03-27-2-model-support-changes-in-raycast-macos-0-51|2 Model
+  Support changes in Raycast macos 0.51]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog
 theme: model-support
@@ -87,7 +87,7 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|👑 Admin model visibility. Administrators can now see models even when no access…]]
+- Earlier: 2026-03-27 · Raycast · [[Changes/Raycast/2026-03-27-2-model-support-changes-in-raycast-macos-0-51|2 Model Support changes in Raycast macos 0.51]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model Support changes in v1.0.13]]
 <!-- chronolog:end -->
 

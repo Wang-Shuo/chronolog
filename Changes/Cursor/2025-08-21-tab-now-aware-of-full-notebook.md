@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2a774e8452cb0abfe06dbd43676d7d9638a5aef988d1d383788968d58d16247
+machine_hash: 37f2f61b4a9de80e9fe2f02c95f013a2ef71a0ebb54747731e7c8f9ba3fb5e8a
 product: cursor
 product_name: Cursor
 record:
@@ -39,10 +39,9 @@ record:
   title: Tab now aware of full notebook
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-20-2-editor-experience-changes-in-v3-26-0|2 Editor Experience
-  changes in v3.26.0]]'
 - '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
   Experience changes in rust-v0.23.0]]'
+- '[[Changes/Recraft/2025-08-20-edit-and-variate|Edit and variate]]'
 - '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
   an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'

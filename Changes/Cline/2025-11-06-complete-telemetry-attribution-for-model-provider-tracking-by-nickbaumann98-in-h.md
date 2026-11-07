@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 34d9e61149df65f7255506b64c2acd9ae0a3ad58dadfd4fc95c7cb02e19e8cd0
+machine_hash: 7beeeebbcad862d6a90dd8172c9cb3526f35df23068ec2640bff22514d8317ce
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: Complete telemetry attribution for model/provider tracking
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
-  changes in v0.12.0]]'
+- '[[Changes/LM Studio/2025-11-04-2-model-support-changes-in-lm-studio-0-3-31|2 Model
+  Support changes in LM Studio 0.3.31]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
   ChatGPT]]'
 - '[[Changes/Ollama/2025-11-05-2-model-support-changes-in-v0-12-10|2 Model Support

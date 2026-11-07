@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4de188658b02d2d987b8f542795b6ab2aa411635711874fecac88b6f32d548c
+machine_hash: c8fe375e44f57f4a7c7e68f41f7c30d283669b47fa04e5d780075d153e2495a4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal Fixed editor lock detection to ignore locks from unrelated workspaces]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience changes in 1.14.0]]
+- Later: 2026-04-27 · Raycast · [[Changes/Raycast/2026-04-27-theme-studio-preview-create-and-edit-themes-to-make-raycast-your-own-using-our-n|Theme Studio : Preview, create and edit themes to make Raycast your own using our…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

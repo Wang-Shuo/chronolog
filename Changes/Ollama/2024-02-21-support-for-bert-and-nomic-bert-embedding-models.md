@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb533b513ab8d0c1c74023adaead445b181e50cdebb6ca3c9271a847aeaa9a0b
+machine_hash: 2cd56b8b85ae403b5679383de430a7037c8c2735610001d752910f66568d4d3d
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Support for `bert` and `nomic-bert` embedding models
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
-  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
 - '[[Changes/Ollama/2024-02-14-setting-a-negative-keep-alive-value-e-g-1-will-now-correctly-keep-the-model-load|Setting
   a negative keep_alive value (e.g. -1) will now correctly keep the model…]]'
 - '[[Changes/Ollama/2024-02-14-ollama-is-now-available-on-windows-in-preview-download-it-here-https-github-com|Ollama
   is now available on Windows in preview]]'
+- '[[Changes/Superwhisper/2024-02-20-cloud-language-model-added-claude-instant-1-2|Cloud
+  language model added (Claude Instant 1.2)]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-21-v0-1-26-github-142898859-bef18741|ollama-2024-02-21-v0-1-26-github-142898859-bef18741]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-02-14 · Ollama · [[Changes/Ollama/2024-02-14-ollama-is-now-available-on-windows-in-preview-download-it-here-https-github-com|Ollama is now available on Windows in preview]]
+- Earlier: 2024-02-20 · Superwhisper · [[Changes/Superwhisper/2024-02-20-cloud-language-model-added-claude-instant-1-2|Cloud language model added (Claude Instant 1.2)]]
 - Later: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source link) is a new, top-performing family…]]
 <!-- chronolog:end -->
 

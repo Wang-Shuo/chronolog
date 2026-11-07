@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32310f5cbd1cbcadd81f2416290cc70eb2d7c72b8d187a48c93f2a25bdaf852d
+machine_hash: 64748dbe4abea02c687dbef3af0d10c3b05d3aa3e87aa0f35b82d22f90ace3ca
 product: openclaw
 product_name: OpenClaw
 record:
@@ -180,10 +180,9 @@ record:
   title: 27 Agent Mode changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-08-4-agent-mode-changes-in-v2026-9-9|4 Agent Mode changes
-  in v2026.9.9]]'
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
+- '[[Changes/Devin/2026-10-09-org-level-agent-capabilities|Org-level Agent capabilities]]'
+- '[[Changes/Devin/2026-10-09-repository-agents-md-loaded-on-setup|Repository AGENTS.md
+  loaded on setup]]'
 - '[[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes
   in v0.12.0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cde29ad977ea6cedee61cdbb28a902266fb9733fd9629a014977232a102a601
+machine_hash: cd53ffd8e773342e1403c3ab9c0032022937875acd8b065c7d0c113861d5e2bb
 product: v0
 product_name: v0
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Collaboration changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
-  changes in v0.11.1]]'
+- '[[Changes/AnythingLLM/2026-08-27-2-collaboration-changes-in-v1-16-1|2 Collaboration
+  changes in v1.16.1]]'
 - '[[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An
   ecosystem that connects]]'
 - '[[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve

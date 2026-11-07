@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35eb884db96df1ecfc52ad0bb8cb439af1556fb3f8803dc97ef6ea68eb339d98
+machine_hash: 43c0d0ebf7189f0c80b7fd1f28576ecc694995f60b9dccc1a78c07eecb3ba3f9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: '[45bccd36]…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-custom-slash-commands-b79c4b|Custom slash commands]]'
+- '[[Changes/Raycast/2025-09-12-ai-use-askai-as-fallback-command-in-search|AI: Use
+  AskAI as fallback command in search]]'
 - '[[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature
   to generate commit message for staged changes, with unstaged as fallback]]'
 - '[[Changes/Codex CLI/2025-09-15-2-developer-workflow-changes-in-rust-v0-36-0|2 Developer

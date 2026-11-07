@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fa2f15c3172de3a78a2e0a724c5d8d607e2f6c7897ad2ba79e9f6bbe32a8786f
+machine_hash: 17030deb711dfc4004e50624edbf20f86c3e90b2104437e6ab28f923598031c8
 product: notion
 product_name: Notion
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-2-reliability-and-performance-changes-in-v0-6-5|2 Reliability and Performance changes in v0.6.5]]
-- Later: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability and Performance changes in v0.6.6]]
+- Later: 2025-04-17 · Devin · [[Changes/Devin/2025-04-17-use-devin-s-analysis-to-get-up-to-speed-devin-has-the-self-awareness-to-report-c|Use Devin's analysis to get up to speed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

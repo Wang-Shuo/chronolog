@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faed294fba35c87ddec88e1b41cb7ad2ed7bc1a516d0e16f629eeb5e67cf1423
+machine_hash: 18f3ca516b4e62db426b834bf621eb2c46aad9de4e12b334c1904d8271b3927b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,11 @@ record:
   title: Work with interactive plugin extensions
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-28-slash-commands-provided-by-plugins-now-show-their-plugin-name-in-the-menu-can-be|Slash
-  commands provided by plugins now show their plugin name in the / menu, can…]]'
-- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
-  MCP browser launch failures are now reported when the launcher exits immediately]]'
+- '[[Changes/Raycast/2026-09-28-we-updated-a-few-extensions-ollama-ai-ai-by-vercel-cerebras-groq-lm-studio-etc-d-41fe25|We
+  updated a few extensions: Ollama AI , AI by Vercel , Cerebras , Groq , LM Studio
+  , etc]]'
+- '[[Changes/Raycast/2026-09-28-applications-added-support-for-finding-apps-by-alternate-names-and-spotlight-key|Applications
+  : Added support for finding apps by alternate names and Spotlight…]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'

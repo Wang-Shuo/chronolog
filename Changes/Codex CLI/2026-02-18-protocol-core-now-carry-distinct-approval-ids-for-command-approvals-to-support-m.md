@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e26b44c122ae1b12e6dc1735c02ae06c5ba7c30d991ff9184b4c8596d43f836
+machine_hash: 601e1883304964664b7fb8e0d8b54652b32375381e377014551ca6471992c06a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: Protocol/core now carry distinct approval IDs for command approvals to support…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in
-  2.5]]'
 - '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor
   introduces plugins for extending Cursor, improvements to core agent…]]'
+- '[[Changes/AnythingLLM/2026-02-18-2-agent-mode-changes-in-v1-11-0|2 Agent Mode changes
+  in v1.11.0]]'
 - '[[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes
   in v2.1.47]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34|codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34]]'

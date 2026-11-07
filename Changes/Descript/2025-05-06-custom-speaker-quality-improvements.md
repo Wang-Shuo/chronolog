@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2bf3590d6972a83938043985342f7ad3c97ae4b488d6bf5775aa7063c680ee44
+machine_hash: a62dec3365dac93005ada8380746449d5c745899a55a78195c095d4c809d5c7d
 product: descript
 product_name: Descript
 record:

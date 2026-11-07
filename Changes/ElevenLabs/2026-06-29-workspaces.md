@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7cce36d421f567e004b5a01a008cd3ed017831e723089ae2468f54134cb16755
+machine_hash: ce84d391a6fddaccf30eaa5edfd0b9f664d00c91ea293654b1a59f7c0422189a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,8 +46,8 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A
-  saved model selection no longer briefly flips to a default while the page loads]]'
+- '[[Changes/LM Studio/2026-06-27-added-guidance-in-model-settings-for-llama-cpp-options-that-move-when-lm-studio|Added
+  guidance in model settings for llama.cpp options that move when LM Studio…]]'
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
   support for organization default models]]'
 - '[[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes

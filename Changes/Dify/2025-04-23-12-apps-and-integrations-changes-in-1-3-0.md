@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 175f16cbb39daa1640f99af341f804fe7ab3e2e9e1c7c3973b6a9ccb7a276e20
+machine_hash: 10698cd83f04d4c5c31097e20c4a06373eff6178b577150eb7243184945cf9d5
 product: dify
 product_name: Dify
 record:
@@ -77,8 +77,8 @@ record:
   title: 12 Apps and Integrations changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added
-  support for MCP servers natively via CodeActAgent]]'
+- '[[Changes/AnythingLLM/2025-04-18-3-apps-and-integrations-changes-in-v1-8-0|3 Apps
+  and Integrations changes in v1.8.0]]'
 - '[[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations
   matching]]'
 - '[[Changes/Cline/2025-04-19-add-ability-for-models-that-support-it-to-receive-image-responses-from-mcp-serve|Add

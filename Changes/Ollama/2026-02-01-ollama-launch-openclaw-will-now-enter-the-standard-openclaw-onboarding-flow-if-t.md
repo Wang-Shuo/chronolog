@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5411ba7b22c02d4442f1c33de68d8f8f8dc06138a7678b2a0ab2784d38d00a2d
+machine_hash: a821198e545f844ad7546962c37bd2ab9b8457c9db3cd3bc6b15f9f4cc1bb221
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
     flow if…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-4-interface-experience-changes-in-v0-0-400|4
-  Interface Experience changes in v0.0.400]]'
 - '[[Changes/Windsurf/2026-01-30-close-model-picker-when-selecting-a-battle-group|Close
   model picker when selecting a battle group]]'
 - '[[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3
   Interface Experience changes in rust-v0.93.0]]'
+- '[[Changes/Superwhisper/2026-01-31-address-keyboard-shortcut-binding-issues|Address
+  keyboard shortcut binding issues]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-01-v0-15-4-github-281987726-2d6f883c|ollama-2026-02-01-v0-15-4-github-281987726-2d6f883c]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-interface-experience-changes-in-rust-v0-93-0|3 Interface Experience changes in rust-v0.93.0]]
+- Earlier: 2026-01-31 · Superwhisper · [[Changes/Superwhisper/2026-01-31-address-keyboard-shortcut-binding-issues|Address keyboard shortcut binding issues]]
 - Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2 Interface Experience changes in rust-v0.94.0]]
 <!-- chronolog:end -->
 

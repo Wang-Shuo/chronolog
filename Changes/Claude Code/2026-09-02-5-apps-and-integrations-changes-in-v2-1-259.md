@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad61f0108c12cff7198175a4f3e1eaea7dbece5b759ba09f16d5226a0381e0d3
+machine_hash: c088e0ea11eb2a4d33ac49837b6f4b729ad5c3bee9a3590e3fefaa6ee6437f7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.259
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
-  Apps and Integrations changes in rust-v0.152.0]]'
 - '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
   from a pasted API key]]'
 - '[[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps
   and Integrations changes in v2026.8.2]]'
+- '[[Changes/Raycast/2026-09-01-extensions-restored-raycast-api-1-x-compatibility|Extensions
+  : Restored @raycast/api 1.x compatibility]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps and Integrations changes in v2026.8.2]]
+- Earlier: 2026-09-01 · Raycast · [[Changes/Raycast/2026-09-01-extensions-restored-raycast-api-1-x-compatibility|Extensions : Restored @raycast/api 1.x compatibility]]
 - Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and Integrations changes in v4.1.17]]
 <!-- chronolog:end -->
 

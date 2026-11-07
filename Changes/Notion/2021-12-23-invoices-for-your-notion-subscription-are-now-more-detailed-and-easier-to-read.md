@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b96ac611c6f2eb024cb9215c42a640ae24b31cd72ec75679a686ce3c604e0c56
+machine_hash: 0959bb1f6346c006e1884840667264046965989f22ae95876c847610ee6ed9ba
 product: notion
 product_name: Notion
 record:
@@ -43,10 +43,9 @@ record:
     read
   type: change
 related_changes:
-- "[[Changes/Notion/2020-05-19-add-unlimited-content-for-free-previously-personal-users-had-to-pay-5-month-to-a|Add
-  unlimited content for free \U0001F4B8 Previously, personal users had to pay $5/month…]]"
-- '[[Changes/Descript/2020-06-16-enjoy-more-flexibility-in-your-descript-subscription-with-the-ability-to-switch|Subscription
-  Modal]]'
+- '[[Changes/Raycast/2020-08-03-powerful-calculator|Powerful Calculator]]'
+- '[[Changes/Raycast/2020-12-02-calculator-use-system-currency-as-default-to-allow-quicker-conversions-f-e-if-yo|Calculator:
+  Use system currency as default to allow quicker conversions, f.e. if you…]]'
 - "[[Changes/Notion/2021-04-21-upgrade-with-apple-pay-google-pay|Upgrade with Apple
   Pay & Google Pay \U0001F4B3]]"
 source_release: '[[Releases/Notion/notion-2021-12-23-https-www-notion-com-releases-2021-12-23-326bf15d|notion-2021-12-23-https-www-notion-com-releases-2021-12-23-326bf15d]]'

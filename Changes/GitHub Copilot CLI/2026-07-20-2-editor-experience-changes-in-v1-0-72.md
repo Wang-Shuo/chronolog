@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99e4a9759cbc1b5e160799c1f1828a437d6c183578c6318d100fdf737af968ad
+machine_hash: d41c63187fa529e405ede55864a14b0b7af16110d0986986252985c0600d75b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Editor Experience changes in v1.0.72
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
-  Editor Experience changes in v1.0.71]]'
+- '[[Changes/Devin/2026-07-17-tasks-tab-in-the-workspace|Tasks Tab in the Workspace]]'
 - '[[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience
   changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved

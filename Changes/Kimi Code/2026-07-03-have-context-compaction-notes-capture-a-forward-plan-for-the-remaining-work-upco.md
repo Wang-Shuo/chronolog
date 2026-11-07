@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 590d853d2ee9ce6197e454c7c32cfcfc7453a65ef8afac02cd46d1dccb3bad04
+machine_hash: 81ab1a3d661480747b8f5926df94af07b6130bec98ea8ef23c425b47107fb3f6
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-2-context-window-changes-in-kimi-code-0-22-1|2 Context Window changes in Kimi Code 0.22.1]]
-- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context Window changes in Kimi Code 0.23.0]]
+- Later: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-hyper-key-added-secure-input-compatibility-mode-when-enabled-you-can-use-hyper-k|Hyper Key : Added Secure Input Compatibility mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98f48b53f2f58cdaed114d690ca3adc78b6ad57852579eec055dd369b3900165
+machine_hash: 423d430c2e56f14f44bb772020582454ef19ccac4c695167e2fe4543f203de7f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 3 Files and Data changes in v0.6.26
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
-  certificate issue workaround]]'
+- '[[Changes/Recraft/2025-08-15-you-can-now-export-your-projects-in-pdf-format-directly-from-recraft|PDF
+  export]]'
 - "[[Changes/Open WebUI/2025-08-21-resolved-silently-dropped-streaming-response-chunks-fixed-an-issue-where-the-fin|\U0001F4AC
   Resolved Silently Dropped Streaming Response Chunks]]"
 - '[[Changes/Dify/2025-08-27-4-files-and-data-changes-in-1-8-0|4 Files and Data changes

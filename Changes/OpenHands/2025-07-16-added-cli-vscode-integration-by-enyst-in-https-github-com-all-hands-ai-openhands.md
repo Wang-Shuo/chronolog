@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2fd58274b07c7acadab3c2f48848dce661cea4b420e8f6c291a1fa59bd3b0b18
+machine_hash: 88d0f33ef3e9171e154a887196077820e9d4942518a343e77719f4a36d377c8d
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-markdown-parsing-to-mcp-responses-by-celestial-vault-in-https-github-com-cli|Add markdown parsing to MCP responses]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-deeper-browser-integration|Deeper Browser integration]]
+- Later: 2025-07-16 · Raycast · [[Changes/Raycast/2025-07-16-3-apps-and-integrations-changes-in-raycast-macos-v1-1-101-0|3 Apps and Integrations changes in Raycast macos-v1 1.101.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

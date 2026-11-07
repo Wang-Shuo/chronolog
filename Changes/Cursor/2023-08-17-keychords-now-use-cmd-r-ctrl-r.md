@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0566bb903dccafb5178b8acd5c2e6ff2362f2e6a8f42c9c46d8ab3c86443264
+machine_hash: 46d7d977503b118e33ef32f20e97c298f9e28a68f70e8f798468c3ca65ad7bc2
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,9 @@ record:
   title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
-- '[[Changes/Notion/2023-08-08-little-fixes-big-improvements|Little fixes = big improvements]]'
 - '[[Changes/Descript/2023-08-10-app-header-improvements|App header improvements]]'
+- '[[Changes/Superwhisper/2023-08-12-new-settings-layout-and-ui-improvements|New settings
+  layout and UI improvements]]'
 - '[[Changes/Descript/2023-08-14-added-selection-options-to-the-new-button-in-drive-view|Added
   selection options to the New button in Drive view]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'

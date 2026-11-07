@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfcf5441abf033619c6c33b79ba4448c65a91626cc4f7e689d702306123ae17c
+machine_hash: d8b714aa8cc95a64447431c0d0000beed167ea9ee15a9568fee10d3f31192ab7
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps
-  and Integrations changes in v2.1.80]]'
 - '[[Changes/Codex CLI/2026-03-19-10-apps-and-integrations-changes-in-rust-v0-116-0|10
   Apps and Integrations changes in rust-v0.116.0]]'
+- '[[Changes/Devin/2026-03-19-redesigned-integration-pages|Redesigned Integration
+  Pages]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-19-marketplace-and-plugin-installs-from-shortened-urls-e-g-aka-ms-links-now-work-co|Marketplace
   and plugin installs from shortened URLs (e.g., aka.ms links) now work…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'

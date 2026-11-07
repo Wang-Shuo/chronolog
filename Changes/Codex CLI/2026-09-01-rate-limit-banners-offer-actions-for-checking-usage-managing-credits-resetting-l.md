@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 790fce2847fe68c5c5958a953a139ff2b1ba1a67755d396c9a7213b5205de211
+machine_hash: f308bdbf5d8cd742c54048727f62f26ad5dac31f60443aae872bb1c3b6aa4acf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: Rate-limit banners offer actions for checking usage, managing credits, resetting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
-  /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
   a per-session prompt-cache line to /cost…]]'
+- '[[Changes/Devin/2026-08-28-code-scan-history|Code Scan History]]'
 - '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]
-- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage and status views now carry cumulative output-token totals through tool calls…]]
+- Later: 2026-09-01 · Krea · [[Changes/Krea/2026-09-01-minimax-h3-max-launch-pricing-ended|MiniMax H3 Max launch pricing ended]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

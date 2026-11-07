@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13cf40e9e8e0f999bac708d35047b448bc106a8f40616dd32ba4febf31907016
+machine_hash: c8b24acd8a1e4b7bebb90eae975d358be77a895dee22110fdcd72a2cd5793e28
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,8 +87,8 @@ record:
   title: 21 Model Support changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support
-  changes in v2026.9.3]]'
+- '[[Changes/Raycast/2026-09-08-bring-your-own-model-brings-three-familiar-ways-to-use-your-preferred-ai-models-ad9a1b|Bring
+  Your Own Model brings three familiar ways to use your preferred AI models back…]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 - '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added

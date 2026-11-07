@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 04438bb1b3e466078489062284df7300551245ef8d35d91e27eab2036975229c
+machine_hash: 972d0448919732a7f20bb523c8e3d00392ad777a5c43556a387ce133d5ef98be
 product: claude
 product_name: Claude
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-connect-your-app-to-power-bi|Connect your app to Power BI]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20 Apps and Integrations changes in v1.0.85]]
+- Later: 2026-09-16 · Devin · [[Changes/Devin/2026-09-16-mcp-secrets-are-now-managed-in-the-mcp-page|MCP Secrets Are Now Managed in the MCP Page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

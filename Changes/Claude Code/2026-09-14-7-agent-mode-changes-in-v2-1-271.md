@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72fa650d55d9ffc02ce168bb2d495862d399dbf7e9907886da25f09b23c04f82
+machine_hash: 01cf30e5f71fc332931b5a1c2a0ccbc5e581d09f5b3293eaf0c72ebd97a97d7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,12 +64,12 @@ record:
   title: 7 Agent Mode changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent
-  Brand Kits]]'
-- '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
-  changes in v2.1.269]]'
 - '[[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode
   changes in v2026.9.4]]'
+- '[[Changes/Raycast/2026-09-11-ai-added-auto-review-rules-for-greater-control-over-how-auto-mode-behaves|AI
+  : Added Auto-review rules for greater control over how Auto mode behaves]]'
+- '[[Changes/Raycast/2026-09-11-2-agent-mode-changes-in-raycast-macos-2-3|2 Agent
+  Mode changes in Raycast macos 2.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: agent-mode
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode changes in v2026.9.4]]
+- Earlier: 2026-09-11 · Raycast · [[Changes/Raycast/2026-09-11-2-agent-mode-changes-in-raycast-macos-2-3|2 Agent Mode changes in Raycast macos 2.3]]
 - Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

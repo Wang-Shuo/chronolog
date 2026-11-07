@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73058b0211ff94a5cf65f1c874cda016f3d0d17fb6b5f8e3ca060acddc759a20
+machine_hash: 703b29ae0360fcd384be2a8743af77aa7a1dd996470a2894dd3b4e4f34af4da1
 product: cursor
 product_name: Cursor
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Replit/2025-02-14-object-storage|Object Storage]]'
+- '[[Changes/LM Studio/2025-02-18-speculative-decoding-is-a-technique-that-can-speed-up-token-generation-by-up-to|Speculative
+  Decoding is a technique that can speed up token generation by up…]]'
 - '[[Changes/Open WebUI/2025-02-18-2-reliability-and-performance-changes-in-v0-5-13|2
   Reliability and Performance changes in v0.5.13]]'
 - "[[Changes/Open WebUI/2025-02-18-critical-import-error-resolved-fixed-a-circular-import-issue-preventing-override|\U0001F527

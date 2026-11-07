@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7d6202fcf68cb4e200096d0661f64bb6667613ffeed50105928975590c2526a0
+machine_hash: 97acd26ab83b81e4c839cdb8fe2a5efcc820ae3213f6558d4ff52fb9cda8339f
 product: heygen
 product_name: HeyGen
 record:
@@ -49,12 +49,12 @@ record:
   title: Describe the video you want in natural language
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
   return complete responses]]'
 - '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
   Claude agent SDK-style structured outputs in the OpenCode SDK]]'
+- '[[Changes/Devin/2026-02-13-devin-review-code-changes-from-chat|Devin Review: Code
+  Changes from Chat]]'
 source_release: '[[Releases/HeyGen/heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759|heygen-2026-02-13-https-heygen-noticeable-news-publications-heygen-is-now-a-native-500b7759]]'
 source_type: heygen_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support Claude agent SDK-style structured outputs in the OpenCode SDK]]
+- Earlier: 2026-02-13 · Devin · [[Changes/Devin/2026-02-13-devin-review-code-changes-from-chat|Devin Review: Code Changes from Chat]]
 - Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production SQL database access]]
 <!-- chronolog:end -->
 

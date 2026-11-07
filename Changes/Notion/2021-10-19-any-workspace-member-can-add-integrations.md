@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 13232230e95cb344db241547c4515a74fe0f3e6791006635d3e4a1b10ace58c6
+machine_hash: 71368a92877f8e59d42c1c318442b2c2251621b4d87da6073a930feeffbd32b1
 product: notion
 product_name: Notion
 record:
@@ -54,11 +54,11 @@ record:
   title: Any workspace member can add integrations
   type: change
 related_changes:
-- '[[Changes/Notion/2021-09-21-api-integrations|API integrations]]'
 - '[[Changes/Descript/2021-10-07-we-ve-added-a-new-publishing-integration-https-help-descript-com-hc-en-us-articl|Descript
   adds a new publishing…]]'
 - '[[Changes/Descript/2021-10-07-video-player-with-interactive-transcript-slack-integration|Video
   player with interactive transcript + Slack integration]]'
+- '[[Changes/Raycast/2021-10-13-extensions-api-store-beta|Extensions API & Store Beta]]'
 source_release: '[[Releases/Notion/notion-2021-10-19-https-www-notion-com-releases-2021-10-19-549a403a|notion-2021-10-19-https-www-notion-com-releases-2021-10-19-549a403a]]'
 source_type: notion_changelog
 theme: apps-integrations
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2021-10-07 · Descript · [[Changes/Descript/2021-10-07-video-player-with-interactive-transcript-slack-integration|Video player with interactive transcript + Slack integration]]
+- Earlier: 2021-10-13 · Raycast · [[Changes/Raycast/2021-10-13-extensions-api-store-beta|Extensions API & Store Beta]]
 - Later: 2021-11-02 · Notion · [[Changes/Notion/2021-11-02-create-dynamic-previews-of-github-prs-slack-messages-jira-issues-more|Create dynamic previews of GitHub PRs, Slack messages, Jira issues & more]]
 <!-- chronolog:end -->
 

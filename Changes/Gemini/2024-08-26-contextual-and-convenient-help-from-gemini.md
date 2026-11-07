@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55263eb2204715f36b2bb42ca3dda38228c6a62befac669a4ed8aae68e9565f0
+machine_hash: 43ce9f1f3f4fcff560c1c95794a78c0c4418b8071a3b52e988992d557d2a832e
 product: gemini
 product_name: Gemini
 record:
@@ -52,12 +52,13 @@ record:
   title: Contextual and convenient help from Gemini
   type: change
 related_changes:
-- '[[Changes/Descript/2024-07-31-file-upload-speed-boost-on-web|File upload speed
-  boost on Web]]'
 - '[[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten
   Tracks on Web and Desktop preview]]'
 - "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
   Haptic Feedback on Support Devices]]"
+- '[[Changes/Raycast/2024-08-14-send-screen-to-ai-chat-addressed-issue-where-the-attachment-would-not-load-in-ma|Send
+  Screen to AI Chat : Addressed issue where the attachment would not load in macOS
+  14]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-26-2024-08-26-b4a7fc10|gemini-2024-08-26-2024-08-26-b4a7fc10]]'
 source_type: gemini_changelog
 theme: mobile-desktop
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|🤳 Haptic Feedback on Support Devices]]
+- Earlier: 2024-08-14 · Raycast · [[Changes/Raycast/2024-08-14-send-screen-to-ai-chat-addressed-issue-where-the-attachment-would-not-load-in-ma|Send Screen to AI Chat : Addressed issue where the attachment would not load in macOS 14]]
 - Later: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-call-mode-activation-via-url-added-a-call-true-url-search-parameter-enabling-dir|🔗 Call Mode Activation via URL]]
 <!-- chronolog:end -->
 

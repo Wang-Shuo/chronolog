@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 98dd4de0670c66e4ff9425ee0c01ef41fd6d234254cae566ff3b7c50e0964645
+machine_hash: 5c350bf7516a1d0f907b1346c35b0611df9221cee2a9f29ae980ed6707ec3e8e
 product: gemini
 product_name: Gemini
 record:
@@ -108,7 +108,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857 Make ESC button work when auto-compaction (♯3857)]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example of no-unstable-context-value]]
+- Later: 2025-09-19 · Devin · [[Changes/Devin/2025-09-19-session-analysis-knowledge-management|Session Analysis & Knowledge Management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

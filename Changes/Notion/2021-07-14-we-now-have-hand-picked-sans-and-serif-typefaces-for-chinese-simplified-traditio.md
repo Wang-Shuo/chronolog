@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c06ef964425c2e0b80c7b3fd00c5e2f0e8cd606daa62f97b3e1194e3a16b94c
+machine_hash: e07e071927a0b588d00397805a57c946e682b90cee7dfe2c55720b000f6012c8
 product: notion
 product_name: Notion
 record:
@@ -45,9 +45,8 @@ record:
   title: We now have hand-picked sans and serif typefaces for Chinese…
   type: change
 related_changes:
-- '[[Changes/Descript/2021-06-30-you-can-now-increase-decrease-the-size-of-text-controls-are-in-the-view-menu|Increase/decrease
-  the size of text]]'
 - '[[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]'
+- '[[Changes/Raycast/2021-07-13-menu-items-search|Menu Items Search]]'
 - '[[Changes/Notion/2021-07-14-better-quote-blocks|Better quote blocks]]'
 source_release: '[[Releases/Notion/notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb|notion-2021-07-14-https-www-notion-com-releases-2021-07-14-f11936cb]]'
 source_type: notion_changelog
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2021-07-13 · Descript · [[Changes/Descript/2021-07-13-re-size-tutorial-videos|Re-size Tutorial Videos]]
-- Later: 2021-09-08 · Descript · [[Changes/Descript/2021-09-08-studio-sound-improvements|Studio Sound improvements]]
+- Earlier: 2021-07-13 · Raycast · [[Changes/Raycast/2021-07-13-menu-items-search|Menu Items Search]]
+- Later: 2021-07-29 · Raycast · [[Changes/Raycast/2021-07-29-2-interface-experience-changes-in-raycast-macos-v1-1-21-0|2 Interface Experience changes in Raycast macos-v1 1.21.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4816688e012cde19921a01f1c80a545c26502b93468c0d07736a2c542c70f01c
+machine_hash: 2ca0fa847d054e8ff02b57d3b919c5ae8bebc9cf06af4bf0a4b0e57ab12e0dd9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,10 @@ record:
   title: 4 Interface Experience changes in v0.6.31
   type: change
 related_changes:
-- '[[Changes/Descript/2025-09-24-recovery-process-improvements|Recovery Process Improvements]]'
 - '[[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These
   new controls allow you to optimize for your internet connection by selecting…]]'
+- '[[Changes/LM Studio/2025-09-24-new-sort-chats-sidebar-by-date-updated-date-created-or-token-count|New:
+  Sort chats sidebar by date updated, date created, or token count]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'

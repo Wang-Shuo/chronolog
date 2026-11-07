@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86c0245f8ce5131b22d0c87b2ea17b30bff793bb90f99c77ceb34133d4f16a34
+machine_hash: f1698c0e5589d48fde9de6e62ff33f6493ea4975362d429d114f12c5e4fb3b50
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,10 +58,9 @@ record:
   title: 6 Model Support changes in v2026.10.8
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add
-  Banner about Gemini CLI not being optimized for Gemini 4]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
-  model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
+- '[[Changes/Krea/2026-10-27-gpt-6-1-terra-in-agent|GPT-6.1 Terra in Agent]]'
+- '[[Changes/Krea/2026-10-27-old-and-renamed-model-page-links-now-redirect-instead-of-showing-a-404|Old
+  and renamed model page links now redirect instead of showing a 404]]'
 - '[[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative
   decoding now supports DFlash2 draft models on MLX]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'

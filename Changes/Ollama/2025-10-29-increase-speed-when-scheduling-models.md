@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ab48677240bb539e56d6d050258a3ab46e1811a1320504a55b5cc7a68685817
+machine_hash: f8e35f5513d26ba179280b5f2660e1c5dec7488da210c73003b407e998cb5e65
 product: ollama
 product_name: Ollama
 record:
@@ -50,7 +50,8 @@ record:
   title: Increase speed when scheduling models
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
+- '[[Changes/Raycast/2025-10-27-2-reliability-and-performance-changes-in-raycast-windows-0-33|2
+  Reliability and Performance changes in Raycast windows 0.33]]'
 - '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
   and Performance changes in 2.0]]'
 - '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'

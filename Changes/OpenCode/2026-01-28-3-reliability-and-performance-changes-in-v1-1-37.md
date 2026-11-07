@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2a1b929ad9292fca21448e4edb79528519eafa8c76de2dcae5f35ddd775de72
+machine_hash: c2ba678fdf527de62487d84653fcf21d73c477c41fcdabe87b53fe43e28e7a90
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Reliability and Performance changes in v1.1.37
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-25-desktop-performance-improvements-in-the-app-package|Desktop
-  Performance improvements in the app package]]'
-- '[[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3
-  Reliability and Performance changes in v1.1.35]]'
 - '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
   diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/Raycast/2026-01-27-we-ve-collaborated-with-monkeytype-to-bring-you-a-great-typing-experience-help-y|We’ve
+  collaborated with Monkeytype to bring you a great typing experience, help you…]]'
+- '[[Changes/LM Studio/2026-01-28-2-reliability-and-performance-changes-in-lm-studio-0-4-0|2
+  Reliability and Performance changes in LM Studio 0.4.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-28-v1-1-37-997d5baa|opencode-2026-01-28-v1-1-37-997d5baa]]'
 source_type: opencode_changelog
 theme: reliability-performance
@@ -95,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.1.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle diff view updates during streaming to reduce UI flickering and improve…]]
+- Earlier: 2026-01-28 · LM Studio · [[Changes/LM Studio/2026-01-28-2-reliability-and-performance-changes-in-lm-studio-0-4-0|2 Reliability and Performance changes in LM Studio 0.4.0]]
 - Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d1726e32c081b8582081418330e840e67b6ef39477b471969d155a55d057fa24
+machine_hash: fe24f098afe187a73b3a926693aecf3cbbc7be2a37159fc32daca26227d647e3
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Download your codebase from Git settings
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
-  the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
   projects from links in the command palette]]'
 - '[[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI:
   Import, record and edit MIDI directly on the timeline, play using a MIDI…]]'
+- '[[Changes/Devin/2026-08-14-smarter-re-review-behavior-in-devin-review|Smarter Re-Review
+  Behavior in Devin Review]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-14-2026-08-14-e5550355|lovable-2026-08-14-2026-08-14-e5550355]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI: Import, record and edit MIDI directly on the timeline, play using a MIDI…]]
+- Earlier: 2026-08-14 · Devin · [[Changes/Devin/2026-08-14-smarter-re-review-behavior-in-devin-review|Smarter Re-Review Behavior in Devin Review]]
 - Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-2-editor-experience-changes-in-a-redesigned-sidebar-a-richer|2 Editor Experience changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 

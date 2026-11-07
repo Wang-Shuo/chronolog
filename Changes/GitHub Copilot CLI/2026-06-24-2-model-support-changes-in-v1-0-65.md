@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28ef3722701203723a79ae30114a71a765b0393e58c6272367ed752b3f76d1ef
+machine_hash: 9492fff0ef29193fb97d20f07e79b5e8be9a56dfb1518458f8d4fc8d7f8cec6b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.0.65
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect
-  the real image format from file contents when reading media, so a mismatched…]]'
+- '[[Changes/Superwhisper/2026-06-22-3-model-support-changes-in-superwhisper-windows-1-5-1|3
+  Model Support changes in Superwhisper Windows 1.5.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
   Support changes in v1.0.64]]'
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5

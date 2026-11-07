@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 661306a9e8069b97bdfe8a148f90612cd56172bd82ea7df7108f81a6ba3fe3f8
+machine_hash: 31a48bc0d5e6136a025e2ba2a36c4a3049ad0d5d18ebe50fa197d8d0659c8f1d
 product: notion
 product_name: Notion
 record:
@@ -66,8 +66,8 @@ record:
   title: But wait, there’s more
   type: change
 related_changes:
-- '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
-  Granola MCP]]'
+- '[[Changes/Raycast/2026-02-19-raycast-notes-is-a-lightweight-tool-that-helps-you-capture-ideas-quickly-without|Raycast
+  Notes is a lightweight tool that helps you capture ideas quickly without…]]'
 - '[[Changes/Notion/2026-03-05-let-s-imagine-a-meetings-database-where-a-teammate-should-be-able-to-access-thei|Let’s
   imagine a meetings database where a teammate should be able to access…]]'
 - '[[Changes/Notion/2026-03-18-custom-instructions-let-you-define-exactly-how-ai-meeting-notes-makes-your-summa|Custom

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac3059defa0e219b60ed1521a739a38e253ff02e6db0c45bf533a6f6f268c50e
+machine_hash: a9f92aa575ec691f0dc6c0f3e7cd2d5cf25b171e115a40420fbbfc8ba5f6eae2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
   title: "\U0001F9E0 **Refined Memory Error Handling**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved
-  memories and Chat history are offered only to Plus and Pro…]]'
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
   memory rolling out to all Plus and Pro users (including the EU)]]'
+- '[[Changes/LM Studio/2025-05-23-add-offload-kv-cache-to-gpu-memory-option-to-model-load-options-and-gpu-settings|Add
+  "Offload KV Cache to GPU Memory" option to model load options and GPU settings]]'
 - '[[Changes/Open WebUI/2025-05-26-2-memory-and-personalization-changes-in-v0-6-11|2
   Memory and Personalization changes in v0.6.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-29-v0-6-13-github-221945814-5ebe71ac|open-webui-2025-05-29-v0-6-13-github-221945814-5ebe71ac]]'

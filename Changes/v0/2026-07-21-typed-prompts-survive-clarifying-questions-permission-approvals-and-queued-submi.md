@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebe51885f9fb4e2fcd34667ad4936cb1f6c8bf90fe7d18444e17f9752974c100
+machine_hash: 904a665f8e548cc0a31b5a3c5f3f8388574aae254ff63c051abbc38e3da2d859
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
   title: Typed prompts survive clarifying questions, permission approvals, and queued…
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-07-20-fix-running-subagents-not-observing-permission-mode-switches-made-after-they-sta|Fix
-  running subagents not observing permission mode switches made after they started]]'
+- '[[Changes/Raycast/2026-07-20-dictation-fixed-microphone-permission-issues-when-starting-dictation|Dictation
+  : Fixed microphone permission issues when starting dictation]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
 - '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d4e2dd153fc15429c294614f6a15bc8bcbafdf348b0a6af80b8549e28246644
+machine_hash: 1ee9ed89a42825f34f0525458a70e7141e99bae3fd675d9ba804438a1e361e80
 product: dify
 product_name: Dify
 record:
@@ -86,8 +86,8 @@ record:
   title: 19 Model Support changes in 0.6.16
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
-  unit tests for LLM init function]]'
+- '[[Changes/AnythingLLM/2024-08-02-gemini-pro-1-5-api-support-for-2m-context-and-new-experimental-model-by-rahswe-i|Gemini
+  Pro 1.5, API support for 2M context and new experimental model]]'
 - '[[Changes/Open WebUI/2024-08-02-2-model-support-changes-in-v0-3-11|2 Model Support
   changes in v0.3.11]]'
 - '[[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes

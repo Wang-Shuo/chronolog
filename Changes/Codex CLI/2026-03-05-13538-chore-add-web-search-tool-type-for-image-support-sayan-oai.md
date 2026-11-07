@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5c5adb452359fa565621c4ce4607df77d6f64fc62b3e77a0d7f9ebd7334712d
+machine_hash: ade4f5c6c3debad8084c3bc789a35e0e89b47a5064f38de33c9f01ffbdde0771
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#13538 chore: add web_search_tool_type for image support @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
-  /research command for deep research with exportable reports]]'
+- '[[Changes/Raycast/2026-02-26-applications-open-recent-files-directly-from-application-search-results|Applications
+  : Open recent files directly from application search results]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
 - '[[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search

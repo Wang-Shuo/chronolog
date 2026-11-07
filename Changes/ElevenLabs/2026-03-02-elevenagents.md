@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2014cd7ec28811be157682c3f5bbc0dfe54dcff64e7480fa961f89a724e6b620
+machine_hash: 1f39a33e69a952755532ddb6bb882985f13e45931c7b37962c40ff5a04aa5881
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,8 +95,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface
-  Experience changes in v0.8.6]]'
+- '[[Changes/AnythingLLM/2026-03-02-2-interface-experience-changes-in-v1-11-1|2 Interface
+  Experience changes in v1.11.1]]'
 - '[[Changes/Descript/2026-03-02-note-files-you-import-directly-into-a-project-won-t-appear-in-the-media-library|Note:
   Files you import directly into a project won''t appear in the Media…]]'
 - '[[Changes/Descript/2026-03-02-what-s-improved|What''s improved]]'

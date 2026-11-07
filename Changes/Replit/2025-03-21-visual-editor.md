@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a720e3643a51ac1148c45c6c6a40cc8e58f886d568e56a4db1e6337031929336
+machine_hash: 0bcb33a5f41035f6ea731d6d94f40c081ab34f8e5778ef2816c9d11d77607826
 product: replit
 product_name: Replit
 record:
@@ -48,9 +48,10 @@ record:
   title: Visual Editor
   type: change
 related_changes:
-- '[[Changes/Descript/2025-03-11-editor-updates|Editor updates]]'
-- '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
-  Gemini to remember the things you care about]]'
+- '[[Changes/Devin/2025-03-19-easily-tag-file-name-to-reference-files-in-devin-s-input-box-so-devin-can-quickl|Easily
+  tag @file_name to reference files in Devin''s input box so Devin can quickly…]]'
+- '[[Changes/Raycast/2025-03-19-focus-added-a-toggle-in-the-extension-setting-to-allow-all-websites-in-allow-mod|Focus:
+  Added a toggle in the extension setting to allow all websites in Allow mode…]]'
 - '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
   commands to switch between model types]]'
 source_release: '[[Releases/Replit/replit-2025-03-21-2025-03-21-245c8626|replit-2025-03-21-2025-03-21-245c8626]]'

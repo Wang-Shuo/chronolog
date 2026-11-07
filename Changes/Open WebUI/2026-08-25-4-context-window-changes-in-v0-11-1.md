@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ccecaf396a89ce197d8b68d9a21add49ad7c81b6fac76d1979f39237aa57cfc
+machine_hash: ce589cf610b24f247f54474e7a78cf78b424460bb212e07fce088954aea245ee
 product: open-webui
 product_name: Open WebUI
 record:
@@ -126,7 +126,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Context Window
 
 - Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
+- Later: 2026-08-25 · Raycast · [[Changes/Raycast/2026-08-25-ai-improved-ocr-for-pdfs-when-retrieving-relevant-context-for-ai-conversations|AI : Improved OCR for PDFs when retrieving relevant context for AI conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

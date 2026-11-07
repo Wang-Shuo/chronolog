@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 551d4ffff0838be515c35ac52719c8113d0c4f9d432e6a11c380cc9bba88d838
+machine_hash: 97c3969757e08aa12204b7063e56956e17caa56f09029bd2bb9eec3009947748
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Memory and Personalization changes in v2026.10.7
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4
-  Memory and Personalization changes in v2026.10.6]]'
+- '[[Changes/Raycast/2026-10-22-this-update-brings-new-commands-useful-improvements-and-plenty-of-fixes-across-r-e70c05|This
+  update brings new commands, useful improvements, and plenty of fixes across Raycast]]'
 - '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
   Memory and Personalization changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory

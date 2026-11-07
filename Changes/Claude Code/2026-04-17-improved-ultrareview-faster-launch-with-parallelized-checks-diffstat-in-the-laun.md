@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b5d7bfaf5ffd8bd0cb6dedaf183a006cf402ee9d256e0c370eca1e168045a26
+machine_hash: a03062a73a45eeafadaad34897cbf0b18debf89d6fd45207468e3af5fa61dbb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-16 · Windsurf · [[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]
-- Later: 2026-04-17 · Windsurf · [[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
+- Later: 2026-04-17 · LM Studio · [[Changes/LM Studio/2026-04-17-improved-qwen-3-5-performance-with-openai-compatible-v1-chat-completions-v1-resp|Improved Qwen 3.5 performance with OpenAI-compatible /v1/chat/completions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

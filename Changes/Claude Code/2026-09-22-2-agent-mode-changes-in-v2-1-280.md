@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 189265a218e537c74a31e043936f954cb8ef258e2cc022385078900b86bb9d87
+machine_hash: 0f5c3ee4a04f06a4aef88ad78df78c464f245ad8600eb2e102a93af96e66044d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-21-elevenagents-d15bdd|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show
   live elapsed time for execution subagents in timeline entries]]'
 - '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
   agent permissions from your account settings]]'
+- '[[Changes/AnythingLLM/2026-09-22-5-agent-mode-changes-in-v1-16-2|5 Agent Mode changes
+  in v1.16.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage agent permissions from your account settings]]
+- Earlier: 2026-09-22 · AnythingLLM · [[Changes/AnythingLLM/2026-09-22-5-agent-mode-changes-in-v1-16-2|5 Agent Mode changes in v1.16.2]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20|2 Agent Mode changes in v4.1.20]]
 <!-- chronolog:end -->
 

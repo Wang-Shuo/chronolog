@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 453b4ce03067028e7377817ece0b9522f1b3687eab4f492b62a22fc895968cb8
+machine_hash: 9e6a4d60e0e4b0b6584dff317e43af997cba4574e1bd98ac64045b3b01ed4a95
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-4-memory-and-personalization-changes-in-v2026-10-8|4
-  Memory and Personalization changes in v2026.10.8]]'
-- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
-  Memory and Personalization changes in v2.2.0]]'
 - '[[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web
   sessions now unload from memory after 30 minutes idle and resume transparently…]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-long-chats-now-open-scroll-and-stream-replies-faster-while-using-less-me|AI
+  Chat : Long chats now open, scroll, and stream replies faster while using less memory]]'
+- '[[Changes/Raycast/2026-10-28-ai-chat-long-chats-now-open-scroll-and-stream-replies-faster-while-using-less-me-e1c669|AI
+  Chat : Long chats now open, scroll, and stream replies faster while using less memory]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: memory
@@ -95,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web sessions now unload from memory after 30 minutes idle and resume transparently…]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2 Memory and Personalization changes in v0.12.5]]
+- Earlier: 2026-10-28 · Raycast · [[Changes/Raycast/2026-10-28-ai-chat-long-chats-now-open-scroll-and-stream-replies-faster-while-using-less-me-e1c669|AI Chat : Long chats now open, scroll, and stream replies faster while using less memory]]
+- Later: 2026-10-29 · LM Studio · [[Changes/LM Studio/2026-10-29-mac-added-maximum-memory-and-neural-engine-prefill-controls-for-splash-models|Mac Added maximum-memory and Neural Engine Prefill controls for Splash models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ccb49ad5d51e08fbdff7cf187c32fad0a65c2a9e72fafa05e00b2cc769fb98b1
+machine_hash: ab3fdcea015ab1348bcbf9cbf8a91842b6535fde418132e58572c60b9370ea27
 product: midjourney
 product_name: Midjourney
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ab9655209f2e5a5d9fd60cccdfd450d5a28dff8e320f3b3250f5a6b168227ac
+machine_hash: e05b71e1cd489ca299d74ef4dbaaacf038fded62ff75b26b4c326c9caf1bc426
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety and Privacy changes in v0.9.0]]
-- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better MLX thread safety for array management]]
+- Later: 2026-04-22 · Devin · [[Changes/Devin/2026-04-22-view-consumption-permission|View Consumption Permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

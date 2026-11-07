@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ca7dd87a95d5b7463f8852a2979dbce6d005e22d04a8df93d24326648284cef4
+machine_hash: 9405d13b4ba52b16e40aa70af015b2641f1287f3339c6f7b6910aa023d8c5a59
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -147,7 +147,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers & Models xAI Responses API]]
-- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-summarize-and-explain-actions-in-pdf-reader-web-microsoft-365-copilot-chat|Summarize and Explain actions in PDF reader Web (Microsoft 365 Copilot Chat)]]
+- Later: 2026-03-24 · Devin · [[Changes/Devin/2026-03-24-various-bug-fixes-and-performance-improvements-across-the-platform|Various bug fixes and performance improvements across the platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

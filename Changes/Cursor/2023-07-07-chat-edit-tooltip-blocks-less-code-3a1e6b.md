@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f48d110dc352465f5b6cb4493d23c9efa8452a37e67d995915a9cb98aaf083b2
+machine_hash: 3822c66a933f165ba3014da1b74798105b8d347c9bbfe0d393ad5a3b8fa6d98d
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Chat/Edit tooltip blocks less code
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
-  ergonomics]]'
 - '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
   you can now use up/down arrows for history in chat.)]]'
+- '[[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance:
+  Improved performance for opening Raycast after pressing the hotkey]]'
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also, you can now use up/down arrows for history in chat.)]]
+- Earlier: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance: Improved performance for opening Raycast after pressing the hotkey]]
 - Later: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-eyedropper|Eyedropper]]
 <!-- chronolog:end -->
 

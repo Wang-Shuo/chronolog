@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 77e345f46aaf77a7c2653a2359b518489dc67b55e42c54d352186467d3edf1b5
+machine_hash: d7b37cefcf28a5c132c118497e083dc9cc7e9bb8a65b5c9913b17861f4e13c40
 product: notion
 product_name: Notion
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2021-09-08 · Notion · [[Changes/Notion/2021-09-08-on-ios-you-can-now-close-your-mobile-keyboard-by-swiping-it-down|On iOS, you can now close your mobile keyboard by swiping it down]]
-- Later: 2021-10-12 · Notion · [[Changes/Notion/2021-10-12-notion-is-now-available-in-japanese|Notion is now available in Japanese]]
+- Later: 2021-09-23 · Raycast · [[Changes/Raycast/2021-09-23-macos-shortcuts|macOS Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

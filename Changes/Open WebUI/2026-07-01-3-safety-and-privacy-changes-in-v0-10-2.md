@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c236e0d44992bb813ea905f5e9a1d02f8bca0d32de4bbae36b4b894f402d3b4
+machine_hash: a6063a0f4145454593369bd40e427e67e8e68d5367596854d91e63d69ea9c195
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,7 @@ record:
   title: 3 Safety and Privacy changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
-  Add session permission request create and fetch endpoints]]'
+- '[[Changes/Devin/2026-07-01-no-access-permission-popover|No-Access Permission Popover]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit

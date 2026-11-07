@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 209f3b2b339a3bbb7ebe48a38df1872d195dd3f4d62d40809df5fc355239870f
+machine_hash: 30488bdda30931609dd87ae62a2d2447e0c1a38ec5808b77461d7c3ee0d653a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,9 @@ record:
   title: 4 Search and Browsing changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2
-  Search and Browsing changes in rust-v0.120.0]]'
 - '[[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684
   Adjust default tool search result caps @malone-oai]]'
+- '[[Changes/Krea/2026-04-16-introducing-seedance-effects|Introducing Seedance Effects]]'
 - '[[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin
   workflows now include tabbed browsing, inline enable/disable toggles…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
@@ -118,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-plugin-workflows-now-include-tabbed-browsing-inline-enable-disable-toggles-marke|Plugin workflows now include tabbed browsing, inline enable/disable toggles…]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research uses an orchestrator/subagent model for more thorough and reliable deep…]]
+- Later: 2026-04-22 · AnythingLLM · [[Changes/AnythingLLM/2026-04-22-x-ddg-default-web-search-in-agent-skills|x DDG default web-search in agent skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

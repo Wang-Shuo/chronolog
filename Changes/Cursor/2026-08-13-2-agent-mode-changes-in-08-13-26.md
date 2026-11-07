@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f491b5fbbe5e5746932925112a39f6652344c3e177132cde3bf1002cec57f2a0
+machine_hash: 11c7c44b7d6eef2bc2fb01967983eff69a3d2778b9c7b5e80803db3db7222cfc
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in 08.13.26
   type: change
 related_changes:
-- '[[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show
-  the live work progress of background subagents in the /tasks panel]]'
+- '[[Changes/AnythingLLM/2026-08-13-6-agent-mode-changes-in-v1-16-0|6 Agent Mode changes
+  in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 - '[[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent

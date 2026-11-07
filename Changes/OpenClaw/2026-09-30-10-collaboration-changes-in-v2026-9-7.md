@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48da1d4ddfccae4047ef2ea698b69188bb7604829674fb9b0523232f2ee58896
+machine_hash: 59fd5aa2dab560ece4f238a08cec7f1677cd047b53a01b108ca4bb579ad8349b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -95,12 +95,12 @@ record:
   title: 10 Collaboration changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
-  your profile and showcase your Sites]]'
 - '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
   your work in ChatGPT Space]]'
 - '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
   changes in rust-v0.159.0]]'
+- '[[Changes/Devin/2026-09-30-github-team-sync-managed-repository-access|GitHub Team
+  Sync: Managed Repository Access]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: collaboration
@@ -169,7 +169,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration changes in rust-v0.159.0]]
+- Earlier: 2026-09-30 · Devin · [[Changes/Devin/2026-09-30-github-team-sync-managed-repository-access|GitHub Team Sync: Managed Repository Access]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130 Move content-filter guidance into the shared Responses retry handler @won-openai]]
 <!-- chronolog:end -->
 

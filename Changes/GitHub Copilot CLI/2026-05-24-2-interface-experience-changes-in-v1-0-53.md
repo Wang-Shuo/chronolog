@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eee0df22f29aadccf241a9501e91883d626efe6578c33fae5fa18926015a5a9
+machine_hash: e5d4670c5e1f1fbb3b5d632a99009817b0e434d346b837048bc2e96db0602218
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in v1.0.53
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
-  Experience changes in v0.43.0]]'
 - '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
   Keep the spinner color aligned with the active agent]]'
+- '[[Changes/Superwhisper/2026-05-22-mode-change-keyboard-shortcut-helper-at-bottom-of-modes-list|Mode
+  change keyboard shortcut helper at bottom of modes list]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
   Interface Experience changes in v1.0.52]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd|github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd]]'

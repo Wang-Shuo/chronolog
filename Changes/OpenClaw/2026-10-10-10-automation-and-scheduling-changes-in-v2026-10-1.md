@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3dcc994fe98de765374cd3bc699ec412852920c8c46485b2fbb3b4e5a7e1ead4
+machine_hash: c559453731ee41c02f7f09163b29fced5c504f9ce578d90317e414ba16b3b377
 product: openclaw
 product_name: OpenClaw
 record:
@@ -95,8 +95,8 @@ record:
   title: 10 Automation and Scheduling changes in v2026.10.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
+- '[[Changes/Raycast/2026-10-09-2-automation-and-scheduling-changes-in-raycast-macos-2-7|2
+  Automation and Scheduling changes in Raycast macos 2.7]]'
 - '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
   Ads]]'
 - '[[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10

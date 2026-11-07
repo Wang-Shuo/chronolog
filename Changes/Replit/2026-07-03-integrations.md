@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 587250b88b1b3cc6c1cf1a6c83771937c031496fbd472e57dff01be8f05888d0
+machine_hash: 2c1664281d232a25e3f5a679fc2c4f1eb6f4a5eca3f9c866e5970e1d84cc255c
 product: replit
 product_name: Replit
 record:
@@ -39,11 +39,11 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
-  slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
-- '[[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]'
-- '[[Changes/Lovable/2026-07-02-app-connector-wordpress-self-hosted|App connector:
-  WordPress (self-hosted)]]'
+- '[[Changes/Raycast/2026-07-02-ai-mcp-support-to-ai-presets|AI : MCP support to AI
+  Presets]]'
+- '[[Changes/Devin/2026-07-03-mcp-run-as-creator-warning|MCP Run-As-Creator Warning]]'
+- '[[Changes/Raycast/2026-07-03-store-added-ability-to-filter-by-extensions-which-have-ai-extensions|Store
+  : Added ability to filter by extensions which have AI extensions]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-02 · Lovable · [[Changes/Lovable/2026-07-02-app-connector-wordpress-self-hosted|App connector: WordPress (self-hosted)]]
+- Earlier: 2026-07-03 · Raycast · [[Changes/Raycast/2026-07-03-store-added-ability-to-filter-by-extensions-which-have-ai-extensions|Store : Added ability to filter by extensions which have AI extensions]]
 - Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]]
 <!-- chronolog:end -->
 

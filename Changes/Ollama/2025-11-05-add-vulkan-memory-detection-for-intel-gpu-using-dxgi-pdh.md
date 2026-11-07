@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7a5394592b6c7d471171b02d0b787f1bac05785a58bdd93edff4111e3848982
+machine_hash: e5d515586c67fdfee9e5cd8600dd22b8445128fe93136e6478ead7f68a47f2d6
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Add Vulkan memory detection for Intel GPU using DXGI+PDH
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
-  improve tooltip and task header responsiveness]]'
 - '[[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain
   verification improvements]]'
+- '[[Changes/LM Studio/2025-11-04-increase-image-resize-limits-to-1024x1024-for-improved-image-processing-performa|Increase
+  image resize limits to 1024x1024 for improved image processing performance…]]'
 - '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-05-v0-12-10-github-260054074-125e64f9|ollama-2025-11-05-v0-12-10-github-260054074-125e64f9]]'
 source_type: github_releases

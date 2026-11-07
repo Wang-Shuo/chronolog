@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6414066355e24bb49c89c16528b9c6bece6dbea9f2985b18955852a9e8389213
+machine_hash: 7bccc5db7032187c19fca3d2b899da1f563bde968c305012bcf5e24a2e1bbda9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an inline chat in the new VS Code editor]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor Experience changes in v0.7.0]]
+- Later: 2026-01-09 · Devin · [[Changes/Devin/2026-01-09-git-settings-reorganization|Git Settings Reorganization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

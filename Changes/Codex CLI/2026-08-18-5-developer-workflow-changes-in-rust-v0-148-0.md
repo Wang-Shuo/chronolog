@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f3ae982f5d5adeafd5629e15f8ce6754a4f5ffd1ae77d6a9502a4a17ba6e135
+machine_hash: 6a31df224112151c9c3f27106e707f5bbd0b0d35083569bceafebcfb42044376
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,7 @@ record:
   title: 5 Developer Workflow changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
-  GitLab merge request URL support to the --worktree flag…]]'
+- '[[Changes/Devin/2026-08-14-command-palette-improvements|Command Palette Improvements]]'
 - '[[Changes/v0/2026-08-14-4-developer-workflow-changes-in-a-redesigned-sidebar-a-richer|4
   Developer Workflow changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote

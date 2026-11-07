@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a25b7b9e6a059b48f63e5dfd5ca9ac8188c6327b3e8ccab68d482ad28382056e
+machine_hash: b06d6dab12bd077d54908aef8a3f5479f36a7beeea2176ccfc3c94cacfa615c5
 product: heygen
 product_name: HeyGen
 record:
@@ -41,10 +41,9 @@ record:
   title: BrandKit and Brand Governance
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
-  changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
   changes in v2026.9.1]]'
+- '[[Changes/Devin/2026-09-04-microsoft-teams-improvements|Microsoft Teams Improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
   a resumed session with --share or --share-gist writes the whole transcript…]]'
 source_release: '[[Releases/HeyGen/heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6|heygen-2026-09-04-https-heygen-noticeable-news-publications-september-2026-enterpr-39d060a6]]'

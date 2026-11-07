@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d47255bbd8172206fa069eee4e79fd5671167d81a19a9cd0eaa308addb8ccd10
+machine_hash: 3eda20f338e42f885dbd8d3049e5a6971422fcaf9336ca3c21035134f4341b0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     a chat…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A
-  command that prints nothing no longer shows a raw JSON blob like…]]'
-- '[[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer
-  Workflow changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4
   Developer Workflow changes in rust-v0.157.0]]'
+- '[[Changes/Devin/2026-09-25-pr-links-respect-your-pr-link-preference-everywhere|PR
+  Links Respect Your PR-Link Preference Everywhere]]'
+- '[[Changes/Devin/2026-09-25-azure-devops-pipeline-logs-and-self-hosted-servers|Azure
+  DevOps: Pipeline Logs and Self-Hosted Servers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4 Developer Workflow changes in rust-v0.157.0]]
+- Earlier: 2026-09-25 · Devin · [[Changes/Devin/2026-09-25-azure-devops-pipeline-logs-and-self-hosted-servers|Azure DevOps: Pipeline Logs and Self-Hosted Servers]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14 Developer Workflow changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

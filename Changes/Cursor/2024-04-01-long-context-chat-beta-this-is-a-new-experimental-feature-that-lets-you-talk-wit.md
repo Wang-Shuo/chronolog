@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a5b4ac78341326a655e5c9025b8e9c6a5dd3f6dcfc9260670ed06f0299a65cb
+machine_hash: 5790aa4900ebfeff1620fd548a8b3e8662ce650165ab3cb8281828e308051fff
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,9 @@ record:
   title: Long Context Chat (Beta)
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
-  add xinference llm context size]]'
 - '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
   max_tokens parameter rule for zhipuai glm4 and glm4v]]'
+- '[[Changes/Raycast/2024-03-20-companion-browser-extension|Companion Browser Extension]]'
 - '[[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command
   R((source link) a Large Language Model optimized…]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'

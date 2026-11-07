@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4f7de9944136f5e4d8ba01f4b3a166bcbd4ad2bb2fdcae3d7bf117da50ea5b19
+machine_hash: db4bf11d5fb4987d1631ae487281b4fc7a9eec35175b970bf1e64e1ac1117e1e
 product: windsurf
 product_name: Windsurf
 record:
@@ -58,10 +58,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
-  screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
   for iPad is now available on all paid plans]]'
+- '[[Changes/Devin/2026-07-29-session-organization-improvements|Session Organization
+  Improvements]]'
 - '[[Changes/Microsoft 365 Copilot/2026-07-29-list-email-attachments-in-microsoft-365-copilot-android-windows-ios-mac-web-micr|List
   email attachments in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-29-v3-6-22-af7c57e7|windsurf-2026-07-29-v3-6-22-af7c57e7]]'

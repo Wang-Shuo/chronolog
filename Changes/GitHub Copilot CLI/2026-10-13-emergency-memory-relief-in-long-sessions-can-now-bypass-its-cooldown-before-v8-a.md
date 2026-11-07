@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a0e6996f85823e3d67291f079c00badf146441c9529fb132a12cdfd76982c30
+machine_hash: a557d390693b8fe4e937e54ea53e952e93e218541cf8971919988707ea0e7e15
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
     V8…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
-  background model upgrade for embedding and other request performance,]]'
 - '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
   Reliability and Performance changes in v0.40.4]]'
+- '[[Changes/Raycast/2026-10-12-performance-improved-app-launch-responsiveness-especially-with-larger-collection|Performance
+  : Improved app launch responsiveness, especially with larger collections]]'
 - '[[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on
   paid plans]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on paid plans]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
+- Later: 2026-10-13 · Superwhisper · [[Changes/Superwhisper/2026-10-13-faster-improved-language-detection|Faster & improved language detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

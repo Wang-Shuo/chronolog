@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec77b02356ed02f4d2206b815bef756e03e1cb3890691d41142a6b7d6d01b774
+machine_hash: 9d30fc7024ed2611c7472d1a527e9aa99d1e51c444430fc5d0578c4999d9130d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Context Window changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window
-  changes in v1.14.19]]'
 - '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
   changes in v0.9.0]]'
+- '[[Changes/Superwhisper/2026-04-22-context-menu-on-settings-modes-items-right-click-with-duplicate-delete-and-set-a|Context-menu
+  on Settings - Modes items right-click with duplicate, delete and set active]]'
 - '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794
   Organize context fragments @pakrym-oai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b|codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b]]'

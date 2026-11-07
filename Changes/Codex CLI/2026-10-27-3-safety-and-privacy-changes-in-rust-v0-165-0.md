@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 952196444186dddc4b31594609ddb61b3f01deac4d5e5e1aa1c5987aac08d98b
+machine_hash: 69e30b9b0799b5c5103669354aecc2e1b719b641cdaba6c0ad918ab0eaf235a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
-  cloning permissions]]'
 - '[[Changes/Kimi Code/2026-10-26-merge-the-two-repeated-permission-mode-notice-lines-in-the-swarm-and-goal-start|Merge
   the two repeated permission-mode notice lines in the swarm and goal start…]]'
+- '[[Changes/Superwhisper/2026-10-26-security-fixes|Security fixes]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'

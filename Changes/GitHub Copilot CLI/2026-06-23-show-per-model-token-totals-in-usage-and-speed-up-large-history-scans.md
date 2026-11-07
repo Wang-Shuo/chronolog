@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c18a0aa649e79ff547982b3ac02d666249ee2ef5338fdad0d724053c2eb09caf
+machine_hash: a2a0809c2ef79b1a427e104e0c7e5dc99fb7a7ada536aa75a4dcbf0b031fa4c3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Show per-model token totals in /usage and speed up large history scans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The
-  stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
   Reliability and Performance changes in rust-v0.142.0]]'
 - '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
   up session snapshot loading with a direct disk reader and a request timeout…]]'
+- '[[Changes/Superwhisper/2026-06-22-faster-microphone-initialization-between-recordings|Faster
+  microphone initialization between recordings]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed up session snapshot loading with a direct disk reader and a request timeout…]]
+- Earlier: 2026-06-22 · Superwhisper · [[Changes/Superwhisper/2026-06-22-faster-microphone-initialization-between-recordings|Faster microphone initialization between recordings]]
 - Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
 <!-- chronolog:end -->
 

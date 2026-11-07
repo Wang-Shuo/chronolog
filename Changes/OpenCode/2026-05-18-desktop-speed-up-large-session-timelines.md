@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2686ff6008e8bc10367e0b49031c8fad17674bce8ff287894cdc1ca493037270
+machine_hash: 8d5e33bddc3af41ae076509a9276e9f1ad4917a42be3003e43ec2a6a2ff87ac0
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,7 @@ record:
   title: Desktop Speed up large session timelines
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Devin/2026-05-17-improved-mention-search|Improved @-Mention Search]]'
 - '[[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face,
   hands, posture, gaze, energy]]'
 - '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed

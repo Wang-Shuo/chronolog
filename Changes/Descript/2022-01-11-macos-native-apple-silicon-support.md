@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 595abb4fde60a561333ea9fc7e79a08944dab58e30329edcda60a738674f7577
+machine_hash: bdbce3f4290efd5e8973d3868cad88d497bee4eb6e6645d68e4b37991d542433
 product: descript
 product_name: Descript
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2021-12-23 · Notion · [[Changes/Notion/2021-12-23-2-mobile-and-desktop-changes-in-hack-week|2 Mobile and Desktop changes in Hack week 👩🏼💻👨🏿💻🧑🏽💻]]
-- Later: 2022-04-14 · Notion · [[Changes/Notion/2022-04-14-removed-the-icon-on-rollup-values-on-mobile-since-it-was-blocking-the-content-in|Removed the ✏️ icon on rollup values on mobile since it was blocking the content inside]]
+- Later: 2022-02-23 · Raycast · [[Changes/Raycast/2022-02-23-file-search-now-compatible-with-the-latest-onedrive-client-and-with-any-other-cl|File Search: Now compatible with the latest OneDrive client and with any other cloud…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

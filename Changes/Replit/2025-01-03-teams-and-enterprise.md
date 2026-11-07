@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 74391a4683f248017b1a0d627a39090d84f9534ab1ecc9bcc735668a1afcd7ea
+machine_hash: 28a0db4fe15b0ae7ec2320576f4de6d9514b335969a58eba8ae7e3c2449c802c
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
-  for Enterprise Drive admins]]'
+- '[[Changes/Devin/2024-11-01-increased-options-for-enterprise-users|Increased options
+  for Enterprise users]]'
 - '[[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat:
   remove github star and community links if it is enterprise version]]'
 - '[[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]'

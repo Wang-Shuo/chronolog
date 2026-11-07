@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f9f529385cbca784aa465939f9207f51f905601c5e211d168193a719dfdad39
+machine_hash: 4319a9fa252fe2eeb59aff680c020347ddfd789c3055b56a3a4e701adace5109
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 'Windows: PowerShell tool is progressively rolling out'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-5|2 Mobile and
-  Desktop changes in v1.4.5]]'
 - '[[Changes/OpenCode/2026-04-15-desktop-fixed-the-windows-desktop-backend-hanging-before-shutdown|Desktop
   Fixed the Windows desktop backend hanging before shutdown]]'
 - '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and
   Desktop changes in v1.4.6]]'
+- '[[Changes/Raycast/2026-04-15-hyperkey-hyperkey-support-is-now-available-on-windows|Hyperkey
+  : Hyperkey support is now available on Windows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and Desktop changes in v1.4.6]]
+- Earlier: 2026-04-15 · Raycast · [[Changes/Raycast/2026-04-15-hyperkey-hyperkey-support-is-now-available-on-windows|Hyperkey : Hyperkey support is now available on Windows]]
 - Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals]]
 <!-- chronolog:end -->
 

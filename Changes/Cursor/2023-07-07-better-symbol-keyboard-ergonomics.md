@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0ddfee74d1d05c942ecc69812f5c554afd9732994e298c0ac0403275f74e3c9
+machine_hash: 8009a1cf72635fcf32c6faec5932feb4b226260b38410447ff5ea2737d1d330b
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Better @ symbol keyboard ergonomics
   type: change
 related_changes:
-- '[[Changes/Descript/2023-06-26-updated-the-icons-in-the-quick-actions-https-help-descript-com-hc-en-us-articles|Updated
-  the icons in the Quick…]]'
 - '[[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 - '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
   you can now use up/down arrows for history in chat.)]]'
+- '[[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance:
+  Improved performance for opening Raycast after pressing the hotkey]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226|cursor-2023-07-07-0-2-44-https-cursor-com-changelog-0-2-44-d76d2226]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-07-03 · Cursor · [[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also, you can now use up/down arrows for history in chat.)]]
+- Earlier: 2023-07-06 · Raycast · [[Changes/Raycast/2023-07-06-performance-improved-performance-for-opening-raycast-after-pressing-the-hotkey|Performance: Improved performance for opening Raycast after pressing the hotkey]]
 - Later: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-eyedropper|Eyedropper]]
 <!-- chronolog:end -->
 

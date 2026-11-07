@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d8c5bb8e8f0369fe762b51dc6d5738add733c27202e24104d4516182ac171f45
+machine_hash: c65d20dfb71ded2fd0fb9d301bb3a40208944baff58743a443e043f87441f9f8
 product: lovable
 product_name: Lovable
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-16 · Replit · [[Changes/Replit/2026-10-16-bring-your-own-cloud-to-replit|Bring Your Own Cloud to Replit]]
-- Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-music-and-sound-effects|Music and Sound Effects]]
+- Later: 2026-10-19 · Devin · [[Changes/Devin/2026-10-19-attachment-classification-by-sensitivity-label|Attachment Classification by Sensitivity Label]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

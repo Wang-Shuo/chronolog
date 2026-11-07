@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcd712b964ce03f1e3dec222f0c894f1a20324e240c8b26d34466c1a1dd877a1
+machine_hash: 39e8a1b3bed2581e1a43c0d2cf2d6e15b65c9fcb840c9973638a4f440bbc3dbc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Enterprise and Administration changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-18-request-edit-access-to-a-project-you-can-only-view|Request
-  edit access to a project you can only view]]'
+- '[[Changes/Devin/2026-10-19-attachment-classification-by-sensitivity-label|Attachment
+  Classification by Sensitivity Label]]'
 - '[[Changes/ElevenLabs/2026-10-19-music-and-sound-effects|Music and Sound Effects]]'
 - '[[Changes/ElevenLabs/2026-10-19-realtime-translation|Realtime Translation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'

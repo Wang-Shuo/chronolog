@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ac498d35d161bbe7d3a73b9d5ec1527e593db542cf43dc1e8dfd7673c9fb4430
+machine_hash: 430eb4413f5a4b1188b9000bdd00096e0ea74367f831d8ae28086d61b95960f6
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4 Editor Experience changes in v1.0.41]]
-- Later: 2026-05-06 · Synthesia · [[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct dubbing transcripts seamlessly]]
+- Later: 2026-05-06 · Raycast · [[Changes/Raycast/2026-05-06-ai-haptics-for-stream-completion|AI: Haptics for stream completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

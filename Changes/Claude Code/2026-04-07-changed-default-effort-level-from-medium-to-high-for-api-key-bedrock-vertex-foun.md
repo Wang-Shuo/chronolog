@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bae581ee8f797de26e343600cc9cd553f920ff13e731f601124b6b90edf3c412
+machine_hash: 1fbe62bb7e869cc9bd5a347d199fa335e545e395b129d82b5a46457143d23c4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,9 @@ record:
   title: Changed default effort level from medium to high for API-key…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
-  optimize /workspaces plan resolution for SaaS and enterprise…]]'
-- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
-  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
+- '[[Changes/Devin/2026-04-03-enterprise-build-pinning|Enterprise Build Pinning]]'
+- '[[Changes/Devin/2026-04-03-enterprise-acu-visibility-control|Enterprise ACU Visibility
+  Control]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
   forceRemoteSettingsRefresh policy setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
@@ -91,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
-- Later: 2026-04-09 · Claude · [[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based access controls for Enterprise plans]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-cerebras-now-enterprise-ready|Cerebras Now Enterprise-Ready]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

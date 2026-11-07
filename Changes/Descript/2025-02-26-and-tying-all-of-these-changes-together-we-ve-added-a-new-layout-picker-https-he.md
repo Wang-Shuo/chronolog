@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e8b6256904feab56e780f692dc08e442b0be803e63bb5d619106a8ee02018662
+machine_hash: ac754d40267413c63a7fba7845b22e4c1f2536abe486c53881fbd4c2fd11323d
 product: descript
 product_name: Descript
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-descript-version-109-features-two-important-changes-to-terminology-that-coincide|Descript Version 109 features two important changes to terminology that coincide…]]
-- Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making edits just got easier!]]
+- Later: 2025-03-03 · LM Studio · [[Changes/LM Studio/2025-03-03-new-advanced-speculative-decoding-parameters-behind-all-toggle-in-chat-sidebar|New: Advanced speculative decoding parameters behind "All" toggle in chat sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

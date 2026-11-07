@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cae3150f7f3f5e6a6e7db4b881af9545881feca7c2b544f96fcfb6f5d56bb450
+machine_hash: 0c9181d1b1078a727145d7bfb52eaad84cb2389fe8e3ed2f3693217444f3ad69
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Editor Experience changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A
-  suspiciously truncated configuration no longer replaces the healthy recovery copy…]]'
 - '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
   Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
   Changed the session list side bar to load Web sessions when the Web tab…]]'
+- '[[Changes/Devin/2026-10-26-new-activity-tab-replaces-progress-and-shell|New Activity
+  Tab Replaces Progress and Shell]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: editor-experience
@@ -105,7 +105,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
+- Earlier: 2026-10-26 · Devin · [[Changes/Devin/2026-10-26-new-activity-tab-replaces-progress-and-shell|New Activity Tab Replaces Progress and Shell]]
 - Later: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-markdown-previews-and-overview-sections-in-new-side-panel-tabs|Markdown previews and overview sections in new side panel tabs]]
 <!-- chronolog:end -->
 

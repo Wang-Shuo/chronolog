@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 41d294aab0ceda042295bee914ce27517308c676fdc3f6a4fe1e246f777d5078
+machine_hash: 3bd8e935f69c40adcaa4c36c79330947acd6b9150ec93ae9877cfa1a00941dad
 product: heygen
 product_name: HeyGen
 record:
@@ -45,11 +45,12 @@ record:
   title: Cinematic avatar scenes
   type: change
 related_changes:
-- '[[Changes/HeyGen/2026-03-02-image-to-video|Image-to-Video]]'
 - '[[Changes/HeyGen/2026-03-02-you-can-now-access-heygen-s-ai-video-capabilities-directly-on-fal-s-generative-m|Access
   HeyGen''s AI video capabilities directly on fal’s generative media platform…]]'
 - '[[Changes/Descript/2026-03-17-media-generation-a-single-place-to-generate-images-and-video|Media
   generation: a single place to generate images and video]]'
+- '[[Changes/Recraft/2026-03-20-we-ve-added-video-generation-to-recraft|Video generation
+  now available]]'
 source_release: '[[Releases/HeyGen/heygen-2026-04-02-https-heygen-noticeable-news-publications-heygen-x-seedance-2-0-c0a2dc4e|heygen-2026-04-02-https-heygen-noticeable-news-publications-heygen-x-seedance-2-0-c0a2dc4e]]'
 source_type: heygen_changelog
 theme: video-generation
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-media-generation-a-single-place-to-generate-images-and-video|Media generation: a single place to generate images and video]]
+- Earlier: 2026-03-20 · Recraft · [[Changes/Recraft/2026-03-20-we-ve-added-video-generation-to-recraft|Video generation now available]]
 - Later: 2026-04-06 · HeyGen · [[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video Agent now generates cinematic footage around your Digital Twin]]
 <!-- chronolog:end -->
 

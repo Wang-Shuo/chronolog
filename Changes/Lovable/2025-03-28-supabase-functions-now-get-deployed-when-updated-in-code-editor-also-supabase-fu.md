@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 964799977c88042ebbb53733c52feab5162f8df3dd1a8cf9a97418d2d78f763c
+machine_hash: 371a5a7031b75c5756a3f1f7ae52486ee5b7d50d629245941fc66f358ba0522a
 product: lovable
 product_name: Lovable
 record:
@@ -43,10 +43,9 @@ record:
   title: Supabase functions now get deployed when updated in code editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
-- '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
-  /edit as an alias for the /editor command]]'
 - '[[Changes/Descript/2025-03-25-editor-updates|Editor updates]]'
+- '[[Changes/Devin/2025-03-25-ask-devin|Ask Devin]]'
+- '[[Changes/Devin/2025-03-25-devin-ide|Devin IDE]]'
 source_release: '[[Releases/Lovable/lovable-2025-03-28-2025-03-28-e7e91c08|lovable-2025-03-28-2025-03-28-e7e91c08]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-editor-updates|Editor updates]]
+- Earlier: 2025-03-25 · Devin · [[Changes/Devin/2025-03-25-devin-ide|Devin IDE]]
 - Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience changes in v3.8.5]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16ad0db037eadd84079131e8ca964a6d4b5ba6a76d2ce41098df89c8f10df37f
+machine_hash: df052df5e5d609e366721d94499d45536fc9ab0f61187860e75efeaa4091a67d
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,11 @@ record:
     main AI…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps
-  and Integrations changes in 0.41.0]]'
 - '[[Changes/ElevenLabs/2025-06-08-sdks|SDKs]]'
 - '[[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If
   you have feedback, please create an issue on GitHub with the app label]]'
+- '[[Changes/AnythingLLM/2025-06-10-3-apps-and-integrations-changes-in-v1-8-2|3 Apps
+  and Integrations changes in v1.8.2]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-if-you-have-feedback-please-create-an-issue-on-github-with-the-app-label-these-a|If you have feedback, please create an issue on GitHub with the app label]]
+- Earlier: 2025-06-10 · AnythingLLM · [[Changes/AnythingLLM/2025-06-10-3-apps-and-integrations-changes-in-v1-8-2|3 Apps and Integrations changes in v1.8.2]]
 - Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|🧩 OpenAI-Compatible Embeddings Endpoint]]
 <!-- chronolog:end -->
 

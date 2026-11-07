@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44c588923d96005f464e27318fdf9ca2d9ef81813d12c78a4516ccdf10524b41
+machine_hash: e426289b4f3802cd16da167dad38bc268a833592c1bce5bdb486c8f2c8fa35ed
 product: openclaw
 product_name: OpenClaw
 record:
@@ -92,12 +92,11 @@ record:
   title: 8 Automation and Scheduling changes in v2026.9.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
-- '[[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2
-  Automation and Scheduling changes in v2026.8.2]]'
+- '[[Changes/Devin/2026-09-02-scheduled-scans-in-automations|Scheduled Scans in Automations]]'
 - '[[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13
   Automation and Scheduling changes in v2026.9.1]]'
+- '[[Changes/Devin/2026-09-04-code-scan-no-op-runs-when-there-are-no-new-commits|Code
+  Scan No-Op Runs When There Are No New Commits]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-05-v2026-9-2-377f6d77|openclaw-2026-09-05-v2026-9-2-377f6d77]]'
 source_type: openclaw_changelog
 theme: automation-scheduling
@@ -164,7 +163,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13 Automation and Scheduling changes in v2026.9.1]]
+- Earlier: 2026-09-04 · Devin · [[Changes/Devin/2026-09-04-code-scan-no-op-runs-when-there-are-no-new-commits|Code Scan No-Op Runs When There Are No New Commits]]
 - Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7 Automation and Scheduling changes in v2026.9.3]]
 <!-- chronolog:end -->
 

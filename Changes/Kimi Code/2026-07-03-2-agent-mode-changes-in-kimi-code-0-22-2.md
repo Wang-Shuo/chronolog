@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b158254212c79abb398fff198bd72144ca16545ea2c737117773c501c608571c
+machine_hash: d60fdf98bb718938c8107b79098f7feb8a20e116c70469e6a156f0b94beeb026
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Agent Mode changes in Kimi Code 0.22.2
   type: change
 related_changes:
-- '[[Changes/Notion/2026-07-01-orchestrate-external-agents-claude-cursor-and-more-soon|Orchestrate
-  External Agents (Claude, Cursor, and more soon)]]'
 - '[[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use
   Outlook for you]]'
 - '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
   Agent Skills]]'
+- '[[Changes/Devin/2026-07-03-slack-agent-renamed-to-normal|Slack !agent Renamed to
+  !normal]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-07-03-0-22-2-40f69b2e|kimi-code-2026-07-03-0-22-2-40f69b2e]]'
 source_type: kimi_code_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ Source: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-02 · Runway · [[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway Agent Skills]]
+- Earlier: 2026-07-03 · Devin · [[Changes/Devin/2026-07-03-slack-agent-renamed-to-normal|Slack !agent Renamed to !normal]]
 - Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
 <!-- chronolog:end -->
 

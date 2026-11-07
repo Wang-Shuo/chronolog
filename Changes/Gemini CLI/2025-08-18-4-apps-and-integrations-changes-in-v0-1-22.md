@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7eec0c3bc5e4c4211e75ce4fd0336cfe2f2292ddf13950d101cfb6cb17676a8
+machine_hash: f9819eff0ba6a1d820d0b7f7ffe3c1927bb5ed012dd84c5eec610e7fa6c69eee
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,10 @@ record:
   title: 4 Apps and Integrations changes in v0.1.22
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-13-add-an-endpoint-to-the-hostbridge-for-integration-testing-by-sjf-in-https-github|Add
-  an endpoint to the HostBridge for integration testing]]'
-- '[[Changes/Gemini CLI/2025-08-13-3-apps-and-integrations-changes-in-v0-1-20|3 Apps
-  and Integrations changes in v0.1.20]]'
-- '[[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41
-  Apps and Integrations changes in v0.1.21]]'
+- '[[Changes/AnythingLLM/2025-08-15-modify-the-postgresql-sql-connector-to-support-querying-tables-from-schemas-othe|Modify
+  the PostgreSQL SQL connector to support querying tables from schemas other…]]'
+- '[[Changes/Devin/2025-08-16-jam-mcp-integration|JAM MCP Integration]]'
+- '[[Changes/Devin/2025-08-16-enhanced-linear-integration|Enhanced Linear Integration]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,7 +95,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41 Apps and Integrations changes in v0.1.21]]
+- Earlier: 2025-08-16 · Devin · [[Changes/Devin/2025-08-16-enhanced-linear-integration|Enhanced Linear Integration]]
 - Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your favorite AI tools with Notion’s MCP]]
 <!-- chronolog:end -->
 

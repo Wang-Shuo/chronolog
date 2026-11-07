@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b13e44ce987542e0ebfe2e732396cd6200a369324669e7eca6f2b4521dbfbcf
+machine_hash: d76963e4b9edb7e81a88f4cd83b31fc8d283319bf76cdead7829f399bfa9f1da
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Search and Browsing changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
-  zhipuai web search]]'
+- '[[Changes/AnythingLLM/2024-10-03-tavily-search-web-search-agent-support-by-shatfield4-in-https-github-com-mintple|Tavily
+  search web search agent support]]'
 - '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
   your entire workspace’s images while editing any gamma]]'
 - '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]]
-- Later: 2024-11-26 · Open WebUI · [[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|🔍 Query Generation Issue]]
+- Later: 2024-11-26 · AnythingLLM · [[Changes/AnythingLLM/2024-11-26-duckduckgo-web-search-agent-skill-support-by-shatfield4-in-https-github-com-mint|DuckDuckGo web search agent skill support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

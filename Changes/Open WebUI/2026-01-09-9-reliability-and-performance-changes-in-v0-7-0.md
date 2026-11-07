@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c93a00df29c4d619a349f05c7d07e81ecb4cffee4514b76b91eed1e8c308647c
+machine_hash: dff4465239ac22e36c1dcbe586f6f72363b10de9fe40e0b95c2a197a50d32e9a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,10 +82,10 @@ record:
   title: 9 Reliability and Performance changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
   CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Devin/2026-01-09-various-bug-fixes-and-performance-improvements-across-the-platform|Various
+  bug fixes and performance improvements across the platform]]'
 - '[[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji
   V7 features improved anime coherence, prompt understanding, text rendering…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c4ff532ffadf454cafd5dbd67be70ca9a5ee3b5ddf630c4c677fc5548aaab04
+machine_hash: 6fd5438a025275eb4ce4492c11d892118bc39ed793d5ef1c069afbc5fe0bdbfc
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -145,7 +145,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice and Audio changes in rust-v0.116.0]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash commands unavailable for the current auth setup…]]
+- Later: 2026-03-23 · Raycast · [[Changes/Raycast/2026-03-23-quick-look-gives-you-a-fast-inline-preview-of-images-pdfs-videos-audio-text-file|Quick Look gives you a fast, inline preview of images, PDFs, videos, audio, text…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

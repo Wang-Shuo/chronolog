@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81f0947e55bd1251d32c5a9e6af03abafad816eaeeae06d0a73477f6f4fd0bd0
+machine_hash: 4d39bce80c77bbdc1c80ab8456b564eb0c10e4796c0ba508e189a1efb481794e
 product: kimi-code
 product_name: Kimi Code
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Apps and Integrations changes in Kimi Code 2.2.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
+- '[[Changes/Devin/2026-10-14-new-observability-plugins|New Observability Plugins]]'
+- '[[Changes/Devin/2026-10-14-clearer-mcp-server-and-plugin-approval-cards|Clearer
+  MCP Server and Plugin Approval Cards]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
   Apps and Integrations changes in v1.0.98]]'
 source_release: '[[Releases/Kimi Code/kimi-code-2026-10-14-2-2-0-c9b38331|kimi-code-2026-10-14-2-2-0-c9b38331]]'

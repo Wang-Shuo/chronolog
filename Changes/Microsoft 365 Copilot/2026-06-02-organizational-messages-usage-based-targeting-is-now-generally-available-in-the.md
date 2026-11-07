@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4520e01af888f549d54075f2eb3cc15a152dc16e0bd726d6ad1e63f775d350bf
+machine_hash: f1f69a3942311c75623604a4c56b00b37d3e94f616849aed5ddd95727786e708
 product: microsoft-365-copilot
 product_name: Microsoft 365 Copilot
 record:
@@ -47,8 +47,8 @@ record:
   title: Organizational Messages Usage‑based targeting is now generally available…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
-  Model changes in v1.0.55]]'
+- '[[Changes/Raycast/2026-05-29-bring-your-own-key-byok-seamlessly-integrates-your-existing-ai-provider-accounts|Bring
+  Your Own Key (BYOK) seamlessly integrates your existing AI provider accounts…]]'
 - '[[Changes/Replit/2026-05-29-billing|Billing]]'
 - '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
   3D models with the Tripo3D connector]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4debe5f763416df97942e0fbe909661f77ed6b7c886153541a940929566b07cc
+machine_hash: ce2f7db47a6f41d73d4df5d50f433a21cf306a40c40e8bb12fee007537060ab3
 product: opencode
 product_name: OpenCode
 record:
@@ -91,7 +91,7 @@ Source: https://opencode.ai/changelog/v1.15.7
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3 Developer Workflow changes in rust-v0.133.0]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals): add shell command safety evals]]
+- Later: 2026-05-22 · Devin · [[Changes/Devin/2026-05-22-gitlab-interactive-pr-review|GitLab Interactive PR Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

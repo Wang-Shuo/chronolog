@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 047ca12c81dd659f730315d2886e5cd21a79bb103f456d3fbc7a03486fe16cae
+machine_hash: b2b9510315a5026809e2b47697c32999d28804aa997522139eb40d43a1fd5df6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]]
-- Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]
+- Later: 2026-04-10 · Devin · [[Changes/Devin/2026-04-10-richer-acp-methods-and-mentions|Richer ACP Methods and @-Mentions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

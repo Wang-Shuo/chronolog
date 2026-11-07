@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 37
+  tracked_products_count: 45
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: db3dc47a90db8f62b1550a77324ce7afa57c317b8950c2ddf500af1e174828f3
+machine_hash: 35c5fed2c5278ba55ca01682e8f97fac77beb4d1fffa65984130573dfb3ed82e
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-azure-openai-byok-defaults-to-the-ga-versionless-v1-route-when-no-api-version-is|Azure OpenAI BYOK defaults to the GA versionless v1 route when no API version…]]
-- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-apps-and-integrations-changes-in-v0-37-0|3 Apps and Integrations changes in v0.37.0]]
+- Later: 2026-04-08 · Devin · [[Changes/Devin/2026-04-08-mcp-marketplace-upgrades|MCP Marketplace Upgrades]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
