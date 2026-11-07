@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc8491a441c298a75a597c16cb0c9db50272c299d0df5f563d7c964a3427ca32
+machine_hash: 4a12e96911c2767cb9e82a5a3589a666fd5b996d952fd252344b6984ff680ed2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Removed the 200-subagent-per-session spawn cap
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes
-  in v1.9.0]]'
 - '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
   changes in v2.1.223]]'
 - '[[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent):
   implement Antigravity agent runner and prompt templates …]]'
+- '[[Changes/Kimi Code/2026-08-06-web-subagent-tasks-show-their-model-and-thinking-level|web:
+  Subagent tasks show their model and thinking level]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-06 · Gemini CLI · [[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent): implement Antigravity agent runner and prompt templates …]]
+- Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-web-subagent-tasks-show-their-model-and-thinking-level|web: Subagent tasks show their model and thinking level]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent Mode changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

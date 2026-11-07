@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-31 · Files and Data: 2 changes in v0.11.2 �
   **Richer previews for terminal files.** Word documents and slide decks produced
   in the…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1194
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e42ab8bbb10eacaa59eec30e041540cd0145fed0cd008573dc390d950bacf375
+machine_hash: 7e78eb7b0b1b4834e20ca8f600893860f99b2b19a65c8fbb57d7c0272372d6a1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

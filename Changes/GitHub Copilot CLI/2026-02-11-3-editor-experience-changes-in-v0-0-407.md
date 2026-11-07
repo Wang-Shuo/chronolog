@@ -4,20 +4,19 @@ date: '2026-02-11'
 description: 'GitHub Copilot CLI · 2026-02-11 · Editor Experience: 3 changes in 0.0.407
   — Quota exceeded error links to Copilot settings with actionable guidance'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1065
+  lag_days: 2649
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a61497e4a4c6bf625b45853a6d98b170b16b5ef346636a9e9b0643435625933b
+machine_hash: 3cd7f21f102d12cc2b13bb6e1ce739474ffc8beac9a8ce2e49732df7f26d60f6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,13 +93,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-review-edit-the-node-generates-a-ui-where-humans-can-review-ai-outputs-and-modif|Review & Edit: The node generates a UI where humans can review AI outputs…]]
-- Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-3-editor-experience-changes-in-v3-58-0|3 Editor Experience changes in v3.58.0]]
+- Later: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-if-you-ve-been-exporting-to-capcut-or-another-editor-just-to-add-captions-and-ef|If you've been exporting to CapCut or another editor just to add captions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

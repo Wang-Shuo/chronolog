@@ -4,20 +4,20 @@ date: '2026-09-04'
 description: 'Claude Code · 2026-09-04 · Reliability and Performance: Improved streaming
   performance: already-rendered blocks are no longer re-checked by layout on each…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1359
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db2b617c10c2e5c8d3b7d998dfdbe0b96442d40502ab86ab5710a33ee451991f
+machine_hash: 86535e467cce8a18b9094dd7f2dc1b55ac6b942e27c96842e782877bb31aa426
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,11 @@ record:
   title: Improved streaming performance
   type: change
 related_changes:
-- '[[Changes/Suno/2026-09-02-chat-improvements|Chat improvements]]'
 - '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
 - '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
   Linux, managed local model and embedding services are preferred…]]'
+- '[[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster
+  app startup and smoother streaming in long sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On Linux, managed local model and embedding services are preferred…]]
+- Earlier: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster app startup and smoother streaming in long sessions]]
 - Later: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This release also improves structured output performance on Apple Silicon, adds…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -1,0 +1,110 @@
+---
+card_id: microsoft-365-copilot-2026-10-27-681f0f
+date: '2026-10-27'
+description: 'Microsoft 365 Copilot · 2026-10-27 · Mobile and Desktop: Copilot Notebooks
+  in the Microsoft Copilot app (iOS) now lets users organize related chats, output…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2907
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 487ad26c10a36e321b9e95b6e0ece6512ded44fcfd2efff79b0f7bffb4ca1bce
+product: microsoft-365-copilot
+product_name: Microsoft 365 Copilot
+record:
+  ai_generated: true
+  card_id: microsoft-365-copilot-2026-10-27-681f0f
+  comparison: ''
+  confidence: low
+  date: '2026-10-27'
+  description: 'Microsoft 365 Copilot — Microsoft 365 Copilot updates — 2026-10-27:
+    Copilot Notebooks in the Microsoft Copilot app (iOS) now lets users organize related
+    chats, output creations, and references into a persistent AI workspace. Copilot
+    uses the Notebook''s accumulated context to ground responses, so work continues
+    across sessions instead of starting over each time.'
+  evidence:
+  - quote: Copilot Notebooks in the Microsoft Copilot app (iOS) now lets users organize
+      related chats, output creations, and references into a persistent AI workspace.
+      Copilot uses the Notebook's accumulated context to ground responses, so work
+      continues across sessions instead of starting over each time.
+    source_release: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#october-27-2026
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: microsoft-365-copilot
+  product_name: Microsoft 365 Copilot
+  slug: new-copilot-notebooks-design-in-the-microsoft-copilot-app-ios-ios-microsoft-365
+  source_release: microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b
+  source_type: m365_copilot_changelog
+  theme: mobile-desktop
+  title: New Copilot Notebooks design in the Microsoft Copilot App (iOS)…
+  type: change
+related_changes:
+- '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
+  macOS, banners at the top of the window no longer interfere with the window controls]]'
+- '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You
+  can learn more about how ChatGPT uses connected apps here]]'
+- '[[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen
+  side panel tabs you closed, at their previous position and scroll point…]]'
+source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b]]'
+source_type: m365_copilot_changelog
+theme: mobile-desktop
+title: New Copilot Notebooks design in the Microsoft Copilot App (iOS)…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# New Copilot Notebooks design in the Microsoft Copilot App (iOS)…
+
+**Microsoft 365 Copilot** · 2026-10-27 · [[Themes/mobile-desktop|Mobile and Desktop]] · Launch · [Official source](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#october-27-2026) · from [[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-10-27-2026-10-27-6c2f097b|Microsoft 365 Copilot updates — 2026-10-27]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Copilot Notebooks in the Microsoft Copilot app (iOS) now lets users organize related chats, output creations, and references into a persistent AI workspace. Copilot uses the Notebook's accumulated context to ground responses, so work continues across sessions instead of starting over each time.
+>
+> Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#october-27-2026
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Microsoft 365 Copilot/2026-10-27-insights-new-copilot-metrics-available-web-microsoft-365-copilot|Insights - New Copilot Metrics Available Web (Microsoft 365 Copilot)]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-10-27-learning-agent-in-microsoft-365-copilot-windows-microsoft-365-copilot|Learning Agent in Microsoft 365 Copilot Windows (Microsoft 365 Copilot)]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-10-27-attach-and-reference-an-image-when-creating-a-presentation-with-copilot-in-power|Attach and reference an image when creating a presentation with Copilot…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-10-27-reference-an-attached-powerpoint-deck-s-style-when-creating-a-new-presentation-i|Reference an attached PowerPoint deck’s style when creating a new presentation…]] · Presentation Creation
+- [[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-usage-based-billing-windows-linux-mac-web-microsoft-365-copilot-ext|Work IQ APIs: Usage-based billing Windows, Linux, Mac…]] · Pricing Model
+- [[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use Copilot Chat after a call in Queues app Windows, Mac (Teams)]] · Collaboration
+- [[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work IQ APIs - Endpoints]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-10-27-admins-can-create-and-deploy-custom-model-context-protocol-mcp-connectors-across|Admins can create and deploy custom Model Context Protocol (MCP) connectors across…]] · Apps and Integrations
+- [[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal capture in Copilot Notebooks Android (OneNote)]] · Multimodal Input
+- [[Changes/Microsoft 365 Copilot/2026-10-27-user-can-use-canva-connector-in-researcher-web-microsoft-365-copilot-extensibili|User can use Canva Connector in Researcher Web (Microsoft 365 Copilot extensibility)]] · Apps and Integrations
+- [[Changes/Microsoft 365 Copilot/2026-10-27-web-link-as-a-reference-in-copilot-notebooks-web-microsoft-365-copilot-app|Web Link as a Reference in Copilot Notebooks Web (Microsoft 365 Copilot app)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-10-27-rich-entity-representation-for-connectors-in-search-results-web-microsoft-365-co|Rich entity representation for connectors in Search results…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-10-27-copilot-settings-in-classic-outlook-for-windows-windows-outlook|Copilot Settings in classic Outlook for Windows Windows (Outlook)]] · Mobile and Desktop
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen side panel tabs you closed, at their previous position and scroll point…]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-future-macos-updates-wait-for-the-serving-gateway-to-exit-and-release-its-databa|Future macOS updates wait for the serving Gateway to exit and release its databases…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20microsoft-365-copilot-2026-10-27-681f0f&body=Card%3A%20Changes%2FMicrosoft%20365%20Copilot%2F2026-10-27-new-copilot-notebooks-design-in-the-microsoft-copilot-app-ios-ios-microsoft-365.md%0ACard%20ID%3A%20microsoft-365-copilot-2026-10-27-681f0f%0ASource%3A%20https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fcopilot%2Frelease-notes%23october-27-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

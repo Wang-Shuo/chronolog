@@ -5,20 +5,21 @@ description: 'OpenClaw · 2026-11-05 · Account and Access: 4 changes in v2026.1
   — Prevents turning off Tailscale exposure in the connected Mac app from deleting
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2291
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5d2a6853288c5da8ea54209bb735dd62e9cc87a0dd692dc379849e3a44082eb
+machine_hash: 2c65508a40795013c2f11825234e6df6a4de2bde30f4bf48d8fca630b52938ed
 product: openclaw
 product_name: OpenClaw
 record:
@@ -108,13 +109,13 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 ## Nearby in Account and Access
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and Access changes in 1.19.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5 Account and Access changes in rust-v0.167.0]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH and WSL: Improves connection management and workspace creation, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-08-28 · Developer Workflow: \U0001F4CB **Code 
   Copy Button Content Fixed**: Fixed an issue where the copy button in code blocks
   would copy the…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 894
+  lag_days: 2543
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f62ed6552a5a92cb58490bb7459651ea98c60064e60694bd4a851f175b1e37fb
+machine_hash: 7ff55e6329c383997baaae0429dd204ed4794e47ba05f830ec1ab0c1218b9ae5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

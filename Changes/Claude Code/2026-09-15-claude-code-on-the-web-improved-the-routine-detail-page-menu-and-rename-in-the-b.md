@@ -4,20 +4,20 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Interface Experience: [Claude Code on the
   web] Improved the routine detail page: menu and rename in the breadcrumb, the on/off…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1345
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27a87bd1c379b8f63ac1b2e3bd0a2da04e97887438b51e1d1c05ae8d4d4e9826
+machine_hash: d13c225dc5b7ac7739e2ad51b6cae46aed4f6d4d88a436864225fa0581a9e728
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '[Claude Code on the web] Improved the routine detail page'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
-  a remixable project without signing in]]'
 - '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
   Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
+- '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
+  sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]]
+- Earlier: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete sessions from the session picker: press Ctrl+X on a session, then y to confirm]]
 - Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized the conversation menu so Archive and Delete sit together at the bottom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

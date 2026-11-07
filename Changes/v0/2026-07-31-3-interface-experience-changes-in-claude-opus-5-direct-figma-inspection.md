@@ -5,20 +5,20 @@ description: 'v0 · 2026-07-31 · Interface Experience: 3 changes in Claude Opus
   direct Figma inspection, and composer prompt history — The sidebar no longer flashes
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1299
+  lag_days: 2665
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5684312b2b7e43880d849b262a35dc102608f8be11e6360a85109a7ca2b26e68
+machine_hash: bba99a0741d349c4f2a33fa00b29ac017922b2014732b8be411e0036b8ed0f51
 product: v0
 product_name: v0
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
-  Interface Experience changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
   Interface Experience changes in v1.0.76]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce
+  frequent full-screen redraws in the TUI]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -92,14 +92,14 @@ Source: https://v0.app/changelog#2026-07-31
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Earlier: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce frequent full-screen redraws in the TUI]]
 - Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-desktop-open-the-legacy-directory-picker-at-your-home-folder-when-no-home-path-i|Desktop Open the legacy directory picker at your home folder when no home path…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

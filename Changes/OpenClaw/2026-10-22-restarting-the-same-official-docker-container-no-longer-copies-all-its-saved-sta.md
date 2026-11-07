@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-22 · Reliability and Performance: Restarting 
   same official Docker container no longer copies all its saved state again, so it
   starts…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1407
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 63d6c48328dfd2b1b140353120b62b11e925d2df88c7067ec2dcdd844d429408
+machine_hash: 0f42996faaaed79fc274b6d8cfcc104f99b852ffdf30a94d6dd5a56aff20ef1b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -50,10 +50,10 @@ record:
     state…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node
-  worker memory limits]]'
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
+- '[[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They
+  can work on tasks for up to 24 hours]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
   Reliability and Performance changes in v2.1.309]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

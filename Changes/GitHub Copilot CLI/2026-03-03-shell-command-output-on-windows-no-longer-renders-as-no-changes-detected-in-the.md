@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ebe83bd05f05562a149bcbc3a461f74706181f427ee8549d1fb96bf3608917e
+machine_hash: ced7014f278c6abe80b07135a350feaca20217c3ce9c697ff4a39c3cc8f2065b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes in v0.32.0]]
-- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent stream retry delay increased to reduce noise from transient failures]]
+- Later: 2026-03-03 · Notion · [[Changes/Notion/2026-03-03-custom-agents-now-support-minimax-m2-5-an-open-weight-model-that-s-up-to-10x-mor|Run Custom Agents for less with MiniMax M2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

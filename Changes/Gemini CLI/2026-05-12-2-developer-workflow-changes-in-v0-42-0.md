@@ -4,19 +4,20 @@ date: '2026-05-12'
 description: 'Gemini CLI · 2026-05-12 · Developer Workflow: 2 changes in Release v0.42.0
   — feat(cli): add --delete flag to /exit command for session deletion by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1151
+  lag_days: 2800
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e21d3d7a124d7cc38dc0c2cd74939cb2c259059b7f8964460d9602d46deb4df6
+machine_hash: 064396ab59d9fe2fd2589a1f5248407281af6c0845699fcdfc2f31f87004f2eb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

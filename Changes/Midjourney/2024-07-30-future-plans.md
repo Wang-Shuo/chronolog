@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 30ac73bdeddab26082f231e6be7ee5b96b9a432bdc2404578e5fa30c0001aea7
+machine_hash: 78879376e8c280fafe04ce8e922e3cf9e19077660c750ad88976d3a999f8976f
 product: midjourney
 product_name: Midjourney
 record:
@@ -55,10 +55,9 @@ record:
   title: Future plans
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
-  in v0.3.0]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]'
 - '[[Changes/Midjourney/2024-07-30-we-re-releasing-v6-1-of-our-midjourney-image-model-today|we’re
   releasing V6.1 of our Midjourney Image Model today!]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-07-30-https-updates-midjourney-com-version-6-1-50c9fddc|midjourney-2024-07-30-https-updates-midjourney-com-version-6-1-50c9fddc]]'
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]
 - Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes in v0.3.1]]
 <!-- chronolog:end -->
 

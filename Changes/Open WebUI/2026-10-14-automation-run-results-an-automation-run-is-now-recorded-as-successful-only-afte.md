@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Open WebUI · 2026-10-14 · Automation and Scheduling: ⏰ **Automation
   run results.** An automation run is now recorded as successful only after its reply…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1016
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8c8417c9d40aa2a766410e3935cde071a6e381707eeb2d9f08efb1e2d55905e
+machine_hash: 95c5960bac515d5ef257f93873679607feda3fa8ecfbe9b8b03b388d295dd5ff
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
     only…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
-  Automation and Scheduling changes in v1.27.0]]'
 - '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
   PostgreSQL extensions on Lovable Cloud]]'
 - '[[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows
   service accounts]]'
+- '[[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron
+  tasks from the source session no longer fire inside a forked session]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows service accounts]]
+- Earlier: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron tasks from the source session no longer fire inside a forked session]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

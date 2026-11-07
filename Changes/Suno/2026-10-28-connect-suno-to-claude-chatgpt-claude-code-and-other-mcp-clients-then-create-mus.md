@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'Suno · 2026-10-28 · Apps and Integrations: Connect Suno to Claude, ChatGPT,
   Claude Code and other MCP clients, then create music in the workspace you''re…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1315
+  lag_days: 2875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94122265a41434719fb5faa30176340f107f8abe7b9240e067d7010f21e92f8f
+machine_hash: fc4d42526711fa24df5c862940665effb41a4f914016dc314ad08c8192387a1f
 product: suno
 product_name: Suno
 record:
@@ -63,12 +63,12 @@ record:
     create…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
 - '[[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A
   plugin''s page now shows its developer and version, with links to its website…]]'
 - '[[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation
   navigator and third party tools notice]]'
+- '[[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect
+  workspace MCP servers automatically with backoff when the initial…]]'
 source_release: '[[Releases/Suno/suno-2026-10-28-e-suno-mcp-beta-860ffd96|suno-2026-10-28-e-suno-mcp-beta-860ffd96]]'
 source_type: suno_changelog
 theme: apps-integrations
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation navigator and third party tools notice]]
+- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect workspace MCP servers automatically with backoff when the initial…]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22 Apps and Integrations changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

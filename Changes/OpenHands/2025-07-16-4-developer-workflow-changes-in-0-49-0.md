@@ -4,19 +4,20 @@ date: '2025-07-16'
 description: 'OpenHands · 2025-07-16 · Developer Workflow: 4 changes in 0.49.0 - 2025-07-16
   — Added branch name and git provider on conversation cards by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 851
+  lag_days: 2500
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 703b8e6cc78d7b3f6e63164d50e86af7be38d5d3a75b2b8ebd5b9cb4d826f723
+machine_hash: a510e07edfdd047cdd959aaa6912d38b39d7c6e0ba2fcc64b540e38d4c54edd3
 product: openhands
 product_name: OpenHands
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.49.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Editor Experience: Use shared network gating
   helper in chat completion tests (#6461) — @aibrahim'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 981
+  lag_days: 2565
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0b7bd3e47a00fd0a2d2b513737dc2004b0aad563d1292c0d0181a325187b474
+machine_hash: 10e7efeffee97c4c62aa6f8739bd272098f424c88d0b469b0c0be1982bf91483
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +40,11 @@ record:
   title: Use shared network gating helper in chat completion tests (#6461) — @aibrahim
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
-  reuse the same edit-custom-collection-modal component, and fix…]]'
 - '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
 - '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
   expected_replacements to smart-edit tool]]'
+- '[[Changes/Notion/2025-11-17-create-a-two-way-sync-with-notion-calendar-and-your-databases-now-you-can-edit-t|Create
+  a two-way sync with Notion Calendar and your databases!]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add expected_replacements to smart-edit tool]]
+- Earlier: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-create-a-two-way-sync-with-notion-calendar-and-your-databases-now-you-can-edit-t|Create a two-way sync with Notion Calendar and your databases!]]
 - Later: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The “Hide” filter has changed to “Trash”]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

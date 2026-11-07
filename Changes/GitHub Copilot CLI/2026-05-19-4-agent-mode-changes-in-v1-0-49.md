@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6e5f519f7f728250d3b3a931719f5605e005dfba7fab62733f2c78caaee0a4c
+machine_hash: 59835043b26426790e881075a8e6b3d2ef9c38101b189766cba1a2eb3c0f6680
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini Spark is your 24/7 personal AI agent]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147 Make multi-agent v2 tool namespace configurable @jif-oai]]
+- Later: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-managing-your-tenant-with-sharepoint-admin-agent-web-sharepoint|Managing your tenant with SharePoint Admin Agent Web (SharePoint)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

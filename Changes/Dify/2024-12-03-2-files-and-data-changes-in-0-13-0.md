@@ -5,20 +5,20 @@ description: 'Dify · 2024-12-03 · Files and Data: 2 changes in v0.13.0 — Doc
   Extractor can now handle VTT files for all your subtitle extraction needs. Big thanks
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 558
+  lag_days: 1903
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fbe1756a809d4edf3f8ebf871b587c0deef77c0b1b4078fb6558f91e28bfbc2
+machine_hash: 45510753035da6433d6d7d5a958ca8ae4065898bc8c117ed6bf7913b2cacf740
 product: dify
 product_name: Dify
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

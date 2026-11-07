@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-27 · Safety and Privacy: 2 changes in v0.3.
   **\U0001F6AB API User Blocking via Model Filter**: Introduced the ability to block
   API users based…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 499
+  lag_days: 1491
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48b9beec46a6c05e81c7f9122172b56b979c9d676c85e8a602445e06df65fda6
+machine_hash: 6a37c3ef9207412f247a406f5ff4b79361ba887bad25474d7035ff1adbc1072c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.16
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

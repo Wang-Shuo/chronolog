@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'Claude Code · 2026-08-21 · Context Window: Improved the reminder shown
   after compaction so a skill''s original arguments are not re-run as a new request'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5399fb5f0f7eb0cb5f43307da6ba40e010d821b37f1b3dbb20a31e43ad0a5ea6
+machine_hash: d63a287524c57e4d2d0774295fc6a89bb243b917f5898a127ebbaa6c7e526ca5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     are not…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context
-  Window changes in rust-v0.148.0]]'
 - '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
   all paid plans]]'
+- '[[Changes/Notion/2026-08-19-manage-your-workers-connections-and-personal-access-tokens-from-the-new-develope|Your
+  Developer Portal, now in the sidebar]]'
 - '[[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context
   Window changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

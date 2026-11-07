@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f7cf6b3b8723dcd4a84e06548f0a57df3de05b98fe725efb92249e003d3ec035
+machine_hash: fed79da1b8651ceef6a5f87a382ff198efa44325f943cd3d2745d5df8380793c
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'chore: enforce typed @openhands/typescript-client for agent-server API calls…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes
-  in 08.13.26]]'
 - '[[Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de-6161c7|Agents
   do their best work when they start in a ready environment]]'
 - '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More
   resilient agent runs]]'
+- '[[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent
+  Mode changes in Kimi Code 0.36.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf|openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More resilient agent runs]]
+- Earlier: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent Mode changes in Kimi Code 0.36.0]]
 - Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved claude self-hosted-runner session start time]]
 <!-- chronolog:end -->
 

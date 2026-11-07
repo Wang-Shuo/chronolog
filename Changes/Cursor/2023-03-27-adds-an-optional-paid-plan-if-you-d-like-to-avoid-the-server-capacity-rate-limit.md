@@ -4,20 +4,20 @@ date: '2023-03-27'
 description: 'Cursor · 2023-03-27 · Pricing Model: Adds an optional paid plan if you''d
   like to avoid the server capacity rate limits'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 102
+  lag_days: 1720
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: bf4d7b84598b8bda6e9260a7a65f9aaa8f3a27a598a7446ef258c51ec8dcea26
+machine_hash: 02675ffb91b50891f97aeb2466f7db0e4d7c1b7bd58bfdeef15337621636e5d8
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,12 @@ record:
     limits
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-  limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+- '[[Changes/Descript/2023-02-06-you-can-now-add-custom-billing-details-https-help-descript-com-hc-en-us-articles|add
+  custom billing…]]'
 - '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
   rolled out the ability to purchase ChatGPT Plus internationally]]'
+- '[[Changes/Descript/2023-02-21-if-you-apply-and-are-approved-for-a-descript-educational-organization-plan-you-w|If
+  you apply and are approved for a Descript educational organization plan, you will…]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc|cursor-2023-03-27-0-1-9-https-cursor-com-changelog-0-1-9-431f2ddc]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -79,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We rolled out the ability to purchase ChatGPT Plus internationally]]
+- Earlier: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-if-you-apply-and-are-approved-for-a-descript-educational-organization-plan-you-w|If you apply and are approved for a Descript educational organization plan, you will…]]
 - Later: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

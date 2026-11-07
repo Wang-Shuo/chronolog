@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'Dify · 2025-09-22 · Multimodal Input: **Multimodal Embedding:** Support
   richer content types beyond text.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 734
+  lag_days: 2502
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 991d993c95fbe62426a8167bfb0545327ccd40cc01411d977ac8c0975caba7cc
+machine_hash: dfdce8542e29ea8f4f8fdd4a1591c0cee59a695606cb6525a927e8b3159710c8
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: '**Multimodal Embedding:** Support richer content types beyond text'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney
-  improves video moderation accuracy and you should now see fewer blocked jobs]]'
+- '[[Changes/Descript/2025-08-14-2-multimodal-input-changes-in-release-roundup-august-14th-2025|2
+  Multimodal Input changes in Release roundup—August 14th, 2025]]'
 - '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
   Parse Multimodal MCP Tool responses]]'
 - '[[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney launches an early version of our style explorer today]]
-- Later: 2025-10-06 · Midjourney · [[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x more styles]]
+- Later: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-what-s-improved|What's improved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

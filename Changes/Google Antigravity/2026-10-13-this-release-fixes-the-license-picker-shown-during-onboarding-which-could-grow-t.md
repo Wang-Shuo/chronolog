@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-10-13 · Interface Experience: This rel
   fixes the license picker shown during onboarding, which could grow taller than the
   window…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1373
+  lag_days: 2739
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 186aa552a25443b32c1eeb999c4a28684e61102d856be81d3899ffb7aa0ef82f
+machine_hash: b4720c220bf0ce3a3db534ca8a8501479903c59b56f2a4e64e3f63787f82af1f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat: add compact section navigation on tablets]]
-- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual settings]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-pinned-folders-on-every-device|Pinned folders on every device]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2025-05-23'
 description: 'Replit · 2025-05-23 · Collaboration: Organization members can now transfer
   their apps to other members of their org. This feature solves key collaboration…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 730
+  lag_days: 2324
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5db82e8228f3a460e1752718b487fc6596fc45e0d3e253024c8ecf3bc4cb6d07
+machine_hash: 87ff2fa26f687222d7284b24c470693afe91d6dca720c554ec1fa3a53ffa34bd
 product: replit
 product_name: Replit
 record:
@@ -44,9 +45,8 @@ record:
   title: Team member app transfers
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit
-  Teams]]'
 - '[[Changes/ElevenLabs/2025-05-19-voices|Voices]]'
+- '[[Changes/Descript/2025-05-20-drive-invite-links|Drive invite links]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add
   support for global workflows, allowing workflows to be shared across workspaces…]]'
 source_release: '[[Releases/Replit/replit-2025-05-23-2025-05-23-071101e9|replit-2025-05-23-2025-05-23-071101e9]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

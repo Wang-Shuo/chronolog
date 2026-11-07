@@ -4,20 +4,20 @@ date: '2026-09-29'
 description: 'Claude Code · 2026-09-29 · Reliability and Performance: Fixed the PowerShell
   tool''s permission check skipping deny and ask rules, and caching that failure for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1384
+  lag_days: 2871
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 3d97e65873f27cda7cfee035062e6d8650fb91c76c7d1345ef63165ff3f4571e
+machine_hash: 45b0f71c91f7028dce301c17a36bb55d6c1d2f46105926316da87cd58c690c09
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Fixed the PowerShell tool's permission check skipping deny and ask rules…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
-  Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved
+  resolution options for generated B-roll]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved
   startup time and memory use by building only the parts of the settings…]]'
 - '[[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

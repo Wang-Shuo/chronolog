@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38cc9e79a2692259fdc588fb707eadf3945cb202e6ca3fe7967a200733d01c8c
+machine_hash: f9788af3c9f39db538387ecf979ebb5ed796e29fc33df217146ef01ce492f85f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Agent Mode changes in v2.1.205
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
-  Input for Agent]]'
 - '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
   changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press
   Esc now interrupts the running main turn (flushing queued messages)…]]'
+- '[[Changes/Kimi Code/2026-07-07-tighten-goal-mode-guidance-so-agents-continue-reasonable-work-across-turns-inste|Tighten
+  goal-mode guidance so agents continue reasonable work across turns instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.205
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press Esc now interrupts the running main turn (flushing queued messages)…]]
+- Earlier: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-tighten-goal-mode-guidance-so-agents-continue-reasonable-work-across-turns-inste|Tighten goal-mode guidance so agents continue reasonable work across turns instead…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent Mode changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

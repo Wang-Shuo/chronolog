@@ -4,20 +4,20 @@ date: '2026-05-27'
 description: 'Claude Code · 2026-05-27 · Context Window: Added `pluginSuggestionMarketplaces`
   managed setting: admins can allowlist org marketplaces whose plugins may be…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cf06f25dff6bfcc7a6d43e49345b55ce033a5d01f0c9a11602301f21eb8d61e
+machine_hash: de2fb2cfa44c321c1ac3667acc7dcf038e5555a2dd0d216584850bf06f4ac0bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Added `pluginSuggestionMarketplaces` managed setting
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-22-core-improve-diff-viewer-empty-states-and-context-handling|Core
-  Improve diff viewer empty states and context handling]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
-  Window changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context
   Window changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-prevent-running-the-model-and-sessions-slash-commands-while-streaming-or-compact|Prevent
+  running the /model and /sessions slash commands while streaming…]]'
+- '[[Changes/Kimi Code/2026-05-26-2-context-window-changes-in-kimi-code-0-2-0|2 Context
+  Window changes in Kimi Code 0.2.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: context-window
@@ -99,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context Window changes in rust-v0.134.0]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-2-context-window-changes-in-kimi-code-0-2-0|2 Context Window changes in Kimi Code 0.2.0]]
+- Later: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-route-session-tagged-log-entries-exclusively-to-the-session-sink-instead-of-dupl|Route session-tagged log entries exclusively to the session sink instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-08-12'
 description: 'Suno · 2024-08-12 · Pricing Model: Effective immediately, all Pro/Premier
   creators will receive 50 free credits per day once all monthly credits have been…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 606
+  lag_days: 2224
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 06a94559ad46472ed4fd3e7a74f1eee00f8c8d53dc3c3ad2eebb932051d17712
+machine_hash: d41e0869d6a9184009792cc4894fc795135521013ce58ba4b58474a04f569a44
 product: suno
 product_name: Suno
 record:
@@ -45,12 +45,11 @@ record:
   title: Pro / Premier creators now get 50 credits per day
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
-  pricing page add llm load balancing info]]'
 - '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
   Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
+- '[[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]'
 source_release: '[[Releases/Suno/suno-2024-08-12-e-pro-premier-creators-now-get-50-credits-per-day-443fdd6c|suno-2024-08-12-e-pro-premier-creators-now-get-50-credits-per-day-443fdd6c]]'
 source_type: suno_changelog
 theme: pricing-model
@@ -77,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced token usage and cost reporting]]
+- Earlier: 2024-07-31 · Descript · [[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]
 - Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved token and cost reporting for infinite output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

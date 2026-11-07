@@ -4,20 +4,21 @@ date: '2026-09-01'
 description: 'Codex CLI · 2026-09-01 · Account and Access: 2 changes in 0.152.0 —
   MCP server names can contain `:`, `@`, `/`, and `.`, supporting package-style names…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2226
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a9c8df8c1d73150edd3eddef3e857fa3ece3b9991d1cb1782449f0e1335be03
+machine_hash: 8a8265f0993727f8eeff90556e3809767b9856221d5c2f4560f4101b30156e05
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

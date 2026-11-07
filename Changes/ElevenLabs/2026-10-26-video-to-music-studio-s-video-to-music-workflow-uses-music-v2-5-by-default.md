@@ -4,20 +4,20 @@ date: '2026-10-26'
 description: 'ElevenLabs · 2026-10-26 · Multimodal Input: **Video to music**: Studio''s
   video to music workflow uses Music v2.5 by default.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2901
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 652442707070ba7142a84b5e6df943854713a9874a49b63d94c98f840b6725c7
+machine_hash: dc73ef386cfa89823f2b72a09ce0131814df4e7797905d48b6c1c98934125f06
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,8 +45,9 @@ record:
     default'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]'
 - '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
+- '[[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose
+  Synthesia Avatars for your Syren videos]]'
 - '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
   camera discovery now reports an unreadable device folder as an error instead…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
@@ -99,13 +100,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux camera discovery now reports an unreadable device folder as an error instead…]]
-- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized macOS camera clips and screen recordings now return an error instead…]]
+- Later: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal capture in Copilot Notebooks Android (OneNote)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

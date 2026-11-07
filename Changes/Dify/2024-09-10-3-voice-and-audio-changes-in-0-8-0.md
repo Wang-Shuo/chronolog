@@ -5,20 +5,20 @@ description: 'Dify · 2024-09-10 · Voice and Audio: 3 changes in v0.8.0 — **S
   Fish Audio TTS**: Added support for Fish Audio Text-to-Speech models by @leng-yue
   in #7982'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 428
+  lag_days: 2255
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1ec97f3b40011b017d5fdfee3ef678fdaafe5434443c239c06e27bd44f42106
+machine_hash: 0e5541bbf89ae4187e2a6bdf8e15d87e2a42b1fb9e83af13525f9a5201c3b518
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -1,0 +1,100 @@
+---
+card_id: microsoft-365-copilot-2026-03-10-bf6d65
+date: '2026-03-10'
+description: 'Microsoft 365 Copilot · 2026-03-10 · Apps and Integrations: Users can
+  connect Microsoft 365 Copilot to Amazon S3 so Copilot can access structured document…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2643
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 78ce0bb52f9256a15961521f051fa805f38be2265273f101e1d660058272c43c
+product: microsoft-365-copilot
+product_name: Microsoft 365 Copilot
+record:
+  card_id: microsoft-365-copilot-2026-03-10-bf6d65
+  comparison: ''
+  date: '2026-03-10'
+  description: 'Microsoft 365 Copilot — Microsoft 365 Copilot updates — 2026-03-10:
+    Users can connect Microsoft 365 Copilot to Amazon S3 so Copilot can access structured
+    document repositories through a Copilot connector.'
+  evidence:
+  - quote: Users can connect Microsoft 365 Copilot to Amazon S3 so Copilot can access
+      structured document repositories through a Copilot connector.
+    source_release: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: microsoft-365-copilot
+  product_name: Microsoft 365 Copilot
+  slug: connect-copilot-to-amazon-s3-document-repositories-web-microsoft-365-copilot-ext
+  source_release: microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f
+  source_type: m365_copilot_changelog
+  theme: apps-integrations
+  title: Connect Copilot to Amazon S3 document repositories…
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
+  and Integrations changes in v2.1.72]]'
+- '[[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11
+  Apps and Integrations changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-with-shortcut-to-manage-agile-development-workflows-web-microsof|Connect
+  Copilot with Shortcut to manage agile development workflows…]]'
+source_release: '[[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f|microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f]]'
+source_type: m365_copilot_changelog
+theme: apps-integrations
+title: Connect Copilot to Amazon S3 document repositories…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Connect Copilot to Amazon S3 document repositories…
+
+**Microsoft 365 Copilot** · 2026-03-10 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026) · from [[Releases/Microsoft 365 Copilot/microsoft-365-copilot-2026-03-10-2026-03-10-6ec3223f|Microsoft 365 Copilot updates — 2026-03-10]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Users can connect Microsoft 365 Copilot to Amazon S3 so Copilot can access structured document repositories through a Copilot connector.
+>
+> Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#march-10-2026
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Microsoft 365 Copilot/2026-03-10-ask-copilot-directly-from-the-microsoft-edge-address-bar-web-microsoft-365-copil|Ask Copilot directly from the Microsoft Edge address bar…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-scope-copilot-chat-prompts-to-teams-channels-with-context-iq-web-microsoft-365-c|Scope Copilot Chat prompts to Teams channels with Context IQ…]] · Context Window
+- [[Changes/Microsoft 365 Copilot/2026-03-10-expanded-ai-skill-inferencing-for-e3-and-e5-users-windows-web-microsoft-365-copi|Expanded AI skill inferencing for E3 and E5 users Windows…]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]] · Agent Mode
+- [[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize and explain PDFs with Copilot in Microsoft Edge…]] · Files and Data
+- [[Changes/Microsoft 365 Copilot/2026-03-10-chat-history-filtering-experience-refresh-microsoft-365-copilot-chat|Chat History filtering experience refresh (Microsoft 365 Copilot Chat)]] · Interface Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-with-shortcut-to-manage-agile-development-workflows-web-microsof|Connect Copilot with Shortcut to manage agile development workflows…]] · Apps and Integrations
+- [[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]] · Editor Experience
+- [[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11 Apps and Integrations changes in rust-v0.113.0]]
+- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-8-apps-and-integrations-changes-in-rust-v0-114-0|8 Apps and Integrations changes in rust-v0.114.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20microsoft-365-copilot-2026-03-10-bf6d65&body=Card%3A%20Changes%2FMicrosoft%20365%20Copilot%2F2026-03-10-connect-copilot-to-amazon-s3-document-repositories-web-microsoft-365-copilot-ext.md%0ACard%20ID%3A%20microsoft-365-copilot-2026-03-10-bf6d65%0ASource%3A%20https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fcopilot%2Frelease-notes%23march-10-2026%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

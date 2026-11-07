@@ -4,20 +4,19 @@ date: '2026-05-20'
 description: 'OpenCode · 2026-05-20 · Editor Experience: Core Collapsed single-child
   directories in the diff viewer file tree.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0292bbd561cec8a0478c9bdff6228af87198b53cb12e5876014880853f33f7df
+machine_hash: 5aa4d93df872f71742fc2ab1ea23701053d955793dcc806fc43b2142a5768237
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +42,8 @@ record:
   title: Core Collapsed single-child directories in the diff viewer file tree
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First
-  release of the Antigravity IDE]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-open-pdfs-within-microsoft-365-copilot-chat-windows-mac-web-microsoft-365-copilo|Open
+  PDFs within Microsoft 365 Copilot Chat Windows, Mac…]]'
 - '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
   Experience changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

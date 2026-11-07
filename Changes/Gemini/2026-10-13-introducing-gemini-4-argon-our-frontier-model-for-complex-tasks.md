@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0327c6eec0ba316a5aa7767c7127c7305702f457b6abfcae4bdfeb6050452103
+machine_hash: c484e25bee076b18ba0e2f4aea7bd8d5bc521a4caa5b0b9a0b56f99fcda9ca67
 product: gemini
 product_name: Gemini
 record:
@@ -60,12 +60,11 @@ record:
   title: 'Introducing Gemini 4 Argon: our frontier model for complex tasks'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-9-model-support-changes-in-v2026-10-2|9 Model Support
-  changes in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
   changes in v1.27.0]]'
 - '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
   in v4.1.24]]'
+- '[[Changes/Descript/2026-10-13-a-year-of-usage-history|A year of usage history]]'
 source_release: '[[Releases/Gemini/gemini-2026-10-13-2026-10-13-315d8911|gemini-2026-10-13-2026-10-13-315d8911]]'
 source_type: gemini_changelog
 theme: model-support
@@ -97,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes in v4.1.24]]
-- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4 Argon for your app's AI features]]
+- Earlier: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-a-year-of-usage-history|A year of usage history]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-one-elevenlabs-engine-with-a-model-picker|One ElevenLabs engine, with a model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

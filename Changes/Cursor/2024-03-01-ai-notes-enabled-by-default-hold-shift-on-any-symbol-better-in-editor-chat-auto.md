@@ -4,20 +4,20 @@ date: '2024-03-01'
 description: 'Cursor · 2024-03-01 · Interface Experience: AI Notes enabled by default
   (hold shift on any symbol), better in-editor chat, auto-execute interpreter mode…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 417
+  lag_days: 1783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c967ffb0ca87ad5cc5a9869a0667378308a8efdb225757a9031063813fc0ff39
+machine_hash: c0cd9f2e25213fe6c582a5ab99ae8db73e1a05396d7d13566215954ae1bd77af
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,11 @@ record:
   title: Polish
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
-  onboarding (fix Windows settings import, option to import folder/window state)]]'
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
-  chat replies…]]'
+- '[[Changes/Descript/2024-02-20-speaker-labeling-updates|Speaker Labeling Updates]]'
 - '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
   to Gemini Advanced: Edit and run Python code]]'
+- '[[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts
+  changes to the selection toolbar]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-02-20 · Gemini · [[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive to Gemini Advanced: Edit and run Python code]]
-- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
+- Earlier: 2024-02-23 · Descript · [[Changes/Descript/2024-02-23-reverts-changes-to-the-selection-toolbar|Reverts changes to the selection toolbar]]
+- Later: 2024-03-12 · Descript · [[Changes/Descript/2024-03-12-we-ve-made-backend-changes-to-how-exports-and-publishes-are-processed-these-chan|Descript makes backend changes to how Exports and Publishes are processed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

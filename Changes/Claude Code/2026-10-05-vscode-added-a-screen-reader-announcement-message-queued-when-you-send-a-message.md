@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6efdb0ba90e0e01539c978d3cb0fed8f6936beb886ae5a979c541f515724004
+machine_hash: 4755ab2a2f75edfc88adcbbc276cf32804f81efcf3fe2fa83793debc82eba1a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     send…'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization
-  maintenance removes entries whose interface text has already been…]]'
+- '[[Changes/Synthesia/2026-09-30-add-burned-in-captions-to-dubbed-videos-in-one-click-so-your-localized-content-s|Add
+  burned-in captions to dubbed videos]]'
 - '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
   screen reader mode to write new or changed lines without first pausing…]]'
 - '[[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2

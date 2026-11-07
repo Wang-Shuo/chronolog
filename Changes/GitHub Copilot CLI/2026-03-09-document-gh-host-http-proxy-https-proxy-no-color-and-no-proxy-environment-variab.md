@@ -4,20 +4,20 @@ date: '2026-03-09'
 description: 'GitHub Copilot CLI · 2026-03-09 · Files and Data: Document GH_HOST,
   HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment variables in help'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1019
+  lag_days: 2364
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a077b04c2aa3908523a1f2eb92db78d10ec0008080623ec795196d342bf99053
+machine_hash: c7fb25b7339d6c780fe540c559e8d6f1a487627abfcd419039f040e8c1d7c0b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|📷 Android photo capture. Fixed an issue where the first photo taken in chat…]]
-- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data changes in 1.13.1]]
+- Later: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize and explain PDFs with Copilot in Microsoft Edge…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

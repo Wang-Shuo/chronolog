@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-10-13 · Reliability and Performance: E
   memory relief in long sessions can now bypass its cooldown before V8 aborts, so
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1398
+  lag_days: 2885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 125fa65b1e0524e8cb98fc32b950de74f3128c308361c9a0a17946597d5e4c8e
+machine_hash: 9a0e6996f85823e3d67291f079c00badf146441c9529fb132a12cdfd76982c30
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
     V8…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2
-  Reliability and Performance changes in v2026.10.1]]'
 - '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
   background model upgrade for embedding and other request performance,]]'
 - '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
   Reliability and Performance changes in v0.40.4]]'
+- '[[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on
+  paid plans]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2 Reliability and Performance changes in v0.40.4]]
+- Earlier: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-faster-ai-video-on-paid-plans|Faster AI video on paid plans]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

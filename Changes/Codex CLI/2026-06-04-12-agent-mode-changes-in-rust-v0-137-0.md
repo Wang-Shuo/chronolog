@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a44fe42b34f3259b4e634b0e4b55f3f00fbbe00eb2e3dcb7186331b4863589ef
+machine_hash: 4706a1ea549a857f023efc6e638d35bb9f049283323d7cd2bd726a0cbcb8accd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 12 Agent Mode changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
-  agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Kimi Code/2026-06-03-2-agent-mode-changes-in-kimi-code-0-9-0|2 Agent
+  Mode changes in Kimi Code 0.9.0]]'
 - '[[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source
   link) NVIDIA Nemotron 3…]]'
 - '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode

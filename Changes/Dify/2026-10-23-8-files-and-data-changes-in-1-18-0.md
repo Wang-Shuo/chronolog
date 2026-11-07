@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Files and Data: 8 changes in v1.18.0 — Smarter Agent
   Routing, Portable Apps, Deeper Workflow Visibility — **Document extraction:**…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2592
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5133f363ec8bb0f80d03f3741f87488c703185d547ede4353f4bedcfb587d95
+machine_hash: f40659c6c0414a7e89a0a978d4b2c31160718333429ab57f51f8e245c12eab8c
 product: dify
 product_name: Dify
 record:
@@ -142,7 +142,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

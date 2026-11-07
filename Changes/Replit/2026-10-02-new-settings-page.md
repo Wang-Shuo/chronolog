@@ -4,20 +4,20 @@ date: '2026-10-02'
 description: 'Replit · 2026-10-02 · Interface Experience: Your project or chat stays
   open underneath, so leaving Settings puts you right back where you were.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1362
+  lag_days: 2728
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9c6eed36d3e0b0ab110965172ed4efff60f4e9c09be91a4831045dc348f7c5d0
+machine_hash: 644014c95ca42e012ca4ab511f9e46adfc4a689bd6193ad79c77e68aab7c7a76
 product: replit
 product_name: Replit
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]
-- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session assignment]]
+- Later: 2026-10-02 · Synthesia · [[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track long-running tasks with Progress Tracker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

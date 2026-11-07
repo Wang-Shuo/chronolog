@@ -4,20 +4,20 @@ date: '2024-05-14'
 description: 'Gemini · 2024-05-14 · Files and Data: What: Seamlessly upload multiple
   Google Docs, PDFs, and Word files from Google Drive or your device for summaries…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 355
+  lag_days: 1700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 433ae9cc5431b4f900c5c4ab38d42fb9262484ad594108e075c36522ce7de331
+machine_hash: c2366eb55ed7775525a152a8c2748c29529a074c4bc1b404c805b0ed991bfa9a
 product: gemini
 product_name: Gemini
 record:
@@ -65,10 +65,10 @@ record:
   title: 'Exclusive to Gemini Advanced: Document Upload'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes
-  in 0.6.5]]'
 - '[[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful
   Diagrams]]'
+- '[[Changes/Notion/2024-04-30-import-pdfs-and-google-docs-finally|Import PDFs and
+  Google Docs (finally)]]'
 - '[[Changes/Dify/2024-05-02-optimize-the-knowledge-failed-documents-query-by-charli117-in-https-github-com-l|optimize
   the knowledge failed documents query]]'
 source_release: '[[Releases/Gemini/gemini-2024-05-14-2024-05-14-1af0ccd7|gemini-2024-05-14-2024-05-14-1af0ccd7]]'
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb57bae47349a76aa0db8e7fbe59c8a22fadcae7419e7ca8812fd504ba0ee8dd
+machine_hash: c3127855f492cacccced2f0635e4e1b330f897c9e1d58e43c50071974bc53e34
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Model Support changes in v1.17.18 + 1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model
-  Support changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-2-model-support-changes-in-kimi-code-0-23-2|2 Model
+  Support changes in Kimi Code 0.23.2]]'
 - '[[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow
   selecting Cline free models on the ClinePass provider, organized…]]'
 - '[[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model

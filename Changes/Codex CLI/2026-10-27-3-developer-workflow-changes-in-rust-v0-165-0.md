@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-10-27 · Developer Workflow: 3 changes in 0.165.
   Closed a marketplace URL validation gap that could allow Git to connect to a different
   host…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07cd4943e38bc2e70eb0d4bacece5b82f862672aff23b3c863196eb6fa8e7998
+machine_hash: 917c3ebbb939c4b49a72bc54b3d013b515a20104756f1ce2e1007ecae8df8e9b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

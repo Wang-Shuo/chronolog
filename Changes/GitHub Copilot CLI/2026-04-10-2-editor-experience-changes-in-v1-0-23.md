@@ -4,20 +4,19 @@ date: '2026-04-10'
 description: 'GitHub Copilot CLI · 2026-04-10 · Editor Experience: 2 changes in 1.0.23
   — /diff, /agent, /feedback, /ide, and /tuikit work while the agent is running'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4e25de434cb6290f1a1ef76beb6bc71e248670665cc4a2850c280d6979e3116
+machine_hash: 0e4061f86b9204782d94d64a76879b9e1322284fa4a13c622ae193e5480e9e54
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.23
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

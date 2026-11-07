@@ -5,20 +5,20 @@ description: 'Replit · 2025-12-26 · Pricing Model: Gift cards are now availabl
   in time for the holidays. You can purchase gift cards in denominations from \$50
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2725
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ecaa4902660e1b82c4892edbb180805effc45ab4711d6b741e7b9b65f2f1ad2
+machine_hash: d8f4333b4559afe2369c5cc5b9ccdc914cebb3509b098b3b5572286678a0602f
 product: replit
 product_name: Replit
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-3-pricing-model-changes-in-1-11-2|3 Pricing Model changes in 1.11.2]]
-- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]
+- Later: 2026-01-06 · Descript · [[Changes/Descript/2026-01-06-better-ai-credit-efficiency-and-reasoning|Better AI-credit efficiency and reasoning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

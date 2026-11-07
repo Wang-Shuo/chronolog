@@ -5,19 +5,20 @@ description: 'Midjourney · 2025-05-07 · Collaboration: We''re preparing to do 
   community idea-ranking activity later this week. Before we put it up, we want to
   give…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 714
+  lag_days: 2308
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e14355940680d2d4be9fa4b3b406da093afe62d57061f168ce2f6fd5de220402
+machine_hash: 2ad71c397597ee71f2a1fb09e080da93a39caf65a36004071a860b3d45dc9d5d
 product: midjourney
 product_name: Midjourney
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]
-- Later: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
+- Later: 2025-05-09 · Descript · [[Changes/Descript/2025-05-09-this-patch-addresses-more-issues-related-to-project-collaboration-and-viewing-pr|This patch addresses more issues related to project collaboration and viewing projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

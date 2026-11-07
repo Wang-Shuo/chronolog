@@ -4,20 +4,20 @@ date: '2025-08-05'
 description: 'Gemini CLI · 2025-08-05 · Mobile and Desktop: 2 changes in Release v0.1.17
   — feat(ci): run e2e tests on macos during ci by @nsalerni in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 875
+  lag_days: 2459
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58fc1fe9ccd78e615976bc5203885a88d986c3fa429ac88fc0c70cd1b63ae20a
+machine_hash: bc1ca4f8e0c9223e309bd342f9d0e7ff310aa6dd090989aaf77e084d7363424e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows
-  PEM KeyPath Fix]]'
-- '[[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile
-  and Desktop changes in v0.1.15]]'
+- '[[Changes/Descript/2025-07-31-screen-recorder-updates|Screen Recorder Updates]]'
+- '[[Changes/Descript/2025-07-31-screen-recorder-desktop-shortcut|Screen Recorder
+  desktop shortcut]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile
   and Desktop changes in v0.1.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754|gemini-cli-2025-08-05-v0-1-17-github-237516230-dacc1754]]'
@@ -99,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

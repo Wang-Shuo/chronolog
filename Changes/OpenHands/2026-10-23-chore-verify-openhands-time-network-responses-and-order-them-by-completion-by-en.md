@@ -4,20 +4,19 @@ date: '2026-10-23'
 description: 'OpenHands · 2026-10-23 · Editor Experience: chore(verify-openhands):
   time network responses and order them by completion by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2903
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2c84f8f341dd81fcc9df389fb1585a893474ea22fb46a0d0fb6b043efb1fe04
+machine_hash: 30cf1c35874333649514dfc14fac7c1eaa264e427d31d06959ce96691104095e
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +41,8 @@ record:
   title: 'chore(verify-openhands): time network responses and order them by completion'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
-  express the Markdown preview cap in CSS]]'
+- '[[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental
+  conversation import]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
   sessions Changed the cloud environment dialog to open network access, setup…]]'
 - '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

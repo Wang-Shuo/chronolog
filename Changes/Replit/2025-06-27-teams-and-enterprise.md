@@ -3,20 +3,20 @@ card_id: replit-2025-06-27-3b06c1
 date: '2025-06-27'
 description: 'Replit · 2025-06-27 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 784
+  lag_days: 1991
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ee9bf97f27b1750a951424584b41f6e6a480700dd593df758cab5347e83c445
+machine_hash: 23e67d7d89fdd2de7fd7339fa7a537e959e089cfc21e19722929ea40cf78a986
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,11 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-  and Edu rollout coming soon]]'
 - '[[Changes/Replit/2025-06-13-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make
+  your videos interactive]]'
 source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Earlier: 2025-06-25 · Synthesia · [[Changes/Synthesia/2025-06-25-we-re-super-excited-to-introduce-interactivity-to-our-enterprise-customer-and-cr|Make your videos interactive]]
 - Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

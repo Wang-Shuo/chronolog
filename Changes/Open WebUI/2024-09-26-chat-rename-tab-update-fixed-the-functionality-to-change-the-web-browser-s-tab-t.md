@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-09-26 · Editor Experience: **\U0001F3F7️ Cha
   Tab Update**: Fixed the functionality to change the web browser's tab title simultaneously
   when a…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 562
+  lag_days: 2146
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5562151d4fcc6ace16691cca468dd9207209606fbb9278bd01846a928a99472
+machine_hash: 68ef829ce9dbef910653657c122947d0602b66f57ed15318919b1b34ea4ce377
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +44,11 @@ record:
   title: "**\U0001F3F7️ Chat Rename Tab Update**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
-- '[[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We''ve
-  introduced a powerful new AI feature for Pro subscribers that lets you edit…]]'
 - "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
   Enhanced Error Messaging]]"
+- '[[Changes/Descript/2024-09-25-additional-editor-updates|Additional editor updates]]'
+- '[[Changes/Notion/2024-09-25-generate-edit-docs-in-your-own-style|Generate & edit
+  docs in your own style]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1|open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|🧠 Enhanced Error Messaging]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-generate-edit-docs-in-your-own-style|Generate & edit docs in your own style]]
 - Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience changes in v0.58.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

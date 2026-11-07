@@ -4,20 +4,20 @@ date: '2025-08-15'
 description: 'Ollama · 2025-08-15 · Reliability and Performance: 2 changes in v0.11.5
   — Performance improvements for the `gpt-oss` models'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2461
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97c340c31210c2a57e371bab8a2e83118ef124dc0f1af4019004437def23080d
+machine_hash: a43ba748b063ef9e3dbd2e7ad56d0bcd41c264b8ed26947692012c00866280d5
 product: ollama
 product_name: Ollama
 record:
@@ -46,9 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v0.11.5
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
   Reliability and Performance changes in v0.1.19]]'
+- '[[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag
+  & drop support - Simply drag images directly into the avatar creation…]]'
 - '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
   Reliability and Performance changes in v0.1.21]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-15-v0-11-5-github-240119297-f3d0a0be|ollama-2025-08-15-v0-11-5-github-240119297-f3d0a0be]]'
@@ -93,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.11.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

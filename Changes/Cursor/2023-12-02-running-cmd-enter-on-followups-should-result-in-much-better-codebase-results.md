@@ -4,20 +4,19 @@ date: '2023-12-02'
 description: 'Cursor · 2023-12-02 · Editor Experience: Running Cmd+enter on followups
   should result in much better codebase results.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 263
+  lag_days: 1847
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f7bbf605b8ca2533f461c2247e527fa40717d8ec22843f7c2447537e753f57e
+machine_hash: 35038f45b0528d301be16d5bb2e50ed72a9fbbc915cbedcb6b55d6d08e0895b5
 product: cursor
 product_name: Cursor
 record:
@@ -76,13 +75,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More reliable Copilot++ changes: less flashing, better highlighting of what's new]]
-- Later: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
+- Later: 2023-12-06 · Descript · [[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New AI Action: Remove Retakes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

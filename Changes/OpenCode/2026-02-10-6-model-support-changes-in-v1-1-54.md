@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d42b320bcdcf9b612eb4c4909f1262414d842582b7f461e25b35f61abf0ffed7
+machine_hash: 6fa7d59e38ed8f9c9307ed6d401bbdc792f816a1fc956d7b2df823a9dfe3d871
 product: opencode
 product_name: OpenCode
 record:
@@ -50,9 +50,10 @@ record:
   title: 6 Model Support changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
+- '[[Changes/Descript/2026-02-10-use-kling-models-for-higher-resolution-avatars-that-move-more-naturally|Use
+  Kling models for higher resolution avatars that move more naturally]]'
+- '[[Changes/Descript/2026-02-10-use-claude-opus-4-6-in-underlord-for-better-visual-arranging|Use
+  Claude Opus 4.6 in Underlord for better visual arranging]]'
 - '[[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs:
   document GEMINI_CLI_HOME environment variable]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'

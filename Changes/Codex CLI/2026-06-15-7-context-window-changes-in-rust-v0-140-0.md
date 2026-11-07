@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Context Window: 7 changes in 0.140.0 — #27438
   [codex] Add token budget context feature @pakrym-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2462
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 728dc955f5e4a1db0fce65bcd5385b83df03a1c0d291cd528ad7e14c196d4a3d
+machine_hash: f59edb62b10f961eaf6202dc0580ea7e42d63ba64b6bba8e70cf4a7a804dcd98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 7 Context Window changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
-  Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/Kimi Code/2026-06-12-show-completed-and-cancelled-compaction-records-correctly-when-resuming-a-sessio|Show
+  completed and cancelled compaction records correctly when resuming a session]]'
 - '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved
   prompt caching by decoupling it from context shift for better KV cache reuse]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
@@ -119,13 +119,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor max_output_tokens for BYOK Responses providers]]
-- Later: 2026-06-15 · Ollama · [[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama will now return an error if a single message is larger than the current…]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-2-context-window-changes-in-kimi-code-0-15-0|2 Context Window changes in Kimi Code 0.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

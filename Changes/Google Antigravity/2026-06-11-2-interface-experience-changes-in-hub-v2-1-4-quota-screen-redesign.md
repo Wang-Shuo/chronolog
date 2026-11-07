@@ -4,20 +4,20 @@ date: '2026-06-11'
 description: 'Google Antigravity · 2026-06-11 · Interface Experience: 2 changes in
   HUB v2.1.4 — Quota Screen Redesign and PDF Support — Simple conversation search…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1249
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a1cdf9049f2559f3a9acdee0796d2c32f6b795e540ceb645141ee2fda3bf5a4
+machine_hash: 756f4b93aa52b78cc3f5bc61f044c639f3cf6b3c794149846b753dbfa2694f6f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,11 +45,10 @@ record:
   title: 2 Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-desktop-restore-the-device-attachment-picker|Desktop
-  Restore the device attachment picker]]'
 - '[[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core
   References can include usage descriptions for agents, show up in the new docs…]]'
 - '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it|How to find it]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
 source_type: antigravity_changelog
 theme: interface-experience
@@ -88,14 +87,14 @@ Source: https://antigravity.google/releases?tab=hub&version=2.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-how-to-find-it|How to find it]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

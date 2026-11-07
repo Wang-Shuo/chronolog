@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-03 · Apps and Integrations: Remote Control
   shows as a persistent footer pill (with a link to the session) instead of a startup
   message'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2728
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85f9982ab954db42d623cf3dff9b1dc96dd1bea658d8b64472bfd88458ff103e
+machine_hash: 33393fd4524777b6a75b07ec52c1091c164fb11b32bea9265fa4fa16e5b26499
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     session)…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-4-apps-and-integrations-changes-in-v0-9-6|4 Apps
-  and Integrations changes in v0.9.6]]'
-- '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
-  now collapses claude.ai connectors you''ve never signed in to behind…]]'
-- '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed
-  the JetBrains plugin install suggestion from startup]]'
+- '[[Changes/HeyGen/2026-06-02-custom-gpt-integration-removed|Custom GPT integration
+  REMOVED]]'
+- '[[Changes/Kimi Code/2026-06-02-show-mcp-server-summary-in-the-welcome-panel-and-add-configuration-hints-in-the|Show
+  MCP server summary in the welcome panel and add configuration hints in the /mcp…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated
+  Copilot Connectors are now generally available…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]]
-- Later: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-configure-who-can-create-app-connector-connections|Configure who can create app connector connections]]
+- Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-federated-copilot-connectors-are-now-generally-available-web-microsoft-365-copil|Federated Copilot Connectors are now generally available…]]
+- Later: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-allow-sdk-runtime-creation-to-use-a-separate-rpc-client-while-preserving-local-c|Allow SDK runtime creation to use a separate RPC client while preserving local CLI startup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

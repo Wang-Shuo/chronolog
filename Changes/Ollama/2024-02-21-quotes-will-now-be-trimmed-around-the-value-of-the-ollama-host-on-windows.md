@@ -4,20 +4,20 @@ date: '2024-02-21'
 description: 'Ollama · 2024-02-21 · Mobile and Desktop: Quotes will now be trimmed
   around the value of the `OLLAMA_HOST` on Windows'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 344
+  lag_days: 1928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ac9fd8b39382bddda77f9ee9027d94b1099d8a86b89ecb3ffb87b94d900ac4e
+machine_hash: 8adbfdf144721bfb0d5f0c4428e72dc31932fa70105b9841b46d24e294c204d8
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: Quotes will now be trimmed around the value of the `OLLAMA_HOST` on Windows
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
-  fe mobile responsive next]]'
-- '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
-  false auto-commits on Windows, by @ctoth]]'
+- '[[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick
+  Recorder gets a major upgrade on MacOS]]'
 - '[[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama
   on Windows is now available in preview]]'
+- '[[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick
+  Recorder issues when using Screen Time on MacOS]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-21-v0-1-26-github-142898859-bef18741|ollama-2024-02-21-v0-1-26-github-142898859-bef18741]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-02-14 · Ollama · [[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama on Windows is now available in preview]]
+- Earlier: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-quick-recorder-issues-when-using-screen-time-on-macos|Quick Recorder issues when using Screen Time on MacOS]]
 - Later: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced likelihood of false positive Windows Defender alerts on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

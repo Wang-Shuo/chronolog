@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59afe9800ee8773a0d9e4d19ea919cfa61ce8d4f31870a6b92bbe1213fcedc7a
+machine_hash: 95c94295de408aacc430ec475d04ff777fed852cebe53bf6725cabc9e7319420
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: enable LLM provider connections on cloud'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2
-  Model Support changes in HUB v2.13.0 — Introducing new Documents…]]'
+- '[[Changes/Kimi Code/2026-09-09-2-model-support-changes-in-kimi-code-0-42-0|2 Model
+  Support changes in Kimi Code 0.42.0]]'
 - '[[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added
   the Astra system prompt for GPT-6 models]]'
 - '[[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support changes in v1.18.30]]
-- Later: 2026-09-09 · Suno · [[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The v6 family of models enables new possibilities]]
+- Later: 2026-09-09 · Qoder · [[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support changes in Qoder 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -3,20 +3,20 @@ card_id: ollama-2024-02-02-690dd7
 date: '2024-02-02'
 description: 'Ollama · 2024-02-02 · Multimodal Input: 3 changes in v0.1.23 — ![vision](https://github.com/ollama/ollama/assets/251292/cb513ae7-a9c2-4a2b-891b-fd79bf997f86)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 136
+  lag_days: 1904
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7567df2dfa40fd5e22bbd0f5d983526889462ac3df564233c46961ace942daa3
+machine_hash: 62625e46fa1e8d7a120c6ade0a4b84dd7f6dafd4e74851a68613ca9be664a7f6
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Multimodal Input changes in v0.1.23
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
-- '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
-  Input changes in v0.1.15]]'
+- '[[Changes/Descript/2024-01-16-edit-for-clarity-intelligently-identifies-and-removes-distracting-filler-words-t|Edit
+  for Clarity intelligently identifies and removes distracting filler words…]]'
 - '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
   expansion into text-to-image capabilities marks a significant step in our…]]'
+- '[[Changes/Synthesia/2024-01-31-ai-video-assistant-3-0-allows-you-to-edit-and-refine-text-in-the-script-box-rewr|Editing
+  in the script box: AI video assistant 3.0]]'
 source_release: '[[Releases/Ollama/ollama-2024-02-02-v0-1-23-github-139618642-fffe661f|ollama-2024-02-02-v0-1-23-github-139618642-fffe661f]]'
 source_type: github_releases
 theme: multimodal
@@ -88,14 +88,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.23
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our expansion into text-to-image capabilities marks a significant step in our…]]
-- Later: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom Gen-2 presets]]
+- Earlier: 2024-01-31 · Synthesia · [[Changes/Synthesia/2024-01-31-ai-video-assistant-3-0-allows-you-to-edit-and-refine-text-in-the-script-box-rewr|Editing in the script box: AI video assistant 3.0]]
+- Later: 2024-02-19 · Synthesia · [[Changes/Synthesia/2024-02-19-today-we-are-introducing-layers-another-nice-feature-to-help-you-edit-the-video|Layers: now easier to select and edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

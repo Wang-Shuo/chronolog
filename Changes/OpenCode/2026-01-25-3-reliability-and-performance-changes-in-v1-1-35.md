@@ -4,20 +4,20 @@ date: '2026-01-25'
 description: 'OpenCode · 2026-01-25 · Reliability and Performance: 3 changes in v1.1.35
   — Core Faster workspace creation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2624
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4b59f897f487278146045099a32dfd894fe535f039c391dfa83e07f84ed9b3c
+machine_hash: 7eb0ff66a62a2bc3dcd3005ed751576d6faefa421637b67757f5384e9ddd0beb
 product: opencode
 product_name: OpenCode
 record:
@@ -100,7 +100,7 @@ Source: https://opencode.ai/changelog/v1.1.35
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

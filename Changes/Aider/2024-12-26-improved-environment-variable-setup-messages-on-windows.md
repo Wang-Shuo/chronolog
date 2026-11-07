@@ -4,20 +4,20 @@ date: '2024-12-26'
 description: 'Aider · 2024-12-26 · Mobile and Desktop: Improved environment variable
   setup messages on Windows.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 653
+  lag_days: 2237
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3bef5fd431d4d33fe7cbe9dac10a561c9e0b4ab1190f779d27d12ca78f4c169
+machine_hash: bc9333f6e243f1c1cca80ef5c486e0bc66f6aeb1697431c14881ed096287abbf
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: Improved environment variable setup messages on Windows
   type: change
 related_changes:
-- '[[Changes/Suno/2024-12-06-exciting-news-try-v4-for-free-when-you-download-the-mobile-app-now-available-on|Exciting
-  news!]]'
 - '[[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This
   is the first version of Suno for Android]]'
+- '[[Changes/Descript/2024-12-10-new-desktop-experience|New Desktop experience]]'
 - '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
   layout responsive for mobile devices]]'
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

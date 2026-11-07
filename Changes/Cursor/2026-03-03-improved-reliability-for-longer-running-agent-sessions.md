@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fafde8efe4f74768c8c3cee1be451e8a56c3c20a1d02497de916be76692759e3
+machine_hash: bcb0c6c2e292e30cb5402759a96277f6090715e8c901853bf75a11738f50e0fe
 product: cursor
 product_name: Cursor
 record:

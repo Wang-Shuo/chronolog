@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b999bf1eadf03da83406d62af337adf535e205b0e3f1f1b920948c7bd2bc2f5
+machine_hash: 6e48f5663489a2d2cb1a7b028e732114193cab033a1379b06e473b34e8e02d16
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: Improved the Bash/PowerShell tool message when a command hits its timeout…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
-  more models to the GCP Vertex provider, plus a free-form entry option…]]'
+- '[[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model
+  Support changes in Kimi Code 0.23.6]]'
 - '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
   Support changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support changes in v1.17.20 + 1]]
-- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop Fixed spacing between model provider sections in Settings]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model Support changes in Kimi Code 0.24.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

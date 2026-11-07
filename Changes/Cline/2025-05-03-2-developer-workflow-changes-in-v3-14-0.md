@@ -5,19 +5,20 @@ description: 'Cline · 2025-05-03 · Developer Workflow: 2 changes in v3.14.0 �
   a timeout setting for the terminal connection, allowing users to set a time to wait
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 777
+  lag_days: 2426
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dbd5e13e3cde55c3e3150ea884f59eaaf8f1789a65ac011654dd08f2a82e59a
+machine_hash: ea30a7de72abcc01579f554fda54be11d7d694e03152b8f0e1c1301605cb778c
 product: cline
 product_name: Cline
 record:
@@ -90,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.14.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

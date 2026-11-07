@@ -4,20 +4,20 @@ date: '2026-08-19'
 description: 'Lovable · 2026-08-19 · Apps and Integrations: If your app uses an [app
   user…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2805
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 349c9836101e52c456ca43401877f2113bf4b31f2732f575296e12016e2d4101
+machine_hash: c2e7f4e53c33d6500d1bf441792cb7af4a20de46571b1f4d2ae19435a418e77d
 product: lovable
 product_name: Lovable
 record:
@@ -68,10 +68,10 @@ record:
   title: Lovable can use your connected service account while building
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
-  Apps and Integrations changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
   in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make
+  several refinements and internal improvements]]'
 - '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
   for Amazon Redshift]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-19-2026-08-19-776e1b54|lovable-2026-08-19-2026-08-19-776e1b54]]'
@@ -105,14 +105,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
+- Earlier: 2026-08-19 · Kimi Code · [[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make several refinements and internal improvements]]
 - Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

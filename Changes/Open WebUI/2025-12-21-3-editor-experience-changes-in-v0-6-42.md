@@ -5,20 +5,19 @@ description: "Open WebUI · 2025-12-21 · Editor Experience: 3 changes in v0.6.4
   \U0001F441️ Notes now support read-only access permissions, allowing users to share
   notes for…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1013
+  lag_days: 2597
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aeb5ce35a3f969963739a92510ddaa18597cb4d0bd4852fe7828b969dd0d2272
+machine_hash: 50f6bb3ece2921bd0ba3df51e45caf7162d3e36cb209ec6f6221157bb32eb1ba
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,12 +52,11 @@ record:
   title: 3 Editor Experience changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update
-  skills help text to reference correct ~/.copilot/skills/ directory]]'
-- '[[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard
-  shortcuts in Design Mode]]'
 - '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
   Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Descript/2025-12-20-play-your-script-while-recording-b-roll|Play your
+  script while recording B-roll]]'
+- '[[Changes/Descript/2025-12-20-editor|Editor]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: editor-experience
@@ -109,14 +107,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
+- Earlier: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-editor|Editor]]
 - Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

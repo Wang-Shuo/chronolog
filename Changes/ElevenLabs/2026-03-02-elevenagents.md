@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'ElevenLabs · 2026-03-02 · Interface Experience: **New widget configuration
   options**: Several new settings are now available for the ElevenAgents conversation…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2514
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 333a88259651a05ba6c7b286103fbd018a463845dbc72f26b6ce27c0bf48fbf5
+machine_hash: 2014cd7ec28811be157682c3f5bbc0dfe54dcff64e7480fa961f89a724e6b620
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,11 +95,11 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-27-system-theme-support|System theme support]]'
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
 - '[[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface
   Experience changes in v0.8.6]]'
+- '[[Changes/Descript/2026-03-02-note-files-you-import-directly-into-a-project-won-t-appear-in-the-media-library|Note:
+  Files you import directly into a project won''t appear in the Media…]]'
+- '[[Changes/Descript/2026-03-02-what-s-improved|What''s improved]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-02-2026-03-02-97fa6f5d|elevenlabs-2026-03-02-2026-03-02-97fa6f5d]]'
 source_type: elevenlabs_changelog
 theme: interface-experience
@@ -158,14 +158,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface Experience changes in v0.8.6]]
-- Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-chat-history-pagination-fixed-an-issue-where-older-messages-in-long-chats-were-n|📜 Chat history pagination. Fixed an issue where older messages in long chats…]]
+- Earlier: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-what-s-improved|What's improved]]
+- Later: 2026-03-02 · Notion · [[Changes/Notion/2026-03-02-turn-any-notion-page-into-a-fullscreen-presentation-just-add-dividers-to-separat|Present any Notion page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

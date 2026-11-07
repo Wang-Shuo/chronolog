@@ -4,20 +4,20 @@ date: '2023-12-08'
 description: 'Dify · 2023-12-08 · Mobile and Desktop: feat: fe mobile responsive next
   by @yuhao1118 in https://github.com/langgenius/dify/pull/1609'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 269
+  lag_days: 1853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce46efca1a13cadd7ca7da0ff4bc81383cafce4411aa7eb10b1702634a4320b0
+machine_hash: 0aa2745dfe00a290016803854b553cc4c3c0e2e659f5f8dfd372c12eb29ccb23
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,10 @@ record:
   title: 'feat: fe mobile responsive next'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
-- '[[Changes/Ollama/2023-09-06-note-cmake-is-required-to-build-dependencies-on-macos-it-can-be-installed-with-b|Note:
-  cmake is required to build dependencies]]'
+- '[[Changes/Descript/2023-09-18-new-add-layer-panel|New add layer panel]]'
 - '[[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama
   for macOS will now always update to the latest version, even if earlier…]]'
+- '[[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]'
 source_release: '[[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|dify-2023-12-08-0-3-33-github-133127964-bf22df9f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2023-10-13 · Ollama · [[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama for macOS will now always update to the latest version, even if earlier…]]
+- Earlier: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]
 - Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

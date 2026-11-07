@@ -4,20 +4,20 @@ date: '2024-11-05'
 description: 'Dify · 2024-11-05 · Files and Data: 8 changes in v0.11.0 — **Configurable
   Workflow File Upload Limit**: Now you can cap workflow file uploads to better control…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 530
+  lag_days: 1875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c3a122b94562feab50156b57fdca3707642fce815e3cbede90270a8bac6c7c0
+machine_hash: ee5be4e5a0d32dd710b7a71536c7c8b624731581dc9d8d742ef134da5ca0ba21
 product: dify
 product_name: Dify
 record:
@@ -62,12 +62,12 @@ record:
   title: 8 Files and Data changes in 0.11.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-26-s3-file-upload-issue-fixed-a-problem-affecting-s3-file-uploads-ensuring-smooth-o|\U0001F4BC
-  S3 File Upload Issue]]"
 - "[[Changes/Open WebUI/2024-10-26-knowledge-base-loading-issue-resolved-a-critical-bug-where-the-knowledge-base-wa|\U0001F4DA
   Knowledge Base Loading Issue]]"
 - '[[Changes/Dify/2024-10-28-4-files-and-data-changes-in-0-10-2|4 Files and Data changes
   in 0.10.2]]'
+- '[[Changes/Descript/2024-11-05-replace-media-on-the-canvas-toolbar|Replace media
+  on the Canvas toolbar]]'
 source_release: '[[Releases/Dify/dify-2024-11-05-0-11-0-github-183549613-86c3ffa3|dify-2024-11-05-0-11-0-github-183549613-86c3ffa3]]'
 source_type: github_releases
 theme: file-data
@@ -121,14 +121,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-4-files-and-data-changes-in-0-10-2|4 Files and Data changes in 0.10.2]]
+- Earlier: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-replace-media-on-the-canvas-toolbar|Replace media on the Canvas toolbar]]
 - Later: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-update-document-and-segment-word-count-by-johnjyong-in-https-github-com-langgeni|update document and segment word count]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

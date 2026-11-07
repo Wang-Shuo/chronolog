@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-20 · Apps and Integrations: Use Apple Messages
   Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1246
+  lag_days: 2806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c46e0d124114f817cc89746e28b5508ff208e61769b935dd026ccda4b1c707e0
+machine_hash: 532d60d6dce407d98b10ba524eb331b637060c0aa8b57993f768f0feec2dd61f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ record:
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Kimi Code/2026-08-19-make-several-refinements-and-internal-improvements-see-the-changelog-on-github-h|Make
+  several refinements and internal improvements]]'
 - '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
   for Amazon Redshift]]'
 - '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

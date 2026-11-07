@@ -4,20 +4,20 @@ date: '2024-11-05'
 description: 'Dify · 2024-11-05 · Reliability and Performance: 3 changes in v0.11.0
   — **Async Preloading for Fast Launches**: Speed up your server starts with async…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 691
+  lag_days: 2178
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6405935de9a25cf1bd0fa4189b94bd9dae98881d906451ff52b086f9df7105e4
+machine_hash: bb43f67946dee687d4174847ead97620f112ed51c528ed695cb511c58d8e8760
 product: dify
 product_name: Dify
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

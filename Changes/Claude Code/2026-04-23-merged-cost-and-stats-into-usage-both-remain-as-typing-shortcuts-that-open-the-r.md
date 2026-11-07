@@ -4,20 +4,19 @@ date: '2026-04-23'
 description: 'Claude Code · 2026-04-23 · Editor Experience: Merged `/cost` and `/stats`
   into `/usage` — both remain as typing shortcuts that open the relevant tab'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2720
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19087d536b4ed7a9f4531610c9357f1d787fa8c6378c4b7bb34cb47cc174c7af
+machine_hash: a16c92dc48dc77429d27929595ca040d881e5ae89bdeedbce02dc91148f0303b
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +41,8 @@ record:
   title: Merged `/cost` and `/stats` into `/usage`
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core
-  Preserved concurrent edits to the same file instead of letting parallel edits…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-rich-bing-web-answer-cards-in-copilot-chat-windows-web-microsoft-365-copilot-cha|Rich
+  Bing web answer cards in Copilot Chat Windows, Web (Microsoft 365 Copilot chat)]]'
 - '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
   Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

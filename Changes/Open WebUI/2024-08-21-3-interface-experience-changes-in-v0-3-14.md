@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-21 · Interface Experience: 3 changes in v0.
   — **\U0001F5E8️ Markdown Rendering in User Messages**: User messages are now rendered
   in Markdown…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 590
+  lag_days: 1956
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe29ec69c7159665261f81f33c643e095fcd10dcdb54d7a35ef5d42f0239caad
+machine_hash: 562f7045b4fc866bb31d9ecf744d9218b14b8d6d7624d572ac3128ce1f6f5bf3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in v0.3.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-08-07-3-interface-experience-changes-in-v0-3-12|3 Interface
-  Experience changes in v0.3.12]]'
+- '[[Changes/Descript/2024-08-14-the-title-field-has-been-added-back-to-compositions-so-you-can-update-the-title|The
+  Title field has been added back to Compositions so you can update the title…]]'
 - '[[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience
   changes in 0.7.0]]'
 - "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

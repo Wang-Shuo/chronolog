@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Automation and Scheduling: /every
   and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 2460
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4625aa2ac0f04170c3a21152e9d411bc3ecbf1a8de7a0e3dbab104306e01d82a
+machine_hash: a31d4427a38c5b613159bd5f7f7c6c0c18df12ad6f9656a101958da25ffe9bfa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-stopped-promoting-loop-in-remote-sessions-where-pending-loops-don-t-keep-the-con|Stopped promoting /loop in remote sessions, where pending loops don't keep…]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-users-can-schedule-work-for-specific-times-or-broader-windows-such-as-morning-af|Users can schedule work for specific times or broader windows, such as morning…]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-do-not-carry-obsolete-legacy-loop-background-plan-yolo-or-unknown-experimental-f|Do not carry obsolete legacy loop, background, plan, yolo, or unknown experimental…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

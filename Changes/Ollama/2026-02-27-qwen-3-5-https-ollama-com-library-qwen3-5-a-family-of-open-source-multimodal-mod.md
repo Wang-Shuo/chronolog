@@ -4,20 +4,20 @@ date: '2026-02-27'
 description: 'Ollama · 2026-02-27 · Multimodal Input: [Qwen 3.5](https://ollama.com/library/qwen3.5):
   a family of open-source multimodal models that delivers exceptional…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 892
+  lag_days: 2660
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 837b48a406695c441201f1808128fa1853ad8dfa4a092d6796a3e5d057982089
+machine_hash: bb5ed0257df24b9b9ce0baadbb673e5cb2dbf0d087e9f50b7e331c1cbf8f0dbf
 product: ollama
 product_name: Ollama
 record:
@@ -57,10 +57,10 @@ record:
     multimodal…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core):
-  optimize token calculation and add support for multimodal tool responses]]'
-- '[[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336
-  Always expose view_image and return unsupported image-input error @aibrahim-oai]]'
+- '[[Changes/HeyGen/2026-02-17-why-it-matters-the-best-video-ideas-happen-mid-conversation-now-you-don-t-have-t|Why
+  it matters: The best video ideas happen mid-conversation]]'
+- '[[Changes/HeyGen/2026-02-20-heygen-s-homepage-has-been-redesigned-to-help-you-start-the-right-video-workflow|Introducing
+  the redesigned homepage]]'
 - "[[Changes/Open WebUI/2026-02-23-text-file-type-detection-fix-typescript-and-other-text-files-that-were-mis-detec|\U0001F4C4
   Text file type detection fix. TypeScript and other text files…]]"
 source_release: '[[Releases/Ollama/ollama-2026-02-27-v0-17-4-github-291188052-d7cfa045|ollama-2026-02-27-v0-17-4-github-291188052-d7cfa045]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

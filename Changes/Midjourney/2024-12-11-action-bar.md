@@ -5,20 +5,20 @@ description: 'Midjourney · 2024-12-11 · Interface Experience: When you’ve go
   or more scraps selected, an action bar will appear above the most recently clicked
   scrap in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 702
+  lag_days: 2068
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5c508b94219dae889f758a57538960bbc228e559fc0747014b355e24a86c3c3c
+machine_hash: ae815c6904f346669056ddae5303c139184f979feb351b934efb8e93039634e3
 product: midjourney
 product_name: Midjourney
 record:
@@ -49,8 +49,7 @@ record:
   title: Action Bar
   type: change
 related_changes:
-- '[[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2
-  Interface Experience changes in Lovable updates — 2024-12-03]]'
+- '[[Changes/Notion/2024-12-05-because-details-matter|Because details matter]]'
 - '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
   Experience changes in v0.67.0]]'
 - '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface Experience changes in 0.13.2]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|📸 Quick Screen Capture Button]]
+- Later: 2024-12-13 · Descript · [[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When you’re ready to swap in your final content, just select the Placeholder layer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

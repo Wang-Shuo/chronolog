@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 357c3aa73ce85531ed831c27d9ef95e9b5e21d96a0329004f0a185ddb13e657f
+machine_hash: 20e254cff0c7db6d4a1010298feefd20a95a992067530f4c19a791dbd0bfb457
 product: openclaw
 product_name: OpenClaw
 record:
@@ -60,10 +60,10 @@ record:
   title: Set the approval reviewer's reasoning and optional Fast mode independently…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to
-  Agent]]'
 - '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
   an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The
+  agent no longer assumes the current working directory is the project root]]'
 - '[[Changes/OpenClaw/2026-09-19-72-agent-mode-changes-in-v2026-9-5|72 Agent Mode
   changes in v2026.9.5]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
@@ -120,7 +120,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
+- Earlier: 2026-09-19 · Kimi Code · [[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The agent no longer assumes the current working directory is the project root]]
 - Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

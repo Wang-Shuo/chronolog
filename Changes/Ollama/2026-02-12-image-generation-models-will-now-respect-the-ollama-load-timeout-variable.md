@@ -4,20 +4,20 @@ date: '2026-02-12'
 description: 'Ollama · 2026-02-12 · Image Generation: Image generation models will
   now respect the `OLLAMA_LOAD_TIMEOUT` variable'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 704
+  lag_days: 962
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f51b1e71e6ae6ecb356b1ac2aa683e02d1c071c464cb56113be01bca60fb365b
+machine_hash: 063ea5d10f154f9b066a8275427790e7fbff41db41eeeff2f1cec403638dd1ec
 product: ollama
 product_name: Ollama
 record:
@@ -50,11 +50,11 @@ record:
   title: Image generation models will now respect the `OLLAMA_LOAD_TIMEOUT` variable
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-14-experimental-image-generation-models-are-available-for-macos-and-linux-cuda-in-o|Experimental
-  image generation models are available for macOS and Linux…]]'
 - '[[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation
   changes in v0.14.3]]'
 - '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
+- '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
+  decision-making Small requests…]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe|ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe]]'
 source_type: github_releases
 theme: image-generation
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
+- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter decision-making Small requests…]]
 - Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

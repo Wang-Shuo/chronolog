@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-02-10 · Apps and Integrations: 7 changes in Re
   v0.28.0 — feat(extensions): add support for custom themes in extensions by @spencer426
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1055
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29a4b26e6c3ec0637a6f858a54dcad9cc0e57891969a2810cc18680bcafe9a46
+machine_hash: 8c93cd5a62d769247acbde252edfcda6dc284a893599010e65a0ccfe25c23e65
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -115,13 +115,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]
-- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core Add directory parameter to plugin client for multi-project support]]
+- Later: 2026-02-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-10-more-frequent-ticket-status-updates-for-the-servicenow-tickets-copilot-connector|More frequent ticket status updates for the ServiceNow Tickets Copilot connector…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

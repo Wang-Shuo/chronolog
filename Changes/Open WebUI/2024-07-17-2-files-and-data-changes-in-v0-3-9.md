@@ -4,20 +4,20 @@ date: '2024-07-17'
 description: "Open WebUI · 2024-07-17 · Files and Data: 2 changes in v0.3.9 — **\U0001F4C1
   Files Chat Controls**: We've reverted to the old file handling behavior where uploaded…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 419
+  lag_days: 1764
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a96a7e7dfb6fd811d194b61cb2cfa60eb344afd5773c762b5857c0a09ef7b890
+machine_hash: 1a27307efdda29ea41b033016d0b29f63a0a3dda6b2ed5a3410ff631d9a44bc3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,11 @@ record:
   title: 2 Files and Data changes in v0.3.9
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
-  changes in 0.7.0]]'
 - '[[Changes/Ollama/2024-07-02-processing-different-parts-of-a-document-simultaneously|Processing
   different parts of a document simultaneously]]'
 - '[[Changes/Dify/2024-07-15-feat-delete-file-when-clean-document-by-johnjyong-in-https-github-com-langgenius|Feat/delete
   file when clean document]]'
+- '[[Changes/Descript/2024-07-16-file-upload-limits|File upload limits]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a|open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +87,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-feat-delete-file-when-clean-document-by-johnjyong-in-https-github-com-langgenius|Feat/delete file when clean document]]
+- Earlier: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-file-upload-limits|File upload limits]]
 - Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-10|2 Files and Data changes in v0.3.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

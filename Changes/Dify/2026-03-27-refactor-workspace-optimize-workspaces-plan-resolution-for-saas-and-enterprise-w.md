@@ -5,20 +5,20 @@ description: 'Dify · 2026-03-27 · Enterprise and Administration: refactor(work
   optimize /workspaces plan resolution for SaaS and enterprise with resilient fallback
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1057
+  lag_days: 2264
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55497d99036d3b70ee9498ffc8b0d627e7ef9a1a7d89b786fa6ec538a6fdf24b
+machine_hash: 56979aa33c006110dcd11f42b9104be001e739120d5871b0265698caab0da6bd
 product: dify
 product_name: Dify
 record:
@@ -43,7 +43,8 @@ record:
   title: 'refactor(workspace): optimize /workspaces plan resolution for SaaS and enterprise…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-25-workspace|Workspace]]'
+- '[[Changes/HeyGen/2026-03-25-we-expanded-admin-controls-for-enterprise-workspaces-here-is-a-summary-of-what-c|We
+  expanded admin controls for Enterprise workspaces]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 - '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

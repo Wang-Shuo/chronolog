@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Codex CLI · 2026-10-23 · Apps and Integrations: 30 changes in 0.164.0
   — #53747 Prefer remote Visualize installs over the bundled plugin @philipp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 906d0aa18f5581cb5c68cfdc3f6b4aee2c4edff47d5771792b14f32efa5a5683
+machine_hash: dd66fb62d0e88555cdaef8ad998f367270d72d7577a1c38c0c86a6dc982f680c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,10 +106,10 @@ record:
   title: 30 Apps and Integrations changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
-  Apps and Integrations changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.33.0]]'
+- '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
+  and Integrations changes in Qoder 0.4.9]]'
 - '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
   Apps and Integrations changes in v2.1.310]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -221,7 +221,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

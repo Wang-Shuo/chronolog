@@ -4,19 +4,20 @@ date: '2026-02-26'
 description: 'Codex CLI · 2026-02-26 · Collaboration: 2 changes in 0.106.0 — Enabled
   `request_user_input` in Default collaboration mode (not just Plan mode) (#12735)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1009
+  lag_days: 2603
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 355fbf1429164250555c87b2cc40d7358ef3743d73b99c992491fbd4636b5b45
+machine_hash: a75d062abd51a5ae8d4997f279f4696d6bb433b98d17b163b8cfd0c837eed326
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

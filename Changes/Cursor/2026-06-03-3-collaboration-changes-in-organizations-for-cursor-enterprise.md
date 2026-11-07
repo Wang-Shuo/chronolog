@@ -4,19 +4,20 @@ date: '2026-06-03'
 description: 'Cursor · 2026-06-03 · Collaboration: 3 changes in Organizations for
   Cursor Enterprise — Multi-team support so users can be on multiple teams at once'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6d9cb1e9c5bccda39949771bff6f24ccbce03bf117352cdea414839f8760de0
+machine_hash: a9225fb6db0232dfd50c994250ff8b035ac3631b328598661dbc66de00b361f1
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +96,7 @@ Source: https://cursor.com/changelog/enterprise-organizations
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

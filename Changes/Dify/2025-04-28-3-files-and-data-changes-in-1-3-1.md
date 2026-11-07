@@ -4,20 +4,20 @@ date: '2025-04-28'
 description: 'Dify · 2025-04-28 · Files and Data: 3 changes in v1.3.1 — **VTT to Document
   Transform:** We''ve enhanced the Document extractor to support VTT data formats…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 704
+  lag_days: 2049
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b541761967828f71421bbb0a18c4676fa797bd5d9584cf952011f468ca586ad4
+machine_hash: 4e9e4a6c055694db3f0c80b187dc95ca12702dcc4605a45754ccf1eed5135b6d
 product: dify
 product_name: Dify
 record:
@@ -46,9 +46,9 @@ record:
   title: 3 Files and Data changes in 1.3.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-05-2-files-and-data-changes-in-v0-6-1|2 Files and
-  Data changes in v0.6.1]]'
 - '[[Changes/ElevenLabs/2025-04-07-knowledge-base|Knowledge Base]]'
+- '[[Changes/Descript/2025-04-08-a-new-look-for-scenes-stable-frame|A new look for
+  Scenes—Stable frame]]'
 - '[[Changes/Dify/2025-04-23-chore-skip-document-segments-fetching-with-non-existed-dataset-of-datasetdocumen|chore:
   skip document segments fetching with non-existed dataset of DatasetDocument…]]'
 source_release: '[[Releases/Dify/dify-2025-04-28-1-3-1-github-215107765-c53ec02a|dify-2025-04-28-1-3-1-github-215107765-c53ec02a]]'
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

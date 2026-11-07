@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ac6797b1d7460346a3b15434c172b5a91bc30711649a2ce0a0d0d6288b4c38a6
+machine_hash: 78a8444ad444f1c74fa318ca52b44a09b70e000e489c97ed38c6b6bc7f9f2743
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,10 +51,10 @@ record:
   title: Widget Packages
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
 - '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
   Claude agent SDK-style structured outputs in the OpenCode SDK]]'
+- '[[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe
+  the video you want in natural language]]'
 - '[[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production
   SQL database access]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-16-2026-02-16-06b87f89|elevenlabs-2026-02-16-2026-02-16-06b87f89]]'

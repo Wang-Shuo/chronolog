@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'GitHub Copilot CLI · 2026-07-07 · Reliability and Performance: 5 changes
   in 1.0.69 — Resume and switch large sessions faster'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1300
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad1cd8f4bdead0fd46b5b69e6ada20622cca8de2238bbfa92a13d1481936ac77
+machine_hash: ce7a6ea1bde8e14bf52b9a31f05fb106253454991afcb9eefd2c9b589808c86c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 438e8be060beece22ed7451c05507a3c3c72bf1ddcfcef916bcaeffecb1eec16
+machine_hash: bcf972323221f73394c814ed3763ec62b0e50c3ffadd5eb898153a684bcc51f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Subagent forking is now on by default
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
-  workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
 - '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
   typing lag while the agent streams responses]]'
+- '[[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show
+  the live work progress of background subagents in the /tasks panel]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
+- Earlier: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show the live work progress of background subagents in the /tasks panel]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]]
 <!-- chronolog:end -->
 

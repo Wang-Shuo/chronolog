@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Codex CLI · 2026-03-05 · Image Generation: Expanded image workflow support
   for clients, including client-side handling of image-generation events and model…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 725
+  lag_days: 983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 473bebf5a14eadec39ce109c2865b798691ef3dec316e0c4c927c20a037a3be3
+machine_hash: d5b922b98d9046a157ea8e75e3c7869d563022a0802f2cdb7adb06068c65cd62
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,11 +59,11 @@ record:
   title: Expanded image workflow support for clients, including client-side handling…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
-  Chat toggles now control built-in tools. Users can now disable web search…]]'
 - '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
 - '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
   Banana 2]]'
+- '[[Changes/Descript/2026-03-02-new-in-image-generation-nano-banana-2|New in image
+  generation—Nano Banana 2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82|codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82]]'
 source_type: github_releases
 theme: image-generation
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-02-27 · Runway · [[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano Banana 2]]
+- Earlier: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-new-in-image-generation-nano-banana-2|New in image generation—Nano Banana 2]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|🖌️ Image generation in temporary chats. Generated images now display correctly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'Codex CLI · 2026-03-02 · Multimodal Input: 2 changes in 0.107.0 — Custom
   tools can now return multimodal output, including structured content like images…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 895
+  lag_days: 2663
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76e4265d1b87b1e89595e214ac73a64f980a676ea27cdfc0d518ca80688f89d4
+machine_hash: f1da7c03cd0c2b9ea51f7dcffc0dca00428b78329c3d678e9eb804cf3ccab29f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Multimodal Input changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336
-  Always expose view_image and return unsupported image-input error @aibrahim-oai]]'
+- '[[Changes/HeyGen/2026-02-20-heygen-s-homepage-has-been-redesigned-to-help-you-start-the-right-video-workflow|Introducing
+  the redesigned homepage]]'
 - "[[Changes/Open WebUI/2026-02-23-text-file-type-detection-fix-typescript-and-other-text-files-that-were-mis-detec|\U0001F4C4
   Text file type detection fix. TypeScript and other text files…]]"
 - '[[Changes/Ollama/2026-02-27-qwen-3-5-https-ollama-com-library-qwen3-5-a-family-of-open-source-multimodal-mod|Qwen
@@ -93,13 +93,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-02-27 · Ollama · [[Changes/Ollama/2026-02-27-qwen-3-5-https-ollama-com-library-qwen3-5-a-family-of-open-source-multimodal-mod|Qwen 3.5((source link) a family of open-source multimodal…]]
-- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-python-sdk|Python SDK]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-new-colors-in-the-app|New colors in the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

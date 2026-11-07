@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-10-26 · Editor Experience: 2 changes i
   v2.6.0 — Gemini 4 Argon, Refreshed Agent Interface, and Inline Diff Shortcuts —
   Added…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1322
+  lag_days: 2906
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb7c27096db7379916bd59fd11e03215bca768bca33fa29c48e1e52d07b2a070
+machine_hash: 9570fe46b57c8227b96f08bab723ce5012b36c5de0521de3d7b0ab38d9b18d47
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -95,7 +94,7 @@ Source: https://antigravity.google/releases?tab=ide&version=2.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

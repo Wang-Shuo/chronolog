@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 96ec161bf2048977dd03d201525b952951e6cb5447526d8e76975c0cbce6f70e
+machine_hash: e16d01c10fb09a702d5bb987b2d1dcca21a0855e6f83e41213bbf0ef875996e5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,10 +67,10 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto
-  mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]'
 - '[[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes
   in v0.32.0]]'
+- '[[Changes/Kimi Code/2026-07-12-2-agent-mode-changes-in-kimi-code-0-23-6|2 Agent
+  Mode changes in Kimi Code 0.23.6]]'
 - '[[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode
   changes in rust-v0.144.2]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-13-2026-07-13-a5dee32c|elevenlabs-2026-07-13-2026-07-13-a5dee32c]]'

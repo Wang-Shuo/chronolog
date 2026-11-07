@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4c7bb9acf88250a3dccfa664aa458a97448fabc520291042b6dca6a87c1f7702
+machine_hash: b5ef37194e886d51c0ec946d75a05be43acbe9643aa7c6c8059bfd89ece7fbcf
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Subagents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
-  changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-2-agent-mode-changes-in-kimi-code-0-3-0|2 Agent
+  Mode changes in Kimi Code 0.3.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
   changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes

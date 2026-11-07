@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cce7799f9a6091788fcdb76b7eaeaf0956fb53a3648c391d0df3ac0d556fda9b
+machine_hash: 4f2f4bc76b40551ae5cb4b756b993c1fb7e38dde613f70619422b34eab49371b
 product: opencode
 product_name: OpenCode
 record:
@@ -41,9 +41,10 @@ record:
   title: Let subagents use their own configured permissions again
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
 - '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
   can now spawn their own sub-agents (up to 5 levels deep)]]'
+- '[[Changes/Kimi Code/2026-06-10-clarify-grouped-subagent-progress-with-active-status-breakdowns-and-elapsed-time|Clarify
+  grouped subagent progress with active status breakdowns and elapsed time]]'
 - '[[Changes/OpenCode/2026-06-10-desktop-hidden-agents-no-longer-get-cycled-accidentally|Desktop
   Hidden agents no longer get cycled accidentally]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-2-6fc29d82|opencode-2026-06-10-v1-17-2-6fc29d82]]'

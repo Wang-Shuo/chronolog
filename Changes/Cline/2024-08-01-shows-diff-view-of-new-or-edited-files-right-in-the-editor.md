@@ -4,20 +4,19 @@ date: '2024-08-01'
 description: 'Cline · 2024-08-01 · Editor Experience: Shows diff view of new or edited
   files right in the editor'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 506
+  lag_days: 2090
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 70b80d45afda9764dbd2999a4e5fb94569c31e2c0e411df942b3fe0212220f3f
+machine_hash: 6896a9120e3d7ee77f4a33dc0f8e5fd5078ca5305afcec3e8c3d784b40375bce
 product: cline
 product_name: Cline
 record:
@@ -43,8 +42,7 @@ record:
   title: Shows diff view of new or edited files right in the editor
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-2-editor-experience-changes-in-v0-46-0|2 Editor Experience
-  changes in v0.46.0]]'
+- '[[Changes/Notion/2024-07-29-a-better-inbox|A better Inbox]]'
 - '[[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience
   changes in v0.47.0]]'
 - '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

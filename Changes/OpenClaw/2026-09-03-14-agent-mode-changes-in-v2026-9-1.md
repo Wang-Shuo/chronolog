@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6467c246c78bbd8d014577b0c0259553455cbd85abc966d496079e3a53d3cc8
+machine_hash: c79dba3e36f564618abfd647c1fdac0a5cb7c68e20a9c71d79f27357720a6404
 product: openclaw
 product_name: OpenClaw
 record:
@@ -121,8 +121,8 @@ record:
   title: 14 Agent Mode changes in v2026.9.1
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced
-  the /boost slash command to enhance thinking effort by using…]]'
+- '[[Changes/Kimi Code/2026-09-02-3-agent-mode-changes-in-kimi-code-0-40-0|3 Agent
+  Mode changes in Kimi Code 0.40.0]]'
 - '[[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode
   changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode
@@ -203,7 +203,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode changes in rust-v0.153.0]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]]
+- Later: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-artifact-preview-in-a-separate-window-open-agent-generated-artifacts-in-a-standa|Artifact preview in a separate window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

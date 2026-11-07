@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f129bc79f0eee535ebb1b3afcde2d8308fe7c7d69c669e49dc4295ca87ca3a46
+machine_hash: 39a5f4dceca8e981506c2f66a9baeb1c660d281088d305b28758e8af364b7697
 product: openclaw
 product_name: OpenClaw
 record:
@@ -559,12 +559,12 @@ record:
   title: 130 Model Support changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model
-  Support changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
   Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
 - '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
   more models to the GCP Vertex provider, plus a free-form entry option…]]'
+- '[[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model
+  Support changes in Kimi Code 0.23.6]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: model-support
@@ -880,7 +880,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-11 · Cline · [[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add more models to the GCP Vertex provider, plus a free-form entry option…]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model Support changes in Kimi Code 0.23.6]]
 - Later: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support changes in v1.17.20 + 1]]
 <!-- chronolog:end -->
 

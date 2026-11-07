@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-01 · Interface Experience: 4 changes in v0.
   — \U0001F4BE **Faster model and file operations.** Model selection, file preparation,
   and history…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2513
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a98cd9cfae011aa8491137dc45e5a5507351e5db2b5589656d5d531354e31522
+machine_hash: f80d80cd859563b66a8a80ac87ae281b86a0a487cd0b019ab3e5d79ee79fc1fe
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,13 +106,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.6
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
-- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-note-files-you-import-directly-into-a-project-won-t-appear-in-the-media-library|Note: Files you import directly into a project won't appear in the Media…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

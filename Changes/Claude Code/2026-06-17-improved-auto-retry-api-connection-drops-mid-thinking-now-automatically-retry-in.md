@@ -4,20 +4,20 @@ date: '2026-06-17'
 description: 'Claude Code · 2026-06-17 · Reliability and Performance: Improved auto-retry:
   API connection drops mid-thinking now automatically retry instead of showing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2767
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc9572a17037eacb16e46b8a85b9e7827bef9b4e7a8d5b5de84737ad4cafb544
+machine_hash: 5fdcb4e5a4a75785f31b5cc0980112863a0a8298905bfa68ec8da30ae8e53278
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     retry…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
-  Reliability and Performance changes in rust-v0.140.0]]'
+- '[[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves
+  open-source SOTA performance on coding and long-horizon task benchmarks…]]'
 - '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
   scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
 - '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

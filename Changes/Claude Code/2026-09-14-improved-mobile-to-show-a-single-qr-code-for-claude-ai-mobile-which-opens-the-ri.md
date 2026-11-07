@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-14 · Mobile and Desktop: Improved `/mobile
   show a single QR code for claude.ai/mobile, which opens the right app store for
   your phone'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ee33ab7e53af854b91c9c7e31e9b9b7d7d91f9480d02d999d66acba753f2674
+machine_hash: 8dbc77cc7596e92c2c42de7786061b41da911d29ad8f531ff783cb15dfcd659b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved `/mobile` to show a single QR code for claude.ai/mobile, which opens…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-16-mobile-and-desktop-changes-in-v2026-9-4|16 Mobile
-  and Desktop changes in v2026.9.4]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-reach-the-official-app-store-listing-straight-from-the-iphone-setup|Reach
   the official App Store listing straight from the iPhone setup guide]]'
 - '[[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable
   desktop access for Azure cloud workers , whether OpenClaw manages them…]]'
+- '[[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File
+  openin: Choose whether to open each file type in the desktop app…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable desktop access for Azure cloud workers , whether OpenClaw manages them…]]
+- Earlier: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File openin: Choose whether to open each file type in the desktop app…]]
 - Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Ollama · 2026-01-14 · Image Generation: Experimental image generation
   models are available for **macOS** and **Linux (CUDA)** in Ollama:'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 675
+  lag_days: 933
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49a0cfaad439cee0c069914475345da36d7b9b7664cd7bf1fab8b53cab563edd
+machine_hash: d01f704c48b53fdcd0d856890d80a35bc7247289336d5eb2b4726ede76f9dda0
 product: ollama
 product_name: Ollama
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-new-experimental-support-for-image-generation-models-powered-by-mlx|New experimental support for image generation models, powered by MLX]]
-- Later: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-2-image-generation-changes-in-v0-14-3|2 Image Generation changes in v0.14.3]]
+- Later: 2026-01-14 · Z.ai API · [[Changes/Z.ai API/2026-01-14-we-ve-launched-glm-image-a-state-of-the-art-image-generation-model-built-on-a-mu|We’ve launched GLM-Image, a state-of-the-art image generation model built…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

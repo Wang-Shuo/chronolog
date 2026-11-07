@@ -4,20 +4,20 @@ date: '2024-07-01'
 description: 'Suno · 2024-07-01 · Mobile and Desktop: We’re excited to present Suno
   on iOS.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 475
+  lag_days: 2059
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4058c03e360b744f9cd5f9a4501688b9e6dec3732f5b8ef36a8976c71520a52
+machine_hash: ae5cfa84f084def01f1af3f82994536594b63545f6b5abe59aacba9ecd8f4657
 product: suno
 product_name: Suno
 record:
@@ -41,8 +41,8 @@ record:
   title: We’re excited to present Suno on iOS
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
-  Gemini mobile app launching in more countries]]'
+- '[[Changes/Descript/2024-06-19-quick-recorder-upgrades-now-on-windows|Quick Recorder
+  upgrades now on Windows]]'
 - '[[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs:
   Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]'
 - '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

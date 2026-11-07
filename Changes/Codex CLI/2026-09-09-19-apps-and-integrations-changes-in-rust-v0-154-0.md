@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-09 · Apps and Integrations: 19 changes in 0.
   — Copying responses preserves formatting in rich-text apps, and `/copy` can copy
   status…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37bf3b131dad1df242ea46f3067d86123a39e0dd787d4d1392449d17be8dfb17
+machine_hash: 3b0317593320610c341c3cac1d1960901823b9745fbb7808477dea63822e3fa1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -168,13 +168,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
-- Later: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps and Integrations changes in v1.18.30]]
+- Later: 2026-09-09 · Kimi Code · [[Changes/Kimi Code/2026-09-09-remote-control-is-now-always-on-the-experimental-kimi-code-experimental-remote-c|Remote Control is now always on]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

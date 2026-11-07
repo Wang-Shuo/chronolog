@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ed0e725a3c399d8a7ddd9b79969c61f5cb5fadb345ad97eea2d528c98596d8d
+machine_hash: 351746f64a3c8d4702bab709eeabbf4d91d2eedfd0d24663d210910070f30a76
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,12 @@ record:
   title: 'docs: document GEMINI_CLI_HOME environment variable'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
   Instant Update]]'
+- '[[Changes/Descript/2026-02-10-use-kling-models-for-higher-resolution-avatars-that-move-more-naturally|Use
+  Kling models for higher resolution avatars that move more naturally]]'
+- '[[Changes/Descript/2026-02-10-use-claude-opus-4-6-in-underlord-for-better-visual-arranging|Use
+  Claude Opus 4.6 in Underlord for better visual arranging]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-use-claude-opus-4-6-in-underlord-for-better-visual-arranging|Use Claude Opus 4.6 in Underlord for better visual arranging]]
 - Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-6-model-support-changes-in-v1-1-54|6 Model Support changes in v1.1.54]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,19 @@ date: '2026-06-24'
 description: 'OpenCode · 2026-06-24 · Editor Experience: Desktop Kept draft prompt
   state per tab.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c79865e8fb7caa5e4109823082f97aa84feabd79465c20e3d4ed6cb4dad9568
+machine_hash: c1ee8db4962047135b5ebd3e7e8cf8822699739a2fbdcfb1273b3b2fc0f63786
 product: opencode
 product_name: OpenCode
 record:
@@ -40,10 +39,10 @@ record:
   title: Desktop Kept draft prompt state per tab
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
-  Editor Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
+- '[[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show
+  subcommand suggestions after Tab-completing a slash command name]]'
 - '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
   jobs in Lovable Cloud]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-24-v1-17-10-f309a338|opencode-2026-06-24-v1-17-10-f309a338]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'OpenCode · 2026-06-24 · Context Window: Core Waited for plugins before
   loading reference-backed config and system context.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2471
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29e0e0ea8dbf8aa6edff0adce0ffa4638e6e1d383b469dc31ec1e9bca38359e5
+machine_hash: bfffbf3f7720c833151517ccec8fe24cb89ba32f22c6300d1cddacb2fd3da47d
 product: opencode
 product_name: OpenCode
 record:
@@ -53,10 +53,10 @@ record:
     context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
-  bash commands now trigger Claude to respond to the output automatically]]'
 - '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
   Window changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-surface-provider-safety-policy-blocks-instead-of-silently-treating-them-as-compl|Surface
+  provider safety-policy blocks instead of silently treating them as completed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
   Window changes in v1.0.64]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-24-v1-17-10-f309a338|opencode-2026-06-24-v1-17-10-f309a338]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

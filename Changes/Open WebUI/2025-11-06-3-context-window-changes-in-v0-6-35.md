@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-06 · Context Window: 3 changes in v0.6.35 �
   Tooltips now display tool descriptions when hovering over tool names on the model
   edit…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 917
+  lag_days: 2241
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d983c649086a6f5d8c25a999565c756f4a8e5062972a2f45d5dd6fc3fb579f3
+machine_hash: b3ee3c0c9010214134791446e44fa93c99f3ae301340c157b70d637b854029a2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

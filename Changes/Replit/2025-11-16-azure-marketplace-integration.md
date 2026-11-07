@@ -4,20 +4,20 @@ date: '2025-11-16'
 description: 'Replit · 2025-11-16 · Apps and Integrations: Replit is now live on Azure
   Marketplace! Many organizations already have dedicated budgets for Azure, and this…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 969
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a397b1f78c9c4d40aad5ef051dce75afd81d7825c63bd89278cdeeaff07385ad
+machine_hash: bb8e9e05424932c15a712d730113bcce0d004904b32539bedf4b04a05db356e2
 product: replit
 product_name: Replit
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps and Integrations changes in v0.15.0]]
-- Later: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat: upgrade sap ai-sdk-js packages major version]]
+- Later: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-the-figma-notion-mcp-integration-is-live-here-s-a-demo-that-connects-figma-make|The Figma × Notion MCP integration is live!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

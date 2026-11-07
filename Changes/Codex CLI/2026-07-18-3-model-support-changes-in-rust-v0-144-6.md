@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 584188bb8611d15c576a371b26b9f49f7c7cc4c07326d38f31f4a44c64b686c4
+machine_hash: 3e4cdadeb2ad7529794fe9c920cdbac7dc038803cf884cd177dc142b04e47714
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.144.6
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
-  changes in v0.32.1]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
   changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
   in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using
+  an API key for Kimi coding models now also fetches the latest model list…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79|codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes in 1.16.0]]
+- Earlier: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using an API key for Kimi coding models now also fetches the latest model list…]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
 <!-- chronolog:end -->
 

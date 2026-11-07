@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 301a28bbefa4ca43beb28545ee886053c30d6b7025e6e7922745ec7006f5ea3a
+machine_hash: c30455aceee261fd0d5cfcdfc358b3fbcc0440f72616478d756341149a438b9b
 product: openhands
 product_name: OpenHands
 record:
@@ -57,12 +57,12 @@ record:
   title: 7 Model Support changes in v1.25.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
-  3 music models for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
 - '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini
   3.6 Flash is deprecated for your app''s AI features]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-regenerate-response-for-alternative-answers-web-microsoft-365-copilot|Regenerate
+  response for alternative answers Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: model-support
@@ -113,7 +113,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.6 Flash is deprecated for your app's AI features]]
+- Earlier: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-regenerate-response-for-alternative-answers-web-microsoft-365-copilot|Regenerate response for alternative answers Web (Microsoft 365 Copilot)]]
 - Later: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-03-07'
 description: 'Claude Code · 2026-03-07 · Safety and Privacy: Fixed false-positive
   permission prompts for compound bash commands containing heredoc commit messages'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2048
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 0bbe87dd9240bcb0070fdd091237f1be90acb02c3e431e14667ad2a06b7b1457
+machine_hash: 785cb73c9df39327d853c43fb32e3d099887e34fa281711129f24ea8507b93e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Fixed false-positive permission prompts for compound bash commands containing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
-  and Privacy changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4
   Safety and Privacy changes in rust-v0.110.0]]'
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
   invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
+- '[[Changes/Notion/2026-03-05-the-new-can-create-pages-database-permission-lets-users-create-new-pages-in-a-da|The
+  new “can create pages” database permission lets users create new pages…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0|claude-code-2026-03-07-v2-1-71-github-294146317-ab5a32e0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]]
+- Earlier: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-the-new-can-create-pages-database-permission-lets-users-create-new-pages-in-a-da|The new “can create pages” database permission lets users create new pages…]]
 - Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-core-enable-auto-accept-keybind-regardless-of-permission-config|Core Enable auto-accept keybind regardless of permission config]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

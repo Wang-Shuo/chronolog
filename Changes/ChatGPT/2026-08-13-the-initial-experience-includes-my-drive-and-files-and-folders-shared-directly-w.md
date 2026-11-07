@@ -4,19 +4,20 @@ date: '2026-08-13'
 description: 'ChatGPT · 2026-08-13 · Collaboration: The initial experience includes
   My Drive and files and folders shared directly with you; Shared Drives aren’t included…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22e97074fcf71459d9c7fcd9860a5bd222a62a750fac18b97f8d3ce140cae12b
+machine_hash: 178b11eaad70759698de96370bc79b82177183d00912469a68db33b96a7be711
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +46,12 @@ record:
     with you
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
 - '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
   the two bundles of the combined rollout package from invalidating each other''s…]]'
 - '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
   changes in rust-v0.147.0]]'
+- '[[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins
+  can choose whether new avatars are public or private by default]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648|chatgpt-2026-08-13-google-drive-is-now-in-library-bbf66648]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-admins-can-choose-whether-new-avatars-are-public-or-private-by-default-when-avat|Admins can choose whether new avatars are public or private by default]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

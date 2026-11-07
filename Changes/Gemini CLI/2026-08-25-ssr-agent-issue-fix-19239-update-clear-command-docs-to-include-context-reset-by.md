@@ -4,20 +4,20 @@ date: '2026-08-25'
 description: 'Gemini CLI · 2026-08-25 · Context Window: [SSR Agent] Issue Fix (19239):
   Update /clear command docs to include context reset by @joneba-google in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2533
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a3ef7e3ad792674f8ba56fb51e358cd3ca02fd5f5dd01221ce7827c2e47d2b4c
+machine_hash: c0991798e0f15e46c563843188a87a2ae39f103a834633ce6872e1b3e10b67ca
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes in 1.17.0]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window changes in v0.11.1]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

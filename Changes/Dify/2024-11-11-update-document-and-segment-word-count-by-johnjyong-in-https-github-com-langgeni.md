@@ -4,20 +4,20 @@ date: '2024-11-11'
 description: 'Dify · 2024-11-11 · Files and Data: update document and segment word
   count by @JohnJyong in https://github.com/langgenius/dify/pull/10449'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 536
+  lag_days: 1881
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d074aceaabb4af3525fe31457b74f56fed79cab8ed956e099c36b0be0f18a68b
+machine_hash: ed57aba5e0f9fcbca67bf1702fa723d10259d7f3b939c6da3b0b338e54e50672
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: update document and segment word count
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-26-knowledge-base-loading-issue-resolved-a-critical-bug-where-the-knowledge-base-wa|\U0001F4DA
-  Knowledge Base Loading Issue]]"
 - '[[Changes/Dify/2024-10-28-4-files-and-data-changes-in-0-10-2|4 Files and Data changes
   in 0.10.2]]'
+- '[[Changes/Descript/2024-11-05-replace-media-on-the-canvas-toolbar|Replace media
+  on the Canvas toolbar]]'
 - '[[Changes/Dify/2024-11-05-8-files-and-data-changes-in-0-11-0|8 Files and Data changes
   in 0.11.0]]'
 source_release: '[[Releases/Dify/dify-2024-11-11-0-11-1-github-184645691-184d9522|dify-2024-11-11-0-11-1-github-184645691-184d9522]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

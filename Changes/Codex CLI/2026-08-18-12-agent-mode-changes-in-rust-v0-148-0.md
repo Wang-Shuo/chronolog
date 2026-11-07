@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 569d28236eb4296aebffcf610843e5fa35e079f68faaed57e08b91260ee82386
+machine_hash: 6af34008087826dc5a9c73604e141dbd725bb0b40015c722c35e84f147a3abf6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -131,7 +131,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents): add a repository map clarifying what belongs where]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]]
+- Later: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-2-agent-mode-changes-in-kimi-code-0-37-0|2 Agent Mode changes in Kimi Code 0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

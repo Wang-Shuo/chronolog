@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Reliability and Performance: On Linux, m
   local model and embedding services are preferred as the out-of-memory victim so
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1358
+  lag_days: 2845
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c6df3360031dbd52071f42d1e2b44453b4d35e9cdb1ac379352a987e9b74e056
+machine_hash: 47a5711842f9750f713f5ebeaad768eff37f69f6995980e3d6638cc9426eb065
 product: openclaw
 product_name: OpenClaw
 record:
@@ -108,13 +108,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]]
+- Later: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-faster-app-startup-and-smoother-streaming-in-long-sessions|Faster app startup and smoother streaming in long sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

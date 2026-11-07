@@ -4,20 +4,20 @@ date: '2026-01-19'
 description: 'ElevenLabs · 2026-01-19 · Files and Data: [Create knowledge base document](https://elevenlabs.io/docs/api-reference/knowledge-base/create-from-url),
   [Create…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 970
+  lag_days: 2315
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5d4ff9773d1289a6e2082f8df14140cf89763c73b95c1ac637dfe2a15fcb5a50
+machine_hash: a94e1ebe9f1e3fb81a033fadf57ac541a24a27fb869dd7b6cfcea59e82cdeb27
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,9 +49,10 @@ record:
   title: Knowledge Base
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]'
 - '[[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes
   in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate
+  Office documents from agents in Copilot Studio lite Windows…]]'
 - '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
   fix(tui): document paste-burst state machine @joshka-oai]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-19-2026-01-19-0e264fd7|elevenlabs-2026-01-19-2026-01-19-0e264fd7]]'
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-02-23 · Multimodal Input: \U0001F4C4 **Text fi
   detection fix.** TypeScript and other text files that were mis-detected as video
   files based on…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 888
+  lag_days: 2656
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e82f6f6519c16be46ac6927ff0b8d6413cb9aabc77ca466136dc6d68afacdb6
+machine_hash: 0d0f91d9a09672a75f352eeef5c8ccce7a5eaa246e3bcefbae1e7e4be5cf6559
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,12 @@ record:
   title: "\U0001F4C4 **Text file type detection fix.** TypeScript and other text files…"
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source
-  link) GLM-OCR is a multimodal OCR model…]]'
-- '[[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core):
-  optimize token calculation and add support for multimodal tool responses]]'
-- '[[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336
-  Always expose view_image and return unsupported image-input error @aibrahim-oai]]'
+- "[[Changes/HeyGen/2026-02-17-emoji-react-add-a-reaction-to-any-message-to-turn-it-into-a-video-that-winning-c|\U0001F3A5
+  Emoji react — Add a \U0001F3A5 reaction to any message to turn it into a video]]"
+- '[[Changes/HeyGen/2026-02-17-why-it-matters-the-best-video-ideas-happen-mid-conversation-now-you-don-t-have-t|Why
+  it matters: The best video ideas happen mid-conversation]]'
+- '[[Changes/HeyGen/2026-02-20-heygen-s-homepage-has-been-redesigned-to-help-you-start-the-right-video-workflow|Introducing
+  the redesigned homepage]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c|open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c]]'
 source_type: github_releases
 theme: multimodal
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336 Always expose view_image and return unsupported image-input error @aibrahim-oai]]
+- Earlier: 2026-02-20 · HeyGen · [[Changes/HeyGen/2026-02-20-heygen-s-homepage-has-been-redesigned-to-help-you-start-the-right-video-workflow|Introducing the redesigned homepage]]
 - Later: 2026-02-27 · Ollama · [[Changes/Ollama/2026-02-27-qwen-3-5-https-ollama-com-library-qwen3-5-a-family-of-open-source-multimodal-mod|Qwen 3.5((source link) a family of open-source multimodal…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

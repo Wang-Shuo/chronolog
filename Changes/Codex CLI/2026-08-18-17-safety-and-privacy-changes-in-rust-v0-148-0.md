@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-08-18 · Safety and Privacy: 17 changes in 0.148
   Sandbox restrictions now fail closed for denied or unreadable paths across Linux
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2212
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b258db5e1be12a8f1690a6aa956d188948169dea9c4b947b4c1dcb1a7c0d9e7f
+machine_hash: 755aba1bd3877e969e636524dd84b08903e4b947b939138d2782a1a2a128fe5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -156,13 +156,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety and Privacy changes in v2.1.235]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety and Privacy changes in v2.1.236]]
+- Later: 2026-08-18 · Z.ai API · [[Changes/Z.ai API/2026-08-18-emergent-cybersecurity-capabilities-glm-5-3-matches-mythos-5-in-white-box-code-r|Emergent Cybersecurity Capabilities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

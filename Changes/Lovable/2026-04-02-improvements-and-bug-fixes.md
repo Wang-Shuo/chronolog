@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Lovable · 2026-04-02 · Reliability and Performance: The dashboard now
   loads significantly faster by using server-side search with pagination instead of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 360dd3d587236259a306d37c974b15d76fa241a14ee6590f1eae289c8505adde
+machine_hash: 2af4e2433148363db701d9d0dc011acae176431ecc02fda0c71e26c51c2ab8af
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved
-  performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]'
 - '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
   performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
 - '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
   diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation
+  videos just got a lot faster to make]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-02-2026-04-02-7ad85f39|lovable-2026-04-02-2026-04-02-7ad85f39]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation videos just got a lot faster to make]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

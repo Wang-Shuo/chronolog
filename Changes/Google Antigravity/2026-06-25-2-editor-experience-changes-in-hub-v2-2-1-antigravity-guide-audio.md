@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-06-25 · Editor Experience: 2 changes i
   v2.2.1 — Antigravity Guide, audio support, search improvements, and performance
   fixes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d3fd0c48addb853c8fc5a4b773a3e32ccfdc413608edd590beba584115904a4
+machine_hash: fe7eb41f4356b2052229b456b128e5a8962d54c91744dc48996e624ae993d3bc
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -101,7 +100,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.2.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

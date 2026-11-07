@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-02-02-97653a
 date: '2026-02-02'
 description: ElevenLabs · 2026-02-02 · Voice and Audio…
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2765
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a006e82a4d9811fd1cf58de65b09fcd431f9a288880917e2a821682c800c6321
+machine_hash: 7b773f4172c43644beb770f83f80c5dd17e76372fc2cf737fd72b4e5b332c0e8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -59,9 +59,9 @@ record:
   title: Widget Packages
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
-  to search response quality in Voice]]'
 - '[[Changes/ElevenLabs/2026-01-26-music|Music]]'
+- '[[Changes/HeyGen/2026-01-26-blueprint-first-creation-see-your-full-video-plan-before-anything-renders-avatar|Blueprint-first
+  creation See your full video plan before anything renders—avatar…]]'
 - '[[Changes/ElevenLabs/2026-02-02-new-schemas|New Schemas]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-02-2026-02-02-2180766f|elevenlabs-2026-02-02-2026-02-02-2180766f]]'
 source_type: elevenlabs_changelog
@@ -111,14 +111,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-music|Music]]
-- Later: 2026-02-12 · ChatGPT · [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT Voice Update]]
+- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-blueprint-first-creation-see-your-full-video-plan-before-anything-renders-avatar|Blueprint-first creation See your full video plan before anything renders—avatar…]]
+- Later: 2026-02-06 · HeyGen · [[Changes/HeyGen/2026-02-06-5-audio-translation-is-now-unlimited|Audio translation is now unlimited]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

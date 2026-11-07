@@ -5,20 +5,19 @@ description: 'Midjourney · 2025-11-20 · Editor Experience: The “Hide” filt
   to “Trash”. Now, when you trash a creation, it won’t be visible on your “Create”
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 982
+  lag_days: 2566
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd11aa3e8b159109e0de252eba16e14f3f828e9b16b45d8695868f9d6810e664
+machine_hash: 334a855aaf0b2cc9a078f05d64d43fd079d3afcd5c50064fe5c273d6aa47fbd4
 product: midjourney
 product_name: Midjourney
 record:
@@ -52,9 +51,10 @@ record:
   title: The “Hide” filter has changed to “Trash”
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
 - '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
   expected_replacements to smart-edit tool]]'
+- '[[Changes/Notion/2025-11-17-create-a-two-way-sync-with-notion-calendar-and-your-databases-now-you-can-edit-t|Create
+  a two-way sync with Notion Calendar and your databases!]]'
 - '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
   shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-11-20-https-updates-midjourney-com-web-updates-3-d5daff6c|midjourney-2025-11-20-https-updates-midjourney-com-web-updates-3-d5daff6c]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

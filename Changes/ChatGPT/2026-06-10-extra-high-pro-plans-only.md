@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 153f38fa92ef5a72cd0960c559433c07cce495769346f40d7b741916a6b75106
+machine_hash: 1a0dc200cfb355964d1b4abbae1d68fa1e30c6d4eaec3f94e5e2838ad32fe15c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ record:
   title: Extra High [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes
-  in v3.89.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model
   Support changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass
+  through xhigh reasoning effort for OpenAI-compatible chat completions requests]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans
   only]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model Support changes in v1.0.61]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass through xhigh reasoning effort for OpenAI-compatible chat completions requests]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

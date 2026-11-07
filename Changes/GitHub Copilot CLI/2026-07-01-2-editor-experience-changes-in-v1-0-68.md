@@ -4,20 +4,19 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Editor Experience: 2 changes in 1.0.68
   — Keep IDE tools available during transient IDE disconnects, returning a clear error…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6207a9772bd8dbbbc2243cca21f9d5a6782a00931f73be4a3bac2548d7140478
+machine_hash: 31342b13ffe70b97b5f5772087e7909b878e029c40407d01239e3cf07d9eb643
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,13 +89,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop Autocomplete configured references in prompts]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor Experience changes in v0.10.2]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-copilot-analytics-all-licensed-user-page-copilot-dashboard-web-viva-insights|Copilot Analytics: "All"- licensed user page Copilot dashboard Web (Viva Insights)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

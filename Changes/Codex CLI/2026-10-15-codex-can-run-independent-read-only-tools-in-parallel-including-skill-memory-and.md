@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f6df07a9eeb21ab0f8c8362b2caa195ad179bb97cc69c5e700e7c98bc53c519
+machine_hash: e74b063d3ab13691f5435a866b56b0cdca9257de1374fc95b09fc94fe77ee71c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Codex can run independent read-only tools in parallel, including skill, memory…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
-  Memory and Personalization changes in v2026.10.3]]'
 - "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0
   Memory in automations. Automations now get the memory tools when the user has…]]"
 - "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE
   Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]"
+- '[[Changes/Qoder/2026-10-14-remote-ssh-select-git-branches-in-remote-sessions-and-import-qoder-ide-task-hist|Remote
+  SSH: Select Git branches in remote sessions and import Qoder IDE task…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: memory
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|🧮 Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]
+- Earlier: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-remote-ssh-select-git-branches-in-remote-sessions-and-import-qoder-ide-task-hist|Remote SSH: Select Git branches in remote sessions and import Qoder IDE task…]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|🧰 Built-in tools turned back on stay on. A built-in tool such as Memory…]]
 <!-- chronolog:end -->
 

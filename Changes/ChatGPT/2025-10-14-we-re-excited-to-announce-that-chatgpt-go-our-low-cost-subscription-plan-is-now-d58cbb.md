@@ -4,20 +4,20 @@ date: '2025-10-14'
 description: 'ChatGPT · 2025-10-14 · Pricing Model: We''re excited to announce that
   ChatGPT Go, our low cost subscription plan, is now available in 71 additional countries…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2652
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 1a9e7a6382e97fa687586a46d86045a1727a0b873ccf3878263cd723b4b4a8ee
+machine_hash: d2b33253c5573bb354f788c741cc93901792322302e83754681f475b90d5f134
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,9 @@ record:
   title: ChatGPT Go, our low cost subscription plan, is now available in 71 additional…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched
-  to using per-subscription Copilot API endpoints in accordance…]]'
-- '[[Changes/v0/2025-10-01-it-no-longer-costs-credits-to-use-fix-with-v0-when-v0-makes-an-error|It
-  no longer costs credits to use "Fix with v0" when v0 makes an error]]'
-- '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
-  Go, our low cost subscription plan, is now available in 16 additional countries]]'
+- '[[Changes/Descript/2025-10-09-ai-credits|AI Credits]]'
+- '[[Changes/Descript/2025-10-09-why-top-up|Why top up?]]'
+- '[[Changes/Descript/2025-10-09-media-hours|Media Hours]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -81,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries]]
+- Earlier: 2025-10-09 · Descript · [[Changes/Descript/2025-10-09-media-hours|Media Hours]]
 - Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-3-pricing-model-changes-in-1-9-2|3 Pricing Model changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

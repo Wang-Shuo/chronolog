@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c7f1f4385803391300b09ee941fdc02e5af830755ed4d1f0c1b81727a89ed69
+machine_hash: 682b0faa88a64f6d06431e455f2283dd6f5f7d86fd53a7632ef0821a69273450
 product: openclaw
 product_name: OpenClaw
 record:
@@ -310,12 +310,12 @@ record:
   title: 41 Agent Mode changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
-  refresh AGENTS.md guidance]]'
-- '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
-  changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When
   Rollouts detects a regression, it names the change it suspects and notifies…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-planner-agent-chat-windows-web-microsoft-365-copilot|Planner
+  Agent chat Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-integrated-extensibility-experience-capability-for-declarative-agents-for-micros|Integrated
+  extensibility experience capability for declarative agents for Microsoft…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: agent-mode
@@ -448,8 +448,8 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When Rollouts detects a regression, it names the change it suspects and notifies…]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode changes in v2.1.282]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-integrated-extensibility-experience-capability-for-declarative-agents-for-micros|Integrated extensibility experience capability for declarative agents for Microsoft…]]
+- Later: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-2-agent-mode-changes-in-qoder-0-4-1|2 Agent Mode changes in Qoder 0.4.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

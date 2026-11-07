@@ -5,20 +5,20 @@ description: 'Runway · 2026-08-10 · Voice and Audio: Tool Mode and Edit Studio
   let you export Gen-4.5 and Aleph 2 generations as ProRes 4444 with PCM audio or
   a PNG…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2954
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95e1c846583dc30baced3ccb76674c484321aa65bb615e0620e03fe4ab3d0919
+machine_hash: 8ffbe16d77f53c2c13e354ed6257c65885c8e66032a8bc81fb943af025b0dbfc
 product: runway
 product_name: Runway
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-voices|Voices]]
-- Later: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We have totally overhauled Suno Studio, our browser-based generative DAW…]]
+- Later: 2026-08-11 · HeyGen · [[Changes/HeyGen/2026-08-11-videos-that-look-and-sound-like-you-with-your-face-your-voice-and-your-market-kn|Videos that look and sound like you, with your face, your voice, and your market…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

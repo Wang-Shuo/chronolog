@@ -4,20 +4,20 @@ date: '2025-01-07'
 description: 'Dify · 2025-01-07 · Safety and Privacy: 2 changes in v0.15.0 — owner
   and admin have all permission of knowledge base by @JohnJyong in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 632
+  lag_days: 1624
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e10c2fadc4c0459d907ead9661e37c4f9271ba0dbcb5815d99176233a818a879
+machine_hash: 0a297ddeee2012a7126eebeb29af89d39bbec57a6ebf02291ec12fd4e2490f86
 product: dify
 product_name: Dify
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-02 · Interface Experience: \U0001F4DC **Cha
   pagination.** Fixed an issue where older messages in long chats were not loaded
   when scrolling…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2514
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca3182227b980427c4ef716760ac2884a9eff25c28c140540c8ac83e28072e13
+machine_hash: 54f032e573725236a0b3b9c7e445ec97db68579a6b65831cbe26e1194df22996
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,11 +49,10 @@ record:
     in long chats…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
-- '[[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface
-  Experience changes in v0.8.6]]'
+- '[[Changes/Descript/2026-03-02-what-s-improved|What''s improved]]'
 - '[[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]'
+- '[[Changes/Notion/2026-03-02-turn-any-notion-page-into-a-fullscreen-presentation-just-add-dividers-to-separat|Present
+  any Notion page]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-02-v0-8-8-github-292312215-9d692419|open-webui-2026-03-02-v0-8-8-github-292312215-9d692419]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]
+- Earlier: 2026-03-02 · Notion · [[Changes/Notion/2026-03-02-turn-any-notion-page-into-a-fullscreen-presentation-just-add-dividers-to-separat|Present any Notion page]]
 - Later: 2026-03-02 · v0 · [[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed tabs from chat sidebar and reorganized settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

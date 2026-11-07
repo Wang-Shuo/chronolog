@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Lovable · 2026-10-14 · Pricing Model: You can now [ask Lovable what
   drives run credit…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1399
+  lag_days: 3017
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2d98a59c82886f7cc8bd24b1c21d848f9ce32da4a01ba64e46dad7ee1a81a36f
+machine_hash: 8939da38759c4bfda9338f9dfb2954ba0be971b026e3bc5cb36c395e15e1f100
 product: lovable
 product_name: Lovable
 record:
@@ -61,12 +61,11 @@ record:
   title: Ask Lovable what drives your run credit usage
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama
-  launch can now be used with usage credits without upgrading to a paid plan]]'
-- '[[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model
-  changes in v2026.10.2]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
-  billed AI Credits in /usage for token-billed sessions, including after resume]]'
+- '[[Changes/HeyGen/2026-10-13-video-translate-one-submit-button|Video Translate:
+  One submit button]]'
+- '[[Changes/Notion/2026-10-13-don-t-pay-twice-use-your-chatgpt-plan-in-notion|Don’t
+  pay twice. Use your ChatGPT plan in Notion]]'
+- '[[Changes/HeyGen/2026-10-14-build-with-the-api|Build with the API]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -102,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
+- Earlier: 2026-10-14 · HeyGen · [[Changes/HeyGen/2026-10-14-build-with-the-api|Build with the API]]
 - Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

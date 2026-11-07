@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 61f039ef94f0b7101301569ff29fa0724a64d5121bbc36a4914be4b820f4858d
+machine_hash: bcc3ebc0fd8c62921bb229dccf5fb7be0cf56c91f14806a76222d1be89196328
 product: ollama
 product_name: Ollama
 record:
@@ -47,8 +47,7 @@ record:
   title: Muse Glimmer is now available on all platforms
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2
-  Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-hyperframes-in-video-agent|Hyperframes in Video Agent]]'
 - '[[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat:
   add a typed agent action for launching local or Cloud child conversations]]'
 - '[[Changes/Replit/2026-08-07-agent|Agent]]'

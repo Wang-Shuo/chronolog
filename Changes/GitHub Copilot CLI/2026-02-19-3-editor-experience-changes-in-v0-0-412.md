@@ -4,20 +4,19 @@ date: '2026-02-19'
 description: 'GitHub Copilot CLI · 2026-02-19 · Editor Experience: 3 changes in 0.0.412
   — Edit plan in terminal editor with ctrl+y'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1073
+  lag_days: 2657
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c62c1de69773737781f8bc7bd026d2e70c6d6d937ca99d6435da29f1489963b5
+machine_hash: a0f99014a862708c371c657fdb9310cd63b57caf8a60a525cd9922b6b9068e97
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

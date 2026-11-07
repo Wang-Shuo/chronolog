@@ -4,20 +4,20 @@ date: '2025-03-11'
 description: 'Dify · 2025-03-11 · Automation and Scheduling: Feature/newnew workflow
   loop node by @Woo0ood in https://github.com/langgenius/dify/pull/14863'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 434
+  lag_days: 2001
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7b8ba4a1a180201f89515316deafbb4d78f3c78053b58e43476d59537a3189d
+machine_hash: f603fb7cce33b8648b0a2b242b9975b3d9b11e3faa4fe21f1b80b4498685f396
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: Feature/newnew workflow loop node
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There
-  is now a ‘See new changes’ button when Cline completes a task, giving you…]]'
-- '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-  tasks in ChatGPT]]'
-- '[[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2
-  Automation and Scheduling changes in v0.5.12]]'
+- '[[Changes/Notion/2025-02-18-do-more-with-recurring-tasks|Do more with recurring
+  tasks]]'
+- '[[Changes/Notion/2025-02-18-more-improvements-to-start-the-year|More improvements
+  to start the year!]]'
+- '[[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons
+  to replace your scheduling app]]'
 source_release: '[[Releases/Dify/dify-2025-03-11-1-0-1-github-204980295-9e378bef|dify-2025-03-11-1-0-1-github-204980295-9e378bef]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2 Automation and Scheduling changes in v0.5.12]]
+- Earlier: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons to replace your scheduling app]]
 - Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation and Scheduling changes in 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

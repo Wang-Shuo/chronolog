@@ -4,20 +4,20 @@ date: '2026-07-23'
 description: 'ChatGPT · 2026-07-23 · Voice and Audio: ChatGPT Voice is now available
   in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1109
+  lag_days: 2936
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: e78c28b296839ccdc080b6cf8c85ff69b0f77ff2b24d46143b2fadc80763dfaa
+machine_hash: 89490bfe4fc1778beadf1ce1e61d3e34eef15f60f12ee82dddc2530195929f89
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice and Audio changes in rust-v0.145.0]]
-- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-a-new-way-to-build-from-your-phone|A new way to build from your phone]]
+- Later: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your avatar still delivers the script in your face and voice, no camera required]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-11-06'
 description: "Open WebUI · 2025-11-06 · Voice and Audio: 3 changes in v0.6.35 — \U0001F50A
   Text-to-speech now uses a global audio queue system to prevent overlapping playback…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 850
+  lag_days: 2677
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 900aa03e95348ee63e8a6be058c09b53f80f634041cd95483b82245c386d8846
+machine_hash: ab9522d862a20c33ab381ee3552b01e843691282664575b3749b861f8ca8dcb5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

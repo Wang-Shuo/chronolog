@@ -4,20 +4,19 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Editor Experience: 21 changes in v2026.7.1 —
   File paths in Control UI chats are now clickable, opening a searchable syntax-highlighted…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2801
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08c6c5cd9c9446879c8580fdc438ea7f59c90ae704a958320890d9d70b14c1f1
+machine_hash: 3c98b044cef1a439c4696efefba35a1862e991fb0add4eb18466cefc414a9531
 product: openclaw
 product_name: OpenClaw
 record:
@@ -122,12 +121,12 @@ record:
   title: 21 Editor Experience changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
-  a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
   Editor Experience changes in v1.0.70]]'
 - '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
   status in your browser tab]]'
+- '[[Changes/Kimi Code/2026-07-12-web-keep-the-server-access-token-for-up-to-7-days-across-tab-close-and-browser-r|web:
+  Keep the server access token for up to 7 days across tab close and browser…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -225,14 +224,14 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project status in your browser tab]]
+- Earlier: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-web-keep-the-server-access-token-for-up-to-7-days-across-tab-close-and-browser-r|web: Keep the server access token for up to 7 days across tab close and browser…]]
 - Later: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop Added middle-click to open sessions in a new tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

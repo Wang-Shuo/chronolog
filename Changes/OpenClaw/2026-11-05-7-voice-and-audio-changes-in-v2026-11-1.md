@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-11-05 · Voice and Audio: 7 changes in v2026.11.1
   up to three seconds of microphone audio in Gateway-routed iOS and Mac Talk when
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1214
+  lag_days: 3041
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d33e20a2cdfd4a2fef52a0b3de1aac0118285c21a150c2ef0d246237c437ff1
+machine_hash: 69242b0a0e2e5536002a5ac884d91c7cfed61167ffa22166f9656cb6699c3cb0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -130,7 +130,7 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

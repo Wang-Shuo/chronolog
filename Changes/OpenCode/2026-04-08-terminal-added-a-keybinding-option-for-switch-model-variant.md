@@ -4,20 +4,20 @@ date: '2026-04-08'
 description: 'OpenCode · 2026-04-08 · Interface Experience: Terminal Added a keybinding
   option for "Switch model variant".'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1185
+  lag_days: 2551
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 22e77d355440f94587da7e16bb9c7fab74da05a121be6cc02e7c19e87c770a8f
+machine_hash: 0a18f8046d8dd0980ce5a71681472651abc2b11ccaafa1d796ab082df2477767
 product: opencode
 product_name: OpenCode
 record:
@@ -57,12 +57,12 @@ record:
   title: Terminal Added a keybinding option for "Switch model variant"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
-  command picker no longer flickers or shifts the input while filtering]]'
 - '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
   Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
   onboarding metrics to log the duration explicitly and use the tier name]]'
+- '[[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute
+  discussion replies]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-08-v1-4-0-d8caa806|opencode-2026-04-08-v1-4-0-d8caa806]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine onboarding metrics to log the duration explicitly and use the tier name]]
+- Earlier: 2026-04-08 · Notion · [[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute discussion replies]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash command picker appears above the text input for a more stable layout]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

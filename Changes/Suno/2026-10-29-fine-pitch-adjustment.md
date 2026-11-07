@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'Suno · 2026-10-29 · Voice and Audio: We’ve added fine pitch adjustment
   so you can tune clips by semitones and cents. For example, to enter a value of 2…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1207
+  lag_days: 3034
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cfa8596bee8ad061de2acd7214c2332f420c76f86114bfad8b473303f4abd3f7
+machine_hash: 09ebf6835248dcd710f92dc85d2aa296e8e7666b02f4035b2274cca21808035e
 product: suno
 product_name: Suno
 record:
@@ -47,8 +47,7 @@ record:
   title: Fine Pitch Adjustment
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-2-voice-and-audio-changes-in-v2-2-0|2 Voice and Audio
-  changes in v2.2.0]]'
+- '[[Changes/HeyGen/2026-10-28-why-it-matters|Why it matters]]'
 - '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
   AI''s LFM3((source link) models, including text-to-speech…]]'
 - "[[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|\U0001F50A
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2023-06-26'
 description: 'Aider · 2023-06-26 · Context Window: Graceful handling of context window
   exhaustion, including helpful tips.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 53
+  lag_days: 1377
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4cc4acd1bce47316ce4c6bced0913b20b1392e2be6a5b9d59ead46e6850b6b8
+machine_hash: f29d86d38b5ce103ca94b344c282d2cfe2544735c8126594afc6a4b1858d3979
 product: aider
 product_name: Aider
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful handling of context window exhaustion, including helpful tips]]
-- Later: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
+- Later: 2023-07-10 · Descript · [[Changes/Descript/2023-07-10-layer-locking|Layer locking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

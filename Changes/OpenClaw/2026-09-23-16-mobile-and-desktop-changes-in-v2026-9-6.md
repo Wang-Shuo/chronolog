@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Mobile and Desktop: 16 changes in v2026.
   — Production npm installs on macOS, Windows and Linux carry about 18 MiB less unused
   Bash…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2873
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04dc32ae61bc2755220c0ffce7d1d3733a348526294e335cec3ab3d2dbe52475
+machine_hash: 76f59014a86b5ee3b81bbd1cd0b97a44778130f8a2550a996f08076be230ce9d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -139,12 +139,12 @@ record:
   title: 16 Mobile and Desktop changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules
-  are found and shown consistently]]'
-- '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11
-  Mobile and Desktop changes in rust-v0.156.0]]'
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-find-meetings-based-on-topics-and-keywords-android-windows-ios-mac-microsoft-365|Find
+  meetings based on topics and keywords Android, Windows, iOS…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-delegate-complex-work-with-copilot-cowork-android-windows-ios-mac-web-microsoft|Delegate
+  complex work with Copilot Cowork Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-carplay-support-for-the-microsoft-copilot-app-ios-microsoft-365-copilot-app|CarPlay
+  support for the Microsoft Copilot app iOS (Microsoft 365 Copilot app)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: mobile-desktop
@@ -227,14 +227,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-carplay-support-for-the-microsoft-copilot-app-ios-microsoft-365-copilot-app|CarPlay support for the Microsoft Copilot app iOS (Microsoft 365 Copilot app)]]
 - Later: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop): universal macOS DMG with per-arch bundled runtimes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

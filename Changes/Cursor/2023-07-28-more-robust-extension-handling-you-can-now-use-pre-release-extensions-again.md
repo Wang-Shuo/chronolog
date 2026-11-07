@@ -4,20 +4,20 @@ date: '2023-07-28'
 description: 'Cursor · 2023-07-28 · Apps and Integrations: More robust extension handling.
   You can now use pre-release extensions again.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 127
+  lag_days: 1687
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43813a72067e2b8975fc88e77d84d7fa223301f541f0802e61e0ce749112fca2
+machine_hash: de1a2ec5c609a5b0a5d8d28f2e53c1cc4f9ecb2284f0f90565e147c9c2ccbafc
 product: cursor
 product_name: Cursor
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-add-ruby-sdk-by-crazywoola-in-https-github-com-langgenius-dify-pull-583|Feat/add ruby sdk]]
-- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama 🦜️🔗 LangChain…]]
+- Later: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations and integration gallery]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

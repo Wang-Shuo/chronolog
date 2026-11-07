@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenCode · 2026-10-27 · Apps and Integrations: Add experimental image
   and decision generation APIs to plugins and sdk, allowing image generation or decision…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1314
+  lag_days: 2874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 31c9f4a373c8f96ac9d2a82f300acb5678c67a30800d145e6db962269d9406bc
+machine_hash: a8f3642f7de5b4cec7f2ca9d384ea0b688e07ccb169311629a294464a7d69d2a
 product: opencode
 product_name: OpenCode
 record:
@@ -45,9 +45,10 @@ record:
   title: Add experimental image and decision generation APIs to plugins and sdk
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
-  and SDK Autopilot sessions keep waiting for attached background tasks…]]'
-- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-admins-can-create-and-deploy-custom-model-context-protocol-mcp-connectors-across|Admins
+  can create and deploy custom Model Context Protocol (MCP) connectors across…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-user-can-use-canva-connector-in-researcher-web-microsoft-365-copilot-extensibili|User
+  can use Canva Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/OpenClaw/2026-10-27-9-apps-and-integrations-changes-in-v2026-10-8|9 Apps
   and Integrations changes in v2026.10.8]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-27-v2-2-0-f60b51f1|opencode-2026-10-27-v2-2-0-f60b51f1]]'
@@ -109,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

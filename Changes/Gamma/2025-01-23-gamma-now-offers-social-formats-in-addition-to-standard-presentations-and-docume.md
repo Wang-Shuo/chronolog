@@ -4,19 +4,20 @@ date: '2025-01-23'
 description: 'Gamma · 2025-01-23 · Collaboration: Gamma now offers social formats
   in addition to standard presentations and documents! This update allows you to create…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 610
+  lag_days: 2204
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56804b140c633069949c010f07e9405885387c6d869f66e7123b3cc187c1e3a6
+machine_hash: 643327ea506ac53e065b6ebeed3e93c422eb1095c0d639303a2368172ea77824
 product: gamma
 product_name: Gamma
 record:
@@ -93,13 +94,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|🔄 Clone Shared Chats]]
-- Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|📥 Download Button for SVG Diagrams]]
+- Later: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If you prefer to opt out you can let us know by submitting a ticket to our support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

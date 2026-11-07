@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2025-06-30 · Voice and Audio: **Background Noise Re
   Added `remove_background_noise` to clean up voice samples using audio isolation
   models…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 721
+  lag_days: 2548
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0883750b9ce549f243cca45ff7c551562f53a6937099af7c4b63563e39764c9b
+machine_hash: b23fb283896d1bdcdef3fe0f50a5e08032475aaa8d4dececea541900c9c0b5e3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-06-23 · ElevenLabs · [[Changes/ElevenLabs/2025-06-23-voices|Voices]]
+- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-simplified-timeline-indicators-comments-audio-and-other-elements-are-now-shown-w|Simplified timeline indicators: Comments, audio, and other elements are now…]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat: add audio and video support to read_file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-06-07'
 description: 'Ollama · 2024-06-07 · Reliability and Performance: `ollama pull` is
   now faster if it detects a model is already downloaded'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 540
+  lag_days: 2027
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0e2a4237d00e359a31c53b60e20fbaa589c6e3e7b349dce73c6cdab0ebbf94c
+machine_hash: 26e0f6e113a09787fe540981d269446edbf8f823f25977764119370bf3c6a398
 product: ollama
 product_name: Ollama
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-06-05 · Open WebUI · [[Changes/Open WebUI/2024-06-05-active-users-indicator-now-you-can-see-how-many-people-are-currently-active-and|👥 Active Users Indicator]]
-- Later: 2024-06-12 · Open WebUI · [[Changes/Open WebUI/2024-06-12-frontend-responsiveness-resolved-the-problem-where-the-frontend-would-stop-respo|🖥️ Frontend Responsiveness]]
+- Later: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-database-views-that-are-grouped-by-the-select-status-multi-select-person-or-rela|Database views that are grouped by the select , status , multi-select , person…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

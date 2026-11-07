@@ -4,19 +4,20 @@ date: '2026-05-19'
 description: 'GitHub Copilot CLI · 2026-05-19 · Developer Workflow: 2 changes in 1.0.49
   — Add /exit print option to print the session to the terminal before exiting'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2807
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: caed3590c5448cf4644fda214f0ad4cf15bd68d4febc906e2e7dcb70e10dd75f
+machine_hash: a19c4c5978f6585efb0fc2e14f2d47e73e9905f5579cfa0d52a7157d77d207af
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

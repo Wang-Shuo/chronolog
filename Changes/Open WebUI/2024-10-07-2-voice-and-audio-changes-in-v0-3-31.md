@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-07 · Voice and Audio: 2 changes in v0.3.31 
   Experimental Audio Compression**: Compress audio files to navigate around the 25MB
   limit…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 455
+  lag_days: 2282
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9d51387b3c4700c83bb604d264c581b6c34ec250b637d442550f129ed67a86b
+machine_hash: 34e5a63eb89c93628067d8228e03e9df31add1278497614b954a5f2975189116
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Voice and Audio changes in v0.3.31
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-enhanced-audio-support-now-includes-support-for-audio-x-m4a-files-broadening-com|\U0001F3B5
-  Enhanced Audio Support]]"
 - "[[Changes/Open WebUI/2024-09-25-call-url-parameter-fix-corrected-functionality-for-call-url-search-parameter-ens|\U0001F4DE
   'Call' URL Parameter Fix]]"
+- '[[Changes/Synthesia/2024-09-26-record-your-screen-in-one-take-then-turn-it-into-a-polished-synthesia-video-with|Try
+  our new AI Screen Recorder]]'
 - '[[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New
   --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'
@@ -90,13 +90,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.31
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]
-- Later: 2024-10-13 · ElevenLabs · [[Changes/ElevenLabs/2024-10-13-api|API]]
+- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-default-ai-speaker-setting|Default AI Speaker setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 03676255442579f92c2ca9590fbe2f291564bf9d820ddc0bccce64a6e470a8ee
+machine_hash: 619ff22bda8e4c6c7b0e9015aff4f3c7c3f0290161202151dc7962a4d517d662
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add --acp flag to start as Agent Client Protocol server
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai|♯9818
-  feat: rebase multi-agent tui on config_snapshot @jif-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396|3 Agent
-  Mode changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-bring-your-own-microsoft-foundry-agents-into-microsoft-365-copilot-web-microsoft|Bring
+  your own Microsoft Foundry agents into Microsoft 365 Copilot…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-generate-icons-using-ai-in-agent-builder-windows-web-microsoft-365-copilot-exten|Generate
+  icons using AI in Agent Builder Windows…]]'
 - '[[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes
   in v0.26.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d|github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d]]'

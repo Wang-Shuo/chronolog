@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-10-14 · Editor Experience: 3 changes in v2.1.
   — Improved artifact updates: Claude now applies a small change and republishes the
   artifact…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b9acbbed3a8e5459c7d1ada3495feb118358523ff5de56f3e102a91df3bc07e
+machine_hash: 2e2fe740ec9a311ec2cc0b475f68840c31b8dbb2496455fd84e663f4df7999fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +49,12 @@ record:
   title: 3 Editor Experience changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed
-  browser tabs]]'
-- '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
-  editor tool no longer receives null in place of the text to replace from some models]]'
+- '[[Changes/Descript/2026-10-13-you-can-edit-text-that-has-an-in-animation-again|You
+  can edit text that has an In animation again]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous
   /task JSON output now includes failed child error and lifecycle events…]]'
+- '[[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit
+  step]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,14 +100,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous /task JSON output now includes failed child error and lifecycle events…]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit step]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor Experience changes in v2.1.299]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

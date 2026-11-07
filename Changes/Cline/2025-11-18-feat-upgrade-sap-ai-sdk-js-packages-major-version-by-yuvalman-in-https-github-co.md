@@ -4,20 +4,20 @@ date: '2025-11-18'
 description: 'Cline · 2025-11-18 · Apps and Integrations: feat: upgrade sap ai-sdk-js
   packages major version by @yuvalman in https://github.com/cline/cline/pull/6547'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 971
+  lag_days: 2531
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f2ad4f37fe9edf2020c395d7d2ae8ea87465f27a3c1f04dd1669654552a9f393
+machine_hash: b9acca147d2a5a732c89939895e12c2c8bac88b53607678395045f27a8cf5de9
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,11 @@ record:
   title: 'feat: upgrade sap ai-sdk-js packages major version'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-13-mcp-improvements|MCP Improvements]]'
-- '[[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps
-  and Integrations changes in v0.15.0]]'
 - '[[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]'
+- '[[Changes/Notion/2025-11-17-the-figma-notion-mcp-integration-is-live-here-s-a-demo-that-connects-figma-make|The
+  Figma × Notion MCP integration is live!]]'
+- '[[Changes/Notion/2025-11-17-search-private-slack-messages|Search private Slack
+  messages]]'
 source_release: '[[Releases/Cline/cline-2025-11-18-v3-38-0-github-263429874-ca504559|cline-2025-11-18-v3-38-0-github-263429874-ca504559]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]
+- Earlier: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-search-private-slack-messages|Search private Slack messages]]
 - Later: 2025-11-18 · Manus · [[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing Manus Browser Operator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

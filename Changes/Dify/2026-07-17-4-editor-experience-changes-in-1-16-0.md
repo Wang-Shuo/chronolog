@@ -4,20 +4,19 @@ date: '2026-07-17'
 description: 'Dify · 2026-07-17 · Editor Experience: 4 changes in v1.16.0 — refactor(dify-ui):
   render ContextMenu story trigger as a semantic area by @lyzno1 with @Copilot…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2805
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c7cee2497f77245f18504fd902627b6a1494667ded409ccb5a7205d64e43fca
+machine_hash: d01e13f584a33f8978e57e173324c6514feaff8195e4a6c0dd3e1418dd9a29ce
 product: dify
 product_name: Dify
 record:
@@ -49,8 +48,8 @@ record:
   title: 4 Editor Experience changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
-  Experience changes in v2.1.208]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-copilot-prompt-gallery-company-wide-prompt-publishing-windows-web-microsoft-365|Copilot
+  Prompt Gallery - Company-wide prompt publishing Windows…]]'
 - '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
   Mod+N as another shortcut for opening a new tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
@@ -116,7 +115,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'GitHub Copilot CLI · 2026-03-26 · Interface Experience: 3 changes in
   1.0.12 — Status line payload includes session_name field alongside session_id'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1172
+  lag_days: 2538
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfce9e2a8c626545e1a5fb8f3a576bbac903c486c75419659c0dfbf6c0409bde
+machine_hash: 01da9ab869b18793552808a442c61a14675ce79dc7883b3ebd3b40dcac291f70
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,13 +93,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.12
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3 Interface Experience changes in rust-v0.117.0]]
-- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface Experience changes in v1.3.3]]
+- Later: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-so-let-s-start-with-the-fundamentals-like-a-new-dashboard-view-for-your-database|So let’s start with the fundamentals, like a new dashboard view for your databases…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

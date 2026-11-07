@@ -4,20 +4,20 @@ date: '2026-01-04'
 description: 'OpenCode · 2026-01-04 · Safety and Privacy: 13 changes in v1.1.1 — Breaking
   Changes for SDK Users Asked : { id, sessionID, permission, patterns, metadata…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 1986
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b2c04e30778a2c71404d9ba5190cde627b931b22bf15978456a7c16f6fa936a
+machine_hash: 6c2fa9410f112c79bcb67005e1d2975bfccbad1d970746de381a0fc32c4781d7
 product: opencode
 product_name: OpenCode
 record:
@@ -146,7 +146,7 @@ Source: https://opencode.ai/changelog/v1.1.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

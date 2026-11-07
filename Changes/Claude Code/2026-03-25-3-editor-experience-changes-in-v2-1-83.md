@@ -4,20 +4,19 @@ date: '2026-03-25'
 description: 'Claude Code · 2026-03-25 · Editor Experience: 3 changes in v2.1.83 —
   Added `Ctrl+X Ctrl+E` as an alias for opening the external editor (readline-native…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16cdcb0394e6ffff810dc6cbd64c2313c5700ec61169e92ab383e33c490dd4c5
+machine_hash: 96e4417a078432971e8b31b94e38ad77402f68216ce83609b0ef153df7d777c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,13 +92,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]
-- Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]
+- Later: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-members-tab-added-member-search-active-pending-member-filtering-and-the-ability|Members tab: Added member search, active/pending member filtering, and the ability…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

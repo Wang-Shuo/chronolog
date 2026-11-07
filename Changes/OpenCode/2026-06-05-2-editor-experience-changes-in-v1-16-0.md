@@ -4,20 +4,19 @@ date: '2026-06-05'
 description: 'OpenCode · 2026-06-05 · Editor Experience: 2 changes in v1.16.0 — Desktop
   Added a Servers tab in Settings.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1178dd39af0b51ebbc775326437e0186660ca12200881ff28edb415789acfa3
+machine_hash: 10e94662f3598b2c1c4b605e8a229c4e7f8d5ca669b268908226e1a187c34287
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +41,10 @@ record:
   title: 2 Editor Experience changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus
-  and Open IDE fixes]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
   Editor Experience changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-support-multiline-edits-when-managing-upcoming-goals|Support
+  multiline edits when managing upcoming goals]]'
 - '[[Changes/OpenCode/2026-06-05-3-editor-experience-changes-in-v1-16-2|3 Editor Experience
   changes in v1.16.2]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-0-b08173b2|opencode-2026-06-05-v1-16-0-b08173b2]]'
@@ -94,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

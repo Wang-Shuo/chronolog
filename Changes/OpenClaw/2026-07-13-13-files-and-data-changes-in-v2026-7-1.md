@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Files and Data: 13 changes in v2026.7.1 — Assistant
   documents downloaded from the Control UI now keep recognizable original filenames…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 2490
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b1601fe0f8d5f6edded8970b35e08831bdd2eea240249c959eabd5992bcfb5c
+machine_hash: a64b4eda34758fa9b40e936398710fbe446d48ac6df5da8774a4f788157e8748
 product: openclaw
 product_name: OpenClaw
 record:
@@ -87,8 +87,8 @@ record:
   title: 13 Files and Data changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas
-  A2UI now serves only the current app assets after each build, so outdated…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create
+  Excel spreadsheets from Copilot Notebooks Windows…]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
   Bring README.md over from Agent Canvas]]'
 - '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
@@ -181,7 +181,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

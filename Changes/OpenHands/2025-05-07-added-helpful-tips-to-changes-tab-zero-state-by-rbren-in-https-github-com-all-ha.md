@@ -4,20 +4,19 @@ date: '2025-05-07'
 description: 'OpenHands · 2025-05-07 · Editor Experience: Added helpful tips to Changes
   tab zero state by @rbren in https://github.com/All-Hands-AI/OpenHands/pull/8230'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 785
+  lag_days: 2369
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d5367dc0178a33c00f49baef8a9fbe76d96c691f864a85819cda1c1a3db8e90
+machine_hash: fa9e4692ae6940171519b68329861985dfba6894419c2f5257cce8afe47d8c5a
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +40,10 @@ record:
   title: Added helpful tips to Changes tab zero state
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced
-  the workspace tab with a VS Code tab]]'
-- '[[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox
-  editor interface]]'
 - '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
   the display of the settings tab]]'
+- '[[Changes/Descript/2025-05-06-rooms-bug-fixes|Rooms bug fixes]]'
+- '[[Changes/Descript/2025-05-06-editor-updates|Editor updates]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5|openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5]]'
 source_type: github_releases
 theme: editor-experience
@@ -76,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-05 · OpenHands · [[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved the display of the settings tab]]
+- Earlier: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-editor-updates|Editor updates]]
 - Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience changes in v0.83.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

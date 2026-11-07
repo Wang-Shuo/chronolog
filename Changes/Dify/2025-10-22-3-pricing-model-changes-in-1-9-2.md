@@ -4,20 +4,20 @@ date: '2025-10-22'
 description: 'Dify · 2025-10-22 · Pricing Model: 3 changes in v1.9.2 - Sharper, Faster,
   and More Reliable — Added tax tooltips to pricing footer *(by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2660
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2025f53f1893586f345a02550ab82d7560e480364f75b74c361fea367f8244a7
+machine_hash: 6cc0b878db60e58458681a2cfacd166c2aee7c4e295be459a5b8e400a01f1ad8
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,8 @@ record:
   title: 3 Pricing Model changes in 1.9.2
   type: change
 related_changes:
-- '[[Changes/v0/2025-10-01-it-no-longer-costs-credits-to-use-fix-with-v0-when-v0-makes-an-error|It
-  no longer costs credits to use "Fix with v0" when v0 makes an error]]'
-- '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
-  Go, our low cost subscription plan, is now available in 16 additional countries]]'
+- '[[Changes/Descript/2025-10-09-why-top-up|Why top up?]]'
+- '[[Changes/Descript/2025-10-09-media-hours|Media Hours]]'
 - '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
   Go, our low cost subscription plan, is now available in 71 additional…]]'
 source_release: '[[Releases/Dify/dify-2025-10-22-1-9-2-github-255984243-4bd350a7|dify-2025-10-22-1-9-2-github-255984243-4bd350a7]]'
@@ -105,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

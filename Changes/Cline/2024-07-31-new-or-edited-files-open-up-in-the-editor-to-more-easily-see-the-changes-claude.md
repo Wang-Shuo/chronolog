@@ -4,20 +4,19 @@ date: '2024-07-31'
 description: 'Cline · 2024-07-31 · Editor Experience: New or edited files open up
   in the editor to more easily see the changes Claude Dev makes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 505
+  lag_days: 2089
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7495a20d62e270e68db89b01cd7e1acadc818f8827262ebaf314936f9cf3602f
+machine_hash: 9a630e608e49987b110afcd2ac84d21052416717e72e7fec3fba246dfb638f3d
 product: cline
 product_name: Cline
 record:
@@ -45,10 +44,8 @@ record:
     Claude Dev makes
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-28-open-in-the-editor-using-menu-bar-or-claude-dev-open-in-new-tab-in-command-palet|Open
-  in the editor…]]'
-- '[[Changes/Aider/2024-07-29-2-editor-experience-changes-in-v0-46-0|2 Editor Experience
-  changes in v0.46.0]]'
+- '[[Changes/Notion/2024-07-29-suggested-edits|Suggested edits]]'
+- '[[Changes/Notion/2024-07-29-a-better-inbox|A better Inbox]]'
 - '[[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience
   changes in v0.47.0]]'
 source_release: '[[Releases/Cline/cline-2024-07-31-v1-0-73-github-168101006-b287a439|cline-2024-07-31-v1-0-73-github-168101006-b287a439]]'
@@ -85,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

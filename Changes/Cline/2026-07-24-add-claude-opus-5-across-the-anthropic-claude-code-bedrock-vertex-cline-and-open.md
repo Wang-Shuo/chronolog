@@ -4,20 +4,20 @@ date: '2026-07-24'
 description: 'Cline · 2026-07-24 · Context Window: Add Claude Opus 5 across the Anthropic,
   Claude Code, Bedrock, Vertex, Cline, and OpenRouter providers, including 1M…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2501
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d61a5a4e9d113413223714b7a34cae3d2bf91100bd690df5e00630746987b4c4
+machine_hash: ea0d7f3dddbd0d84287c0fc0a0fef152522432a445da0e0dc8d8500d0c6b52d3
 product: cline
 product_name: Cline
 record:
@@ -55,12 +55,12 @@ record:
   title: Add Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context
-  Window changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed
   skills with context: fork to run in the background by default]]'
 - '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
   exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send
+  the session prompt cache key to OpenAI and OpenAI Responses providers]]'
 source_release: '[[Releases/Cline/cline-2026-07-24-v4-0-11-github-359492045-6636f242|cline-2026-07-24-v4-0-11-github-359492045-6636f242]]'
 source_type: github_releases
 theme: context-window
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor: exclude transient CI configuration files from workspace context]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send the session prompt cache key to OpenAI and OpenAI Responses providers]]
 - Later: 2026-07-25 · Lovable · [[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API keys are revoked automatically]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

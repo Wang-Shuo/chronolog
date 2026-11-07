@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8a91f91991194eb66c326aa65fedf7d5d6a3324027ffb399eb6dd939b167abc
+machine_hash: 81ec707cdfc1cf514a670b673faecd6ee727cde5c46246c8f0b948d7e2dc37e0
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,12 @@ record:
   title: 3 Agent Mode changes in v1.28.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-elevenagents-b18b24|ElevenAgents]]'
-- '[[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent
   Mode changes in v1.0.100]]'
+- '[[Changes/Notion/2026-10-19-we-rebuilt-our-agent-harness-again|We rebuilt our agent
+  harness]]'
+- '[[Changes/Notion/2026-10-19-connect-your-chatgpt-plus-pro-or-go-plan-to-your-personal-notion-agent|Connect
+  your ChatGPT Plus, Pro, or Go plan to your personal Notion Agent]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent Mode changes in v1.0.100]]
+- Earlier: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-connect-your-chatgpt-plus-pro-or-go-plan-to-your-personal-notion-agent|Connect your ChatGPT Plus, Pro, or Go plan to your personal Notion Agent]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands|chore: bump agent-server to 1.56.0]]
 <!-- chronolog:end -->
 

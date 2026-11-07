@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-19 · Interface Experience: 32 changes in v202
   — Choose whether empty sidebar groups hide When filtering , Always , or Never ,
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1349
+  lag_days: 2715
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e8e14b62ee5a1a9453adedaa51326b8eb8ea99249bbd58a5f417112d2654c8b
+machine_hash: d78fb75033ca98cfdd8237e3a2eb59c9dd6f9f8c7b6bb4bc6d46e65811eb1412
 product: openclaw
 product_name: OpenClaw
 record:
@@ -351,7 +351,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

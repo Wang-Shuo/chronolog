@@ -4,20 +4,20 @@ date: '2025-06-04'
 description: 'Cursor · 2025-06-04 · Reliability and Performance: Faster responses
   with parallel tool calls'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 902
+  lag_days: 2389
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce1062e2b5cbd04a036d83bb1d70d412ea9d467b673b3e972ea908d0c8235904
+machine_hash: 46448227b04e25fc4f9732f8720512d803d41d378035e1820debd59fcd7af032
 product: cursor
 product_name: Cursor
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]
-- Later: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
+- Later: 2025-06-04 · Synthesia · [[Changes/Synthesia/2025-06-04-today-we-re-excited-to-roll-out-three-enterprise-grade-upgrades-that-help-you-wo|Enterprise Update: Avatar Sharing, Bulk Actions & JIT Provisioning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

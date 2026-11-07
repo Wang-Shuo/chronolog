@@ -4,20 +4,19 @@ date: '2026-07-06'
 description: 'OpenCode · 2026-07-06 · Editor Experience: 3 changes in v1.17.14 — Desktop
   Added reopening for closed tabs and background tab opening.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b13ae4077bbca5151fcb40a9bdee620a6a4ef832dae55a011b94603e35f65481
+machine_hash: bc812dead54510db3189871c194e07e5e76ff824f4e56b9d94b17580fed9c990
 product: opencode
 product_name: OpenCode
 record:
@@ -45,11 +44,11 @@ record:
   title: 3 Editor Experience changes in v1.17.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
-  Experience changes in v0.10.2]]'
-- '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
-  Experience changes in v1.17.13]]'
+- '[[Changes/Kimi Code/2026-07-02-remove-duplicate-newline-shortcut-handling-from-the-prompt-editor|Remove
+  duplicate newline-shortcut handling from the prompt editor]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
+- '[[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web:
+  Align the markdown diff code block with the design system: code text keeps…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-06-v1-17-14-6f861196|opencode-2026-07-06-v1-17-14-6f861196]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -90,14 +89,14 @@ Source: https://opencode.ai/changelog/v1.17.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web: Align the markdown diff code block with the design system: code text keeps…]]
 - Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

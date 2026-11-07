@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 48551dd67dc5787b5a47512e9c46329f14724a23f836317cb03cedf3dcbcf02e
+machine_hash: c7eed4709f089e901fccaea9838e89d27589b651c353b0138cbebf84e7fe981c
 product: opencode
 product_name: OpenCode
 record:
@@ -53,11 +53,12 @@ record:
   title: Terminal Fix /agent create to use the /agents path
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'
 - '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
   changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
   the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan
+  Mode]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-07-v1-14-40-abdc6d92|opencode-2026-05-07-v1-14-40-abdc6d92]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
+- Earlier: 2026-05-07 · Notion · [[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan Mode]]
 - Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons for Agent modes]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1fec84702014b7c2ade78e1d7d37b6e1c4f97f7cdaacad27bdfc810b5dabe031
+machine_hash: ad813ff7368d3360db45f68dd17243b4d1a9420942be9b4c3ef2eed39114e15f
 product: google-antigravity
 product_name: Google Antigravity
 record:

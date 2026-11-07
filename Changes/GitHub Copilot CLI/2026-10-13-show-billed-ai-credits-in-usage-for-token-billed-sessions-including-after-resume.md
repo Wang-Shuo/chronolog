@@ -4,20 +4,20 @@ date: '2026-10-13'
 description: 'GitHub Copilot CLI · 2026-10-13 · Pricing Model: Show billed AI Credits
   in /usage for token-billed sessions, including after resume'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1398
+  lag_days: 3016
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e98be83012602d6435f10f123a9466c9387de07448e11e3a2988ab4b6a020363
+machine_hash: afe7d3e8f64cdf697391348cfe65dc108c025c73e1fa285c9c13a0bd7aeec718
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model changes in v2026.10.2]]
-- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask Lovable what drives your run credit usage]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-video-translate-one-submit-button|Video Translate: One submit button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

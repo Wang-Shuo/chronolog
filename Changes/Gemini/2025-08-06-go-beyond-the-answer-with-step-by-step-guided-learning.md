@@ -4,20 +4,20 @@ date: '2025-08-06'
 description: 'Gemini · 2025-08-06 · Mobile and Desktop: What: Gemini now offers Guided
   Learning, a new mode designed to help you build a deeper understanding of whatever…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 876
+  lag_days: 2460
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 81da930c2817a656b3466c10149a7742fb302b0235816417422720a591900cd0
+machine_hash: 26d3f1278d4088c55e635fca7ba59cbce8465c4c9cf9dd7fb20edf7b91c1eb7d
 product: gemini
 product_name: Gemini
 record:
@@ -61,8 +61,8 @@ record:
   title: Go Beyond the Answer with Step-by-Step Guided Learning
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile
-  and Desktop changes in v0.1.15]]'
+- '[[Changes/Descript/2025-07-31-screen-recorder-desktop-shortcut|Screen Recorder
+  desktop shortcut]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile
   and Desktop changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-mobile-and-desktop-changes-in-v0-1-17|2 Mobile
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

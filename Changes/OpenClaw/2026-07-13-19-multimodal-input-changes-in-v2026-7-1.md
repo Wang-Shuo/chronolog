@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'OpenClaw · 2026-07-13 · Multimodal Input: 19 changes in v2026.7.1 —
   OpenClaw now supports Meta Model API setup and the Muse Spark 1.1 model, including…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2796
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b883263c5eac6ad51a6293c764d5b2872794368c6b77e5b512c535730deb399f
+machine_hash: 0cca5790b73d37449ab0d133d2da2e4a69c1b1143e2d153c1eff3866c7a6306c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -111,11 +111,12 @@ record:
   title: 19 Multimodal Input changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
-  4 12B((source link)]]'
-- '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
+- '[[Changes/Kimi Code/2026-06-29-support-the-anthropic-compatible-protocol-for-kimi-code-including-video-input|Support
+  the Anthropic-compatible protocol for Kimi Code, including video input]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-multimodal-capture-in-copilot-notebooks-iphone-ios-onenote|Multimodal
+  capture in Copilot Notebooks (iPhone) iOS (OneNote)]]'
+- '[[Changes/HeyGen/2026-07-08-video-translation-flow-re-design|Video Translation
+  Flow Re-Design]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -209,14 +210,14 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-video-translation-flow-re-design|Video Translation Flow Re-Design]]
 - Later: 2026-07-14 · Runway · [[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph 2.0 in MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

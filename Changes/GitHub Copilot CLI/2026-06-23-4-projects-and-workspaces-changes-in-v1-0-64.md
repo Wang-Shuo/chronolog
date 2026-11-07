@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7aade2e72c02ae0ce521cc17452b2acdce16e4db27984fd204efb143a465acde
+machine_hash: 71b4dbf546177e5dbc0b9e5ea6f2abfd94d4076e7c648a45121eec81bd9cb776
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Projects and Workspaces changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session
-  resume works correctly after a crash that left partial data in the session log]]'
 - '[[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local
   session history is safer for compressed rollouts, renamed titles, pathless…]]'
+- '[[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent
+  forking sessions during active turns and consolidate wire protocol…]]'
 - '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
   persisting empty resume sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

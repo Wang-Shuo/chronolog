@@ -4,19 +4,20 @@ date: '2026-11-03'
 description: 'OpenHands · 2026-11-03 · Collaboration: 2 changes in v1.35.0 — feat:
   reveal shared conversation titles during startup by @ak684 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db0c832a83ace0c1ea4ee5b1f6e654b4cff3b53baab10abaaffa0612e35ec97c
+machine_hash: 480177b5bee9e26143da32aa675edc4d8d3aba4a61847a1f989f27b5968c6291
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +42,8 @@ record:
   title: 2 Collaboration changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
-  and next steps when you publish]]'
+- '[[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration
+  changes in Qoder 0.5.1]]'
 - "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
   New chats stay in sync. A chat started from the home page keeps syncing…]]"
 - '[[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration
@@ -94,7 +95,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

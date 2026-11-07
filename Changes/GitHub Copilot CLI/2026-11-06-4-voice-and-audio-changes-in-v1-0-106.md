@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Voice and Audio: 4 changes in 
   — Keep the highlighted microphone selected in /voice devices when refreshing the
   device…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1215
+  lag_days: 3042
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c4b28e4fd5c1aa95e3d9b7e0b09674dc0b7b7b4f53d1e543d194d9d6b298dac
+machine_hash: dd2a09769f28c5d960c343894cd96f1a7c4d2228d84e002e483e5489c934b579
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Voice and Audio changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
-  changes in 1.19.0]]'
-- '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
-  Audio changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice
   and Audio changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-2-voice-and-audio-changes-in-release-roundup-november-6-2026|2
+  Voice and Audio changes in Release roundup—November 6, 2026]]'
+- '[[Changes/Descript/2026-11-06-words-line-up-with-the-audio-more-closely|Words line
+  up with the audio more closely]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: voice
@@ -110,13 +110,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice and Audio changes in rust-v0.167.0]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-words-line-up-with-the-audio-more-closely|Words line up with the audio more closely]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

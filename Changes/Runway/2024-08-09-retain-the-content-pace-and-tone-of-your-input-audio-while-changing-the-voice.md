@@ -4,20 +4,20 @@ date: '2024-08-09'
 description: 'Runway · 2024-08-09 · Voice and Audio: Retain the content, pace and
   tone of your input audio while changing the voice.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 396
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f01def64ea2e5be856d15e74b261ab3d4c78c81eddffec188861b245abccb209
+machine_hash: 5e0cef0d678d5343f84329bb2cfd6dc090931b5de979facc92f5480eee8d747a
 product: runway
 product_name: Runway
 record:
@@ -42,10 +42,10 @@ record:
   title: Speech to Speech
   type: change
 related_changes:
-- '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
-  Input is now available to everyone, including those with free accounts!]]'
 - '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
   Streaming Config]]'
+- '[[Changes/Descript/2024-07-16-translation-w-dubbing-is-now-in-beta|Translation
+  w/ dubbing is now in Beta]]'
 - "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
   ElevenLabs Voice Adaptations]]"
 source_release: '[[Releases/Runway/runway-2024-08-09-2024-08-09-speech-to-speech-54519b7e|runway-2024-08-09-2024-08-09-speech-to-speech-54519b7e]]'
@@ -75,13 +75,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
-- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore: allow download audio/video through HTTP node]]
+- Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-welcome-to-descript-season-7-our-love-note-to-video-and-audio-podcasters-we-re-l|Welcome to Descript Season 7 — our love note to video and audio podcasters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

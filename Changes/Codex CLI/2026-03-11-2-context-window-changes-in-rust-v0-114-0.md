@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'Codex CLI · 2026-03-11 · Context Window: 2 changes in 0.114.0 — Handoffs
   now carry realtime transcript context, which improves continuity when work is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2366
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb3697b0feaa13288176a0d115c9fd13eab39889f2292984874f1bdb30380e7b
+machine_hash: 32f4c3cfb12f4a362afa719c3ce7659560cfc5debaf6e4d8a36ea4a13afeb858
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Context Window changes in rust-v0.114.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
-  Window changes in rust-v0.113.0]]'
+- '[[Changes/Notion/2026-03-10-dashboard-views-are-a-new-database-view-for-better-visibility-and-context-this-l|Visualize
+  progress with dashboard views]]'
 - '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel
   and PowerPoint]]'
 - '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.114.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-04'
 description: 'Claude Code · 2026-08-04 · Pricing Model: Changed fast mode to report
   on the stream when usage credits run out mid-session, instead of failing silently'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1328
+  lag_days: 2946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 713287613515e68d417a4bf59b72f394ef2b787614cc551fd551f1ff4b19f187
+machine_hash: ca50dd6e0b8cca8c61e08d78f0aa44a46d5caf97e80ac686db05e576f24dd598
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3 Pricing Model changes in Claude Opus 5, direct Figma inspection…]]
-- Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between workspaces]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-plans-billing|Plans & billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-03'
 description: 'Replit · 2026-07-03 · Mobile and Desktop: The redesigned Replit Desktop
   App brings the full Replit experience to your computer. You get the same building…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1207
+  lag_days: 2791
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 05a9c6e070c5f1b30e44146a2a647be8c0e309bed1ddadd62bf65144c0b57c6e
+machine_hash: 40516f50e32aa5f28cf9bbee9d7342df79ad2f592500f0a21d888d12fc7516aa
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: The redesigned Replit Desktop App
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
-  and Desktop changes in v1.17.12]]'
-- '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
-  for Android is here!]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated
+  files inherit sensitivity labels Android, Windows, iOS, Mac…]]'
 - '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
   and Desktop changes in v1.17.13]]'
+- '[[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep
+  automatic background updates from flashing a console window on Windows]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile and Desktop changes in v1.17.13]]
+- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep automatic background updates from flashing a console window on Windows]]
 - Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 77155e4a4a817a95eec6fb50b5fb9b7d64e41e0c6edd9e2afcc98ab111e4c9b7
+machine_hash: 9d3cbfa447cdecdae02cb8b08b9ced2564ad19037ab797b904858f83c9416a8a
 product: opencode
 product_name: OpenCode
 record:
@@ -45,11 +45,12 @@ record:
     is working
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent
-  Mode changes in rust-v0.122.0]]'
-- '[[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
   Mode changes in v1.0.33]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-employee-self-service-agent-new-rich-landing-page-microsoft-365-copilot-app|Employee
+  Self-Service agent: New rich landing page (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share
+  agents to Teams Web (Microsoft 365 Copilot extensibility)]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-21-v1-14-20-914ccdfd|opencode-2026-04-21-v1-14-20-914ccdfd]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent Mode changes in v1.0.33]]
+- Earlier: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-share-agents-to-teams-web-microsoft-365-copilot-extensibility|Share agents to Teams Web (Microsoft 365 Copilot extensibility)]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]]
 <!-- chronolog:end -->
 

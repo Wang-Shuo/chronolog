@@ -5,20 +5,20 @@ description: 'OpenCode · 2026-11-06 · Apps and Integrations: GUI plugins can n
   color themes, render or add actions to code blocks, and use native settings and
   menu…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 84132d2d1dea52b1e52472900225e6810a4b8f049736548c399a13b3c2558391
+machine_hash: 73f0860d358a28b167b127dfb2e4168d58f863a8a75b1586e2538a4d1f5af941
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +45,8 @@ record:
   title: GUI Plugin Themes and New Slots
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12
-  Apps and Integrations changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-claude-code-and-codex-can-connect-to-the-descript-mcp-now-if-it-failed-before-re|Claude
+  Code and Codex can connect to the Descript MCP now]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-89-apps-and-integrations-changes-in-v1-0-106|89
   Apps and Integrations changes in v1.0.106]]'
 - '[[Changes/OpenCode/2026-11-06-shared-mcp-connections|Shared MCP Connections]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

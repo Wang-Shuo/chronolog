@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'Codex CLI · 2026-09-22 · Reliability and Performance: #45960 Tag memory
   usage telemetry with the memory version @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1377
+  lag_days: 2864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ffff136f380b1a49393939f674098b3cd3a74a82bbf9ce774a6ae356cb38216
+machine_hash: 825718087d27b8be3f9b27cfa3c39cc6d3c60faabb1984e5e8faae43ecd4deec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#45960 Tag memory usage telemetry with the memory version @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
-  a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/Descript/2026-09-17-faster-aaf-and-sesx-exports|Faster AAF and SESX exports]]'
 - '[[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5
   Reliability and Performance changes in v2026.9.5]]'
 - "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
@@ -102,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

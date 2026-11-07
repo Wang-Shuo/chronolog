@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 45cb396d3ddfb3e93b3c4d383a74662516fb07efef63a860f7d0d02951e292da
+machine_hash: 5656f070e3062e2e075db06f5a87ec39c7ff3a253e266e14ec4fa3f73a46926e
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Tightened Gemma 4 MoE model loading in the MLX engine
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-30-add-support-for-claude-sonnet-5-across-the-anthropic-bedrock-vertex-claude-code|Add
-  support for Claude Sonnet 5 across the Anthropic, Bedrock, Vertex, Claude Code…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add
   Claude Sonnet 5 as a supported model]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
   Support changes in v1.0.66]]'
+- '[[Changes/Kimi Code/2026-06-30-refresh-provider-model-lists-automatically-in-the-background-instead-of-only-at|Refresh
+  provider model lists automatically in the background instead of only…]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-30-v0-31-1-github-347009437-d36f1d55|ollama-2026-06-30-v0-31-1-github-347009437-d36f1d55]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model Support changes in v1.0.66]]
+- Earlier: 2026-06-30 · Kimi Code · [[Changes/Kimi Code/2026-06-30-refresh-provider-model-lists-automatically-in-the-background-instead-of-only-at|Refresh provider model lists automatically in the background instead of only…]]
 - Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-32-model-support-changes-in-v2026-6-11|32 Model Support changes in v2026.6.11]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe64c443a676732e8ff74bf8d20d058261526d5c21c0d9aaf33b4a234eed9540
+machine_hash: 3623c11f708717d0fd6764d0b9a2ff3f0ffee4afd06fc9746eea1d6f3e52b1e4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -52,10 +52,10 @@ record:
   title: 3 Agent Mode changes in v2026.10.6
   type: change
 related_changes:
-- '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
-  Duet research preview for Pro and Max plans]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
+- '[[Changes/Kimi Code/2026-10-21-compact-now-queues-while-the-agent-is-busy-instead-of-failing-with-an-error|/compact
+  now queues while the agent is busy instead of failing with an error]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
   the /claude-api skill to build Managed Agents subagent teams…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|openclaw-2026-10-22-v2026-10-6-56379f53]]'

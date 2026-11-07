@@ -4,19 +4,20 @@ date: '2026-07-13'
 description: 'ElevenLabs · 2026-07-13 · Collaboration: **Create service accounts**:
   Added [Create service…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1146
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 07c8fb5b77537bce18c287cd957fd51b5bb49cc04731608b32733fe905bc9fc4
+machine_hash: 7dc12c567e0ab656323abae4e9499947642a2aab1cc5962269ed6694be1f4c02
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,12 +53,12 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
-  changes in rust-v0.143.0]]'
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
   group chats will remain available and can continue to be used for now]]'
 - '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
   Stabilize shared rollout budget test @jif-oai]]'
+- '[[Changes/Notion/2026-07-09-you-can-now-share-your-notion-workers|Share your Notion
+  Workers]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-13-2026-07-13-a5dee32c|elevenlabs-2026-07-13-2026-07-13-a5dee32c]]'
 source_type: elevenlabs_changelog
 theme: collaboration
@@ -94,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587 Stabilize shared rollout budget test @jif-oai]]
+- Earlier: 2026-07-09 · Notion · [[Changes/Notion/2026-07-09-you-can-now-share-your-notion-workers|Share your Notion Workers]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

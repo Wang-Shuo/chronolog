@@ -4,19 +4,20 @@ date: '2025-09-29'
 description: 'GitHub Copilot CLI · 2025-09-29 · Developer Workflow: Added glob matching
   to shell rules. When using `--allow-tool` and `--deny-tool`, you can now specify…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 926
+  lag_days: 2575
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b4fd17eda6aeab0c4b7606f9f12cb80b8b73f4848852ca344169ceac88766b0
+machine_hash: f0f278b2348a7deb7463c8790c9ccf116d85507b7c6166f3fcedb4e4e824f3b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

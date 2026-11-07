@@ -5,20 +5,19 @@ description: 'v0 · 2026-06-26 · Editor Experience: The editor no longer shows 
   start error when a preview, dev server, or install fails while the editor itself
   is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60c0d00ccf76633f45610ee528a0e4b1a96b7539640762d449cd8c624626e764
+machine_hash: ec84571b1d2153b2c2f57f6c6a6274bd4672732f472bd62500c7ef684f46af11
 product: v0
 product_name: v0
 record:
@@ -44,12 +43,12 @@ record:
   title: The editor no longer shows a false start error when a preview, dev server…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-2-editor-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|2
-  Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
-- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
-  Experience changes in v1.17.11]]'
 - '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
   edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/Kimi Code/2026-06-26-preserve-full-tool-output-logs-when-previews-are-truncated-and-link-background-t|Preserve
+  full tool output logs when previews are truncated and link background task…]]'
+- '[[Changes/Kimi Code/2026-06-26-make-the-web-chat-input-grow-with-its-content-and-add-an-expandable-editor-for-l|Make
+  the web chat input grow with its content and add an expandable editor…]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor Experience changes in v0.10.0]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-make-the-web-chat-input-grow-with-its-content-and-add-an-expandable-editor-for-l|Make the web chat input grow with its content and add an expandable editor…]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-add-a-completion-sound-and-question-notifications-to-the-web-ui-with-separate-se|Add a completion sound and question notifications to the web UI, with separate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

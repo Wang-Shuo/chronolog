@@ -4,20 +4,20 @@ date: '2025-07-18'
 description: 'Ollama · 2025-07-18 · Mobile and Desktop: Ollama''s new app is available
   for macOS and Windows: [Download Ollama](https://ollama.com/download)'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4d2a8e5656696b412e2b595ec3b367712ea2805ce3501e7fdfab2f56c86c805e
+machine_hash: 542cac2c1fcae6fd53fcfc4a31023408121452082bb5f3cfefb135a6e888f080
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Ollama's new app is available for macOS and Windows
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
-  enforce leading slash since that''s not true on Windows]]'
 - "[[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|\U0001F4F7
   Seamless iPhone Image Uploads]]"
+- '[[Changes/Descript/2025-07-15-new-in-labs-upload-from-mobile|New in Labs—Upload
+  from Mobile]]'
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
   mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
 source_release: '[[Releases/Ollama/ollama-2025-07-18-v0-10-0-github-232966667-37d57ef9|ollama-2025-07-18-v0-10-0-github-232966667-37d57ef9]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

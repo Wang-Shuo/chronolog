@@ -4,20 +4,19 @@ date: '2023-09-27'
 description: 'Cursor · 2023-09-27 · Editor Experience: You can now use an early preview
   of /edit in the chat! It''s significantly faster at editing entire files than just…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 197
+  lag_days: 1781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccb28618f1e2151ff786fd8fb7b3ec92bbe493176f2e7390ce23b18ed5374508
+machine_hash: 3fb64ba573cbc7955515f11f9a445c05473471059af6f6378f3387b1ed295604
 product: cursor
 product_name: Cursor
 record:
@@ -60,8 +59,7 @@ record:
   title: /edit in chat
   type: change
 related_changes:
-- '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
-  query parameter in the POST /v1/completion-messages endpoint of the App…]]'
+- '[[Changes/Descript/2023-09-18-other-tweaks-fixes|Other tweaks & fixes]]'
 - '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
   Chat]]'
 - '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
@@ -99,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

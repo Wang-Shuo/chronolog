@@ -46,9 +46,22 @@ FIRST_QUOTE_SCOPED_VERSIONS = {"fallback-v2", "fallback-v3", "fallback-v4"}
 JOINED_QUOTES_SCOPED_VERSIONS = {"fallback-v5"}
 CARD_ID_RE = re.compile(r"^[a-z0-9-]+-\d{4}-\d{2}-\d{2}-[a-f0-9]{6}$")
 WIKILINK_RE = re.compile(r"!?\[\[([^\]]+)\]\]")
+INLINE_CODE_RE = re.compile(r"(?<!`)(`+)(?!`)(?:(?!\n[ \t]*\n).)*?(?<!`)\1(?!`)", re.S)
 VAULT_DIRECTORIES = ("Products", "Changes", "Releases", "Themes", "Alerts", "Archive")
 # Machine-maintained pages at the Vault root, enumerated wherever VAULT_DIRECTORIES are.
 ROOT_PAGES = ("index.md", "About.md")
+
+
+def prose_strings(value: Any):
+    """Scan decoded scalar values separately, so code spans cannot cross YAML fields."""
+    if isinstance(value, str):
+        yield INLINE_CODE_RE.sub("", value)
+    elif isinstance(value, dict):
+        for child in value.values():
+            yield from prose_strings(child)
+    elif isinstance(value, list):
+        for child in value:
+            yield from prose_strings(child)
 
 
 def official_themes(themes_path: str | Path) -> set[str]:
@@ -314,7 +327,9 @@ def validate_vault_links(
     for path in files:
         markdown = path.read_text(encoding="utf-8")
         post = frontmatter.loads(markdown)
-        for raw_link in WIKILINK_RE.findall(markdown):
+        raw_links = [link for text in prose_strings([post.metadata, post.content])
+                     for link in WIKILINK_RE.findall(text)]
+        for raw_link in raw_links:
             links_checked += 1
             target = normalize_wikilink_target(raw_link)
             if target and resolve_target(target) is None:
@@ -354,6 +369,11 @@ def validate_vault_links(
                     )
                     continue
                 target_path = resolve_target(normalize_wikilink_target(match.group(1)))
+                # Relation fields are structural links even if someone wrapped
+                # their value in code syntax; never let that hide a broken target.
+                if target_path is None and match.group(1) not in raw_links:
+                    errors.append({"file": str(path.relative_to(root)), "link": match.group(1),
+                                   "error": "unresolved wikilink"})
                 if target_path is None or field != "evolves_from":
                     continue
                 target_card_id = frontmatter.load(target_path).metadata.get("card_id")

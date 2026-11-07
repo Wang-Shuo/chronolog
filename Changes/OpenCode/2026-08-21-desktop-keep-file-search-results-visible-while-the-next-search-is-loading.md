@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'OpenCode · 2026-08-21 · Search and Browsing: Desktop Keep file search
   results visible while the next search is loading'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2276
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d79e1181330eaed61d185a6ed821e289d24569aff7bf5041723a7c73d7cc69c
+machine_hash: 2e72e5528cb16e2fb2a1a2be15f0f5b01a1989717a896ea77a99fffe356b7ad4
 product: opencode
 product_name: OpenCode
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core Enabled web search when using the OpenCode Go provider]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search and Browsing changes in v0.11.1]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-copilot-chat-available-when-using-copilot-search-windows-web-microsoft-365-copil|Copilot Chat available when using Copilot Search Windows, Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

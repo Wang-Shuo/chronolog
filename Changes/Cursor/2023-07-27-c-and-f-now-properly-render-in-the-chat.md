@@ -4,20 +4,20 @@ date: '2023-07-27'
 description: 'Cursor · 2023-07-27 · Interface Experience: C# and F# now properly render
   in the chat'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 199
+  lag_days: 1565
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6881a665656e44dfb765dd2bb3ac830c4bba99e8e60c750242f728acf85df92f
+machine_hash: 0432cc71d5fe88fe01647d04c30bc1f232e150a0e6572d96b4dc0cb0af63a845
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: C# and F# now properly render in the chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-03-also-you-can-now-use-up-down-arrows-for-history-in-chat|(Also,
-  you can now use up/down arrows for history in chat.)]]'
 - '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
   ergonomics]]'
 - '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
   tooltip blocks less code]]'
+- '[[Changes/Descript/2023-07-24-eyedropper|Eyedropper]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]]
+- Earlier: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-eyedropper|Eyedropper]]
 - Later: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More seamless updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

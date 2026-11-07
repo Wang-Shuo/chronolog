@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-04 · Enterprise and Administration: Starting t
   for ChatGPT Enterprise and Education users, long pastes are handled differently
   in ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2394
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6861c6e20c6f6da4a10140e95d82f51e1f466919669825f1e7a8d5979351da94
+machine_hash: e01f46dad6a32ea3ec0e8b9d47f9e0ffccec53dae5477253d8800e19093725f1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]
-- Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email invites on paid plans]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-claude-fable-5-is-in-the-model-picker|Claude Fable 5 is in the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

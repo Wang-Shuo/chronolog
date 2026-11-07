@@ -5,20 +5,20 @@ description: 'Suno · 2026-09-02 · Reliability and Performance: We''ve updated 
   chat bar performance, and the latest improvements make it aware of bpm, so now it
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1357
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 11a09045b41d19c18b2b027bc9c0b5b020421c83bef4f4935452a7e1068edb01
+machine_hash: b88d0a18c64c71af15653f44405adf93bcfc5a5c0c24bc527157dfa3c1a91d26
 product: suno
 product_name: Suno
 record:
@@ -46,8 +46,8 @@ record:
   title: Chat improvements
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2
+  Reliability and Performance changes in Qoder 0.1.3]]'
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 - '[[Changes/Suno/2026-09-02-overall-responsiveness|Overall responsiveness]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

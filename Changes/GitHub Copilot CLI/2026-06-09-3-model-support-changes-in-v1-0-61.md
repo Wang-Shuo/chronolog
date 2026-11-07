@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be3579e27c2c11b779717038aa0edddee86bf62eaf5d0f63bd37922cae630ba2
+machine_hash: 6f86a20d323cbb7e4f5bc60146f74a4a85431ad0b2c6d62f46ac51ac037155c5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Model Support
 
 - Earlier: 2026-06-09 · Cline · [[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes in v3.89.0]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans only]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-pass-through-xhigh-reasoning-effort-for-openai-compatible-chat-completions-reque|Pass through xhigh reasoning effort for OpenAI-compatible chat completions requests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

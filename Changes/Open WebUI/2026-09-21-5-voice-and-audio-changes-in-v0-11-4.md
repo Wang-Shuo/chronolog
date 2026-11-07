@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-09-21 · Voice and Audio: 5 changes in v0.11.4 
   **Partial settings permissions.** An account barred from changing the interface
   settings…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 2996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c52df68e85265a4c3cf36299abbe23ab9066be41b14e7fbf4555922bb54c430
+machine_hash: ea75ed84a7dd5b734ce33608d2b1dd2c689dae00bd3a06723c81575d71aaf188
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,8 +64,8 @@ record:
   title: 5 Voice and Audio changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
-  and Audio changes in rust-v0.155.0]]'
+- '[[Changes/Qoder/2026-09-18-voice-input-press-and-hold-the-mouse-button-in-the-chat-input-box-to-dictate-rel|Voice
+  input: Press and hold the mouse button in the chat input box to dictate]]'
 - '[[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice
   and Audio changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
@@ -131,7 +131,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

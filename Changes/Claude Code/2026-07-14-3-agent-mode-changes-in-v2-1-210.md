@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5333906247a67237931acdad988105f761a1fe9eac2a0df9fae757327710932b
+machine_hash: 78b780b5722970ec0f9a9388fd581311bc2ef389d90cf90f81dbb4cd9041899e
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]]
-- Later: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See images, videos, and files the agent works with in chat]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-4-agent-mode-changes-in-kimi-code-0-24-0|4 Agent Mode changes in Kimi Code 0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

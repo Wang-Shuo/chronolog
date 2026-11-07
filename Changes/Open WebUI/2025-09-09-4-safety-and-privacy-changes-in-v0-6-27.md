@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-09-09 · Safety and Privacy: 4 changes in v0.6.
   \U0001F512 Conditional Permission Hardening for OpenShift Deployments: Added a build
   argument to…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 877
+  lag_days: 1869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d5b3bd6d65d7c159c0fa2227536a7aaee56a6ed9c3fd81d683f4ee3a7f379f8
+machine_hash: 50dcd3413e37745d7f121e861d47a170f2638a7a99a642b92da425dbb20f489a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.27
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

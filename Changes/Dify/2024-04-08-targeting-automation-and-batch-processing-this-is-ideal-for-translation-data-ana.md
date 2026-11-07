@@ -4,20 +4,20 @@ date: '2024-04-08'
 description: 'Dify · 2024-04-08 · Automation and Scheduling: Targeting Automation
   and Batch Processing: This is ideal for translation, data analysis, content generation…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 97
+  lag_days: 1664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c70d4dd5dea966e3e7beeb6ad9f08018c90d1e3762dcbfa2c98b8c9175a9be61
+machine_hash: 4aa10d840ad10b479d2b0129f63da5fb00d6dc989e082a307a082c00b099d901
 product: dify
 product_name: Dify
 record:
@@ -53,10 +53,10 @@ record:
   title: Targeting Automation and Batch Processing
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
-  schedule timedelta]]'
 - '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
   per the planned schedule, these deprecated envs are being removed]]'
+- '[[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database
+  buttons]]'
 - '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
   @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
-- Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|🔧 Pipelines Support]]
+- Later: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications for projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

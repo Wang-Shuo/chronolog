@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'OpenCode · 2026-10-30 · Mobile and Desktop: 14 changes in v2.2.3 — Desktop
   Added a Desktop spellcheck toggle under Settings → General and system-language…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1326
+  lag_days: 2910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 791a032163a8f78bbd1727b2f2611eb55ba16616cbce7a2999c22ee58d712d41
+machine_hash: 45d3f86f43393898f47d92860ffd5700dc59eced9b5add169db884e312064228
 product: opencode
 product_name: OpenCode
 record:
@@ -154,7 +154,7 @@ Source: https://opencode.ai/changelog/v2.2.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

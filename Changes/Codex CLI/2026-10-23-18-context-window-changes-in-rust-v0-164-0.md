@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Codex CLI · 2026-10-23 · Context Window: 18 changes in 0.164.0 — Failed
   compaction no longer leaves partial summaries in conversation history, and background…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2592
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcf081dd064f1af0b562a48959f9154a39ca01b7a70f69bffa1ddfc47e2e7990
+machine_hash: cac63d4382c834e2ce8b1311583456fd39c63a5a1dc82a02c26d5123888454bf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -175,7 +175,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-12-27 · Voice and Audio: **\U0001F399️ Text-
   Error**: Fixed the missing argument in Eleven Labs’ 'get_available_voices()', restoring
   full…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 536
+  lag_days: 2363
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47a6e52f5a81f9c19b3841425f37c290ac8e0b53ffc5f972410d6fd876269e16
+machine_hash: df7ca115a1e6c1016eed2859ae40ae8a9c4be388e5b47630cf7bed4dd169ce8b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F399️ Text-to-Speech Error**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today
-  we started rolling out two updates to voice mode in ChatGPT]]'
 - '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
   now lets you edit the transcribed text before sending]]'
 - '[[Changes/Dify/2024-12-16-now-video-audio-and-pdf-file-previews-are-accessible-right-within-the-chat-simpl|Now,
   video, audio, and PDF file previews are accessible right within the chat…]]'
+- '[[Changes/Synthesia/2024-12-17-ten-small-ui-updates-that-make-everyday-editing-smoother-from-a-more-precise-col|10
+  improvements and fixes based on your feedback]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-27-v0-5-2-github-192450026-62830850|open-webui-2024-12-27-v0-5-2-github-192450026-62830850]]'
 source_type: github_releases
 theme: voice
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-now-video-audio-and-pdf-file-previews-are-accessible-right-within-the-chat-simpl|Now, video, audio, and PDF file previews are accessible right within the chat…]]
+- Earlier: 2024-12-17 · Synthesia · [[Changes/Synthesia/2024-12-17-ten-small-ui-updates-that-make-everyday-editing-smoother-from-a-more-precise-col|10 improvements and fixes based on your feedback]]
 - Later: 2024-12-27 · Replit · [[Changes/Replit/2024-12-27-build-notifications|Build notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

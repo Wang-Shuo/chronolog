@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8ac1558db90c433c4d2f3d4748a830fe1156e0227d819a5e859ac223fd5c852
+machine_hash: 07e13b0ef075b83480046fb25b2d595d4a0a4e054dd16a3fc869409e38037bf5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Model Support
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support changes in v1.15.12]]
-- Later: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
+- Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-4-model-support-changes-in-kimi-code-0-6-0|4 Model Support changes in Kimi Code 0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

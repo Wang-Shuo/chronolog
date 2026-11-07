@@ -5,20 +5,20 @@ description: 'Replit · 2025-12-05 · Reliability and Performance: Connect third
   services faster with improved connector support. Add most API key-based services
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 2573
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 78dcc11b87717f6bd7c647a71ac29dc7473ee2583a0bb98755a866ec39eda363
+machine_hash: 88d32adb3a2a137b706ef1e167d2eb3b108de3452c79f82a94a1515f2a98df34
 product: replit
 product_name: Replit
 record:
@@ -49,8 +49,8 @@ record:
   title: Connect third-party services faster
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
-  Reliability and Performance changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-04-get-a-creative-plan-before-underlord-starts-editing|Get
+  a creative plan before Underlord starts editing]]'
 - '[[Changes/Ollama/2025-12-04-qwen3-next-https-ollama-com-library-qwen3-next-the-first-installment-in-the-qwen|Qwen3-Next((source
   link) The first installment…]]'
 - '[[Changes/Ollama/2025-12-04-flash-attention-is-now-enabled-by-default-for-vision-models-such-as-mistral-3-ge|Flash
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

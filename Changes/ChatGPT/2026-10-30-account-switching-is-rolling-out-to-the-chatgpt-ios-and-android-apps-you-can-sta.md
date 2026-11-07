@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69dbcb4418be0406fd5c2c31d1efccefc9060fe154ea21e91c951b2fd9c36454
+machine_hash: 3df1e685b2e839a67ca7c27c11cd9dc22db7d86e506b97e6c22dca5cb338d785
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Account switching on iOS and Android
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
-  Memory and Personalization changes in v2.2.0]]'
+- '[[Changes/Kimi Code/2026-10-28-web-sessions-now-unload-from-memory-after-30-minutes-idle-and-resume-transparent|Web
+  sessions now unload from memory after 30 minutes idle and resume transparently…]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
 - '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2

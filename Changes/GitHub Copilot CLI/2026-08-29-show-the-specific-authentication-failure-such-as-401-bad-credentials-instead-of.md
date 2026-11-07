@@ -5,20 +5,21 @@ description: 'GitHub Copilot CLI · 2026-08-29 · Account and Access: Show the s
   authentication failure (such as 401 Bad credentials) instead of only the /login
   prompt'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab2833b25bc244565cfecd2168df56c36c08e69ce29b2f866b6f5ef9271e513e
+machine_hash: 5f87fa34747387155fdcef9e1e3cc40c64c44d5c233303cf1447628e2960e9e5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +44,10 @@ record:
   title: Show the specific authentication failure (such as 401 Bad credentials) instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
-  analytics to no longer turn off before sign-in solely because managed…]]'
 - '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
   and Access changes in v1.18.25 + 1]]'
+- '[[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved
+  Knowledge Center authentication synchronization]]'
 - '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74|github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74]]'
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

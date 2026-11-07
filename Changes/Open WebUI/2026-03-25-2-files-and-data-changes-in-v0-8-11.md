@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-25 · Files and Data: 2 changes in v0.8.11 �
   **Document loader fallbacks.** Excel and PowerPoint files can now be processed even
   when the…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 2380
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f20fa950cead04a1ba45996e214802fe4522c1504298242f148475d7c4a5ec3
+machine_hash: 32557505c82804440b969d9e6ecb31dd0cad4b6f8aff1a25955a9928662f3417
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

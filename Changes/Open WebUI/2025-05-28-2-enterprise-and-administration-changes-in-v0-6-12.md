@@ -4,20 +4,20 @@ date: '2025-05-28'
 description: "Open WebUI · 2025-05-28 · Enterprise and Administration: 2 changes in
   v0.6.12 — \U0001F4F1 **Improved Mobile Styling for Workspace Capabilities**: Capabilities…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 754
+  lag_days: 1961
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 960320215b8a01c796a81fee00acbc12569372797c9e151332524365d6c2740c
+machine_hash: 123ff5289bcb49d1a8d5ed7d74790128fa3e40878aba1542f4de5194e846dc27
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.12
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

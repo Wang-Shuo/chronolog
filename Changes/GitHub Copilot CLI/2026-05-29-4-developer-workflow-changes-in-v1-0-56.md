@@ -4,19 +4,20 @@ date: '2026-05-29'
 description: 'GitHub Copilot CLI · 2026-05-29 · Developer Workflow: 4 changes in 1.0.56
   — ThemePicker side-by-side layout fits within a 120-column terminal without wrapping'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b49052177c5d7194fa0db6d6500f91f363da6bed30070758554198cf59832bd
+machine_hash: ae631f12b1e73e293ebc24c9755450833f248141a350c9aaa95449db1334f439
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +50,8 @@ record:
   title: 4 Developer Workflow changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
-  Developer Workflow changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2
+  Developer Workflow changes in Kimi Code 0.5.0]]'
 - '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
   Workflow changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
@@ -98,13 +99,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
-- Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal Wrapped inline tool rows now stay aligned, and failed inline tools can…]]
+- Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support querying sessions by sessionId or workDir in listSessions, and show…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

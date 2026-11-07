@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Lovable · 2026-07-08 · Interface Experience: You can now ask Lovable
   in chat to [resize your project''s Lovable Cloud compute…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1276
+  lag_days: 2642
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 08301e55577929546e0a2fadb06d4836030fe31c079714812149467da4409fc5
+machine_hash: 57e709a0961a7f1f2c5b1e731d57baf5cf9ea08d8b1e6b00d3f55a2e19c68730
 product: lovable
 product_name: Lovable
 record:
@@ -63,10 +63,10 @@ record:
   title: Resize your Cloud instance from chat
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
-  model details tooltips in the model picker]]'
-- '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
-  Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/HeyGen/2026-07-08-colors-primary-secondary-accent-and-tertiary-colors-are-automatically-detected-f|Colors
+  — primary, secondary, accent, and tertiary colors are automatically detected…]]'
+- '[[Changes/Kimi Code/2026-07-08-web-show-session-skills-in-the-slash-menu-as-skill-so-they-are-distinguishable-f|web:
+  Show session skills in the slash menu as /skill: so they are distinguishable…]]'
 - '[[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'
 source_type: lovable_changelog
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3 Interface Experience changes in Grouped tool approvals, richer MCP…]]
+- Earlier: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-web-show-session-skills-in-the-slash-menu-as-skill-so-they-are-distinguishable-f|web: Show session skills in the slash menu as /skill: so they are distinguishable…]]
 - Later: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface Experience changes in v4.0.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

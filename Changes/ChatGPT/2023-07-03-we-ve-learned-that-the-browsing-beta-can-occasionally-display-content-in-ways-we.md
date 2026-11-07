@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-07-03 · Search and Browsing: We''ve learned that 
   browsing beta can occasionally display content in ways we don''t want, e.g. if a
   user…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 102
+  lag_days: 1131
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6e7694cb474cfe37251075946304ea6b0bc95b261c4a2257dc577536fd5f09a
+machine_hash: 156f38be36fb2c1657a05990e1bb262d18fab18a5e7979d77f7c2631a4a77e5b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,7 @@ record:
   title: Browsing is temporarily disabled
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-  An experimental model that knows when and how to browse the internet]]'
+- '[[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]'
 - '[[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web
   browsing: Try a new version of ChatGPT that knows when and how to browse…]]'
 - '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
-- Later: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
+- Later: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-search-we-ve-updated-the-design-for-search-https-help-descript-com-hc-en-us-arti|Search: We’ve updated the design…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

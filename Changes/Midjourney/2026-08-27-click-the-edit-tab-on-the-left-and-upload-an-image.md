@@ -4,20 +4,19 @@ date: '2026-08-27'
 description: 'Midjourney · 2026-08-27 · Editor Experience: Click the ‘edit’ tab on
   the left and upload an image'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3f6bebb268104754a368aa2806ab2f316e54abdad52ce88a2ff9e3065f1adc2
+machine_hash: 34377909ef50aded003dbfee3c298c655782158fb668dbaedfe2122e9c9eb4f1
 product: midjourney
 product_name: Midjourney
 record:
@@ -41,8 +40,8 @@ record:
   title: Click the ‘edit’ tab on the left and upload an image
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
-  copilot app to open the GitHub Copilot app in the current directory]]'
+- '[[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web:
+  Add a flat/by-workspace tab to the mobile session list]]'
 - '[[Changes/Midjourney/2026-08-27-click-edit-in-the-lower-right-in-the-lightbox|Click
   ‘edit’ in the lower right in the lightbox]]'
 - '[[Changes/Midjourney/2026-08-27-type-edit-url-on-discord|Type --edit url... on
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-add-a-flat-by-workspace-tab-to-the-mobile-session-list|web: Add a flat/by-workspace tab to the mobile session list]]
 - Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced with Google Sheets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

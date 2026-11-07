@@ -5,19 +5,20 @@ description: 'v0 · 2026-08-14 · Collaboration: 4 changes in A redesigned sideb
   a richer deployment popover, and broader Usage and Activity access — Team members
   who are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1178
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63dc98b30e66badab1b0327a2512ae677ef79d30fce53f931b7b4f1749f0da13
+machine_hash: fad9e5d53ca4560b08a6c33fbce6e73bc416d330d7a271e2ca2df9d6d103a119
 product: v0
 product_name: v0
 record:
@@ -110,7 +111,7 @@ Source: https://v0.app/changelog#2026-08-14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

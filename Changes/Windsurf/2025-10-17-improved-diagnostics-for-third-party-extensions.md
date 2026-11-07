@@ -4,20 +4,20 @@ date: '2025-10-17'
 description: 'Windsurf · 2025-10-17 · Apps and Integrations: Improved diagnostics
   for third party extensions.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 2499
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 823fdc9de01583f735e90d21e815c65e326b429186bbe947c593ed8e868a3533
+machine_hash: 62595b6b830f86c31c4e5569290008a345f91f2f52aa97421e058ef38a6d479a
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved diagnostics for third party extensions
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
-  Integrations changes in v3.33.0]]'
+- '[[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora
+  2 and Veo 3.1 in Synthesia: Prompt anything]]'
 - '[[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign
   for React apps]]'
 - '[[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

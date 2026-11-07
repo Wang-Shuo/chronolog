@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'OpenCode · 2026-11-06 · Mobile and Desktop: On phones and tablets, composer
   actions now sit in a touch dock above the keyboard with larger buttons.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f9f9120f38ce6821643f7f51f05dbc9396682cc1bc50a0cb75ad4949da43a7f6
+machine_hash: 7cfb257a4921b3b75ee82449fe5111741a2d4515ddfe838c79fd1767cc079245
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Mobile Composer Dock
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile
-  and Desktop changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2
   Mobile and Desktop changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-3-mobile-and-desktop-changes-in-release-roundup-november-6-2026|3
+  Mobile and Desktop changes in Release roundup—November 6, 2026]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-8-mobile-and-desktop-changes-in-v1-0-106|8
   Mobile and Desktop changes in v1.0.106]]'
 source_release: '[[Releases/OpenCode/opencode-2026-11-06-v2-2-6-b1ac172e|opencode-2026-11-06-v2-2-6-b1ac172e]]'
@@ -88,12 +88,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-8-mobile-and-desktop-changes-in-v1-0-106|8 Mobile and Desktop changes in v1.0.106]]
+- Later: 2026-11-06 · Qoder · [[Changes/Qoder/2026-11-06-remote-control-syncs-task-wide-pin-and-unpin-actions-in-both-directions-between|Remote Control: Syncs task-wide pin and unpin actions in both directions between…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

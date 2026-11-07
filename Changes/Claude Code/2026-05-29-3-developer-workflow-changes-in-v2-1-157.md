@@ -4,19 +4,20 @@ date: '2026-05-29'
 description: 'Claude Code · 2026-05-29 · Developer Workflow: 3 changes in v2.1.157
   — `EnterWorktree` can now switch between Claude-managed worktrees mid-session'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b91b99a56772ce11b9729157fb27691e21eb00b99f019e42f220ed96154bd33
+machine_hash: 92330b756954b3cf6540d152f4761a05daa0458352c047cb7ee70ce0c0300112
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +46,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex
-  doctor now reports richer environment, Git, terminal, app-server, and thread…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
   Developer Workflow changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-2-developer-workflow-changes-in-kimi-code-0-5-0|2
+  Developer Workflow changes in Kimi Code 0.5.0]]'
 - '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
   Workflow changes in v1.15.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
@@ -98,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

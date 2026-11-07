@@ -4,20 +4,20 @@ date: '2025-03-07'
 description: 'OpenHands · 2025-03-07 · Context Window: 2 changes in 0.28.0 - 2025-03-07
   — Update context window exceeded detection by @csmith49 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 673
+  lag_days: 1997
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 658a93c8d529eb104462084240cc3d9dcde063bbf219142f25c5ecb43320642e
+machine_hash: d82e45cc4487a35cfb66544a287f68c81b9db16475a2ad2a6deb66746bc7f155
 product: openhands
 product_name: OpenHands
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.28.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

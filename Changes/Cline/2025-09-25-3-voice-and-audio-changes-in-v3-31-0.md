@@ -4,20 +4,20 @@ date: '2025-09-25'
 description: 'Cline · 2025-09-25 · Voice and Audio: 3 changes in v3.31.0 — Adding
   voice mode to Cline by @arafatkatze in https://github.com/cline/cline/pull/6208'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7c19b2b6e73a61738f9d5cf2153b0eb8465d595169e1c2b0cfa9bd5084313bd
+machine_hash: fb64c30ea6d8cc93b781fe67954c8853d6ae598fa23873ab45911662db2aab05
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Voice and Audio changes in v3.31.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-new-endpoints|New Endpoints]]'
-- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
-- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
-  audio]]'
+- '[[Changes/Descript/2025-09-24-what-does-lossless-mean|What does lossless mean?]]'
+- '[[Changes/Descript/2025-09-24-enhanced-file-recovery-for-all-descript-recorders|Enhanced
+  file recovery for all Descript recorders]]'
+- '[[Changes/Descript/2025-09-24-lossless-wav-recording|Lossless WAV recording]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: voice
@@ -85,14 +85,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive audio]]
+- Earlier: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-lossless-wav-recording|Lossless WAV recording]]
 - Later: 2025-09-25 · Suno · [[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create infinite stem variations → Instantly generate vocals, drums, synths, and more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

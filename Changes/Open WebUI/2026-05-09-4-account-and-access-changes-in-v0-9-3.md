@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-05-09 · Account and Access: 4 changes in v0.9.
   \U0001F6C2 **MCP OAuth server URL setting.** Static OAuth tool server setups can
   now define a…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2111
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: faf21b7295341a9f49c7dd2e4025660bb2451cdcad8591e30f7a79add586867e
+machine_hash: 07403db167b7346b6a2049f1d5ff372bdadec5a82027698d0213fd3bb86bc49b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -123,7 +124,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

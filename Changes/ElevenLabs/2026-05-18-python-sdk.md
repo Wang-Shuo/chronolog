@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'ElevenLabs · 2026-05-18 · Voice and Audio: [v2.48.0](https://github.com/elevenlabs/elevenlabs-python/releases/tag/v2.48.0)
   - Regenerated the SDK for the May…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8907214b38a1106c635952e805c86f114d9afc6df3f215448ac7fb4365f3e0b1
+machine_hash: ff2fc4f0bb249c001f6b1e053686e31dc1ccc4ece1d54268f0ab517524877651
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,7 +65,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]'
+- '[[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved
+  transcription with ElevenLabs Scribe v2]]'
 - '[[Changes/ElevenLabs/2026-05-18-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-05-18-voice-isolator|Voice Isolator]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-18-2026-05-18-640aaf83|elevenlabs-2026-05-18-2026-05-18-640aaf83]]'
@@ -102,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
 - Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

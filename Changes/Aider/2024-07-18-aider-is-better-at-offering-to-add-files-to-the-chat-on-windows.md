@@ -4,20 +4,20 @@ date: '2024-07-18'
 description: 'Aider · 2024-07-18 · Mobile and Desktop: Aider is better at offering
   to add files to the chat on Windows.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 492
+  lag_days: 2076
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87b618276fe0fc66a48c5f2ef556ee09b59baccce5a334c74a88e035731d1fac
+machine_hash: 27103ed4fb27fbc6bc3d015906782f8ac246ad5724c6be84571310f4d5283de6
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: Aider is better at offering to add files to the chat on Windows
   type: change
 related_changes:
-- '[[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to
-  present Suno on iOS]]'
-- '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
-  .sh are LF-style, so that they can be used directly by Docker for Windows]]'
+- '[[Changes/Descript/2024-07-09-desktop-preview|Desktop Preview]]'
 - "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
   Font Change for Windows]]"
+- '[[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar
+  on Android]]'
 source_release: '[[Releases/Aider/aider-2024-07-18-v0-45-0-github-166117451-6702cfa2|aider-2024-07-18-v0-45-0-github-166117451-6702cfa2]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|🔄 Font Change for Windows]]
-- Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama on Windows will now show better error messages if required files are missing]]
+- Earlier: 2024-07-17 · Notion · [[Changes/Notion/2024-07-17-use-notion-calendar-on-android|Use Notion Calendar on Android]]
+- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-notion-ai-global-shortcut|Notion AI global shortcut]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

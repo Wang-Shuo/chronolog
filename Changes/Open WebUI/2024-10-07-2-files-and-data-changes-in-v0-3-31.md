@@ -4,20 +4,20 @@ date: '2024-10-07'
 description: "Open WebUI · 2024-10-07 · Files and Data: 2 changes in v0.3.31 — **\U0001F4C1
   Full Document Retrieval Mode**: Toggle between full document retrieval or traditional…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 501
+  lag_days: 1846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f168144135744bd00cb26d8f98ae740b0faea6ceaa21e45378ff717286dcad3
+machine_hash: 3e212d917bbd908a10b5d9b0f15a84ae45af943ceb32beca8c48606e84a09bb6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Files and Data changes in v0.3.31
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat:
-  return page number of pdf documents upon retrieval]]'
-- "[[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|\U0001F4C4
-  Enhanced PDF Citations]]"
+- '[[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar
+  under the Canvas]]'
+- '[[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]'
 - '[[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected
   a linking error in help documents (@hjlarry in ♯8508)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2|open-webui-2024-10-07-v0-3-31-github-178593547-fa0ff4e2]]'
@@ -97,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.31
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

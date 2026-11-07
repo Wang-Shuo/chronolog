@@ -3,20 +3,20 @@ card_id: ollama-2026-05-14-87c10f
 date: '2026-05-14'
 description: 'Ollama · 2026-05-14 · Multimodal Input: **kimi-k2.6** (with vision support)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a40669e5ffbd01cb994cdbf91e0e9d36fd55d1bb0ef7c11aa4e8dfd5991b6149
+machine_hash: f22cb54e8c37093800494d6569228032a8b209a345bfb2e9a5acd273b93c139b
 product: ollama
 product_name: Ollama
 record:
@@ -41,8 +41,8 @@ record:
   title: '**kimi-k2.6** (with vision support)'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
-  image paste from Windows clipboard now works via a PowerShell fallback…]]'
+- '[[Changes/HeyGen/2026-05-13-whether-you-re-shipping-a-product-demo-a-tutorial-or-a-feature-walkthrough-you-c|Whether
+  you''re shipping a product demo, a tutorial, or a feature walkthrough, you…]]'
 - '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
   is not yet supported]]'
 - '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-05-13 · Runway · [[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway Agent]]
-- Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini Omni is your creative partner for video creation]]
+- Later: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-the-thing-that-makes-a-video-feel-real-isn-t-just-the-camera-or-the-lighting-it|The thing that makes a video feel real isn't just the camera or the lighting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

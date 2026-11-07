@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-08-07 · Interface Experience: 6 changes in 0.14
   — Correct rendering and cursor positioning for Japanese characters, emoji, hyperlinks,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f6e6f0619ddb021c99ed9d4b1c0078f44c6f5a6f3ad435f7016f7b89b81c25e
+machine_hash: 11ebcdba33ab98a3c1d5104ae55413f32e04dc782fe2c19adcf534a5cfec2a41
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Interface Experience changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
-  Added Focus view]]'
-- '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
-  Experience changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web:
+  Pin sessions to the top of the sidebar]]'
+- '[[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web:
+  Add a flat view to the sidebar session list]]'
 - '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
   fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

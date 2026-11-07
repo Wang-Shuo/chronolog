@@ -4,20 +4,19 @@ date: '2026-02-14'
 description: 'GitHub Copilot CLI · 2026-02-14 · Editor Experience: 3 changes in 0.0.410
   — Show IDE file selection indicator in the status bar when connected to an IDE'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2652
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3933b554c91fdce87170416a81bd142964861cb9dcf65d6fffbd942dbd63ecaf
+machine_hash: a691e093fbdf1d3432b770cb1da5ac8577c08de1bb0c876d3cb28dc49f9bbdaa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.410
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-10-27'
 description: 'OpenClaw · 2026-10-27 · Editor Experience: The Control UI now reconnects
   when a visible tab has lost contact but still shows Connected.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d111ce8e1f56ce5b88a941ae36dac763177363b79ce66a1215b1462dadce388
+machine_hash: a713d0d189c68bf8c82167dc8e9bc241437aed2c986ab16ed0d6a54eeebcee88
 product: openclaw
 product_name: OpenClaw
 record:
@@ -43,12 +42,12 @@ record:
     shows…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
-  all files in the Files tab]]'
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
 - '[[Changes/Google Antigravity/2026-10-27-2-editor-experience-changes-in-hub-v2-28-0-built-in-browser|2
   Editor Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-web-link-as-a-reference-in-copilot-notebooks-web-microsoft-365-copilot-app|Web
+  Link as a Reference in Copilot Notebooks Web (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-rich-entity-representation-for-connectors-in-search-results-web-microsoft-365-co|Rich
+  entity representation for connectors in Search results…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: editor-experience
@@ -91,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-2-editor-experience-changes-in-hub-v2-28-0-built-in-browser|2 Editor Experience changes in HUB v2.28.0 — Built-in browser…]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-rich-entity-representation-for-connectors-in-search-results-web-microsoft-365-co|Rich entity representation for connectors in Search results…]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience changes in v2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-15 · Pricing Model: Added projected contex
   (per-turn and per-invocation token estimates) to the `/plugin` marketplace browse
   pane'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8f6aa2ab7afba10287ffc088ef7be9008d420b26a6e613cc32ce0463d101c2a5
+machine_hash: 9d38f612db438caba8cfff9b7254a0b87e61e19799dd106b0384f13e7ce5f812
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Added projected context cost (per-turn and per-invocation token estimates)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
-  Max subscribers see the correct models available to their subscription tier]]'
+- '[[Changes/Notion/2026-05-13-trigger-notion-workflows-from-anywhere-beta|Trigger
+  Notion workflows from anywhere (Beta)]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
   picker displays actual token prices instead of dot indicators for token-based…]]'
 - '[[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

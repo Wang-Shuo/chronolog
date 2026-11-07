@@ -4,20 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Reliability and Performance: Native Compaction
   Support: added first-class support for Compaction, improving performance across…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2557
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fcb402bbd4bdcc98219c8cb838558a5a5f4fe5f018c71ef7ff314f31dc530f14
+machine_hash: 4b9ad56fff10e44b198254dfb5119f7627da15a5cbb5c38938f88078497b9c4a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Native Compaction Support
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
-  improve performance and readability of todo component]]'
-- '[[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved
-  rendering performance in Ollama''s new app, especially when rendering code]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
   performance]]'
+- '[[Changes/Notion/2025-11-17-finally-pages-are-loading-15-faster-it-s-a-strong-start-to-3-0|Finally,
+  pages are loading 15% faster]]'
+- '[[Changes/Notion/2025-11-17-less-load-time-more-work-time|Less load time, more
+  work time]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C performance]]
+- Earlier: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-less-load-time-more-work-time|Less load time, more work time]]
 - Later: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3 Reliability and Performance changes in v0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

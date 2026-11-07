@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Dify · 2026-02-11 · Pricing Model: To support the stateful pause/resume
   mechanism required by HITL and provide event‑subscription APIs, we refactored the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: fbfb9c3632351ab458227f0c7f1ed0560d2e907092847be05ffe9b12293b7145
+machine_hash: adc3ad54980cf22927912dcfd8c8930a6f4acddbc27b0fd998b5c19c7549e562
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,10 @@ record:
   title: To support the stateful pause/resume mechanism required by HITL and provide…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add
-  credits tooltip @pakrym-oai]]'
-- '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
-  ChatGPT subscription]]'
+- '[[Changes/HeyGen/2026-02-06-try-it-now|Try it now]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
   warning when user has no Copilot subscription]]'
+- '[[Changes/Descript/2026-02-10-accounts-billing|Accounts & Billing]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'
 source_type: github_releases
 theme: pricing-model
@@ -92,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display warning when user has no Copilot subscription]]
-- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing): implement G1 AI credits overage flow with billing telemetry]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-accounts-billing|Accounts & Billing]]
+- Later: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations no longer require a separate API plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'OpenCode · 2026-07-06 · Mobile and Desktop: 14 changes in v1.17.14 —
   Desktop Show draft server status in the title bar.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67fc9584cd78fb9fcbc50407915539861f1a4ef3ae81d0e3cb22559cc5e5b99d
+machine_hash: 76c6f8f422b8f1ad39c8c3720843578195d255146f191510554cdcb397faf23d
 product: opencode
 product_name: OpenCode
 record:
@@ -68,9 +68,9 @@ record:
   title: 14 Mobile and Desktop changes in v1.17.14
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
-  Desktop App]]'
 - '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3
+  Mobile and Desktop changes in Kimi Code 0.23.0]]'
 - '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
   app is now on Windows]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-06-v1-17-14-6f861196|opencode-2026-07-06-v1-17-14-6f861196]]'
@@ -142,7 +142,7 @@ Source: https://opencode.ai/changelog/v1.17.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

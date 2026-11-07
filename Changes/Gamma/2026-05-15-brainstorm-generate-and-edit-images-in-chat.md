@@ -5,20 +5,20 @@ description: 'Gamma · 2026-05-15 · Image Generation: Imagine just got a whole 
   smarter. Chat your way from blank-page uncertainty to a finished visual without
   ever…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 796
+  lag_days: 1054
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c58959d9a8e99e0f869e5edd2eafe016540e46d387b84e498f6e2862b7fe45f0
+machine_hash: d354fc9c93c16d4e9b8bd529a39799884f6911d78ab3b05c5a3e11addbe78b90
 product: gamma
 product_name: Gamma
 record:
@@ -67,12 +67,12 @@ record:
   title: Brainstorm, generate, and edit images in chat
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443
-  Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]'
 - '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner
   image generation layout in the MLX runner]]'
 - '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
   changes in v0.9.5]]'
+- '[[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image
+  generation]]'
 source_release: '[[Releases/Gamma/gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948|gamma-2026-05-15-6a07a2d3b4c145e648b34b1b-8b82c948]]'
 source_type: gamma_changelog
 theme: image-generation
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation changes in v0.9.5]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-gpt-image-2-in-image-generation|GPT Image 2 in image generation]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

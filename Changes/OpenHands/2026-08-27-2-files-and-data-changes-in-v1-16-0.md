@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Files and Data: 2 changes in v1.16.0 — docs:
   document OpenHands repository boundaries by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 554efa144eacba273cba71f257af9b452db8dd721ad0f86b784cdfcd8f59df18
+machine_hash: 4abbda1f57d9a2ec6d36d8021c197eac94ce4870889dcb1b6c1a953a53eb7a49
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Files and Data changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added
-  support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]'
+- '[[Changes/Z.ai API/2026-08-26-beyond-coding-supports-office-document-and-financial-research-workflows-autonomo|Beyond
+  coding: Supports office document and financial research workflows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
   windows open and refresh in the background instead of stealing focus…]]'
 - '[[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

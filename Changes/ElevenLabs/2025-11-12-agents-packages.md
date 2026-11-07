@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 968ba11af7fad06fa5c97e08a8f5f5cc74dae369246e715f582c1ed0c030616a
+machine_hash: af19b8cf23effa59197ca78bc79cf01139b23aa4194972bb7fbbe4a82521515e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -132,7 +132,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown in planning flow]]
+- Earlier: 2025-11-10 · Notion · [[Changes/Notion/2025-11-10-notion-agent-can-now-read-csvs-to-find-insights-in-seconds-drop-in-any-csv-up-to|Agent now reads CSVs]]
 - Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes in v0.14.0]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Dify · 2026-03-17 · Context Window: 9 changes in v1.13.1 — Added edge
   context menu support in workflow canvas, including direct edge deletion.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1048
+  lag_days: 2372
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcbb756143e14df79f9d922e6c697286aa31b69b532fe0ab9b9b144862df4872
+machine_hash: 513ca67d2f28daf26faa50297cc5792ff8460350035ff4e5a28774212a2e5114
 product: dify
 product_name: Dify
 record:
@@ -136,7 +136,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

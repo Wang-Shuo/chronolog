@@ -1,0 +1,91 @@
+---
+card_id: notion-2025-07-22-8fa4df
+date: '2025-07-22'
+description: 'Notion · 2025-07-22 · Mobile and Desktop: On web or desktop, go to Settings
+  → Preferences → Language'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2445
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 4c498a65ed6bfd6a61c31786dbb314e831bdb04750e3ba83da7deca3f6f5c237
+product: notion
+product_name: Notion
+record:
+  card_id: notion-2025-07-22-8fa4df
+  comparison: ''
+  date: '2025-07-22'
+  description: 'Notion — Notion in Indonesian, Thai, and Vietnamese: On web or desktop,
+    go to Settings → Preferences → Language'
+  evidence:
+  - quote: On web or desktop, go to Settings → Preferences → Language
+    source_release: https://www.notion.com/releases/2025-07-22
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: notion
+  product_name: Notion
+  slug: on-web-or-desktop-go-to-settings-preferences-language
+  source_release: notion-2025-07-22-https-www-notion-com-releases-2025-07-22-9be1a7a6
+  source_type: notion_changelog
+  theme: mobile-desktop
+  title: On web or desktop, go to Settings → Preferences → Language
+  type: change
+related_changes:
+- '[[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama''s
+  new app is available for macOS and Windows]]'
+- '[[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push
+  notifications for usage alerts]]'
+- '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
+  (source link) should make it so that, on Windows…]]'
+source_release: '[[Releases/Notion/notion-2025-07-22-https-www-notion-com-releases-2025-07-22-9be1a7a6|notion-2025-07-22-https-www-notion-com-releases-2025-07-22-9be1a7a6]]'
+source_type: notion_changelog
+theme: mobile-desktop
+title: On web or desktop, go to Settings → Preferences → Language
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# On web or desktop, go to Settings → Preferences → Language
+
+**Notion** · 2025-07-22 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://www.notion.com/releases/2025-07-22) · from [[Releases/Notion/notion-2025-07-22-https-www-notion-com-releases-2025-07-22-9be1a7a6|Notion in Indonesian, Thai, and Vietnamese]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> On web or desktop, go to Settings → Preferences → Language
+>
+> Source: https://www.notion.com/releases/2025-07-22
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you can set your language]] · Accessibility and Localization
+- [[Changes/Notion/2025-07-22-on-mobile-change-your-device-language-to-indonesian-thai-or-vietnamese-in-your-s|On mobile, change your device language to Indonesian, Thai, or Vietnamese…]] · Mobile and Desktop
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though (source link) should make it so that, on Windows…]]
+- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile and Desktop changes in v0.1.14]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20notion-2025-07-22-8fa4df&body=Card%3A%20Changes%2FNotion%2F2025-07-22-on-web-or-desktop-go-to-settings-preferences-language.md%0ACard%20ID%3A%20notion-2025-07-22-8fa4df%0ASource%3A%20https%3A%2F%2Fwww.notion.com%2Freleases%2F2025-07-22%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

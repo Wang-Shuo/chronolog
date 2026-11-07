@@ -4,20 +4,19 @@ date: '2023-09-05'
 description: 'Cursor · 2023-09-05 · Editor Experience: Cmd-K will no longer output
   backticks if you do @file.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 175
+  lag_days: 1759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44b4ffe792d23d2723bb6f707d8373d6abf4e0769b9185aa5e3d9d5f43048cae
+machine_hash: b51257d3d60718060e2bb3785f1df36cb8fcfbc7d5285529f4d4989101148902
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +40,11 @@ record:
   title: Cmd-K will no longer output backticks if you do @file
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only
-  git commit dirty files that GPT tries…]]'
 - '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks
   and code symbols in "with codebase" responses will now often be clickable]]'
 - '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply
   to Cmd-K outputs, making it much easier to have the model revise its work]]'
+- '[[Changes/Descript/2023-08-22-other-tweaks-fixes|Other tweaks & fixes]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3|cursor-2023-09-05-0-9-4-https-cursor-com-changelog-0-9-4-58bfb2f3]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -73,14 +71,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]]
+- Earlier: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-other-tweaks-fixes|Other tweaks & fixes]]
 - Later: 2023-09-10 · Dify · [[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The query parameter in the POST /v1/completion-messages endpoint of the App…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

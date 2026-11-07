@@ -4,20 +4,20 @@ date: '2026-08-03'
 description: 'GitHub Copilot CLI · 2026-08-03 · Safety and Privacy: 3 changes in 1.0.78
   — Disabling the sandbox from a bypass prompt applies only to that session; new…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2197
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec31274c217d088feafbe45613d8a1c445fceb4c929ad09600043a219ef405a1
+machine_hash: 438eae73281eed6055e0fc5bcaf0d34795c22aa9d6eb5da6ea90f66524bb4271
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-5-safety-and-privacy-changes-in-v1-0-76|5
-  Safety and Privacy changes in v1.0.76]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2
   Safety and Privacy changes in v1.0.77]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-web-order-permission-modes-from-safest-to-most-permissive-across-settings-surfac|web:
+  Order permission modes from safest to most permissive across settings surfaces…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,14 +96,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Earlier: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-web-order-permission-modes-from-safest-to-most-permissive-across-settings-surfac|web: Order permission modes from safest to most permissive across settings surfaces…]]
 - Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-24'
 description: 'GitHub Copilot CLI · 2026-05-24 · Interface Experience: 2 changes in
   1.0.53 — Multiline prompts display fully without content clipping or selection offset'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2597
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fdbae2d653cc64a05091dede160149ee83a7a529d5fe9c974771f39b569f905
+machine_hash: 7eee0df22f29aadccf241a9501e91883d626efe6578c33fae5fa18926015a5a9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,13 +81,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.53
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6 Interface Experience changes in v1.0.52]]
-- Later: 2026-05-26 · Lovable · [[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar navigation improvements]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-hide-the-empty-current-session-from-the-sessions-picker-while-keeping-other-empt|Hide the empty current session from the sessions picker while keeping other empty…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2552cbbcfed24849fc2d098814d6a3a3a38be3c111bba05ce30dfe3e19c218d4
+machine_hash: 2964afd7f31c5eab8d15d1679a4aeaf78cc7636d150806d125f39d207007bbee
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(verify): stand in for DigitalOcean so Managed Agents can be verified'
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
-  Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-work-iq-apis-endpoints-declarative-agent-access-web-microsoft-365-copilot-extens|Work
+  IQ APIs - Endpoints]]'
 - '[[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes
   in v2026.10.8]]'
 - '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes in v2.2.0]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-2-agent-mode-changes-in-kimi-code-2-4-0|2 Agent Mode changes in Kimi Code 2.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

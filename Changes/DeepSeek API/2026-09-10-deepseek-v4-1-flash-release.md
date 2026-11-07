@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'DeepSeek API · 2026-09-10 · Multimodal Input: Today, we officially release
   the DeepSeek-V4.1-Flash model. It is the smallest model in our new architecture…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1087
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0c29c2b5e1c5ecd08af7ca7883e51fc42799027e8cd8c3ab5c547c9be38a0193
+machine_hash: 324d451434d51da0ccadb89e22df371083a693fc1f6d28b10f948549ec594b19
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -120,9 +120,9 @@ record:
   title: DeepSeek-V4.1-Flash Release
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]'
-- '[[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several
-  less visible repairs keep the apps from failing around dependencies…]]'
+- '[[Changes/HeyGen/2026-09-04-brand-system-styling-moves-from-templates-to-ai-studio|Brand
+  System styling moves from Templates to AI Studio]]'
+- '[[Changes/HeyGen/2026-09-04-in-ai-studio|In AI Studio]]'
 - '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
   adapters preserve initial Anthropic text and thinking, keep images…]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-09-10-2026-09-10-3c3f563a|deepseek-api-2026-09-10-2026-09-10-3c3f563a]]'
@@ -206,7 +206,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

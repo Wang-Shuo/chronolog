@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c2e0a7bae7b70689d70741c3ec553c256441c3ad1f326657bdd4bc07607ba15
+machine_hash: 5b9c96088a996a8ef659bcf55c49dc300187f5d3ce606a94da7ea7b62f246bf7
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Add MiniMax M3 model support
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support
-  changes in v0.9.6]]'
-- '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
-  CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
+- '[[Changes/Kimi Code/2026-06-02-2-model-support-changes-in-kimi-code-0-7-0|2 Model
+  Support changes in Kimi Code 0.7.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-use-microsoft-365-copilot-in-model-driven-apps-work-iq-web-microsoft-copilot-app|Use
+  Microsoft 365 Copilot in model‑driven apps (Work IQ) Web (Microsoft Copilot app)]]'
 - '[[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support
   changes in v2.1.162]]'
 source_release: '[[Releases/Cline/cline-2026-06-03-v3-87-0-github-333988697-daa42aa3|cline-2026-06-03-v3-87-0-github-333988697-daa42aa3]]'

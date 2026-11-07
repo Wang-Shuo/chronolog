@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c4c1729db06be425c8b78244c13d49376f334067c157c5bbfd74ef2eca9a5d3
+machine_hash: 2504ac24db742ed0bbb1e9e68429e043d11f69f6989198ae601b9d66adf64dc8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-3-model-support-changes-in-v0-6-29|3 Model Support changes in v0.6.29]]
-- Later: 2025-09-18 · Ollama · [[Changes/Ollama/2025-09-18-6-model-support-changes-in-v0-12-0|6 Model Support changes in v0.12.0]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-the-best-ai-models-built-in|The best AI models, built in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

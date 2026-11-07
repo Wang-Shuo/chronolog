@@ -5,20 +5,20 @@ description: 'Gamma · 2026-08-28 · Presentation Creation: Mention Gamma in Sla
   create presentations, docs, webpages, and images from a prompt or the current thread.
   You…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 807
+  lag_days: 1876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23e17e1555b3be5649c7b82ebaca7966fdf45937c7b38c74f98bf0469ea9e6f1
+machine_hash: be4dc74002b5578032f1000ec40136deb5a0ed0ebda3dbe337e9f15b90e5ef7a
 product: gamma
 product_name: Gamma
 record:
@@ -47,12 +47,12 @@ record:
   title: Work with Gamma directly in Slack
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-svg-images-in-exports-finally-work-everywhere|SVG images
-  in exports finally work everywhere]]'
-- '[[Changes/OpenClaw/2026-06-30-word-powerpoint-and-excel-document-reads-and-writes-now-use-the-intended-docx-pp|Word,
-  PowerPoint, and Excel document reads and writes now use the intended .docx…]]'
-- '[[Changes/OpenClaw/2026-07-13-2-presentation-creation-changes-in-v2026-7-1|2 Presentation
-  Creation changes in v2026.7.1]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-reference-an-email-with-when-using-copilot-in-powerpoint-to-create-a-presentatio|Reference
+  an email with when using Copilot in PowerPoint to create a presentation…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-explain-slide-selection-during-powerpoint-live-with-microsoft-365-copilot-window|Explain
+  slide selection during PowerPoint Live with Microsoft 365 Copilot…]]'
+- '[[Changes/Kimi Code/2026-08-27-web-improve-composer-interaction-including-the-presentation-of-file-folder-and-m|web:
+  Improve composer interaction, including the presentation of file, folder…]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'
 source_type: gamma_changelog
 theme: presentation-creation
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-2-presentation-creation-changes-in-v2026-7-1|2 Presentation Creation changes in v2026.7.1]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-improve-composer-interaction-including-the-presentation-of-file-folder-and-m|web: Improve composer interaction, including the presentation of file, folder…]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-progress-mode-can-stay-quiet-about-routine-tool-calls-while-keeping-the-updates|Progress mode can stay quiet about routine tool calls while keeping the updates…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

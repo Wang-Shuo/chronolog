@@ -3,20 +3,20 @@ card_id: google-antigravity-2026-03-30-63483b
 date: '2026-03-30'
 description: 'Google Antigravity · 2026-03-30 · Interface Experience: Onboarding Fix'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1176
+  lag_days: 2542
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 25fe3be52e72e6e4548bf33cb5bf28f7545db7b0b83c820f2db57607510fe822
+machine_hash: 23991b6113ee04f5edd7940bf4682f08f429f943763093204c74936d2c83bb12
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,8 +41,8 @@ record:
   title: Onboarding Fix
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
-  Experience changes in 1.13.3]]'
+- '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
+  pages have a banner showing who archived them and when, and they’re hidden…]]'
 - '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
   Experience changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

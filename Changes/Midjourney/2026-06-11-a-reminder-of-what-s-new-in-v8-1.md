@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0904d53bf14882d9f9864fd7ed13e5e22e9619bf6c259a5dcf1ae8d5b2e6c975
+machine_hash: 9249d701f6419e83e5810c1cb4b17f08d07b2245618263291ff7f90b7d5d888f
 product: midjourney
 product_name: Midjourney
 record:
@@ -60,8 +60,8 @@ record:
   title: A reminder of what's new in V8.1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
-  V4 reasoning format]]'
+- '[[Changes/Descript/2026-06-11-opus-4-8-is-now-in-the-model-picker|Opus 4.8 is now
+  in the model picker]]'
 - '[[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support
   for PDF attachments to messages to Gemini models]]'
 - '[[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After

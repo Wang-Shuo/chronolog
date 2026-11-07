@@ -4,20 +4,20 @@ date: '2024-07-31'
 description: 'Aider · 2024-07-31 · Reliability and Performance: Improved performance
   of `--lint` on all dirty files in repo.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 594
+  lag_days: 2081
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ead45f20faf6fdec78a761d62dda7325148b434d7d22d20ec431ddb4ad007171
+machine_hash: b061899b2f0fc29e91745eef92199fbcdd9fd9e46a1375571fcc60d8b9c387f3
 product: aider
 product_name: Aider
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved performance of `--lint` on all dirty files in repo
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
-  will no longer error if loading models larger than system memory if disk…]]'
+- '[[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit
+  faster with GIFs, Direct Cut, and Shortcuts]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
   now has chunked streaming (currently in Beta)!]]'
 - '[[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

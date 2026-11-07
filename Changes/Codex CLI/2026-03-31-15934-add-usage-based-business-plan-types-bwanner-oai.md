@@ -4,20 +4,20 @@ date: '2026-03-31'
 description: 'Codex CLI · 2026-03-31 · Pricing Model: #15934 Add usage-based business
   plan types @bwanner-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1202
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ec89ec216133af0ed43f90160aaa89215afa36452f7ca2d4e27f942c058c5b72
+machine_hash: e2409cb22e057d4944174cf0b1c24dc27639773093eaf350ca475913f50adfb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#15934 Add usage-based business plan types @bwanner-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
-  add Clearcut instrumentation for AI credits billing events]]'
+- '[[Changes/HeyGen/2026-03-25-sub-workspace-management-refreshed-ui-for-billing-setup-cleaner-management-of-av|Sub-workspace
+  management: Refreshed UI for billing setup, cleaner management…]]'
 - "[[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|\U0001F4CA
   Metrics export interval configuration. Administrators can now control…]]"
 - '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes in 1.13.3]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Later: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on: All plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

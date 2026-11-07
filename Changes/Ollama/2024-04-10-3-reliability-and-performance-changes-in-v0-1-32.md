@@ -4,20 +4,20 @@ date: '2024-04-10'
 description: 'Ollama · 2024-04-10 · Reliability and Performance: 3 changes in v0.1.32
   — [WizardLM 2](https://ollama.com/library/wizardlm2): State of the art large language…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 482
+  lag_days: 1969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdb04edd556b006bd86ccf2d5c078a042021aa1cdac7480d41e9e68409003b18
+machine_hash: ca07dadc1acfd21c292df0f2ef8f0f3b387b079d4731c53ad79ca83be975d1c5
 product: ollama
 product_name: Ollama
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.32
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

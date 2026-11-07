@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-09 · Enterprise and Administration: 3 chang
   v0.6.19 — \U0001F504 **Experimental SCIM 2.0 Support**: Implemented SCIM 2.0 (System
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 827
+  lag_days: 2034
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95c2863648d25758a90df904d2e0dd6e3b918aa712f6788b6724a6657700bc0a
+machine_hash: e65e4965fd978b7bb31e24bc353cb22f90fda27bb25e7131f769d2f7c692f8ab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,11 +52,11 @@ record:
   title: 3 Enterprise and Administration changes in v0.6.19
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-19-traceability-with-log-trace-and-span-ids-each-log-entry-now-carries-detailed-tra|\U0001F3F7️
-  Traceability with Log Trace and Span IDs]]"
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
+- '[[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New
+  Viewer role in Descript Rooms (Business & Enterprise only)]]'
 - '[[Changes/Replit/2025-08-08-enterprise|Enterprise]]'
+- '[[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create
+  video assets with Veo 3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -108,14 +108,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-enterprise|Enterprise]]
+- Earlier: 2025-08-08 · Synthesia · [[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create video assets with Veo 3]]
 - Later: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-lovable-business-plan|Lovable Business plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

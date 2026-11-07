@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-07-14 · Collaboration: 4 changes in v0.6.16 �
   **Copy Link to Notes**: Quickly copy and share direct links to notes for easier
   knowledge…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 782
+  lag_days: 2376
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 006c11da88ada8b0f70346f22688df26d686a35165b3a9edddef57d0e56d2d23
+machine_hash: 723682ee6703d2a2de71c22cf0f4d8dae1a86fa35ebcd6911bf1326f6e4d84e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,13 +110,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 ## Nearby in Collaboration
 
 - Earlier: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request validation and remove credit balance for cline team]]
-- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|👥 User Group Add/Remove Endpoints]]
+- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-with-brand-studio-your-team-can-now-maintain-brand-consistency-without-sacrifici|With Brand Studio, your team can now maintain brand consistency without sacrificing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

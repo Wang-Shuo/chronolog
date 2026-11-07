@@ -4,20 +4,20 @@ date: '2025-06-11'
 description: 'Midjourney · 2025-06-11 · Multimodal Input: Please visit https://www.midjourney.com/rank-video
   and help us rate videos.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 631
+  lag_days: 2399
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6072dfdd9cd471e95a938dd54bee244831b797964966413088ec031baece8427
+machine_hash: 40c0a43321720ca9bdf670d5fee74d3b88a7c9fda8d45e19e4420641b04a3d51
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,7 @@ record:
   title: Please visit https://www.midjourney.com/rank-video and help us rate videos
   type: change
 related_changes:
-- '[[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4
-  Image in Runway API]]'
+- '[[Changes/Descript/2025-05-20-ai-video-maker-updates|AI video maker updates]]'
 - '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
   for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
 - '[[Changes/Manus/2025-06-03-manus-transforms-your-prompts-into-complete-stories-structured-sequenced-and-rea|Introducing
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

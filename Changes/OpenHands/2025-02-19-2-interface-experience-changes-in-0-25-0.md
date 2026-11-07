@@ -4,20 +4,20 @@ date: '2025-02-19'
 description: 'OpenHands · 2025-02-19 · Interface Experience: 2 changes in 0.25.0 -
   2025-02-19 — New multi conversation navigation allowing users to navigate between…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 772
+  lag_days: 2138
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10a3137ea3c42dbf7cac31ceeb5cd91b0e1223f2b34fe959a8f000c9f3088072
+machine_hash: 06da5fe351ee705eaefc1dd6bd7d70754f51c78413ae9ecdb0d19a933be91129
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Interface Experience changes in 0.25.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
+- '[[Changes/Descript/2025-02-11-smart-transitions|Smart Transitions]]'
+- "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
+  your doc \U0001F440]]"
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-19-0-25-0-github-201270435-f90f221f|openhands-2025-02-19-0-25-0-github-201270435-f90f221f]]'
@@ -88,7 +88,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

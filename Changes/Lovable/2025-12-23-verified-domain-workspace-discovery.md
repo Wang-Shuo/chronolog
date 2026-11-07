@@ -4,20 +4,20 @@ date: '2025-12-23'
 description: 'Lovable · 2025-12-23 · Enterprise and Administration: Business and enterprise
   users can now discover and request to join workspaces based on verified email…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 805a9e290ab9d65ad7a1e067f3ba7ca98c918a3d123ff39e883dcd2edae2cfad
+machine_hash: f545fc8e2d795727da50a9e6189c2145328fcebe104ed2e05be21572c032dad1
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Verified domain workspace discovery
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
-  of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New
+  admin controls for transcription glossary and do not translate lists]]'
 - '[[Changes/Open WebUI/2025-12-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Lovable/2025-12-23-simplified-saml-sso-setup|Simplified SAML SSO setup]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

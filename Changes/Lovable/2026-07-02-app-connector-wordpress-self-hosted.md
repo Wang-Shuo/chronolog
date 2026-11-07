@@ -4,20 +4,20 @@ date: '2026-07-02'
 description: 'Lovable · 2026-07-02 · Apps and Integrations: [WordPress (self-hosted)](https://docs.lovable.dev/integrations/wordpress.md)
   lets apps work with content from…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2757
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 66102518fc3fad36e093737017ab82d5cee11e8d50e734e96b63b6a2423b2657
+machine_hash: e0f1a0eaad9b46cc0e269d63275977604db8cf20e257da5f9392e64c981ac894
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: 'App connector: WordPress (self-hosted)'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
+- '[[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new
+  MCP connections for Custom Agents]]'
 - '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
   slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
 - '[[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

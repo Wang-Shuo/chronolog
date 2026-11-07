@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'OpenCode · 2026-10-30 · Automation and Scheduling: 2 changes in v2.2.3
   — SDK Preserved partial LLMResponse output on AIError.partial when generation, object…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1032
+  lag_days: 2599
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42e903fcf2479bcbb0072db1a0719ff0e2c269c947da4834eeca38565b8d931b
+machine_hash: 0e1c619c57174a7300097b8942aaf40f6448f1eed885d1f6354c992c8bb81fa0
 product: opencode
 product_name: OpenCode
 record:
@@ -101,7 +101,7 @@ Source: https://opencode.ai/changelog/v2.2.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

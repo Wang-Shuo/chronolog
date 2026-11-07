@@ -4,20 +4,19 @@ date: '2026-02-03'
 description: 'OpenCode · 2026-02-03 · Editor Experience: 2 changes in v1.1.49 — Core
   Convert system message content to string for Copilot provider'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1057
+  lag_days: 2641
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 352e668b6e3f0af39577c965ac2f1ff0ed5b96c593e5562115ba3ac1b01cd824
+machine_hash: a9c580e3737e9ba3b0bc4eae765d009894c2c3189c5e46aba1383e82fb8b3714
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.1.49
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

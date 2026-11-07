@@ -4,20 +4,20 @@ date: '2026-07-30'
 description: 'GitHub Copilot CLI · 2026-07-30 · Context Window: Restore the early
   warning when unreclaimable system and tool context nears the limit, before automatic…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2507
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccb47a51add4b96d8188b2237e20a1638aa4f1b15a552c0eff642112d2b05a04
+machine_hash: 2ff6ab5dc33cff5af0d0424379a9fab13ee913fa5fb41bc72619592ae1039069
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Restore the early warning when unreclaimable system and tool context nears…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
-  changes in v0.11.0]]'
-- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
-  simplify repository context]]'
 - '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
   Window changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-lists-in-context-iq-web-microsoft-365-copilot-chat|Lists
+  in Context IQ Web (Microsoft 365 Copilot Chat)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-take-screenshot-in-copilot-windows-microsoft-365-copilot-chat|Take
+  Screenshot in Copilot Windows (Microsoft 365 Copilot Chat)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
 theme: context-window
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context Window changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-take-screenshot-in-copilot-windows-microsoft-365-copilot-chat|Take Screenshot in Copilot Windows (Microsoft 365 Copilot Chat)]]
 - Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If you paste more than 10k characters into the composer, ChatGPT will automatically…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

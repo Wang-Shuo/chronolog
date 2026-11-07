@@ -4,20 +4,19 @@ date: '2025-07-25'
 description: 'Gemini CLI · 2025-07-25 · Editor Experience: 19 changes in Release v0.1.14
   — Adds the user''s active file in the IDE to the footer by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 864
+  lag_days: 2448
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce9a0af2c1c83f88f6ce1fc7911bc165fea4a13a77e6946b01735477a85e9435
+machine_hash: ede6133b277f56121e902cbdecb956ccad83448064fb8ff29fcf277209d0b77d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,12 +86,11 @@ record:
   title: 19 Editor Experience changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-12-editor-experience-changes-in-v0-1-13|12 Editor
-  Experience changes in v0.1.13]]'
-- '[[Changes/Open WebUI/2025-07-19-4-editor-experience-changes-in-v0-6-17|4 Editor
-  Experience changes in v0.6.17]]'
 - '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
   changes in v3.19.8]]'
+- '[[Changes/Descript/2025-07-23-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-is-ready-to-c|Underlord((source
+  link) is ready…]]'
+- '[[Changes/Descript/2025-07-23-prefer-the-old-way|Prefer the old way?]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: editor-experience
@@ -171,14 +169,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience changes in v3.19.8]]
+- Earlier: 2025-07-23 · Descript · [[Changes/Descript/2025-07-23-prefer-the-old-way|Prefer the old way?]]
 - Later: 2025-07-26 · Cline · [[Changes/Cline/2025-07-26-add-an-rpc-to-the-host-bridge-to-scroll-the-diff-viewer-by-sjf-in-https-github-c|Add an RPC to the host bridge to scroll the diff viewer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

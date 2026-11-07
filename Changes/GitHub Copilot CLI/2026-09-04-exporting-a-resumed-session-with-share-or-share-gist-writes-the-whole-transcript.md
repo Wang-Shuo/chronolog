@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-09-04 · Collaboration: Exporting a res
   session with --share or --share-gist writes the whole transcript instead of only
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adb166198ea5683de72e5b0a6519a21b4a9a57d5987836a46505c2042c907169
+machine_hash: 49fe51f518f0fe7376b26fb11da3132ae7577dfc661a115de994347213c6e2eb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration changes in v2026.9.1]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration changes in v2026.9.2]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-brandkit-and-brand-governance|BrandKit and Brand Governance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

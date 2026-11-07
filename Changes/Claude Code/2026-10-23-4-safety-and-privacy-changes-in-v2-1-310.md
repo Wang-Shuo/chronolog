@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Claude Code · 2026-10-23 · Safety and Privacy: 4 changes in v2.1.310
   — Fixed file read permission prompts not showing where a symbolic link leads'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1286
+  lag_days: 2278
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca1bb280f1f425018b4335ec70f196064e2e635481c96b399024634efbf16e38
+machine_hash: b5d3ac92577846b391196182b89f23903a28c2cf9e44fc0b0437d200121ba101
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy
-  & security settings]]'
 - '[[Changes/OpenClaw/2026-10-22-security-release-v2026-10-6-adds-remediations-for-the-emudhra-certificate-compro|Security
   release: v2026.10.6 adds remediations for the eMudhra certificate compromise]]'
 - '[[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded
   the bundled Bun runtime to 1.4.4]]'
+- '[[Changes/Qoder/2026-10-22-dynamic-island-macos-view-task-progress-answer-questions-and-handle-permission-r|Dynamic
+  Island (macOS)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -100,14 +100,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-22 · OpenCode · [[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded the bundled Bun runtime to 1.4.4]]
+- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-dynamic-island-macos-view-task-progress-answer-questions-and-handle-permission-r|Dynamic Island (macOS)]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15 Safety and Privacy changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

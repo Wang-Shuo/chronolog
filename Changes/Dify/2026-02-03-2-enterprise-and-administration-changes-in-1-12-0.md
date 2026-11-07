@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Dify · 2026-02-03 · Enterprise and Administration: 2 changes in v1.12.0
   - Introducing Summary Index: Smarter Retrieval with AI Summarization — feat: inject…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1005
+  lag_days: 2212
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1295c27f57926095fc9ea494be78cae65ab6ddcd0a5304f8e19b29495c11b906
+machine_hash: 5fe8fdd85fed797ddf25fac0139a99784002026342a0d6070b01f91902c46b45
 product: dify
 product_name: Dify
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Enterprise and Administration changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-23-enterprise-features|Enterprise Features]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-add-support-for-github-enterprise-cloud-ghe-com-in-delegate-command|Add
   support for GitHub Enterprise Cloud (\.ghe.com) in /delegate command]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-copilot-icon-visibility-in-microsoft-edge-web-microsoft-365-copilot-chat|Copilot
+  icon visibility in Microsoft Edge Web (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
   implement admin controls polling and restart prompt]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
@@ -101,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

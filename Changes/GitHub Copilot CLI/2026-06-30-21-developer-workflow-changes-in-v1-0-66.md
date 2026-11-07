@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-30 · Developer Workflow: 21 changes
   1.0.66 — Use a non-blinking block cursor during interactive sessions, restoring
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1200
+  lag_days: 2849
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c57102868871ad5f21dbe8a71744218334641fbeb2cb9d85768458d9245a1ed2
+machine_hash: 0ac1c3a732207a6d14fa25bd055ecd0771420e8a82a4cfe81341239e96bdf630
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,8 +87,8 @@ record:
   title: 21 Developer Workflow changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
-  changes in v4.0.0]]'
+- '[[Changes/Kimi Code/2026-06-26-2-developer-workflow-changes-in-kimi-code-0-20-1|2
+  Developer Workflow changes in Kimi Code 0.20.1]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
   Workflow changes in v2.1.196]]'
 - '[[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer
@@ -185,7 +186,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

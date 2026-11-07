@@ -4,20 +4,20 @@ date: '2025-12-24'
 description: 'Windsurf · 2025-12-24 · Context Window: When a model''s context window
   grows too long, earlier context can be dropped without warning and performance can…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 965
+  lag_days: 2289
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6c3af3036f56705a2d380eec57ed38cb36f932b0e3ab6bf7c6679ac46dfa5392
+machine_hash: 92fc9fa589424254ad1cb4138dcc27cb52a0d969b18b75e59efc563982579827
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,12 +53,12 @@ record:
   title: Context Window Indicator
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
   /context command to visualize token usage]]'
 - '[[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build
   with Glean via MCP]]'
+- '[[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve
+  released GLM-4.7, our foundation model with significant improvements…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-24-v1-13-3-cac9d5c1|windsurf-2025-12-24-v1-13-3-cac9d5c1]]'
 source_type: windsurf_changelog
 theme: context-window
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

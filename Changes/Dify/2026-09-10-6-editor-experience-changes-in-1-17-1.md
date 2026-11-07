@@ -4,20 +4,19 @@ date: '2026-09-10'
 description: 'Dify · 2026-09-10 · Editor Experience: 6 changes in v1.17.1 - Bug Fixes
   and Improvements — **Human Input could not be placed inside Iteration or Loop nodes**…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1276
+  lag_days: 2860
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94c935488e2eac6c4a9ba9fc67b3655aaefa668c104aae354e376627c8849190
+machine_hash: 97755b6cbd49d7af05bf1e330791ba595c7189de369f3ab385535173220de2d6
 product: dify
 product_name: Dify
 record:
@@ -127,7 +126,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

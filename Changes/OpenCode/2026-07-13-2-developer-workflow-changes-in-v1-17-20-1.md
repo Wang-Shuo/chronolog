@@ -4,19 +4,20 @@ date: '2026-07-13'
 description: 'OpenCode · 2026-07-13 · Developer Workflow: 2 changes in v1.17.20 +
   1 — Desktop Polished the new interface styling across the session view and terminal.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1213
+  lag_days: 2862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40390fab2a22b98d1db90445314ddc7a8ae7e4a1962a739d710563550bdbc2be
+machine_hash: 844f19ce214315fa9e1620dea440f4ba4fa43a486ab0c8a1c1b75ca4d961657c
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.17.20
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

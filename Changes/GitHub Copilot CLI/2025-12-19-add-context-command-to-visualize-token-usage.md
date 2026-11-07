@@ -4,20 +4,20 @@ date: '2025-12-19'
 description: 'GitHub Copilot CLI · 2025-12-19 · Context Window: Add `/context` command
   to visualize token usage'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 960
+  lag_days: 2284
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce4a8b9487df9f3706a3988313f70fcdf375373d84771510ed503ec48ea93085
+machine_hash: dbbd6adbaefc509c6979e64e5b25d929f48c2ef4c17c5d8e83f0363d421ce957
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]]
-- Later: 2025-12-22 · v0 · [[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build with Glean via MCP]]
+- Later: 2025-12-22 · Z.ai API · [[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve released GLM-4.7, our foundation model with significant improvements…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

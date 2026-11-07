@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Safety and Privacy: 10 changes in v2026.
   — The macOS AI setup sheet now shows the selected provider and the actual installation
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2228
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a40384680a6913a84f01fd3cda15af686835da909fa5fc1ccfa9bf136c4f92ab
+machine_hash: dba5b8bc84d612c7fa141e83833730a1635ffb7d36996bd77418590100ac87c9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -109,8 +109,8 @@ record:
   title: 10 Safety and Privacy changes in v2026.9.1
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-02-permission-prompts-again-describe-the-specific-action-being-requested-instead-of|Permission
-  prompts again describe the specific action being requested instead…]]'
+- '[[Changes/Kimi Code/2026-09-02-2-safety-and-privacy-changes-in-kimi-code-0-40-0|2
+  Safety and Privacy changes in Kimi Code 0.40.0]]'
 - '[[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety
   and Privacy changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6
@@ -189,7 +189,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

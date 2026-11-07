@@ -4,19 +4,20 @@ date: '2024-12-27'
 description: 'Replit · 2024-12-27 · Collaboration: Here are a few exciting updates
   for Teams:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 583
+  lag_days: 2177
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 032b0b755bd7c8ae3f61fb481ff49c4e2cc11c0ed64bc206d61e7a1f48dd2629
+machine_hash: 50870d5b486f6ec55ce8af30b82c27ac8a4dc78d99ddf7d7c3f43c1fed5b369b
 product: replit
 product_name: Replit
 record:
@@ -48,7 +49,8 @@ record:
   title: Replit Teams updates
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
+- '[[Changes/Synthesia/2024-12-17-you-share-your-feedback-and-we-work-on-turning-it-into-helpful-ui-updates-today|10
+  improvements and fixes based on your feedback]]'
 - '[[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration
   changes in v0.5.0]]'
 - "[[Changes/Open WebUI/2024-12-27-typing-indicators-in-channels-know-exactly-who-s-typing-in-real-time-within-your|\U0001F58A️
@@ -101,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

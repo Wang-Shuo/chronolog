@@ -3,20 +3,19 @@ card_id: cursor-2023-03-25-c84bc6
 date: '2023-03-25'
 description: 'Cursor · 2023-03-25 · Editor Experience: Fuzzy search for file names'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 11
+  lag_days: 1595
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50c32b7c0b0c56a9682eac1099c5612f19c066b9911ce1226edfcf45144d6724
+machine_hash: ec7b5449a1ac1fa9a83f600dfbdaae91e5a2bb6030c4a22d51508fa4ef4ad824
 product: cursor
 product_name: Cursor
 record:
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

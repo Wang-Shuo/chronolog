@@ -5,20 +5,20 @@ description: 'Replit · 2025-11-21 · Reliability and Performance: Fast Mode is 
   available to everyone and **free until Dec 1**. Get faster execution speeds across
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1072
+  lag_days: 2559
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 34620d8406e983a206811d4978c965cc608e4861b2e224add1c096a8a67e0c84
+machine_hash: 1309a7d71ddc81c1668115cfa76b81f25d40bcf73ff450f560043080f1ac641e
 product: replit
 product_name: Replit
 record:
@@ -44,8 +44,8 @@ record:
   title: Fast Mode now available to everyone
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
-  performance]]'
+- '[[Changes/Notion/2025-11-17-less-load-time-more-work-time|Less load time, more
+  work time]]'
 - '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
   Compaction Support]]'
 - '[[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

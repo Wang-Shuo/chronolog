@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-07-21 · Developer Workflow: 12 changes in 0.145
   Added secure, clickable inline visualization links in the terminal UI. (#33925,
   #34217…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b4bfeb27d95853d8729746305e8c5833b44eb81d26ff6f1467797c0f6e36041
+machine_hash: 380c4626ee674b8534c3cfa4ffbfad56710a5acffcd22e7886be3d0f012b7a61
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,8 +64,8 @@ record:
   title: 12 Developer Workflow changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
-  Developer Workflow changes in v1.0.72]]'
+- '[[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run
+  web servers foreground-only end to end]]'
 - '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
   the embedded terminal theme with the app theme]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
@@ -145,7 +146,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

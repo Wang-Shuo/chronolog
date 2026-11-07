@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Context Window: 20 changes in v2026.6.11 — WhatsApp
   group conversations now preserve the right message and group context more reliably…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2477
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8224864b6a259ed74eef4264c708145c5b81f94accacbfbe0b28fde80f8c467
+machine_hash: b6d42868d5d5838e638798d47688cd83b3ede3528408cbd7988a2c801c815157
 product: openclaw
 product_name: OpenClaw
 record:
@@ -122,8 +122,8 @@ record:
   title: 20 Context Window changes in v2026.6.11
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved
-  readability of context pills by truncating long labels and adding hover…]]'
+- '[[Changes/Kimi Code/2026-06-29-2-context-window-changes-in-kimi-code-0-20-2|2 Context
+  Window changes in Kimi Code 0.20.2]]'
 - '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
   changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
@@ -224,7 +224,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-12 · Reliability and Performance: **\U0001F
   Frontend Responsiveness**: Resolved the problem where the frontend would stop responding
   if the…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 545
+  lag_days: 2032
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d54a5ff2ae6d4696e887d7b171a54fe4014cc58e529ace234b946f37f1271f1
+machine_hash: bbacce841d5cf623a5e96443e7db283b5abdd7f9ea803ed5317b2602c02c6845
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,12 +58,12 @@ record:
   title: "**\U0001F5A5️ Frontend Responsiveness**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-04-2-reliability-and-performance-changes-in-0-6-10|2 Reliability
-  and Performance changes in 0.6.10]]'
 - "[[Changes/Open WebUI/2024-06-05-active-users-indicator-now-you-can-see-how-many-people-are-currently-active-and|\U0001F465
   Active Users Indicator]]"
 - '[[Changes/Ollama/2024-06-07-ollama-pull-is-now-faster-if-it-detects-a-model-is-already-downloaded|ollama
   pull is now faster if it detects a model is already downloaded]]'
+- '[[Changes/Notion/2024-06-11-database-views-that-are-grouped-by-the-select-status-multi-select-person-or-rela|Database
+  views that are grouped by the select , status , multi-select , person…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-12-v0-3-3-github-160040314-8ecd28a1|open-webui-2024-06-12-v0-3-3-github-160040314-8ecd28a1]]'
 source_type: github_releases
 theme: reliability-performance
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-06-07 · Ollama · [[Changes/Ollama/2024-06-07-ollama-pull-is-now-faster-if-it-detects-a-model-is-already-downloaded|ollama pull is now faster if it detects a model is already downloaded]]
+- Earlier: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-database-views-that-are-grouped-by-the-select-status-multi-select-person-or-rela|Database views that are grouped by the select , status , multi-select , person…]]
 - Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability and Performance changes in 0.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

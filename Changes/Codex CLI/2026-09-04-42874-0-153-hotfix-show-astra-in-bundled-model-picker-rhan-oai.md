@@ -4,20 +4,20 @@ date: '2026-09-04'
 description: 'Codex CLI · 2026-09-04 · Interface Experience: #42874 [0.153 hotfix]
   Show Astra in bundled model picker @rhan-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1334
+  lag_days: 2700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d3c54a2235541aa47c418909d817c1ec993d48b557e7f17c0397b6a9670d0d6d
+machine_hash: 1ead1c65579dfda48093d2583dc7f0a5dc6ec477f06a186fba666fd1d1173b03
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,9 +53,10 @@ record:
   title: '#42874 [0.153 hotfix] Show Astra in bundled model picker @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-09-03-prompt-bar-pills|PROMPT BAR & PILLS]]'
 - '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
   Experience changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch
+  tasks archiving]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-04-rust-v0-153-4-github-383061770-e8ba4232|codex-cli-2026-09-04-rust-v0-153-4-github-383061770-e8ba4232]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

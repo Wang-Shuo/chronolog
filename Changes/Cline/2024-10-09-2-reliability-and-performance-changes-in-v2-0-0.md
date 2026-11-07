@@ -5,20 +5,20 @@ description: 'Cline · 2024-10-09 · Reliability and Performance: 2 changes in v
   — **Cancel button:** With the new streaming feature, you can now Cancel mid-generation
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 664
+  lag_days: 2151
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d7326b6bbec1d3c01271b21882c1387d82a2f7ea34bdfd060b5c9968dd26110
+machine_hash: 2aced9091b8f597c910c875722d2b1bff37a10227d48c87a420b1580ce45f421
 product: cline
 product_name: Cline
 record:
@@ -91,13 +91,13 @@ Source: https://github.com/cline/cline/releases/tag/v2.0.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2 Reliability and Performance changes in v0.3.31]]
-- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-reliability-and-performance-changes-in-0-9-2|2 Reliability and Performance changes in 0.9.2]]
+- Later: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved UI responsiveness when in a Room with only 1 participant]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

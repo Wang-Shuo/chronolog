@@ -4,20 +4,19 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Editor Experience: 3 changes in 0.7.0 — Use
   the completion decorator with cost logging by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 473
+  lag_days: 2057
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69ebbf957f1d730684af534544aaf44542c9c050815bdf0c61d1ed162f52e4bb
+machine_hash: 3345e594a6171ca6757b9648b87c97df4245ce6c61b16e6540158205d44650e5
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +44,9 @@ record:
   title: 3 Editor Experience changes in 0.7.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
-  Editable Search Query Prompt]]"
-- '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
-  image style keywords are now editable in the theme editor]]'
+- '[[Changes/Descript/2024-06-19-editor-updates|Editor Updates]]'
+- '[[Changes/Notion/2024-06-25-better-find-cmd-f-can-now-find-hidden-content-in-collapsed-toggles-or-within-dat|Better
+  “find”: Cmd+f can now find hidden content in collapsed toggles or within databases]]'
 - '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
   changes in 0.6.12]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
@@ -95,13 +93,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]]
-- Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
+- Later: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

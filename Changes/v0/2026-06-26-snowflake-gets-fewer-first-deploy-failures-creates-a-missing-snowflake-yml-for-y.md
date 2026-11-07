@@ -4,19 +4,20 @@ date: '2026-06-26'
 description: 'v0 · 2026-06-26 · Collaboration: Snowflake gets fewer first deploy failures,
   creates a missing snowflake.yml for you, keeps the publish flow available on…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2723
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31d2406555cca252974e15f00525071e2fb300ca89cb3e2f013c8367a9b2bd82
+machine_hash: 74a4ad406e29921e076a0bbd79734a012d198ff9dbeaa8e73d989792771d773a
 product: v0
 product_name: v0
 record:
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-comments-in-shared-app-previews|Comments in shared app previews]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-4-collaboration-changes-in-v0-10-0|4 Collaboration changes in v0.10.0]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-scope-the-web-composer-s-up-down-input-history-to-the-current-session-instead-of|Scope the web composer's up/down input history to the current session instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

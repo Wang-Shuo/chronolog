@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-07 · Voice and Audio: \U0001F3B5 **Audio Fi
   Response Restored**: Resolved an issue where uploading audio files did not return
   valid…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 637
+  lag_days: 2464
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45e99c7e20bbef43920292569deffd0e9342f45822b36e486abfc6e9f1fbe791
+machine_hash: 119be4a97176ccf85d043cf7f0f8c92927a0cd0b4fb60c6f4e58472a9870f143
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-speech-to-text|Speech to text]]
-- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-voice-and-audio-changes-in-v0-6-3|2 Voice and Audio changes in v0.6.3]]
+- Later: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-a-new-home-in-drive-view|A new Home in Drive view]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

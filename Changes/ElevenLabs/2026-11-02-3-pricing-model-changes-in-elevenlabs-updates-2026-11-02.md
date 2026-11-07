@@ -4,20 +4,20 @@ date: '2026-11-02'
 description: 'ElevenLabs · 2026-11-02 · Pricing Model: 3 changes in ElevenLabs updates
   — 2026-11-02 — **Architect charging**: Architect usage is now billed from workspace…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1418
+  lag_days: 3036
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7999688a3c24ba3bb788602fb28457749f4c47ebac7b29f8db58af5292d2af6a
+machine_hash: f45fec7812534863f8796c74ed6a1593ca80157a76cbc736af216c4ddd1568aa
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -123,7 +123,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

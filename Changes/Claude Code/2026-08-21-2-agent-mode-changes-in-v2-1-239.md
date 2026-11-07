@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb77d05a75a1b2089c341d7892ea11c2ed06c401efb858542cc4cfa92cfa3c0a
+machine_hash: 9f58da90a1091889dfa9eab17ecd6a3577b68a26a1ebf215316b8ea6adb1817c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Agent Mode changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-goal|/goal]]'
 - '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
   Mode changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3
   Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]'
+- '[[Changes/Kimi Code/2026-08-20-2-agent-mode-changes-in-kimi-code-0-38-0|2 Agent
+  Mode changes in Kimi Code 0.38.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3 Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]
+- Earlier: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-2-agent-mode-changes-in-kimi-code-0-38-0|2 Agent Mode changes in Kimi Code 0.38.0]]
 - Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-surface-failed-subagent-tool-calls-with-a-resumable-task-id|Surface failed subagent tool calls with a resumable task_id]]
 <!-- chronolog:end -->
 

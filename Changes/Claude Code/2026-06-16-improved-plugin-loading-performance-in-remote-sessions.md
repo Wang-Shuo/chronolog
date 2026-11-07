@@ -4,20 +4,20 @@ date: '2026-06-16'
 description: 'Claude Code · 2026-06-16 · Apps and Integrations: Improved plugin loading
   performance in remote sessions'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1181
+  lag_days: 2741
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4abfd497a489fd7c5e859a18f69f6cc7e1fb07f57281afb300e4f24f677cb6b1
+machine_hash: 0e0bce69853782411865a3ecb1af9482775678e2977893d8fe67d20f772402de
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,9 @@ record:
   title: Improved plugin loading performance in remote sessions
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
+- '[[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3
+  Apps and Integrations changes in Kimi Code 0.15.0]]'
 - '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
   AWS Athena and Replicate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e|claude-code-2026-06-16-v2-1-179-github-340316177-39d47b3e]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

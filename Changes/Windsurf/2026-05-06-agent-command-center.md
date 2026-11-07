@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d3ade5b35013e346ed9dce4ed0697c5864a5bd701812a57a46ee88596e7e74ba
+machine_hash: a96eac76e1ed99e9a55080076b65f34a8485da70b0742d0f623189d34a9c087e
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,10 @@ record:
   title: Agent Command Center
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add
-  experimental MCP Tasks support]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add
   rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]'
+- '[[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom
+  Agents now have a dedicated place in your Library]]'
 - '[[Changes/Windsurf/2026-05-06-improved-reliability-of-devin-local-agent|Improved
   reliability of Devin Local agent]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-06-v2-2-17-cdf424d7|windsurf-2026-05-06-v2-2-17-cdf424d7]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]
+- Earlier: 2026-05-06 · Notion · [[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom Agents now have a dedicated place in your Library]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 

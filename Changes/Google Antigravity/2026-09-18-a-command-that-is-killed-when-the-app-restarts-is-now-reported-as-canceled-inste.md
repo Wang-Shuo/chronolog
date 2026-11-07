@@ -5,19 +5,20 @@ description: 'Google Antigravity · 2026-09-18 · Developer Workflow: A command 
   is killed when the app restarts is now reported as canceled instead of appearing
   to finish…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2929
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21253d3c239b128caa8b0f42359192849b80cc8e0071779bfdea3e0726be6928
+machine_hash: 1283a0c6d78757ffb39394ac9194dec59762cc2c57f6b9d732f58186913cc76c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,10 +47,10 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15
-  Developer Workflow changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
   status row now says it is waiting for background shells, instead…]]'
+- '[[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render
+  mermaid code blocks as diagrams in the terminal]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09|google-antigravity-2026-09-18-rel-hub-2-15-0-48b37e09]]'
@@ -87,13 +88,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer Workflow changes in v2026.9.5]]
+- Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree: Improved starting-point list loading and creation preparation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

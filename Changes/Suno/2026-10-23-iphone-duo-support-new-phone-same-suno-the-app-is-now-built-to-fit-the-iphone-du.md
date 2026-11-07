@@ -5,20 +5,20 @@ description: 'Suno · 2026-10-23 · Music Generation: iPhone Duo support New pho
   same Suno. The app is now built to fit the iPhone Duo screen. AirPlay Play your
   songs and…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 2501
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ba9deb64bf0355390609e6ee217078a3b982d005b28b0ba8bff4ee7c2a46d61d
+machine_hash: 3d8ecaee3cdfb2be18398fb608bf4484b4c50481441bde3e3d22a2e788cab111
 product: suno
 product_name: Suno
 record:
@@ -52,12 +52,12 @@ record:
   title: Updates for Suno on iOS
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-19-video-generation-preserves-repeated-reference-positions-so-the-same-image-can-se|Video
-  generation preserves repeated reference positions, so the same image can serve…]]'
 - '[[Changes/OpenClaw/2026-09-23-background-image-video-and-music-generation-can-complete-independently-of-the-re|Background
   image, video, and music generation can complete independently…]]'
 - '[[Changes/Suno/2026-10-15-shareable-workspaces-share-a-library-of-songs-that-you-can-share-across-a-team-o|Shareable
   Workspaces Share a library of songs that you can share across a team]]'
+- '[[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose
+  a creative direction with Moodboards]]'
 source_release: '[[Releases/Suno/suno-2026-10-23-e-suno-on-ios-update-80706bb0|suno-2026-10-23-e-suno-on-ios-update-80706bb0]]'
 source_type: suno_changelog
 theme: music-generation
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
-- Earlier: 2026-10-15 · Suno · [[Changes/Suno/2026-10-15-shareable-workspaces-share-a-library-of-songs-that-you-can-share-across-a-team-o|Shareable Workspaces Share a library of songs that you can share across a team]]
+- Earlier: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose a creative direction with Moodboards]]
 - Later: 2026-10-28 · Suno · [[Changes/Suno/2026-10-28-create-songs-conversationally-describe-it-in-plain-words-ideate-on-lyrics-and-st|Create songs conversationally]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6779ad4a0d440fb124f807ffacb698bf3372f8f2b14b4088d00a890cff2135f5
+machine_hash: 4e34f91935da5f6f65c2d2b1e59fd64e3eeeed2e189ce36b4ed0c3bb096368cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     auto…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
-  changes in v2.1.277]]'
 - '[[Changes/Google Antigravity/2026-09-18-3-agent-mode-changes-in-hub-v2-15-0-custom-agent-controls|3
   Agent Mode changes in HUB v2.15.0 — Custom agent controls…]]'
+- '[[Changes/Qoder/2026-09-18-response-annotations-enable-this-feature-in-settings-experimental-features-to-se|Response
+  annotations: Enable this feature in Settings-Experimental Features…]]'
 - '[[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to
   Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to Agent]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-72-agent-mode-changes-in-v2026-9-5|72 Agent Mode changes in v2026.9.5]]
+- Later: 2026-09-19 · Kimi Code · [[Changes/Kimi Code/2026-09-19-the-agent-no-longer-assumes-the-current-working-directory-is-the-project-root|The agent no longer assumes the current working directory is the project root]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

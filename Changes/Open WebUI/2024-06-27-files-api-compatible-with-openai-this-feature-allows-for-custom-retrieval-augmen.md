@@ -5,19 +5,20 @@ description: "Open WebUI · 2024-06-27 · Collaboration: **\U0001F4C1 Files API*
   with OpenAI, this feature allows for custom Retrieval-Augmented Generation (RAG)
   in…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 400
+  lag_days: 1994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e73e28d623e6b1382599f6a13b33426e2c1d7193639691c6d35abd9a9095fa8b
+machine_hash: 5fb3a4fbd5d8a325fec64ab38a8fa367bf7e2b01a77dd969060cd52260ef8439
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +50,10 @@ record:
     custom…"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
-  changes in 0.6.1]]'
 - '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
   Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the
+  Plus plan]]'
 - '[[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A
   special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-27-v0-3-6-github-162865914-133d7851|open-webui-2024-06-27-v0-3-6-github-162865914-133d7851]]'
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

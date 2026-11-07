@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'Dify · 2025-09-22 · Interface Experience: feat: add circular scrolling
   to GotoAnything command menu by @lyzno1 in https://github.com/langgenius/dify/pull/25662'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 987
+  lag_days: 2353
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01e3dd55dbe0297ef68d85581a7c3aa5f7e9f486756c0a413979a4c14ed677cc
+machine_hash: 3418860b49ca39da78edf2054fe5cb7e6939b333a1ebf12a55d630a38ef63de1
 product: dify
 product_name: Dify
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-5-interface-experience-changes-in-v0-6-29|5 Interface Experience changes in v0.6.29]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface Experience changes in v3.31.0]]
+- Later: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-recovery-process-improvements|Recovery Process Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

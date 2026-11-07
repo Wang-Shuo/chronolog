@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 55e1b25b9b1e9389f34444df35fd9a52ca1ac26ed559ddcc032bf47ff1d27a09
+machine_hash: 196dd16d8d0ab45c59aefe04fb37b2efca42b5e21ae677bf517e889b6069fba7
 product: midjourney
 product_name: Midjourney
 record:

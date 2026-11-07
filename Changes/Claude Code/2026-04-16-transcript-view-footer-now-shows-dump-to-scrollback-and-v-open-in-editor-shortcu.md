@@ -4,20 +4,19 @@ date: '2026-04-16'
 description: 'Claude Code · 2026-04-16 · Editor Experience: Transcript view footer
   now shows `[` (dump to scrollback) and `v` (open in editor) shortcuts'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1129
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48cc0642892f1c98e47af371f8c76a640f35c76b647c7a0aa6028c727f3c3b5a
+machine_hash: aeb1697f469007e1e74f6a7c35b62bf684d093f7bb93d726f57030e3c0a5b448
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +87,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show a clear message when Copilot Pro trial is paused instead of a generic policy error]]
-- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A clear error message is displayed when the configured editor cannot be launched]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-underlord-https-help-descript-com-hc-en-us-articles-36803785502221-underlord-bet|Underlord…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

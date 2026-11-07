@@ -4,19 +4,20 @@ date: '2026-09-29'
 description: 'Codex CLI · 2026-09-29 · Collaboration: 2 changes in 0.159.0 — #48200
   Extract Responses header conversion into a shared module @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2818
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d687dc79b46016a70a2c68a8f235aad08fcb114e48b725914ffa9160a83bb144
+machine_hash: c1798ac47e27643d65a42263907f1b76629243fc32cb00787c34c2a21918b387
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

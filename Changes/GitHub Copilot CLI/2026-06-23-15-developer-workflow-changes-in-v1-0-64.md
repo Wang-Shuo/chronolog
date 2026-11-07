@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-23 · Developer Workflow: 15 changes
   1.0.64 — Free-text search terms containing colons (e.g. `CLI:`) now return correct
   results…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1193
+  lag_days: 2842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f8a8d28a77a9ffdc77f84670e501785da63a35c5af76a84bcb9e2c545450fd5
+machine_hash: f4f7a3bb0873060a33e00eb41e15ac82df6f4bc5cff5066dff9042a6648cb7d7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -75,12 +76,12 @@ record:
   title: 15 Developer Workflow changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal
-  Only show the background subagent shortcut when the server supports it]]'
 - '[[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed
   /review pr to use the same review engine as /code-review medium]]'
 - '[[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4
   Developer Workflow changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-use-the-add-dir-command-to-add-extra-working-directories-to-the-current-session|Use
+  the /add-dir  command to add extra working directories to the current session…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: developer-workflow
@@ -155,14 +156,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4 Developer Workflow changes in rust-v0.142.0]]
-- Later: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]
+- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-use-the-add-dir-command-to-add-extra-working-directories-to-the-current-session|Use the /add-dir  command to add extra working directories to the current session…]]
+- Later: 2026-06-23 · Kimi Code · [[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate web client localStorage access and split the root state store and app…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Reliability and Performance: 2 changes
   in HUB v2.5.0 — Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2811
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47fc9321db22a110ea8a323acaa5cf1de8394e38d47d596595ccb925bf29a111
+machine_hash: 6b86b13120bfacc44ece7d4a57dceea24d2f3196dafe5660a2958c62d8421dd1
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -99,7 +99,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-03-11'
 description: 'Cursor · 2025-03-11 · Editor Experience: 0.47.2: Cursor Tab accepts
   work with single-line selections'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 728
+  lag_days: 2312
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31909ece1eadd3946160e76ed19e9e904ad3bf22834954e8f48a93a6425d0ff7
+machine_hash: 5a6d715dd9e3a88d515868252cf671095e6356cf0b4d1b234cd43b5e1a5bacca
 product: cursor
 product_name: Cursor
 record:
@@ -83,13 +82,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev Mode:((source link) Easily edit any…]]
-- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask Gemini to remember the things you care about]]
+- Later: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

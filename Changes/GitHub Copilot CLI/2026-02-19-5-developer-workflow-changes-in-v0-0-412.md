@@ -4,19 +4,20 @@ date: '2026-02-19'
 description: 'GitHub Copilot CLI · 2026-02-19 · Developer Workflow: 5 changes in 0.0.412
   — Configure LSP server request timeouts in lsp.json'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1069
+  lag_days: 2718
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1a0f98ab173617a6fb103721084fddcfd5bd298fa3742d9f587d5add2e00e59
+machine_hash: ab733c9b6485b33e7f39568b02723d668918e473658f2f09ac23cd8aef7eb322
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -108,7 +109,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

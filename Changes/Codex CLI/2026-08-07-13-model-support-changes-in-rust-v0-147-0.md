@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a71a79b30da8e6aff87defd675149e80fbd39de144d9597254aacb8318a0a731
+machine_hash: 53b3b1af944aefd93d1378001a8a4d94e78e0e6ae2975d8b20e688d0e32d2ac1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 13 Model Support changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
-  in v4.1.6]]'
+- '[[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model
+  Support changes in Kimi Code 0.34.0]]'
 - '[[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI''s
   thinking in your app]]'
 - '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed

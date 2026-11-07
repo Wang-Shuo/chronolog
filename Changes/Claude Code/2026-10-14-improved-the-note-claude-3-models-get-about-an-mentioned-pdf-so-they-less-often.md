@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3302ce5a8e2195d27ea4d1a6e178c6fcfeb912fce05e5c204e329c7fe8cc245
+machine_hash: ae230bf126bc151ea6e06188f13be68636efc36bc96750ac91003a59084d0560
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
     often…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
-  Argon for your app''s AI features]]'
+- '[[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]'
 - '[[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support
   changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support

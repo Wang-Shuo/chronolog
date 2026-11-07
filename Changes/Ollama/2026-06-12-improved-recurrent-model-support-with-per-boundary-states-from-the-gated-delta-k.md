@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: be9e31cfd8304f923c6f00b89a8a4f509957b7089604432457715d64e1337cf6
+machine_hash: 7079449d9b3f36ad234ab8d66684c3d65aac1c0d359d5961403a17cfbdcbf47d
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
     kernels
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
-  what''s new in V8.1]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
+- '[[Changes/Kimi Code/2026-06-12-require-agentswarm-tool-calls-to-run-alone-in-a-model-response|Require
+  AgentSwarm tool calls to run alone in a model response]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-12-v0-30-8-github-338327728-6353d110|ollama-2026-06-12-v0-30-8-github-338327728-6353d110]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
+- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-require-agentswarm-tool-calls-to-run-alone-in-a-model-response|Require AgentSwarm tool calls to run alone in a model response]]
 - Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-2-model-support-changes-in-v1-17-4|2 Model Support changes in v1.17.4]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Codex CLI · 2026-06-25 · Context Window: 2 changes in 0.142.2 — #29249
   [codex] migrate environment context to model world state @pakrym-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3d130696448f81f0b9a4b369555720dab8e4ca599ee938c95e7f7ec6da049b1
+machine_hash: 1cdb2956462c71e9b1ef99e40498d981b8442e6410a6c7a9b31bfc8e764b181e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Context Window changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
-  Window changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-surface-provider-safety-policy-blocks-instead-of-silently-treating-them-as-compl|Surface
+  provider safety-policy blocks instead of silently treating them as completed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
   Window changes in v1.0.64]]'
 - '[[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

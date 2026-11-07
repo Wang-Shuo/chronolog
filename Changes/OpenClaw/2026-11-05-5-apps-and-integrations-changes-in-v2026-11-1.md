@@ -4,20 +4,20 @@ date: '2026-11-05'
 description: 'OpenClaw · 2026-11-05 · Apps and Integrations: 5 changes in v2026.11.1
   — Preserves empty or inherited group allowlists during Doctor repair and avoids…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d470b3ba9f7e4ebe43a32ee1233fa4c409c318b313aad6271b701dd3bbc223d
+machine_hash: 84a9b9a06357e68f8d2340f511f50e0a92b56f9eedee6758ce0bcdd2fd9d577b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Apps and Integrations changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21
-  Apps and Integrations changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
   and Integrations changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
   Integrations changes in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
+  can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: apps-integrations
@@ -111,14 +111,14 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and Integrations changes in 1.19.0]]
+- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

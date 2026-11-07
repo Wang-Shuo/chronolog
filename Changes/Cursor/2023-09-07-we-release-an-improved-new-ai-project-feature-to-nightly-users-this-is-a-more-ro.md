@@ -4,20 +4,20 @@ date: '2023-09-07'
 description: 'Cursor · 2023-09-07 · Reliability and Performance: We release an improved
   New AI Project feature to nightly users. This is a more robust chain and cleaner'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 266
+  lag_days: 1753
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d7f9f73ab81edebb728acfdfee52e7acf9f429f116e3f29319e9a0c0fc4eb0f6
+machine_hash: 8f4daa38b53e97442425af8668078f2115b97bc5709cd3331311f80b03df9fd3
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: We release an improved New AI Project feature to nightly users
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-30-improved-network-performance-of-ollama-push|Improved
-  network performance of ollama push]]'
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
   updates]]'
+- '[[Changes/Descript/2023-09-05-made-a-significant-improvement-to-the-performance-of-removing-large-numbers-of-f|Made
+  a significant improvement to the performance of removing large numbers…]]'
 - '[[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor
   performance improvements to model loading and generation]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135|cursor-2023-09-07-0-9-8-nightly-https-cursor-com-changelog-0-9-8-nightly-bc635135]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

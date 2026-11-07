@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f96a6c91573128db7a5c4ff7f4789f133b5b9de91a62f6982b326d97b36a039
+machine_hash: 450c2e4ec1986b4ee9e06d395b73d950b39d9b107ca00cf4128361d3fcf1d472
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v1.17.4
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
-  GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
+- '[[Changes/Kimi Code/2026-06-12-require-agentswarm-tool-calls-to-run-alone-in-a-model-response|Require
+  AgentSwarm tool calls to run alone in a model response]]'
 - '[[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved
   recurrent model support with per-boundary states from the gated-delta kernels]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-12-v1-17-4-8588f84b|opencode-2026-06-12-v1-17-4-8588f84b]]'

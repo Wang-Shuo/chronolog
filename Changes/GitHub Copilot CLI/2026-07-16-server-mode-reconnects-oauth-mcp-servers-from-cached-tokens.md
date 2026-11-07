@@ -4,20 +4,21 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Account and Access: Server mode reconnects
   OAuth MCP servers from cached tokens'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2179
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f62f439f9b2f221d0bb3ffea9ec297375a97bd7f131f56119f041ee07e27417
+machine_hash: ff19a6a866a6d4eb313ff39bd40cbdae4d4ef16760d8f4e4202e1fa0dd3b8300
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,8 +56,8 @@ record:
   title: Server mode reconnects OAuth MCP servers from cached tokens
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core
-  Added OAuth support for Luna Responses Lite]]'
+- '[[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show
+  the provider''s actual rejection message instead of a misleading re-login prompt…]]'
 - '[[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email
   alerts for sign-ins from a new device and country]]'
 - '[[Changes/Lovable/2026-07-15-password-reset-is-unavailable-for-accounts-without-a-password|Password
@@ -110,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

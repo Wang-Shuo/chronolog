@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6e3570e0e539ba40de9a837fdc012d2cc8c5cb5362e789168aff0705cc3ad7ea
+machine_hash: 88cccf87fb6fdf9f3bd54e5a84bbe747e2fae28c44a3be69274ab415085f739f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Added `/model` slash command to easily change the model…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
-  Claude Sonnet 4.5]]'
+- '[[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select
+  which AI model powers…]]'
 - '[[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-3-model-support-changes-in-v0-0-329|3 Model
   Support changes in v0.0.329]]'

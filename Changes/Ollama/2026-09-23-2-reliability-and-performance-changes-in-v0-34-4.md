@@ -5,20 +5,20 @@ description: 'Ollama · 2026-09-23 · Reliability and Performance: 2 changes in 
   — Structured outputs on thinking models now apply in a single pass, making them
   faster…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1378
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 285427f0f7f4aab30980426111c0d5d39aa4128467549b8ecceb2ecc7cc011c6
+machine_hash: 8e2d67f8985eaa70407c2d71743b6431ff92b8a51227ce6c046c45437875a0b0
 product: ollama
 product_name: Ollama
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Reliability and Performance changes in v0.34.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
-  Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
   skills and other customizations is now dramatically faster on large…]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
+- '[[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce
+  the CLI''s startup time and memory usage]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae|ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,14 +81,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.34.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]
+- Earlier: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce the CLI's startup time and memory usage]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5 Reliability and Performance changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

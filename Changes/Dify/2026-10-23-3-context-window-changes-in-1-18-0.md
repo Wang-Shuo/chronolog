@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Context Window: 3 changes in v1.18.0 — Smarter Agent
   Routing, Portable Apps, Deeper Workflow Visibility — Workspace owners can create…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2592
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10708449f5dfc835cff561d5c7c5ff4ca15b04a4516c7d3e9959d5fd15fb182d
+machine_hash: 87a59d67a6a687a428936d25563d6de39ff643b7407fc14e7460ad9b30e6b2ff
 product: dify
 product_name: Dify
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

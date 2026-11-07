@@ -4,19 +4,20 @@ date: '2026-04-15'
 description: 'Codex CLI · 2026-04-15 · Developer Workflow: 4 changes in 0.121.0 —
   Hardened supply-chain and CI inputs by pinning GitHub Actions, cargo installs, git…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2274f5d9879fec6b24f0caa78456cfe4baeea806d1373e9d0777ed90f1c36a7
+machine_hash: d0fc2b087c8628341d07762870bf3deb73e767516521c3460317b339fa6bb7e1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +47,10 @@ record:
   title: 4 Developer Workflow changes in rust-v0.121.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer
-  Workflow changes in v0.38.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP
   language servers correctly initialize on Windows using proper file URI paths]]'
+- '[[Changes/Notion/2026-04-14-your-notion-agent-has-new-skills-integrations-and-you-can-talk-to-it|Your
+  Notion Agent has new Skills, integrations … and you can talk to it!]]'
 - '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
   tool now enforces the documented maximum timeout instead of accepting…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
@@ -106,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

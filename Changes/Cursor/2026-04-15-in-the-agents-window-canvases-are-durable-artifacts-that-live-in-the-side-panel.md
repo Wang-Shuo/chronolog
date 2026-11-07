@@ -5,19 +5,20 @@ description: 'Cursor · 2026-04-15 · Developer Workflow: In the Agents Window, 
   are durable artifacts that live in the side panel alongside the terminal, browser,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad7fe496f6447cdb52c5083c328e61148dbfc62f728001dd2593356496b995a7
+machine_hash: 6edf80eec68b7bd5dbf454df8fb3a51cab5e002d60808484d1f7fb033f02bb7c
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +54,8 @@ record:
     panel…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP
-  language servers correctly initialize on Windows using proper file URI paths]]'
+- '[[Changes/Notion/2026-04-14-your-notion-agent-has-new-skills-integrations-and-you-can-talk-to-it|Your
+  Notion Agent has new Skills, integrations … and you can talk to it!]]'
 - '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
   tool now enforces the documented maximum timeout instead of accepting…]]'
 - '[[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

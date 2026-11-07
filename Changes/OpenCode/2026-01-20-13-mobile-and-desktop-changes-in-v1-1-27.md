@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Mobile and Desktop: 13 changes in v1.1.27 —
   Desktop Fixed flash of home page on application start'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a684f7910e2df0055556c40190b994e2515624dae920ba92801626bc98ab4389
+machine_hash: 8f94d0b59815b530ffab3fbdea5609b96a9d2fd55b276ad62720c484c71ffcea
 product: opencode
 product_name: OpenCode
 record:
@@ -65,11 +65,11 @@ record:
   title: 13 Mobile and Desktop changes in v1.1.27
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
 - '[[Changes/OpenCode/2026-01-19-50-mobile-and-desktop-changes-in-v1-1-26|50 Mobile
   and Desktop changes in v1.1.26]]'
 - '[[Changes/Midjourney/2026-01-20-improved-layout-for-mobile-and-tablets-with-long-prompts|Improved
   layout for mobile and tablets with long prompts]]'
+- '[[Changes/Notion/2026-01-20-ai-notes-on-mobile|AI Notes on mobile]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-27-d4cdcad9|opencode-2026-01-20-v1-1-27-d4cdcad9]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -127,14 +127,14 @@ Source: https://opencode.ai/changelog/v1.1.27
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-20 · Midjourney · [[Changes/Midjourney/2026-01-20-improved-layout-for-mobile-and-tablets-with-long-prompts|Improved layout for mobile and tablets with long prompts]]
+- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-ai-notes-on-mobile|AI Notes on mobile]]
 - Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-30-mobile-and-desktop-changes-in-v1-1-28|30 Mobile and Desktop changes in v1.1.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

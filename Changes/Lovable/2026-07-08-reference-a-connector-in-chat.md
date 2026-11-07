@@ -5,20 +5,20 @@ description: 'Lovable · 2026-07-08 · Apps and Integrations: You can now refere
   an [app connector](https://docs.lovable.dev/integrations/introduction) directly
   in a chat…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7952fb650fe3d24420a199a5cda643cdd3b69507c66812171b1caf9ca68e1851
+machine_hash: 56270a0e05a4bd23b729a41ac8acbbd89bce348727670e5017b6f34521141976
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Reference a connector in chat
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
-  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
 - '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
   Apps and Integrations changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
   plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add
+  the Vercel plugin to the bundled plugin marketplace]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote plugins are now enabled by default, with richer catalog rows, npm marketplace…]]
+- Earlier: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add the Vercel plugin to the bundled plugin marketplace]]
 - Later: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.33.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

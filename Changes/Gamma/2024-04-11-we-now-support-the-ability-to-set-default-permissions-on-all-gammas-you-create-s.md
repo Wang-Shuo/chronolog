@@ -5,19 +5,20 @@ description: 'Gamma · 2024-04-11 · Collaboration: We now support the ability t
   default permissions on all gammas you create, so you can better tailor permissions
   to the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 323
+  lag_days: 1917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1a48f9a31c82f257376eb5fa1ea567208553611418355d82f067822edd2fb6e3
+machine_hash: 61e4d7a5783afa7b5d024c111df2f7cba38c8a9abd851711a9a9d836ad38dafe
 product: gamma
 product_name: Gamma
 record:
@@ -51,8 +52,8 @@ record:
   title: Workspace default permissions and default themes
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card
-  notes and Presenter View]]'
+- '[[Changes/Descript/2024-03-19-we-released-a-backend-hotfix-to-address-a-bug-causing-descript-share-pages-load|We
+  released a backend hotfix to address a bug causing Descript Share pages load…]]'
 - "[[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|\U0001F4AC
   Webhook Support: Now compatible with Google Chat and Microsoft Teams]]"
 - "[[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|\U0001F5E8️
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

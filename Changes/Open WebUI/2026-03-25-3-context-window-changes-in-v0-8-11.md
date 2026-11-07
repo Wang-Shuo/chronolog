@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-25 · Context Window: 3 changes in v0.8.11 �
   **Tool HTML embed context.** Tools can now return custom context alongside HTML
   embeds by…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2380
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5386517f669e2d7353e885fa2273a4a878dffe001d1a83ea5ebe717d27eadd55
+machine_hash: f3dbf59338c829af2de23197c81563a5fe0178f2c05b35b6f8b4b3fd85930f77
 product: open-webui
 product_name: Open WebUI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Dify · 2025-05-15 · Interface Experience: 2 changes in v1.4.0 — We’ve
   rolled out a theme switcher that allows you to easily toggle between light and dark…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26b5216af8b45dec4df3171573243f1b91b82a6d249e6d9a83f214a1dba53d75
+machine_hash: 01afa427a73452a7eb132997bff82a8dca5ce236c7e86060dbf96cb63189fa80
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Interface Experience changes in 1.4.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface
-  Experience changes in v0.6.8]]'
 - '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
   details to auto approve menu and more sensible default controls]]'
+- '[[Changes/Notion/2025-05-13-welcome-to-your-new-ai-home|Welcome to your new AI
+  Home]]'
 - '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
 source_type: github_releases
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

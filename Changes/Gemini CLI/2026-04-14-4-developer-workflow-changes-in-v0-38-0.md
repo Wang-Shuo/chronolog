@@ -4,19 +4,20 @@ date: '2026-04-14'
 description: 'Gemini CLI · 2026-04-14 · Developer Workflow: 4 changes in Release v0.38.0
   — Terminal Serializer Optimization by @jacob314 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ec783cba319daa3683ef63ab423ef527af7c3d132c671e3bb2db6af9f541d33
+machine_hash: 2cfb8c5c44b26a99baca8c79b4e1d4f1f98cb3e9f751146a1dd6165f2b5b6a7b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.38.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

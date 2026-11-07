@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-12 · Developer Workflow: 2 changes in v2026.1
   — Code Mode tasks. Long Code Mode tasks can keep using tools when a model reuses
   an earlier…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1304
+  lag_days: 2953
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28841dfec98aed8b852c7a9a0d78101b4bfa40a5369d635ec7a1c5d4f1488d88
+machine_hash: 09498be42b79be2d4bead3eddb9bac27ae538f9bfd4c0b53e5fae812f9cd96f5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -106,7 +107,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

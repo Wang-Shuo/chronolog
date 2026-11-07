@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Apps and Integrations: 15 changes in 0.163.0
   — #51611 Signal abandonment of unanswered MCP elicitations @nicksteele-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a0a35a8d0312609acd2a617f36602ea93816501152ed58dbabdd7057e775d79
+machine_hash: df6372cfb24483e688662b71ea2f12e6003ba563f5510185aeb7af19ae793a26
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -73,12 +73,12 @@ record:
   title: 15 Apps and Integrations changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
-  Apps and Integrations changes in v1.0.98]]'
 - '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
   app to Bing Webmaster Tools]]'
 - '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
   and Integrations changes in v0.12.1]]'
+- '[[Changes/Qoder/2026-10-14-3-apps-and-integrations-changes-in-qoder-0-4-7|3 Apps
+  and Integrations changes in Qoder 0.4.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -149,14 +149,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps and Integrations changes in v0.12.1]]
+- Earlier: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-3-apps-and-integrations-changes-in-qoder-0-4-7|3 Apps and Integrations changes in Qoder 0.4.7]]
 - Later: 2026-10-15 · Runway · [[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet v2 Background Removal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

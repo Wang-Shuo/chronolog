@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 94c1f098246444e32d3dec69be7be5dfb2621307d682ce12e7169c509f4c47de
+machine_hash: 4108e4588fb22488d826d8c2b704ff18673818e5a4aca3f27b5ffaa5cab098b2
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes in v0.55.1]]
-- Later: 2026-08-11 · Ollama · [[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA Nemotron 3.5 Lightning((source link)]]
+- Later: 2026-08-11 · HeyGen · [[Changes/HeyGen/2026-08-11-why-it-matters|Why it matters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

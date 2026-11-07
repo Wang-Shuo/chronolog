@@ -5,20 +5,20 @@ description: 'Dify · 2024-06-14 · Reliability and Performance: 2 changes in v0
   — **Knowledge Retrieval**: Optimized knowledge retrieval performance by batching
   dataset…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 547
+  lag_days: 2034
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ce1cddf70cc0816ab86ddf49a9bd3953e7bc8f714808501e751186b90d1cc1d
+machine_hash: 1d591d62b023d6bed0fa9106045066b2eaf51eb6eb285638518f56c849349b8e
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in 0.6.11
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-05-active-users-indicator-now-you-can-see-how-many-people-are-currently-active-and|\U0001F465
-  Active Users Indicator]]"
 - '[[Changes/Ollama/2024-06-07-ollama-pull-is-now-faster-if-it-detects-a-model-is-already-downloaded|ollama
   pull is now faster if it detects a model is already downloaded]]'
+- '[[Changes/Notion/2024-06-11-database-views-that-are-grouped-by-the-select-status-multi-select-person-or-rela|Database
+  views that are grouped by the select , status , multi-select , person…]]'
 - "[[Changes/Open WebUI/2024-06-12-frontend-responsiveness-resolved-the-problem-where-the-frontend-would-stop-respo|\U0001F5A5️
   Frontend Responsiveness]]"
 source_release: '[[Releases/Dify/dify-2024-06-14-0-6-11-github-160555165-620e243a|dify-2024-06-14-0-6-11-github-160555165-620e243a]]'
@@ -93,13 +93,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.11
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-06-12 · Open WebUI · [[Changes/Open WebUI/2024-06-12-frontend-responsiveness-resolved-the-problem-where-the-frontend-would-stop-respo|🖥️ Frontend Responsiveness]]
-- Later: 2024-06-22 · Ollama · [[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3 Reliability and Performance changes in v0.1.46]]
+- Later: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more of your top requests.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

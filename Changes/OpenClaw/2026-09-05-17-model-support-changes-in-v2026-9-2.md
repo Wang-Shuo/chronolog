@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d80b887cd8d8c4609193f5deb97179fafba20b8b103cceb86678f7b3d124de15
+machine_hash: 7111dc29fff15d99b75213c3d30ac9fe6e5496b4666a5d4fde43e16225a5a427
 product: openclaw
 product_name: OpenClaw
 record:
@@ -241,7 +241,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.2
 ## Nearby in Model Support
 
 - Earlier: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama models can now be used directly in ChatGPT Desktop, so you can keep…]]
-- Later: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6 Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app's AI features]]
+- Later: 2026-09-05 · Qoder · [[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom BYOK endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

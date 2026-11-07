@@ -5,20 +5,19 @@ description: 'Cursor · 2024-02-23 · Editor Experience: Cursor is now based on 
   1.86.2! Among other things, this adds sticky scroll support to tree views. Also,
   cmdk…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 346
+  lag_days: 1930
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5fb2c0486ac4d6603b50e8bdb67e05eca0916fedcc22345cdfd22e489b9cecce
+machine_hash: 8dda03f6628ada0871475772ee5a82ea59ebae1c7831a181f6193e8fa18838b9
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +47,11 @@ record:
   title: VS Code 1.86.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
-  quality of life improvements…]]'
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
   Previews: this is an experimental new code reading feature]]'
 - '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
   Block]]'
+- '[[Changes/Descript/2024-02-20-editor-updates|Editor Updates]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b|cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -80,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor Block]]
+- Earlier: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-editor-updates|Editor Updates]]
 - Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show the user a FAQ link if edits fail to apply]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-03-15'
 description: 'Cline · 2025-03-15 · Reliability and Performance: Improve checkpoints
   loading performance and display warning for large projects not suited for checkpoints'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 821
+  lag_days: 2308
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa4ec3e1dbcbfcbd7e2a1f86340c0fd5ab231134c638467ffb16363f0f3560c6
+machine_hash: 59b77884aae21f537a20bb3561a5fdc4f64efe863bf58f3cb45a153b11d32f24
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
     not…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
-  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Descript/2025-03-11-record-button-in-drive-view|Record button in Drive
+  view]]'
 - '[[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability
   & Reliability]]'
 - '[[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-03-06'
 description: 'Runway · 2025-03-06 · Video Generation: You can now use a single reference
   image in Gen-3 Alpha and Turbo to style your Video to Video generations.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 413
+  lag_days: 1597
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70e09e7619f19629d7ea83588705293f0131f3a477e10a6cd7d26210558ffee7
+machine_hash: 97c09880479b4c374f6e388b1aef2c255a902e978fa0ebb913d7bef4c6263cfa
 product: runway
 product_name: Runway
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2024-12-19 · Runway · [[Changes/Runway/2024-12-19-add-a-middle-keyframe-in-addition-to-first-and-last-keyframes-for-more-control-o|Middle keyframes in Gen-3 Alpha Turbo]]
-- Later: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-today-s-video-workflow-will-be-called-image-to-video|Today’s Video workflow will be called “Image-to-Video”]]
+- Later: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-text-to-ai-video|Text-to-AI Video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

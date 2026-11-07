@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55307c9ef54ab87faf859a4e5f94f9650aec454a7363873c6998110105445d74
+machine_hash: cf5e5fad55c83be842f6f5be3f7dca2cbcec5a0a85bf42bd290e06a34636cebe
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,9 +50,10 @@ record:
   title: 4 Agent Mode changes in v0.44.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]'
 - '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
   changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-2-agent-mode-changes-in-kimi-code-0-3-0|2 Agent
+  Mode changes in Kimi Code 0.3.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
   changes in v2.1.152]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be|gemini-cli-2026-05-27-v0-44-0-github-330514896-d104c1be]]'

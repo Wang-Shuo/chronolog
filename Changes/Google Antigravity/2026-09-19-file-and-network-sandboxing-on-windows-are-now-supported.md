@@ -4,20 +4,20 @@ date: '2026-09-19'
 description: 'Google Antigravity · 2026-09-19 · Mobile and Desktop: File and network
   sandboxing on Windows are now supported.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 539f4789c0e73f4412cd861960ceb277db69eed007740d215d43101658df41d2
+machine_hash: 13de1495128470e933fe4661964f0b1a0a16b47babb3eab010f4a30e893469f4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,12 +43,12 @@ record:
   title: File and network sandboxing on Windows are now supported
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On
-  Windows, opening a repository that contains a file named rg.exe, git.exe…]]'
-- '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
-  Mobile and Desktop changes in rust-v0.155.0]]'
 - '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
   Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Kimi Code/2026-09-18-rename-the-kimi-install-app-subcommand-to-kimi-install-desktop-the-old-name-keep|Rename
+  the kimi install-app subcommand to kimi install-desktop]]'
+- '[[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites:
+  Choose a template and build a website through conversation]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-19-rel-hub-2-15-1-619838a7|google-antigravity-2026-09-19-rel-hub-2-15-1-619838a7]]'
 source_type: antigravity_changelog
 theme: mobile-desktop
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
+- Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites: Choose a template and build a website through conversation]]
 - Later: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama's macOS app will now no longer reopen windows you've closed when activating it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

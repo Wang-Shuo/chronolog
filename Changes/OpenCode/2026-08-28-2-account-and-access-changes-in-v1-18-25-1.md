@@ -5,20 +5,21 @@ description: 'OpenCode · 2026-08-28 · Account and Access: 2 changes in v1.18.2
   1 — Core Azure providers can now sign in with Microsoft Entra ID through the Azure
   CLI…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2222
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e6ab069a0fd483959f8c79ecd9e8e14b7328018833fe992ecc1df874646c9c7
+machine_hash: 89d9619b32b8f36bd3cd9bf9d45323120825a2018405b750f9752241674894ca
 product: opencode
 product_name: OpenCode
 record:
@@ -85,13 +86,13 @@ Source: https://opencode.ai/changelog/v1.18.25
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved Knowledge Center authentication synchronization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

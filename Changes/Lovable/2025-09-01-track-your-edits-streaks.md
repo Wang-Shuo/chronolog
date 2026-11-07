@@ -5,20 +5,19 @@ description: 'Lovable · 2025-09-01 · Editor Experience: We’ve added a person
   where you can see how many edits you’ve made in Lovable and track your streaks.
   A…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 902
+  lag_days: 2486
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4ab388cdc76bc07e1f969c4c0848fd94db8e8229063303cd2d9b544fa3464c79
+machine_hash: f99280c0ed733ffba918979038809a1ff4765280067d40b0a7f6ef15853563d6
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +47,11 @@ record:
   title: Track your edits + streaks**
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor
-  Experience changes in rust-v0.25.0]]'
 - '[[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience
   changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
   Experience changes in v0.2.0]]'
+- '[[Changes/Descript/2025-08-29-what-s-new|What’s new?]]'
 source_release: '[[Releases/Lovable/lovable-2025-09-01-2025-09-01-b1665f28|lovable-2025-09-01-2025-09-01-b1665f28]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -87,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor Experience changes in v0.2.0]]
+- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-what-s-new|What’s new?]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor Experience changes in v0.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

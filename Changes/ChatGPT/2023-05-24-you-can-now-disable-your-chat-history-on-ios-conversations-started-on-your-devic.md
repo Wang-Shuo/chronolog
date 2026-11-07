@@ -4,20 +4,20 @@ date: '2023-05-24'
 description: 'ChatGPT · 2023-05-24 · Mobile and Desktop: You can now disable your
   chat history on iOS. Conversations started on your device when chat history is disabled…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 71
+  lag_days: 1655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8e808190bcab7ceb4062d2e08b32121160bf7a3b5d839594cbad9354667c5224
+machine_hash: cd19caaa076cf50318d5f4a46cb0a44fa0f3e5108353301fe7484ca5028396ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,6 +49,8 @@ record:
   title: Disable chat history on iOS
   type: change
 related_changes:
+- '[[Changes/Notion/2023-02-09-made-updates-to-the-mobile-search-experience-that-improved-load-times|Made
+  updates to the mobile search experience that improved load times]]'
 - "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support
   \U0001F973]]"
 - '[[Changes/ChatGPT/2023-05-24-good-news-we-re-expanding-availability-of-the-chatgpt-app-for-ios-to-more-countr-1a3e7f|ChatGPT
@@ -90,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

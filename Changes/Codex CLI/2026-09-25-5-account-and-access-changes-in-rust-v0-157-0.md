@@ -4,20 +4,21 @@ date: '2026-09-25'
 description: 'Codex CLI · 2026-09-25 · Account and Access: 5 changes in 0.157.0 —
   #47158 Harden gateway OAuth credential persistence and error redaction @alexsong-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2250
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42ad9ab2126b3b11e754ec1642ee69df1b0a44a556e9a55773459daa879b811d
+machine_hash: 03915e1f75a1e4193860b0046ab868453229a7bfe1733d09c40f60cad7981dda
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +50,12 @@ record:
   title: 5 Account and Access changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3
-  Account and Access changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
   and Access changes in v2.1.281]]'
 - '[[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account
   and Access changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-network-proxy-added-support-for-http-https-proxy-urls-containing-a-username-and|Network
+  proxy: Added support for HTTP/HTTPS proxy URLs containing a username…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
 source_type: github_releases
 theme: account-access
@@ -106,14 +107,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account and Access changes in v2026.9.6]]
+- Earlier: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-network-proxy-added-support-for-http-https-proxy-urls-containing-a-username-and|Network proxy: Added support for HTTP/HTTPS proxy URLs containing a username…]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added /mcp reconnect all in the interactive terminal to retry every MCP server…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c29b27a491d941b1ab3a4f4f79877ea350e7fdadaa544b40bc77c3c448978515
+machine_hash: acd2972442441f793c9c21c29504dc192d351e2b2f0782053a5caf2a07752afe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 13 Agent Mode changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode
-  changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-2-agent-mode-changes-in-qoder-0-4-1|2 Agent Mode changes
+  in Qoder 0.4.1]]'
 - '[[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode
   changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive|Improved

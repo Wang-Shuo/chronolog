@@ -4,20 +4,20 @@ date: '2026-02-03'
 description: 'Dify · 2026-02-03 · Context Window: 5 changes in v1.12.0 - Introducing
   Summary Index: Smarter Retrieval with AI Summarization — Traditional vector search…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1006
+  lag_days: 2330
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 367d6e92f1ddeb3be0ba99cca897f520cd1f0604ef48a7154c044a10a2d5303a
+machine_hash: a79474bcd295b0afab587ebf82487b22937d22e336d25b09618be81f50963cda
 product: dify
 product_name: Dify
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

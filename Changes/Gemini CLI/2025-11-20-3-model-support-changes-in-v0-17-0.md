@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07cece358a45f95070229344853358af42f49c3a918deb998f2e916febfbcb10
+machine_hash: 7e7116816154256261da07abea4ceb8e76b120cfaccc5a0883d125ae7435f570
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
-  Support changes in rust-v0.59.0]]'
+- '[[Changes/Notion/2025-11-19-gemini-3-pro-is-now-available-in-notion|Gemini 3 Pro
+  is live]]'
 - '[[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source
   link) instruction tuned generative…]]'
 - '[[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop

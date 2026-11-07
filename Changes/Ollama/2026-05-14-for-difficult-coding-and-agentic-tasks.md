@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 201c0a8bbebf6f02f3c8d31709f1fa5ff4dc47f8f76c3a0c8e9efffbf6715ade
+machine_hash: 3a24c184f086909ee1624cbbfc32716417f754a494a621bf2be64274c0ae53f6
 product: ollama
 product_name: Ollama
 record:
@@ -39,11 +39,12 @@ record:
   title: For difficult coding and agentic tasks
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-packages|Packages]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
-  supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
+- '[[Changes/Notion/2026-05-13-orchestrate-all-your-team-s-agents-alpha|Orchestrate
+  all your team’s agents (Alpha)]]'
 - '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
   hook configuration error]]'
+- '[[Changes/Descript/2026-05-14-agent-templates-renamed-to-prompt-templates-the-label-in-the-underlord-panel-has|Agent
+  templates renamed to "prompt templates." The label in the Underlord panel…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-14-v0-24-0-github-322272827-9537ae42|ollama-2026-05-14-v0-24-0-github-322272827-9537ae42]]'
 source_type: github_releases
 theme: agent-mode
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-agent-templates-renamed-to-prompt-templates-the-label-in-the-underlord-panel-has|Agent templates renamed to "prompt templates." The label in the Underlord panel…]]
 - Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode changes in v2.1.143]]
 <!-- chronolog:end -->
 

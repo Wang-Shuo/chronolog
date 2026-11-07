@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Music Generation: Background image, vide
   music generation can complete independently of the request that started it, avoiding
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1005
+  lag_days: 2471
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c43c2ac4d029c8351fa13bd507862810ebeeb451252597d4e0e2ec4d641e99a
+machine_hash: b1e0b8afa5b81f5f403176a770e42dd7e0df815b44e7e14382e33d22d3ec156a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,8 +57,8 @@ record:
   title: Background image, video, and music generation can complete independently…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-with-diagnostic-recording-enabled-openrouter-can-return-finished-music-or-a-usag|With
-  diagnostic recording enabled, OpenRouter can return finished music…]]'
+- '[[Changes/Descript/2026-09-17-we-got-a-bit-behind-in-posting-on-the-changelog-this-summer-well-one-of-us-did-b|We
+  got a bit behind in posting on the changelog this summer (well, one of us did)]]'
 - '[[Changes/Suno/2026-09-17-we-ve-made-improvements-to-studio-s-midi-performance-and-now-working-with-midi-i|Suno
   Studio: Improved MIDI and more]]'
 - '[[Changes/OpenClaw/2026-09-19-video-generation-preserves-repeated-reference-positions-so-the-same-image-can-se|Video
@@ -120,7 +120,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

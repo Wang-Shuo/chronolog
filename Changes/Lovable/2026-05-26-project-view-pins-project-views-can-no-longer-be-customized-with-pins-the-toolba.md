@@ -5,20 +5,20 @@ description: 'Lovable · 2026-05-26 · Interface Experience: **Project view pins
   Project views can no longer be customized with pins. The toolbar now uses a fixed
   layout to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2599
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae83aef7d249605777a7905e3834410655b64e75718f023d56ae47f8d1727b46
+machine_hash: 84da396a0830b84934dd0963295ff5392740a31f9dc818d9d85c42bf67172c42
 product: lovable
 product_name: Lovable
 record:
@@ -44,10 +44,10 @@ record:
   title: '**Project view pins.** Project views can no longer be customized with pins'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
-  Interface Experience changes in v1.0.52]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
-  Interface Experience changes in v1.0.53]]'
+- '[[Changes/Kimi Code/2026-05-26-hide-the-empty-current-session-from-the-sessions-picker-while-keeping-other-empt|Hide
+  the empty current session from the sessions picker while keeping other empty…]]'
+- '[[Changes/Kimi Code/2026-05-26-logout-now-opens-a-picker-so-you-can-choose-which-provider-to-log-out-of-instead|/logout
+  now opens a picker so you can choose which provider to log out of, instead…]]'
 - '[[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar
   navigation improvements]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-26-2026-05-26-5183a7b6|lovable-2026-05-26-2026-05-26-5183a7b6]]'
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2 Interface Experience changes in v1.0.53]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-logout-now-opens-a-picker-so-you-can-choose-which-provider-to-log-out-of-instead|/logout now opens a picker so you can choose which provider to log out of, instead…]]
+- Later: 2026-05-26 · Notion · [[Changes/Notion/2026-05-26-give-it-a-try-select-multiple-cells-open-the-cell-menu-select-merge-cells|Give it a try: select multiple cells → open the cell menu → select Merge cells]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Apps and Integrations: feat: land the Canvas
   Extensions frontend (load pages, sidebar, customize) by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1253
+  lag_days: 2813
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 275bfe1a7293cbbfd7523a1c0867e323b768865e9ff3712489369b77cad15720
+machine_hash: 011e7580a9932607fbdddcdb75fad3571a55fa81f58bf84a7767ee0a60890a29
 product: openhands
 product_name: OpenHands
 record:
@@ -52,11 +52,12 @@ record:
   title: 'feat: land the Canvas Extensions frontend (load pages, sidebar, customize)'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12
   Apps and Integrations changes in v1.0.81]]'
+- '[[Changes/Kimi Code/2026-08-27-2-apps-and-integrations-changes-in-kimi-code-0-39-0|2
+  Apps and Integrations changes in Kimi Code 0.39.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12 Apps and Integrations changes in v1.0.81]]
-- Later: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect multiple Google accounts to ChatGPT]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-2-apps-and-integrations-changes-in-kimi-code-0-39-0|2 Apps and Integrations changes in Kimi Code 0.39.0]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-mcp-authorization-reconnection-and-state-synchronization|Improved MCP authorization, reconnection, and state synchronization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

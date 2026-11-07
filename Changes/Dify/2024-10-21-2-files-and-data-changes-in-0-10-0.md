@@ -4,20 +4,20 @@ date: '2024-10-21'
 description: 'Dify · 2024-10-21 · Files and Data: 2 changes in v0.10.0 — **Document
   Extractor**: Converts documents into text effortlessly, making data extraction…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 515
+  lag_days: 1860
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 943879d4d14be0b9709420193f0a0f03930b39e8b37ad3a952469fb0637fdf1d
+machine_hash: d4d2c151fdb42518cfe91311a334b63b65ace2064bfe379eaec40cb781a9f7c7
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Files and Data changes in 0.10.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|\U0001F4C4
-  Enhanced PDF Citations]]"
+- '[[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]'
 - '[[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected
   a linking error in help documents (@hjlarry in ♯8508)]]'
 - '[[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and
@@ -95,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

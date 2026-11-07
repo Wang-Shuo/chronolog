@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-05 · Reliability and Performance: 2 changes
   v0.5.8 — **\U0001F6E0️ Native Tool Calling Support (Experimental)**: Supported models
   can now call…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 2270
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 820f779770edbf3000b6a35a64eb6aa797e52da9cba78f63ce2692124e5fb662
+machine_hash: e3328a2e452375219bb2c9749d0f1c29c5a47158c85567aa637679a209aab4a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v0.5.8
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These
+  upgrades also bring faster text-to-speech generation, and add support…]]'
 - '[[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated
   Filmstrip Experience]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-stability-with-custom-functions-addressed-failures-when-using-t|\U0001F4BB
@@ -98,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-16'
 description: 'Open WebUI · 2026-02-16 · Voice and Audio: ♻️ **Resource handle cleanup.**
   File handles are now properly closed during audio transcription and pipeline…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 952
+  lag_days: 2779
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d39a33bc2ec1ef1f30597a8752cfc38f0c68b13ddd56ca4e64b97d8e28c512d
+machine_hash: 1e9cf52cb24e857e449f655347ae7f4a81921a803443b0311ad6f3363e2d834c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,7 +45,8 @@ record:
     audio…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-02-react-and-client-sdks|React and Client SDKs]]'
+- '[[Changes/Descript/2026-02-10-better-lip-sync-and-timing-for-translations|Better
+  lip sync and timing for translations]]'
 - '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
   Voice Update]]'
 - "[[Changes/Open WebUI/2026-02-12-audio-service-timeout-handling-audio-transcription-and-text-to-speech-requests-n|\U0001F50C
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-10-22 · Interface Experience: You can 
   manage notification preferences, toggle completion sounds, and adjust agent sound
   volume…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1382
+  lag_days: 2748
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9251aa3978d40e022b217e36a6f31c4f0de730661e027ec6cb7a9b6580d7d92e
+machine_hash: e4a9be7a8f4e08577c35686964ae807e3fa47af0e211b867a9b7f2eb300da1e7
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+- Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar customization: Reorder navigation entries, move them between sections…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

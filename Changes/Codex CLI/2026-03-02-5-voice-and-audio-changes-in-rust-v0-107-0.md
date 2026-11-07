@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'Codex CLI · 2026-03-02 · Voice and Audio: 5 changes in 0.107.0 — Realtime
   voice sessions now let you pick microphone and speaker devices, persist those…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6dee904d66e48d1ad93e8907a965cc22ed4a4887e0891aaeee5b946ca964316
+machine_hash: 046ebf7a8fa8522d28c32044b7ccdca212e4eb48fae3db2061a66756077f6b77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,13 +106,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
-- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-voices|Voices]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-background-noise-reduction-improvements|Background noise reduction improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

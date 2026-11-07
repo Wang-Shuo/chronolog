@@ -5,19 +5,20 @@ description: 'Lovable · 2026-06-02 · Collaboration: You can now ask Lovable to
   your [folders](https://docs.lovable.dev/introduction/project-folders.md) or move
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2699
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9c06060919857480c93e6bfa8c46c74abc6c7a01add768832c781455618bada6
+machine_hash: 94ce8cdad888cdae28bd248aaffbf7f376cc95f7a237ba1778cd535046d25322
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +52,10 @@ record:
   title: Move projects to folders from chat
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
-  Shared-chat file write protection. Access to a file through a shared chat now…]]"
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'
+- '[[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The
+  Organization tab now begins with a Team Overview section, where admins can view…]]'
 - '[[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project
   collaborator icons]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-02-2026-06-02-2d78061d|lovable-2026-06-02-2026-06-02-2d78061d]]'
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Earlier: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The Organization tab now begins with a Team Overview section, where admins can view…]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

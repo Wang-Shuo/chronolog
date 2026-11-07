@@ -5,20 +5,20 @@ description: 'Dify · 2025-07-23 · Voice and Audio: 2 changes in v1.7.0 - Tool 
   & Plugin Auto-Upgrade Enhanced — **Audio Configuration UI**: Customize your app''s
   audio…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 744
+  lag_days: 2571
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5176e47d62942d69ec08757d39b77f9a09e1d41b88e1427e8328ba9ce7cebd5
+machine_hash: 8241f61c9d700a9018efaaee62887f70155489fcca31be140e0c1d1bdb8efa0d
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

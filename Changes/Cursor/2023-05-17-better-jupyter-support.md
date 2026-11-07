@@ -4,20 +4,20 @@ date: '2023-05-17'
 description: 'Cursor · 2023-05-17 · Context Window: Context ingestion across a full
   notebook'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 13
+  lag_days: 1337
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea1ca9b02990ca1a3c6fb21ae1d81dc0d60f2fb482626de64a09cc63dca924e6
+machine_hash: d11be007d11951b7b661118f1c4f7ae0ffe626cf1b244ddd1e534f76d75047a0
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,8 @@ record:
   title: Better Jupyter Support
   type: change
 related_changes:
+- '[[Changes/Descript/2023-03-21-you-can-now-also-include-or-remove-layers-or-clips-from-the-script-from-the-cont|Also
+  include or remove layers or clips from the script from the context menu…]]'
 - '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window
   changes in 0.2.9]]'
 - '[[Changes/ChatGPT/2023-05-12-for-more-information-on-our-rollout-process-please-check-out-the-article-here-in|For
@@ -91,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

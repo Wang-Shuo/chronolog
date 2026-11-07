@@ -4,20 +4,19 @@ date: '2026-07-15'
 description: 'OpenCode · 2026-07-15 · Editor Experience: Added Mod+N as another shortcut
   for opening a new tab'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2803
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1ec7218bd4f8a5503b81bca1ea0aabbb293ed841a1626fbc4f92a7b9ee72ee75
+machine_hash: b1eb341800aa3bae0cf8aee3b2ce5d10a187cef6e85b15c27dd95591023e2237
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +42,12 @@ record:
   title: Added Mod+N as another shortcut for opening a new tab
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor
-  Experience changes in v2026.7.1]]'
-- '[[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop
-  Added middle-click to open sessions in a new tab]]'
-- '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
-  Experience changes in v2.1.208]]'
+- '[[Changes/Kimi Code/2026-07-14-move-foreground-bash-commands-that-hit-their-timeout-to-the-background-instead-o|Move
+  foreground Bash commands that hit their timeout to the background instead…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-microsoft-edge-v-149-modern-unified-and-updated-look-and-feel-web-microsoft-365|Microsoft
+  Edge: v.149 - Modern, unified, and updated Look and Feel…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-copilot-prompt-gallery-company-wide-prompt-publishing-windows-web-microsoft-365|Copilot
+  Prompt Gallery - Company-wide prompt publishing Windows…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-15-v1-18-2-1cf399ef|opencode-2026-07-15-v1-18-2-1cf399ef]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]]
+- Earlier: 2026-07-15 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-15-copilot-prompt-gallery-company-wide-prompt-publishing-windows-web-microsoft-365|Copilot Prompt Gallery - Company-wide prompt publishing Windows…]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

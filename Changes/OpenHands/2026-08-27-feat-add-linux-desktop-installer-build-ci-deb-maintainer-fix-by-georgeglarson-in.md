@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Mobile and Desktop: feat: add linux desktop
   installer build (CI + deb maintainer fix) by @georgeglarson in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe5409a1898adc3b36e4d2a72b09f55b13b6b26a6b3214ef85d4d7648105e699
+machine_hash: 62ceb9665f12dbf02ee0a4437356003a25d92c9ce5275395add3594d3d470be2
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: add linux desktop installer build (CI + deb maintainer fix)'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
-  Starting up on Windows. The Windows start script now creates the secret key…]]"
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
   Restrict macOS preference reads to full-disk policies @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
   builds on Windows create their scratch caches on first run, so cargo, go…]]'
+- '[[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile
+  UI styling]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed builds on Windows create their scratch caches on first run, so cargo, go…]]
-- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-gamma-is-now-on-ios-and-android|Gamma is now on iOS and Android]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile UI styling]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-works-in-real-environments-with-browser-use-and-computer-use-qoder-can-operate-w|Works in real environments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

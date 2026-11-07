@@ -4,20 +4,19 @@ date: '2024-06-28'
 description: 'Dify · 2024-06-28 · Editor Experience: 2 changes in v0.6.12 — **Undo/Redo
   for Workflow Editor**: Finally, you can undo and redo your actions in the workflow…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 472
+  lag_days: 2056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3aa93f2f851c693e4307945fd7867d5fe762104c1b252d7db0c44943e34fa7ba
+machine_hash: e53c758bd35f9e97f80091099ff6ee2348e8cb08c7a11a0ead5852d880608902
 product: dify
 product_name: Dify
 record:
@@ -43,12 +42,11 @@ record:
   title: 2 Editor Experience changes in 0.6.12
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
-  Cursor Prediction with a new UI]]'
-- "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
-  Editable Search Query Prompt]]"
 - '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
   image style keywords are now editable in the theme editor]]'
+- '[[Changes/Descript/2024-06-19-editor-updates|Editor Updates]]'
+- '[[Changes/Notion/2024-06-25-better-find-cmd-f-can-now-find-hidden-content-in-collapsed-toggles-or-within-dat|Better
+  “find”: Cmd+f can now find hidden content in collapsed toggles or within databases]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,14 +88,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-18 · Gamma · [[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI image style keywords are now editable in the theme editor]]
+- Earlier: 2024-06-25 · Notion · [[Changes/Notion/2024-06-25-better-find-cmd-f-can-now-find-hidden-content-in-collapsed-toggles-or-within-dat|Better “find”: Cmd+f can now find hidden content in collapsed toggles or within databases]]
 - Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

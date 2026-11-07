@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2ba479c7a61b6a0bb3497b465aed86d1e65c1e8532eeaf3c4121c03469be129
+machine_hash: 20724d049a362119531f11fa2d1a7ea1a4f9d6d8b9d070ef85f3831d6430d713
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-new-agent-window|New Agent Window]]'
 - '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
   in v3.11.212]]'
 - '[[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes
   in v2026.10.7]]'
+- '[[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent
+  Mode changes in Kimi Code 2.3.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: agent-mode
@@ -93,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes in v2026.10.7]]
+- Earlier: 2026-10-25 · Kimi Code · [[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent Mode changes in Kimi Code 2.3.2]]
 - Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base crawl exclusions]]
 <!-- chronolog:end -->
 

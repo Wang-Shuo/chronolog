@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df1409eb3cb97c36a57f35b9e548a9cdb223c9bb31e7f25bbf40fd217aa87463
+machine_hash: 1e54ff831a766f641822cb72325828f46f93bfb853363b84ded796f1dce8d1c3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 3 Model Support changes in v0.0.329
   type: change
 related_changes:
-- '[[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]'
-- '[[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add
-  Claude Sonnet 4.5]]'
+- '[[Changes/Descript/2025-09-29-why-choose-different-models|Why choose different
+  models?]]'
+- '[[Changes/Descript/2025-09-29-you-can-now-select-which-ai-model-powers-your-underlord-https-help-descript-com|Select
+  which AI model powers…]]'
 - '[[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
 source_type: github_releases

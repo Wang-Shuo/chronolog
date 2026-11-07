@@ -4,20 +4,20 @@ date: '2026-06-17'
 description: 'OpenCode · 2026-06-17 · Mobile and Desktop: Desktop The new desktop
   file and folder picker is faster and easier to navigate in the v2 layout.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d23d4f5c50d8620e8ed3d893d624113355fce425af8f4d2e99add309a51f5042
+machine_hash: 4bb5b42e0c82925fd9a1f7cba919512b5649933041636b8dd4c44879d8bdfb81
 product: opencode
 product_name: OpenCode
 record:
@@ -54,7 +54,8 @@ record:
   title: Desktop The new desktop file and folder picker is faster and easier to navigate…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-anthropic-s-claude-now-available-in-microsoft-365-copilot-android-windows-ios-ma|Anthropic''s
+  Claude now available in Microsoft 365 Copilot Android, Windows, iOS…]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
   3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

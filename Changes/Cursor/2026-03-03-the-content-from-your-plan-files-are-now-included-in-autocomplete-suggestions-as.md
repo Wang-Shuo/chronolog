@@ -5,20 +5,20 @@ description: 'Cursor · 2026-03-03 · Interface Experience: The content from you
   files are now included in autocomplete suggestions as you type in the agent chat
   input.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6a57a421823d51fc36f9ca259056993757be2d614d4a09d6811118aae3db516f
+machine_hash: 394d7666267fab522e672102b656b480ef1b32aa0fcbfeea5ff9c77cf0ea1c23
 product: cursor
 product_name: Cursor
 record:
@@ -57,7 +57,8 @@ record:
     as you…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]'
+- '[[Changes/Notion/2026-03-02-turn-any-notion-page-into-a-fullscreen-presentation-just-add-dividers-to-separat|Present
+  any Notion page]]'
 - "[[Changes/Open WebUI/2026-03-02-chat-history-pagination-fixed-an-issue-where-older-messages-in-long-chats-were-n|\U0001F4DC
   Chat history pagination. Fixed an issue where older messages in long chats…]]"
 - '[[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed
@@ -109,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

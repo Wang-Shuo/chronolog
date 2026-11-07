@@ -4,20 +4,20 @@ date: '2025-01-22'
 description: 'Open WebUI · 2025-01-22 · Reliability and Performance: 2 changes in
   v0.5.5 — **⚡ MPS Functionality for Mac Users**: Fixed MPS support, ensuring smooth…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 769
+  lag_days: 2256
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 184ff0501ad53d7f225f491b55488a15e6c64d598e56b0686f16f75003e4d999
+machine_hash: 930c592978b5d214b032f775df92534d5ee601423407beeb15c0f5b4b1079c1b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

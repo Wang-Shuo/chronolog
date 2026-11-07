@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-08-14 · Editor Experience: **\U0001F5D1️ Dep
   Frontend Functions**: Removed frontend functions that were migrated to backend to
   declutter the…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 519
+  lag_days: 2103
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 71665256277ffff97bc46f79033a31120c44c57f48f5dbf7a6b8ea3cf2e579c3
+machine_hash: fcd0207e3664115c07ae09452ec0a4cef4545431fcf23a1d4ca49d42902b46e5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +45,11 @@ record:
   title: "**\U0001F5D1️ Deprecated Frontend Functions**"
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We
-  just launched a new step-by-step theme builder!]]'
-- '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
-  now shows diffs of all changes resulting from your request, including lint…]]'
 - '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
   /code message command request a code edit while in ask mode]]'
+- '[[Changes/Descript/2024-08-14-edit-for-clarity-now-more-or-less-intense|Edit for
+  clarity now more (or less) intense]]'
+- '[[Changes/Descript/2024-08-14-import-from-zoom|Import from Zoom]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e|open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New /code message command request a code edit while in ask mode]]
+- Earlier: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-import-from-zoom|Import from Zoom]]
 - Later: 2024-08-16 · Midjourney · [[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We're releasing a new web editor today!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

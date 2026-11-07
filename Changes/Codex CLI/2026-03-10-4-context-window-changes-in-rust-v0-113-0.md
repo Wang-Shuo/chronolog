@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'Codex CLI · 2026-03-10 · Context Window: 4 changes in 0.113.0 — #13560
   Refine realtime startup context formatting @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1041
+  lag_days: 2365
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b43a157df789843013e634428a59290563241e0cab12bd3f82302e6e82f72641
+machine_hash: 28630bfff06b151164addaad8e7c8d2e9a167bf3c0489cec84ea7ec173047718
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,13 +100,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 ## Nearby in Context Window
 
 - Earlier: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]
-- Later: 2026-03-11 · Claude · [[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel and PowerPoint]]
+- Later: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-scope-copilot-chat-prompts-to-teams-channels-with-context-iq-web-microsoft-365-c|Scope Copilot Chat prompts to Teams channels with Context IQ…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83417e058563f1c847c37fdfaeb9aa49ad775b44e2ee00843513215983d47d13
+machine_hash: 0b59d01eef10caf3905afcc988c47a2e38bbf7404339463f23565b6e946ac153
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -95,7 +95,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.15.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode changes in v2.1.277]]
-- Later: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to Agent]]
+- Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-response-annotations-enable-this-feature-in-settings-experimental-features-to-se|Response annotations: Enable this feature in Settings-Experimental Features…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

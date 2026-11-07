@@ -4,20 +4,20 @@ date: '2025-07-15'
 description: 'Cline · 2025-07-15 · Apps and Integrations: Add markdown parsing to
   MCP responses by @celestial-vault in https://github.com/cline/cline/pull/4862'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 845
+  lag_days: 2405
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 882eb90c7cd35d7fa14b4e10e5b37e706d58efcc9b5657d7234a5b8ac08fd9c6
+machine_hash: 7a136603b8b9c2257543b8c172e27793b5781a504fcb74bbaa4ad448a235ba97
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Add markdown parsing to MCP responses
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-10-10-apps-and-integrations-changes-in-1-6-0|10 Apps and
-  Integrations changes in 1.6.0]]'
+- '[[Changes/Notion/2025-07-10-build-with-replit-manage-with-notion|Build with Replit,
+  manage with Notion]]'
 - '[[Changes/Gemini CLI/2025-07-11-6-apps-and-integrations-changes-in-v0-1-10|6 Apps
   and Integrations changes in v0.1.10]]'
 - '[[Changes/ElevenLabs/2025-07-14-sdks|SDKs]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Mobile and Desktop: You can now enable d
   access for Azure cloud workers , whether OpenClaw manages them directly or through
   a…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f18b0ff450ea41578097e7b6d22484063c06fcf18f28d89ef6e15ded671ec5bf
+machine_hash: 29bb449a6ca3aeeb9077f80a4a4b23f1923b1c8aec36e23867083c216757e008
 product: openclaw
 product_name: OpenClaw
 record:
@@ -112,13 +112,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
+- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-openin-choose-whether-to-open-each-file-type-in-the-desktop-app-or-its-asso|File openin: Choose whether to open each file type in the desktop app…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

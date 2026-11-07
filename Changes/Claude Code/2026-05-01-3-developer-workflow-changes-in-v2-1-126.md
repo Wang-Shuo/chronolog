@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-01 · Developer Workflow: 3 changes in v2.1
   — Windows: when the PowerShell tool is enabled, Claude now treats PowerShell as
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84f6e4ef34f24110a462b77e71f959d7f4dbb068111e38c3acaec3927fb0d19d
+machine_hash: 023467f652d2248e5cef49c1c6fc8bd0b9d17bd148341240a46d5cc32aa6b5b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.126
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

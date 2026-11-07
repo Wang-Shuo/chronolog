@@ -4,20 +4,20 @@ date: '2026-05-20'
 description: 'OpenCode · 2026-05-20 · Apps and Integrations: 3 changes in v1.15.6
   — Core Plugin file load errors no longer break the rest of plugin loading.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2714
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d25c032f012c15be375d4a4b5795878e93ac18aa6b8557ea4c4f8d45119e65e
+machine_hash: 994b71d806d3708aa73cd5fece6336188c24a1d41d2f5d6034d01eb10cebace0
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Apps and Integrations changes in v1.15.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
-  Apps and Integrations changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph
+  API enhancements for custom connector relevance and UX…]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
   Apps and Integrations changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
@@ -101,7 +101,7 @@ Source: https://opencode.ai/changelog/v1.15.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

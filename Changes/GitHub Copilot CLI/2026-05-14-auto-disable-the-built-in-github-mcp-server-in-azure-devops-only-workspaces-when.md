@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'GitHub Copilot CLI · 2026-05-14 · Apps and Integrations: Auto-disable
   the built-in github-mcp-server in Azure DevOps-only workspaces when running in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2708
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a9b03d0082418fe9792b8218f33d6dcd583c236a8073420436cbb64b6a88afa
+machine_hash: b4ec85aeaf539e46c03355ab296f34e44d0eb82540f340bd6d4e0225a495d42f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,9 @@ record:
   title: Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
-  MCP auth token lifecycle handling]]'
 - '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
+- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
+  started is easy]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

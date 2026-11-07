@@ -3,20 +3,20 @@ card_id: aider-2025-01-10-6d09d2
 date: '2025-01-10'
 description: 'Aider · 2025-01-10 · Interface Experience: https://aider.chat/HISTORY.html'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 732
+  lag_days: 2098
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea8ce2e0d8d621b7183186cbfe2084ed8e93bc80c742213f72450d63065ee3bd
+machine_hash: b55eb02f2ef540b1ad6f4e77c7baf25ff890bd762018eeed155457aa1fc6e09b
 product: aider
 product_name: Aider
 record:
@@ -41,11 +41,10 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add
-  loading spinner to task form during conversation creation]]'
 - '[[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]'
 - '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
   Experience changes in v0.5.4]]'
+- '[[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface Experience changes in v0.5.4]]
+- Earlier: 2025-01-07 · Descript · [[Changes/Descript/2025-01-07-jibber-jabber-is-no-more|Jibber Jabber is no more]]
 - Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge API ToC]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

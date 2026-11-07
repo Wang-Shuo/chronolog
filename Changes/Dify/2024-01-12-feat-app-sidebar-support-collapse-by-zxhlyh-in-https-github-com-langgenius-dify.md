@@ -4,20 +4,20 @@ date: '2024-01-12'
 description: 'Dify · 2024-01-12 · Interface Experience: feat: app sidebar support
   collapse by @zxhlyh in https://github.com/langgenius/dify/pull/1997'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 368
+  lag_days: 1734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 323bb58a8972280838cde995efe47edbd3db1cfab34e501888987f102a283bb4
+machine_hash: 5ba64c876ce19c5f6354737c9b0b8da4629d1859897dd4351d32b34c757ee54f
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,12 @@ record:
   title: 'feat: app sidebar support collapse'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
-  Improvements: We''ve spent some time improving the latency…]]'
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
   previews: We made it easier to see what codeblock you''re @''ing]]'
+- '[[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label
+  and Speaker Menu changes]]'
+- '[[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed
+  a confusing tooltip in the media library showing In-point selection…]]'
 source_release: '[[Releases/Dify/dify-2024-01-12-0-4-6-github-136769708-0106068b|dify-2024-01-12-0-4-6-github-136769708-0106068b]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
-- Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For ease of use, "Tools" has been relocated to the main product menu, centralizing…]]
+- Earlier: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed a confusing tooltip in the media library showing In-point selection…]]
+- Later: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

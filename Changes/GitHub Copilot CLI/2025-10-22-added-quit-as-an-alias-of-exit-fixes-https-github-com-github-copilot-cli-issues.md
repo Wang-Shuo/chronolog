@@ -4,20 +4,19 @@ date: '2025-10-22'
 description: 'GitHub Copilot CLI · 2025-10-22 · Editor Experience: Added `/quit` as
   an alias of `/exit` (fixes https://github.com/github/copilot-cli/issues/357)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 953
+  lag_days: 2537
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 947bcb39e2f05a14e8343f54f740c4357e5d800d0e24c1b66127c81cca4b57ff
+machine_hash: 21ea0dfe610e4fd5c271bc01d60913b443588a73dbd0f4a649015dc61f117f53
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-4-editor-experience-changes-in-v0-0-348|4 Editor Experience changes in v0.0.348]]
-- Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-2-editor-experience-changes-in-v0-0-350|2 Editor Experience changes in v0.0.350]]
+- Later: 2025-10-23 · Descript · [[Changes/Descript/2025-10-23-new-in-editor-save-keyframes-from-your-timeline|New in Editor—Save keyframes from your timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

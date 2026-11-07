@@ -4,20 +4,20 @@ date: '2023-07-08'
 description: 'Aider · 2023-07-08 · Reliability and Performance: More robust handling
   of filepaths, to avoid 8.3 windows filenames'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 205
+  lag_days: 1692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a140a72fd5bdd6bf88014d28e2afa3ebcbf3bda34e77ce9d1a2e1b16f3194df3
+machine_hash: 035d1a9403df1062065db3468a957ad48f4e043d4580d89286d4575a1bab1d51
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for
-  speed (alpha)]]'
-- '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based
-  on user feedback, we are now defaulting Plus users to a faster version…]]'
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
+- '[[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big
+  projects load quicker]]'
+- '[[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile
+  now loads 60%+ faster]]'
+- '[[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker
+  default effects]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-1-github-111483725-fed36512|aider-2023-07-08-v0-8-1-github-111483725-fed36512]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT updates performance of the ChatGPT model on our free plan in order to serve…]]
+- Earlier: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker default effects]]
 - Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More robust handling of filepaths, to avoid 8.3 windows filenames]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

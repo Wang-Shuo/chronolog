@@ -4,20 +4,20 @@ date: '2024-02-01'
 description: 'Dify · 2024-02-01 · Pricing Model: 3 changes in v0.5.3 — feat: team
   admin can pay billing by @iamjoel in https://github.com/langgenius/dify/pull/2240'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 413
+  lag_days: 2031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a436bcc2710453596fb5d094aa39d4d43581f2f59b8bbc4d5c3e54b16cbad3a
+machine_hash: 9c6a4be4f1e06a781ad05089319255986e759502b33ee3381b5fea3f5b71e7b8
 product: dify
 product_name: Dify
 record:
@@ -44,11 +44,10 @@ record:
   title: 3 Pricing Model changes in 0.5.3
   type: change
 related_changes:
-- '[[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy
-  holidays all - we are grateful for the community''s support as we round out the
-  year]]'
 - '[[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat:
   add billing switch]]'
+- '[[Changes/Descript/2024-01-10-drive-administrators-cannot|Drive administrators
+  CANNOT]]'
 - '[[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore:
   enchance view billing text]]'
 source_release: '[[Releases/Dify/dify-2024-02-01-0-5-3-github-139471716-c501b05b|dify-2024-02-01-0-5-3-github-139471716-c501b05b]]'
@@ -97,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

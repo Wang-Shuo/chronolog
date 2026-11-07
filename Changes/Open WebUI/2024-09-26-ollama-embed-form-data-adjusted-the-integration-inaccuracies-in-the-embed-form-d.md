@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-26 · Apps and Integrations: **\U0001F4CB Ol
   /embed Form Data**: Adjusted the integration inaccuracies in the /embed form data
   to ensure it…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 553
+  lag_days: 2113
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6f8a4c930d00467748411401a73540ddfb7c19d24a1a6417c47b95fbeaf75f00
+machine_hash: b761c900e7eb7b4b71e9338949bab4696c0011b466eeaac8883ff1341379e1bc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: "**\U0001F4CB Ollama /embed Form Data**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-12-2-apps-and-integrations-changes-in-0-8-1|2 Apps and Integrations
-  changes in 0.8.1]]'
 - '[[Changes/Open WebUI/2024-09-19-3-apps-and-integrations-changes-in-v0-3-22|3 Apps
   and Integrations changes in v0.3.22]]'
 - '[[Changes/Dify/2024-09-20-python-sdk-add-knowledgebaseclient-and-the-corresponding-test-cases-by-twisker-i|Python
   SDK Add KnowledgeBaseClient and the corresponding test cases]]'
+- '[[Changes/Notion/2024-09-25-new-ai-connectors-beta-google-docs-sheets-slides|New
+  AI connectors BETA : Google Docs, Sheets, & Slides]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1|open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-python-sdk-add-knowledgebaseclient-and-the-corresponding-test-cases-by-twisker-i|Python SDK Add KnowledgeBaseClient and the corresponding test cases]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-new-ai-connectors-beta-google-docs-sheets-slides|New AI connectors BETA : Google Docs, Sheets, & Slides]]
 - Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-3-apps-and-integrations-changes-in-0-9-0|3 Apps and Integrations changes in 0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

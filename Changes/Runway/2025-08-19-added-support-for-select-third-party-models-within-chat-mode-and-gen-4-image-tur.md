@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5196d7a4ce673bbca17cae7eaacbc6e2dac57a4d871601ed9049efe9c6e50d0e
+machine_hash: d425d19020c63427d4927c33ed8b43c19ad998ed0af97bb8bd02fd927247d858
 product: runway
 product_name: Runway
 record:

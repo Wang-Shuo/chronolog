@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'ElevenLabs · 2026-06-29 · Mobile and Desktop: [v0.10.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.10.0)
   - Exposed reconciled message…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2787
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2bfe13f9b2ce3a7e829c3007b47b49e109f47fb88cedd5751381a75a652fd6bb
+machine_hash: 0bd51234de1423e8ff02234c2cfdee7bc9bb9aa1488088aeaacdaea25a78b055
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
-- Later: 2026-06-29 · Lovable · [[Changes/Lovable/2026-06-29-fewer-taps-to-attach-images-on-mobile|Fewer taps to attach images on mobile]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-in-the-bundled-web-ui-new-and-clear-are-now-aliases-that-open-the-session-onboar|In the bundled web UI, /new and /clear are now aliases that open the session…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,21 @@ description: 'Aider · 2025-04-04 · Account and Access: 2 changes in Aider v0.8
   — Offer OpenRouter OAuth authentication if an OpenRouter model is specified but
   the API key…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 736
+  lag_days: 1711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0b75f236202d3d3394c9145a70985c49d4b9689a2f0774c87f60ca993c8bbb5
+machine_hash: 6de6c0b22475c9cb5095f437a1177384d50a290a3a960adf823d3adabfb57fc8
 product: aider
 product_name: Aider
 record:
@@ -45,8 +46,8 @@ record:
   title: 2 Account and Access changes in v0.81.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-11-update-login-py-by-albcunha-in-https-github-com-langgenius-dify-pull-15320|Update
-  login.py]]'
+- "[[Changes/Notion/2025-03-26-sign-in-quickly-and-securely|Sign in quickly and securely
+  \U0001F4A8]]"
 - '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
   Access changes in v0.80.0]]'
 - '[[Changes/Open WebUI/2025-04-01-2-account-and-access-changes-in-v0-6-0|2 Account
@@ -93,7 +94,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.81.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

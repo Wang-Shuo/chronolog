@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Collaboration: 16 changes in v2026.9.6 �
   can also select up to ten people to mention when starting the task. Typing a name
   alone…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ef9cee178ffce3d471e7937a4daafcbac1f6da6dae4ed08050f25b47ca69d0f
+machine_hash: 82cfa3d710cb08e7fe5d5bd062d8da4017141d9f1327ede824402773fb2ae165
 product: openclaw
 product_name: OpenClaw
 record:
@@ -136,10 +137,10 @@ record:
   title: 16 Collaboration changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration
-  changes in rust-v0.156.0]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
   strengthen shared utility behavior]]'
+- '[[Changes/Synthesia/2026-09-22-share-the-base-person-for-an-avatar-with-teammates-or-your-whole-workspace-so-th|Share
+  customizable avatars with your team]]'
 - '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
@@ -224,13 +225,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-team-rules|Team rules]]
-- Later: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates to share with you today]]
+- Later: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New Space for Human and Agent Collaboration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

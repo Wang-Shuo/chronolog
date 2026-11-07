@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d8f6e8ef1cf4dc602dfe1c46a052f3b5ff462473fecbdd7985c5e262adcbb2fc
+machine_hash: 2fc06c40ddca7244b29c95528d10b707c273bdde48b97bdd9a86300761919db1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-06-17 · Midjourney · [[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We're starting a new research project to explore the origins of beauty.]]
-- Later: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
+- Later: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

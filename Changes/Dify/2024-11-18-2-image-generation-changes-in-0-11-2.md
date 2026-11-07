@@ -4,20 +4,20 @@ date: '2024-11-18'
 description: 'Dify · 2024-11-18 · Image Generation: 2 changes in v0.11.2 — Added **Fal
   AI Flux** for image generation by @fdb02983rhy (#10606).'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 253
+  lag_days: 511
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67bba5e9291859f77757d00da9ef5cca7ce2039a3085a0b949d0a18f4aaf3241
+machine_hash: ce046485114bdcea81bf78b34dc52ad27d5dca671a7fb0114d92a02071cfb440
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

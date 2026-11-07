@@ -1,0 +1,97 @@
+---
+card_id: heygen-2026-03-18-0146dd
+date: '2026-03-18'
+description: 'HeyGen · 2026-03-18 · Multimodal Input: Create branching scenarios that
+  let learners choose their own path through the video. Whether you’re building roleplay…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2679
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: multimodal
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 4a42960e1b96cbfb11827b319fb106408ad72f69cef9c0134f8c4cc520e50d0e
+product: heygen
+product_name: HeyGen
+record:
+  card_id: heygen-2026-03-18-0146dd
+  comparison: ''
+  date: '2026-03-18'
+  description: 'HeyGen — Introducing interactive video experiences: Create branching
+    scenarios that let learners choose their own path through the video. Whether you’re
+    building roleplay exercises, decision-based training, or personalized learning
+    flows, branching helps deliver the right content based on each viewer’s choices.'
+  evidence:
+  - quote: Create branching scenarios that let learners choose their own path through
+      the video. Whether you’re building roleplay exercises, decision-based training,
+      or personalized learning flows, branching helps deliver the right content based
+      on each viewer’s choices.
+    source_release: https://heygen.noticeable.news/publications/introducing-interactive-video-experiences
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: heygen
+  product_name: HeyGen
+  slug: branching
+  source_release: heygen-2026-03-18-https-heygen-noticeable-news-publications-introducing-interactiv-9592428d
+  source_type: heygen_changelog
+  theme: multimodal
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Branching
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2026-03-16-python-sdk|Python SDK]]'
+- '[[Changes/Descript/2026-03-17-export-scenes|Export Scenes]]'
+- '[[Changes/Synthesia/2026-03-17-upload-any-screen-recording-mp4-and-synthesia-automatically-converts-it-into-a-f|Turn
+  External Screen Recordings into editable Synthesia videos]]'
+source_release: '[[Releases/HeyGen/heygen-2026-03-18-https-heygen-noticeable-news-publications-introducing-interactiv-9592428d|heygen-2026-03-18-https-heygen-noticeable-news-publications-introducing-interactiv-9592428d]]'
+source_type: heygen_changelog
+theme: multimodal
+title: Branching
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Branching
+
+**HeyGen** · 2026-03-18 · [[Themes/multimodal|Multimodal Input]] · Launch · [Official source](https://heygen.noticeable.news/publications/introducing-interactive-video-experiences) · from [[Releases/HeyGen/heygen-2026-03-18-https-heygen-noticeable-news-publications-introducing-interactiv-9592428d|Introducing interactive video experiences]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Create branching scenarios that let learners choose their own path through the video. Whether you’re building roleplay exercises, decision-based training, or personalized learning flows, branching helps deliver the right content based on each viewer’s choices.
+>
+> Source: https://heygen.noticeable.news/publications/introducing-interactive-video-experiences
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/HeyGen/2026-03-18-external-resources|External resources]] · Multimodal Input
+- [[Changes/HeyGen/2026-03-18-heygen-now-supports-interactive-video-experiences-with-built-in-quizzes-branchin|HeyGen now supports interactive video experiences with built-in quizzes, branching…]] · Multimodal Input
+- [[Changes/HeyGen/2026-03-18-quizzes|Quizzes]] · Multimodal Input
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2026-03-17 · Synthesia · [[Changes/Synthesia/2026-03-17-upload-any-screen-recording-mp4-and-synthesia-automatically-converts-it-into-a-f|Turn External Screen Recordings into editable Synthesia videos]]
+- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages|Packages]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20heygen-2026-03-18-0146dd&body=Card%3A%20Changes%2FHeyGen%2F2026-03-18-branching.md%0ACard%20ID%3A%20heygen-2026-03-18-0146dd%0ASource%3A%20https%3A%2F%2Fheygen.noticeable.news%2Fpublications%2Fintroducing-interactive-video-experiences%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -4,20 +4,20 @@ date: '2026-08-17'
 description: 'ElevenLabs · 2026-08-17 · Multimodal Input: [v2.64.0](https://github.com/elevenlabs/elevenlabs-python/releases/tag/v2.64.0)
   - Added assets and Flows clients…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1063
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a79179e0a1146e0328912f1179441281e2342c0dd075722a74f550f92c98998a
+machine_hash: 7aab48ef3f99da818759a170b92e71cce40c3c547ae7b95b2ee8c7c86e0fddd1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci:
-  require frontend screenshot/video and checked human-tested box]]'
-- '[[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama''s
-  MLX engine provides state-of-the-art performance on Apple Silicon…]]'
-- '[[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal
-  Input changes in v0.32.7]]'
+- '[[Changes/Synthesia/2026-08-10-meet-new-eu-and-california-transparency-rules-with-automatic-c2pa-metadata-conte|Stay
+  compliant with Content Credentials and AI labels]]'
+- '[[Changes/HeyGen/2026-08-11-turn-any-local-market-knowledge-into-a-professional-on-brand-video-in-minutes-no|Turn
+  any local market knowledge into a professional, on-brand video in minutes, no…]]'
+- '[[Changes/Synthesia/2026-08-13-if-the-source-video-changes-after-you-export-an-xliff-we-now-reconcile-safe-upda|Keep
+  XLIFF imports in sync with edits]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-17-2026-08-17-6196d42b|elevenlabs-2026-08-17-2026-08-17-6196d42b]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal Input changes in v0.32.7]]
+- Earlier: 2026-08-13 · Synthesia · [[Changes/Synthesia/2026-08-13-if-the-source-video-changes-after-you-export-an-xliff-we-now-reconcile-safe-upda|Keep XLIFF imports in sync with edits]]
 - Later: 2026-08-18 · Runway · [[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing Nodes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

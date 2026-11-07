@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 53ee977680b743e6c3911975e5267a66b666468aa2fe602f21f3a8ca7a6c6833
+machine_hash: 8a57d5cc688abe656191527cfe2a999bb1eac2c07403d98b3a3952bc3c9f1e43
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,11 @@ record:
   title: Gemini 4 Argon for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
-  changes in v1.27.0]]'
-- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
-  in v4.1.24]]'
 - '[[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing
   Gemini 4 Argon: our frontier model for complex tasks]]'
+- '[[Changes/HeyGen/2026-10-13-one-elevenlabs-engine-with-a-model-picker|One ElevenLabs
+  engine, with a model picker]]'
+- '[[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
 source_type: lovable_changelog
 theme: model-support
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing Gemini 4 Argon: our frontier model for complex tasks]]
-- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support changes in v2026.10.3]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]
+- Later: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

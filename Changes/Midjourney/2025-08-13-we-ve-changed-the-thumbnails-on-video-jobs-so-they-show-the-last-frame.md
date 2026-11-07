@@ -4,20 +4,20 @@ date: '2025-08-13'
 description: 'Midjourney · 2025-08-13 · Multimodal Input: This makes clips more easily
   distinguishable for traditional jobs but doesn''t work well for looping or end-frame…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 694
+  lag_days: 2462
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d03dc042d7887e658ef5a0add0e00fdbd18c13034064bafcb2c3230b6583c8d3
+machine_hash: 7486f2fd2221882d18cc96a61824402ce7e723700d5339f2ed229ddaed9ee553
 product: midjourney
 product_name: Midjourney
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-how-to-enable-hd-video-mode|How to enable HD Video mode]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
+- Later: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-2-multimodal-input-changes-in-release-roundup-august-14th-2025|2 Multimodal Input changes in Release roundup—August 14th, 2025]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

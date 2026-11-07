@@ -5,20 +5,20 @@ description: 'Ollama · 2023-08-02 · Interface Experience: More seamless update
   will now show a subtle hint that an update is ready in the tray menu, instead of
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 205
+  lag_days: 1571
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 626c9f5f920877e42acde61fd64591b6fcebbb9147e0c4992311cb1c0fdd7e60
+machine_hash: 1896ccc634272a46e087c94cadf81a986cf5404c4f3b3f8757918fad070d1101
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,9 @@ record:
   title: More seamless updates
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-better-symbol-keyboard-ergonomics|Better @ symbol keyboard
-  ergonomics]]'
 - '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
   tooltip blocks less code]]'
+- '[[Changes/Descript/2023-07-24-eyedropper|Eyedropper]]'
 - '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
   properly render in the chat]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-02-v0-0-13-github-114720358-421f7ca4|ollama-2023-08-02-v0-0-13-github-114720358-421f7ca4]]'
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now properly render in the chat]]
-- Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
+- Later: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-little-fixes-big-improvements|Little fixes = big improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

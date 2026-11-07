@@ -4,20 +4,20 @@ date: '2025-10-16'
 description: 'Cline · 2025-10-16 · Apps and Integrations: 9 changes in v3.33.0 — ci:
   add workflow to auto-label JetBrains plugin issues by @arafatkatze in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2498
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63e4277a74cb05f51993655e604a769e9fc2304e7647dc4607e363d138c39655
+machine_hash: 2ea899f2d87208868ab5abbbcbc38ac1cfd50b48bb2f8b42c2282a3d1a541531
 product: cline
 product_name: Cline
 record:
@@ -120,13 +120,13 @@ Source: https://github.com/cline/cline/releases/tag/v3.33.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental support for Vulkan is now available when you build locally from source]]
-- Later: 2025-10-17 · Replit · [[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign for React apps]]
+- Later: 2025-10-16 · Synthesia · [[Changes/Synthesia/2025-10-16-we-re-adding-more-and-more-tools-to-synthesia-to-help-you-create-the-best-conten|Sora 2 and Veo 3.1 in Synthesia: Prompt anything]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

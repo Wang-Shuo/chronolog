@@ -4,20 +4,20 @@ date: '2025-02-20'
 description: 'Midjourney · 2025-02-20 · Multimodal Input: We''ve added a new folder
   and organization system to the website. Check out the video below for a nice overview.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 520
+  lag_days: 2288
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0314fd6616c97fbd7d0cc8e749d1f8601af91bb700435df192f4d19e4040a8ff
+machine_hash: 888535b8a6c33c3039b8ff4f4eea67075dbfe7fb29d9ecc20cf90ced51574b5b
 product: midjourney
 product_name: Midjourney
 record:
@@ -62,12 +62,11 @@ record:
   title: Midjourney adds a new folder and organization system to the website
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-12-11-to-learn-more-about-how-to-use-patchwork-read-through-the-user-guide-and-watch-t|To
-  learn more about how to use Patchwork, read through the user guide and watch…]]'
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
 - '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
   add grok-2-1212 and grok-2-vision-1212]]'
+- '[[Changes/Descript/2025-02-11-eye-contact|Eye contact]]'
+- '[[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements
+  to working with Scenes and Layouts]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31|midjourney-2025-02-20-https-updates-midjourney-com-new-tools-for-organization-e18c4a31]]'
 source_type: midjourney_changelog
 theme: multimodal
@@ -108,14 +107,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat: add grok-2-1212 and grok-2-vision-1212]]
-- Later: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course launch]]
+- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-improvements-to-working-with-scenes-and-layouts|Improvements to working with Scenes and Layouts]]
+- Later: 2025-02-26 · Descript · [[Changes/Descript/2025-02-26-welcome-to-descript-season-8-which-is-focused-on-features-that-make-you-look-goo|Welcome to Descript Season 8 - which is focused on features that make you look good…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

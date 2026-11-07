@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-08-07 · Interface Experience: You can 
   copy an image to your clipboard from an artifact or the file viewer, using the menu
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7824436aad71cc048a6c6119312c4e912128ddd0eeb4e381edf802d143abdfe3
+machine_hash: 9d8aa7a75e8119936f34f2983731cb1827e2f674f15812cddd6d09a2af47ce43
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
     the menu…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
-  Experience changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web:
+  Add a flat view to the sidebar session list]]'
 - '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
   fullscreen mode to keep the full pre-compaction history in scrollback…]]'
 - '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
-- Later: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop Language names now stay native in the locale picker]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar management / identity-selection redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

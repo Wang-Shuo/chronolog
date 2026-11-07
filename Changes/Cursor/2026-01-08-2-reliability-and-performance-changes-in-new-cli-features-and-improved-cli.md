@@ -4,20 +4,20 @@ date: '2026-01-08'
 description: 'Cursor · 2026-01-08 · Reliability and Performance: 2 changes in New
   CLI Features and Improved CLI Performance — Hooks now execute in parallel with merged…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2607
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6644b36f8ff7d7da53b096700ad2b1717bf281219ce37fd28074c62c2b1f6bd
+machine_hash: 0c066b17e426034ccb9415ba3b93c3bb7b208cfd040dd25ae7bd24274673ef89
 product: cursor
 product_name: Cursor
 record:
@@ -100,7 +100,7 @@ Source: https://cursor.com/changelog/cli-jan-08-2026
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

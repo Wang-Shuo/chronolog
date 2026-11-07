@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Lovable · 2026-08-07 · Safety and Privacy: Every app you publish publicly
   now gets a [Trust Center](https://docs.lovable.dev/features/trust-center.md): a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2201
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 918d0df694b6f120948daa13cabffba788e2045538805da99dedfea1af5727cc
+machine_hash: c8da72fef4f4ac4db7497339e19ba85fcb1853c7d699c9bb6833e510bce6a692
 product: lovable
 product_name: Lovable
 record:
@@ -67,12 +67,11 @@ record:
   title: Trust Center for your published app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
-  and Privacy changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
   Safety and Privacy changes in rust-v0.147.0]]'
 - '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
   waiting on your input now show the icon for the tool involved, including…]]'
+- '[[Changes/HeyGen/2026-08-07-why-it-matters-c18403|Why it matters]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-07-2026-08-07-d8d80b64|lovable-2026-08-07-2026-08-07-d8d80b64]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -103,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps waiting on your input now show the icon for the tool involved, including…]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-why-it-matters-c18403|Why it matters]]
 - Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you build]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

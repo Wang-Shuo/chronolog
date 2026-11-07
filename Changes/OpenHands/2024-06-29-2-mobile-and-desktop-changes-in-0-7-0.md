@@ -4,20 +4,20 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Mobile and Desktop: 2 changes in 0.7.0 — Enable
   "vz" vm-type for MacOS CI by @SmartManoj in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 473
+  lag_days: 2057
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 832bcd95627558e64292138cb10f3b0bd257a87cd0b69c8a3be28f912884445b
+machine_hash: e9d6f56e170b412401dcb840ac6306013056703b95bc4d9e040b0cc5a7595caa
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model
-  loading on Windows with CUDA GPUs is now faster]]'
 - '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
   Gemini mobile app launching in more countries]]'
+- '[[Changes/Descript/2024-06-19-quick-recorder-upgrades-now-on-windows|Quick Recorder
+  upgrades now on Windows]]'
 - '[[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs:
   Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
@@ -96,7 +96,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

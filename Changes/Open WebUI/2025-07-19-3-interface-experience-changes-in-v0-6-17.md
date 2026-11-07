@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-19 · Interface Experience: 3 changes in v0.
   — \U0001F4C2 **Dedicated Folder View with Chat List**: Clicking a folder now reveals
   a brand-new…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 922
+  lag_days: 2288
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8089f902bbde081b898be7b3c8d33033fef645261ba6850d42f5a2f819ee73fb
+machine_hash: 8ac12d0eea252ef2510bd31a7057a082987dbe8a40255d2d02ceb25f68cdecdd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,7 @@ record:
   title: 3 Interface Experience changes in v0.6.17
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
-  changes in 1.6.0]]'
+- '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
 - '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
   Experience changes in v0.6.16]]'
 - '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
@@ -109,13 +108,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.17
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
-- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience changes in 1.7.0]]
+- Later: 2025-07-23 · Descript · [[Changes/Descript/2025-07-23-updates-to-the-sidebar|Updates to the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

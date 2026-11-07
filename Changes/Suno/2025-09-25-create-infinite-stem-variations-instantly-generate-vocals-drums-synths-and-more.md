@@ -4,20 +4,20 @@ date: '2025-09-25'
 description: 'Suno · 2025-09-25 · Voice and Audio: Create infinite stem variations
   → Instantly generate vocals, drums, synths, and more that flow with your audio.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a807fdc3c141971c23877929b1b11b00693948f0174a8b72e1853dcb6174f4d9
+machine_hash: 64a3b938e4a6ebc424d80b7119cb4adfa195bd8ec823a40c0710a2fb33f1c067
 product: suno
 product_name: Suno
 record:
@@ -43,9 +43,9 @@ record:
     and more…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
-- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
-  audio]]'
+- '[[Changes/Descript/2025-09-24-enhanced-file-recovery-for-all-descript-recorders|Enhanced
+  file recovery for all Descript recorders]]'
+- '[[Changes/Descript/2025-09-24-lossless-wav-recording|Lossless WAV recording]]'
 - '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
   changes in v3.31.0]]'
 source_release: '[[Releases/Suno/suno-2025-09-25-e-introducing-suno-studio-8fa9ba67|suno-2025-09-25-e-introducing-suno-studio-8fa9ba67]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

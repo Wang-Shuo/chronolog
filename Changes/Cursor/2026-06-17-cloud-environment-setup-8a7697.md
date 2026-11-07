@@ -5,19 +5,20 @@ description: 'Cursor · 2026-06-17 · Developer Workflow: Cursor can now help yo
   up your dev environment in the cloud in less than 10 minutes. You can watch the
   agent''s…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2836
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 22ce5215541d02f38e59491311424eae575e56bbfb34b1e98a3bb1aca30c369e
+machine_hash: 18cbbc627dbcb59037e3431841266957fba417b575ef8f6234a19665f97a2df4
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +63,12 @@ record:
   title: Cloud environment setup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
-  /doctor with consistent flat tree layout across all sections, clearer…]]'
-- '[[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6
-  Developer Workflow changes in rust-v0.140.0]]'
+- '[[Changes/Kimi Code/2026-06-15-keep-tui-components-within-narrow-terminal-widths-by-wrapping-compacting-or-trun|Keep
+  TUI components within narrow terminal widths by wrapping, compacting…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3
   Developer Workflow changes in v1.0.63]]'
+- '[[Changes/Kimi Code/2026-06-16-3-developer-workflow-changes-in-kimi-code-0-16-0|3
+  Developer Workflow changes in Kimi Code 0.16.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -100,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3 Developer Workflow changes in v1.0.63]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7 Developer Workflow changes in rust-v0.141.0]]
+- Earlier: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-3-developer-workflow-changes-in-kimi-code-0-16-0|3 Developer Workflow changes in Kimi Code 0.16.0]]
+- Later: 2026-06-17 · Kimi Code · [[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip debug TPS when the output stream is too short to measure reliably]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

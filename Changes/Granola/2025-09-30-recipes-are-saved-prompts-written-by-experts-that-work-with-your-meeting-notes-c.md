@@ -4,20 +4,20 @@ date: '2025-09-30'
 description: 'Granola · 2025-09-30 · Meeting Notes: Recipes are saved prompts written
   by experts that work with your meeting notes, combining the power of great AI prompts…'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 358
+  lag_days: 1554
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 032b12a9da0dcfd9155a6bf4968f3bde060f933bac86272473e0d21de68fc80e
+machine_hash: 19819cb2fcd4e5625681f6113919710d34f2d7359a4bc051d55f11b562021766
 product: granola
 product_name: Granola
 record:
@@ -44,8 +44,8 @@ record:
   title: Introducing Recipes, in the all-new Granola Chat
   type: change
 related_changes:
-- '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-  in Granola: 29 meeting note templates, out of the box]]'
+- '[[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes|Leave
+  the note-taking to us, with AI meeting notes]]'
 - '[[Changes/Granola/2025-07-14-team-folders-a-new-way-to-share-context-quickly-with-your-team-and-ask-questions|Team
   Folders: a new way to share context quickly with your team and ask questions…]]'
 - '[[Changes/Granola/2025-07-24-new-for-meeting-notes-now-you-can-tweak-tone-change-length-or-make-precise-edits|New
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Meeting Notes
 
 - Earlier: 2025-07-24 · Granola · [[Changes/Granola/2025-07-24-new-for-meeting-notes-now-you-can-tweak-tone-change-length-or-make-precise-edits|New for meeting notes]]
-- Later: 2025-12-04 · Granola · [[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola Crunched]]
+- Later: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-meeting-notes-also-got-its-biggest-upgrade-including-a-new-home-in-your-sidebar|Meeting notes also got its biggest upgrade, including a new home in your sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

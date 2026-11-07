@@ -4,20 +4,20 @@ date: '2024-07-15'
 description: 'Dify · 2024-07-15 · Automation and Scheduling: refactor(api): switch
   to dify_config with Pydantic in controllers and schedule by @Tian-Hun in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 195
+  lag_days: 1762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c56b4efb237a0830c25a63c44a852c3384ea1b1792e86c96483574a7a3282a1d
+machine_hash: f83b49f4dcb2d081d5fbdd31f01359ba6d975385035fd14ec20b2ed982e6af4e
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 'refactor(api): switch to dify_config with Pydantic in controllers and schedule'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
-  @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
+- '[[Changes/Notion/2024-04-30-automate-notifications-for-projects|Automate notifications
+  for projects]]'
 - "[[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|\U0001F527
   Pipelines Support]]"
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

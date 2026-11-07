@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6eedb23bccf62f1064c52a90a79e24bf55a8674c719feb9406fd7b05e94e6171
+machine_hash: 0368547de25b0fa95a9a9cf67670f756310ea23f386a77b599cc9aa1b0bdd565
 product: opencode
 product_name: OpenCode
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Model Support changes in v1.17.12
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
-  Support changes in v1.0.66]]'
+- '[[Changes/Kimi Code/2026-06-30-refresh-provider-model-lists-automatically-in-the-background-instead-of-only-at|Refresh
+  provider model lists automatically in the background instead of only…]]'
 - '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
   Gemma 4 MoE model loading in the MLX engine]]'
 - '[[Changes/OpenClaw/2026-06-30-32-model-support-changes-in-v2026-6-11|32 Model Support

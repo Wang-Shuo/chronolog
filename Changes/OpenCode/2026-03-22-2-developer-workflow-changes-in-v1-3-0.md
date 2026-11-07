@@ -4,19 +4,20 @@ date: '2026-03-22'
 description: 'OpenCode · 2026-03-22 · Developer Workflow: 2 changes in v1.3.0 — Important
   GitLab Agent Platform : GitLab Agent Platform is now fully supported with automatic…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1100
+  lag_days: 2749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3cbbd1b8bd9124e92afd411389beb1ddbbdc077620ac99c8bf9dcb4314b8b99
+machine_hash: 860f687a9ecb9f8e87d490ab99af976992255dbebc3bdb1798c58ec973c12793
 product: opencode
 product_name: OpenCode
 record:
@@ -100,7 +101,7 @@ Source: https://opencode.ai/changelog/v1.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-05-28'
 description: 'GitHub Copilot CLI · 2026-05-28 · Editor Experience: 2 changes in 1.0.55
   — `copilot update` and `copilot version` authenticate release API requests to avoid…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27aceb9f45998fcaee09606514386a0226d9656b32540cef5db8b46044e9d961
+machine_hash: 670861890bcb8f31ecc48a6d5744416818c9e2d28b4674e78b1d267ebcb1de21
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v1.0.55
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff
-  and protobufjs dependencies]]'
+- '[[Changes/Kimi Code/2026-05-26-avoid-overly-small-local-completion-caps-that-can-truncate-reasoning-before-summ|Avoid
+  overly small local completion caps that can truncate reasoning before…]]'
 - '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
   autocomplete now shows "Disconnect Remote Control" when Remote…]]'
 - '[[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command
@@ -94,13 +93,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command completion now preserves existing draft text for commands that accept…]]
-- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor Experience changes in v1.15.12]]
+- Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-wrap-long-question-body-and-option-text-in-the-askuserquestion-dialog-instead-of|Wrap long question, body, and option text in the AskUserQuestion dialog instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

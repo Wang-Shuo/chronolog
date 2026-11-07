@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'Claude Code · 2026-07-06 · Safety and Privacy: Fixed `/remote-control`
   sessions showing the wrong permission mode in the mobile and web apps'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2169
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 5f702cf5d1ce0a971bff8b4ea87451d3eff1bdcccb4e4c09e5b4f5ac47020194
+machine_hash: 17ec51fb74dc40c2b5d1eb7f8261539dd0652dbc5f5562e1eec82dd1236705dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
     mobile…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
-  Safety and Privacy changes in v1.0.68]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-edit-capability-for-selecting-permission-reading-option-for-existing-servicenow|Edit
+  capability for selecting permission reading option for existing ServiceNow…]]'
 - '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
   and Privacy changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

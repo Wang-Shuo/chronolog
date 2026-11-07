@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'OpenHands · 2026-07-29 · Files and Data: chore: replay Agent Canvas
   history by @neubig in https://github.com/OpenHands/OpenHands/pull/15413'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 2506
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fe74abd303b7cc93b5b04f75f752a40beec5027c4c2832f40df69a147fa3d724
+machine_hash: 3406ac90e83d1794cf60da5a45cf5499cadc7bd6fde30e4b8e0be8a840f5df05
 product: openhands
 product_name: OpenHands
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-files-and-data-changes-in-rust-v0-146-0|2 Files and Data changes in rust-v0.146.0]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-feat-set-canvas-default-model-to-glm-5-2-by-juanmichelini-in-https-github-com-op|feat: set Canvas default model to GLM 5.2]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-edit-an-image-by-drawing-on-it|Edit an image by drawing on it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-07-10'
 description: 'Lovable · 2026-07-10 · Editor Experience: The browser tab for a project
   now shows a status badge on its icon, so you can tell what Lovable is doing without…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1214
+  lag_days: 2798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a304a13d9659c5e3a91685b5d5676ea24ec4dbd83523b22b11171e3d793c625b
+machine_hash: 0d89404b6526de581b68b92341a384add516f18202b5bdbd413c31ed07d71502
 product: lovable
 product_name: Lovable
 record:
@@ -81,13 +80,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2 Editor Experience changes in v1.0.70]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor Experience changes in v2026.7.1]]
+- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-web-keep-the-server-access-token-for-up-to-7-days-across-tab-close-and-browser-r|web: Keep the server access token for up to 7 days across tab close and browser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

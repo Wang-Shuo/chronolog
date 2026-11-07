@@ -4,20 +4,20 @@ date: '2026-03-29'
 description: 'OpenCode · 2026-03-29 · Interface Experience: 2 changes in v1.3.6 +
   2 — Terminal Open dialog for model variant selection instead of cycling'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2541
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f4ed513289dfdfb3e2fbfd1a9867755276560ca977d16287c4dfc850fa84469
+machine_hash: f4f4e2bcec4dc325ccfba6165148016ead4c17fd25ab1f9bd3da331edc7ca354
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v1.3.6 + 2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
-  Experience changes in v1.3.3]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
 - '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
   Experience changes in 1.13.3]]'
+- '[[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived
+  pages have a banner showing who archived them and when, and they’re hidden…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-29-v1-3-6-6f35969f|opencode-2026-03-29-v1-3-6-6f35969f]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -86,14 +86,14 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
+- Earlier: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived pages have a banner showing who archived them and when, and they’re hidden…]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

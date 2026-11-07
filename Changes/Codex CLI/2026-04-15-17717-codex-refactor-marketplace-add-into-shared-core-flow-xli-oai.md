@@ -4,19 +4,20 @@ date: '2026-04-15'
 description: 'Codex CLI · 2026-04-15 · Collaboration: #17717 [codex] Refactor marketplace
   add into shared core flow @xli-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1057
+  lag_days: 2651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02bb9be3b51c582ede84c479f284b1f7269fba1c658035dceded1cc83c6cde3a
+machine_hash: 8407bb5c9b584cc3a0922a83d71894c0cfa282e000da192b9c1f34df8c736d02
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,13 +89,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration changes in v1.0.25]]
-- Later: 2026-04-18 · OpenCode · [[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core Stopped share sync attempts for sessions that were never shared]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-announcing-the-descript-customer-obsession-hackathon-telethon-may-14-15|Announcing—the Descript Customer Obsession Hackathon Telethon (May 14–15)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

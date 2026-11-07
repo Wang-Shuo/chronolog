@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9985d3f9d415d667248dfee3638b5e863816cf090a79cb2052078cf1e7753b14
+machine_hash: e10026023633e7eecb151873429dacc6c84686ae57171e8e8ff7cc1d52277949
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,11 +56,12 @@ record:
   title: Turn and Conversation Configuration
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-07-animated-agent-icon|Animated agent icon]]'
 - '[[Changes/Replit/2025-11-07-at-symbol-filename-support-in-agent|At symbol filename
   support in Agent]]'
 - '[[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown
   in planning flow]]'
+- '[[Changes/Notion/2025-11-10-notion-agent-can-now-read-csvs-to-find-insights-in-seconds-drop-in-any-csv-up-to|Agent
+  now reads CSVs]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-12-2025-11-12-b02f262e|elevenlabs-2025-11-12-2025-11-12-b02f262e]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -115,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown in planning flow]]
+- Earlier: 2025-11-10 · Notion · [[Changes/Notion/2025-11-10-notion-agent-can-now-read-csvs-to-find-insights-in-seconds-drop-in-any-csv-up-to|Agent now reads CSVs]]
 - Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes in v0.14.0]]
 <!-- chronolog:end -->
 

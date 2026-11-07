@@ -4,20 +4,20 @@ date: '2026-02-10'
 description: 'OpenCode · 2026-02-10 · Mobile and Desktop: 38 changes in v1.1.54 —
   Desktop Back to platform fetch for now'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f8c64bbe91ac337bcdcbdb710d0897d10102e01347160a4547739d6adb5d7c7
+machine_hash: 0bba4a962dee08b0e1ef41a21f8f66ed730bfd6f67a77c41a795447a7cdab6d1
 product: opencode
 product_name: OpenCode
 record:
@@ -116,9 +116,9 @@ record:
   title: 38 Mobile and Desktop changes in v1.1.54
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-05-16-mobile-and-desktop-changes-in-v1-1-52|16 Mobile
-  and Desktop changes in v1.1.52]]'
 - '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
+- '[[Changes/Descript/2026-02-10-view-and-play-your-projects-on-mobile|View and play
+  your projects on mobile]]'
 - '[[Changes/OpenCode/2026-02-10-2-mobile-and-desktop-changes-in-v1-1-56-1|2 Mobile
   and Desktop changes in v1.1.56 + 1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-10-v1-1-54-df764791|opencode-2026-02-10-v1-1-54-df764791]]'
@@ -245,7 +245,7 @@ Source: https://opencode.ai/changelog/v1.1.54
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

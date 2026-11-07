@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-08-03 · Interface Experience: 2 change
   1.0.78 — Split-view sidebar: the red close confirmation now reads `x again to close`
   (or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2668
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e39d9dddbed3aab489fa947d2158833a6b51a06204c6367510c618baa0c047c
+machine_hash: 4054ec1fb37f2f5f294c2c682754103301ca71a17c9644f16e769d9477a66b2c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
-  Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce
+  frequent full-screen redraws in the TUI]]'
 - '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
   Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/OpenCode/2026-08-01-desktop-open-the-legacy-directory-picker-at-your-home-folder-when-no-home-path-i|Desktop
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

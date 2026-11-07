@@ -5,20 +5,21 @@ description: "Open WebUI · 2025-04-13 · Account and Access: 2 changes in v0.6.
   \U0001F510 **Tool Server 'Session' Authentication Restored**: Previously broken
   session auth on…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 745
+  lag_days: 1720
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b60fd0e64975375f99aa56a08ce3060c5f1d9cf90182df9e879ddd5b06c8490
+machine_hash: f3d215d98ffb38d94720001b8e60f0b890b07f6a8c8de8c1ad9e2ea6bec9a5a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

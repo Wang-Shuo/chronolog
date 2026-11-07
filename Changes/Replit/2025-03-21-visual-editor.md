@@ -4,20 +4,19 @@ date: '2025-03-21'
 description: 'Replit · 2025-03-21 · Editor Experience: Agent just got eyes - click.
   describe. done.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 738
+  lag_days: 2322
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 55c04927d69adf7ca7f628898c864b537281e8e5512077fb593eee863d109dc7
+machine_hash: a720e3643a51ac1148c45c6c6a40cc8e58f886d568e56a4db1e6337031929336
 product: replit
 product_name: Replit
 record:
@@ -49,8 +48,7 @@ record:
   title: Visual Editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
-  Cursor Tab accepts work with single-line selections]]'
+- '[[Changes/Descript/2025-03-11-editor-updates|Editor updates]]'
 - '[[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask
   Gemini to remember the things you care about]]'
 - '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
@@ -94,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

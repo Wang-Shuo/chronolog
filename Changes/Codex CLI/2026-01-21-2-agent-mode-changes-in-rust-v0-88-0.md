@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 464a513a92efca56cae2962d6489117379c1ec77d8b23afea26940cda1fab6c2
+machine_hash: 517e80a2b17b671026f1055c0c79327a0cd576211b913a3accc0dfd8e9489d40
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Agent Mode changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
-  server management when swapping between custom agents with /agent]]'
 - '[[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core
   Restore persisted model and agent when loading ACP session]]'
+- '[[Changes/Notion/2026-01-20-your-agent-fits-in-your-pocket|Your Agent fits in your
+  pocket]]'
 - '[[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes
   in v1.1.28]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

@@ -4,19 +4,20 @@ date: '2026-05-27'
 description: 'Gemini CLI · 2026-05-27 · Developer Workflow: feat(core): expose RAG
   snippets to local log file for debugging by @spencer426 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2815
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d4e4aa6905fbc1e94a89a37eeeecce463d4f2bd4883ef79e5f08282c19c2ffd
+machine_hash: 9a4b27eb24a6517232df4a66823fe4628ab781cf483c2f090b9d8ad6360a0d05
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +42,8 @@ record:
   title: 'feat(core): expose RAG snippets to local log file for debugging'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash
-  shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]'
+- '[[Changes/Kimi Code/2026-05-26-exit-promptly-when-the-controlling-terminal-goes-away-the-tui-now-handles-sighup|Exit
+  promptly when the controlling terminal goes away]]'
 - '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
   Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
@@ -82,13 +83,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]]
-- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer Workflow changes in v1.15.11]]
+- Later: 2026-05-27 · Kimi Code · [[Changes/Kimi Code/2026-05-27-3-developer-workflow-changes-in-kimi-code-0-4-0|3 Developer Workflow changes in Kimi Code 0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

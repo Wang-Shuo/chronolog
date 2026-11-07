@@ -5,20 +5,21 @@ description: "Open WebUI · 2025-04-14 · Account and Access: \U0001F6E0️ **LD
   Reliability Restored**: Resolved a critical issue where some LDAP setups failed
   due to attribute…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 746
+  lag_days: 1721
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b4059027489fbe6f9d8a2d1f0f8151690eb0750ae77a500df43bd90dceb664b
+machine_hash: 00e26cf2f9f403fc9cef4ab6ffe44418980ab87499c80ccbbeb1e439e1334506
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-account-and-access-changes-in-v0-6-3|2 Account and Access changes in v0.6.3]]
-- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added support for GitLab API calling using both OAuth and PAT tokens]]
+- Later: 2025-04-15 · Descript · [[Changes/Descript/2025-04-15-you-ll-see-some-ui-differences-when-you-login|A new look for login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

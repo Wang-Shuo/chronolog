@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Cursor · 2025-05-15 · Interface Experience: Exploring different paths
   from a conversation while preserving the existing is now possible with chat duplication…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 376165de3c81c0a5eac4202f9da9db829b0ccf1bb0982ba3a42c4d59ac062ee4
+machine_hash: 0b3b0e66180b14d988525783ea378cc56aa7c6c85c37237354495c722a9635a4
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Duplicate Chats
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add
-  support for batch selection and deletion of tasks in history (Thanks danix800!)]]'
 - '[[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface
   Experience changes in v0.6.8]]'
 - '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
   details to auto approve menu and more sensible default controls]]'
+- '[[Changes/Notion/2025-05-13-welcome-to-your-new-ai-home|Welcome to your new AI
+  Home]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added details to auto approve menu and more sensible default controls]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-welcome-to-your-new-ai-home|Welcome to your new AI Home]]
 - Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-2-interface-experience-changes-in-1-4-0|2 Interface Experience changes in 1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

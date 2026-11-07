@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d8b162e2215c0f1c35b8969905bf58714f722d94517cc9785abba5c52d134f24
+machine_hash: 56184bad9d5f8227f16644171651d8e38f8926f5a21bae7b9358e456ade32a5c
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add code-supernova stealth model
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-3-model-support-changes-in-v0-6-29|3 Model Support
-  changes in v0.6.29]]'
 - '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
   Updates]]'
+- '[[Changes/Notion/2025-09-18-the-best-ai-models-built-in|The best AI models, built
+  in]]'
 - '[[Changes/Ollama/2025-09-18-6-model-support-changes-in-v0-12-0|6 Model Support
   changes in v0.12.0]]'
 source_release: '[[Releases/Cline/cline-2025-09-19-v3-30-0-github-248707045-13def0a7|cline-2025-09-19-v3-30-0-github-248707045-13def0a7]]'

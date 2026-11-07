@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a5d7341e8d191e72a2d2014578d2dfd74fd71a2891794a97a05b4e1a8c6a2535
+machine_hash: 07f4cf5730e8400b393907f68caa6634fe3b51cb004edf6137f7a291cb1b5a18
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Core Added skill discovery and file-based agent loading
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
-  Agent Mode changes in Custom stores, custom tools…]]'
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
   elements]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
   Mode changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-use-a-fixed-30-minute-timeout-for-subagents-and-show-concise-resume-instructions|Use
+  a fixed 30-minute timeout for subagents and show concise resume instructions…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-0-b08173b2|opencode-2026-06-05-v1-16-0-b08173b2]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
+- Earlier: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-use-a-fixed-30-minute-timeout-for-subagents-and-show-concise-resume-instructions|Use a fixed 30-minute timeout for subagents and show concise resume instructions…]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-running-subagents-can-now-be-sent-to-the-background-so-you-can-keep-working|Core Running subagents can now be sent to the background so you can keep working]]
 <!-- chronolog:end -->
 

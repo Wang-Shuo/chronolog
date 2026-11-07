@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Search and Browsing: Add /mcp registry
   installation for browsing and installing MCP servers'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1188
+  lag_days: 2217
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce1fe3db7637897405beca10326da786fd68635c9bcda577f07cedc11c4c26f5
+machine_hash: b5616982605e9e178d0e39369a347804f3acf7d36f74d48e0434107ac920726d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: Add /mcp registry installation for browsing and installing MCP servers
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-search-and-browsing-changes-in-v1-0-61|2
-  Search and Browsing changes in v1.0.61]]'
-- '[[Changes/Codex CLI/2026-06-15-27501-codex-expand-hosted-web-search-citation-guidance-yuning-oai|♯27501
-  codex Expand hosted web search citation guidance @yuning-oai]]'
+- '[[Changes/Kimi Code/2026-06-15-add-an-all-sessions-picker-view-with-name-search-paginated-browsing-and-clipboar|Add
+  an all-sessions picker view with name search, paginated browsing…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-infinite-scroll-chat-history-web-microsoft-365-copilot-chat|Infinite
+  scroll chat history Web (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2
   Search and Browsing changes in rust-v0.142.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
@@ -102,13 +102,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2 Search and Browsing changes in rust-v0.142.0]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search and Browsing changes in v0.10.0]]
+- Later: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-remove-the-sessions-slash-command-from-the-web-ui-the-sidebar-already-covers-ses|Remove the /sessions slash command from the web UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

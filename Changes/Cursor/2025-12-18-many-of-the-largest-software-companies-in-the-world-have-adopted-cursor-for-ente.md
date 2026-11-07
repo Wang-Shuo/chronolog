@@ -5,20 +5,20 @@ description: 'Cursor · 2025-12-18 · Enterprise and Administration: Many of the
   software companies in the world have adopted Cursor for Enterprise. Here are some
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 958
+  lag_days: 2165
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5faa044c2693092d9367addca83e3c004316c4b6a47df07125925e723fa25c0b
+machine_hash: c768eebe6cfa89f7040409f934b0209ee2c8bec325bd752acbcd387ed44afc3b
 product: cursor
 product_name: Cursor
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-12-18 · Claude · [[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Later: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New admin controls for transcription glossary and do not translate lists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

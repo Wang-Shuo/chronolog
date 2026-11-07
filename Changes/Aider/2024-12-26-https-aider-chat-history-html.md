@@ -3,20 +3,20 @@ card_id: aider-2024-12-26-ddfdda
 date: '2024-12-26'
 description: 'Aider · 2024-12-26 · Interface Experience: https://aider.chat/HISTORY.html'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 717
+  lag_days: 2083
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 278a81a8c60b02dbc09a4332d17bbefbf5e6609ee8abccd453005a3ce791e324
+machine_hash: 0fd2bd8600bfc0483ebc7ec1936a0a80cf899a75d9a9f27811911c744b8b19a0
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,9 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
-  Experience changes in 0.13.2]]'
 - '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
+- '[[Changes/Descript/2024-12-13-when-you-re-ready-to-swap-in-your-final-content-just-select-the-placeholder-laye|When
+  you’re ready to swap in your final content, just select the Placeholder layer…]]'
 - "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
   Quick Screen Capture Button]]"
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

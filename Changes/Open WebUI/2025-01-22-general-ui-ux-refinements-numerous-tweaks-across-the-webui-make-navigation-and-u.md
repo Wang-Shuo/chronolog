@@ -4,20 +4,20 @@ date: '2025-01-22'
 description: 'Open WebUI · 2025-01-22 · Interface Experience: **✨ General UI/UX Refinements**:
   Numerous tweaks across the WebUI make navigation and usability even more…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 744
+  lag_days: 2110
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23367e566d408acbf210d3502599d9baec87ad94f3c83ee8aa8dd7f408d29c9d
+machine_hash: fa23bb73518f810999d12ae456eea005ef9a81708d8b790ee61f69030ca46cfa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,11 +42,10 @@ record:
   title: '**✨ General UI/UX Refinements**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-05-2-interface-experience-changes-in-v0-5-4|2 Interface
-  Experience changes in v0.5.4]]'
 - '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
   API ToC]]'
+- '[[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge API ToC]]
+- Earlier: 2025-01-14 · Descript · [[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]
 - Later: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e31ce016db4d59576c88cebafc3279257d7b2ed0ef6516c65a63a71a0c4341f8
+machine_hash: 665f4c36db309cc58d7b46b0306e031dd05c55772ba8388cf52dc879b7206ae1
 product: dify
 product_name: Dify
 record:
@@ -551,7 +551,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest for your app's AI features]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support changes in v0.11.1]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-select-models-when-using-researcher-in-copilot-chat-windows-web-microsoft-365-co|Select models when using Researcher in Copilot Chat Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

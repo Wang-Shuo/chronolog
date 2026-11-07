@@ -4,20 +4,19 @@ date: '2026-02-17'
 description: 'GitHub Copilot CLI · 2026-02-17 · Editor Experience: Tab completion
   respects the highlighted slash command selection'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1071
+  lag_days: 2655
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c59e68a362393c11ac842f2df0f7a32abd0348fa17c1aaf1122facc39bf9894
+machine_hash: 92ac3bd9decf346e89db3b446371c55f846dcaeb15a4b119b34f5e659022ce7b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,13 +82,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual edits no longer create in-line diffs]]
-- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|🎨 Image edit API background support. The image edit API now supports…]]
+- Later: 2026-02-17 · HeyGen · [[Changes/HeyGen/2026-02-17-who-it-s-for-marketing-sales-cs-and-ops-teams-that-live-in-slack-and-want-to-tur|Who it's for: Marketing, sales, CS, and ops teams that live in Slack and want…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

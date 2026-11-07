@@ -5,20 +5,20 @@ description: 'Cursor · 2026-03-03 · Context Window: 2 changes in MCP Apps and 
   Marketplaces for Plugins — Added a right-click context menu and zoom support to
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2358
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eda4af210817a4f1c732437afcbe8e4cb9a8b68c36a363238be51e293f48445
+machine_hash: 5cba8088da4352e32507fb51997a643b66ebab0199c17b0b87848c554d528391
 product: cursor
 product_name: Cursor
 record:
@@ -101,7 +101,7 @@ Source: https://cursor.com/changelog/2-6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

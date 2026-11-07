@@ -4,20 +4,20 @@ date: '2025-07-19'
 description: 'Gemini CLI · 2025-07-19 · Interface Experience: Add numbers to selection
   list by @miguelsolorio in https://github.com/google-gemini/gemini-cli/pull/4320'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 922
+  lag_days: 2288
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9d3541bfc0f9e41dbba7d13512d6a75cfe453cf6e353bcfe101ba2162828ea9
+machine_hash: 8b5255cf3f05d72885e609fefbe5b0d30ca3b3f5fd83cb1ddf82c0fb9245cf7f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Add numbers to selection list
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
 - '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
   changes in 1.6.0]]'
+- '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
 - '[[Changes/Open WebUI/2025-07-14-4-interface-experience-changes-in-v0-6-16|4 Interface
   Experience changes in v0.6.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

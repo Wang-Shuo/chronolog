@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'GitHub Copilot CLI · 2026-05-14 · Pricing Model: Model picker displays
   actual token prices instead of dot indicators for token-based billing users'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1246
+  lag_days: 2864
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 744b30e2e7cd813e599d27ad331a0db7d04c0f2212abf9c69853d560d0b82880
+machine_hash: 6fa13424a75516746acea4cdc244833acfa805ddd8656750af19da6862a99bc8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: Model picker displays actual token prices instead of dot indicators for token-based…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web):
-  migrate subscription create modal to dialog]]'
 - '[[Changes/v0/2026-05-12-the-v0-credit-redemption-modal-no-longer-hangs-on-verifying-after-submitting-a-u|The
   v0 credit redemption modal no longer hangs on "Verifying" after submitting…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
   Max subscribers see the correct models available to their subscription tier]]'
+- '[[Changes/Notion/2026-05-13-trigger-notion-workflows-from-anywhere-beta|Trigger
+  Notion workflows from anywhere (Beta)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
 source_type: github_releases
 theme: pricing-model
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot Max subscribers see the correct models available to their subscription tier]]
+- Earlier: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-trigger-notion-workflows-from-anywhere-beta|Trigger Notion workflows from anywhere (Beta)]]
 - Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For local use without an Ollama Cloud subscription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

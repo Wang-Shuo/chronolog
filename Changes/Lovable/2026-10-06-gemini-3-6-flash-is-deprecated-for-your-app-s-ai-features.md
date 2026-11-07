@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: ca7417d4d87a5a3c68c1a3e43bd4910450b1e48b683f333e58da64ad4cb415b3
+machine_hash: e1e84822fa87aa77d366e12a881a4fd4469f84987daf03656dd0e06cb606d4f6
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
-- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support changes in v1.25.0]]
+- Later: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-regenerate-response-for-alternative-answers-web-microsoft-365-copilot|Regenerate response for alternative answers Web (Microsoft 365 Copilot)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

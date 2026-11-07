@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'ElevenLabs · 2026-10-19 · Multimodal Input: Video to Music writes a
   soundtrack for your video. The [Video to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c6e4bc5406e36986e8aaae2f9aba4c88e8c4ce9c87474f18a606bbc8c5f96585
+machine_hash: cb995166c5696aa1e20c85a6ae627d2b309578f7dbcdd2ad3740c39d76ab7718
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,9 +58,10 @@ record:
   title: Video to Music
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-music|Music]]'
-- '[[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added
-  support for multimodal embeddings through llama-server]]'
+- '[[Changes/HeyGen/2026-10-13-create-templates-through-the-api|Create templates through
+  the API]]'
+- '[[Changes/HeyGen/2026-10-13-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here''s
+  what''s new in HeyGen this month]]'
 - '[[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse
   Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
@@ -108,13 +109,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]
-- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux camera discovery now reports an unreadable device folder as an error instead…]]
+- Later: 2026-10-21 · Synthesia · [[Changes/Synthesia/2026-10-21-feature-synthesia-avatars-in-your-syren-videos-and-pick-preview-or-describe-your|Choose Synthesia Avatars for your Syren videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

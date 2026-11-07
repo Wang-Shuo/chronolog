@@ -5,20 +5,19 @@ description: 'Ollama · 2026-08-04 · Editor Experience: TUI fixes: pipe-delimit
   no longer renders as a table, Enter accepts the highlighted `@` file completion,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4472b3192b9ef004c63862fdd5ffc7c2520b75bfa5753f3d27e6bc982a89f449
+machine_hash: 2280c36cd02dd639fe1ea15282e81d1df03195d232bd0536f657dc5a738685d2
 product: ollama
 product_name: Ollama
 record:
@@ -81,13 +80,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps): bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

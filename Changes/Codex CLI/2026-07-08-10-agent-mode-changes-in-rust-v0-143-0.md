@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bacc273b88f7422f8620c592fd101957b49e7f349a83924abb99e250b6fd906
+machine_hash: 157ac2b4de298bb740c064200ccd91add3b67847e9d89a5f8faa6ff7ca634d38
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 10 Agent Mode changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
-  changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press
   Esc now interrupts the running main turn (flushing queued messages)…]]'
+- '[[Changes/Kimi Code/2026-07-07-tighten-goal-mode-guidance-so-agents-continue-reasonable-work-across-turns-inste|Tighten
+  goal-mode guidance so agents continue reasonable work across turns instead…]]'
 - '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
   changes in v2.1.205]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
@@ -128,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]]
-- Later: 2026-07-08 · Runway · [[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom Agent Skills]]
+- Later: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-count-the-turn-that-starts-an-autonomous-goal-toward-its-turn-budget|Count the turn that starts an autonomous goal toward its turn budget]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

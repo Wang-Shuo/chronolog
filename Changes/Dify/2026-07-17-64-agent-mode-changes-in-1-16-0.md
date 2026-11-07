@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f708e50b1549a4d248e0f7ac7fe3a893aee0c9438f1aca6429f5b1201531220
+machine_hash: 0b293ba636786f304cbd14681e4ca3c372cfe79f22ed4fffa9d3e3722e73ba5b
 product: dify
 product_name: Dify
 record:
@@ -213,8 +213,8 @@ record:
   title: 64 Agent Mode changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
-  Mode changes in v1.0.71]]'
+- '[[Changes/Notion/2026-07-16-your-agent-just-got-new-calendar-tools-to-show-and-manage-your-schedule-join-cal|Your
+  agent just got new calendar tools to show and manage your schedule]]'
 - '[[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop
   Fixed custom agent selector visibility when custom agents are available]]'
 - '[[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode

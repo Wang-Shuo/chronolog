@@ -4,20 +4,19 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Editor Experience: 2 changes in New Cursor Interface
   — Removed cloud agents from the Editor.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1115
+  lag_days: 2699
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51211b9c64725e2a69a9ed3080aafd5ef45e52fe8aad5a49b7616d493b45b4c3
+machine_hash: 6ad60b1beb1f88e95271f42b596409f5400b7359e74fe1f50ac47dfe829a8aff
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +98,7 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

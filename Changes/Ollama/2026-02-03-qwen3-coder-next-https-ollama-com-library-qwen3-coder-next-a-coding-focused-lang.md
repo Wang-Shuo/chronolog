@@ -4,19 +4,20 @@ date: '2026-02-03'
 description: 'Ollama · 2026-02-03 · Collaboration: [Qwen3-Coder-Next](https://ollama.com/library/qwen3-coder-next):
   a coding-focused language model from Alibaba''s Qwen team…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 986
+  lag_days: 2580
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7992bbaa3f120f021d9301673f5ceb78a7139cee8cb6e02fc0a519b7a48cb82d
+machine_hash: c5f95cdd72b32cad4cd210d64cd5aa27b66cc382f7eab4f84c915c61197e5f94
 product: ollama
 product_name: Ollama
 record:
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

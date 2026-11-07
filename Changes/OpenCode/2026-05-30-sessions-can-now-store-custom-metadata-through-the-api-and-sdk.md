@@ -4,20 +4,20 @@ date: '2026-05-30'
 description: 'OpenCode · 2026-05-30 · Apps and Integrations: Sessions can now store
   custom metadata through the API and SDK'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1164
+  lag_days: 2724
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cae0bc490cb9f903e168c430b26a5d97458f45067e55e4d2fe9029b3747bb99f
+machine_hash: be6431a274c990ec600c81e5db080d653bbe80598412f1769ca60c1cd1022afb
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
   title: Sessions can now store custom metadata through the API and SDK
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
-  and ChatGPT connectors just got smarter]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
   Apps and Integrations changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-3-apps-and-integrations-changes-in-kimi-code-0-6-0|3
+  Apps and Integrations changes in Kimi Code 0.6.0]]'
 - '[[Changes/Replit/2026-05-29-integrations|Integrations]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-30-v1-15-13-9e1a2e19|opencode-2026-05-30-v1-15-13-9e1a2e19]]'
 source_type: opencode_changelog
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

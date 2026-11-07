@@ -4,20 +4,20 @@ date: '2026-06-12'
 description: 'Claude Code · 2026-06-12 · Context Window: [VSCode] Added usage attribution
   to the Account & usage dialog (`/usage`) showing cache misses, long context…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2459
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 515e69fb519ba9ec834f6599d60e46bf43ba21c550c7d59194ac95540453b346
+machine_hash: 36487744200bc2900b34b7ec53e9ed9acbae4c08e61b4e86dc88f52ad3e79beb
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,8 +64,8 @@ record:
     showing…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
-  Window changes in rust-v0.139.0]]'
+- '[[Changes/Kimi Code/2026-06-09-2-context-window-changes-in-kimi-code-0-12-0|2 Context
+  Window changes in Kimi Code 0.12.0]]'
 - '[[Changes/OpenCode/2026-06-10-core-sessions-can-recover-once-from-provider-context-overflow-errors-instead-of|Core
   Sessions can recover once from provider context-overflow errors instead…]]'
 - '[[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask side questions using /btw]]
-- Later: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved prompt caching by decoupling it from context shift for better KV cache reuse]]
+- Later: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-show-completed-and-cancelled-compaction-records-correctly-when-resuming-a-sessio|Show completed and cancelled compaction records correctly when resuming a session]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

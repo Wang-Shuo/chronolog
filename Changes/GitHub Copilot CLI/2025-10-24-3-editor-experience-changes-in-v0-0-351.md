@@ -4,20 +4,19 @@ date: '2025-10-24'
 description: 'GitHub Copilot CLI · 2025-10-24 · Editor Experience: 3 changes in 0.0.351
   — Shell redirections like `> some_file.txt` in paths you''ve already granted write…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 955
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 592773ed16ea1c24f62594eda9d6010cb690c7190a0ba3bdb68190137c2fab8a
+machine_hash: e0656e18d2a289c750b64b4075aecae5ef07f233832f64485eabfd28286de949
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +44,10 @@ record:
   title: 3 Editor Experience changes in v0.0.351
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-4-editor-experience-changes-in-v0-0-348|4
-  Editor Experience changes in v0.0.348]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-22-added-quit-as-an-alias-of-exit-fixes-https-github-com-github-copilot-cli-issues|Added
-  /quit as an alias of /exit…]]'
+- '[[Changes/Descript/2025-10-23-new-in-editor-save-keyframes-from-your-timeline|New
+  in Editor—Save keyframes from your timeline]]'
+- '[[Changes/Descript/2025-10-23-edit-image-and-video-from-the-media-library|Edit
+  image and video from the media library]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-2-editor-experience-changes-in-v0-0-350|2
   Editor Experience changes in v0.0.350]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-24-v0-0-351-github-257144222-0cb79d81|github-copilot-cli-2025-10-24-v0-0-351-github-257144222-0cb79d81]]'
@@ -94,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.351
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

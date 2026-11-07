@@ -4,20 +4,19 @@ date: '2025-09-01'
 description: 'Lovable · 2025-09-01 · Editor Experience: For Pro+ members, we’ve introduced
   a new Viewer role. Viewers can see workspace metadata, projects, and members, but…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 902
+  lag_days: 2486
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 58d9a10a1026e19c6ea486c9ebe367629db18fffa217bb26b55d9a53cd2c995a
+machine_hash: 568c6ad19e7480368d3b4240959d0054d05efa0ff62f3063e9ebb033fac65689
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +49,9 @@ record:
   title: Workspace viewer role (Pro+)**
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience
-  changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
   Experience changes in v0.2.0]]'
+- '[[Changes/Descript/2025-08-29-what-s-new|What’s new?]]'
 - '[[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]'
 source_release: '[[Releases/Lovable/lovable-2025-09-01-2025-09-01-b1665f28|lovable-2025-09-01-2025-09-01-b1665f28]]'
 source_type: lovable_changelog
@@ -88,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor Experience changes in v0.2.0]]
+- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-what-s-new|What’s new?]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor Experience changes in v0.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

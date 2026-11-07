@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d47b7da12f06018bf0ff142c081218f2f71479092b22509cff137cb3471a27b
+machine_hash: 252b178fdd42c8d43da533374b44c0e2012e4b4c0b7efa6a9542ca1670f9efde
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved the model selector dropdown to choose thinking levels per-model…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
-  the Write tool so newer models can overwrite an existing file they haven''t…]]'
 - '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
   in v4.1.8]]'
 - '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
   changes in v0.55.1]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose
+  Anthropic models when editing with Copilot in Word Web (Word)]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82|google-antigravity-2026-08-12-rel-ide-2-5-2-37e14a82]]'
 source_type: antigravity_changelog
 theme: model-support
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support changes in v0.55.1]]
+- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose Anthropic models when editing with Copilot in Word Web (Word)]]
 - Later: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made session compaction keep complete recent turns and produce clearer summaries…]]
 <!-- chronolog:end -->
 

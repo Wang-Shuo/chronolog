@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-02-09 · Interface Experience: As we recently anno
   our Plus plan comes with early access to new, experimental features. We are beginning
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 31
+  lag_days: 1397
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c6a6d60f566583679eedd15b82fe055e2dfd2bf054ba61829db0d1aab0e5d64d
+machine_hash: a88224ab64fb80b154848fe8a98567903f645b37f7cb7543fcc6849e829bbf20
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,6 +54,10 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
   generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+- '[[Changes/Descript/2023-01-23-made-it-easier-to-apply-changes-from-one-scene-to-all-scenes-that-a-layer-spans|Made
+  it easier to apply changes from one scene to all scenes that a layer spans]]'
+- '[[Changes/Descript/2023-02-06-the-jump-to-markers-menu-is-now-on-the-top-right-of-the-script-when-you-add-mark|The
+  "Jump to markers" menu is now on the top right of the Script when you add…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -85,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
-- Later: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface Experience changes in 0.1.2]]
+- Earlier: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-the-jump-to-markers-menu-is-now-on-the-top-right-of-the-script-when-you-add-mark|The "Jump to markers" menu is now on the top right of the Script when you add…]]
+- Later: 2023-02-09 · Notion · [[Changes/Notion/2023-02-09-page-analytics|Page Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

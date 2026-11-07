@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Pricing Model: 2 changes in v1.11.0 - Your knowledge
   base just went from mono to full HD — chore: enhance the test script of current…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 2710
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 480c7693dc68b0ae21bb1f2b9ad6f59f003867681711b1a5a439236b37207f06
+machine_hash: 0d8c07a974b43c25c7a6cb1aca27f01f285426c5abd073cfb71d5937a00f3f3b
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-10-22'
 description: 'Claude Code · 2026-10-22 · Editor Experience: 2 changes in v2.1.309
   — Changed `sed -i` to get the standard Bash prompt and run as written, not a simulated…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9aa5b81ca1b2ffb6e8f8099f9797f8fcf63beb7263d7d28ec197a5bcb05af7bf
+machine_hash: 5fb9e3761c523af648f9cd29e303644ff3eee44087a1d775fab87d5083894bf2
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

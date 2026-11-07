@@ -4,20 +4,19 @@ date: '2024-06-03'
 description: 'Open WebUI · 2024-06-03 · Editor Experience: **✏️ Edit Titles with Double
   Click**: Double-click on titles to rename them quickly and efficiently.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 447
+  lag_days: 2031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f28af436d8d28433be389dc5de81412d84d08664b49c4424edaebf29305238ba
+machine_hash: d45c2ba93b1b4c7285b8338a8aa2c4bba0b5b99a8b8f55ad230b0ee45203f0d2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

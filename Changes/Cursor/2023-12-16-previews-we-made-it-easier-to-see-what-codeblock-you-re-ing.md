@@ -4,20 +4,20 @@ date: '2023-12-16'
 description: 'Cursor · 2023-12-16 · Interface Experience: @ previews: We made it easier
   to see what codeblock you''re @''ing.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 341
+  lag_days: 1707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cd5776b6b628570e49edf933853ee410e7228de77f11a5f3c197100ac1de774
+machine_hash: 32f1f068300f41df72dc605d303d3a9bb7effb6818f4a4c47e3015d219c98c74
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,9 @@ record:
   title: '@ previews: We made it easier to see what codeblock you''re @''ing'
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
-  for more age groups]]'
-- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
-  Improvements: We''ve spent some time improving the latency…]]'
+- '[[Changes/Descript/2023-12-05-ai-action-groups|AI Action groups]]'
+- '[[Changes/Descript/2023-12-05-the-escape-key-no-longer-resets-your-tool-selection-in-previous-versions-pressin|The
+  escape key no longer resets your Tool selection]]'
 - '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
@@ -79,13 +78,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
-- Later: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat: app sidebar support collapse]]
+- Later: 2023-12-18 · Descript · [[Changes/Descript/2023-12-18-speaker-label-and-speaker-menu-changes|Speaker Label and Speaker Menu changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

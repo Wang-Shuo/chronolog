@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87f1fa4777dc6faf78242da69b8396f41a90f558fc25c0a33702a5acbd87928d
+machine_hash: 7407649f71edbb8b3697b9320f6fa6a8441d52158b475674b1067a8e3c416406
 product: aider
 product_name: Aider
 record:
@@ -50,8 +50,7 @@ record:
   title: 6 Model Support changes in v0.58.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support
-  changes in v0.3.24]]'
+- '[[Changes/Notion/2024-09-25-chat-about-anything|Chat about anything]]'
 - "[[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|\U0001F527
   O1 Max Completion Tokens Issue]]"
 - '[[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display

@@ -5,20 +5,20 @@ description: 'Cursor · 2025-10-29 · Enterprise and Administration: Enterprise 
   can now distribute hooks directly from the web dashboard. Admins can add new hooks,
   save…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 908
+  lag_days: 2115
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 13460db679d093e8659252fe58893eac18e3b13657529dd08f0453296d860658
+machine_hash: 7a2b278decdb4c607380e1282e9b4b1065de1fca3e7d9077d5f72cad5f407578
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
   title: 'Hooks: Cloud Distribution'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-10-22-knowledge-pipeline-for-enterprise-by-garfielddai-in-https-github-com-langgenius|knowledge-pipeline-for-enterprise]]'
 - '[[Changes/Replit/2025-10-24-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Descript/2025-10-28-new-in-brand-studio-permissions|New in Brand Studio—permissions]]'
 - '[[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-teams-and-enterprise|Teams and Enterprise]]
+- Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-new-in-brand-studio-permissions|New in Brand Studio—permissions]]
 - Later: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-bulk-delete-for-organizations|Bulk delete for organizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

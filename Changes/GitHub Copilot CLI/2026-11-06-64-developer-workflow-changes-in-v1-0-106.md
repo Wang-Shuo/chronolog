@@ -4,19 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Developer Workflow: 64 changes in
   1.0.106 — Add /code command to open the current session in VS Code'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1329
+  lag_days: 2978
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89bf6f920b78cc130d4e23cccde28c6d37b4b8865bddc8c5daa87dd4b9883494
+machine_hash: e65190b36d78b0586db9897921fb442e31275e0e1d20b041126a9ec6bb97fee7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -256,8 +257,8 @@ record:
   title: 64 Developer Workflow changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
-  changes in 1.19.0]]'
+- '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
+  remote sessions in SSH, Docker, or custom-command environments]]'
 - '[[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer
   Workflow changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-6-developer-workflow-changes-in-rust-v0-167-0|6
@@ -444,7 +445,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

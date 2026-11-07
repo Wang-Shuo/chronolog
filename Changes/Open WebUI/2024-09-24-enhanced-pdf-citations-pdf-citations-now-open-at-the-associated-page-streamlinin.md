@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-24 · Files and Data: **\U0001F4C4 Enhanced 
   Citations**: PDF citations now open at the associated page, streamlining reference
   checks and…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 488
+  lag_days: 1833
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4be40ced0b8129b95264e4a365dc4ddc25d7d1710eb75e3d5891a935d36f3013
+machine_hash: 7993621a83a726c034a269a5af206b9a409d2faa180d9f283477c12b112c7178
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat: return page number of pdf documents upon retrieval]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-corrected-a-linking-error-in-help-documents-hjlarry-in-8508|Corrected a linking error in help documents (@hjlarry in ♯8508)]]
+- Later: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar under the Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

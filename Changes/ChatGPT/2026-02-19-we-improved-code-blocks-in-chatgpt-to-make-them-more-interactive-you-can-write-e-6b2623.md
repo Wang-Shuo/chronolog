@@ -5,20 +5,19 @@ description: 'ChatGPT · 2026-02-19 · Editor Experience: We improved Code Block
   ChatGPT to make them more interactive. You can write, edit, and preview your code
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1073
+  lag_days: 2657
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5bdabd9d9b7a05268fcd1b61d29ad6e640e09f9e5c988ba41b6234dc1e8bc28
+machine_hash: 5332ae0df80f5765c405c3f65b0d041ee4a24ab1f4a693e8fd94a102ac18e5a3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +47,8 @@ record:
   title: We improved Code Blocks in ChatGPT to make them more interactive
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
-  completion respects the highlighted slash command selection]]'
+- '[[Changes/HeyGen/2026-02-17-who-it-s-for-marketing-sales-cs-and-ops-teams-that-live-in-slack-and-want-to-tur|Who
+  it''s for: Marketing, sales, CS, and ops teams that live in Slack and want…]]'
 - "[[Changes/Open WebUI/2026-02-17-image-edit-api-background-support-the-image-edit-api-now-supports-the-background|\U0001F3A8
   Image edit API background support. The image edit API now supports…]]"
 - '[[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

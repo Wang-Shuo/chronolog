@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 853cd2141ef1ec0e81eeee7e05c921971a2335007c1151a9e6ecaebfd13fd3f3
+machine_hash: ffb1ec4b799ef865c43d04d5d89e5e4d02ff6e254a470a875a33762367169c58
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: stop model migration screen after first time
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default
-  model for API users is now gpt-5.1-codex]]'
 - '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
   Support changes in rust-v0.59.0]]'
+- '[[Changes/Notion/2025-11-19-gemini-3-pro-is-now-available-in-notion|Gemini 3 Pro
+  is live]]'
 - '[[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source
   link) instruction tuned generative…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88|codex-cli-2025-11-20-rust-v0-61-0-github-264047822-0c996f88]]'

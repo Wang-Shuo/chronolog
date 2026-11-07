@@ -4,20 +4,20 @@ date: '2024-01-08'
 description: 'Runway · 2024-01-08 · Voice and Audio: Create a Custom Voice for Text
   to Speech or Lip Sync videos, using a short audio sample.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 182
+  lag_days: 2009
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d8ceaa1d4c33dabb57db899add60c9689c272a17b397cd0e96b06c7efe1d7cd
+machine_hash: bf033e86ecbcb231b5b9296c60aa5ce9fab78bd01023d24171b57bb33aa96675
 product: runway
 product_name: Runway
 record:
@@ -42,10 +42,9 @@ record:
   title: Custom Voices
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-  (Beta) is now rolling out to Plus users on iOS and Android]]'
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
+- '[[Changes/Synthesia/2023-11-13-all-creator-plan-and-enterprise-plan-users-can-now-download-the-audio-from-your|AUDIO
+  download is here]]'
+- '[[Changes/Descript/2023-11-15-ai-turn-into-blog-post|AI Turn into Blog Post]]'
 - '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
   with voice is available to all users]]'
 source_release: '[[Releases/Runway/runway-2024-01-08-2024-01-08-custom-voices-0f7dc929|runway-2024-01-08-2024-01-08-custom-voices-0f7dc929]]'
@@ -75,13 +74,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
-- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
+- Later: 2024-01-10 · Descript · [[Changes/Descript/2024-01-10-descript-for-web-beta-adds-video-audio-and-gif-exports|Descript for Web (Beta) adds Video, Audio, and GIF exports]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

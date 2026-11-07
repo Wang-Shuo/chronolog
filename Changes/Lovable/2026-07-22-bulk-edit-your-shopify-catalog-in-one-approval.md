@@ -4,20 +4,20 @@ date: '2026-07-22'
 description: 'Lovable · 2026-07-22 · Apps and Integrations: When you ask Lovable to
   create, update, or delete many…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2777
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6dd1bdda1953dc3465bb746df71906e953fd624887dfcd93d671b8294c12990a
+machine_hash: 1ce8b5595719ef395c6b82b173e49edcb445a9fdb3183a8eb940dc1e6104734b
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Bulk-edit your Shopify catalog in one approval
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-21-app-connectors-apify-and-tally|App connectors: Apify
-  and Tally]]'
 - '[[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3
   Apps and Integrations changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
   Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect
+  a dropped MCP server connection automatically when one of its tools…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-22-2026-07-22-3071ca78|lovable-2026-07-22-2026-07-22-3071ca78]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect a dropped MCP server connection automatically when one of its tools…]]
 - Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3 Apps and Integrations changes in v1.0.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

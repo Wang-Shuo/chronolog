@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'Runway · 2026-06-30 · Video Generation: Generate and edit video with
   Gemini Omni Flash, now in Runway. Start with a prompt, an image or video and create…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 894
+  lag_days: 2078
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4da0794c521cbf3642e3e5d0d9f19d597bba606bedd4a2dc74216b45d0ae4555
+machine_hash: c13a7aff87479ebaf504c652945f543a6ba0fd8e7e4c300851e81ca794a0d8ec
 product: runway
 product_name: Runway
 record:
@@ -45,12 +45,12 @@ record:
   title: Gemini Omni Flash
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-08-13-we-re-now-letting-you-generate-videos-in-smaller-batches|We''re
-  now letting you generate videos in smaller batches]]'
-- '[[Changes/Midjourney/2025-08-13-hd-video-generation-is-now-available-for-standard-plan-users|HD
-  video generation is now available for Standard Plan users]]'
-- '[[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance
-  2.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-21-copilot-setting-for-video-generation-microsoft-365-copilot-admin-center|Copilot
+  setting for video generation (Microsoft 365 Copilot admin center)]]'
+- '[[Changes/HeyGen/2026-05-13-call-on-your-heygen-avatars-swap-looks-edit-scenes-and-generate-polished-videos|Call
+  on your HeyGen avatars, swap looks, edit scenes, and generate polished videos…]]'
+- '[[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look
+  Packs is now available inside HeyGen]]'
 source_release: '[[Releases/Runway/runway-2026-06-30-2026-06-30-gemini-omni-flash-ac1d76c1|runway-2026-06-30-2026-06-30-gemini-omni-flash-ac1d76c1]]'
 source_type: runway_changelog
 theme: video-generation
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-04-07 · Runway · [[Changes/Runway/2026-04-07-use-anything-text-image-video-or-audio-to-generate-or-edit-videos-with-seedance|Seedance 2.0]]
-- Later: 2026-07-09 · Runway · [[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline in Agent]]
+- Earlier: 2026-06-24 · HeyGen · [[Changes/HeyGen/2026-06-24-look-packs-is-now-available-inside-heygen-it-takes-a-single-face-upload-and-gene|Look Packs is now available inside HeyGen]]
+- Later: 2026-06-30 · Synthesia · [[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early access: Gemini Omni Flash live in Synthesia]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

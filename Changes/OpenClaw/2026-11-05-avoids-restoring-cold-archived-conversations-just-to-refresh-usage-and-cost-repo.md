@@ -4,20 +4,20 @@ date: '2026-11-05'
 description: 'OpenClaw · 2026-11-05 · Pricing Model: Avoids restoring cold archived
   conversations just to refresh usage and cost reports by reading verified archives…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1421
+  lag_days: 3039
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9077f5d149ad1d5761f62e90ae12980180e7f846ba2db9784e13d2fabd4d55d9
+machine_hash: bb78648159dfbde20f87e95079f071f950ea2de58b32e9d1aa2fe5d2737aeff4
 product: openclaw
 product_name: OpenClaw
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes in 1.19.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-5-pricing-model-changes-in-v1-0-106|5 Pricing Model changes in v1.0.106]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-model-selection-new-tasks-can-default-to-an-available-free-official-model-when-t|Model selection: New tasks can default to an available free official model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

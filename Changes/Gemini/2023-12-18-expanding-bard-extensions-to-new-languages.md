@@ -5,20 +5,20 @@ description: 'Gemini · 2023-12-18 · Safety and Privacy: What: You can now use 
   to access helpful information from Google apps and services in Japanese and Korean,
   as…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 246
+  lag_days: 1238
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 129a690202d6c00fdc040ce33232db3c95c4a035cf346d8eea86ecff96069762
+machine_hash: 1d31e0608b4545e94db5bfdc690fe620330982261ac93fa1a9462345dea6afc7
 product: gemini
 product_name: Gemini
 record:
@@ -59,12 +59,12 @@ record:
   title: Expanding Bard Extensions to new languages
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
-  ChatGPT Enterprise]]'
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
+- '[[Changes/Descript/2023-10-16-set-default-privacy-for-published-pages-https-help-descript-com-hc-en-us-article|Set
+  Default Privacy for Published…]]'
 - '[[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix
   permission denied issues when running ollama create on Linux]]'
+- '[[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI
+  Speaker authorization has been simplified, so you can Upload a consent statement…]]'
 source_release: '[[Releases/Gemini/gemini-2023-12-18-2023-12-18-3e128557|gemini-2023-12-18-2023-12-18-3e128557]]'
 source_type: gemini_changelog
 theme: safety-privacy
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-11-17 · Ollama · [[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix permission denied issues when running ollama create on Linux]]
+- Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI Speaker authorization has been simplified, so you can Upload a consent statement…]]
 - Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy changes in 0.5.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

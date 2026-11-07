@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Google Antigravity · 2026-10-15 · Mobile and Desktop: 2 changes in HUB
   v2.24.0 — Redesigned side panel, /compact, and model choice for automations — Press…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1311
+  lag_days: 2895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eeb50ca93c322fea52fa4c1c750bf334b38c6b5c03c8836ad8dfdebea3d571de
+machine_hash: e481a0f5d1d762a0cbd8c074c37c630f49453fd2234821965f10e48927a0944c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Mobile and Desktop changes in HUB v2.24.0 — Redesigned side panel…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
-  and Desktop changes in v2.1.300]]'
+- '[[Changes/Kimi Code/2026-10-14-add-kimi-app-path-to-open-a-new-desktop-chat-in-the-current-or-specified-directo|Add
+  kimi app path to open a new desktop chat in the current or specified directory]]'
 - '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
   artifacts: pages Claude writes now paint the band above a sticky header…]]'
 - '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
@@ -99,7 +99,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

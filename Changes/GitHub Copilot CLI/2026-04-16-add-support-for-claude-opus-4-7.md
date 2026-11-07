@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3d9b45efa9e855c3b8785314a59a280217d51881850d04060563174888da2f0
+machine_hash: 1061d886ba311127703aee33bd87aa42ca49f2a8b911c5194fa2f84d415aee9a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-16 · Cline · [[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7 model support]]
-- Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma 4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]
+- Later: 2026-04-16 · Notion · [[Changes/Notion/2026-04-16-claude-opus-4-7-anthropic-s-latest-model-is-now-in-notion-it-uses-fewer-tokens-m|Opus 4.7, now in Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

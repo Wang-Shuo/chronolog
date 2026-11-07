@@ -4,19 +4,20 @@ date: '2026-02-25'
 description: 'Gemini CLI · 2026-02-25 · Collaboration: Enable in-CLI extension management
   commands for team by @chrstnb in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1008
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 714cedbe5faef0adba28ebca95f2c98a9549b6381f5a9c9e518c5f6e74ae19fc
+machine_hash: d298d1c100c56be487f97affcf0ce29b6765c0e56698e73b05f38ec9b86c468e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -40,8 +41,8 @@ record:
   title: Enable in-CLI extension management commands for team
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
-  visibility]]'
+- '[[Changes/Notion/2026-02-24-second-they-re-designed-for-teams-create-and-share-them-together-control-all-the|Second,
+  they’re designed for teams]]'
 - '[[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core
   ACP both live and load share synthetic pending status preceding actual data]]'
 - '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Dify · 2025-07-23 · Safety and Privacy: 2 changes in v1.7.0 - To
   & Plugin Auto-Upgrade Enhanced — **API Key Authentication with Query Parameter**:
   Now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 829
+  lag_days: 1821
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3cd89a0bbdf2aa49d50a40f2969592fc05625c722bd35b1d635fb7de6f37a7a
+machine_hash: 425d1bf867bfc579ab1b5954320fcc4b70b6b429cb86e82516835ffe739289e1
 product: dify
 product_name: Dify
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

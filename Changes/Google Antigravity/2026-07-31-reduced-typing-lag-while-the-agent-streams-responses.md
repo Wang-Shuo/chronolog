@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 20bd627ea84f777c74232cf1f2bb8ce685abf78dde437c27339f7461073fe5fb
+machine_hash: 058fb4acbc63868800e6a8fb71ce5cda8b0f0e2cb52c11adad05188a54fb23ba
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,10 +44,10 @@ record:
   title: Reduced typing lag while the agent streams responses
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat:
-  always show the LLM selector; move agent-profile switching to the tools menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
   Mode changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-2-agent-mode-changes-in-kimi-code-0-31-0|2 Agent
+  Mode changes in Kimi Code 0.31.0]]'
 - '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
   refresh AGENTS.md guidance]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45439668923ea6091e2c7c5a204acb3ebdcbfc90e16ec592437213e58d3a1af1
+machine_hash: c551d64a765328678f1b80e12d0bfdf1599ca642a07e68d8c281fbd7cb689da8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -131,7 +131,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent Mode changes in v1.0.11]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents can now declare initialPrompt in frontmatter to auto-submit a first turn]]
+- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-copilot-chat-recommends-installed-agents-windows-web-microsoft-365-copilot-exten|Copilot Chat recommends installed agents Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

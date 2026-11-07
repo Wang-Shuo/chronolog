@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'v0 · 2026-03-12 · Safety and Privacy: Improved Snowflake deployment
   error messages for permission issues'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 2053
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c74db78222f9093f484b3a97dd1dc1551cd7d4974c7128d30b015249d778c79f
+machine_hash: 160fbffd1628fb6b76e086ee50eeb81bc6ea3e893240229925ec206218101c64
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved Snowflake deployment error messages for permission issues
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
-  voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/Notion/2026-03-12-workspace-owners-can-now-set-a-workspace-wide-policy-for-ai-meeting-notes-audio|New
+  consent controls for AI Meeting Notes]]'
 - '[[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety
   and Privacy changes in v1.2.25]]'
 source_release: '[[Releases/v0/v0-2026-03-12-2026-03-12-6e6ec641|v0-2026-03-12-2026-03-12-6e6ec641]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

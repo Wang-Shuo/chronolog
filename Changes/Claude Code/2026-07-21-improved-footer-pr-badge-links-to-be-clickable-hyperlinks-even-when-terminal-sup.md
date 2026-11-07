@@ -4,19 +4,20 @@ date: '2026-07-21'
 description: 'Claude Code · 2026-07-21 · Developer Workflow: Improved footer PR badge
   links to be clickable hyperlinks even when terminal support can''t be detected (e.g…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a32c6ef96bc956deeaec4959f12ab544b5b4f42d212cc0bc9a159769c53ab6cb
+machine_hash: 8177e39eb1555a8c1b116e7ac63663a1c01173e1266d5deced9ab3faac0412d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +47,10 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
-  Workflow changes in v2.1.216]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
-  Developer Workflow changes in v1.0.72]]'
+- '[[Changes/Kimi Code/2026-07-20-2-developer-workflow-changes-in-kimi-code-0-28-0|2
+  Developer Workflow changes in Kimi Code 0.28.0]]'
+- '[[Changes/Kimi Code/2026-07-20-run-web-servers-foreground-only-end-to-end-the-web-slash-command-now-always-star|Run
+  web servers foreground-only end to end]]'
 - '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
   the embedded terminal theme with the app theme]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

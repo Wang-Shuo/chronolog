@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b520f1aad9e7c9d1f7fc8e966c40206af2e62c926578c431da6cc718d3072c78
+machine_hash: f96f31c7608ef49622780d669e332b3b21b8b8dc27a8874bcc80e842876b124e
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Self-hosted Cloud Agents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent
-  Mode changes in v1.0.11]]'
 - '[[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode
   changes in v0.35.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-copilot-chat-recommends-installed-agents-windows-web-microsoft-365-copilot-exten|Copilot
+  Chat recommends installed agents Windows…]]'
 - '[[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents
   can now declare initialPrompt in frontmatter to auto-submit a first turn]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'

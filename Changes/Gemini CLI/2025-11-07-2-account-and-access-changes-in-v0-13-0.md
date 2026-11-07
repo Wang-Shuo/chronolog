@@ -4,20 +4,21 @@ date: '2025-11-07'
 description: 'Gemini CLI · 2025-11-07 · Account and Access: 2 changes in Release v0.13.0
   — feat(auth): improve API key authentication flow by @galz10 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 953
+  lag_days: 1928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30e44a405f38f2860cfc6f9b37211a7f59779dc157a1a8c882cdd4fd7703b096
+machine_hash: b4b80dd152d637de84435bce5cba1109f275a9d6f86a291638664d9b969d759c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

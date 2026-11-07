@@ -4,20 +4,20 @@ date: '2026-06-12'
 description: 'OpenCode · 2026-06-12 · Apps and Integrations: Added cwd support for
   local MCP servers so they can start from a workspace-relative directory'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4ac902c0ad161d36eba0fba4d39b3630db69dd643df11146dbb5cd02ba546d30
+machine_hash: 7d1b79efb4e03e4aa79746ac3449559fc26e82c55db162889615ee010d47fd57
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: Added cwd support for local MCP servers so they can start from a workspace-relative…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
 - '[[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2
   Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
   in place]]'
+- '[[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add
+  runtime support for dynamic MCP server updates, reference skills, replay…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-12-v1-17-4-8588f84b|opencode-2026-06-12-v1-17-4-8588f84b]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
+- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-add-runtime-support-for-dynamic-mcp-server-updates-reference-skills-replay-times|Add runtime support for dynamic MCP server updates, reference skills, replay…]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

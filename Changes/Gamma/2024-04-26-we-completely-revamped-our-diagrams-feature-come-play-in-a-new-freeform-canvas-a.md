@@ -4,20 +4,20 @@ date: '2024-04-26'
 description: 'Gamma · 2024-04-26 · Files and Data: We completely revamped our Diagrams
   feature. Come play in a new freeform canvas and generate beautifully detailed visuals.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 337
+  lag_days: 1682
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf9a6421a40543c8dbb056c61c47a887dd7aa5c756f6276395c27e4c5f9377b0
+machine_hash: 92b72eb678072d4da8bf6389c8386008858740c45b439513da2402ea68cb8f3c
 product: gamma
 product_name: Gamma
 record:
@@ -44,8 +44,8 @@ record:
   title: Beautiful Diagrams
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-08-the-much-anticipated-workflow-feature-is-here-in-a-nutshell-workflow-provides-a|The
-  much-anticipated workflow feature is here]]'
+- '[[Changes/Descript/2024-04-09-descript-labs-new-canvas-selection-tools|Descript
+  Labs: New Canvas selection tools]]'
 - '[[Changes/Dify/2024-04-22-feat-added-code-interpreter-tool-by-yeuoly-in-3557|feat:
   Added Code Interpreter Tool by @Yeuoly in ♯3557]]'
 - '[[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes in 0.6.5]]
-- Later: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-optimize-the-knowledge-failed-documents-query-by-charli117-in-https-github-com-l|optimize the knowledge failed documents query]]
+- Later: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-import-pdfs-and-google-docs-finally|Import PDFs and Google Docs (finally)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

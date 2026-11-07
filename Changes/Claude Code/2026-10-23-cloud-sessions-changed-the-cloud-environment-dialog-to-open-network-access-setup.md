@@ -4,20 +4,19 @@ date: '2026-10-23'
 description: 'Claude Code · 2026-10-23 · Editor Experience: [Cloud sessions] Changed
   the cloud environment dialog to open network access, setup script and environment…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2903
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca9d2215e7907c0dfbb1719a7d402504122ce3c7a0d1a02abbd6367da056e27c
+machine_hash: 82836bbc8a1aa721f403aadd7b20f9d39551f9d9d6f8e617a8374b4eddf2c57b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +44,12 @@ record:
     setup…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
-  Experience changes in v2.1.309]]'
 - '[[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell
   completion now finds global flags after subcommands]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
   express the Markdown preview cap in CSS]]'
+- '[[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental
+  conversation import]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff): express the Markdown preview cap in CSS]]
+- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental conversation import]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

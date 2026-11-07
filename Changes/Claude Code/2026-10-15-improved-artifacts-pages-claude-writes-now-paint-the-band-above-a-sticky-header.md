@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Claude Code · 2026-10-15 · Mobile and Desktop: Improved artifacts: pages
   Claude writes now paint the band above a sticky header, so scrolled text no longer…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1311
+  lag_days: 2895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d79a6cbcb073da15c1dc3904c252e1a4399d0a02db86344d0c6a83e5dbacd587
+machine_hash: 74cb9f05dfbdf7f2754e37f3bae8325832da791735b15f8869fa5b8df14086b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,11 +54,12 @@ record:
     header…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 - '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
   prototype, and build with Google Antigravity in the Gemini macOS app]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
+- '[[Changes/Kimi Code/2026-10-14-add-kimi-app-path-to-open-a-new-desktop-chat-in-the-current-or-specified-directo|Add
+  kimi app path to open a new desktop chat in the current or specified directory]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]]
+- Earlier: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-add-kimi-app-path-to-open-a-new-desktop-chat-in-the-current-or-specified-directo|Add kimi app path to open a new desktop chat in the current or specified directory]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3 Mobile and Desktop changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

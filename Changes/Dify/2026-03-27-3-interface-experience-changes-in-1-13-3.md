@@ -4,20 +4,20 @@ date: '2026-03-27'
 description: 'Dify · 2026-03-27 · Interface Experience: 3 changes in v1.13.3 — refactor:
   route next/navigation through compat re-export by @lyzno1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2539
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7206b02d6d0552e648be7fbcb36b4ac749db279c41de0f77b9b32340b197243
+machine_hash: d740869186ae54f1173c6a9cbff8097122ce33f8bed26ad11b511882ca85cbdf
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Interface Experience changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
-  Interface Experience changes in v1.0.12]]'
+- '[[Changes/Notion/2026-03-26-archive-pages-for-better-search-ai-results|Archive
+  pages for better search & AI results]]'
 - '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
   Experience changes in v1.3.3]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
@@ -100,13 +100,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
-- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface Experience changes in v1.3.6 + 2]]
+- Later: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archived-pages-have-a-banner-showing-who-archived-them-and-when-and-they-re-hidd|Archived pages have a banner showing who archived them and when, and they’re hidden…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

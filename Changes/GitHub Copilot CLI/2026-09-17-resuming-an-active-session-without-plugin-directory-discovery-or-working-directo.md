@@ -4,20 +4,20 @@ date: '2026-09-17'
 description: 'GitHub Copilot CLI · 2026-09-17 · Apps and Integrations: Resuming an
   active session without plugin-directory, discovery, or working-directory overrides…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c18c9cdaabd93dc89953c6b53d856afeba219c541ff0a6dce3b5ec0c7a346d0d
+machine_hash: 9a112f53aa41f4730b68c231d8d3cea9624981268b337b65f59564616a5fef26
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: Resuming an active session without plugin-directory, discovery, or working-directory…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added
-  /plugin install plugin --marketplace source, which offers to add…]]'
 - '[[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal
   commands that succeed without printing anything…]]'
 - '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
   Apps and Integrations changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-zapier-out-in-public|Zapier, out in public]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9|github-copilot-cli-2026-09-17-v1-0-86-github-391108341-867b13f9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24 Apps and Integrations changes in rust-v0.155.0]]
-- Later: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-zapier-out-in-public|Zapier, out in public]]
+- Later: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-the-built-in-browser-plugin-now-appears-as-kimi-browser-extension-in-the-plugins|The built-in browser plugin now appears as "Kimi Browser Extension" in the plugins…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

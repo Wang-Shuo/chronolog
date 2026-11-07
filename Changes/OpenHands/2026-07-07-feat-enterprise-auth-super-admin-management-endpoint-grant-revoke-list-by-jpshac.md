@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'OpenHands · 2026-07-07 · Enterprise and Administration: feat(enterprise/auth):
   super-admin management endpoint (grant/revoke/list) by @jpshackelford in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2366
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76bcd2519f43dca7125c25d35bcc1badab35138f190eebaf2654cdd2846a0836
+machine_hash: b38c8984ee17bca6701d7d86482ae421d3682dfc9ff7f7abf989fccdd54a7976
 product: openhands
 product_name: OpenHands
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-restrict-workspace-access-by-sso-group|Restrict workspace access by SSO group]]
-- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-workspace-insights-now-on-business-plans|Workspace insights now on Business plans]]
+- Later: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-why-it-matters|Why it matters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d6204cb53dc4189d70ce6289406a68503b11e33c95034f36a110e403a7a6f9d
+machine_hash: 97119e18bfd082718f4e2ba205a1e3c7f3d4370044382179bdbef9f18a68042d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Model Support changes in v2.1.166
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
-  Support changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-4-model-support-changes-in-kimi-code-0-11-0|4 Model
+  Support changes in Kimi Code 0.11.0]]'
 - '[[Changes/OpenCode/2026-06-05-4-model-support-changes-in-v1-16-0|4 Model Support
   changes in v1.16.0]]'
 - '[[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support

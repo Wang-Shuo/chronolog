@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Multimodal Input: Several less visible r
   keep the apps from failing around dependencies and helper processes. iOS development
   can…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1080
+  lag_days: 2848
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edb166965b30cf1fdf1f5e7dda3dfcfbd58b98f3e5a20c765951d1cbc7a7d366
+machine_hash: 7a3943b597aba1b7ba22b218069f616d0e62963a60c01950e0255b95110213f3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -102,13 +102,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]
-- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider adapters preserve initial Anthropic text and thinking, keep images…]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-here-s-what-s-new-in-heygen-this-month-admins-can-now-set-usage-limits-for-each|Here's what's new in HeyGen this month]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

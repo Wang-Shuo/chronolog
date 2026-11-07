@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'v0 · 2026-05-15 · Mobile and Desktop: 3 changes in Claude Opus 4.7 Fast,
   agent browser screenshots, and more — On iOS, iframe previews now suggest downloading…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ec2449934377fd26ebe751684f1bfecac2ac661ac806e6887ff774fdcc0e3a4
+machine_hash: 5c51803302d6fd5b825782cdaeaa5641c3be6c7b35a4b9730bedf1682a61aa62
 product: v0
 product_name: v0
 record:
@@ -100,7 +100,7 @@ Source: https://v0.app/changelog#2026-05-15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

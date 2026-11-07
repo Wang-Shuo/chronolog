@@ -4,20 +4,20 @@ date: '2026-09-15'
 description: 'Runway · 2026-09-15 · Context Window: You can now @-mention Agent directly
   in comments on any asset page. Collaborate and iterate right in context, with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1230
+  lag_days: 2554
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0e8bb1d952e21b9714ccc456f7ac960148962e0800f08f5c1f00ad01011dd553
+machine_hash: b4121a90b007ca69a2711b98fc8d450cb4ce33a3d7a2e115c7dc58c1dccfd7d0
 product: runway
 product_name: Runway
 record:
@@ -56,12 +56,12 @@ record:
   title: Agent in Asset Comments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
-  the spinner status during long thinking]]'
 - '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
   repeat token detection now requires 100 repeat tokens for reduced false…]]'
 - '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
   x-claude-code-request-class, x-claude-code-agent-type…]]'
+- '[[Changes/Notion/2026-09-15-run-a-skill-the-moment-you-need-it|Run a skill the
+  moment you need it]]'
 source_release: '[[Releases/Runway/runway-2026-09-15-2026-09-15-agent-in-asset-comments-1409536b|runway-2026-09-15-2026-09-15-agent-in-asset-comments-1409536b]]'
 source_type: runway_changelog
 theme: context-window
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added x-claude-code-request-class, x-claude-code-agent-type…]]
+- Earlier: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-run-a-skill-the-moment-you-need-it|Run a skill the moment you need it]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context Window changes in v1.0.85]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

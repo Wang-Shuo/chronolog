@@ -4,20 +4,20 @@ date: '2026-09-30'
 description: 'OpenClaw · 2026-09-30 · Video Generation: 2 changes in v2026.9.7 — The
   optional OpenAI Agents API runs chats in hosted workspaces, while Sign in with ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 986
+  lag_days: 2170
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2a2605b0ef0cf96dc3148a02c88255f237cc0a570b20ad0cb7a5e1b2ee58484
+machine_hash: 443570a6fe5802d307d56ce6bd5d0ab8653841c7df221471c341184f8a2ff4f5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Video Generation changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-08-runway-now-runs-in-a-panel-inside-adobe-premiere-pro-and-after-effects-generate|Introducing
-  Runway Plugins for Adobe]]'
 - '[[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway
   MCP for Grok Bot]]'
 - '[[Changes/OpenClaw/2026-09-19-shared-helpers-consolidate-repeated-implementation-including-preparation-and-res|Shared
   helpers consolidate repeated implementation, including preparation…]]'
+- '[[Changes/Synthesia/2026-09-23-create-an-on-brand-synthesia-video-without-leaving-chatgpt-or-claude-describe-wh|Create
+  videos from ChatGPT and Claude with Synthesia MCP]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
 source_type: openclaw_changelog
 theme: video-generation
@@ -106,14 +106,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-shared-helpers-consolidate-repeated-implementation-including-preparation-and-res|Shared helpers consolidate repeated implementation, including preparation…]]
+- Earlier: 2026-09-23 · Synthesia · [[Changes/Synthesia/2026-09-23-create-an-on-brand-synthesia-video-without-leaving-chatgpt-or-claude-describe-wh|Create videos from ChatGPT and Claude with Synthesia MCP]]
 - Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-prompt-bar-video|PROMPT BAR & VIDEO]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

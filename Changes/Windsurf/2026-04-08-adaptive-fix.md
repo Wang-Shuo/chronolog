@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a2104ecd87e59afa72f4987b76f86429d968e324da4cec41ab52c2722f947dbe
+machine_hash: f855167ffc7cffb8ceaa2ad4007aa2efda3d4842b99f8452539ddbc1bb05a41b
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,7 +46,8 @@ record:
   title: Adaptive Fix
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
+- '[[Changes/Z.ai API/2026-04-07-it-demonstrates-stronger-engineering-intelligence-across-autonomous-planning-sus|It
+  demonstrates stronger engineering intelligence across autonomous planning…]]'
 - '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
   changes in v0.37.0]]'
 - '[[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core

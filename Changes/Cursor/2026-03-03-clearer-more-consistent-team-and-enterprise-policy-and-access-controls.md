@@ -4,20 +4,20 @@ date: '2026-03-03'
 description: 'Cursor · 2026-03-03 · Enterprise and Administration: Clearer, more consistent
   team and enterprise policy and access controls.'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1033
+  lag_days: 2240
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6734b760c7f80ecf7046ae9e291579921aa32b5f1f987a32b8550866bfb73575
+machine_hash: cbc3fb975f1443060c5b9c713dd62576167676fc6e376f435041ec1bbc7421af
 product: cursor
 product_name: Cursor
 record:
@@ -51,9 +51,10 @@ record:
   title: Clearer, more consistent team and enterprise policy and access controls
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-scim-provisioning|SCIM provisioning]]'
 - "[[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|\U0001F5C4️
   File access control respect. The files list and search endpoints now properly…]]"
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-out-of-box-filter-support-for-data-sources-in-copilot-search-web-microsoft-365-c|Out-of-box
+  filter support for data sources in Copilot Search…]]'
 - '[[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin):
   Add admin controls documentation]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
@@ -102,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

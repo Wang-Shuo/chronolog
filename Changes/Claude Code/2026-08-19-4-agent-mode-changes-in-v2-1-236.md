@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98d72cb55848d5f2697132ab9e457caf5e6cee594e1ef8889ade4da2b2cd6670
+machine_hash: 88efd4a83526a22bafd121380e6d2955a909626dfc08d90e71030b75852b25c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,12 @@ record:
   title: 4 Agent Mode changes in v2.1.236
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-elevenagents-fdc84e|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents):
   add a repository map clarifying what belongs where]]'
 - '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent
   Mode changes in rust-v0.148.0]]'
+- '[[Changes/Kimi Code/2026-08-18-2-agent-mode-changes-in-kimi-code-0-37-0|2 Agent
+  Mode changes in Kimi Code 0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: agent-mode
@@ -102,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.236
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent Mode changes in rust-v0.148.0]]
+- Earlier: 2026-08-18 · Kimi Code · [[Changes/Kimi Code/2026-08-18-2-agent-mode-changes-in-kimi-code-0-37-0|2 Agent Mode changes in Kimi Code 0.37.0]]
 - Later: 2026-08-19 · Cursor · [[Changes/Cursor/2026-08-19-custom-modes|Custom modes]]
 <!-- chronolog:end -->
 

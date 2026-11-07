@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Apps and Integrations: 4 changes in v2.1.232
   — Added GitLab support to plugin marketplaces: bare `gitlab.com` repo URLs (including…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2799
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc41c45f37b0e5ab78bb1d749f6fffc357879b8fe92e2cb9789c67e207160f08
+machine_hash: 5a7ffa4b8ae8fec732dd3eec8e2761842481701e85233562f8a99b7e93768d93
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
-  Apps and Integrations changes in v2.1.228]]'
 - '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
   Apps and Integrations changes in v2.1.229]]'
+- '[[Changes/Kimi Code/2026-08-12-add-the-modern-web-guidance-plugin-to-the-bundled-plugin-marketplace-run-plugins|Add
+  the Modern Web Guidance plugin to the bundled plugin marketplace]]'
 - '[[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several
   projects at once]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

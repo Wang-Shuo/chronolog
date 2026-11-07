@@ -4,20 +4,20 @@ date: '2026-08-31'
 description: 'OpenClaw · 2026-08-31 · Mobile and Desktop: Installation and Onboarding
   - A clearer path from download to a first useful conversation on Mac, Linux, Windows…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 2850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a94bc6e81a9eb4cf718da7e1ecda022d62c18bbf4a0ce8f0a3589e6881120db2
+machine_hash: 6ac3d217c8062bb4ab405cc821665b290a42ee9efa7985101dac7e5345778d32
 product: openclaw
 product_name: OpenClaw
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|🐍 Code interpreter starts on Windows. The built-in code interpreter now serves…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Later: 2026-08-31 · Qoder · [[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved the reliability of installation and updates on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

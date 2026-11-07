@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-06-29 · Account and Access: 9 changes in v0.10
   \U0001F510 **Configure authentication from the admin panel.** LDAP and OAuth/OIDC
   settings now have…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 578dfd29bcd3cb1085e0769e86516c0fc8327154336e06e286f23b7cc6b54d4f
+machine_hash: 9c508376882a2d31f5620dac4c6c4c1c7fca0b49dec938b13afc6377088ab66f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,8 +85,8 @@ record:
   title: 9 Account and Access changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
-  Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-shell-mode-to-the-tui-type-in-the-input-box-to-enable-it-for-long-running-co|Add
+  shell mode to the TUI]]'
 - '[[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3
   Account and Access changes in Platform API v2, MCP chat tools…]]'
 - "[[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|\U0001F91D
@@ -163,7 +164,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

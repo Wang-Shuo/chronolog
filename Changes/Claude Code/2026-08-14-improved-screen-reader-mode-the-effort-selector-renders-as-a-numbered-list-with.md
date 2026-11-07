@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0527a25dd08ced3f6016c6209f804ff7fe59a2242b2ef0da333b0a46c210d6e4
+machine_hash: b01c6b42270fb46135033eec32ea9eacca28bb915fd90d6ba8e35ad7a98a0e7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved screen reader mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
-  screen-reader announcements of deleted text for word and line deletions…]]'
 - '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
   Accessibility and Localization changes in 1.16.1]]'
 - '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
   accessibility in the Settings modal with better heading hierarchy…]]'
+- '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
+  win!]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved accessibility in the Settings modal with better heading hierarchy…]]
+- Earlier: 2026-07-30 · Notion · [[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility win!]]
 - Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3 Accessibility and Localization changes in 1.17.0]]
 <!-- chronolog:end -->
 

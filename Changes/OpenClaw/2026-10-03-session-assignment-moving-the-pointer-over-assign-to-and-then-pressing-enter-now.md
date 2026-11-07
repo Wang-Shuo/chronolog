@@ -4,20 +4,20 @@ date: '2026-10-03'
 description: 'OpenClaw · 2026-10-03 · Interface Experience: Session assignment. Moving
   the pointer over “Assign to…” and then pressing Enter now opens the menu without…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1363
+  lag_days: 2729
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d877ef7fb4cd262ba919c2a126170314ba35426f8af008ebec17730278d7cfc
+machine_hash: 8c870ff2a9a28192802f3afe89ee57c9a4e80470f49a076112e2cde1bf2c56ef
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,9 +45,10 @@ record:
   title: Session assignment
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-10-02-organize-drag-and-drop|ORGANIZE & DRAG AND DROP]]'
 - '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
 - '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
+- '[[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track
+  long-running tasks with Progress Tracker]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-03-v2026-9-8-0844d8d3|openclaw-2026-10-03-v2026-9-8-0844d8d3]]'
 source_type: openclaw_changelog
 theme: interface-experience
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Earlier: 2026-10-02 · Synthesia · [[Changes/Synthesia/2026-10-02-a-new-progress-tracker-keeps-long-running-tasks-visible-across-refreshes-and-nav|Track long-running tasks with Progress Tracker]]
 - Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

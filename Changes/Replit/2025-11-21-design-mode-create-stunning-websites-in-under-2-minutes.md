@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 11204f6c4c74b24a89dcc41efda1336ee7caac69b9bda0156383bccaeb7decca
+machine_hash: 037f957b21295aa19cae544276e340966f8a2c17bca225bb6c702eb18972cbcb
 product: replit
 product_name: Replit
 record:
@@ -58,8 +58,8 @@ record:
   title: 'Design Mode: Create stunning websites in under 2 minutes'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-21-chore-drop-model-max-output-tokens-by-jif-oai-in-https-github-com-openai-codex-p|chore:
-  drop model_max_output_tokens]]'
+- '[[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now
+  available in Underlord]]'
 - '[[Changes/ElevenLabs/2025-11-21-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2025-11-21-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|replit-2025-11-21-2025-11-21-d3d6b6ca]]'

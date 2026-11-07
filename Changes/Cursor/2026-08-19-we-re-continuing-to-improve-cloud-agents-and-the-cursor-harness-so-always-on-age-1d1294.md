@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05c43d2d585ffd3a5be9fe5d931f33e26383c0bb938e426ad44af75572452061
+machine_hash: cbc5551fbf0c64328eb8d040a519fe2c702190c01c6c73afb7a49d11c04f4223
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
     agents…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent
-  Mode changes in rust-v0.148.0]]'
+- '[[Changes/Kimi Code/2026-08-18-2-agent-mode-changes-in-kimi-code-0-37-0|2 Agent
+  Mode changes in Kimi Code 0.37.0]]'
 - '[[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode
   changes in v2.1.236]]'
 - '[[Changes/Cursor/2026-08-19-custom-modes|Custom modes]]'

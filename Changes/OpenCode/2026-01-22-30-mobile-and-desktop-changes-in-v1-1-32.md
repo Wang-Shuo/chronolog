@@ -4,20 +4,20 @@ date: '2026-01-22'
 description: 'OpenCode · 2026-01-22 · Mobile and Desktop: 30 changes in v1.1.32 —
   Desktop Add Brazilian Portuguese locale support'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1045
+  lag_days: 2629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62fbbc751c86ab434e00999654835e0cb8aa129a6e8cbfe6e6bd9bbaf94048c4
+machine_hash: 1374bc9bc4fe545656866ea87df7d3bf2f18aff827173b7016a7fefe91de58de
 product: opencode
 product_name: OpenCode
 record:
@@ -206,7 +206,7 @@ Source: https://opencode.ai/changelog/v1.1.32
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

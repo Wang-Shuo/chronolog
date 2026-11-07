@@ -5,20 +5,20 @@ description: 'Gemini · 2024-05-21 · Files and Data: What: You can now upload y
   spreadsheets for faster data processing & exploration, presentation-ready charts,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 362
+  lag_days: 1707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5f5ba313fc420ffcb911b291188b283431916ebae9968654e5ad52b2f94fdfb5
+machine_hash: 6b1a6e816768ff8435ae6593edd62fa6a305d6bc9aef309dd60ec4ddcb2f2cad
 product: gemini
 product_name: Gemini
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-powerpoint-support-rag-pipeline-now-supports-powerpoint-documents|🖥️ PowerPoint Support: RAG pipeline now supports PowerPoint documents]]
-- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-rag-document-segmentation-configurable-max-segmentation-tokens-length-for-rag-do|RAG Document Segmentation]]
+- Later: 2024-05-22 · Descript · [[Changes/Descript/2024-05-22-new-labs-features|New Labs Features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

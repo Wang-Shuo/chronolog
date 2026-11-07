@@ -4,19 +4,20 @@ date: '2026-04-14'
 description: 'GitHub Copilot CLI · 2026-04-14 · Developer Workflow: LSP language servers
   correctly initialize on Windows using proper file URI paths'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ceda0bf2ef2ea6e0f4c90617ad7e9ab3b1f6edd4bd4a623d063575ebf657133
+machine_hash: f2b3a4b6d7cd8b45c151745677c64c94d4284c33d062d8e984ce5e645ce198dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,13 +84,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer Workflow changes in v0.38.0]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
+- Later: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-your-notion-agent-has-new-skills-integrations-and-you-can-talk-to-it|Your Notion Agent has new Skills, integrations … and you can talk to it!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

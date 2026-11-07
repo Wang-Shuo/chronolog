@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 29f0920d238c707f6e91458b626cbda5ffad1c483aa350823eff0960678be87b
+machine_hash: efe32ed091d420318a906e071ddb69f8423728c0965f266184a36e70d9a0e6a7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,8 +84,8 @@ record:
     by keyboard…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
-  accessibility in the Settings modal with better heading hierarchy…]]'
+- '[[Changes/Notion/2026-07-30-accessibility-win-high-contrast-mode-is-a-new-display-option-that-makes-text-ico|Accessibility
+  win!]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
 - '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3

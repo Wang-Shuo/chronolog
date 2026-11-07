@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Dify · 2025-05-15 · Apps and Integrations: 5 changes in v1.4.0 — feat:
   Plugin page related document supports multiple languages by @ACAne0320 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 784
+  lag_days: 2344
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20dc654081603d61479aaad382278e4be4f06096f52009c6d009968aa54a24ea
+machine_hash: 4c557dcdf3a737d33dbe526856b6618bf026680bb85dc1c0589b637a2e2803b0
 product: dify
 product_name: Dify
 record:
@@ -49,8 +49,8 @@ record:
   title: 5 Apps and Integrations changes in 1.4.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
-  and Integrations changes in 0.38.0]]'
+- '[[Changes/Notion/2025-05-13-search-across-even-more-tools|Search across even more
+  tools …]]'
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
   connector for deep research]]'
 - '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

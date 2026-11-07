@@ -5,20 +5,19 @@ description: "Open WebUI · 2025-07-19 · Editor Experience: 4 changes in v0.6.1
   \U0001F195 **Streamlined Folder Creation Modal**: Creating a new folder is now a
   seamless, unified…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 858
+  lag_days: 2442
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09d500583b0169237b65d977e6f0a0e4400066a520079e7d1766eb245b0c19ae
+machine_hash: fe3e9938ad0822fa446cbb4310d91ba5116fcec6107e97b099ccc8ac3b7f6fce
 product: open-webui
 product_name: Open WebUI
 record:
@@ -120,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.17
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

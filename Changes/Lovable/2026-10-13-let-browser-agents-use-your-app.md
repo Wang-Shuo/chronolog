@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1c818c813b0c807388c0fa1015d7be6be2f5c710cf0d4eb5fba9ba3b03c5ac00
+machine_hash: cc245fee83961d8c7fa9ea92a07173197352d748005842a1877fa0dedf53c228
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,10 @@ record:
   title: Let browser agents use your app
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-5-agent-mode-changes-in-v2026-10-2|5 Agent Mode changes
-  in v2026.10.2]]'
-- '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
-  in v1.27.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent
-  Mode changes in v1.0.97]]'
+- '[[Changes/HeyGen/2026-10-13-video-agent|Video Agent]]'
+- '[[Changes/HeyGen/2026-10-13-save-a-brand-kit-video-agent-made|Save a brand kit
+  Video Agent made]]'
+- '[[Changes/HeyGen/2026-10-13-video-agent-and-creation|Video Agent and creation]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -94,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent Mode changes in v1.0.97]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode changes in v2.1.299]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-video-agent-and-creation|Video Agent and creation]]
+- Later: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-connect-your-agents-to-notion-with-mcp|Connect your agents to Notion with MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

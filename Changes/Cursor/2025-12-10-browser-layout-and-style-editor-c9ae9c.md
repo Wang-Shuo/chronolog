@@ -4,20 +4,19 @@ date: '2025-12-10'
 description: 'Cursor · 2025-12-10 · Editor Experience: Design and code simultaneously
   with a brand new browser sidebar and component tree.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1002
+  lag_days: 2586
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8bc195700bd66d5687437f37c38105499c1c13aeff95e46d23dd1a01654a3def
+machine_hash: 0a17efa5a8893f2e15347a1bb3a15eb69bba45aac9fd409843bf6447329c3d3e
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +49,8 @@ record:
   title: Browser layout and style editor
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|\U0001F3A8
-  The model editor interface was refined with access control settings moved…]]"
-- '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
-  the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
+- '[[Changes/Descript/2025-12-04-editor|Editor]]'
+- '[[Changes/Descript/2025-12-04-editor-desktop|Editor - Desktop]]'
 - '[[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor
   Experience changes in rust-v0.66.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
@@ -101,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

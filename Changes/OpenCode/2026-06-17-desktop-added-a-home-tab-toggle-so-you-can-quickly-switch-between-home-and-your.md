@@ -4,20 +4,19 @@ date: '2026-06-17'
 description: 'OpenCode · 2026-06-17 · Editor Experience: Desktop Added a Home tab
   toggle so you can quickly switch between Home and your last tab.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbb250eb647f0f8efebf91ca3dea267f0be03481113164b78f5acfedf1863b6f
+machine_hash: 64411b30594570bfe65b0502c4c82df1cc311fcf8497592911e69b22e17f1f81
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +42,8 @@ record:
     your last tab
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you
-  have unpublished changes]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern,
+  unified, and updated look and feel in Microsoft Edge…]]'
 - '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
   the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

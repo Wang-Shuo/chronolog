@@ -4,20 +4,20 @@ date: '2026-09-19'
 description: 'OpenClaw · 2026-09-19 · Voice and Audio: 15 changes in v2026.9.5 — The
   bundled tool refresh preserves chat scroll position during streaming and dock changes…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 2994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79ca1bac8da212075d29a1b814b30da3dad1b9e11e27775524bad28c6d230748
+machine_hash: 59c99e2d5015bbbfe7d6d44ca9cf7996ab8898c0d491cd6f9c3d16c202d693dc
 product: openclaw
 product_name: OpenClaw
 record:
@@ -123,10 +123,11 @@ record:
   title: 15 Voice and Audio changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
-- '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
-  and Audio changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-how-to-find-it-537bc8|How to find it]]'
+- '[[Changes/Descript/2026-09-17-give-a-recording-a-different-voice|Give a recording
+  a different voice]]'
+- '[[Changes/Qoder/2026-09-18-voice-input-press-and-hold-the-mouse-button-in-the-chat-input-box-to-dictate-rel|Voice
+  input: Press and hold the mouse button in the chat input box to dictate]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: voice
@@ -211,14 +212,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
+- Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-voice-input-press-and-hold-the-mouse-button-in-the-chat-input-box-to-dictate-rel|Voice input: Press and hold the mouse button in the chat input box to dictate]]
 - Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

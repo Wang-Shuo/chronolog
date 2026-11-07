@@ -4,19 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Developer Workflow: 2 changes in HUB
   v2.5.0 — Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20b83fc17fad65d0b0cc434f9bac4d1e5accef8e1b47b9b0e9242829e9a7f434
+machine_hash: 5c7e41d3fb9bd6dba784fe44a7475bdce9b8655f089bea4d81ac6e082a282096
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -42,12 +43,12 @@ record:
   title: '2 Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):
-  add eval coverage report command]]'
 - '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
   Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add
+  the /secondary_model slash command to configure the secondary model used…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02|google-antigravity-2026-07-31-rel-hub-2-5-0-d3956b02]]'
 source_type: antigravity_changelog
 theme: developer-workflow
@@ -90,14 +91,14 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2 Developer Workflow changes in v1.0.76]]
+- Earlier: 2026-07-30 · Kimi Code · [[Changes/Kimi Code/2026-07-30-add-the-secondary-model-slash-command-to-configure-the-secondary-model-used-by-s|Add the /secondary_model slash command to configure the secondary model used…]]
 - Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating a Git-backed chat produces a working copy instead of one that fails to render]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

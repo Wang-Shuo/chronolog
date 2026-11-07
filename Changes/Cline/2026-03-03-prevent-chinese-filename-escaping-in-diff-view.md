@@ -4,20 +4,19 @@ date: '2026-03-03'
 description: 'Cline · 2026-03-03 · Editor Experience: Prevent Chinese filename escaping
   in diff view'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2669
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96aefd40d9627f0d2ece3f0d799840831d4efaa00c2dcca619af28d02343cc0b
+machine_hash: 754ab83759a06740e5954a7df56aa1e2ca9b80c6caf643426e66daa773c1285c
 product: cline
 product_name: Cline
 record:
@@ -42,10 +41,9 @@ record:
   title: Prevent Chinese filename escaping in diff view
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli):
-  include /dir add directories in @ autocomplete suggestions]]'
-- '[[Changes/Codex CLI/2026-03-02-3-editor-experience-changes-in-rust-v0-107-0|3 Editor
-  Experience changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-more-predictable-layout-behavior|More predictable
+  layout behavior]]'
+- '[[Changes/Descript/2026-03-02-editor|Editor]]'
 - '[[Changes/Open WebUI/2026-03-02-chatcontrols-reactivity-fix-fixed-a-svelte-reactivity-issue-where-the-active-tab|⚡
   ChatControls reactivity fix. Fixed a Svelte reactivity issue where the active…]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-03-01'
 description: 'Ollama · 2024-03-01 · Mobile and Desktop: 2 changes in v0.1.28 — Installing
   Ollama on Windows no longer requires a minimum of 4GB disk space'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 353
+  lag_days: 1937
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 095c1eae756d101e8d23fbf419c5de3e3bd39332e864d09b617cfc7f057e9637
+machine_hash: ea77e22986982a44fc6dff75e071f1d056c0d476f15dea75cb769c6e62c7da2b
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.28
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama
-  on Windows is now available in preview]]'
 - '[[Changes/Ollama/2024-02-21-quotes-will-now-be-trimmed-around-the-value-of-the-ollama-host-on-windows|Quotes
   will now be trimmed around the value of the OLLAMA_HOST on Windows]]'
 - '[[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced
   likelihood of false positive Windows Defender alerts on Windows]]'
+- '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
+  from mobile notifications]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-01-v0-1-28-github-144318153-27e5c7be|ollama-2024-03-01-v0-1-28-github-144318153-27e5c7be]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,14 +81,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced likelihood of false positive Windows Defender alerts on Windows]]
+- Earlier: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions from mobile notifications]]
 - Later: 2024-03-10 · Ollama · [[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and Desktop changes in v0.1.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

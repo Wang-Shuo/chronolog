@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-14 · Voice and Audio: \U0001F504 **Audio MI
   Registration**: Issues with audio file content types have been resolved, guaranteeing
   smoother…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 735
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d28b3fd7067c3f927300e21bca40b73e7d6cee061d44579849ba1d418b07734
+machine_hash: f8f452f8716b0b16495fcc5ccbf6f933065500628e12ed752f4e9f8929373288
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]
-- Later: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record live conversations like team meetings or voice notes, and turn those…]]
+- Later: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-ducking-is-now-lower-audio-of-other-layers|Ducking is now “Lower audio of other layers”]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

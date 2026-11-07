@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2625a0c2962355eff412dee507557f647253319dedbf8f4475650cb73d848797
+machine_hash: 918c608e9f7759d0d10ffec603b5991378faa265ffb784927dfc82249486941e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,11 +52,12 @@ record:
   title: 7 Agent Mode changes in rust-v0.121.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]'
-- '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
-  support in CLI]]'
-- '[[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes
-  in v0.38.0]]'
+- '[[Changes/Notion/2026-04-14-new-custom-agent-upgrades-efficiency-transparency-context|New
+  Custom Agent upgrades: efficiency, transparency, context]]'
+- '[[Changes/Notion/2026-04-14-teams-and-custom-agents-working-together|Teams and
+  Custom Agents, working together]]'
+- '[[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI
+  Autofill in databases, powered by Custom Agents]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
 source_type: github_releases
 theme: agent-mode
@@ -110,8 +111,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes in v0.38.0]]
-- Later: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI Autofill in databases, powered by Custom Agents]]
+- Later: 2026-04-15 · Notion · [[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule meetings with Notion Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

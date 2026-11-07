@@ -4,20 +4,20 @@ date: '2024-07-15'
 description: 'Gemini · 2024-07-15 · Pricing Model: What: Google Workspace admins can
   now opt-in to beta test Gemini Extensions for Gmail and Drive for their organization…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 578
+  lag_days: 2196
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 7018626d58240ddb5e246831be2890a83776135b3725ba7a38154d3f0e6840fb
+machine_hash: ef15fe9461a78178e4143784eb5fa0f2560e25bb5d376d72aec589380fe9f4b4
 product: gemini
 product_name: Gemini
 record:
@@ -73,12 +73,10 @@ record:
     add-on…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat:
-  show more usage info in billing page]]'
-- '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
-  cost metrics to evaluation outputs for all benchmarks]]'
-- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
-  pricing page add llm load balancing info]]'
+- '[[Changes/Notion/2024-06-26-an-update-to-our-plus-plan-pricing|An update to our
+  Plus plan pricing]]'
+- '[[Changes/Descript/2024-07-02-plan-limits|Plan limits]]'
+- '[[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]'
 source_release: '[[Releases/Gemini/gemini-2024-07-15-2024-07-15-37728ba9|gemini-2024-07-15-2024-07-15-37728ba9]]'
 source_type: gemini_changelog
 theme: pricing-model
@@ -108,14 +106,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat: pricing page add llm load balancing info]]
+- Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-plans-and-pricing-update|Plans and Pricing Update]]
 - Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced token usage and cost reporting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

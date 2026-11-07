@@ -4,20 +4,20 @@ date: '2026-05-21'
 description: 'OpenCode · 2026-05-21 · Files and Data: Core Added PDF attachment support
   for Grok.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 2437
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b35ce47338132acede5f1f474d41ee86325c4fc07a8bad4727189ef7f5cfced8
+machine_hash: 2a97f6cf5f17781cb73e3c1db357de8adb7f7496d7dcc2bf43f935193d84e4fa
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: Core Added PDF attachment support for Grok
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
-  library is expanding to Free and Go users, including to users in the European…]]'
+- '[[Changes/Descript/2026-05-14-bullet-points-in-canvas-text-clips|Bullet points
+  in Canvas text clips]]'
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
   finances in ChatGPT]]'
 - '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

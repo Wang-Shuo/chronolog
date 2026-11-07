@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Search and Browsing: Browse, resume,
   and switch between sessions from the agents screen'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1196
+  lag_days: 2225
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b19929711acaeca0f8a729007f813cbb4c40d93b755eab62611d30777d9e8079
+machine_hash: a9de24c9f4ea044a8fb2b4d2f6aa39cd790e03a4a032c9f28d2e5a9a1d33675e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: Browse, resume, and switch between sessions from the agents screen
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add
-  /mcp registry installation for browsing and installing MCP servers]]'
+- '[[Changes/Kimi Code/2026-06-29-remove-the-sessions-slash-command-from-the-web-ui-the-sidebar-already-covers-ses|Remove
+  the /sessions slash command from the web UI]]'
 - '[[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search
   and Browsing changes in v0.10.0]]'
 - '[[Changes/OpenClaw/2026-06-30-more-official-channel-provider-and-web-search-plugins-can-now-be-installed-or-re|More
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

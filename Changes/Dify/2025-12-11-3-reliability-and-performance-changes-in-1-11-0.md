@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Reliability and Performance: 3 changes in v1.11.0
   - Your knowledge base just went from mono to full HD — **Chat Auto‑Scroll Stability…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 2579
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ef4329ace0ce15ef9f7d642c844e02312eadf0a9b3163e3066ea710b33f3c5f
+machine_hash: 7e2e59a10ee44a3acf49f678abbf98ee7fea221d528e07cbc4706304a0be8d33
 product: dify
 product_name: Dify
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

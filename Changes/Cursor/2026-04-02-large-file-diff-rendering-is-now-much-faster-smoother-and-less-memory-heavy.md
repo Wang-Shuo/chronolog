@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Reliability and Performance: Large-file diff rendering
   is now much faster, smoother, and less memory-heavy.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3e44a54ee21c0d5d381f6936411731d642d3912ef7f0af27e53ad11924c07ae
+machine_hash: de2c41403c24cc388c1fcbf4c004e12a3f4fa5ba93671095e5675ff5c8e37f21
 product: cursor
 product_name: Cursor
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]
-- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-improvements-and-bug-fixes|Improvements and bug fixes]]
+- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation videos just got a lot faster to make]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

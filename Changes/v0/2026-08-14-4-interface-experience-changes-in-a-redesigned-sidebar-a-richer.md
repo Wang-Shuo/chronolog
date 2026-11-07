@@ -5,20 +5,20 @@ description: 'v0 · 2026-08-14 · Interface Experience: 4 changes in A redesigne
   a richer deployment popover, and broader Usage and Activity access — Redesigned
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1313
+  lag_days: 2679
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d67001d6c1fd8edddc7513530af2f19bc89c9e43a9da8723d6e1fd4339b40d9
+machine_hash: 609f5db39ec84e9b8be9ff02ca026af1f25d0ad2b41da54fe90048d099a60464
 product: v0
 product_name: v0
 record:
@@ -53,10 +53,10 @@ record:
   title: 4 Interface Experience changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
-  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
+- '[[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2
+  Interface Experience changes in Kimi Code 0.36.0]]'
+- '[[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web:
+  Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]'
 - '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'
 source_type: v0_changelog
@@ -111,7 +111,7 @@ Source: https://v0.app/changelog#2026-08-14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

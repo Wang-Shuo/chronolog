@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'ChatGPT · 2026-08-21 · Interface Experience: Generated images are easier
   to view, and your recent conversations are easier to browse.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1320
+  lag_days: 2686
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd414714c0d4ccc15b21774a2152ce12041b149130492e68c89896190d7794fd
+machine_hash: 3c84d875edfaac99f78e291be549477220db6b0cb99502175c48d3de5d948d9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
     to browse
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
-  Interface Experience changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added
   the ability to collapse top-level sidebar sections]]'
+- '[[Changes/Kimi Code/2026-08-20-web-add-a-pin-action-to-the-chat-header-more-menu|web:
+  Add a Pin action to the chat header more-menu]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added the ability to collapse top-level sidebar sections]]
+- Earlier: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-web-add-a-pin-action-to-the-chat-header-more-menu|web: Add a Pin action to the chat header more-menu]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

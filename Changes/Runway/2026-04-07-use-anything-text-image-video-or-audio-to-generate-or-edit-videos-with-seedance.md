@@ -5,20 +5,20 @@ description: 'Runway · 2026-04-07 · Video Generation: Use anything—text, ima
   or audio—to generate or edit videos with Seedance 2.0. Now available on Unlimited
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 810
+  lag_days: 1994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c21f87a2e604e9835d234205d54b5ddbfafd4f50c74d1c017dfdd4fc2ce51943
+machine_hash: feb8c4ee83ad85e79030ffae1834f119619258b7ca9a8f3527e0e56d22a54545
 product: runway
 product_name: Runway
 record:
@@ -46,11 +46,11 @@ record:
   title: Seedance 2.0
   type: change
 related_changes:
-- '[[Changes/Runway/2025-07-31-aleph-is-now-available-for-all-paid-plans-a-new-way-to-edit-transform-and-genera|Aleph]]'
-- '[[Changes/Midjourney/2025-08-13-we-re-now-letting-you-generate-videos-in-smaller-batches|We''re
-  now letting you generate videos in smaller batches]]'
-- '[[Changes/Midjourney/2025-08-13-hd-video-generation-is-now-available-for-standard-plan-users|HD
-  video generation is now available for Standard Plan users]]'
+- '[[Changes/Descript/2026-03-17-media-generation-a-single-place-to-generate-images-and-video|Media
+  generation: a single place to generate images and video]]'
+- '[[Changes/HeyGen/2026-04-02-cinematic-avatar-scenes|Cinematic avatar scenes]]'
+- '[[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video
+  Agent now generates cinematic footage around your Digital Twin]]'
 source_release: '[[Releases/Runway/runway-2026-04-07-2026-04-07-seedance-2-0-ad71f2bc|runway-2026-04-07-2026-04-07-seedance-2-0-ad71f2bc]]'
 source_type: runway_changelog
 theme: video-generation
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2025-08-13 · Midjourney · [[Changes/Midjourney/2025-08-13-hd-video-generation-is-now-available-for-standard-plan-users|HD video generation is now available for Standard Plan users]]
-- Later: 2026-06-30 · Runway · [[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini Omni Flash]]
+- Earlier: 2026-04-06 · HeyGen · [[Changes/HeyGen/2026-04-06-video-agent-now-generates-cinematic-footage-around-your-digital-twin-what-this-m|Video Agent now generates cinematic footage around your Digital Twin]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-the-hedra-character-2-avatar-video-generation-model-https-help-descript-com-hc-e|The Hedra Character 2 avatar video generation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

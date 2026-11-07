@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'Cline · 2026-06-26 · Pricing Model: Add ClinePass to the VS Code extension,
   including onboarding, provider selection, signup and subscription handoff, live…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1289
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: de33f9e3d09d53a52be7b1828d578bb39ba5e627ec86ed660f7afc5b856545cd
+machine_hash: 025fe1a75486978e878bdc9f5eb87c68716fbcf80b763788ee0f0301bb05b07c
 product: cline
 product_name: Cline
 record:
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-25 · Lovable · [[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let Lovable debug and improve your app's AI features]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2 Pricing Model changes in Platform API v2, MCP chat tools…]]
+- Later: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-reduce-streaming-redraw-cost-for-long-assistant-messages-with-code-blocks|Reduce streaming redraw cost for long assistant messages with code blocks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

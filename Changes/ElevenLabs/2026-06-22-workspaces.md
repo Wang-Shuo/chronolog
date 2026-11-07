@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 314f414c836e187ec14497a1a58e771633dc7de55334f5d60cf44b6b44aeb458
+machine_hash: ffcd81c83e1988c75d7ca78eb45d91528d322372c3b4c76c4fcc4c105dfb9f4a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model Support changes in rust-v0.142.0]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model Support changes in v1.0.64]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect the real image format from file contents when reading media, so a mismatched…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-09-03'
 description: 'OpenClaw · 2026-09-03 · Mobile and Desktop: 10 changes in v2026.9.1
   — Doctor now says when a legacy WhatsApp acknowledgement setting could not survive…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c08af3d110777780d6052b15afb51c7745a1ec92dafec53346724ce5d5581ea
+machine_hash: 71ac3a4c14583ce50cf93d8914979a5ce6b00bd15caca4c5e9d5aa0c5f440663
 product: openclaw
 product_name: OpenClaw
 record:
@@ -177,7 +177,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

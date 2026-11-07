@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e2167b22ef706feb13971d73c65e4226714f1ed0e6b47d8f919e19ec4082ab4
+machine_hash: 6a848bce21332651fc3f1b015847f937e18ba407e4cf6866720df14f3b8c2221
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-remove-vestigial-mcp-server-key-machinery-from-mcphub-native-mcp-tool-calls-now|Remove
-  vestigial MCP server-key machinery from McpHub]]'
 - '[[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140
   Wait for memory consolidation shutdown before finishing jobs @copyberry]]'
+- '[[Changes/HeyGen/2026-08-07-when-users-enable-generate-script-with-ai-they-can-now-specify-the-script-s-goal|When
+  users enable Generate Script with AI , they can now specify the script’s goal…]]'
 - '[[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork
   sessions no longer inline external @-imports from user-scope memory files]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'

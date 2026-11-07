@@ -4,19 +4,20 @@ date: '2025-05-05'
 description: 'Open WebUI · 2025-05-05 · Collaboration: 5 changes in v0.6.6 — ☁️ **OneDrive
   & SharePoint Integration**: Keep your content in sync by connecting notes and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 712
+  lag_days: 2306
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ccb4a0dd2a649dedd5d6f5911cde5d4b4db57a01bb12f1cff2ee4951c3bf083
+machine_hash: 049e7f2204c058b10758c90e40d901aade919517ad247a9977f63f9d9478ecbd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +58,9 @@ record:
   title: 5 Collaboration changes in v0.6.6
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]'
 - '[[Changes/Replit/2025-04-25-team-invitation-improvements|Team invitation improvements]]'
+- '[[Changes/Descript/2025-04-29-join-ceo-andrew-and-the-team-for-a-live-demonstration-of-avatars|Join
+  CEO Andrew and the team for a live demonstration of Avatars]]'
 - '[[Changes/Replit/2025-05-02-replit-teams-annual-plan|Replit Teams Annual plan]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-05-v0-6-6-github-216502762-5c099040|open-webui-2025-05-05-v0-6-6-github-216502762-5c099040]]'
 source_type: github_releases
@@ -115,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

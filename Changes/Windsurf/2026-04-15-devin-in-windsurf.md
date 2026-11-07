@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 50386275acbe8c3e3d818c0eeda776d23ac1c7b6f75afd1b4e80baa9baee8f41
+machine_hash: cf16ad583d79e538e2cb165252895d53d9f22ccd93cf6ef25b282ab1a1c9f683
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,12 +61,12 @@ record:
   title: Devin in Windsurf
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
-  support in CLI]]'
-- '[[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes
-  in v0.38.0]]'
+- '[[Changes/Notion/2026-04-14-ai-autofill-in-databases-powered-by-custom-agents|AI
+  Autofill in databases, powered by Custom Agents]]'
 - '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
   changes in rust-v0.121.0]]'
+- '[[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule
+  meetings with Notion Agent]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-15-v2-0-44-3f004a0d|windsurf-2026-04-15-v2-0-44-3f004a0d]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · Notion · [[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule meetings with Notion Agent]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]]
 <!-- chronolog:end -->
 

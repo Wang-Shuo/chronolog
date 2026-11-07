@@ -4,19 +4,20 @@ date: '2026-01-15'
 description: 'Codex CLI · 2026-01-15 · Collaboration: 2 changes in 0.85.0 — App-server
   v2 now emits collaboration tool calls as item events in the turn stream, so clients…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2561
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 30b78081d22cde4ba4935778532d19d4d34a35107c60951f9587c3fd4c38ff51
+machine_hash: eb749b077a223e1ab7046de38ad7c3620c6ddca714c58a837c0dd2f6be57a107
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +45,12 @@ record:
   title: 2 Collaboration changes in rust-v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-04-core-handle-notfounderror-for-non-shared-sessions-in-sync|Core
-  Handle NotFoundError for non-shared sessions in sync]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
   --share and --share-gist flags for session sharing in non-interactive mode]]'
 - '[[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core
   Extract external directory validation to shared utility to reduce code…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-connect-microsoft-365-copilot-with-guru-for-enhanced-insights-web-microsoft-365|Connect
+  Microsoft 365 Copilot with Guru for enhanced insights…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
 theme: collaboration
@@ -86,14 +87,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core Extract external directory validation to shared utility to reduce code…]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-connect-microsoft-365-copilot-with-guru-for-enhanced-insights-web-microsoft-365|Connect Microsoft 365 Copilot with Guru for enhanced insights…]]
 - Later: 2026-01-15 · Granola · [[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign in with Microsoft is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

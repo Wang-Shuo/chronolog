@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5c3733a5dcae020394e194bb3aee41c3a13b1d77f9c1d429d23ce81cb357d49
+machine_hash: c8a0802b0648f043bc7d37df06b68107586c141b0662954571c29b0a3583270f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory and Personalization changes in 0.6.11]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI: For colima, modify CPU count and memory]]
+- Later: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-unlock-your-company-s-memory|Unlock your company’s memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

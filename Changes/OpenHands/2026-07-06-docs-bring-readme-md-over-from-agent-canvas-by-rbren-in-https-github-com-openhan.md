@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'OpenHands · 2026-07-06 · Files and Data: docs: Bring README.md over
   from Agent Canvas by @rbren in https://github.com/OpenHands/OpenHands/pull/14844'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2483
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 984fd30b859a4345a9f24f8abb0923a7ab4fabd1117afec307c6445f6d2cc21d
+machine_hash: 3f9d6de061fa5d3beb63382cdd44a9646e61593afeb05233f2838a8d1c569b58
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 'docs: Bring README.md over from Agent Canvas'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
-  Data changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
-  the terminal text color to the GitHub theme canvas]]'
-- '[[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas
-  A2UI now serves only the current app assets after each build, so outdated…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-metadata-understanding-support-for-queries-scoped-to-sharepoint-document-librari|Metadata
+  understanding support for queries scoped to SharePoint document libraries…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-word-documents-from-copilot-notebooks-windows-web-microsoft-365-copilot-a|Create
+  Word documents from Copilot Notebooks Windows, Web (Microsoft 365 Copilot app)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create
+  Excel spreadsheets from Copilot Notebooks Windows…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: file-data
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas A2UI now serves only the current app assets after each build, so outdated…]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-create-excel-spreadsheets-from-copilot-notebooks-windows-web-microsoft-365-copil|Create Excel spreadsheets from Copilot Notebooks Windows…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714 app-server: document thread and turn IDs are UUID7 @owenlin0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'OpenHands · 2026-09-23 · Automation and Scheduling: chore: consume SDK
   1.49.5 and Automation 1.15.0 by @juanmichelini in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 995
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a00bcb7411710728cc92fd97e5aa9980ac508de350ace35e831d561a00318fe2
+machine_hash: 8f9ebf17b79399941ebfcf7cb2081a2c4d65c67dae83ca01fdc994d7da234854
 product: openhands
 product_name: OpenHands
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9 Automation and Scheduling changes in v2026.9.6]]
-- Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]]
+- Later: 2026-09-23 · Qoder · [[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud automations: Create scheduled tasks through conversation or manual…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

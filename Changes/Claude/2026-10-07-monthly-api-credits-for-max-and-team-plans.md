@@ -5,19 +5,20 @@ description: 'Claude · 2026-10-07 · Collaboration: Max and Team plans now incl
   monthly API credits for running your own apps and agents on the Claude Platform.
   They roll…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1232
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c40bd3b91d2fc886c8f7d5b861fa8c51ae1398c3abdc63865b209a457a5c0e9
+machine_hash: ce96ecd3bab5e923a7ba2b4f9026105d7e6e81067f17cd788e960e8c54920ab2
 product: claude
 product_name: Claude
 record:
@@ -48,10 +49,10 @@ record:
   title: Monthly API credits for Max and Team plans
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
-  changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
   Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
+  every video with an AI content watermark]]'
 - '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
   accounts are now team workspaces]]'
 source_release: '[[Releases/Claude/claude-2026-10-07-2026-10-07-b6b5dd50|claude-2026-10-07-2026-10-07-b6b5dd50]]'
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

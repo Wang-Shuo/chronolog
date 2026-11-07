@@ -4,19 +4,20 @@ date: '2026-09-11'
 description: 'OpenClaw · 2026-09-11 · Collaboration: 3 changes in v2026.9.4 — Your
   Claw now reads punctuation and symbols correctly in Teams messages supplied as HTML…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2800
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd6f0570219ba6f6626f55783c3d6ea7d798e466489bd3c45328ca6b1c45daa7
+machine_hash: ea09ec1081411bc71eaadf923c8b6632c41bc2be9dcf71e569a9d637bfaa47c2
 product: openclaw
 product_name: OpenClaw
 record:
@@ -118,13 +119,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing settings for connections]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Later: 2026-09-15 · Notion · [[Changes/Notion/2026-09-15-every-ai-skill-your-team-needs-in-one-library|Every AI skill your team needs, in one library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fb3b54a29d4f4b57361eeeb69cb37844c9a631ca6c7a236bff97e6e81541448f
+machine_hash: 41041d85603bf2c0d567d17bf78793340e9ac29a6d50a3e412d849509c24a9b1
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,10 +48,10 @@ record:
   title: Agent Command Center
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0|6 Agent Mode changes
-  in v0.38.0]]'
 - '[[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode
   changes in rust-v0.121.0]]'
+- '[[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule
+  meetings with Notion Agent]]'
 - '[[Changes/Windsurf/2026-04-15-devin-in-windsurf|Devin in Windsurf]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-15-v2-0-44-3f004a0d|windsurf-2026-04-15-v2-0-44-3f004a0d]]'
 source_type: windsurf_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · Notion · [[Changes/Notion/2026-04-15-notion-agent-now-shows-your-calendar-to-help-you-find-available-time-with-teamma|Schedule meetings with Notion Agent]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,19 @@ date: '2026-05-20'
 description: 'GitHub Copilot CLI · 2026-05-20 · Editor Experience: 2 changes in 1.0.51
   — Pressing Enter on a highlighted subcommand completion inserts the selection instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cf513cc4c4afe68538b96becd5dbc86e43ca715eb179ffe1575276ad2e9eff3
+machine_hash: a88e4e101f333a62aa62b43a9a739d398eac42feafa2827ee98bea4fc555b137
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,9 +43,10 @@ record:
   title: 2 Editor Experience changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-05-19-first-release|First Release]]'
-- '[[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First
-  release of the Antigravity IDE]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-simplified-copilot-in-glint-enablement-using-microsoft-365-controls-web-viva-gli|Simplified
+  Copilot in Glint enablement using Microsoft 365 controls Web (Viva Glint)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-open-pdfs-within-microsoft-365-copilot-chat-windows-mac-web-microsoft-365-copilo|Open
+  PDFs within Microsoft 365 Copilot Chat Windows, Mac…]]'
 - '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
   Experience changes in rust-v0.132.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

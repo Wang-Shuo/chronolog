@@ -4,20 +4,20 @@ date: '2026-06-17'
 description: 'ChatGPT · 2026-06-17 · Interface Experience: A new Scheduled page, discoverable
   in the sidebar, gives users one place to view active tasks, see when they’ll…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2621
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e24d0dfdb79bfc7324e8f7794a70d5ae758eff75feb3776be89c3c89f9ac9c21
+machine_hash: 9ce95072d5b9e206d7b961820221c335f5d1a6f4875ae04fbbb432448b38f4c4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     to view…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core
-  Fixed duplicate renderable IDs that could break TUI rendering]]'
+- '[[Changes/Kimi Code/2026-06-14-refresh-provider-model-metadata-before-opening-the-model-picker|Refresh
+  provider model metadata before opening the model picker]]'
 - '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
   /import for selectively importing setup, project configuration, and recent…]]'
 - '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-12-08'
 description: 'ElevenLabs · 2025-12-08 · Voice and Audio: **Voice settings override**:
   Added `voice_settings` parameter to project creation for per-project voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 882
+  lag_days: 2709
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: de54e81ae3a4849932dd4e3b63b2fb12ca1870f9b1e8558eecaa0c1a573b06a3
+machine_hash: 3781dba6caee7e50de0c0c34e3a8602817206dc52aabc34a1a5e9402b1bb5ae6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-types|Types]]
+- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-lip-sync-for-translated-videos|Lip sync for translated videos]]
 - Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

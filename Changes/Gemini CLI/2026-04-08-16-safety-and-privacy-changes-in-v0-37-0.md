@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-04-08 · Safety and Privacy: 16 changes in Rele
   v0.37.0 — feat(sandbox): implement forbiddenPaths for OS-specific sandbox managers
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2080
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dd12c522874d20e7414eeea272ae4209adbfc8306efcce46d34d13caf423a96
+machine_hash: 3a9dcca3ac4f2b86cc215caf19aeab8ae5c1af82099c95416b7320a1ff838c9e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,10 +83,10 @@ record:
   title: 16 Safety and Privacy changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add
-  notification hook event that fires asynchronously on shell completion…]]'
 - '[[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode
   Added a warning banner when settings.json files fail to parse, so users…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer
+  confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
   and Privacy changes in v2.1.97]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
@@ -166,7 +166,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

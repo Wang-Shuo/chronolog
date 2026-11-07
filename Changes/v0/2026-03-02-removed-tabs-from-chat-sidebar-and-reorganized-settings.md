@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'v0 · 2026-03-02 · Interface Experience: Removed tabs from chat sidebar
   and reorganized settings'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2514
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0e3bb0110a769e9e7a23bc4b6b630515c0006fffda19273e37564631dd15372
+machine_hash: ad241f26e5f8fb20667d4eedb28703a42dea1eda1f02b1c671bd92b563d935f5
 product: v0
 product_name: v0
 record:
@@ -41,9 +41,9 @@ record:
   title: Removed tabs from chat sidebar and reorganized settings
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-01-4-interface-experience-changes-in-v0-8-6|4 Interface
-  Experience changes in v0.8.6]]'
 - '[[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]'
+- '[[Changes/Notion/2026-03-02-turn-any-notion-page-into-a-fullscreen-presentation-just-add-dividers-to-separat|Present
+  any Notion page]]'
 - "[[Changes/Open WebUI/2026-03-02-chat-history-pagination-fixed-an-issue-where-older-messages-in-long-chats-were-n|\U0001F4DC
   Chat history pagination. Fixed an issue where older messages in long chats…]]"
 source_release: '[[Releases/v0/v0-2026-03-02-2026-03-02-97fa6f5d|v0-2026-03-02-2026-03-02-97fa6f5d]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

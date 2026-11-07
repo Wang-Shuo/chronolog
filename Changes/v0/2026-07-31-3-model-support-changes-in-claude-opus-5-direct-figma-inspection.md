@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9e29700398a8d778075ecaa96493872a2aabfac1cbe40ad1a17ad09e6a59f72
+machine_hash: 7f95524ef675128d32127ef116cb166d7832ce5aaaebdcceee44548a62e3f686
 product: v0
 product_name: v0
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Model Support changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
-  Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve
+  the assistant''s partial output when a turn is interrupted with Esc…]]'
 - '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
 - '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
   model]]'

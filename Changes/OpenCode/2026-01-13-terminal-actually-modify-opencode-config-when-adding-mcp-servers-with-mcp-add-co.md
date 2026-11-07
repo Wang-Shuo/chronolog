@@ -4,20 +4,20 @@ date: '2026-01-13'
 description: 'OpenCode · 2026-01-13 · Apps and Integrations: Terminal Actually modify
   OpenCode config when adding MCP servers with mcp add command'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2587
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de60bd74387e8301d2e0df4a5daa40452ef6833863a97f44a40b4a3cfc6737e4
+machine_hash: 39ca59398abc90731fa16acacd9b93aecb9d3108c416e82b129e531990b31c58
 product: opencode
 product_name: OpenCode
 record:
@@ -53,12 +53,12 @@ record:
     add command
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support
-  resource content type in MCP tool output]]'
-- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
-  and Integrations changes in v2.1.6]]'
 - '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
   Integrations changes in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-template-based-knowledge-ingestion-for-servicenow-knowledge-connector-web-micros|Template-based
+  knowledge ingestion for ServiceNow Knowledge Connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-smart-document-management-with-google-drive-integration-web-microsoft-365-copilo|Smart
+  document management with Google Drive integration…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-13-v1-1-16-6a736e6f|opencode-2026-01-13-v1-1-16-6a736e6f]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -94,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and Integrations changes in 1.11.3]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-smart-document-management-with-google-drive-integration-web-microsoft-365-copilo|Smart document management with Google Drive integration…]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10 Apps and Integrations changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

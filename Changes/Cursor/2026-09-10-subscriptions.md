@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f58e4d16800eb213f4e1e71ba3336e129749e256a4a6ecbfe6cd48fd12c7e3a4
+machine_hash: a2d960c2c8bf7c3e882b09e323f7cb469a475640f58c6cf7af7327c789a4c974
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Subscriptions
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2
-  Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]'
+- '[[Changes/Kimi Code/2026-09-09-2-agent-mode-changes-in-kimi-code-0-42-0|2 Agent
+  Mode changes in Kimi Code 0.42.0]]'
 - '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
   auto mode denials]]'
 - '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered

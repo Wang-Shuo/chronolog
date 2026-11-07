@@ -4,20 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Context Window: 6 changes in 0.59.0 — Expanded
   Tool Token Limits: codex models now support up to 10,000 tool output tokens. Configure…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 930
+  lag_days: 2254
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4dc80e8c18d7599bbddcf46d46b5ed2627a93a533be2f18105724d0ed85e212b
+machine_hash: b5cac12f0b50112221dda1691bfbf1a02ea87150f3c5ae92f2144618645a43a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

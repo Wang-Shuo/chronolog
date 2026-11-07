@@ -4,20 +4,20 @@ date: '2025-07-30'
 description: 'Gemini CLI · 2025-07-30 · Mobile and Desktop: 2 changes in Release v0.1.15
   — feat(ci): run e2e tests on macos during ci by @nsalerni in…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 869
+  lag_days: 2453
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20d2ea4f25397c3dbfa988d5928fa0f5541b274e1a9edabef56ef89287be66de
+machine_hash: fdd91f905e7e0604b566553b7aa454c5fcd861a6ce6160947a8825fba9eed9cc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
-  (source link) should make it so that, on Windows…]]'
+- '[[Changes/Notion/2025-07-22-on-mobile-change-your-device-language-to-indonesian-thai-or-vietnamese-in-your-s|On
+  mobile, change your device language to Indonesian, Thai, or Vietnamese…]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile
   and Desktop changes in v0.1.14]]'
 - '[[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows
@@ -93,13 +93,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows PEM KeyPath Fix]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile and Desktop changes in v0.1.16]]
+- Later: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-screen-recorder-updates|Screen Recorder Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

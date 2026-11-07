@@ -4,20 +4,20 @@ date: '2025-06-23'
 description: 'ElevenLabs · 2025-06-23 · Voice and Audio: **Audio tags automatic removal**:
   Audio tags are now automatically removed when switching from V3 to V2 models…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 714
+  lag_days: 2541
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 95131a5d8fde2ca815e05534df9b00444155adc8aa4d844e7f94979f1728d11b
+machine_hash: 462ae1468398a1bc6e688047c7153ac5931a5fd146d3aeb2f419a42463b095a0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-06-18 · ChatGPT · [[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture meetings, brainstorms, or voice notes]]
-- Later: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-speech-to-text|Speech to Text]]
+- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-smart-filling-text-layers|Smart filling text layers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

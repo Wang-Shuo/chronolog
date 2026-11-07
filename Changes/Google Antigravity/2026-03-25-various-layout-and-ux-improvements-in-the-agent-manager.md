@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: aaa5d474062da89894d5f5117f12994749663474797fb7240d16fa8363313b98
+machine_hash: 6b69a708e0a8da4d8fa15d333d9b7a0bf3bbc25473cca0c818dae2d852e664a3
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -43,8 +43,8 @@ record:
   title: Various layout and UX improvements in the agent manager
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode
-  changes in v0.35.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-copilot-chat-recommends-installed-agents-windows-web-microsoft-365-copilot-exten|Copilot
+  Chat recommends installed agents Windows…]]'
 - '[[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents
   can now declare initialPrompt in frontmatter to auto-submit a first turn]]'
 - '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted

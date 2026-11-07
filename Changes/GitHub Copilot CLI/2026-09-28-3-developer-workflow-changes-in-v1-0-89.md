@@ -4,19 +4,20 @@ date: '2026-09-28'
 description: 'GitHub Copilot CLI · 2026-09-28 · Developer Workflow: 3 changes in 1.0.89
   — Run wrapped gh and git commands, such as `timeout 60 gh ...`, correctly in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1290
+  lag_days: 2939
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e66735bc88d669bfdb202d19c7294a88e82f63808ce475fe75b00d1c091d1629
+machine_hash: 2d961f2eaadc0451796d8d0a18bd719458fc674b9b6490c583d3f0a845d70b4d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

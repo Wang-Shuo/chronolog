@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 217bfa9c98e834932f4f311a573eb6a73d042dbd91263c8bb672e75d91d490be
+machine_hash: a9ed403de9b782d4430c9be6bc8d0263f1b02edb0ef4f99c17a6215adc77d144
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,10 +60,10 @@ record:
     in the chat…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
-  in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
   stand in for DigitalOcean so Managed Agents can be verified]]'
+- '[[Changes/Kimi Code/2026-10-28-2-agent-mode-changes-in-kimi-code-2-4-0|2 Agent
+  Mode changes in Kimi Code 2.4.0]]'
 - '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
   changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

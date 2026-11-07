@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Windsurf · 2026-01-14 · Reliability and Performance: 2 changes in v1.13.8
   — Various bug fixes and performance improvements'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2613
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78ea4469f35b6bd6c3c01bc687f56f8662674e2a2b87ef94f22a428884a232c1
+machine_hash: d10bfcfb4cec0bcd8cc31b24733d440480334154a1a8430f2d440498a564c7bb
 product: windsurf
 product_name: Windsurf
 record:
@@ -82,13 +82,13 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-8
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal Track all timeouts in Footer component to prevent memory leaks]]
-- Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat performance and responsiveness]]
+- Later: 2026-01-14 · Z.ai API · [[Changes/Z.ai API/2026-01-14-the-update-significantly-enhances-performance-in-knowledge-intensive-scenarios-w|The update significantly enhances performance in knowledge-intensive scenarios…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

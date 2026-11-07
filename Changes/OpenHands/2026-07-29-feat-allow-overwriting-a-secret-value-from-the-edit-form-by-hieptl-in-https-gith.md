@@ -4,20 +4,19 @@ date: '2026-07-29'
 description: 'OpenHands · 2026-07-29 · Editor Experience: feat: allow overwriting
   a secret value from the edit form by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fefa3e180055ac780d05fdf940c898f851d10a6d01551f151684406d21e41b66
+machine_hash: 63b52e5f77f47da70b6c7fc0535b06df23d883bb6e899e4229421df4a89f7fe7
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +43,12 @@ record:
   title: 'feat: allow overwriting a secret value from the edit form'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
-  locate workflow nodes by node_id in the workflow editor]]'
-- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
-  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
-- '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
-  Experience changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-surface-rich-images-inline-within-responses-windows-web-microsoft-365-copilot|Surface
+  rich images inline within responses Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-plan-and-build-solutions-on-sharepoint-with-copilot-in-sharepoint-web-microsoft|Plan
+  and build solutions on SharePoint with Copilot in SharePoint…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-floating-copilot-icon-in-file-previewer-for-onedrive-web-microsoft-365-sharepoin|Floating
+  Copilot icon in File Previewer for OneDrive Web (Microsoft 365 SharePoint)]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Earlier: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-floating-copilot-icon-in-file-previewer-for-onedrive-web-microsoft-365-sharepoin|Floating Copilot icon in File Previewer for OneDrive Web (Microsoft 365 SharePoint)]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G opens your editor to edit ask_user freeform answers without closing the prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

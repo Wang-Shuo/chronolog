@@ -4,20 +4,21 @@ date: '2026-05-27'
 description: 'OpenCode · 2026-05-27 · Account and Access: Core DigitalOcean inference
   now uses your OAuth token directly instead of creating a MAK.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2129
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47e4228537f2ce1078fe28a8297cb816c1eee39479a91815844aab820cc22196
+machine_hash: e6ec5834dfc950f2a9ee18da21b0b96981105edd4976d0a29fda9acad0bfb122
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +44,12 @@ record:
     creating a MAK
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core
-  Let MCP OAuth configs set a callback port and include configured scopes…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
   Account and Access changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
   Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-4-account-and-access-changes-in-kimi-code-0-2-0|4
+  Account and Access changes in Kimi Code 0.2.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-27-v1-15-11-11e93b8c|opencode-2026-05-27-v1-15-11-11e93b8c]]'
 source_type: opencode_changelog
 theme: account-access
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2 Account and Access changes in rust-v0.134.0]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-4-account-and-access-changes-in-kimi-code-0-2-0|4 Account and Access changes in Kimi Code 0.2.0]]
 - Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

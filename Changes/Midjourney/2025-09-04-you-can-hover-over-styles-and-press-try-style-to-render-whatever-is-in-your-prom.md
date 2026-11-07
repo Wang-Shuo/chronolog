@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-09-04 · Interface Experience: You can hover ov
   and press ''Try Style" to render whatever is in your prompt bar (so you can just
   go…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 969
+  lag_days: 2335
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54be6d1bda2bed3624d3e58895a16382649fdc7e5760d41ee616b1c5564692de
+machine_hash: 7969f478174585ade4b52d5243bb165265daed49ab05542e2df8440700f902da
 product: midjourney
 product_name: Midjourney
 record:
@@ -47,10 +47,9 @@ record:
   title: You can hover over styles and press 'Try Style…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
-  Experience changes in v0.6.26]]'
-- '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
-  README/docs refactor and navigation (♯2724)]]'
+- '[[Changes/Descript/2025-08-29-everyone-can-manually-control-this-setting-in-the-labs-section-the-settings-menu|Everyone
+  can manually control this setting in the Labs section the Settings menu]]'
+- '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499|midjourney-2025-09-04-https-updates-midjourney-com-style-explorer-v1-f748c499]]'
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-30'
 description: 'OpenClaw · 2026-09-30 · Mobile and Desktop: 14 changes in v2026.9.7
   — The prerelease compiler now supports build hosts on macOS arm64/x64, Linux arm/arm64/x64…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1296
+  lag_days: 2880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76326ab72d18733ccae9dbd8d2880ec1f9e0791e5381a72a23757cbfcbefcd96
+machine_hash: 2b5ca46c20f06e3b8f8a2f569749de9ee7e948beb71507e92d8025494dc61e1e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -197,7 +197,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

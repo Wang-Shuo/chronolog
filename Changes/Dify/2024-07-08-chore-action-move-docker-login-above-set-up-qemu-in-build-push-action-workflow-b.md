@@ -4,20 +4,21 @@ date: '2024-07-08'
 description: 'Dify · 2024-07-08 · Account and Access: chore(action): move docker login
   above Set up QEMU in build-push action workflow by @takatost in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 466
+  lag_days: 1441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e52e1953ea7483e8e012e99d6d17849bddc32a6bdf39179ee10e13f0978aaf71
+machine_hash: 1c6b9188f964dc739dacbf9274b89efadcb8064bc9f357a6b49a0b15ec2ee628
 product: dify
 product_name: Dify
 record:
@@ -43,12 +44,11 @@ record:
     workflow'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-17-federated-auth-usernames-ability-to-set-user-names-for-federated-authentication|\U0001F58A️
-  Federated Auth Usernames: Ability to set user names for federated authentication]]"
 - "[[Changes/Open WebUI/2024-06-27-experimental-oauth-support-new-experimental-oauth-support-check-our-documentatio|\U0001F512
   Experimental OAuth Support: New experimental OAuth support]]"
 - '[[Changes/Dify/2024-06-28-feat-api-auth-switch-to-stateful-authentication-by-laipz8200-in-https-github-com|feat(api/auth):
   switch-to-stateful-authentication]]'
+- '[[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]'
 source_release: '[[Releases/Dify/dify-2024-07-08-0-6-13-github-164437936-9fca9505|dify-2024-07-08-0-6-13-github-164437936-9fca9505]]'
 source_type: github_releases
 theme: account-access
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-feat-api-auth-switch-to-stateful-authentication-by-laipz8200-in-https-github-com|feat(api/auth): switch-to-stateful-authentication]]
+- Earlier: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]
 - Later: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|🛠️ Custom Environment for OpenID Claims]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

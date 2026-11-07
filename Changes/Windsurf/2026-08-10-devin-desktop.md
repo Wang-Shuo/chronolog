@@ -5,20 +5,20 @@ description: 'Windsurf · 2026-08-10 · Mobile and Desktop: "Restart to Update" 
   asks for confirmation when local agents are still working and says how many will
   be…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2829
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: feb047b0c4c6da74798c293569f24a11a6bbb2e54823275ef5c920d53f7a389a
+machine_hash: 74917e044de9d65a3ce24263b93f6591ccd54f687e31ad89ca94399b59226c03
 product: windsurf
 product_name: Windsurf
 record:
@@ -115,13 +115,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-10 · OpenCode · [[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile and Desktop changes in v1.18.16]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
+- Later: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-outlook-copilot-provides-coaching-feedback-in-chat-as-you-draft-edit-and-format|Outlook: Copilot provides coaching feedback in chat as you draft, edit, and format…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

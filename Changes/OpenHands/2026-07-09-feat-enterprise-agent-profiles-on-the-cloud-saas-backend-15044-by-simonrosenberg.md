@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5e3a2d893b223c66d019191e951b455c152e0bb52bca20bf8a751ea4bbe9c989
+machine_hash: 7ebe23b4afa7c793d3ba39273d600bff01dd6267243a5cf2ac45e7323d6f93e1
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(enterprise): Agent Profiles on the cloud/SaaS backend (#15044)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
-  Work is an agent for longer, more involved tasks]]'
 - '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
   changes in rust-v0.144.0]]'
+- '[[Changes/Notion/2026-07-09-build-and-iterate-on-workers-with-your-team-or-share-one-so-teammates-can-connec|Build
+  and iterate on Workers with your team]]'
 - '[[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop
   Updated sub-agent task rows to match the v2 session design more closely]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-09-1-11-0-github-351744742-75df1161|openhands-2026-07-09-1-11-0-github-351744742-75df1161]]'

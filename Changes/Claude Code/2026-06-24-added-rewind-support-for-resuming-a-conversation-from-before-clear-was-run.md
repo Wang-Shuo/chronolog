@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 40cd5b4fdf0e53e9c8931c0a3069b83c680cea2b75264cd35fc1e504209b8981
+machine_hash: c29a3381f03a28cb028abc6cdc74ea2a12570a554ecbfdff82f278af0126adb0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     was run
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-local-session-history-is-safer-for-compressed-rollouts-renamed-titles-pathless-s|Local
-  session history is safer for compressed rollouts, renamed titles, pathless…]]'
+- '[[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent
+  forking sessions during active turns and consolidate wire protocol…]]'
 - '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
   persisting empty resume sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4

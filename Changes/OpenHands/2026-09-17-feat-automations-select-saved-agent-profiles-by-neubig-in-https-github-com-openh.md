@@ -4,20 +4,20 @@ date: '2026-09-17'
 description: 'OpenHands · 2026-09-17 · Automation and Scheduling: feat(automations):
   select saved agent profiles by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 989
+  lag_days: 2556
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0ac2757eef145919102fe87944725d71c4511a549e6d8288e69494bbccfd807e
+machine_hash: db74b90dec1932dee49b2230877089d0303e119729bac5e92a4f440775229a9c
 product: openhands
 product_name: OpenHands
 record:
@@ -53,10 +53,9 @@ record:
   title: 'feat(automations): select saved agent profiles'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
-  Automation and Scheduling changes in v1.18.0]]'
-- '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
-  Automation and Scheduling changes in v1.19.0]]'
+- '[[Changes/Descript/2026-09-17-how-to-find-it-231db5|How to find it]]'
+- '[[Changes/Descript/2026-09-17-record-in-a-scheduled-room-without-the-host|Record
+  in a scheduled Room without the host]]'
 - '[[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate
   your workspace with the Lovable API]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-17-v1-20-0-github-390502317-9763b11e|openhands-2026-09-17-v1-20-0-github-390502317-9763b11e]]'
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

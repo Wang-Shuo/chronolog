@@ -4,20 +4,20 @@ date: '2024-05-24'
 description: 'Suno · 2024-05-24 · Voice and Audio: v4 is cooking. In the meantime,
   we are rolling out early access to v3.5 , which is now available to Pro and Premier…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 319
+  lag_days: 2146
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f5ad4cbb81cf6edcbb13b19b376d26c9060d37f56b92d7cb643a5c74d0ace53
+machine_hash: 2be6ec13f9c03640878dfcc58b2404a6616df80461a87ace81907281f2fbfd81
 product: suno
 product_name: Suno
 record:
@@ -50,10 +50,10 @@ record:
   title: v4 is cooking
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features
-  in rooms]]'
 - '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
   next week)]]'
+- '[[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice
+  Cloning: your voice in 29 languages]]'
 - '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
   changes in 0.6.7]]'
 source_release: '[[Releases/Suno/suno-2024-05-24-e-v3-5-early-access-4-minute-songs-3ce261ce|suno-2024-05-24-e-v3-5-early-access-4-minute-songs-3ce261ce]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

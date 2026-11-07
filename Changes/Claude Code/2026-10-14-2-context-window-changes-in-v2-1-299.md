@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Context Window: 2 changes in v2.1.299 — Added
   `CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS` to change idle compaction''s 200K-token minimum…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c61c51e5945b44e63ea7868141db2a9261adc742c3a422a8be32f646ccbb5edc
+machine_hash: 19716f8468684c1c9ebadb0b4e2ac8c8997d1bdb8921c7bc674cb5522a3973c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Context Window changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
-  changes in v4.1.24]]'
+- '[[Changes/Notion/2026-10-13-more-ways-to-connect-and-govern-context|More ways to
+  connect and govern context]]'
 - '[[Changes/OpenClaw/2026-10-13-replies-after-native-compaction-the-next-message-waits-for-saved-conversation-hi|Replies
   after native compaction]]'
 - '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

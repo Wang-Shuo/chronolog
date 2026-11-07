@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-06-02 · Collaboration: `OTEL_RESOURCE_ATTRIBU
   values are now included as labels on metric datapoints, so you can slice usage metrics
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2699
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20c867facdaa1cd28cbe92a99afc881758b85ec9509a4fc17fc5078da95a21c6
+machine_hash: 9d79eed505286e6bf80dd08e4234621e3010531472ad4c9b049a5c9a89a1eb2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +45,8 @@ record:
   title: '`OTEL_RESOURCE_ATTRIBUTES` values are now included as labels on metric datapoints…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
+- '[[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate
+  shared tool service typing to the tool support layer]]'
 - '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
   project action buttons]]'
 - "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
@@ -82,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|🔐 Shared-chat file write protection. Access to a file through a shared chat now…]]
-- Later: 2026-06-02 · Lovable · [[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project collaborator icons]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The Organization tab now begins with a Team Overview section, where admins can view…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-02-27'
 description: 'Gemini CLI · 2026-02-27 · Developer Workflow: 4 changes in Release v0.31.0
   — docs(plan): add documentation for plan mode command by @Adib234 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1077
+  lag_days: 2726
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1855feae5f269aa3934c7fce301249a96642a3ac50ea394a4ade4f4b40890a5c
+machine_hash: 51da3cc9dd34b6b8c71ba15d46ba9865824248d6d7e4998945af515f51c9ccab
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -105,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.31.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

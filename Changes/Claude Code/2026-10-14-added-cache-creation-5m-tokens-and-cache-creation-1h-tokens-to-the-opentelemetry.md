@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Context Window: Added `cache_creation_5m_tokens`
   and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f14f16d1ae4f43b6776e7be373ba721734989f9c4c9b4a36b89eb6bfc10ca2cb
+machine_hash: 291744cb98a911f8b23d6727412adef2eec759db56bf847d8f9b79ce0d9e364a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-4-context-window-changes-in-v2026-10-2|4 Context
-  Window changes in v2026.10.2]]'
-- '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
-  changes in v4.1.24]]'
+- '[[Changes/Notion/2026-10-13-your-agents-and-teams-run-on-context-if-you-switch-agents-add-a-new-tool-or-welc|Your
+  agents and teams run on context]]'
+- '[[Changes/Notion/2026-10-13-more-ways-to-connect-and-govern-context|More ways to
+  connect and govern context]]'
 - '[[Changes/OpenClaw/2026-10-13-replies-after-native-compaction-the-next-message-waits-for-saved-conversation-hi|Replies
   after native compaction]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

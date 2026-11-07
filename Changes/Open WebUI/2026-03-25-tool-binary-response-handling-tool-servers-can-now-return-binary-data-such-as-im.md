@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-03-25 · Multimodal Input: \U0001F3EE **Tool bi
   response handling.** Tool servers can now return binary data such as images, which
   are properly…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 918
+  lag_days: 2686
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 002595648e0d4efa5ce958b32afb4fbfac69d316a6e0ee7559273e2029b09db3
+machine_hash: e1b1b30845e63b875de0d4c9f8f413ae156ede87328032a8b7912487d23bbc31
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,9 +57,10 @@ record:
     binary data such…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-16-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-03-23-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/HeyGen/2026-03-25-video-distribution-new-controls-for-video-downloads-public-publishing-and-social|Video
+  distribution: New controls for video downloads, public publishing, and social…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
 source_type: github_releases
 theme: multimodal
@@ -104,14 +105,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-javascript-sdk|JavaScript SDK]]
-- Later: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-video-distribution-new-controls-for-video-downloads-public-publishing-and-social|Video distribution: New controls for video downloads, public publishing, and social…]]
+- Later: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-you-can-now-enhance-any-video-to-4k-directly-inside-heygen|Enhance any video to 4K directly inside HeyGen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

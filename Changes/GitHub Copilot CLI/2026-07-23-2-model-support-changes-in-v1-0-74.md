@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68815d4f4184f3905c6f5e7a84a5d59212df52e1c06f4a6d829c8f71a2583d47
+machine_hash: 137b90c814024a55d342351050f963522476b5b9d86fcab4733c4916740e66cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Model Support changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed
-  model can be displayed or hidden (hidden by default)]]'
 - '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
+- '[[Changes/Kimi Code/2026-07-22-2-model-support-changes-in-kimi-code-0-29-0|2 Model
+  Support changes in Kimi Code 0.29.0]]'
 - '[[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini
   3.6 Flash is now the default model for your app''s AI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'

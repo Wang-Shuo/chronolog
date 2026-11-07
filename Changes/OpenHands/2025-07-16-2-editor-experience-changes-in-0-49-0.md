@@ -4,20 +4,19 @@ date: '2025-07-16'
 description: 'OpenHands · 2025-07-16 · Editor Experience: 2 changes in 0.49.0 - 2025-07-16
   — Enabled users to edit the conversation''s title by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 855
+  lag_days: 2439
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6b3de7081bd580332d009156169782be2312a135d46acd2b56eeac6b57b7678
+machine_hash: 67e340f2d8f7a19e38011149d600ec9c45a942a2a1070de1698e9e1ed4a779d4
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +41,9 @@ record:
   title: 2 Editor Experience changes in 0.49.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help:
-  add shift+tab tip]]'
 - '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
   Experience changes in v0.6.16]]'
+- '[[Changes/Descript/2025-07-15-editor-updates|Editor updates]]'
 - '[[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience
   changes in v3.19.5]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'
@@ -91,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.49.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

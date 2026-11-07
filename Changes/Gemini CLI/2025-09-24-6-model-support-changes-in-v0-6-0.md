@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92ad4f90baf07f03eec6098a62bf5e9c592478ac31c59fac655c8f24b4541b1d
+machine_hash: 729dbbc6c283a6afd19f41392b5ad68fa37822cb8bf7aa4e55215f3724b7a7b2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: 6 Model Support changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-5-model-support-changes-in-1-9-0|5 Model Support changes
-  in 1.9.0]]'
 - '[[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model
   Support changes in rust-v0.40.0]]'
 - '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
   in Windsurf!]]'
+- '[[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New
+  media generation model selection in Settings]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
 source_type: github_releases
 theme: model-support
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-23 · Windsurf · [[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now in Windsurf!]]
+- Earlier: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New media generation model selection in Settings]]
 - Later: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models with Qwen3's architecture including MoE now run in Ollama's new engine]]
 <!-- chronolog:end -->
 

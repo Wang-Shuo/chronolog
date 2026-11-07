@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Mobile and Desktop: \U0001FA9F **Start
   up on Windows.** The Windows start script now creates the secret key it needs on
   a fresh…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 505bb2421ba9b3fcaa58fdb1fb56d39f00ce66b910350bec9c78e9df59328af7
+machine_hash: a8237ca164c9f25e97171dc721ce88a5a851656e5689eae1755eedc81899c86b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,11 +52,12 @@ record:
     the secret key…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
-  Keep model provider headers visible while scrolling the model picker]]'
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
-- '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-page-steering-and-auto-triggering-of-pages-on-mobile-android-ios-microsoft-365-c|Page
+  steering and auto-triggering of pages on mobile Android…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-generate-and-edit-images-in-copilot-cowork-android-windows-ios-mac-web-microsoft|Generate
+  and edit images in Copilot Cowork Android, Windows, iOS, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams
+  Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -107,14 +108,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

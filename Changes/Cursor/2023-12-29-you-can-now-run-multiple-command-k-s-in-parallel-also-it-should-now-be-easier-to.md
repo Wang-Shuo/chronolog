@@ -4,20 +4,19 @@ date: '2023-12-29'
 description: 'Cursor · 2023-12-29 · Editor Experience: You can now run multiple Command-K''s
   in parallel! Also, it should now be easier to see change Copilot++ is suggesting.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 290
+  lag_days: 1874
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f112e24b9c76b316bbb38967838e2fed59b2b08946c32deb0e102360c62bb63d
+machine_hash: 3f54a11cd32c19b003601d2a15c5bc87584f683ee9fc27f131dfab13c16d7009
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +44,11 @@ record:
   title: Multiple Command-K, Copilot++ UI
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
-  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
   Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
+- '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f|cursor-2023-12-29-0-21-0-https-cursor-com-changelog-0-21-0-9a36334f]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -77,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]
+- Earlier: 2023-12-20 · Notion · [[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]
 - Later: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

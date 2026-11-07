@@ -4,20 +4,20 @@ date: '2024-08-13'
 description: 'Aider · 2024-08-13 · Pricing Model: Improved token and cost reporting
   for infinite output.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 607
+  lag_days: 2225
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bd757c017f3ab55f67285c17d99f1b9523ef9082ca129ffbe4d7e0f0ba1bcdc7
+machine_hash: f917487bab4ae0a1a1d7fde4cd90be59b2af809de350919fd04ec54fdf08f99e
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: Improved token and cost reporting for infinite output
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
-  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
+- '[[Changes/Descript/2024-07-31-underlord-usage-limits|Underlord usage limits]]'
 - '[[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro
   / Premier creators now get 50 credits per day]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-08-12 · Suno · [[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro / Premier creators now get 50 credits per day]]
-- Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost estimate logic for caching]]
+- Later: 2024-08-14 · Descript · [[Changes/Descript/2024-08-14-ai-usage-monitoring-in-settings|AI Usage monitoring in Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

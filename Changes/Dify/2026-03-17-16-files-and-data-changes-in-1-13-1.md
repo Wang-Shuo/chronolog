@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Dify · 2026-03-17 · Files and Data: 16 changes in v1.13.1 — Added Service
   API endpoints for dataset document downloads:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2372
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d806132c54c9c2a2f54ef8673bbf5c8092aaa3a2075351d837d304432fe3fbd
+machine_hash: 854b16f72af7dba594230d336c523522ba1fef9634ead893782ccc1ea4b91a80
 product: dify
 product_name: Dify
 record:
@@ -79,12 +79,12 @@ record:
   title: 16 Files and Data changes in 1.13.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode
-  Added full markdown document view for plans in VS Code, with support…]]'
 - "[[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|\U0001F4F7
   Android photo capture. Fixed an issue where the first photo taken in chat…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document
   GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize
+  and explain PDFs with Copilot in Microsoft Edge…]]'
 source_release: '[[Releases/Dify/dify-2026-03-17-1-13-1-github-297876307-84187197|dify-2026-03-17-1-13-1-github-297876307-84187197]]'
 source_type: github_releases
 theme: file-data
@@ -160,14 +160,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]
+- Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-summarize-and-explain-pdfs-with-copilot-in-microsoft-edge-web-microsoft-365-copi|Summarize and explain PDFs with Copilot in Microsoft Edge…]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs: document planning workflows with Conductor example]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

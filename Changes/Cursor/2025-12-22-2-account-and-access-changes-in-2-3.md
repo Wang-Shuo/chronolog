@@ -4,20 +4,21 @@ date: '2025-12-22'
 description: 'Cursor · 2025-12-22 · Account and Access: 2 changes in Layout Customization
   and Stability Improvements — Added support for Static Client headers in MCP OAuth…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 998
+  lag_days: 1973
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b10eb255b73dc50f77ffba8cdf9b2b6f038f647328cffbd900a5726a69d9467
+machine_hash: fba30251144efba7ff5a7c16eb70edf880a9ff04b29fbfa87577fdb49a727e82
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +97,7 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Developer Workflow: 2 changes in GPT-5.6 Sol, sign-in
   inside previews, and zero-config AI Gateway for generated apps — Git publish recovers…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a91dc21276f8a4d7e4645b321baee62269190a3767783285f5c93459d24c8e83
+machine_hash: af2f9b4eb2240280837db64cb2d0ac37f16954cc6038a7bb3ef5027e39d8fe9a
 product: v0
 product_name: v0
 record:
@@ -100,7 +101,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

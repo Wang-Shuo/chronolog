@@ -5,20 +5,20 @@ description: 'Dify · 2024-06-28 · Apps and Integrations: **Tracing with LangSm
   and Langfuse**: Now you can trace your apps traffic with LangSmith and Langfuse,
   thanks to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 463
+  lag_days: 2023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3661374a24cb8619633b8d72f45ce2a5a309464249b5dabaa917077afab179af
+machine_hash: 712547500d5e8bbca4a12c79564fe07ee4346097a65694fce88e5e360ea0f444
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: '**Tracing with LangSmith and Langfuse**'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-07-ollama-can-now-be-accessed-from-local-apps-built-with-electron-and-tauri-as-well|Ollama
-  can now be accessed from local apps built with Electron and Tauri, as well…]]'
 - '[[Changes/Dify/2024-06-14-chore-add-some-new-api-version-for-azure-openai-by-leslie2046-in-https-github-co|chore:add
   some new api version for azure openai]]'
+- '[[Changes/Notion/2024-06-18-instant-answers-from-slack-google-drive-salesforce-jira-and-more|Instant
+  answers from Slack, Google Drive, Salesforce, Jira, and more]]'
 - '[[Changes/Open WebUI/2024-06-27-functions-feature-you-can-now-utilize-functions-like-filters-middleware-and-pipe|✨
   "Functions" Feature]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

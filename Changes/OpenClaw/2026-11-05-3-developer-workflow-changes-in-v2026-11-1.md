@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-11-05 · Developer Workflow: 3 changes in v2026.1
   — Checks the target Node requirement before staging Git updates when the running
   updater…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1328
+  lag_days: 2977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ad812b6f88e462b37d3d8a7ef703cc70dd2359b73762bf5ada24bb53c3dc311
+machine_hash: dbac0b06872f23543af7ca992a72704d8d6ee5be692d9adedb59c888fd1452db
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2026.11.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-15-developer-workflow-changes-in-v0-13-0|15 Developer
-  Workflow changes in v0.13.0]]'
 - '[[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer
   Workflow changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
   changes in 1.19.0]]'
+- '[[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create
+  remote sessions in SSH, Docker, or custom-command environments]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: developer-workflow
@@ -101,14 +102,14 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow changes in 1.19.0]]
+- Earlier: 2026-11-04 · Kimi Code · [[Changes/Kimi Code/2026-11-04-create-remote-sessions-in-ssh-docker-or-custom-command-environments|Create remote sessions in SSH, Docker, or custom-command environments]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-6-developer-workflow-changes-in-rust-v0-167-0|6 Developer Workflow changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

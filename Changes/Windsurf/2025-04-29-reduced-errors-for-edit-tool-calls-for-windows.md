@@ -4,20 +4,20 @@ date: '2025-04-29'
 description: 'Windsurf · 2025-04-29 · Mobile and Desktop: Reduced errors for edit
   tool calls for Windows'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 777
+  lag_days: 2361
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cb394625290bd3c9b7fb40f389d08cef85cca50fd1c081eec3813900e2a207f
+machine_hash: 4ab833ab4671e7f2cd4307e2e10b9be0c8e7278f6764d72520ee50681289039f
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Reduced errors for edit tool calls for Windows
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
-  app signup: Added signup endpoints for the new Core mobile app]]'
 - '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
   Improvements: Whether it’s fixing layout issues on mobile…]]'
+- '[[Changes/Descript/2025-04-10-updates-desktop-app-to-support-configuration-change|Updates
+  desktop app to support configuration change]]'
 - '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
   failure of Docker containers to start on Windows]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-29-v1-7-3-86a335f5|windsurf-2025-04-29-v1-7-3-86a335f5]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

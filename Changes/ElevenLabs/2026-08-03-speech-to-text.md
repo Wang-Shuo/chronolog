@@ -4,20 +4,20 @@ date: '2026-08-03'
 description: 'ElevenLabs · 2026-08-03 · Voice and Audio: **Realtime entity detection**:
   Scribe v2 Realtime adds the `entity_detection` query option. It accepts `all`, one…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2947
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b58210686fc69e1e60dcd23bec4d820622a4139c572dd9b45bf8a9b34f94d2f8
+machine_hash: c892df67cad9aca5c788bf9ac91738d709879bd83b92e2d9066df3324165337b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-increased-voice-recording-limits|Increased voice recording limits]]
-- Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
+- Later: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-filler-word-removal-in-five-more-languages|Filler-word removal in five more languages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

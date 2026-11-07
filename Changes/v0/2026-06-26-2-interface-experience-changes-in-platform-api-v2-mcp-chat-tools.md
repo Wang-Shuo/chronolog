@@ -5,20 +5,20 @@ description: 'v0 · 2026-06-26 · Interface Experience: 2 changes in Platform AP
   MCP chat tools, and Office file attachments — The prompt form no longer grows when
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1264
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 920b05293f803984907d8eefdcad6c41570564e86d4bfd40213b87a5cf19e8da
+machine_hash: d3fd5ba7ceb4088a370f089999bea3f5731f6a20281ad3f2da63881a827abab5
 product: v0
 product_name: v0
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Interface Experience changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
+- '[[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep
+  the web session sidebar from re-rendering on every streaming token to improve…]]'
 - '[[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search
   the template and design system pickers]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
@@ -95,7 +96,7 @@ Source: https://v0.app/changelog#2026-06-26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

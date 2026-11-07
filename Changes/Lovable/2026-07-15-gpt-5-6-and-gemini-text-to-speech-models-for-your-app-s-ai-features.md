@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f00e71e76a1a445f7ca39ac08e2f3b8b18ff8cb7d9ca559708f165ba0dbd51ac
+machine_hash: 2f65aaf1600639dd3e5b275d138e2ca2ec95a634eb5695c727df3cc08a4a4b12
 product: lovable
 product_name: Lovable
 record:
@@ -64,12 +64,12 @@ record:
   title: GPT-5.6 and Gemini text-to-speech models for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
-  changes in v1.17.20 + 1]]'
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model
+  Support changes in Kimi Code 0.24.1]]'
 - '[[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop
   Fixed spacing between model provider sections in Settings]]'
+- '[[Changes/Kimi Code/2026-07-15-the-per-step-llm-retry-limit-is-raised-from-3-to-10-attempts-so-transient-provid|The
+  per-step LLM retry limit is raised from 3 to 10 attempts, so transient provider…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'
 source_type: lovable_changelog
 theme: model-support
@@ -119,7 +119,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop Fixed spacing between model provider sections in Settings]]
+- Earlier: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-the-per-step-llm-retry-limit-is-raised-from-3-to-10-attempts-so-transient-provid|The per-step LLM retry limit is raised from 3 to 10 attempts, so transient provider…]]
 - Later: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core Improved default reasoning depth for Meta models]]
 <!-- chronolog:end -->
 

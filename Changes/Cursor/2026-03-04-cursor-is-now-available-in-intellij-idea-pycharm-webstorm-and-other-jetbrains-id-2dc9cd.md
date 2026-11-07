@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: 7b56485d63169a7a59f185b3b8a7f8a62cb25343b131654b3d01f74f37fbb0f2
+machine_hash: 58059a2b774a05c1300d37b13eca84ced75f0a721caf2b52b42699c66da335ba
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes
-  in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell
   command output on Windows no longer renders as "No changes detected" in the timeline]]'
+- '[[Changes/Notion/2026-03-03-custom-agents-now-support-minimax-m2-5-an-open-weight-model-that-s-up-to-10x-mor|Run
+  Custom Agents for less with MiniMax M2.5]]'
 - '[[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent
   stream retry delay increased to reduce noise from transient failures]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'

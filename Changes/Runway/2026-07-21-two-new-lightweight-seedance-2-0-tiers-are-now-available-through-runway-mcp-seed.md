@@ -5,20 +5,20 @@ description: 'Runway · 2026-07-21 · Video Generation: Two new lightweight Seed
   2.0 tiers are now available through Runway MCP. Seedance 2.0 Fast delivers quick
   480p/720p…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 915
+  lag_days: 2099
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a49480824f46aba7d539c0e34a7dcacc1d99c4dc5238db1d7960bfe8fd46fa9b
+machine_hash: e3ce411b981db294ea6f11ddb690b8efd9f663b813e01a9c30214a16779946d4
 product: runway
 product_name: Runway
 record:
@@ -65,8 +65,8 @@ record:
   title: Seedance 2.0 Mini and Fast
   type: change
 related_changes:
-- '[[Changes/Runway/2026-06-30-generate-and-edit-video-with-gemini-omni-flash-now-in-runway-start-with-a-prompt|Gemini
-  Omni Flash]]'
+- '[[Changes/Synthesia/2026-06-30-generate-and-edit-video-from-text-image-and-audio-with-gemini-omni-flash-google|Early
+  access: Gemini Omni Flash live in Synthesia]]'
 - '[[Changes/Runway/2026-07-09-studio-s-timeline-editor-now-lives-inside-agent-so-you-can-generate-assemble-ref|Timeline
   in Agent]]'
 - '[[Changes/OpenClaw/2026-07-13-after-one-generated-video-clip-is-ready-a-different-next-clip-can-start-immediat|After
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-24 · Interface Experience: 2 changes in v0.
   — **\U0001F50F Model URL Search Parameter**: Added an ability to select a model
   directly via URL…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 624
+  lag_days: 1990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40739c002063deeb307829998033fb8d68cba8992be8423af1a10913777cbcda
+machine_hash: 07f5a1cc5e1ce0ef43453fc7e0a32238fca3de0028ae0142df3a422e495bda40
 product: open-webui
 product_name: Open WebUI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.24
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

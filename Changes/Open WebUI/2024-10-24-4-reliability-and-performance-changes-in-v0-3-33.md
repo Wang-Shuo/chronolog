@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-24 · Reliability and Performance: 4 changes
   v0.3.33 — **\U0001F3C6 Evaluation Leaderboard**: Easily track your performance through
   a new…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 679
+  lag_days: 2166
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a6d13ec999ec835f28cb7d352847f89cfe86cdf586fea19484c8d4a04611b77
+machine_hash: 99b404b1e3a0baa765daba81f94b6939ea7af9bb66c903af6a4edb576beec4f6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,11 @@ record:
   title: 4 Reliability and Performance changes in v0.3.33
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-2-reliability-and-performance-changes-in-0-10-0|2 Reliability
-  and Performance changes in 0.10.0]]'
 - '[[Changes/Ollama/2024-10-21-sending-follow-on-requests-to-vision-models-will-now-be-much-faster|Sending
   follow on requests to vision models will now be much faster]]'
 - '[[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability
   and Performance changes in 0.10.1]]'
+- '[[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -104,14 +103,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.33
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-2-reliability-and-performance-changes-in-0-10-1|2 Reliability and Performance changes in 0.10.1]]
+- Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]]
 - Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-tool-parameters-issue-fixed-an-error-where-tools-were-not-functioning-correctly|🛠️ Tool Parameters Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

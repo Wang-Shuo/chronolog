@@ -4,20 +4,20 @@ date: '2026-05-19'
 description: 'GitHub Copilot CLI · 2026-05-19 · Apps and Integrations: 9 changes in
   1.0.49 — Add `copilot plugin update --all` to update all installed plugins at once'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 973db784c1be9ce5316075d0f4e50f261b98245114c47ad12f5efbfce64b2716
+machine_hash: 9185b41b34a81a8a5bd2449d7549d6466656aa3f826225f7f5e3e5b42a243ebc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -125,13 +125,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini can connect to more apps, starting with OpenTable, Canva, and Instacart]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9 Apps and Integrations changes in rust-v0.132.0]]
+- Later: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-graph-api-enhancements-for-custom-connector-relevance-and-ux-web-microsoft-365-c|Graph API enhancements for custom connector relevance and UX…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

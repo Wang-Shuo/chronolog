@@ -4,20 +4,19 @@ date: '2026-01-10'
 description: "Open WebUI · 2026-01-10 · Editor Experience: 2 changes in v0.7.2 — \U0001F4DD
   Users can now create and save prompts in the workspace prompts editor without encountering…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1033
+  lag_days: 2617
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbca2abdcc11350154e69c4d0abd9f091c448ed0b7cba9e524118ebfb08f5992
+machine_hash: ae6ec9c41e8eb5f157541537c9d4c051d5d8bd3194c5f87b1815e0b7b1300e77
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

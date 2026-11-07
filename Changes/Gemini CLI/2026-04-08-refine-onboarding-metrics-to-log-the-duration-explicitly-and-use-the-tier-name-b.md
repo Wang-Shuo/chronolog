@@ -4,20 +4,20 @@ date: '2026-04-08'
 description: 'Gemini CLI · 2026-04-08 · Interface Experience: Refine onboarding metrics
   to log the duration explicitly and use the tier name. by @yunaseoul in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1185
+  lag_days: 2551
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f892cb95b58aed673ce4614b762a8332d8ef596b87683490e7a2b64207ef7c43
+machine_hash: 07f57dca2359d38c8540c8ef81e8900981dbceda461565c712d351490f9ee790
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
-- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal Added a keybinding option for "Switch model variant"]]
+- Later: 2026-04-08 · Notion · [[Changes/Notion/2026-04-08-keep-your-notifications-clean-by-muting-replies-to-discussions-you-no-longer-fin|Mute discussion replies]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

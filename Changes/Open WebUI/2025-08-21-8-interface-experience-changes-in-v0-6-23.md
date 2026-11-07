@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-21 · Interface Experience: 8 changes in v0.
   — \U0001F4BE **Save Temporary Chats Button**: Introduced a new 'Save Chat' button
   for conversations…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 955
+  lag_days: 2321
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d4210453d3b3d16a785f69a3e8989bc56237b349afeea2ad6f676f5ba172426
+machine_hash: 494cb08d7309893a26d22c1033f46e5eb81d29560d6f67198d55770e6c4c5366
 product: open-webui
 product_name: Open WebUI
 record:
@@ -156,7 +156,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-04-18'
 description: 'Replit · 2025-04-18 · Reliability and Performance: The AI systems have
   been supercharged to deliver dramatically faster responses:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 855
+  lag_days: 2342
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f87105c0c01336924eb51864739b62aa7e2bef549779f22668be7690428bba3a
+machine_hash: 3983411e3ab5c49280d2b4d19acfb0204fd2bf1434801ba5f82abcc33e1dbd37
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Faster AI responses
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-reindex-knowledge-files-on-demand-admins-can-now-trigger-reindexing-of-all-knowl|\U0001F501
-  Reindex Knowledge Files on Demand]]"
 - '[[Changes/Open WebUI/2025-04-14-2-reliability-and-performance-changes-in-v0-6-5|2
   Reliability and Performance changes in v0.6.5]]'
+- '[[Changes/Notion/2025-04-15-write-beautiful-emails-faster|Write beautiful emails,
+  faster]]'
 - '[[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability
   and Performance changes in v0.6.6]]'
 source_release: '[[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|replit-2025-04-18-2025-04-18-24c8e895]]'
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-17 · Ollama · [[Changes/Ollama/2025-04-17-2-reliability-and-performance-changes-in-v0-6-6|2 Reliability and Performance changes in v0.6.6]]
-- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore: speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]
+- Later: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new Screen recorder—in Beta this week]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

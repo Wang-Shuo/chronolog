@@ -4,20 +4,19 @@ date: '2026-04-14'
 description: 'GitHub Copilot CLI · 2026-04-14 · Editor Experience: 2 changes in 1.0.26
   — Remote tab correctly shows Copilot coding agent tasks and supports steering without…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1127
+  lag_days: 2711
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9df8c659e91fc0c6a16d2fba10f196c91c1bc8144b9c2c7f66181721b2c8dc7
+machine_hash: 54ae6575669a4370c5fe7880d38faf6b0bb3c75430e224458c89ce36da6a31fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

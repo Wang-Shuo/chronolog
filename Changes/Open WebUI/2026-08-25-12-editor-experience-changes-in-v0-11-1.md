@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-08-25 · Editor Experience: 12 changes in v0.11
   \U0001F4A4 **Far fewer writes just from being signed in.** Recording that someone
   is online now…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1271c1daf8cf7f3fdadddfff54149083c7614108ce2ea66645c5e248d090049a
+machine_hash: e86781577ae8cbd4fcf54d25ba55084b6f5132befce493a8594b9d262edbeea7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -109,11 +108,12 @@ record:
   title: 12 Editor Experience changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-elevenlabs-cli|ElevenLabs CLI]]'
-- '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
-  the turn''s completion time to the end-of-turn duration line…]]'
-- '[[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience
-  changes in 1.17.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-viva-engage-private-content-in-microsoft-365-copilot-web-microsoft-365-copilot|Viva
+  Engage private content in Microsoft 365 Copilot Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-updated-copilot-notebooks-ux-web-microsoft-365-copilot|Updated
+  Copilot Notebooks UX Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified
+  web and work chat experience with dedicated Work IQ button Windows…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: editor-experience
@@ -187,14 +187,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-4-editor-experience-changes-in-1-17-0|4 Editor Experience changes in 1.17.0]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-unified-web-and-work-chat-experience-with-dedicated-work-iq-button-windows-web-m|Unified web and work chat experience with dedicated Work IQ button Windows…]]
 - Later: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

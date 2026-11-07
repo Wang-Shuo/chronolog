@@ -4,19 +4,20 @@ date: '2026-01-22'
 description: 'OpenCode · 2026-01-22 · Developer Workflow: 3 changes in v1.1.32 — Terminal
   Allow remote directory specification in attach command'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1041
+  lag_days: 2690
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6eb055269cd548e06dcd22b254e29b6b61e991a40cd9280feea88eeb6875187
+machine_hash: f845f5b56d7c1d5ae194d4718a0992f945dc9e4c1ed88d93c65638b7e60834cb
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +98,7 @@ Source: https://opencode.ai/changelog/v1.1.32
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-09-04 · Interface Experience: 2 changes in Rel
   v0.3.0 — feat: add explicit license selection and status visibility by @JeongJaeSoon
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 969
+  lag_days: 2335
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0eb7a508a38162f51b74d7f15a360a955a9c06a149169e9a1b125da1e31fe384
+machine_hash: 8c1e15c18e2c4a0b7b57f4f1c28a57bdf8f7cb53f82b6c214454baf27a9e94cd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Interface Experience changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-5-interface-experience-changes-in-1-8-0|5 Interface Experience
-  changes in 1.8.0]]'
-- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
-  Experience changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
   README/docs refactor and navigation (♯2724)]]'
+- '[[Changes/Descript/2025-08-29-everyone-can-manually-control-this-setting-in-the-labs-section-the-settings-menu|Everyone
+  can manually control this setting in the Labs section the Settings menu]]'
+- '[[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: interface-experience
@@ -96,14 +95,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major README/docs refactor and navigation (♯2724)]]
+- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-export-menu-updates|Export menu updates]]
 - Later: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You can hover over styles and press 'Try Style…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Dify · 2025-01-07 · Files and Data: 3 changes in v0.15.0 — Doc
   batch operations in Knowledge Base support batch enabling, disabling, deletion,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 593
+  lag_days: 1938
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 257d5c4dc977240e08dbf7aad6c6879eeebee9a1c2f8aceef9efbc8839ed4458
+machine_hash: dd5207c4428baf8fa9374ef1aea99cf6c86c4e281790a9c3d67de2842017391a
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,11 @@ record:
   title: 3 Files and Data changes in 0.15.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
 - '[[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi
   all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
+- '[[Changes/Descript/2024-12-13-we-ve-added-a-new-layer-type-in-the-elements-panel-called-placeholder-https-help|Descript
+  adds a new layer type in the Elements panel called…]]'
 source_release: '[[Releases/Dify/dify-2025-01-07-0-15-0-github-193455309-4fc86c99|dify-2025-01-07-0-15-0-github-193455309-4fc86c99]]'
 source_type: github_releases
 theme: file-data
@@ -93,14 +94,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]
+- Earlier: 2024-12-13 · Descript · [[Changes/Descript/2024-12-13-we-ve-added-a-new-layer-type-in-the-elements-panel-called-placeholder-https-help|Descript adds a new layer type in the Elements panel called…]]
 - Later: 2025-01-15 · ChatGPT · [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

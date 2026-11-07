@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Automation and Scheduling: \U0001F4C5 
   automations run once.** Automations set with the Daily, Weekly or Monthly picker
   now run at…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1016
+  lag_days: 2583
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d39514126be38d8574d4fd003a4a7721217ebe6eaaf37f3b02eb37c854a6f70
+machine_hash: 28167ea0aa9506bd6047eab1249cbd0ddf134748db720fe9f3f2da794706af7f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,10 +60,10 @@ record:
     Daily, Weekly…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
-  PostgreSQL extensions on Lovable Cloud]]'
 - '[[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows
   service accounts]]'
+- '[[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron
+  tasks from the source session no longer fire inside a forked session]]'
 - '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
   Automation run results. An automation run is now recorded as successful only…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -116,7 +116,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

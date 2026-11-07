@@ -5,20 +5,20 @@ description: 'Cursor · 2026-10-06 · Enterprise and Administration: Remote cont
   is on by default, except for Enterprise organizations. Enterprise admins can turn
   it on in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2457
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d03376ff4c5dfc57dbf731dd4f0bb7fe88a646b7d49ed8af64d66ac3023b31e9
+machine_hash: 289c81645eca3aa09ab42af1fc973afc2ddfd670eb810abae74afa9d06200a4a
 product: cursor
 product_name: Cursor
 record:
@@ -99,13 +99,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-claude-tag-added-an-edit-button-to-the-allowed-domains-card-on-a-channel-s-confi|Claude Tag Added an Edit button to the Allowed domains card on a channel's…]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3 Enterprise and Administration changes in v2.1.293]]
+- Later: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-admin-center-detailed-report-on-everyone-except-external-user-permissions-web-mi|Admin Center - detailed report on Everyone except external user permissions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

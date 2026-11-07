@@ -5,20 +5,19 @@ description: 'Codex CLI · 2026-05-20 · Editor Experience: 3 changes in 0.132.0
   sessions now keep websocket connections alive and show repo-relative diff paths
   again…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee05fc08b8b9641189463864b344b0897d23daaa6aaaea03f13684f24c255aa0
+machine_hash: 6a68f95ad5d1ab9fbefe68866bf083bf0f40e6efae389cf5ce3be6c5aa0cf90a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,11 +45,12 @@ record:
   title: 3 Editor Experience changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
-  diffs are correctly reported to ACP clients for all edit tool types]]'
-- '[[Changes/Google Antigravity/2026-05-19-first-release|First Release]]'
-- '[[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First
-  release of the Antigravity IDE]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-it-admins-can-enable-anthropic-models-for-specific-users-and-groups-web-microsof|IT
+  admins can enable Anthropic models for specific users and groups…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-simplified-copilot-in-glint-enablement-using-microsoft-365-controls-web-viva-gli|Simplified
+  Copilot in Glint enablement using Microsoft 365 controls Web (Viva Glint)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-open-pdfs-within-microsoft-365-copilot-chat-windows-mac-web-microsoft-365-copilo|Open
+  PDFs within Microsoft 365 Copilot Chat Windows, Mac…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: editor-experience
@@ -95,14 +95,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-19 · Google Antigravity · [[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First release of the Antigravity IDE]]
+- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-open-pdfs-within-microsoft-365-copilot-chat-windows-mac-web-microsoft-365-copilo|Open PDFs within Microsoft 365 Copilot Chat Windows, Mac…]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2 Editor Experience changes in v1.0.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

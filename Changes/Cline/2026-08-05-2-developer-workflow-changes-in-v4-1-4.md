@@ -4,19 +4,20 @@ date: '2026-08-05'
 description: 'Cline · 2026-08-05 · Developer Workflow: 2 changes in v4.1.4 — Hard-block
   file-editing shell commands in plan mode instead of relying on prompting alone…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8800656b7074872936693641997e391acad55bed56c02ba13d35986b122896d3
+machine_hash: d2ce128b84157316921dfd436ce6822ed3c4fbfe663232736657dec8dd8ecf87
 product: cline
 product_name: Cline
 record:
@@ -90,13 +91,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-04 · OpenCode · [[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal GitHub pull request reviews now include the pull request number and URL…]]
-- Later: 2026-08-05 · OpenCode · [[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core Logged remote workspace 5xx response bodies in the host logs to make proxy…]]
+- Later: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-add-bug-as-an-alias-for-the-feedback-slash-command-type-bug-to-submit-feedback|Add /bug as an alias for the /feedback slash command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

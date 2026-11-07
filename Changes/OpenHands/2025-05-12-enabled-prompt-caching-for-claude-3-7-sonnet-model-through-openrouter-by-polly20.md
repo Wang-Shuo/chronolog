@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 103e17a9179e11071d2c2b7af77a91cfec8aecf31b5478b6598da2eb86f19178
+machine_hash: 4aae5a29f7c9c9147f9f585b3d9ab5345fc7412cff9ab8b549747aac5c336523
 product: openhands
 product_name: OpenHands
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update Gemini in OpenRouter/Cline providers to use implicit caching]]
-- Later: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing GPT-4.1 in ChatGPT for all paid users]]
+- Later: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-chat-directly-with-the-latest-ai-models|Chat directly with the latest AI models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Lovable · 2026-09-02 · Mobile and Desktop: You can now get the [Lovable
   mobile app](https://docs.lovable.dev/integrations/lovable-mobile-app.md) from **Account…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2852
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a027af3b9dcf0f36ad10e3aa3cc920ed8b20bee55cc6ab63c7bfd05415a15974
+machine_hash: 3c62969c81cadef07539ddc7e29bf48272a024e33073b4467623b4bcf675939d
 product: lovable
 product_name: Lovable
 record:
@@ -51,8 +51,8 @@ record:
   title: Download the mobile app from your settings
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
-  and Onboarding - A clearer path from download to a first useful…]]'
+- '[[Changes/Qoder/2026-08-31-improved-the-reliability-of-installation-and-updates-on-windows|Improved
+  the reliability of installation and updates on Windows]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
 - '[[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

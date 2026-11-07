@@ -5,20 +5,19 @@ description: 'GitHub Copilot CLI · 2026-06-09 · Editor Experience: 4 changes i
   — Configure home tab bar visibility, order, and hidden tabs via the `tabs` setting
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2767
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bf708708a50d4d01d7d0f2f2c0f240cdfa9efce6142dd6257b02030f8ec1132
+machine_hash: 1592d94f6ceeaf1740be146e3000552786f799ffffabe08f5ad57fefa27cc284
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -104,13 +103,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor Experience changes in rust-v0.139.0]]
-- Later: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed App tab from conversation]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-rework-file-reference-completion-in-the-tui|Rework file reference completion in the TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

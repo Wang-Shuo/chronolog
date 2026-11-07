@@ -4,20 +4,20 @@ date: '2026-01-16'
 description: 'Ollama · 2026-01-16 · Image Generation: 2 changes in v0.14.3 — [Flux.2
   Klein](https://ollama.com/x/flux2-klein): Black Forest Labs’ fastest image-generation…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 677
+  lag_days: 935
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cace42d2e3af905db9e89f9c7719140dc9abc924accfe1a1de57be1ff568d61
+machine_hash: 702f969c41848e53a66200734f4ef7df57b13cb8973ad8532505b0297b61250c
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Image Generation changes in v0.14.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-4-image-generation-changes-in-v0-7-0|4 Image Generation
-  changes in v0.7.0]]'
 - '[[Changes/Ollama/2026-01-10-new-experimental-support-for-image-generation-models-powered-by-mlx|New
   experimental support for image generation models, powered by MLX]]'
 - '[[Changes/Ollama/2026-01-14-experimental-image-generation-models-are-available-for-macos-and-linux-cuda-in-o|Experimental
   image generation models are available for macOS and Linux…]]'
+- '[[Changes/Z.ai API/2026-01-14-we-ve-launched-glm-image-a-state-of-the-art-image-generation-model-built-on-a-mu|We’ve
+  launched GLM-Image, a state-of-the-art image generation model built…]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-16-v0-14-3-github-277461374-7553d9fc|ollama-2026-01-16-v0-14-3-github-277461374-7553d9fc]]'
 source_type: github_releases
 theme: image-generation
@@ -83,14 +83,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.14.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-experimental-image-generation-models-are-available-for-macos-and-linux-cuda-in-o|Experimental image generation models are available for macOS and Linux…]]
+- Earlier: 2026-01-14 · Z.ai API · [[Changes/Z.ai API/2026-01-14-we-ve-launched-glm-image-a-state-of-the-art-image-generation-model-built-on-a-mu|We’ve launched GLM-Image, a state-of-the-art image generation model built…]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-image-generation|Image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-11-13'
 description: 'Cline · 2025-11-13 · Voice and Audio: 2 changes in v3.37.0 — Enable
   voice mode for linux also by @arafatkatze in https://github.com/cline/cline/pull/7369'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f27d9443ba966aa570a07a25af5c05e35d9fbd6a280f2c47619c27c8a5698f5b
+machine_hash: b981214cb74a0b90810658b72cbc51efddd7e6e3a8803fa25220fa727b56dc83
 product: cline
 product_name: Cline
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

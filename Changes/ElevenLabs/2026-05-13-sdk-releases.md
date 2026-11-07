@@ -3,20 +3,20 @@ card_id: elevenlabs-2026-05-13-b79f91
 date: '2026-05-13'
 description: 'ElevenLabs · 2026-05-13 · Apps and Integrations: SDK Releases'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2707
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0b2ea6160c6f63bae5da87b6e7e931f2a836988169790fadf9973a13f8f90e5e
+machine_hash: ff7c7bc0bf7323d73ca62cd2fdac9ebb133d7f525a7d1783e7e7c47194a68c3c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3 Apps and Integrations changes in v2.1.142]]
+- Later: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting started is easy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

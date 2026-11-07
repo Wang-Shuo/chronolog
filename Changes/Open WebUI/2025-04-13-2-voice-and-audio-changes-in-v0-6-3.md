@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-13 · Voice and Audio: 2 changes in v0.6.3 �
   **Azure AI Speech-to-Text Provider Integration**: Easily transcribe large audio
   files (up to…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 643
+  lag_days: 2470
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8da58a7516f31b817139c2eb46a8039c7b9df41abfe59eb1d6914357f108224
+machine_hash: 00b31e09f0230b4abee854c2cc06748578717c2c1239700f75013afcb06420ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Voice and Audio changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-07-new-api-endpoints|New API endpoints]]'
 - '[[Changes/ElevenLabs/2025-04-07-speech-to-text|Speech to text]]'
 - "[[Changes/Open WebUI/2025-04-07-audio-file-upload-response-restored-resolved-an-issue-where-uploading-audio-file|\U0001F3B5
   Audio File Upload Response Restored]]"
+- '[[Changes/Descript/2025-04-08-a-new-home-in-drive-view|A new Home in Drive view]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-13-v0-6-3-github-212047861-826c6203|open-webui-2025-04-13-v0-6-3-github-212047861-826c6203]]'
 source_type: github_releases
 theme: voice
@@ -93,14 +93,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-audio-file-upload-response-restored-resolved-an-issue-where-uploading-audio-file|🎵 Audio File Upload Response Restored]]
+- Earlier: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-a-new-home-in-drive-view|A new Home in Drive view]]
 - Later: 2025-04-14 · ElevenLabs · [[Changes/ElevenLabs/2025-04-14-audionative|AudioNative]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

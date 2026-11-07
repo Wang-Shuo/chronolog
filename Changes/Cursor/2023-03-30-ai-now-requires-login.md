@@ -3,20 +3,21 @@ card_id: cursor-2023-03-30-3bf00d
 date: '2023-03-30'
 description: 'Cursor · 2023-03-30 · Account and Access: AI now requires login'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 975
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5826828e9f8cb04b1ed0ce8d6cb484dcc5af9a8536f188264a4784bebf42642a
+machine_hash: cf6b6887d707e02443b29e388633fd59282dd7ac7922eea5f38bf7b54bde177b
 product: cursor
 product_name: Cursor
 record:
@@ -38,6 +39,12 @@ record:
   theme: account-access
   title: AI now requires login
   type: change
+related_changes:
+- '[[Changes/Descript/2021-03-08-descript-now-supports-google-sign-in|Google Auth]]'
+- '[[Changes/Notion/2022-06-29-synced-databases-now-in-open-beta|Synced Databases,
+  now in open beta]]'
+- '[[Changes/Notion/2022-08-11-improved-reliability-of-sign-in-with-apple-on-ios|Improved
+  reliability of Sign in with Apple on iOS]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c|cursor-2023-03-30-0-1-12-https-cursor-com-changelog-0-1-12-f3e1800c]]'
 source_type: cursor_changelog
 theme: account-access
@@ -67,13 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
+- Earlier: 2022-08-11 · Notion · [[Changes/Notion/2022-08-11-improved-reliability-of-sign-in-with-apple-on-ios|Improved reliability of Sign in with Apple on iOS]]
 - Later: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-login-via-github-then-add-the-repo-you-wish-to-sync|Login via github, then add the repo you wish to sync!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

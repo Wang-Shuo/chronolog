@@ -4,20 +4,20 @@ date: '2025-06-19'
 description: 'Midjourney · 2025-06-19 · Multimodal Input: Pro and Mega tiers can help
   us test "video relax mode" right now (unlimited generations but with wait)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 639
+  lag_days: 2407
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18b6244d70f7839591e1d65b6678a656c544d2b8feea4fe4e200ea36217033a4
+machine_hash: 3bdc2fd8fb2a23cec6d3bc9df32353f968a152997f335a364ec693fe20f108b7
 product: midjourney
 product_name: Midjourney
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-high-motion|High motion]]
-- Later: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-starting-today-we-re-toggling-the-new-timeline-experience-on-in-labs-for-everyon|Starting today, we’re toggling the new timeline experience ON in Labs for everyone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

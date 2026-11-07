@@ -4,20 +4,20 @@ date: '2026-06-25'
 description: 'Claude Code · 2026-06-25 · Reliability and Performance: Added automatic
   memory-pressure reaping for idle background shell commands (disable with…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1288
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5d160136d0310b547d0a5333285ab8229f06e1bc63e01b88c16e4102b35e2c5
+machine_hash: aaded7d82e4c18bae364be8ced5d68800d8974965e68b29dfb76c994e4956d89
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added automatic memory-pressure reaping for idle background shell commands…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2
-  Reliability and Performance changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-speed-up-session-snapshot-loading-with-a-direct-disk-reader-and-a-request-timeou|Speed
+  up session snapshot loading with a direct disk reader and a request timeout…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-show-per-model-token-totals-in-usage-and-speed-up-large-history-scans|Show
   per-model token totals in /usage and speed up large history scans]]'
 - '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

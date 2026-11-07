@@ -4,20 +4,20 @@ date: '2026-02-14'
 description: 'GitHub Copilot CLI · 2026-02-14 · Reliability and Performance: Reduce
   memory usage from encoding streaming chunks'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1157
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0db3017f1bcba46b9b01b5a7f2631f45b58a7213163cb2aab57d50faf80481a
+machine_hash: 68a2adf4e806fdba880987cc95841001564b991e14054db072ce2c89068b589d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Reduce memory usage from encoding streaming chunks
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-desktop-add-diff-virtualization-to-improve-performance-for-large-diffs|Desktop
-  Add diff virtualization to improve performance for large diffs]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
+- '[[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed
+  for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]'
 - '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
   improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

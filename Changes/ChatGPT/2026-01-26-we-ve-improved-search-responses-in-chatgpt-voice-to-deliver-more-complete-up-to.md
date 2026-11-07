@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-01-26 · Voice and Audio: We’ve improved search 
   in ChatGPT Voice to deliver more complete, up-to-date answers, including better
   access…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 931
+  lag_days: 2758
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2998534065de80db4b68ffa53925ac8e8e79fed2f888ae295115c48a87fa3587
+machine_hash: 7ef46e8452ef2bb7b335b665df8d1c0c4a3933d05da9ad0af34d63c15158cf15
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Improvements to search response quality in Voice
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
-  Updates]]'
+- '[[Changes/HeyGen/2026-01-20-voice-delivery-controls-access-voice-director-voice-mirroring-and-enhance-voice|Voice
+  delivery controls]]'
 - '[[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI
   integrations]]'
 - '[[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

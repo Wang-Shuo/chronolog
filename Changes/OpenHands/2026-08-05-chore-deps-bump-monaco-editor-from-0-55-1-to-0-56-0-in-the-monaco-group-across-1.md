@@ -5,20 +5,19 @@ description: 'OpenHands · 2026-08-05 · Editor Experience: chore(deps): bump mo
   from 0.55.1 to 0.56.0 in the monaco group across 1 directory by @dependabot[bot]
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1240
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5a1662f61d91c66e9cc928082b238e732b09c69d91269c5cc4643ec37095cdf
+machine_hash: d2bf562caab0841e27268a605b094fba64f0e4064b1431e9c6bf15c961fce3f1
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +43,11 @@ record:
     across 1…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2
-  Editor Experience changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
   emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
 - '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
   fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
+- '[[Changes/Descript/2026-08-05-editor|Editor]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-editor|Editor]]
 - Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2 Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

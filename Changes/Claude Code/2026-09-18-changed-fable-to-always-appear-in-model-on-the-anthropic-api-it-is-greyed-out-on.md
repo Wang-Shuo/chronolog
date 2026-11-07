@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a89d84a2100b791a6ea52a0d88e9a15c45fbf6c475e32c3f0f822606d466554
+machine_hash: 8762db45fe632c16be70ce6757dba93df0ca07420af0b22b57b5b0452863f93c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Changed Fable to always appear in `/model` on the Anthropic API
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model
-  Support changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active
+  speaker]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded
   reasoning text in the compact timeline is no longer dimmed, so it…]]'
 - '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:

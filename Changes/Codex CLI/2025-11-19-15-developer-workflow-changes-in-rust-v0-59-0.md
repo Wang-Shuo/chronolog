@@ -4,19 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Developer Workflow: 15 changes in 0.59.0 —
   Eliminated ghost snapshot notifications when no `git` repository is present.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 977
+  lag_days: 2626
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1546f06019e498870d28371dae27b0c654ffe0f033963bc1e4c25cae66f80093
+machine_hash: 26a875c614ff753a63cd4e0c2e4e754966b1cf6b7461fe755a9fdf5584f5696f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -153,7 +154,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

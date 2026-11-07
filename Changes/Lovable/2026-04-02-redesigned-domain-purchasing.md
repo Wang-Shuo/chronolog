@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Lovable · 2026-04-02 · Reliability and Performance: [Buying and connecting
   custom…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4ddfe29de0a75e0f756620d97a63facf66b2a35122a3ed26d15384440698f149
+machine_hash: 93ad8decd1bfa7674054bec131a6315296a9accf9122d4f0540c4a3b69728379
 product: lovable
 product_name: Lovable
 record:
@@ -51,8 +51,8 @@ record:
   title: Redesigned domain purchasing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation
+  videos just got a lot faster to make]]'
 - '[[Changes/Lovable/2026-04-02-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Lovable/2026-04-02-browser-performance-tools|Browser performance tools]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-02-2026-04-02-7ad85f39|lovable-2026-04-02-2026-04-02-7ad85f39]]'
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Earlier: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-presentation-videos-just-got-a-lot-faster-to-make|Presentation videos just got a lot faster to make]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

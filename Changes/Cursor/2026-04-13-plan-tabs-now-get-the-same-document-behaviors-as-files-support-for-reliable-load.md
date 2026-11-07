@@ -4,20 +4,20 @@ date: '2026-04-13'
 description: 'Cursor · 2026-04-13 · Files and Data: Plan tabs now get the same document
   behaviors as files: support for reliable loading, dirty tracking, reload on plan…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1054
+  lag_days: 2399
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a1e3eb5268a0a4d4c76e88844437b0278c80fe5767c9da83aefa9367b645992
+machine_hash: 4a2dff3c2ee2d896608238bb34df9383419b01ad25ae820e9cd17a48734f2f16
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: Plan tabs now get the same document behaviors as files
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
-  Data changes in v0.8.11]]'
-- '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
-  in 1.13.3]]'
+- '[[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported
+  file types: PPT, PPTX, PDF (max 50MB)]]'
 - '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and
   analyze data]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-smarter-answers-with-embedded-image-understanding-windows-microsoft-365-copilot|Smarter
+  answers with embedded image understanding…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: file-data
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and analyze data]]
+- Earlier: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-smarter-answers-with-embedded-image-understanding-windows-microsoft-365-copilot|Smarter answers with embedded image understanding…]]
 - Later: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

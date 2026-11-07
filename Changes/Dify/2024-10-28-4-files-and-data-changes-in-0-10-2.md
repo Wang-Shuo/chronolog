@@ -5,20 +5,20 @@ description: 'Dify · 2024-10-28 · Files and Data: 4 changes in v0.10.2 — **D
   Extractor Node with JSON Support:** You can now manage JSON types with extractor
   nodes…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 522
+  lag_days: 1867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96129dc803694d1c7b0fc2617f9c2b957a8e2cd41b24ee0ef446af2be917c4a4
+machine_hash: dcf979bcc44e951e96b4e22984a20ac722c81f6cfb3544979b4350b72b493336
 product: dify
 product_name: Dify
 record:
@@ -100,13 +100,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.10.2
 ## Nearby in Files and Data
 
 - Earlier: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-knowledge-base-loading-issue-resolved-a-critical-bug-where-the-knowledge-base-wa|📚 Knowledge Base Loading Issue]]
-- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-8-files-and-data-changes-in-0-11-0|8 Files and Data changes in 0.11.0]]
+- Later: 2024-11-05 · Descript · [[Changes/Descript/2024-11-05-replace-media-on-the-canvas-toolbar|Replace media on the Canvas toolbar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

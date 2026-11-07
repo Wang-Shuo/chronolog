@@ -4,20 +4,20 @@ date: '2025-07-28'
 description: 'Dify · 2025-07-28 · Mobile and Desktop: **Windows PEM KeyPath Fix**:
   Corrected path errors for private.pem key files on Windows systems, ensuring…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 867
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8706c04b517b9a8a29c827bea3dcf6f04bbb253c1a472ebe4ef150bb34d9b6d8
+machine_hash: 5ee1aea236cac2650c6ae0cc50f41f7323ae213fc91f2f1ead833593d24a7489
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: '**Windows PEM KeyPath Fix**'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push
-  notifications for usage alerts]]'
-- '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
-  (source link) should make it so that, on Windows…]]'
+- '[[Changes/Notion/2025-07-22-on-web-or-desktop-go-to-settings-preferences-language|On
+  web or desktop, go to Settings → Preferences → Language]]'
+- '[[Changes/Notion/2025-07-22-on-mobile-change-your-device-language-to-indonesian-thai-or-vietnamese-in-your-s|On
+  mobile, change your device language to Indonesian, Thai, or Vietnamese…]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile
   and Desktop changes in v0.1.14]]'
 source_release: '[[Releases/Dify/dify-2025-07-28-1-7-1-github-235626993-47ad2206|dify-2025-07-28-1-7-1-github-235626993-47ad2206]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

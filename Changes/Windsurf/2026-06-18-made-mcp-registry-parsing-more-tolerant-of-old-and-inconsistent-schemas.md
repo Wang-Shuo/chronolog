@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Windsurf · 2026-06-18 · Apps and Integrations: Made MCP registry parsing
   more tolerant of old and inconsistent schemas.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7af1f528530470e248da540bb0baee44ea5209dc6a76b7ea28ccf5b5f664c037
+machine_hash: 97b8e93422f982d1c9743cd7afd848efd6b7843af1759056f1e7d437a5209bc6
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,10 +41,10 @@ record:
   title: Made MCP registry parsing more tolerant of old and inconsistent schemas
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps
-  and Integrations changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
+- '[[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add
+  /reload suggestion in plugin-change hints]]'
 - '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
   AI activity]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-18-v3-2-23-68d9cc8e|windsurf-2026-06-18-v3-2-23-68d9cc8e]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-06-08'
 description: 'Codex CLI · 2026-06-08 · Editor Experience: 3 changes in 0.138.0 — #26047
   Fix multiline paste in /goal edit @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3c3e1b9d8789a84618587f942ae8c07acb273252e1494e330bd67788b44fdce
+machine_hash: 73e0546d2016516977f85b67c928917ec1d875b3b59d8e8765f47ec44c74b4d1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,13 +93,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background sessions now preserve --ide, --chrome, --bare, --remote-control…]]
-- Later: 2026-06-08 · Lovable · [[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview in the code editor]]
+- Later: 2026-06-08 · HeyGen · [[Changes/HeyGen/2026-06-08-speech-cleanup-is-now-available-inside-heygen-it-takes-a-single-recording-and-au|Speech Cleanup is now available inside HeyGen]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

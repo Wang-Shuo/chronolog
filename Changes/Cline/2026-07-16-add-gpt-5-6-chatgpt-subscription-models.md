@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8560e804492e759f55f07f646d99d6f5a082dd85050b365f9ce1b355f21da8a
+machine_hash: a48b8c00edf9e629bdb65bc9d306a7f293bd962ff5c79a78dad5216b3e527da7
 product: cline
 product_name: Cline
 record:
@@ -51,8 +51,8 @@ record:
   title: Add GPT-5.6 ChatGPT subscription models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop
-  Fixed spacing between model provider sections in Settings]]'
+- '[[Changes/Kimi Code/2026-07-15-the-per-step-llm-retry-limit-is-raised-from-3-to-10-attempts-so-transient-provid|The
+  per-step LLM retry limit is raised from 3 to 10 attempts, so transient provider…]]'
 - '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
   and Gemini text-to-speech models for your app''s AI features]]'
 - '[[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core

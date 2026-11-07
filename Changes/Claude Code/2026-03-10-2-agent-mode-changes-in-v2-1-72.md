@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 587c125ed9d478a63ae1bd004f2dfd33bc2ad7867a84ee6da94e0c288770804a
+machine_hash: 1d206adee2b5c8d76391a42e774946a360fc1d284ce601336949cc2552f0ff37
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]
-- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes in v0.33.0]]
+- Later: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

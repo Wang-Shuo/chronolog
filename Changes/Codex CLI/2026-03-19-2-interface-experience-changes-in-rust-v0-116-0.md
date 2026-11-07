@@ -4,20 +4,20 @@ date: '2026-03-19'
 description: 'Codex CLI · 2026-03-19 · Interface Experience: 2 changes in 0.116.0
   — #14952 Add device-code onboarding and ChatGPT token refresh to app-server TUI…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1165
+  lag_days: 2531
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 074cbd34194f199d4ddf2b4be3f7fd2e2fcd24deb117f00a89444ea73617c540
+machine_hash: c9572321527437546da8e29f2127abedef45dd9d86a7925f888ebf3c77eb945e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,13 +92,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature tips tooltip during thinking state]]
-- Later: 2026-03-20 · v0 · [[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved git sync workflow with simplified PR menu]]
+- Later: 2026-03-20 · Notion · [[Changes/Notion/2026-03-20-custom-skills-let-you-turn-any-repetitive-ai-task-into-an-easily-accessible-comm|Custom skills for Notion AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

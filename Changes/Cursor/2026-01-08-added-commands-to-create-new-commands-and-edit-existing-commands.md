@@ -4,20 +4,19 @@ date: '2026-01-08'
 description: 'Cursor · 2026-01-08 · Editor Experience: Added /commands to create new
   commands and edit existing commands.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1031
+  lag_days: 2615
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 20c1c766efc05cfebb8fc93e4d6412a15eaaf7f54e959235fbae3617e25a6f23
+machine_hash: 8aa67f243046e68aa725461755942cd935f09890d14ff774a3e9b93b6fe26d7d
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +44,8 @@ record:
   title: Added /commands to create new commands and edit existing commands
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor
-  Experience changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-improved-more-cost-effective-underlord|Improved,
+  more cost-effective Underlord]]'
 - '[[Changes/Codex CLI/2026-01-07-add-app-server-thread-rollback-so-ide-clients-can-undo-the-last-n-turns-without|Add
   app-server thread/rollback so IDE clients can undo the last N turns without…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-file-edits-no-longer-hang-when-approving-multiple-concurrent-edits|File
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

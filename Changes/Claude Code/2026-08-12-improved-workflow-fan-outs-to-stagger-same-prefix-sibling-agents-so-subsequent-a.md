@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be95d93fdb6edde0d20fd3b487a82af078781b628486bef7ff0c109816e12403
+machine_hash: 4add23b3a1008bf57ce6fb4da8065a01c8411a7a6a2ac08e9709dd325add4eb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured
-  that local web servers started by the agent are reachable from your host machine]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-planner-agent-in-group-based-basic-plans-windows-mac-web-microsoft-365-copilot|Planner
+  Agent in group-based basic plans Windows, Mac, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
   Nemotron 3.5 Lightning((source link)]]'
 - '[[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects

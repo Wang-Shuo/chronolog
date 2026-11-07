@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 80a5ea56ccb3e2060789ff7cd981e12a142593cc606f1bc6d6459df335718454
+machine_hash: 8d22117acdd40dd0f6f9ecbbf97679332b08631bb5b3fa91fbebcc21dc162709
 product: opencode
 product_name: OpenCode
 record:
@@ -41,12 +41,12 @@ record:
   title: Guided Claude Agent Setup
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-29-2-agent-mode-changes-in-v2026-10-9|2 Agent Mode changes
-  in v2026.10.9]]'
 - '[[Changes/OpenCode/2026-10-29-core-add-opt-in-scheduled-prompts-through-schedule-agent-tools-and-experimental|Core
   Add opt-in scheduled prompts through /schedule , agent tools…]]'
 - '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
   changes in v2.1.314]]'
+- '[[Changes/Kimi Code/2026-10-30-a-single-file-read-by-the-agent-now-returns-at-most-100-000-characters-or-about|A
+  single file read by the agent now returns at most 100,000 characters or about…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|opencode-2026-10-30-v2-2-4-aa4b8502]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
-- Later: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute to your company codebase with Cloud Agents]]
+- Earlier: 2026-10-30 · Kimi Code · [[Changes/Kimi Code/2026-10-30-a-single-file-read-by-the-agent-now-returns-at-most-100-000-characters-or-about|A single file read by the agent now returns at most 100,000 characters or about…]]
+- Later: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-2-agent-mode-changes-in-qoder-0-5-1|2 Agent Mode changes in Qoder 0.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

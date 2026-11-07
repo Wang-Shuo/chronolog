@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 946d2560ee3e228bd028cc1afc8fee9304d0efaf7db7812a8752634ccd498681
+machine_hash: ea91cd8c9936be168f024c558368094adc705e4e3ce72a6def3a4a669c9a15ca
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -72,8 +72,8 @@ record:
   title: 13 Agent Mode changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core
-  Restore persisted model and agent when loading ACP session]]'
+- '[[Changes/Notion/2026-01-20-your-agent-fits-in-your-pocket|Your Agent fits in your
+  pocket]]'
 - '[[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes
   in v1.1.28]]'
 - '[[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode

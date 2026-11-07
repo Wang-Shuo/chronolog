@@ -4,20 +4,20 @@ date: '2025-08-16'
 description: 'Cline · 2025-08-16 · Context Window: 2 changes in v3.25.3 — user message
   overwritten on context condensing by @0xToshii in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 835
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efb3ba92568afd73814b96430954caa54ad00fd7795ee62e814a542f5067eccd
+machine_hash: e196c9590ab57ad35a056d3ebdd1c838ad80fbf054bb33ce757a209fdb1cdd9d
 product: cline
 product_name: Cline
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.25.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

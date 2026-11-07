@@ -4,20 +4,20 @@ date: '2026-04-07'
 description: 'ElevenLabs · 2026-04-07 · Voice and Audio: **Audio duration in responses**:
   The [convert speech to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1002
+  lag_days: 2829
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 357c4cc65098095156c8a70977b58376c3ac95ebf8c35a62f94c7911c5cd2086
+machine_hash: e32cafc8773fc52d68f1734c89d22c917906a959e8d690d15bcb00c94b43a3f4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-speech-to-text-8868d1|Speech to Text]]
+- Earlier: 2026-04-06 · Notion · [[Changes/Notion/2026-04-06-voice-input-for-notion-ai-is-now-on-desktop-whether-you-are-dictating-a-longer-p|Voice input on desktop]]
 - Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-3-voice-and-audio-changes-in-rust-v0-119-0|3 Voice and Audio changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

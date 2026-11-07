@@ -4,19 +4,20 @@ date: '2026-09-08'
 description: 'ChatGPT · 2026-09-08 · Collaboration: Share a prompt. Share the prompt
   for a generated image so others can create their own version.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68464aa58a91052b67d8c8d1ad8a4d1ba4cbb0731083b4a27ef8d5e42f3c3e5d
+machine_hash: 469a1403466de45434ddd4f05624f0fe3319ea6356a159cdf82296576aa3e443
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +45,9 @@ record:
   title: Share a prompt
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
-  changes in v2026.9.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
-  a resumed session with --share or --share-gist writes the whole transcript…]]'
+- '[[Changes/HeyGen/2026-09-04-brandkit-and-brand-governance|BrandKit and Brand Governance]]'
+- '[[Changes/Kimi Code/2026-09-04-web-add-tower-multi-agent-collaboration-mode-experimental-enabled-via-the-tower|web:
+  Add tower multi-agent collaboration mode (experimental), enabled…]]'
 - '[[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration
   changes in v2026.9.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

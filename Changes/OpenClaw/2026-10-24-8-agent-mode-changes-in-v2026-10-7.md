@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 182b0f74ac213a73cc450a584efc88d6fd9862c792517cd66f6eb9e8beeccb32
+machine_hash: 20e97dc4f56383c0f78daecf460dad328c472d045ea3a102ba1b098129a03b6c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -122,7 +122,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.7
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes in v3.11.212]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
+- Later: 2026-10-25 · Kimi Code · [[Changes/Kimi Code/2026-10-25-2-agent-mode-changes-in-kimi-code-2-3-2|2 Agent Mode changes in Kimi Code 2.3.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

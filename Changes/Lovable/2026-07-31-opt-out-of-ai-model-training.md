@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c38e5ccd91b2dcf701bddadd736781b29dca33893aa21bc96e15f415817be52c
+machine_hash: 882817c6ccd579019051f62080cc48385eace7cc8dea7e6666d5550769c491a7
 product: lovable
 product_name: Lovable
 record:
@@ -60,11 +60,12 @@ record:
   title: Opt out of AI model training
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]'
 - '[[Changes/Google Antigravity/2026-07-31-enterprise-sign-in-gemini-enterprise-accounts-and-workforce-identity-federation|Enterprise
   sign-in: Gemini Enterprise accounts and Workforce Identity Federation]]'
 - '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
   Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve
+  the assistant''s partial output when a turn is interrupted with Esc…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-31-2026-07-31-9665255c|lovable-2026-07-31-2026-07-31-9665255c]]'
 source_type: lovable_changelog
 theme: model-support
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3 Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Earlier: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve the assistant's partial output when a turn is interrupted with Esc…]]
 - Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent's primary model]]
 <!-- chronolog:end -->
 

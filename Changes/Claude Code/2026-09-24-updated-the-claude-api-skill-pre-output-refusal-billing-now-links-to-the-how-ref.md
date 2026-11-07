@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Claude Code · 2026-09-24 · Pricing Model: Updated the `claude-api` skill:
   pre-output refusal billing now links to the How refusals are billed docs, mid-stream…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1379
+  lag_days: 2997
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: cdf3b131af45a54a0dddc30ee76ff3f6c221d580353fec4b483302187f1b2064
+machine_hash: a67f514102b203fdc3b4c4ff87538eeb72790a3423d8207073f05eb3e540c52a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Updated the `claude-api` skill
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image
-  and video generation now appear in Usage details]]'
 - '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
   the estimated monthly Cloud cost of each database size]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-github-copilot-ai-cost-dashboard-in-insights-web-microsoft-365-copilot|GitHub
+  Copilot AI cost dashboard in Insights Web (Microsoft 365 Copilot)]]'
 - '[[Changes/OpenClaw/2026-09-23-8-pricing-model-changes-in-v2026-9-6|8 Pricing Model
   changes in v2026.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

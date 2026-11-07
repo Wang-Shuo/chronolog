@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96e73e6436ef771ff980a980f5925c353da0b7f7dbf5e27446208e50520ca863
+machine_hash: 0ae372553eff2512f2d1940756b1055807c312bc66bf8c9b523cd4f48c48f4da
 product: openhands
 product_name: OpenHands
 record:
@@ -50,7 +50,8 @@ record:
   title: 4 Model Support changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
+- '[[Changes/Kimi Code/2026-07-06-3-model-support-changes-in-kimi-code-0-23-0|3 Model
+  Support changes in Kimi Code 0.23.0]]'
 - '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
 - '[[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support
   changes in v1.17.14]]'

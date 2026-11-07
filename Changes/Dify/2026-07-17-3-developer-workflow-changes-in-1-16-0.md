@@ -5,19 +5,20 @@ description: 'Dify · 2026-07-17 · Developer Workflow: 3 changes in v1.16.0 —
   up the database before applying the migration. The command runs in dry-run mode
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2866
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b00e1584f287d39d4e67d6352c06ebcf3a88dfe1b9c3bc8a9ca2db5bca8d7fb3
+machine_hash: f286f8ce1214e4aadaf59f68c91453a9c60a60faaa1bcd8583d156b182095201
 product: dify
 product_name: Dify
 record:
@@ -106,13 +107,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
-- Later: 2026-07-19 · Claude Code · [[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude no longer runs the /verify and /code-review skills on its own]]
+- Later: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-add-the-copy-slash-command-to-copy-the-last-assistant-message-to-the-clipboard|Add the /copy slash command to copy the last assistant message to the clipboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-11-03'
 description: 'OpenClaw · 2026-11-03 · Developer Workflow: 18 changes in v2026.10.10
   — The main chat view now gathers session information and task progress in Details…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1326
+  lag_days: 2975
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fddf0fe1e911da4b69dff46d25fa660d260a74dcb011daa072a5da96aeea84c5
+machine_hash: ea832c615c635b5e633ae1a2d253fce528953e023dfb638f071e513b27739889
 product: openclaw
 product_name: OpenClaw
 record:
@@ -210,7 +211,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

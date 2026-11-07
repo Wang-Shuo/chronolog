@@ -5,19 +5,20 @@ description: 'Gemini · 2023-09-19 · Collaboration: What: When someone shares a
   conversation with you through Bard’s public link sharing feature, you can continue
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 118
+  lag_days: 1712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2b5b79612d22b6ec338620e3d9134dffabfa269ddd0e7edadb92ec6061f72fca
+machine_hash: c3a938947057e66ce5a8d6d9eced91924c65acf0c5da839d1690ba6f4380fde8
 product: gemini
 product_name: Gemini
 record:
@@ -49,9 +50,11 @@ record:
   title: Build off of conversations shared with you
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
-- '[[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your
-  Bard conversations with others]]'
+- '[[Changes/Notion/2023-08-08-more-options-when-sharing-a-page|More options when
+  sharing a page]]'
+- '[[Changes/Descript/2023-08-10-descript-for-web-beta|Descript for web (beta)]]'
+- '[[Changes/Synthesia/2023-09-13-all-enterprise-accounts-can-now-invite-guests-to-synthesia-for-seamless-collabor|Introducing
+  Guest Roles]]'
 source_release: '[[Releases/Gemini/gemini-2023-09-19-2023-09-19-09db1083|gemini-2023-09-19-2023-09-19-09db1083]]'
 source_type: gemini_changelog
 theme: collaboration
@@ -84,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-07-13 · Gemini · [[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your Bard conversations with others]]
+- Earlier: 2023-09-13 · Synthesia · [[Changes/Synthesia/2023-09-13-all-enterprise-accounts-can-now-invite-guests-to-synthesia-for-seamless-collabor|Introducing Guest Roles]]
 - Later: 2023-10-10 · Dify · [[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application share qrcode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

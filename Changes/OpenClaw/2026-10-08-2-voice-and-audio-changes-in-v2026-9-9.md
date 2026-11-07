@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-08 · Voice and Audio: 2 changes in v2026.9.9 
   health checks. Configuration and health checks can proceed when Discord activity
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1186
+  lag_days: 3013
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f0a15395a8fcaf1e6ee4bb7e9b63a90aef9bd176071a1c63dbdb73874b6576b
+machine_hash: 02812eb4c9e6d6db38d573f522f8d8bcf2448b6bdf09daf44a4ac6928b1b31c5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -107,7 +107,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

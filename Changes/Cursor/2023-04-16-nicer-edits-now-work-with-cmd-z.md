@@ -4,20 +4,19 @@ date: '2023-04-16'
 description: 'Cursor · 2023-04-16 · Editor Experience: Nicer edits, now work with
   cmd-Z'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 33
+  lag_days: 1617
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ebd7306669673722672724016dbdfece08dae9004143ca77cded70b977f0291
+machine_hash: d75991eb8cefb1c1692ed26099fae7ac55ac30c9094bb8a1cab94d54b20dc0da
 product: cursor
 product_name: Cursor
 record:
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-04-14 · Cursor · [[Changes/Cursor/2023-04-14-hover-over-an-error-to-have-the-ai-explain-it-fix-it|Hover over an error to have the AI explain it/fix it]]
-- Later: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental support for multi-file diffs]]
+- Later: 2023-04-17 · Descript · [[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer resizing: The Media Library and Composition Drawers are now freely…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

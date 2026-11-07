@@ -4,20 +4,20 @@ date: '2025-05-12'
 description: 'OpenHands · 2025-05-12 · Apps and Integrations: 2 changes in 0.38.0
   — Facilitated the integration of custom Agent implementations from arbitrary Python…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 781
+  lag_days: 2341
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 957a7e18ac70ff68d553e6a0efebd8742dd659130588b4d573bfe7181b993dda
+machine_hash: 790ecb652c15217645cd1dd880160cbc05737af48ff77d985c42390bec048f20
 product: openhands
 product_name: OpenHands
 record:
@@ -85,13 +85,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.38.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|🤖 External Reranker Integration Functionality Restored]]
-- Later: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub connector for deep research]]
+- Later: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-search-across-even-more-tools|Search across even more tools …]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

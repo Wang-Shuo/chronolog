@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-27 · Context Window: 9 changes in v0.11.0 �
   **Chat status at a glance.** The slash menu now shows how full the context window
   is, and a…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2504
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4792860845a662fa82883f656d5a258097b43e6268d6a3bcd5aabbc1b9dd84f8
+machine_hash: cdf1db37a0b4d260753a6f194527476bba98101f00218170372d5634a1ca37ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,8 +96,8 @@ record:
   title: 9 Context Window changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
-  exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send
+  the session prompt cache key to OpenAI and OpenAI Responses providers]]'
 - '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
   Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
 - '[[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API
@@ -175,7 +175,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

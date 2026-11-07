@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6fc66b5fdc78cbff4f4f1784beec00b400c2bbb72e67299b0de449e469d146c5
+machine_hash: c8fa9f63809808a5c486186023fce53cca8d9f9464aa0be11660aefbed860eda
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
     continue…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
-  hook configuration error]]'
+- '[[Changes/Descript/2026-05-14-agent-templates-renamed-to-prompt-templates-the-label-in-the-underlord-panel-has|Agent
+  templates renamed to "prompt templates." The label in the Underlord panel…]]'
 - '[[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult
   coding and agentic tasks]]'
 - '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode

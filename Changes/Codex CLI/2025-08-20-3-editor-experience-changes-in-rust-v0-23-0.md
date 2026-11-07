@@ -4,20 +4,19 @@ date: '2025-08-20'
 description: 'Codex CLI · 2025-08-20 · Editor Experience: 3 changes in 0.23.0 — UI/UX
   polish: Ghostty Ctrl‑b/Ctrl‑f fallback (#2427), Ctrl+H as backspace (#2412), cursor…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 890
+  lag_days: 2474
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5c9530f97ef84d22d4789459666de40b8de0a28ccdbdd7ed49b8197a69b82e1
+machine_hash: 9beb9385d05236e0490d198b034f416bdd257d1ab3cc0df48833ceec2aecbb6e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

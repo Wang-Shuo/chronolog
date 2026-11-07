@@ -4,20 +4,19 @@ date: '2024-03-04'
 description: 'Aider · 2024-03-04 · Editor Experience: Show the user a FAQ link if
   edits fail to apply.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 356
+  lag_days: 1940
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26593c52113b4ac74b5084c12c60c753174ba73dd6990600754a7844dbc58337
+machine_hash: cbd1465b95f7386dbd30467bf4bf9430f2303ad5648cfb5012577ac511eb8676
 product: aider
 product_name: Aider
 record:
@@ -42,10 +41,9 @@ record:
   title: Show the user a FAQ link if edits fail to apply
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
-  Previews: this is an experimental new code reading feature]]'
 - '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
   Block]]'
+- '[[Changes/Descript/2024-02-20-editor-updates|Editor Updates]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
 source_release: '[[Releases/Aider/aider-2024-03-04-v0-25-0-github-144719910-7de50f06|aider-2024-03-04-v0-25-0-github-144719910-7de50f06]]'
@@ -78,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]]
-- Later: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-misalignment-issue-corrected-misalignment-of-edit-and-delete-icons-when-chat-tit|🔧 Misalignment Issue]]
+- Later: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-ai-edit-actions-now-with-deletion|AI Edit Actions: Now with Deletion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

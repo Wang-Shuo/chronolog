@@ -5,20 +5,20 @@ description: 'Cline · 2026-10-13 · Context Window: 2 changes in v4.1.24 — Sc
   and other images no longer inflate the token estimate, which made auto-compaction
   run…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1258
+  lag_days: 2582
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b21317780655e1562b1ddd6a39bfa39068e6bfaeb766b2453b5b610f2caa2212
+machine_hash: 37afe82db945bb62cb8218df248278be535cc8fa41006518cb8a135b72f43839
 product: cline
 product_name: Cline
 record:
@@ -89,13 +89,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 ## Nearby in Context Window
 
 - Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-4-context-window-changes-in-v2026-10-2|4 Context Window changes in v2026.10.2]]
-- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-replies-after-native-compaction-the-next-message-waits-for-saved-conversation-hi|Replies after native compaction]]
+- Later: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-your-agents-and-teams-run-on-context-if-you-switch-agents-add-a-new-tool-or-welc|Your agents and teams run on context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-12-03'
 description: 'Lovable · 2024-12-03 · Reliability and Performance: 2 changes in Lovable
   updates — 2024-12-03 — **Templates**: Build Faster with Pre-Built Designs.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 719
+  lag_days: 2206
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3783b1ef0efc5a03dc7cfe33b183b41cc1536aa44d6ccd6a673e6d577d97de0
+machine_hash: 2041ff792aa9466fd3693a2d86441df428e75c4cd9c0bc0454bfc6fb9921d137
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ Source: https://docs.lovable.dev/changelog
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

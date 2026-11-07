@@ -5,20 +5,20 @@ description: 'Replit · 2025-03-14 · Reliability and Performance: Enjoy smoothe
   navigation and better compatibility with secure websites in Web View. The proxy
   system…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 820
+  lag_days: 2307
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 43259c8013a88886ec3ca036c83ca54f0f29fa8efef0c2eec12a3749ac37519d
+machine_hash: e8023150dece49ff9d180920ed67ecca98f02b460831ce7aeb891f9bae064636
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,9 @@ record:
   title: Web View performance improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
-  and Performance changes in 0.47.x]]'
-- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
-  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]'
+- '[[Changes/Descript/2025-03-11-record-button-in-drive-view|Record button in Drive
+  view]]'
 - '[[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability
   & Reliability]]'
 source_release: '[[Releases/Replit/replit-2025-03-14-2025-03-14-667c20db|replit-2025-03-14-2025-03-14-667c20db]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

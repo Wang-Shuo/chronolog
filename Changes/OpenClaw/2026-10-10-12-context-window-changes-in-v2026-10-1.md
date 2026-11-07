@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-10 · Context Window: 12 changes in v2026.10.1
   views follow appended or replaced files, consumed context clears without losing
   newer…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2579
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19ced65925d01a0ee6c0248a458a0e0db7986decb110ed70d2098e549e00d8a9
+machine_hash: a29d64a8a9ec91070b8ec04b103ba7b9cb057a4207ec9edf75a899ef9eff5b88
 product: openclaw
 product_name: OpenClaw
 record:
@@ -192,7 +192,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

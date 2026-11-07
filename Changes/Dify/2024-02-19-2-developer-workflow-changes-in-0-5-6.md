@@ -4,19 +4,20 @@ date: '2024-02-19'
 description: 'Dify · 2024-02-19 · Developer Workflow: 2 changes in v0.5.6 — Create
   pull_request_template.md by @takatost in https://github.com/langgenius/dify/pull/2449'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 338
+  lag_days: 1987
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcfe02bfa040147618a50c9bab2c2c6efe4ac02e1fe62735875e92cf7a5030a1
+machine_hash: 2e665c2fcea433b3d1c5061b6993251b66d29697f1bff956af713ce9aad4906e
 product: dify
 product_name: Dify
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

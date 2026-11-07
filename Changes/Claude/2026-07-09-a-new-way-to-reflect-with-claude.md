@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e6053278cbe78b9139ef8dda50df3c03d496b74d8b1647a0b229b3af6af9be2c
+machine_hash: 9b2c4db4a3eac4c3a635ba2906817b110333f4749be9957543ea2728f240071d
 product: claude
 product_name: Claude
 record:
@@ -55,12 +55,12 @@ record:
   title: A new way to reflect with Claude
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
-  Memory and Personalization changes in v0.10.2]]'
 - '[[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team
   members with v0 edit access can manage team skills and memories without…]]'
 - '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
   Memory and Personalization changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-progressive-tool-disclosure-select-tools-experimental-compaction-now-discards-th|Progressive
+  tool disclosure (select_tools, experimental)]]'
 source_release: '[[Releases/Claude/claude-2026-07-09-2026-07-09-a1337b9a|claude-2026-07-09-2026-07-09-a1337b9a]]'
 source_type: claude_changelog
 theme: memory
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2 Memory and Personalization changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-progressive-tool-disclosure-select-tools-experimental-compaction-now-discards-th|Progressive tool disclosure (select_tools, experimental)]]
 - Later: 2026-07-10 · Claude · [[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]
 <!-- chronolog:end -->
 

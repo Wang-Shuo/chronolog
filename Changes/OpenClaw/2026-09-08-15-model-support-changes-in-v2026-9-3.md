@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80f9a279d3c2b23ff80af2cffdb4ae2adecf79c9fe7f1b8ab34462249e735be1
+machine_hash: fb3a08a75e62bbd9cafad10297e6f8fa874e3aef9983aaf4975f96ccbb868c4d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -115,10 +115,10 @@ record:
   title: 15 Model Support changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
-  models can now be used directly in ChatGPT Desktop, so you can keep…]]'
 - '[[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support
   changes in v2026.9.2]]'
+- '[[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom
+  BYOK endpoints]]'
 - '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
   Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'

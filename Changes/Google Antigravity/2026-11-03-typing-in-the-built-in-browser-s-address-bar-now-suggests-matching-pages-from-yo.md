@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-11-03 · Search and Browsing: Typing in
   built-in browser''s address bar now suggests matching pages from your browsing history,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2350
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd16d748bb8da96580d13df214472861da4050b95c040fd6963778425e5ce912
+machine_hash: 0f2ad2e3988740b44e1ab5539e909a999db3dc7769f2dbceb27685c61e7e34d3
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,12 @@ record:
   title: Typing in the built-in browser's address bar now suggests matching pages…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search
-  and Browsing changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
   Add model-gated literature search to standalone web search @rhan-oai]]'
 - '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search
   and Browsing changes in v2.2.1]]'
+- '[[Changes/Qoder/2026-10-30-device-connections-use-a-pairing-code-to-connect-to-other-qoder-devices-on-your|Device
+  connections: Use a pairing code to connect to other Qoder devices…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e]]'
 source_type: antigravity_changelog
 theme: search-browsing
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search and Browsing changes in v2.2.1]]
+- Earlier: 2026-10-30 · Qoder · [[Changes/Qoder/2026-10-30-device-connections-use-a-pairing-code-to-connect-to-other-qoder-devices-on-your|Device connections: Use a pairing code to connect to other Qoder devices…]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud web search responses on /api/chat are now decoded correctly, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

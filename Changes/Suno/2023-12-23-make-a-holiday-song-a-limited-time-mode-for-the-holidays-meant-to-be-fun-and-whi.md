@@ -4,20 +4,20 @@ date: '2023-12-23'
 description: 'Suno · 2023-12-23 · Music Generation: Make a Holiday Song * * - A limited-time
   mode for the holidays (meant to be fun and whimsical and not necessarily peak…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1466
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8980913c0dcb0ab75e64b86db9eba9366a60af3c9e2fd5d1988aa35d03e76077
+machine_hash: 714986b89be1bc7548abaed395c70578aee90833fabd3bbbc7a49b4b7abdfe01
 product: suno
 product_name: Suno
 record:
@@ -43,6 +43,12 @@ record:
   theme_resolution: manual-semantic-rule-v2
   title: Make a Holiday Song * * - A limited-time mode for the holidays…
   type: change
+related_changes:
+- '[[Changes/Descript/2022-06-02-replace-script-track|Replace script track]]'
+- '[[Changes/Descript/2022-11-15-premium-stock-media-https-help-descript-com-hc-en-us-articles-10165831753997-sto|Premium
+  stock…]]'
+- '[[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO
+  controls are here!]]'
 source_release: '[[Releases/Suno/suno-2023-12-23-e-happy-holidays-f1ff7b48|suno-2023-12-23-e-happy-holidays-f1ff7b48]]'
 source_type: suno_changelog
 theme: music-generation
@@ -71,13 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Music Generation
 
+- Earlier: 2023-04-19 · Synthesia · [[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO controls are here!]]
 - Later: 2024-01-27 · Suno · [[Changes/Suno/2024-01-27-hope-everyone-is-having-a-great-weekend-we-released-some-quality-of-life-improve|Hope everyone is having a great weekend!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-04-19'
 description: 'OpenCode · 2026-04-19 · Editor Experience: Core Fix GitHub Copilot Anthropic
   Haiku requests by disabling unsupported tool streaming.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2716
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95a88c188ae30b02a0e9ebc05dda5d4d4a4b739f847530e3a8f577f94555794
+machine_hash: 569a1f51e3037c57508ecf695551bc72e09659c679bbf9fc95d5f5c4a90b83a0
 product: opencode
 product_name: OpenCode
 record:
@@ -45,12 +44,12 @@ record:
     tool streaming
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
-  and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
 - '[[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core
   Fixed Github Copilot overbilling issue]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
+  & Calendar, now in your settings]]'
 source_release: '[[Releases/OpenCode/opencode-2026-04-19-v1-14-18-ba7bad5b|opencode-2026-04-19-v1-14-18-ba7bad5b]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -84,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
+- Earlier: 2026-04-17 · Notion · [[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail & Calendar, now in your settings]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

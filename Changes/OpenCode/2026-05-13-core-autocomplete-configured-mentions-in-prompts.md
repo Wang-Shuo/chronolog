@@ -4,20 +4,19 @@ date: '2026-05-13'
 description: 'OpenCode · 2026-05-13 · Editor Experience: Core Autocomplete configured
   @mentions in prompts.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1156
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32b02cb9c44c5f4b23a5a463dd6d3f4f5449135b73bd0288f987347f80bdef1f
+machine_hash: 28a05eb80344ee6207ac81c2aa002f1391a6f25ab72e206edb8bb8fee28abee2
 product: opencode
 product_name: OpenCode
 record:
@@ -40,11 +39,11 @@ record:
   title: Core Autocomplete configured @mentions in prompts
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-the-vs-code-editor-in-your-chats-autosaves-by-default-with-a-new-vercel-light-th|The
-  VS Code editor in your chats autosaves by default, with a new Vercel Light theme…]]'
 - '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
   PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
 - '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections
+  from one tab]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg and ←-detach now preserve --allow-dangerously-skip-permissions…]]
+- Earlier: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-manage-all-connections-from-one-tab|Manage all connections from one tab]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-edit-reviews|Improved edit reviews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

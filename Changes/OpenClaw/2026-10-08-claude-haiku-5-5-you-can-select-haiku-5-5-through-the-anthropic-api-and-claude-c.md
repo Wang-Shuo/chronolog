@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'OpenClaw · 2026-10-08 · Pricing Model: Claude Haiku 5.5. You can select
   Haiku 5.5 through the Anthropic API and Claude CLI. The haiku alias and Anthropic…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1393
+  lag_days: 3011
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 84ef6aaec6804d82237236d7bbf00ca0489d6a7e67c16bb2429861f6bbb4e565
+machine_hash: 142f6765d4ae649cac594935ddeb0005cce93de40a3e3333c5770bb4330e1c5b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,8 +65,8 @@ record:
     Claude CLI
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot
+  Analytics - Cowork adoption and impact Web (Viva Insights)]]'
 - '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
   credit usage limits and alerts for your workspace]]'
 - '[[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]'
@@ -121,7 +121,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

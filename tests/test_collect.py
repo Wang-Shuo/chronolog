@@ -39,6 +39,8 @@ def test_load_sources_returns_enabled_products():
         "v0", "replit", "ollama", "dify", "open-webui",
         "suno", "runway", "midjourney", "gamma", "granola", "google-antigravity",
         "manus", "openclaw", "opencode",
+        "descript", "heygen", "synthesia", "qoder", "kimi-code",
+        "microsoft-365-copilot", "notion", "zai-api",
     }
     assert {product["feed_type"] for product in products} == {
         "chatgpt_changelog",
@@ -50,6 +52,8 @@ def test_load_sources_returns_enabled_products():
         "suno_changelog", "runway_changelog", "midjourney_changelog", "gamma_changelog",
         "granola_changelog", "antigravity_changelog", "manus_changelog",
         "openclaw_changelog", "opencode_changelog",
+        "canny_changelog", "heygen_changelog", "synthesia_changelog", "notion_changelog",
+        "qoder_changelog", "kimi_code_changelog", "m365_copilot_changelog", "zai_changelog",
     }
 
 

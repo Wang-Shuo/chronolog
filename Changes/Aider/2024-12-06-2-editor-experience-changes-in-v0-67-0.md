@@ -4,20 +4,19 @@ date: '2024-12-06'
 description: 'Aider · 2024-12-06 · Editor Experience: 2 changes in Aider v0.67.0 —
   [Use aider in your IDE or editor](https://aider.chat/docs/usage/watch.html).'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 633
+  lag_days: 2217
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bce47d84d0b99acc7e44d7a51370488dd0d5df066f3ee3fac47995da01c9049
+machine_hash: 20faf932adb5628523b8fe1bade0ebb4e9d2d5693c2112d95acb6c10ef5d474a
 product: aider
 product_name: Aider
 record:
@@ -83,13 +82,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.67.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-12-01 · Open WebUI · [[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor Experience changes in v0.4.7]]
-- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]
+- Later: 2024-12-10 · Descript · [[Changes/Descript/2024-12-10-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2023-06-24'
 description: 'Cursor · 2023-06-24 · Interface Experience: The chat has been revamped!
   You can now use @ symbols to show files/code/docs to the AI. The chat history is…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 166
+  lag_days: 1532
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e8fdb521711c2bc1f55461c799d43e9ec7a179c8d26119a73eabb38628a1a05
+machine_hash: 9257038701b90960b8bcb5b8c0c307b3a27c9ebc8ae28ec86d17da77fbd92329
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,11 @@ record:
   title: Chat v2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-a-better-cursor-tutor-onboarding|A better Cursor Tutor
-  onboarding!]]'
-- '[[Changes/Cursor/2023-05-20-we-ve-added-a-new-feedback-button-at-the-top-right-of-the-app-we-really-do|Cursor
-  adds a new feedback button at the top right of the app]]'
 - '[[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore:
   input area highlight and moblie hide tooltip]]'
+- '[[Changes/Descript/2023-05-31-font-weights-the-font-weight-is-now-a-separate-section-under-text-properties-htt|Font
+  weights: The font weight is now a separate section under Text…]]'
+- '[[Changes/Descript/2023-06-13-other-tweaks-fixes|Other tweaks & fixes]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56|cursor-2023-06-24-0-2-34-https-cursor-com-changelog-0-2-34-fabeac56]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-05-30 · Dify · [[Changes/Dify/2023-05-30-chore-input-area-highlight-and-moblie-hide-tooltip-by-iamjoel-in-https-github-co|chore: input area highlight and moblie hide tooltip]]
-- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-symbol-keyboard-ergonomics|Better @ symbol keyboard ergonomics]]
+- Earlier: 2023-06-13 · Descript · [[Changes/Descript/2023-06-13-other-tweaks-fixes|Other tweaks & fixes]]
+- Later: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-updated-the-icons-in-the-quick-actions-https-help-descript-com-hc-en-us-articles|Updated the icons in the Quick…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

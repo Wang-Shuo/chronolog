@@ -4,20 +4,20 @@ date: '2026-08-12'
 description: 'OpenCode · 2026-08-12 · Mobile and Desktop: Desktop Updated Chinese
   developer terminology to use more widely recognized translations.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dd8b8bc0954503055467cbe59eec15e793050f6118952a26c6d57cd1b325fc6
+machine_hash: 27cbd4aacb87362fa78c58e73d9a5ec911d3b1f66c67d1c8683e2f5d072748f3
 product: opencode
 product_name: OpenCode
 record:
@@ -43,9 +43,10 @@ record:
     translations
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile
-  and Desktop changes in v1.18.16]]'
-- '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-outlook-copilot-provides-coaching-feedback-in-chat-as-you-draft-edit-and-format|Outlook:
+  Copilot provides coaching feedback in chat as you draft, edit, and format…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-outlook-prepare-for-meetings-with-copilot-in-classic-outlook-for-windows-windows|Outlook:
+  Prepare for meetings with Copilot in classic Outlook for Windows…]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-12-v1-18-17-b94d17fb|opencode-2026-08-12-v1-18-17-b94d17fb]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

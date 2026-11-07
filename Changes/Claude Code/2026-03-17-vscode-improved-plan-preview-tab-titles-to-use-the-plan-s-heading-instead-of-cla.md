@@ -4,20 +4,19 @@ date: '2026-03-17'
 description: 'Claude Code · 2026-03-17 · Editor Experience: [VSCode] Improved plan
   preview tab titles to use the plan''s heading instead of "Claude''s Plan"'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a5ec9ff1302fa225bf23edde305dfa1f9cf0d79e35b1a1a44b88d16ace22b9b
+machine_hash: fcda8b403683eea458201718a1d5767b1a7310d77e4c3c0eda39f59c43259281
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,13 +85,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-improved-diff-statistics-formatting-with-locale-specific-number-separators|Improved diff statistics formatting with locale-specific number separators]]
-- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience changes in 1.13.1]]
+- Later: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

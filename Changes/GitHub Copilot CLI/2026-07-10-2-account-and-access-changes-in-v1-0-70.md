@@ -4,20 +4,21 @@ date: '2026-07-10'
 description: 'GitHub Copilot CLI · 2026-07-10 · Account and Access: 2 changes in 1.0.70
   — Startup auth errors recommend the real `copilot login` command'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2173
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 324b002aa3bc5ab1b832fe17778dcaef396f3fd9e8fd815ca0777d7b11228cd8
+machine_hash: 7dd2f6f3c3fad1c983a91b6afdc3816e099de199de3dcfa7654c3e1d3fe9307a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7ce536c7a95ab883132407289e9704fbd735452bbdb3cef384174b53f0874ba4
+machine_hash: ba539d90da8e4cffbbfcf9619f156ac4f901f8d7e0c3ccc5603c90bc47db7551
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: Improved background agent behavior
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
-  follow-up messages to background agents with the write_agent tool…]]'
+- '[[Changes/HeyGen/2026-03-13-you-can-now-select-a-style-before-generating-a-video-in-video-agent-giving-you-c|Select
+  a Style before generating a video in Video Agent, giving you control over…]]'
 - '[[Changes/Replit/2026-03-13-agent|Agent]]'
 - '[[Changes/Replit/2026-03-13-introducing-replit-agent-4|Introducing Replit Agent
   4]]'

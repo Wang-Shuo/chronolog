@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cbadd173cd1c37bc43beebe6525ebba977686a07b68448e13efa95e411b7e4a
+machine_hash: 6c1e420db5a85305898cfcf465234a5e70b08cd3c61ba887473dfb8880bfa07c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,10 +87,10 @@ record:
   title: 22 Model Support changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
-  Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
   pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model
+  Support changes in Kimi Code 0.28.0]]'
 - '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
   changes in v1.18.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'

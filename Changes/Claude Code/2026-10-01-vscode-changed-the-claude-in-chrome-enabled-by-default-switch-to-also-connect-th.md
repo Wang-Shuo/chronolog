@@ -4,20 +4,19 @@ date: '2026-10-01'
 description: 'Claude Code · 2026-10-01 · Editor Experience: [VSCode] Changed the Claude
   in Chrome "Enabled by default" switch to also connect the editor''s own sessions…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1297
+  lag_days: 2881
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16cf329360402fc50e95cb346a51232cdd2ba10acb1c432129bcc2e33925b51a
+machine_hash: 52b3ffc4addfa9d260d7b049e1a5cfb95203090ad513fd87a7151eaea51d5ced
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

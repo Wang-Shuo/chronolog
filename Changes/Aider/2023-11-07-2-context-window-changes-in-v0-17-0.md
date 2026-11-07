@@ -4,20 +4,20 @@ date: '2023-11-07'
 description: 'Aider · 2023-11-07 · Context Window: 2 changes in v0.17.0 — gpt-4-1106-preview
   with 128k context window'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 187
+  lag_days: 1511
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06a4613bd91221086f983188336fc1ece0cc111596eb2aaee4f217505310c17e
+machine_hash: 17b2b66586b52ef1aadb967d42c8ea9e5467ba150222aaa10d6354a4874da719
 product: aider
 product_name: Aider
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.17.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

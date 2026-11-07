@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e2f9c3968b9bd0e0a8a95b7448b7f676bcd89ebf827f5481b970979030c5f4b
+machine_hash: 7307f33bbde1b31f517a22bde02d06030f385835b8ccb49c50efde002e39095b
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: 'feat: add GPT-6 Astra model support'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
-  /bug and /feedback reports to include only model-behavior params…]]'
 - '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
   workspace-level AI model training setting]]'
+- '[[Changes/Notion/2026-09-15-browse-every-model-and-see-which-is-best-for-the-job|Browse
+  every model, and see which is best for the job]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
   Model Support changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

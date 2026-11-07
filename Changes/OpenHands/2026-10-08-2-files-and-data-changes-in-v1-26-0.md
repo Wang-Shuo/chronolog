@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'OpenHands · 2026-10-08 · Files and Data: 2 changes in v1.26.0 — feat(onboarding):
   open the next setup guide step when one is done in Canvas by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1232
+  lag_days: 2577
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81c4aa9011a8b7c1b2ddd377762d14e4d12a7b680af30ed00fd22e206c373f96
+machine_hash: f678d80e2081697d4a38b87e8db6485d6cbaa9c3439db53a21c7de80128c5fc5
 product: openhands
 product_name: OpenHands
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

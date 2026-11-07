@@ -4,20 +4,20 @@ date: '2026-11-04'
 description: 'Dify · 2026-11-04 · Context Window: 6 changes in v1.19.0 - Trace Your
   Workflows, Layer by Layer — **Dify 1.19.0 brings nested workflow tracing to your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2604
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 627e4ab2a6e5cfd92928213267b89351000e0c92ca561cacad82bfbecdcf379a
+machine_hash: 4ad40e5a13791b701916b7f5926fb9e4243274bf74ebf819f4582774de169b0a
 product: dify
 product_name: Dify
 record:
@@ -128,13 +128,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Context Window
 
 - Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context Window changes in v2026.10.10]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context Window changes in v2026.11.1]]
+- Later: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account Selector in Outlook Copilot Side Pane Web (Outlook)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

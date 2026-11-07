@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-09-17 · Enterprise and Administration: > **Loo
   for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with
   Our…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 866
+  lag_days: 2073
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc173c044da727b3eeb76f681860a65909628cc71f564158c2988ede9b2ce60f
+machine_hash: 9c92569c1e0b891759209c25ff92310f2347669f2eabda3a61a32aad0ffcda70
 product: open-webui
 product_name: Open WebUI
 record:
@@ -101,13 +101,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-teams-and-enterprise|Teams and enterprise]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-give-ai-the-context-it-needs-with-ai-connectors|Give AI the context it needs with AI connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

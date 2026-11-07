@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15a77e43acb4a145d800d8d11189eb523256c05b200ec9bb294246a4ca3d3307
+machine_hash: 1d8626a94bbd0373e3a6a6707c408b990d34926ee8f5f9bdbe52d683c392a117
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Better handle large results from grep and glob tools to avoid memory issues
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-9674-feat-app-server-expose-personality-dylan-hurd-oai|♯9674
-  feat(app-server) Expose personality @dylan-hurd-oai]]'
 - '[[Changes/Codex CLI/2026-01-27-9718-feat-tui-personality-dylan-hurd-oai|♯9718 feat(tui)
   /personality @dylan-hurd-oai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-improve-relevance-and-personalization-by-connecting-user-identities-across-data|Improve
+  relevance and personalization by connecting user identities across data…]]'
 - '[[Changes/OpenCode/2026-01-28-2-memory-and-personalization-changes-in-v1-1-37|2
   Memory and Personalization changes in v1.1.37]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'

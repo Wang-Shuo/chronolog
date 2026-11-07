@@ -5,20 +5,20 @@ description: 'Dify · 2024-11-25 · Files and Data: 3 changes in v0.12.0 — We�
   to introduce the new file support capabilities for LLM Node and Basic Chat/Agent!
   This…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 550
+  lag_days: 1895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d59cc30443486ba9151fa8e59513271a1f7d447da48bbf95507dc30c41822ace
+machine_hash: 4460fdffcfd5418acf078765c4f5e09d8a0c9a6dab839badabec4cdea9bf36bd
 product: dify
 product_name: Dify
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

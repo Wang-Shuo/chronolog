@@ -4,20 +4,21 @@ date: '2026-07-17'
 description: 'Dify · 2026-07-17 · Account and Access: 8 changes in v1.16.0 — The workflow-as-MCP
   server now supports MCP protocol 2025-06-18 with version negotiation and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2180
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 819c8f9c3fe339276f4daad3b0f17a1d8bcb46405fb2547a84fc94c99f804297
+machine_hash: 1f9738f49ac50e018bbc72ccfd643a42c8d1a3ac8cc7a761c52c426d03590d97
 product: dify
 product_name: Dify
 record:
@@ -138,13 +139,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
-- Later: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests connectors when several fit]]
+- Later: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth connection errors now include the underlying network cause…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

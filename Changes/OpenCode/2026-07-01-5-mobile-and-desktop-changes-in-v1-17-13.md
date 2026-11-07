@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'OpenCode · 2026-07-01 · Mobile and Desktop: 5 changes in v1.17.13 —
   Desktop Add a searchable v2 model picker and model management flow in the composer'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1205
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 993b38d811040a455e4fb20aaa373eb6a7895886ce5461e84431b0ea1d08fa6c
+machine_hash: ff25ae48ab67bf769e0b45c2fa9fd01448a58f0fbfdb9181efb38e516319c37d
 product: opencode
 product_name: OpenCode
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Mobile and Desktop changes in v1.17.13
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-15-mobile-and-desktop-changes-in-v2026-6-11|15 Mobile
-  and Desktop changes in v2026.6.11]]'
-- '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
-  and Desktop changes in v1.17.12]]'
-- '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
-  for Android is here!]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-notebook-in-onenote-for-iphone-and-ipad-ios-onenote|Copilot
+  Notebook in OneNote for iPhone and iPad iOS (OneNote)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-copilot-chat-in-outlook-expands-to-reason-over-inbox-calendar-and-enterprise-dat|Copilot
+  Chat in Outlook expands to reason over inbox, calendar, and enterprise data…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated
+  files inherit sensitivity labels Android, Windows, iOS, Mac…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-01-v1-17-13-e66684a1|opencode-2026-07-01-v1-17-13-e66684a1]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -99,14 +99,14 @@ Source: https://opencode.ai/changelog/v1.17.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-01 · Granola · [[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola for Android is here!]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
+- Earlier: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-generated-files-inherit-sensitivity-labels-android-windows-ios-mac-web-microsoft|Generated files inherit sensitivity labels Android, Windows, iOS, Mac…]]
+- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-keep-automatic-background-updates-from-flashing-a-console-window-on-windows|Keep automatic background updates from flashing a console window on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

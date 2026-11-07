@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c870b0eeaa442d88b7e1bb97ab94e071762a20c81243be61673875c0e90607cb
+machine_hash: 4f14644b1348d845f0a150b8b44a8acb91dcc89e85b8c1e28953947341eaf9d0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-remove-vestigial-mcp-server-key-machinery-from-mcphub-native-mcp-tool-calls-now|Remove vestigial MCP server-key machinery from McpHub]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-cowork-sessions-no-longer-inline-external-imports-from-user-scope-memory-files|Cowork sessions no longer inline external @-imports from user-scope memory files]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-when-users-enable-generate-script-with-ai-they-can-now-specify-the-script-s-goal|When users enable Generate Script with AI , they can now specify the script’s goal…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

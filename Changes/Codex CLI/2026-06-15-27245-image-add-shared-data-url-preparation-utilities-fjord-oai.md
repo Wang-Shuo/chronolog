@@ -4,19 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Collaboration: #27245 image: add shared data
   URL preparation utilities @fjord-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1118
+  lag_days: 2712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd73cef5444f026be4352b5eca0b852115bb39828b872df8991c63312d4752dd
+machine_hash: cc870245aed8864df88e7c1d6c64c1b9573310e02a1257af3e591c075501fe81
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +43,10 @@ record:
   title: '#27245 image: add shared data URL preparation utilities @fjord-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
-  the Mission Control sharing status of synced sessions in the /session info view]]'
 - '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
   collaborative workspaces]]'
 - '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: collaboration
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]
 - Later: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2023-06-25'
 description: 'Aider · 2023-06-25 · Pricing Model: Enables display of cost info based
   on OpenAI advertised pricing.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 192
+  lag_days: 1810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 6debec1759acd9311e80c81aebdd6a0764a4f0cbe16b2772ee71dda836071d7c
+machine_hash: a88f41019a823274729a8312e6d3ab170898ba11accd4dd7aeab99c66e1e02bb
 product: aider
 product_name: Aider
 record:
@@ -43,9 +43,9 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
-  an optional paid plan if you''d like to avoid the server capacity rate limits]]'
 - '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Notion/2023-04-27-extended-free-access-for-startups-including-unlimited-ai|Extended
+  free access for startups — including unlimited AI]]'
 - '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
   add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 source_release: '[[Releases/Aider/aider-2023-06-25-v0-7-0-github-109821323-5656ee24|aider-2023-06-25-v0-7-0-github-109821323-5656ee24]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

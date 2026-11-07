@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Cline · 2026-09-02 · Apps and Integrations: 2 changes in v4.1.17 — Everything
   here lands through the SDK bundle, so it applies to windows running that bundle.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2819
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1566752160289958b947efc4caac8372589a01ee5cac8bdc91cf39307f26a5a5
+machine_hash: 5955df7709169891811c297db02fe7125d161f228b894305d065dec4035afbaa
 product: cline
 product_name: Cline
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]]
-- Later: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]
+- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web: Add a Plugins panel to Settings for browsing the plugin marketplace…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

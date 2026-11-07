@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-07-14 · Editor Experience: 2 changes in v2.1.
   — Added `vimInsertModeRemaps` setting: map two-key insert-mode sequences like `jj`
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2802
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9fff3b10f5164f703a859328c399e170afa1b348a6d9781c6d04ea398919426
+machine_hash: f80ad16a490ca35c07b35c474ae9b30a0914df5c6a4cb3afa82efdd32ef02043
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +44,8 @@ record:
   title: 2 Editor Experience changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
-  status in your browser tab]]'
+- '[[Changes/Kimi Code/2026-07-12-web-keep-the-server-access-token-for-up-to-7-days-across-tab-close-and-browser-r|web:
+  Keep the server access token for up to 7 days across tab close and browser…]]'
 - '[[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor
   Experience changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop
@@ -91,13 +90,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop Added middle-click to open sessions in a new tab]]
-- Later: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added Mod+N as another shortcut for opening a new tab]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-move-foreground-bash-commands-that-hit-their-timeout-to-the-background-instead-o|Move foreground Bash commands that hit their timeout to the background instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

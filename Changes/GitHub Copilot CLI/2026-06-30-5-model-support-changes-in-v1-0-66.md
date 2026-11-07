@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee3fc20c7b8f9e8aecd3d571299895e2664ea1c9f6cce56eea48972a4f205c97
+machine_hash: 4af8f1c8fe94a09df6931139b84de7cc39bd1220e1f134dcfdf284bf5e16ed8e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Model Support
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add Claude Sonnet 5 as a supported model]]
-- Later: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened Gemma 4 MoE model loading in the MLX engine]]
+- Later: 2026-06-30 · Kimi Code · [[Changes/Kimi Code/2026-06-30-refresh-provider-model-lists-automatically-in-the-background-instead-of-only-at|Refresh provider model lists automatically in the background instead of only…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

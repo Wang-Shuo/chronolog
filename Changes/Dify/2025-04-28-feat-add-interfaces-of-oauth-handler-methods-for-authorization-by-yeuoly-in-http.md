@@ -4,20 +4,21 @@ date: '2025-04-28'
 description: 'Dify · 2025-04-28 · Account and Access: feat: add interfaces of OAuth
   handler methods for authorization by @Yeuoly in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 760
+  lag_days: 1735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01333ed99ba7837ce76f3d5a233300abd0437037926a933c8ec58ec09512d18d
+machine_hash: df66b3027ae0d0e1b295ad2e46ccfbb35c65e4a089f6574618c970df6a0a887e
 product: dify
 product_name: Dify
 record:
@@ -42,10 +43,10 @@ record:
   title: 'feat: add interfaces of OAuth handler methods for authorization'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-13-2-account-and-access-changes-in-v0-6-3|2 Account
-  and Access changes in v0.6.3]]'
 - "[[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|\U0001F6E0️
   LDAP Login Reliability Restored]]"
+- '[[Changes/Descript/2025-04-15-you-ll-see-some-ui-differences-when-you-login|A new
+  look for login]]'
 - '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
   support for GitLab API calling using both OAuth and PAT tokens]]'
 source_release: '[[Releases/Dify/dify-2025-04-28-1-3-1-github-215107765-c53ec02a|dify-2025-04-28-1-3-1-github-215107765-c53ec02a]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-04-01'
 description: 'Gemini CLI · 2026-04-01 · Developer Workflow: 3 changes in Release v0.36.0
   — feat(worktree): add Git worktree support for isolated parallel sessions by @jerop…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1110
+  lag_days: 2759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 083a5ca4dbd3abf421e07e2c4c5be4a2d68a002ce78f3bcf3d33c7a04aa9c479
+machine_hash: 30ff47ab59d4465a602e0f8655c710c36552ef0fa0c7874d110dd681ad306cac
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -105,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

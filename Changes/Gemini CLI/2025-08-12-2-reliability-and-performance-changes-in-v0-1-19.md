@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-12 · Reliability and Performance: 2 changes
   Release v0.1.19 — feat(telemetry): Prevent memory leak in ClearcutLogger by @galz10
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 971
+  lag_days: 2458
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a125579c2881cbcfba4c81a785e2131fdb9b0615304a6906955364ad08a6307
+machine_hash: d414876b41fc4cd555345084da92a5c8cceaf6815163fa541f4cca81a3cd58e8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,13 +92,13 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6 Reliability and Performance changes in v0.1.21]]
+- Later: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag & drop support - Simply drag images directly into the avatar creation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

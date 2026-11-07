@@ -4,19 +4,20 @@ date: '2026-08-05'
 description: 'OpenCode · 2026-08-05 · Developer Workflow: Core Logged remote workspace
   5xx response bodies in the host logs to make proxy failures easier to debug.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9a2ab8a983b3332cc8c0ea8daf75a52ae725200c18133cf67ea90cf6c4fde6a
+machine_hash: f4a65432e19dd0ed24d52e68a5d4215d8fecba949dcd5baa0c78caf610b04892
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +45,12 @@ record:
     proxy…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
-  Workflow changes in v2.1.221]]'
 - '[[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal
   GitHub pull request reviews now include the pull request number and URL…]]'
 - '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
   changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-05-add-bug-as-an-alias-for-the-feedback-slash-command-type-bug-to-submit-feedback|Add
+  /bug as an alias for the /feedback slash command]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-05-v1-18-14-bc6aff23|opencode-2026-08-05-v1-18-14-bc6aff23]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow changes in v4.1.4]]
+- Earlier: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-add-bug-as-an-alias-for-the-feedback-slash-command-type-bug-to-submit-feedback|Add /bug as an alias for the /feedback slash command]]
 - Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer Workflow changes in v2.1.223]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

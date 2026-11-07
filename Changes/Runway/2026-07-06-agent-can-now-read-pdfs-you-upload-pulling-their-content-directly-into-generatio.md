@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: edbf3f2ee91ecd4d14eb9354200a86470f1a4d926c1033411fa41798bb462aff
+machine_hash: cc647a380440c64a74b51852416f7f286e8f72e55245c55707214f355fa7a52c
 product: runway
 product_name: Runway
 record:
@@ -46,8 +46,9 @@ record:
   title: PDF Input for Agent
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevenagents-c38b88|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web:
+  Replace the swarm footer with a single inline tool card that shows live…]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
 source_release: '[[Releases/Runway/runway-2026-07-06-2026-07-06-pdf-input-for-agent-662abb1d|runway-2026-07-06-2026-07-06-pdf-input-for-agent-662abb1d]]'

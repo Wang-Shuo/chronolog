@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c418dceea442be83a4f893ecc898c3640caf714720e87fed813627c29531f379
+machine_hash: 211eb4cfa1ae63277c2e7cde1680491e4abd753777601adb13a30f3a292654c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,10 +99,10 @@ record:
     every…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3
-  Accessibility and Localization changes in 1.18.0]]'
 - '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
   Accessibility and Localization changes in v2.1.311]]'
+- '[[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub
+  videos at scale with the Localization API]]'
 - '[[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿
   Improved UI accessibility. Screen reader and keyboard users can now move…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'

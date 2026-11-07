@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: de0e49260ee6658232d72ec271d34cc6586d6fefeda41b7c474609384ee9c508
+machine_hash: 6042b6fd243f158574e9e84475453bbb2a6a47529bbcbad826674669a5bb4e66
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -155,7 +155,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent Mode changes in rust-v0.140.0]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent mode is tracked per session, so it no longer carries over when you create…]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-3-agent-mode-changes-in-kimi-code-0-15-0|3 Agent Mode changes in Kimi Code 0.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

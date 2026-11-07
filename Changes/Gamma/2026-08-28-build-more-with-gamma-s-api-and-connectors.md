@@ -5,20 +5,20 @@ description: 'Gamma · 2026-08-28 · Apps and Integrations: Gamma’s API can no
   engagement analytics and comments, create multi-page gammas, and export existing
   work…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1254
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 17a8c4304ffde816d55b66e20e89a787611b5971bd9c659f8207e15c670d89a7
+machine_hash: 8217ee5ee90f49bdd0b5ab3fd0c826b04c183ee1ee7d54e99636aaa891411a96
 product: gamma
 product_name: Gamma
 record:
@@ -49,8 +49,8 @@ record:
   title: Build more with Gamma’s API and connectors
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat:
-  land the Canvas Extensions frontend (load pages, sidebar, customize)]]'
+- '[[Changes/Qoder/2026-08-27-improved-mcp-authorization-reconnection-and-state-synchronization|Improved
+  MCP authorization, reconnection, and state synchronization]]'
 - '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
   multiple Google accounts to ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Cursor · 2024-07-23 · Interface Experience: We''ve also added a 
   picker, arrow key navigation, and a model toggle to Composer. This release also
   patches a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 561
+  lag_days: 1927
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a83f35a4c91c101ce3957f3e218b2e87b28f8812f94ec59bace64ecfd69acf9e
+machine_hash: 0c739f8ee44870e30fe3f587e84740b35021809e85315bb54b54abe268032a3a
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
-  Sideways Scrolling in Settings]]'
 - '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
   Sidebar]]'
+- '[[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to
+  starred folders]]'
 - "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
   Styling Refactor]]"
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

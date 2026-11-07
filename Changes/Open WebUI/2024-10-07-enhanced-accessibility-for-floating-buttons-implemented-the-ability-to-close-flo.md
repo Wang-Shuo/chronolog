@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2987f0b72969c91d435bf5fa23fbfa825b9fe6f18bef826d3ae8c8abaa1f7ea4
+machine_hash: d3c203ff0461662415a551671e64010676ac30654798149ce18a80b6493c3661
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F527 Enhanced Accessibility for Floating Buttons**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-12-2-accessibility-and-localization-changes-in-0-8-1|2 Accessibility
-  and Localization changes in 0.8.1]]'
+- '[[Changes/Synthesia/2024-09-12-give-every-viewer-the-right-language-version-with-easy-switching-localized-capti|Watch
+  videos in any language with Multilingual Player]]'
 - "[[Changes/Open WebUI/2024-09-19-i18n-updates-enhanced-translations-for-chinese-ukrainian-russian-and-french-fost|\U0001F30D
   i18n Updates]]"
 - '[[Changes/Dify/2024-09-30-added-english-versions-for-customizable-model-scale-documentation-to-broaden-acc|Added

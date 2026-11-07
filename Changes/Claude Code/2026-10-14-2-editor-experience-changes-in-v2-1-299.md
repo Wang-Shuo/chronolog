@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-10-14 · Editor Experience: 2 changes in v2.1.
   — Added a one-time note when plan mode won''t ask before most edits or commands
   because…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a62200adb9766d60a00caff16424c10b85d53a7eecd9b2c2b24edae54dd7d76
+machine_hash: eaaeb9f181cd03d6c5f2ac283abc179e3b8bdca6f42d910ab8779ace29592f7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
-  editor tool no longer receives null in place of the text to replace from some models]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous
   /task JSON output now includes failed child error and lifecycle events…]]'
+- '[[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit
+  step]]'
 - '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
   Experience changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
@@ -103,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

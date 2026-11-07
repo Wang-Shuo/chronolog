@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'GitHub Copilot CLI · 2026-05-29 · Interface Experience: Reasoning effort
   picker respects model capabilities — options not supported by the model are no longer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1236
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 305f89fcd9f44e03b869c463449ea7a28b0cdd7fc0bf1983f92ab4b7d0a596ff
+machine_hash: cfb026db4c4978c0d2ec8322959dd56c4f3607921daa0a9840c2ad921c1cfbfc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: Reasoning effort picker respects model capabilities
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
-  Interface Experience changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-show-file-content-and-diff-in-write-and-edit-approval-prompts-and-open-them-in-a|Show
+  file content and diff in Write and Edit approval prompts, and open them…]]'
 - '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
   Kept session navigation working while prompt modes are open]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

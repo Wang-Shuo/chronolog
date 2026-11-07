@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'Suno · 2026-10-28 · Music Generation: Remix anything: Create covers,
   extensions, and mashups of songs from your library'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1040
+  lag_days: 2506
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f30e7c67001b57a6e3c102a731f1f484905b1d5b471bff421d72ac01c6fce94e
+machine_hash: 72a852cc6751683dacdfbd482280a50c49a218269032aecba5413b47bbdfdd78
 product: suno
 product_name: Suno
 record:
@@ -45,8 +45,8 @@ record:
     library'
   type: change
 related_changes:
-- '[[Changes/Suno/2026-10-15-shareable-workspaces-share-a-library-of-songs-that-you-can-share-across-a-team-o|Shareable
-  Workspaces Share a library of songs that you can share across a team]]'
+- '[[Changes/Synthesia/2026-10-21-preview-three-creative-directions-in-syren-before-generating-a-video-so-you-can|Choose
+  a creative direction with Moodboards]]'
 - '[[Changes/Suno/2026-10-23-iphone-duo-support-new-phone-same-suno-the-app-is-now-built-to-fit-the-iphone-du|Updates
   for Suno on iOS]]'
 - '[[Changes/Suno/2026-10-28-create-songs-conversationally-describe-it-in-plain-words-ideate-on-lyrics-and-st|Create
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

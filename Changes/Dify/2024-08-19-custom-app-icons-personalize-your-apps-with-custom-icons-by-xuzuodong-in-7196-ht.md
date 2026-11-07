@@ -4,20 +4,20 @@ date: '2024-08-19'
 description: 'Dify · 2024-08-19 · Apps and Integrations: **Custom App Icons**: Personalize
   your apps with custom icons by @xuzuodong in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 515
+  lag_days: 2075
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95e50cef8230d68804285b6f1cee4b8cbf9cf6649c02b2a43060c4542862a6d
+machine_hash: 71d267e56b9d70e2c9f4ec45fc5456568dbba088f5567c5f902483aeb5547522
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: '**Custom App Icons**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
-  and Integrations changes in 0.8.2]]'
 - "[[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|\U0001F527
   Non-Streaming Support for Functions Plugin]]"
+- '[[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple
+  charts to track everything]]'
 - "[[Changes/Open WebUI/2024-08-14-integration-testing-improvements-modified-how-cypress-integration-tests-detect-c|\U0001F6A7
   Integration Testing Improvements]]"
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

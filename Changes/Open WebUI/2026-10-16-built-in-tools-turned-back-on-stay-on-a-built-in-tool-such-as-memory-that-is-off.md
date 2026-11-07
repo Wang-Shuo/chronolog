@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 64a10d3700e9dd8e8a1ae83ea4d8c3bc541b075934e3a94cb477f44c4caf7e90
+machine_hash: 147242b1d3d617380fd3ee3160e63dbb1dd1044e424bc29630567a6a37ac2510
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,10 +61,10 @@ record:
     as Memory…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0
-  Memory in automations. Automations now get the memory tools when the user has…]]"
 - "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE
   Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]"
+- '[[Changes/Qoder/2026-10-14-remote-ssh-select-git-branches-in-remote-sessions-and-import-qoder-ide-task-hist|Remote
+  SSH: Select Git branches in remote sessions and import Qoder IDE task…]]'
 - '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
   can run independent read-only tools in parallel, including skill, memory…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'

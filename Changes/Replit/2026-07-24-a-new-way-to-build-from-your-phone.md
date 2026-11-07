@@ -4,20 +4,20 @@ date: '2026-07-24'
 description: 'Replit · 2026-07-24 · Voice and Audio: The Replit Mobile App has a refreshed
   home screen and simpler project navigation. Swipe between Agent, tasks, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1110
+  lag_days: 2937
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 44098a423941915518aae5051b1c8d4636764ea4848437eb0ce6743bb2a65165
+machine_hash: 5a37b91b235399c1a620543fb8f1995d19cb04c2f6f3b05982cc8f223b3a1537
 product: replit
 product_name: Replit
 record:
@@ -60,11 +60,12 @@ record:
   title: A new way to build from your phone
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-20-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Codex CLI/2026-07-21-7-voice-and-audio-changes-in-rust-v0-145-0|7 Voice
   and Audio changes in rust-v0.145.0]]'
 - '[[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT
   Voice in Work and Codex on desktop]]'
+- '[[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your
+  avatar still delivers the script in your face and voice, no camera required]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: replit_changelog
 theme: voice
@@ -97,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
+- Earlier: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-your-avatar-still-delivers-the-script-in-your-face-and-voice-no-camera-required|Your avatar still delivers the script in your face and voice, no camera required]]
 - Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

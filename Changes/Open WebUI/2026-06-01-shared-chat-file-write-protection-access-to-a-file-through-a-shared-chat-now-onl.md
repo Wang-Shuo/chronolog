@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-06-01 · Collaboration: \U0001F510 **Shared-cha
   write protection.** Access to a file through a shared chat now only grants read
   access, so users…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1104
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6008cab6513bd32879a79b9778dae68bc6e2ab12b9867d589e61f1392ce5953
+machine_hash: 35edd0193e74c116b0ff63b5c3a13b041f509db7c241313922844079bb72c4c5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,9 +48,9 @@ record:
     a shared chat now…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
-  changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
+- '[[Changes/Kimi Code/2026-05-29-relocate-shared-tool-service-typing-to-the-tool-support-layer|Relocate
+  shared tool service typing to the tool support layer]]'
 - '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
   project action buttons]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
@@ -107,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

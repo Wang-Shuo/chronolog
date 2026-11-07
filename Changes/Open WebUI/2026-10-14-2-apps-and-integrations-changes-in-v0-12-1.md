@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Apps and Integrations: 2 changes in v0
   — \U0001F5C3️ **File list for pipes and tools without attachments.** Pipes and tools
   now get an…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1301
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1635f1e76186d7b532ec4c14ee58bff5e047bfd62ae0a33b650d6759aa0df544
+machine_hash: 4e7e2682dffe57a4edc6cd285948f670fc7e14667898f1f463bf7e8b787f8ced
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Apps and Integrations changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
   Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Kimi Code/2026-10-14-2-apps-and-integrations-changes-in-kimi-code-2-2-0|2
+  Apps and Integrations changes in Kimi Code 2.2.0]]'
 - '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
   app to Bing Webmaster Tools]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -103,13 +103,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your app to Bing Webmaster Tools]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15 Apps and Integrations changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-3-apps-and-integrations-changes-in-qoder-0-4-7|3 Apps and Integrations changes in Qoder 0.4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

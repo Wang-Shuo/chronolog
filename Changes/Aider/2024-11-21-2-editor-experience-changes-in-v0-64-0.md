@@ -4,20 +4,19 @@ date: '2024-11-21'
 description: 'Aider · 2024-11-21 · Editor Experience: 2 changes in Aider v0.64.0 —
   Added [`/editor` command](https://aider.chat/docs/usage/commands.html) to open system…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 618
+  lag_days: 2202
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1223f3ec267a367c96e590255ef715d0925a3202dcef0075a1e8fb260eec9c33
+machine_hash: 63e211797ceec20b2992530e22cde8eebac7b830058efc1538f5d97ec8979023
 product: aider
 product_name: Aider
 record:
@@ -92,7 +91,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.64.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

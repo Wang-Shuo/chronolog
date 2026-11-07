@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5e1da236604ad49fc46d115b4719538c2cbad6c784014e4bd9b0fb5cd40a3978
+machine_hash: f29c69364a21f017261a3bfd894e6f90e6e2e9e18db228934f9f5f10a35c4f61
 product: runway
 product_name: Runway
 record:
@@ -48,10 +48,9 @@ record:
   title: Projects + Brand Kits in Agent
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes
-  in v0.55.1]]'
-- '[[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured
-  that local web servers started by the agent are reachable from your host machine]]'
+- '[[Changes/HeyGen/2026-08-11-why-it-matters|Why it matters]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-planner-agent-in-group-based-basic-plans-windows-mac-web-microsoft-365-copilot|Planner
+  Agent in group-based basic plans Windows, Mac, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
   Nemotron 3.5 Lightning((source link)]]'
 source_release: '[[Releases/Runway/runway-2026-08-11-2026-08-11-projects-brand-kits-in-agent-5c836b75|runway-2026-08-11-2026-08-11-projects-brand-kits-in-agent-5c836b75]]'

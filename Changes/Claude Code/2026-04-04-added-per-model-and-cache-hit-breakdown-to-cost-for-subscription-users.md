@@ -4,20 +4,20 @@ date: '2026-04-04'
 description: 'Claude Code · 2026-04-04 · Pricing Model: Added per-model and cache-hit
   breakdown to `/cost` for subscription users'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2824
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: d369dccd510fec4f15da92da961481ebbfc51d71f5b44f3db0941f111c801aab
+machine_hash: ea2ac0191870ba3bdc0828477913c34dcf70d9de78f401042f602310e0a27347
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added per-model and cache-hit breakdown to `/cost` for subscription users
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|\U0001F4CA
-  Metrics export interval configuration. Administrators can now control…]]"
 - '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
   in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
   Add usage-based business plan types @bwanner-oai]]'
+- '[[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on:
+  All plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934 Add usage-based business plan types @bwanner-oai]]
+- Earlier: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-available-on-all-plans-credits-required|Available on: All plans]]
 - Later: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated Model Picker with Pricing Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

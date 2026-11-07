@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-06-01 · Account and Access: 6 changes in v0.9.
   \U0001F3AB **Wildcard OAuth role mapping.** Administrators can now set \"\\*\" in
   the allowed OAuth…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2134
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6842c3d9bc998418a2ae59cc05b596605343ed95e99acb9f14d08832149a5130
+machine_hash: 3d481f6cdd59dc948ccd6b4497ea3c89a46a4c87e1c8c87126e4366e195f10df
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,8 +71,8 @@ record:
   title: 6 Account and Access changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
-  Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/Kimi Code/2026-05-26-4-account-and-access-changes-in-kimi-code-0-2-0|4
+  Account and Access changes in Kimi Code 0.2.0]]'
 - '[[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core
   DigitalOcean inference now uses your OAuth token directly instead of creating a
   MAK]]'
@@ -143,7 +144,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

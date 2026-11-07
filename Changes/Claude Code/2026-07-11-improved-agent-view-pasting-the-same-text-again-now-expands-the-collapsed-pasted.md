@@ -4,20 +4,20 @@ date: '2026-07-11'
 description: 'Claude Code · 2026-07-11 · Interface Experience: Improved agent view:
   pasting the same text again now expands the collapsed `[Pasted text #N]` placeholder…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1279
+  lag_days: 2645
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dd71dee290162183ece83ece28d03be948240c0d0d96eb1b3b3c02a0622a554f
+machine_hash: 8b7b4357349383f8f8263c835c46b35a8643cdc1d6398c9a693c7006fec01adb
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved agent view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
-  Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
   Interface Experience changes in v1.0.70]]'
+- '[[Changes/Kimi Code/2026-07-10-2-interface-experience-changes-in-kimi-code-0-23-4|2
+  Interface Experience changes in Kimi Code 0.23.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
-- Later: 2026-07-13 · Google Antigravity · [[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added support for attaching and rendering plain text (.txt) files in conversations…]]
+- Earlier: 2026-07-10 · Kimi Code · [[Changes/Kimi Code/2026-07-10-2-interface-experience-changes-in-kimi-code-0-23-4|2 Interface Experience changes in Kimi Code 0.23.4]]
+- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-web-add-workspaces-by-typing-an-absolute-path-directly-in-the-workspace-picker-s|web: Add workspaces by typing an absolute path directly in the workspace picker's…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

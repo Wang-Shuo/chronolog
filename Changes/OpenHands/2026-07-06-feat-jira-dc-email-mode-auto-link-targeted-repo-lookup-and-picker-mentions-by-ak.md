@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'OpenHands · 2026-07-06 · Interface Experience: feat(jira-dc): email-mode
   auto-link, targeted repo lookup, and picker mentions by @ak684 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2640
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db7e992fabd5dfe0d9ac89178c8a76200dcc72d8fe7ccab55cf3e378209d5d20
+machine_hash: 1656ea1e5248df899bc235d739ea7a89b85501af7f70e54662fd23511d9be624
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
-  Interface Experience changes in v1.0.68]]'
-- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
-  Experience changes in v0.10.2]]'
+- '[[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let
+  the web sidebar collapse an expanded workspace session list back to its first page]]'
 - '[[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed
   AskUserQuestion dialogs to no longer auto-continue by default]]'
+- '[[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert
+  the recent TUI transcript rendering changes to the original upstream behavior…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Earlier: 2026-07-04 · Kimi Code · [[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert the recent TUI transcript rendering changes to the original upstream behavior…]]
 - Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

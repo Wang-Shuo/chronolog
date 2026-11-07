@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'GitHub Copilot CLI · 2026-06-24 · Interface Experience: 2 changes in
   1.0.65 — Fullscreen timeline stays anchored when older content is trimmed'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2628
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7412f285f36eacf266f8799893e301b4acac642e97fc6c1531ef6de5fc54dd48
+machine_hash: efd0099fb413afec726222079acf402722004fff79dc133d9b83355108c777b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in v1.0.65
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
-  Interface Experience changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-stop-showing-unread-dots-on-cancelled-or-failed-sessions-in-the-web-sidebar|Stop
+  showing unread dots on cancelled or failed sessions in the web sidebar]]'
 - '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
   Experience changes in v2.1.187]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
@@ -89,13 +89,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.65
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11 Interface Experience changes in v1.0.64]]
-- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface Experience changes in v1.17.10]]
+- Later: 2026-06-24 · HeyGen · [[Changes/HeyGen/2026-06-24-the-result-is-a-ready-to-use-set-of-avatar-looks-that-actually-look-like-you-gen|The result is a ready-to-use set of avatar looks that actually look like you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

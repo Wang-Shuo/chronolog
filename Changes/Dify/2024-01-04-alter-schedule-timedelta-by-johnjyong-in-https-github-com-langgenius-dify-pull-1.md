@@ -4,20 +4,20 @@ date: '2024-01-04'
 description: 'Dify · 2024-01-04 · Automation and Scheduling: alter schedule timedelta
   by @JohnJyong in https://github.com/langgenius/dify/pull/1923'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 2
+  lag_days: 1569
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c003d7a3f0b14c73d2a6e725d4bcbe84cdae2902f27b3fbaade3eae45ab62901
+machine_hash: 7ad81b4c7c9fa705aa7ea00234da0468d84194727c9728a4722af033c37ac00c
 product: dify
 product_name: Dify
 record:
@@ -42,6 +42,9 @@ record:
   title: alter schedule timedelta
   type: change
 related_changes:
+- '[[Changes/Notion/2023-09-22-automate-workflows-in-a-database|Automate workflows
+  in a database]]'
+- '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
 - '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
   data clean schedule]]'
 source_release: '[[Releases/Dify/dify-2024-01-04-0-4-3-github-135822451-ebe2cf30|dify-2024-01-04-0-4-3-github-135822451-ebe2cf30]]'
@@ -81,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

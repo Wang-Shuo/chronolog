@@ -174,26 +174,39 @@ def parse_midjourney(product: dict, url: str, html: str) -> dict:
                    body_from_blocks(html_blocks(body)), url, plain(heading), url)
 
 
-def fetch_gamma(product: dict, limit: int | None) -> list[dict]:
+def fetch_canny_category(product: dict, limit: int | None, category: str | None = None) -> list[dict]:
     previous = []
     for pages in range(1, 1001):
-        payload = post_json(product["api_url"], {"pages": pages, "status": ["published"]})
+        query = {"pages": pages, "status": ["published"]}
+        if category:
+            query["type"] = category
+        payload = post_json(product["api_url"], query)
         result = payload.get("result", {})
         entries, more = result.get("entries"), result.get("hasNextPage")
         if not isinstance(entries, list) or not isinstance(more, bool):
-            raise ValueError("Gamma public changelog has an invalid pagination response")
+            raise ValueError("Canny public changelog has an invalid pagination response")
         ids = [entry.get("_id") for entry in entries]
         if (not all(ids) or len(set(ids)) != len(ids) or len(ids) <= len(previous)
                 or ids[:len(previous)] != previous):
-            raise ValueError("Gamma cumulative pages contain duplicate, missing or shifted entries")
+            raise ValueError("Canny cumulative pages contain duplicate, missing or shifted entries")
         releases = []
         for entry in entries:
             if entry.get("status") != "published" or entry.get("deleted"):
-                raise ValueError("Gamma returned an unpublished entry from its public feed")
+                raise ValueError("Canny returned an unpublished entry from its public feed")
             if not entry.get("urlName") or not entry.get("title"):
-                raise ValueError("Gamma entry has no public permalink or title")
+                raise ValueError("Canny entry has no public permalink or title")
+            if category and (category not in entry.get("types", [])
+                             or set(entry["types"]) - {"new", "improved", "fixed"}):
+                raise ValueError("Canny entry disagrees with its public type filter")
             url = official_url(product["url"] + "/", entry["urlName"])
             body = clean_markdown(entry.get("details", ""), url)
+            details = entry.get("details")
+            if (not body and product.get("title_only_notes") and isinstance(details, str)
+                    and (not details.strip() or re.fullmatch(r"\s*!\[[^\]]*\]\(https://[^)]+\)\s*", details))):
+                # Older Canny announcements may consist of a descriptive title
+                # and an image/video (or an explicitly empty body). Retain only
+                # the official title; never infer the media's contents.
+                body = entry["title"]
             # Canny's editor puts bold headings on separate lines.
             body = re.sub(r"(?m)^\*\*\s*\n([^*\n]+)\s*\n\*\*\s*$", r"### \1", body)
             body = re.sub(r"(?m)^\*\*([^*\n]+)\*\*\s*$", r"### \1", body)
@@ -202,7 +215,23 @@ def fetch_gamma(product: dict, limit: int | None) -> list[dict]:
         if not more or (limit is not None and len(releases) >= limit):
             return ordered(releases, limit)
         previous = ids
-    raise ValueError("Gamma pagination did not terminate")
+    raise ValueError("Canny pagination did not terminate")
+
+
+def fetch_canny(product: dict, limit: int | None) -> list[dict]:
+    if not product.get("canny_partition_by_type"):
+        return fetch_canny_category(product, limit)
+    # The public API caps cumulative requests at 50 pages. Its own public UI
+    # exposes these three update types; traverse each to its terminal page and
+    # reconcile overlapping entries by identity, checking the content agrees.
+    rows = {}
+    for category in ("new", "improved", "fixed"):
+        for row in fetch_canny_category(product, limit, category):
+            identity = row["release_id"]
+            if identity in rows and rows[identity] != row:
+                raise ValueError("Canny overlapping type archives disagree on an entry")
+            rows[identity] = row
+    return ordered(list(rows.values()), limit)
 
 
 def fetch_manus(product: dict, limit: int | None) -> list[dict]:
@@ -362,7 +391,7 @@ def fetch_trending_releases(product: dict, limit: int | None) -> list[dict]:
             # Sitemap order/lastmod do not establish publication order. Fetch all
             # posts before selecting a recent window.
             return ordered(list(pool.map(lambda url: parse_midjourney(product, url, get_text(url)), urls)), limit)
-    fetcher = {"gamma": fetch_gamma, "manus": fetch_manus,
+    fetcher = {"gamma": fetch_canny, "manus": fetch_manus,
                "openclaw": fetch_openclaw, "opencode": fetch_opencode}.get(kind)
     if fetcher is None:
         raise ValueError(f"Unsupported trending product feed: {kind}")

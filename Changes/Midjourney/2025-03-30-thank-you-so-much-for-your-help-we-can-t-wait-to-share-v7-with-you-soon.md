@@ -4,19 +4,20 @@ date: '2025-03-30'
 description: 'Midjourney · 2025-03-30 · Collaboration: Thank you so much for your
   help! We can''t wait to share V7 with you soon! ❤️ ❤️ ❤️'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 676
+  lag_days: 2270
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d37e43cf3e132e3d55045f231aac917896e0f0d7297896583e3c860bdde05c0b
+machine_hash: d34f8db28f8409cdc3f0fad896a7a432bdef596fa2c6389cea64200f665e414d
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,12 +44,12 @@ record:
   title: Thank you so much for your help!
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems,
-  your custom AI experts, are now available to more Gemini users at no cost]]'
-- '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
-  heard the issues you''ve shared with us and we''re working hard to fix them all]]'
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Notion/2025-03-26-make-better-forms-using-conditional-logic|Make better
+  Forms using conditional logic]]'
+- '[[Changes/Notion/2025-03-26-search-jira-with-notion-ai-beta|Search Jira with Notion
+  AI beta]]'
+- '[[Changes/Notion/2025-03-26-view-multiple-databases-on-one-page|View multiple databases
+  on one page]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-03-30-https-updates-midjourney-com-v7-rating-party-f7d39a13|midjourney-2025-03-30-https-updates-midjourney-com-v7-rating-party-f7d39a13]]'
 source_type: midjourney_changelog
 theme: collaboration
@@ -75,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
+- Earlier: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-view-multiple-databases-on-one-page|View multiple databases on one page]]
 - Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello community!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

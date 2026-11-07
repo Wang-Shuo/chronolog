@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27412269342c1325909b5719a2669f175f6875ebca89834eb8fdfb7151557c42
+machine_hash: e57e9c4f1b98276b345b0f289b198e9f15e42507b06f8984e22a31175595ea12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
-  Memory and Personalization changes in v2026.6.11]]'
 - '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
   Memory and Personalization changes in v0.10.2]]'
+- '[[Changes/Kimi Code/2026-07-02-release-pasted-images-and-streaming-timers-once-they-are-no-longer-shown-so-memo|Release
+  pasted images and streaming timers once they are no longer shown, so memory…]]'
 - '[[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team
   members with v0 edit access can manage team skills and memories without…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team members with v0 edit access can manage team skills and memories without…]]
-- Later: 2026-07-09 · Claude · [[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect with Claude]]
+- Later: 2026-07-08 · Kimi Code · [[Changes/Kimi Code/2026-07-08-progressive-tool-disclosure-select-tools-experimental-compaction-now-discards-th|Progressive tool disclosure (select_tools, experimental)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

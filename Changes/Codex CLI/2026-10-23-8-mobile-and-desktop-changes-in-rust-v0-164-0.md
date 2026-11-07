@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Codex CLI · 2026-10-23 · Mobile and Desktop: 8 changes in 0.164.0 —
   #53790 Fix cancellation of macOS user-verification prompts @bz-openai'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2903
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f3b5e8ae8cf03abb15e4cdffc2e53fa9fab03fcb6999bc3f7c26fe5bc956197
+machine_hash: 1bbd3f9387b8f722367f2c3d54d6495ceb91aca9aec3854266920420e522a410
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 8 Mobile and Desktop changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-431833|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-75a2b3|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux
+  desktop support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -119,14 +119,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-75a2b3|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
+- Earlier: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-linux-desktop-support-added-a-linux-arm64-desktop-version-and-improved-compatibi|Linux desktop support]]
 - Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

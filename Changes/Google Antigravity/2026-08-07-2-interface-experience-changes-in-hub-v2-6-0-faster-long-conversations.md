@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-08-07 · Interface Experience: 2 change
   HUB v2.6.0 — Faster long conversations, more reliable hooks and subagents — Improved
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23df873b096b606a603040836d6516ca19065bc3a3f4392720f4537f2ae57207
+machine_hash: 0836fbb77e7dd0db7c528d538eae33453256b615c381a10ecc34bd6af857edc6
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -93,13 +93,13 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
-- Later: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop Language names now stay native in the locale picker]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-avatar-management-identity-selection-redesign|Avatar management / identity-selection redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

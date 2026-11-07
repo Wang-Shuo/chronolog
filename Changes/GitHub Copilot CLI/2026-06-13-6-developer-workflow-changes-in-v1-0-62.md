@@ -4,19 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Developer Workflow: 6 changes in 1.0.62
   — Shell tool errors now explain when a shell ID was stopped, completed, or reclaimed'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7692847defe1f8e02256b6b7b078860e7a385c4d7d124f56fd024d9cd185db9c
+machine_hash: 101fd1b35414830ac44f9df1f4aa3f441a71a2dd058c79a643cf319cb175f377
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +54,10 @@ record:
   title: 6 Developer Workflow changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
-- '[[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer
-  Workflow changes in v1.17.0]]'
+- '[[Changes/Kimi Code/2026-06-12-stream-foreground-bash-stdout-and-stderr-while-commands-are-still-running|Stream
+  foreground Bash stdout and stderr while commands are still running]]'
+- '[[Changes/Kimi Code/2026-06-12-cancel-active-turns-during-session-shutdown-so-foreground-shell-commands-do-not|Cancel
+  active turns during session shutdown so foreground shell commands do not…]]'
 - '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
   Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
@@ -120,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

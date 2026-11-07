@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69c749d5222e85d1cfbfebbdd562fc06cfeb3e0bd09570a01cd18e770d1c5f80
+machine_hash: cabf8122f834eaad9364e10dba27a5c6ac678f1da53ca11847ee4dd2debeade5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes in v3.47.0]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-3-model-support-changes-in-rust-v0-79-0|3 Model Support changes in rust-v0.79.0]]
+- Later: 2026-01-06 · Descript · [[Changes/Descript/2026-01-06-choose-the-best-model-for-the-job|Choose the best model for the job]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

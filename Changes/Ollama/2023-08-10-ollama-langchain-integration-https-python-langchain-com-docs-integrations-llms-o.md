@@ -4,20 +4,20 @@ date: '2023-08-10'
 description: "Ollama · 2023-08-10 · Apps and Integrations: **Ollama \U0001F99C️\U0001F517
   LangChain Integration!** https://python.langchain.com/docs/integrations/llms/ollama"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 140
+  lag_days: 1700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f59cbb232e1d23d94a82e6af380c9e85dbabc151f2ee41c1093f4888a2030e2e
+machine_hash: a1193a7acff6c0c4b01b12187453a725cb46f97d2dcef27de30d01a354473d7e
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: "**Ollama \U0001F99C️\U0001F517 LangChain…"
   type: change
 related_changes:
-- "[[Changes/Dify/2023-07-14-chat-apps-can-be-embedded-into-webpages|Chat apps can
-  be embedded into webpages \U0001F4BB]]"
 - '[[Changes/Dify/2023-07-18-feat-add-ruby-sdk-by-crazywoola-in-https-github-com-langgenius-dify-pull-583|Feat/add
   ruby sdk]]'
 - '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
   robust extension handling]]'
+- '[[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations
+  and integration gallery]]'
 source_release: '[[Releases/Ollama/ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b|ollama-2023-08-10-v0-0-14-github-115991991-1d94f37b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
+- Earlier: 2023-08-08 · Notion · [[Changes/Notion/2023-08-08-new-integrations-and-integration-gallery|New integrations and integration gallery]]
 - Later: 2023-08-14 · Dify · [[Changes/Dify/2023-08-14-add-ruby-s-sdk-implement-code-by-benjaminx-in-https-github-com-langgenius-dify-p|Add Ruby's SDK implement code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

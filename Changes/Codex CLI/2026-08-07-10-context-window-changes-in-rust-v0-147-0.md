@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Context Window: 10 changes in 0.147.0 — Redact
   secrets and complete bearer tokens from displayed commands and replayed conversation…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3f722365b1355bb3daf0d351d780bc7c7527bb2c0bd0b506d5af1b93ea2a672
+machine_hash: 7406a5812853d44a761dce910c8d72c2e241f84dcec989d9cf09905f07f1ac45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,8 @@ record:
   title: 10 Context Window changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved
-  Stats panel to count cache tokens in its token totals, with a breakdown…]]'
+- '[[Changes/Kimi Code/2026-08-04-add-a-token-counting-config-section-when-a-provider-doesn-t-report-token-usage-s|Add
+  a token_counting config section]]'
 - '[[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover
   from running out of context instead of failing with a raw provider error]]'
 - '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
@@ -134,7 +134,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

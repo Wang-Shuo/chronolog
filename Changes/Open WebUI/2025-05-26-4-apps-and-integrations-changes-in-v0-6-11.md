@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-26 · Apps and Integrations: 4 changes in v0
   — \U0001F680 **Environment Variable: WEBUI_AUTH_TRUSTED_GROUPS_HEADER**: Now sync
   and manage user…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 795
+  lag_days: 2355
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35252c81601a4b32920b48ad3a850b344f227fdd84a4866d181e3c1e66ab5cdb
+machine_hash: b2da5ad234816897013747febc2f2e54868b8f7d01677058f66e526b0f788aef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

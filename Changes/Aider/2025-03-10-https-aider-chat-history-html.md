@@ -3,20 +3,20 @@ card_id: aider-2025-03-10-1e6b13
 date: '2025-03-10'
 description: 'Aider · 2025-03-10 · Interface Experience: https://aider.chat/HISTORY.html'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 791
+  lag_days: 2157
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5853abd8911f7d6056b8055dad6158fb490a6e73a1697a6fb6c2f4025532d278
+machine_hash: efbd0a03b7141862cc902e6746a701b438fe556ee194c25d0c517e23665bbb84
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,10 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
-  new Folders menu is available on both the Create and Organize pages]]'
-- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
-  Translation Updates]]"
+- '[[Changes/Descript/2025-02-25-descript-version-109-features-two-important-changes-to-terminology-that-coincide|Descript
+  Version 109 features two important changes to terminology that coincide…]]'
+- '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
+  tying all of these changes together, we’ve added a new Layout…]]'
 - '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
   edits just got easier!]]'
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

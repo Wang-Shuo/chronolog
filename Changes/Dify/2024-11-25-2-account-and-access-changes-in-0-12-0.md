@@ -4,20 +4,21 @@ date: '2024-11-25'
 description: 'Dify · 2024-11-25 · Account and Access: 2 changes in v0.12.0 — feat:
   Add support for TEI API key authentication by @kenwoodjw in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 606
+  lag_days: 1581
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f6d8392ab0b412264ba62fbc6a52d0e9124f89791e8246cf57a09213ff5f726
+machine_hash: cc794ab01cc5e2c8911ae22321a67d6fce7a845ff99fbd8a76074b3a7d67c3d3
 product: dify
 product_name: Dify
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.12.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

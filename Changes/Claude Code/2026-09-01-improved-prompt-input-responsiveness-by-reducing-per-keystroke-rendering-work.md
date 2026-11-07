@@ -4,20 +4,20 @@ date: '2026-09-01'
 description: 'Claude Code · 2026-09-01 · Reliability and Performance: Improved prompt
   input responsiveness by reducing per-keystroke rendering work'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1356
+  lag_days: 2843
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 198af5dabaa0e68e032c56a4f6534df0e51c3487b305b84203ae40d90f8b9359
+machine_hash: fb165520c680cd85d838bd8245259a2f812790893e9465a73a1535921fd49e33
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,12 @@ record:
     work
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]'
 - "[[Changes/Open WebUI/2026-08-31-large-tool-calls-stream-faster-through-anthropic-compatible-clients-when-a-strea|\U0001F9E0
   Large tool calls stream faster through Anthropic-compatible…]]"
 - "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2
+  Reliability and Performance changes in Qoder 0.1.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Earlier: 2026-08-31 · Qoder · [[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2 Reliability and Performance changes in Qoder 0.1.3]]
 - Later: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-overall-responsiveness|Overall responsiveness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

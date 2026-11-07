@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dbb3b9e7be926234871592429b30472173f7151986ba8b0c39c8ca47926b1a0
+machine_hash: eeeb0149fde4d93f97892df8dc982706d1bdc9515b65df89905122033c068d45
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
-  in v2.1.72]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit
+  with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]]'
 - '[[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes
   in v0.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-2-agent-mode-changes-in-v1-0-4|2 Agent

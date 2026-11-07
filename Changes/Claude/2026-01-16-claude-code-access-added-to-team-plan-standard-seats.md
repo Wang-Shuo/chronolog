@@ -4,19 +4,20 @@ date: '2026-01-16'
 description: 'Claude · 2026-01-16 · Collaboration: We’re now including Claude Code
   access with every Team plan standard seat. Refer to this article for more information…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 31916ad350550607b182456b576b788126ce186d36371a8052d1c2893427ed5e
+machine_hash: f1639a2e0311aa422dba9efc789cdd11fcd9be1a47244c03fb246e05137fc6a7
 product: claude
 product_name: Claude
 record:
@@ -43,8 +44,8 @@ record:
   title: Claude Code access added to Team plan Standard seats
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core
-  Extract external directory validation to shared utility to reduce code…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-connect-microsoft-365-copilot-with-guru-for-enhanced-insights-web-microsoft-365|Connect
+  Microsoft 365 Copilot with Guru for enhanced insights…]]'
 - '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
   changes in rust-v0.85.0]]'
 - '[[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-09-02'
 description: 'Google Antigravity · 2026-09-02 · Developer Workflow: Terminal split
   layouts are now preserved across window reloads.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1264
+  lag_days: 2913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a75c2f7adffc82c6142721e92a023299b2a3e7b25e202ef16e16597df73d6b8
+machine_hash: 41b96b0bde9e7390c391c57c959f15fd08d33884d25b8e4d24f55cda37eb471d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -82,13 +83,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]]
+- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2 Developer Workflow changes in Kimi Code 0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

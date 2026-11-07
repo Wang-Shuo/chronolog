@@ -4,19 +4,20 @@ date: '2026-03-17'
 description: 'Dify · 2026-03-17 · Developer Workflow: 8 changes in v1.13.1 — Added
   a new `export-app-messages` CLI command to export application messages and related…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1095
+  lag_days: 2744
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c01351b26a08db8e0445c49aa17ae2f1ea4a72593c354ebb6d55dd7ce1ab72a
+machine_hash: a4af178589a2746fede06443aae170f93611150ef971b29c05a60f757a75c2ff
 product: dify
 product_name: Dify
 record:
@@ -130,7 +131,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

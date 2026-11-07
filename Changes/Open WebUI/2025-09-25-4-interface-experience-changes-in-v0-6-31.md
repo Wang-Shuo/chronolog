@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-09-25 · Interface Experience: 4 changes in v0.
   — \U0001F310 Attach Webpage button was added to the message input menu, providing
   a user-friendly…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 990
+  lag_days: 2356
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1158bde1ee1646c0c4e6c55f217194006dca03f767f561bdf3e7b441b45e0b11
+machine_hash: 4816688e012cde19921a01f1c80a545c26502b93468c0d07736a2c542c70f01c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,9 @@ record:
   title: 4 Interface Experience changes in v0.6.31
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-5-interface-experience-changes-in-v0-6-29|5 Interface
-  Experience changes in v0.6.29]]'
-- '[[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat:
-  add circular scrolling to GotoAnything command menu]]'
+- '[[Changes/Descript/2025-09-24-recovery-process-improvements|Recovery Process Improvements]]'
+- '[[Changes/Descript/2025-09-24-these-new-controls-allow-you-to-optimize-for-your-internet-connection-by-selecti|These
+  new controls allow you to optimize for your internet connection by selecting…]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead|open-webui-2025-09-25-v0-6-31-github-250127383-773b3ead]]'
@@ -121,7 +120,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.31
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

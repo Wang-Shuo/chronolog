@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Lovable · 2026-06-18 · Apps and Integrations: Every project now has
   an [AI activity…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2743
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e201faf0a878f54793b9a89ecada32886d86212b8c65c4a78491dd0d69bdd2bd
+machine_hash: 4a7d4eae97d62da6f208af6f5bc31dd92a1559fdba205ced7f8fd4193c0d5f19
 product: lovable
 product_name: Lovable
 record:
@@ -56,11 +56,12 @@ record:
   title: Inspect your app's AI activity
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
 - '[[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps
   and Integrations changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
+- '[[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add
+  /reload suggestion in plugin-change hints]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -99,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17 Apps and Integrations changes in rust-v0.141.0]]
+- Earlier: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add /reload suggestion in plugin-change hints]]
 - Later: 2026-06-18 · Windsurf · [[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made MCP registry parsing more tolerant of old and inconsistent schemas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

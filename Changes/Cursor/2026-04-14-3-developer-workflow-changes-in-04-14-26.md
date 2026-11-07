@@ -4,19 +4,20 @@ date: '2026-04-14'
 description: 'Cursor · 2026-04-14 · Developer Workflow: 3 changes in CLI Debug Mode
   and /btw Support — The AskQuestion tool and Debug Mode now handle plaintext responses…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2772
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 100f76fe0434ce7c958c40eeabb22a2388a91969b743f44e126c19a98b0c2dd4
+machine_hash: 063dfb852befe723ed37f320869d3827ade1f20b03ba2359b28015794fa828c1
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +98,7 @@ Source: https://cursor.com/changelog/04-14-26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

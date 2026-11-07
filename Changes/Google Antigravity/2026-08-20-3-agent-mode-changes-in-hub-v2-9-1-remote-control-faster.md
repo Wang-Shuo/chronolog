@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 877f6babf4efea70f68d950a4fb97779441d86e4c631ea4eaceb1cc057311f26
+machine_hash: 8b777dbc7fc89404677960c5e1523078411236810b8fa7c641fdb20481255d60
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -95,7 +95,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.9.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent Mode changes in rust-v0.149.0]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
+- Later: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-2-agent-mode-changes-in-kimi-code-0-38-0|2 Agent Mode changes in Kimi Code 0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

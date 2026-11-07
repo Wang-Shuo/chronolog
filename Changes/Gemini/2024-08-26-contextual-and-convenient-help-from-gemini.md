@@ -5,20 +5,20 @@ description: 'Gemini · 2024-08-26 · Mobile and Desktop: What: On Android , Gem
   overlay offers convenient assistance when and where you need it. Activate by holding
   the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 531
+  lag_days: 2115
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7e53407acef0f4117779f824d34b4aa3bbf9d2733d6df85f8b7bd0addeb72f52
+machine_hash: 55263eb2204715f36b2bb42ca3dda38228c6a62befac669a4ed8aae68e9565f0
 product: gemini
 product_name: Gemini
 record:
@@ -52,10 +52,10 @@ record:
   title: Contextual and convenient help from Gemini
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
-- '[[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama
-  on Windows will now show better error messages if required files are missing]]'
+- '[[Changes/Descript/2024-07-31-file-upload-speed-boost-on-web|File upload speed
+  boost on Web]]'
+- '[[Changes/Descript/2024-08-14-flatten-tracks-on-web-and-desktop-preview|Flatten
+  Tracks on Web and Desktop preview]]'
 - "[[Changes/Open WebUI/2024-08-14-haptic-feedback-on-support-devices-android-devices-now-support-haptic-feedback-f|\U0001F933
   Haptic Feedback on Support Devices]]"
 source_release: '[[Releases/Gemini/gemini-2024-08-26-2024-08-26-b4a7fc10|gemini-2024-08-26-2024-08-26-b4a7fc10]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

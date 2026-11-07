@@ -4,20 +4,19 @@ date: '2024-01-23'
 description: 'Aider · 2024-01-23 · Editor Experience: 3 changes in v0.22.0 — Improvements
   for unified diff editing format.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 315
+  lag_days: 1899
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1feb3d4525b450263004ac0361727ea221fdfc24b62a28b69ae871e89c6d2585
+machine_hash: 1fe023aff3688f49418ac14e258121facdf06e58f78b4e238968de81890238cc
 product: aider
 product_name: Aider
 record:
@@ -44,12 +43,10 @@ record:
   title: 3 Editor Experience changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
-  button: We''ve added some polish to the "apply codeblock" experience in chat]]'
-- '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
-  lints: If the AI suggests a code change in chat that involves a made up code…]]'
 - '[[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add
   feature request copilot]]'
+- '[[Changes/Descript/2024-01-22-other-editor-changes|Other Editor Changes]]'
+- '[[Changes/Descript/2024-01-22-editor-updates|Editor Updates]]'
 source_release: '[[Releases/Aider/aider-2024-01-23-v0-22-0-github-138074488-8739a4f3|aider-2024-01-23-v0-22-0-github-138074488-8739a4f3]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,14 +81,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.22.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add feature request copilot]]
+- Earlier: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-editor-updates|Editor Updates]]
 - Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat: prompt IDE support change height]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

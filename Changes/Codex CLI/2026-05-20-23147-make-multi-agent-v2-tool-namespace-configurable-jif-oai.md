@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fbb7acdf5cbfa4dd67c581be52c4a94cb1492901de893150eef48236ec182fe9
+machine_hash: a3d64710f457d85444cf70de3d431bac4ee972802325c38435f8b4d269ce0d7e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#23147 Make multi-agent v2 tool namespace configurable @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-3-agent-mode-changes-in-1-14-2|3 Agent Mode changes in
-  1.14.2]]'
 - '[[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini
   Spark is your 24/7 personal AI agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent
   Mode changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-managing-your-tenant-with-sharepoint-admin-agent-web-sharepoint|Managing
+  your tenant with SharePoint Admin Agent Web (SharePoint)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent Mode changes in v1.0.49]]
+- Earlier: 2026-05-19 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-19-managing-your-tenant-with-sharepoint-admin-agent-web-sharepoint|Managing your tenant with SharePoint Admin Agent Web (SharePoint)]]
 - Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]
 <!-- chronolog:end -->
 

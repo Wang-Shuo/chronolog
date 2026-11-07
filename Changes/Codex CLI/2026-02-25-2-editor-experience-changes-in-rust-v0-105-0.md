@@ -4,20 +4,19 @@ date: '2026-02-25'
 description: 'Codex CLI · 2026-02-25 · Editor Experience: 2 changes in 0.105.0 — #12240
   fix(tui): queued-message edit shortcut unreachable in some terminals @fcoury'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1079
+  lag_days: 2663
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1219f8423342d8b001a2e393d9d8c78b4762e96813c31bf5e5668f459520a368
+machine_hash: 23132fa36575204962c664c632e553604f6067c6f1fa6353f79493d152bd7312
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -103,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

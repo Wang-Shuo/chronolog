@@ -4,19 +4,20 @@ date: '2024-03-05'
 description: 'Suno · 2024-03-05 · Collaboration: You can share playlists using their
   link. Only people with access to the link can see a playlist.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 286
+  lag_days: 1880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ec04ca84a5471da8b0998b8f5eefd23cda575ad3535786d0075ecc55a5ba87d
+machine_hash: f8ed0de74ee32a412d2b1b5f18f76618d882821b4ae85b80b32e91b38317a78b
 product: suno
 product_name: Suno
 record:
@@ -43,12 +44,12 @@ record:
   title: You can share playlists using their link
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
 - '[[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices
   with workspace]]'
 - '[[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We
   will start onboarding this team on Monday (1/29)]]'
+- '[[Changes/Synthesia/2024-02-06-we-are-excited-to-share-the-news-the-dialogue-feature-is-live-now-you-can-add-tw|Add
+  2+ avatars in the scene Dialogue Feature]]'
 source_release: '[[Releases/Suno/suno-2024-03-05-e-playlists-59145766|suno-2024-03-05-e-playlists-59145766]]'
 source_type: suno_changelog
 theme: collaboration
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-27 · Suno · [[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We will start onboarding this team on Monday (1/29)]]
+- Earlier: 2024-02-06 · Synthesia · [[Changes/Synthesia/2024-02-06-we-are-excited-to-share-the-news-the-dialogue-feature-is-live-now-you-can-add-tw|Add 2+ avatars in the scene Dialogue Feature]]
 - Later: 2024-03-14 · Gamma · [[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card notes and Presenter View]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

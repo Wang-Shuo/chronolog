@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4285c285a09d8d0f4730dab015b7bd2eacd0f24af3de3036d986b6665ee8172
+machine_hash: 36efc9b1cb7c1b24e1cf9f92d750d45acc3039f96948e80bb96bb81e63981ee3
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,11 +50,11 @@ record:
   title: 3 Agent Mode changes in v2.1.202
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
-  Mode changes in v1.0.68]]'
-- '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
-  Agent Skills]]'
+- '[[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent
+  Mode changes in Kimi Code 0.22.2]]'
 - '[[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]'
+- '[[Changes/Kimi Code/2026-07-04-wait-for-background-subagents-to-finish-and-respond-to-their-results-before-exit|Wait
+  for background subagents to finish and respond to their results before exiting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.202
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
+- Earlier: 2026-07-04 · Kimi Code · [[Changes/Kimi Code/2026-07-04-wait-for-background-subagents-to-finish-and-respond-to-their-results-before-exit|Wait for background subagents to finish and respond to their results before exiting…]]
 - Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-cli|CLI]]
 <!-- chronolog:end -->
 

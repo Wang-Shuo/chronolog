@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8aa2cdb6dfe53210d7f8d19091c00032a5c0f9c442ddb6a402486c4532cc2b44
+machine_hash: 3229662192246bfa225a629d3f6bb2bcbfcc2d671d84227d26317dafeefcc6b3
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
     working
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
-  elements]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
   Mode changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-use-a-fixed-30-minute-timeout-for-subagents-and-show-concise-resume-instructions|Use
+  a fixed 30-minute timeout for subagents and show concise resume instructions…]]'
 - '[[Changes/OpenCode/2026-06-05-core-added-skill-discovery-and-file-based-agent-loading|Core
   Added skill discovery and file-based agent loading]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'

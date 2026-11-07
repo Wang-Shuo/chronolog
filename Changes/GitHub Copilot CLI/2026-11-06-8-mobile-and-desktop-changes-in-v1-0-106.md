@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Mobile and Desktop: 8 changes in 1.0.106
   — PowerShell commands work on Windows when the CLI is installed in a long directory…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83c7a2114dc2d902da36444f0dce55f3ef30fd11bb2fcb351b1f0b4d7fddd209
+machine_hash: 2a1a55273b34faae5830336aba3805e63894bcd19fed4230c05d93bc57acb5fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 8 Mobile and Desktop changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps
-  accepted Talk work running when you end Talk on an Android phone connected…]]'
 - '[[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile
   and Desktop changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2
   Mobile and Desktop changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-3-mobile-and-desktop-changes-in-release-roundup-november-6-2026|3
+  Mobile and Desktop changes in Release roundup—November 6, 2026]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -131,14 +131,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2 Mobile and Desktop changes in rust-v0.167.0]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-3-mobile-and-desktop-changes-in-release-roundup-november-6-2026|3 Mobile and Desktop changes in Release roundup—November 6, 2026]]
 - Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-mobile-composer-dock|Mobile Composer Dock]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

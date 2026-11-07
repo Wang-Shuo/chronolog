@@ -4,19 +4,20 @@ date: '2025-08-06'
 description: 'Cursor · 2025-08-06 · Collaboration: AI code tracking API: Get commit-level
   visibility into AI usage and accepted changes across your team.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 805
+  lag_days: 2399
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c84836d332b05d0b4347bca03bf4c42ffc560c73a5357acf0b986a2a829921c0
+machine_hash: 2222f13c2de7e28d96c90f80b0c5716ebcdd6c799c8852004c2ece1a9933fcf3
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +43,10 @@ record:
   title: AI code tracking API
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
-  duplicated code for loading the protobuf descriptor set into a shared util file]]'
 - '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
   setup e2e tests to use shared mock server]]'
+- '[[Changes/Descript/2025-07-31-quick-share-multi-track-support|Quick Share & multi-track
+  support]]'
 - '[[Changes/Claude/2025-08-01-project-sharing|Project Sharing]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

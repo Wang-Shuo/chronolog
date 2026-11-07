@@ -5,19 +5,20 @@ description: 'OpenCode · 2026-05-10 · Developer Workflow: 2 changes in v1.14.4
   Terminal Startup errors now report every failed bootstrap request instead of only
   the first…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 184d933a07d4ab6e68bd79d45d72642429a43466d304619d413c4fa9b546b6b2
+machine_hash: b39f91db1662abbd441f9cd657f564bb127051247cbad87993fba528a31d358b
 product: opencode
 product_name: OpenCode
 record:
@@ -94,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.14.45
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

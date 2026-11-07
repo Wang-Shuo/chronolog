@@ -4,19 +4,20 @@ date: '2026-05-16'
 description: 'OpenCode · 2026-05-16 · Developer Workflow: 5 changes in v1.15.1 — Terminal
   Added a collapsed thinking view that can be expanded inline.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1155
+  lag_days: 2804
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4783c6cac5da2c5bbbab9ebb7daaf953a8eca2a00b2c98d229863488ba0eb135
+machine_hash: 7d2828e8b071cd94554dccca11df938d8da371557d4af7747459273abdb9c59e
 product: opencode
 product_name: OpenCode
 record:
@@ -99,7 +100,7 @@ Source: https://opencode.ai/changelog/v1.15.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-03-13'
 description: 'GitHub Copilot CLI · 2026-03-13 · Editor Experience: Syntax highlighting
   in /diff with support for 17 programming languages'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1095
+  lag_days: 2679
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3732531f70512ba412ada87b15db292996689fa125bf7b4d6361a6c272f47b27
+machine_hash: fdb4aa2c230499a09d83554c2c108ca5e9b2b0d543baa4e8e57dc392d0417013
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +44,8 @@ record:
   title: Syntax highlighting in /diff with support for 17 programming languages
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-images-in-powerpoint-with-designer-editor-windows-web-mac-powerpoint|Edit
+  images in PowerPoint with Designer Editor Windows, Web, Mac (PowerPoint)]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
 - '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

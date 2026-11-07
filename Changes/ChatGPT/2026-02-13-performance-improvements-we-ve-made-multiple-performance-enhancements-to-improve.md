@@ -4,20 +4,20 @@ date: '2026-02-13'
 description: 'ChatGPT · 2026-02-13 · Reliability and Performance: Performance improvements.
   We’ve made multiple performance enhancements to improve responsiveness and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1156
+  lag_days: 2643
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3caed9638bad166b248bad14e6f88268a1f58c3e0ed5da9b0c4a98a36e4b65d
+machine_hash: e3faf5b5d91fd5a0e4bcb0e258ae05f32d3be3b4df4193c5603c469c741bea1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Performance improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
-  Reliability and Performance changes in v0.8.0]]'
 - '[[Changes/OpenCode/2026-02-12-desktop-add-diff-virtualization-to-improve-performance-for-large-diffs|Desktop
   Add diff virtualization to improve performance for large diffs]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
+- '[[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed
+  for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]'
 scope: iOS
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple memory leaks]]
+- Earlier: 2026-02-12 · Z.ai API · [[Changes/Z.ai API/2026-02-12-designed-for-complex-system-engineering-and-long-range-agent-tasks-glm-5-shifts|Designed for complex system engineering and long-range Agent tasks, GLM-5 shifts…]]
 - Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce memory usage from encoding streaming chunks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

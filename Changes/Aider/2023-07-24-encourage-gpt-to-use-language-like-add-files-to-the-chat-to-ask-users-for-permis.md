@@ -4,20 +4,20 @@ date: '2023-07-24'
 description: 'Aider · 2023-07-24 · Safety and Privacy: Encourage GPT to use language
   like "add files to the chat" to ask users for permission to edit them.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 99
+  lag_days: 1091
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45461814c5c9602e53819ec53dab0b2c9f17a931e5dbf93ed02dd9766f8b0f3f
+machine_hash: af8915c72c2d58ad38e855b85e3ea185aa3fcba51a398b5fe0576b60cbecd193
 product: aider
 product_name: Aider
 record:
@@ -44,8 +44,9 @@ record:
   title: Encourage GPT to use language like "add files to the chat" to ask users…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-  mode for opting out of storing any kind of data on our servers]]'
+- '[[Changes/Notion/2023-04-27-2-step-verification-a-k-a-2fa-mfa|2-step verification
+  (a.k.a]]'
+- '[[Changes/Notion/2023-04-27-mention-groups|mention groups]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
 source_release: '[[Releases/Aider/aider-2023-07-24-v0-10-1-github-113366215-859a2687|aider-2023-07-24-v0-10-1-github-113366215-859a2687]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

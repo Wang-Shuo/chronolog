@@ -4,20 +4,20 @@ date: '2024-12-27'
 description: 'Replit · 2024-12-27 · Voice and Audio: Agent now sends you notifications
   when it''s done working—listen for the audio notification.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 536
+  lag_days: 2363
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f6e8ce80172dc0ddaaf5ba1349912d82df70f68294447958c5bedeacbc8575af
+machine_hash: b7b62d03b024dc27af11ffb65ad4c8c1533037a7c671b3bdb83a5678fbef974e
 product: replit
 product_name: Replit
 record:
@@ -57,10 +57,10 @@ record:
   title: Build notifications
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
-  now lets you edit the transcribed text before sending]]'
 - '[[Changes/Dify/2024-12-16-now-video-audio-and-pdf-file-previews-are-accessible-right-within-the-chat-simpl|Now,
   video, audio, and PDF file previews are accessible right within the chat…]]'
+- '[[Changes/Synthesia/2024-12-17-ten-small-ui-updates-that-make-everyday-editing-smoother-from-a-more-precise-col|10
+  improvements and fixes based on your feedback]]'
 - "[[Changes/Open WebUI/2024-12-27-text-to-speech-error-fixed-the-missing-argument-in-eleven-labs-get-available-voi|\U0001F399️
   Text-to-Speech Error]]"
 source_release: '[[Releases/Replit/replit-2024-12-27-2024-12-27-e5c636ef|replit-2024-12-27-2024-12-27-e5c636ef]]'
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

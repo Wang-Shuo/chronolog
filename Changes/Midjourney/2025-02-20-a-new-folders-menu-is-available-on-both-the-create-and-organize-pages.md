@@ -4,20 +4,20 @@ date: '2025-02-20'
 description: 'Midjourney · 2025-02-20 · Interface Experience: A new Folders menu is
   available on both the Create and Organize pages'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 773
+  lag_days: 2139
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: feb8eb8fe26b93b3f0a2f99bcb00e691cd85ddfd2ef7c28d2ede7c67898916c1
+machine_hash: 2a834b0f46035cb8c14b876e70e55eb1938495d4f47520b60c5e2d1e89b93fa6
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,8 +43,8 @@ record:
   title: A new Folders menu is available on both the Create and Organize pages
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
+- "[[Changes/Notion/2025-02-18-see-who-has-access-to-your-doc|See who has access to
+  your doc \U0001F440]]"
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
 - '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

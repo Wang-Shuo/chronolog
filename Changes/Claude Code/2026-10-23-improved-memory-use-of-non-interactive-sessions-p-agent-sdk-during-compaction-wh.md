@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Claude Code · 2026-10-23 · Reliability and Performance: Improved memory
   use of non-interactive sessions (`-p`, Agent SDK) during compaction when the transcript…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1408
+  lag_days: 2895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 91ad65bfc1dd50b924b66367f61d2762eb4cc76995386907f192a6168595cbee
+machine_hash: 90af70b92389c315bc75474e466d13e5ef9c32d609b78fcb259377492308da71
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
     compaction…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
-  Reliability and Performance changes in v2.1.304]]'
+- '[[Changes/Notion/2026-10-19-they-can-work-on-tasks-for-up-to-24-hours-and-chats-load-up-to-50-faster-on-mobi|They
+  can work on tasks for up to 24 hours]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
   Reliability and Performance changes in v2.1.309]]'
 - '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

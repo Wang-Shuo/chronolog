@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'Lovable · 2026-06-30 · Reliability and Performance: You can now ask
   Lovable to make AI features in your app respond faster. When you ask for lower latency…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2780
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ee00d7d8620eabb8a9adb76ea90cea6c332c47db12f858f29225192952cae60
+machine_hash: 888e5818c3799dcff211dac63476b6eb244a937536e90a21372e9e9f8a125d56
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Faster AI responses in your app with OpenAI priority processing
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
-  size mmproj offload by projector memory]]'
+- '[[Changes/Kimi Code/2026-06-29-upgrade-web-markdown-renderer-dependencies-katex-markstream-vue-shiki-for-bug-fi|Upgrade
+  web markdown renderer dependencies (katex, markstream-vue, shiki) for bug…]]'
 - '[[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6
   Reliability and Performance changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-06'
 description: 'Lovable · 2026-07-06 · Mobile and Desktop: The [Lovable desktop app](https://docs.lovable.dev/integrations/desktop-app.md)
   is now available on Windows…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2794
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: e5e0e8221a4d70056eedef61e30e99753c42c5b109f00a9e6fb94a6bc1014aee
+machine_hash: 63313d80c0d46944187f06050013fe2392b95c41e70d30a4709914b3a8509555
 product: lovable
 product_name: Lovable
 record:
@@ -48,11 +48,11 @@ record:
   title: Lovable Desktop app is now on Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
-  and Desktop changes in v1.17.13]]'
 - '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
   Desktop App]]'
 - '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3
+  Mobile and Desktop changes in Kimi Code 0.23.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-06-2026-07-06-2f81327c|lovable-2026-07-06-2026-07-06-2f81327c]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-3-mobile-and-desktop-changes-in-kimi-code-0-23-0|3 Mobile and Desktop changes in Kimi Code 0.23.0]]
 - Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile and Desktop changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

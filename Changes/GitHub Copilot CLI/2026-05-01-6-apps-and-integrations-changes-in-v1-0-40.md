@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-05-01 · Apps and Integrations: 6 chang
   1.0.40 — `copilot plugin list` shows the correct version after running `copilot
   plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d5b9684d86d8f807a5b8a0a377471da4f09ac863dd2931d518712880549ecad
+machine_hash: 5fd9b17be883a650cb367a071ffd55c8687f2c2d1b158afbd3e1f1d9a875990c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -114,13 +114,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
-- Later: 2026-05-01 · OpenCode · [[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]
+- Later: 2026-05-01 · Notion · [[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add Custom Agents to private Slack channels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-08-31 · Collaboration: 2 changes in v0.11.2 �
   **Smoother busy websocket servers.** Large Redis-backed websocket deployments now
   spend far…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 2789
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ecbb7a92c42d1115660f56311817ed96ec0929f3f3a95987575bd1d9c8e1b84
+machine_hash: b906d76fb160306ba424da5902fd903b71e22932225be5d5d94444c28f09e1e2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +51,8 @@ record:
   title: 2 Collaboration changes in v0.11.2
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
-  changes in v0.11.1]]'
+- '[[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An
+  ecosystem that connects]]'
 - '[[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve
   shipped a lot since our last update]]'
 - '[[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
@@ -104,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

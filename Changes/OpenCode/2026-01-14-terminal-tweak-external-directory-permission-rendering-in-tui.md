@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'OpenCode · 2026-01-14 · Safety and Privacy: Terminal Tweak external
   directory permission rendering in TUI'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1004
+  lag_days: 1996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d3713b5137a6db21bdd94294027a90ea33fec49cb22aa504b4d7a90277ea7fc
+machine_hash: cc77ec15040f31923d50975d87e10e0f5f22841fcb34f9be5c0d6ca0e877b7ba
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Terminal Tweak external directory permission rendering in TUI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
-  and Privacy changes in v2.1.7]]'
 - '[[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety
   and Privacy changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety
   and Privacy changes in v0.24.0]]'
+- '[[Changes/HeyGen/2026-01-14-what-s-new-a-new-guided-flow-lets-you-create-your-avatar-with-a-single-15-second|What''s
+  new: A new guided flow lets you create your avatar with a single 15-second…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-14-v1-1-19-fb9c869d|opencode-2026-01-14-v1-1-19-fb9c869d]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety and Privacy changes in v0.24.0]]
+- Earlier: 2026-01-14 · HeyGen · [[Changes/HeyGen/2026-01-14-what-s-new-a-new-guided-flow-lets-you-create-your-avatar-with-a-single-15-second|What's new: A new guided flow lets you create your avatar with a single 15-second…]]
 - Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert Linux sandboxing now falls back to Landlock-only restrictions when user…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

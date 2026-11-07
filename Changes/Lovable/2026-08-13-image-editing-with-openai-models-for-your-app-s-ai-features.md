@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f22b018229b899dbb036aef74db940ca71c360a81827c4629cae15e02c19381d
+machine_hash: 6217d6b2ab894d50a6ac5717fd61d9f424813ec6a69b44516bf086a11f907b28
 product: lovable
 product_name: Lovable
 record:
@@ -54,11 +54,11 @@ record:
   title: Image editing with OpenAI models for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
-  session compaction keep complete recent turns and produce clearer summaries…]]'
 - '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
   changes in v1.18.17]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
+- '[[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set
+  KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-13-2026-08-13-bf09d366|lovable-2026-08-13-2026-08-13-bf09d366]]'
 source_type: lovable_changelog
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
+- Earlier: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-set-kimi-code-experimental-secondary-model-1-or-the-master-flag-kimi-code-experi|Set KIMI_CODE_EXPERIMENTAL_SECONDARY_MODEL=1…]]
 - Later: 2026-08-13 · OpenCode · [[Changes/OpenCode/2026-08-13-core-fix-xhigh-reasoning-effort-for-xai-models|Core Fix xhigh reasoning effort for xai models]]
 <!-- chronolog:end -->
 

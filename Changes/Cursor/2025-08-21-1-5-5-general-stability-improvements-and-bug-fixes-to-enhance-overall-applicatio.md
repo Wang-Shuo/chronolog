@@ -4,20 +4,20 @@ date: '2025-08-21'
 description: 'Cursor · 2025-08-21 · Reliability and Performance: 1.5.5: General stability
   improvements and bug fixes to enhance overall application performance and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 980
+  lag_days: 2467
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bc860abd1df3e9921a27b38cd49eeacd719f4038a0724f0574995b4ff552fbc
+machine_hash: 1d441ae13a4c0c5dca9d3e95e97ec1ade1a50b725321010f3e0e4f0eb1210af7
 product: cursor
 product_name: Cursor
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-20 · Ollama · [[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2 Reliability and Performance changes in v0.11.6]]
-- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6 Reliability and Performance changes in v0.6.23]]
+- Later: 2025-08-21 · Descript · [[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing Templates—Your shortcut to professional videos with Underlord]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

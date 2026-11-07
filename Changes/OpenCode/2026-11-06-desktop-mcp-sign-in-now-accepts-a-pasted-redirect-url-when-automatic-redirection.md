@@ -4,20 +4,21 @@ date: '2026-11-06'
 description: 'OpenCode · 2026-11-06 · Account and Access: Desktop MCP sign-in now
   accepts a pasted redirect URL when automatic redirection is unavailable.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1317
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65cf20b2d480187ed7d445898cc4f894fb4f05174cb6f86f1d65f5368d738b51
+machine_hash: 562565ed5de30c483046980768ab302e7e8591d3060b0ae2f1c935de93f6adb9
 product: opencode
 product_name: OpenCode
 record:
@@ -52,8 +53,8 @@ record:
   title: Desktop MCP sign-in now accepts a pasted redirect URL when automatic redirection…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account
-  and Access changes in v2026.11.1]]'
+- '[[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH
+  and WSL: Improves connection management and workspace creation, including…]]'
 - '[[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5
   Account and Access changes in rust-v0.167.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-23-account-and-access-changes-in-v1-0-106|23
@@ -98,12 +99,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-23-account-and-access-changes-in-v1-0-106|23 Account and Access changes in v1.0.106]]
+- Later: 2026-11-06 · Qoder · [[Changes/Qoder/2026-11-06-website-sign-in-continuity-supported-website-pages-opened-from-a-signed-in-qoder|Website sign-in continuity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

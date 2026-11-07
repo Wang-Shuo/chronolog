@@ -3,20 +3,20 @@ card_id: codex-cli-2025-11-19-e37d26
 date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Pricing Model: Credits are now visible in `/status`.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2688
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fe7372c0cf5a5cab0ef1019c2d7ffedd521dadbec453fe8046afbd76ff0371fd
+machine_hash: 151833929c57ca0159f25ae62785210ea09e145f0f7af953a2a426afe614ea0b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Credits are now visible in `/status`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing
-  minor formatting issues in quota-and-pricing.md]]'
 - '[[Changes/ElevenLabs/2025-11-12-billing|Billing]]'
 - '[[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]'
+- '[[Changes/Descript/2025-11-13-prorated-charges-now-display-correctly|Prorated charges
+  now display correctly]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: pricing-model
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]
+- Earlier: 2025-11-13 · Descript · [[Changes/Descript/2025-11-13-prorated-charges-now-display-correctly|Prorated charges now display correctly]]
 - Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get user subscription((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-07-01'
 description: 'Gemini CLI · 2025-07-01 · Interface Experience: feat: Add markdown table
   rendering support by @heartyguy in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 904
+  lag_days: 2270
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 071130524b869d15308bd7ef308041effe25698f1fd8b923f3c179c24ee7cd6c
+machine_hash: 0f509db2685cf2eb2eec55dbb5d0265aa8ba7e8405f04f53d388c01f1c0a81d9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 'feat: Add markdown table rendering support'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
-  saving an video to share, please right click your video and press…]]'
-- '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
-  changes in 1.5.0]]'
+- '[[Changes/Descript/2025-06-26-storyboard-view-get-a-visual-overview-of-every-scene-in-your-composition-and-qui|Storyboard
+  view: Get a visual overview of every scene in your composition…]]'
+- '[[Changes/Descript/2025-06-26-improved-timeline-tools-access-tools-from-the-toolbar-by-toggling-on-advanced-ti|Improved
+  timeline tools: Access tools from the toolbar by toggling on Advanced…]]'
 - '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
   Experience changes in v0.85.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

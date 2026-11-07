@@ -4,19 +4,20 @@ date: '2025-01-10'
 description: 'Aider · 2025-01-10 · Developer Workflow: 5 changes in Aider v0.71.0
   — Turn off fancy input and watch files if terminal is dumb.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 664
+  lag_days: 2313
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c83e8389a55d3c13fd5a267098718bdde27249400bb6c04a99f5d9050cec8b3a
+machine_hash: 447e0626a1f9e48000a1f90fe29c1922af47b892c2d4a688355071c4a531c7a4
 product: aider
 product_name: Aider
 record:
@@ -103,7 +104,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

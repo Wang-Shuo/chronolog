@@ -5,20 +5,20 @@ description: 'Lovable · 2026-06-15 · Apps and Integrations: Two new app connec
   let your apps query data in Amazon S3 with SQL and run open-source AI models for
   image…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5edb55ba89e9b4c323869f13d78b2faa196a7ee9d1fe4c924df70df15117d270
+machine_hash: 33f3fcbc7b352e7d5ba62e99fca7108cac6a0fc89409204b879a911cc7e7ec75
 product: lovable
 product_name: Lovable
 record:
@@ -59,10 +59,10 @@ record:
   title: 'App connectors: AWS Athena and Replicate'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35
-  Apps and Integrations changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
+- '[[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3
+  Apps and Integrations changes in Kimi Code 0.15.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-15-2026-06-15-9835dce0|lovable-2026-06-15-2026-06-15-9835dce0]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-packages|Packages]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3 Apps and Integrations changes in Kimi Code 0.15.0]]
 - Later: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2025-03-13'
 description: 'Aider · 2025-03-13 · Developer Workflow: 2 changes in Aider v0.77.0
   — 130 new languages with linter support.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 726
+  lag_days: 2375
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ba0db76a1436e7d937374ba3e5510eb80e3b9887268324ccf18417f261ece82
+machine_hash: 7f34f0832fa04cfa926801507ea89dd86b588765fa91e783693dfc99434c52ab
 product: aider
 product_name: Aider
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.77.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

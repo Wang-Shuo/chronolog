@@ -4,20 +4,20 @@ date: '2025-11-27'
 description: 'Ollama · 2025-11-27 · Multimodal Input: [Mistral-Large-3](https://ollama.com/library/mistral-large-3):
   A general-purpose multimodal mixture-of-experts model…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 800
+  lag_days: 2568
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 786b500112dabcfa0bf7db8cacd5c330d0422189dd7d930e3ffefd2730c98dba
+machine_hash: 92f3931206795cb7fb703e82297971c4892583533001c1d1cbe67b8f3a671afe
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,10 @@ record:
   title: '[Mistral-Large-3](https://ollama.com/library/mistral-large-3): A general-purpose…'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
-  Embedding: Support richer content types beyond text]]'
-- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
-  more styles]]'
+- '[[Changes/Descript/2025-10-14-changing-camera-angles|Changing camera angles]]'
 - '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
   Input changes in v0.6.35]]'
+- '[[Changes/Descript/2025-11-21-extend-video-with-ai|Extend video with AI]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-27-v0-13-1-github-264480768-c0d77ba7|ollama-2025-11-27-v0-13-1-github-264480768-c0d77ba7]]'
 source_type: github_releases
 theme: multimodal
@@ -89,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal Input changes in v0.6.35]]
-- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input changes in 1.11.0]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-extend-video-with-ai|Extend video with AI]]
+- Later: 2025-11-29 · HeyGen · [[Changes/HeyGen/2025-11-29-we-ve-redesigned-how-video-translation-works-with-two-distinct-engines-built-for|We've redesigned how video translation works with two distinct engines built…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-04-24'
 description: "Open WebUI · 2024-04-24 · Interface Experience: **\U0001F4E6 Archived
   Chat Styling**: Fixed styling issues in archived chat."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 471
+  lag_days: 1837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 409c28b3b68f4d6a18044fd049870a16f63894e2ddf144d45baec13bfd1181f5
+machine_hash: a30c301eab5d56c719430ebdc0ad16d3f505762c7471107ac9116a0f627d60b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,11 @@ record:
   title: "**\U0001F4E6 Archived Chat Styling**: Fixed styling issues in archived chat"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-16-chore-improve-reference-variable-picker-user-experience-by-iamjoel-in-https-gith|chore:
-  improve reference variable picker user experience]]'
 - '[[Changes/Open WebUI/2024-04-16-2-interface-experience-changes-in-v0-1-119|2 Interface
   Experience changes in v0.1.119]]'
 - "[[Changes/Open WebUI/2024-04-21-archive-chat-feature-easily-archive-chats-with-a-new-sidebar-button-and-access-a|\U0001F4E6
   Archive Chat Feature]]"
+- '[[Changes/Descript/2024-04-23-range-selection-behavior|Range selection behavior]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-24-v0-1-121-github-152683529-10530e03|open-webui-2024-04-24-v0-1-121-github-152683529-10530e03]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-archive-chat-feature-easily-archive-chats-with-a-new-sidebar-button-and-access-a|📦 Archive Chat Feature]]
-- Later: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|🔍 Scroll Gesture Bug]]
+- Earlier: 2024-04-23 · Descript · [[Changes/Descript/2024-04-23-range-selection-behavior|Range selection behavior]]
+- Later: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-simplified-sidebar|Simplified sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-05-02'
 description: 'Dify · 2024-05-02 · Files and Data: optimize the knowledge failed documents
   query by @charli117 in https://github.com/langgenius/dify/pull/3870'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 343
+  lag_days: 1688
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a98db3848b77072cae60f1c6cfd8ea98f800e5d86d7e6db1409b0b205b03a1f4
+machine_hash: 0e846ef16a68fcfc87cfb9ce1f47b0d3ec938b83bde10e09b3e50346ff8fc0ef
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: optimize the knowledge failed documents query
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-feat-added-code-interpreter-tool-by-yeuoly-in-3557|feat:
-  Added Code Interpreter Tool by @Yeuoly in ♯3557]]'
 - '[[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes
   in 0.6.5]]'
 - '[[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful
   Diagrams]]'
+- '[[Changes/Notion/2024-04-30-import-pdfs-and-google-docs-finally|Import PDFs and
+  Google Docs (finally)]]'
 source_release: '[[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|dify-2024-05-02-0-6-6-github-153776816-f9d55236]]'
 source_type: github_releases
 theme: file-data
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-04-26 · Gamma · [[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful Diagrams]]
+- Earlier: 2024-04-30 · Notion · [[Changes/Notion/2024-04-30-import-pdfs-and-google-docs-finally|Import PDFs and Google Docs (finally)]]
 - Later: 2024-05-14 · Gemini · [[Changes/Gemini/2024-05-14-exclusive-to-gemini-advanced-document-upload|Exclusive to Gemini Advanced: Document Upload]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

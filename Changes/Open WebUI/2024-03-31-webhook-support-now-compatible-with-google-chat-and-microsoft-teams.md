@@ -4,19 +4,20 @@ date: '2024-03-31'
 description: "Open WebUI · 2024-03-31 · Collaboration: **\U0001F4AC Webhook Support**:
   Now compatible with Google Chat and Microsoft Teams."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 312
+  lag_days: 1906
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f72530c2583e0ab7570524b3cfac8fd512a629f103e438bc4d55db21369b81a8
+machine_hash: 5693c2f70a6b709f521efe49299e1314bd3a3201350b06322cfb239691ca15c9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +45,12 @@ record:
     Teams"
   type: change
 related_changes:
-- '[[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We
-  will start onboarding this team on Monday (1/29)]]'
 - '[[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You
   can share playlists using their link]]'
 - '[[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card
   notes and Presenter View]]'
+- '[[Changes/Descript/2024-03-19-we-released-a-backend-hotfix-to-address-a-bug-causing-descript-share-pages-load|We
+  released a backend hotfix to address a bug causing Descript Share pages load…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16|open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16]]'
 source_type: github_releases
 theme: collaboration
@@ -82,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-03-14 · Gamma · [[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card notes and Presenter View]]
+- Earlier: 2024-03-19 · Descript · [[Changes/Descript/2024-03-19-we-released-a-backend-hotfix-to-address-a-bug-causing-descript-share-pages-load|We released a backend hotfix to address a bug causing Descript Share pages load…]]
 - Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|🗨️ Local Chat Sharing: Share chat links seamlessly between users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

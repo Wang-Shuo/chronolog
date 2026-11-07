@@ -4,20 +4,19 @@ date: '2026-08-14'
 description: 'v0 · 2026-08-14 · Editor Experience: 2 changes in A redesigned sidebar,
   a richer deployment popover, and broader Usage and Activity access — Previews recover…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1249
+  lag_days: 2833
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b060f598c9d805d8bb134e6223207c81b261ed96baf8f2b6ca52fc05c36e8855
+machine_hash: 0ff6493e7e0b5c20c49dc57334b84d68e58f198efe8d4d474c74848e2172ad18
 product: v0
 product_name: v0
 record:
@@ -102,7 +101,7 @@ Source: https://v0.app/changelog#2026-08-14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

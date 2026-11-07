@@ -3,20 +3,21 @@ card_id: google-antigravity-2026-03-25-b34810
 date: '2026-03-25'
 description: 'Google Antigravity · 2026-03-25 · Account and Access: Improved MCP authentication'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2066
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 143e4da48ceef877891f584621167f0107054296ff42412970b5499d692fc4fa
+machine_hash: 4aca429819e838443f43018925980494822ce5109980f8e9a22c45e543cbb38f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -50,10 +51,10 @@ record:
   title: Improved MCP authentication
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
-  OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
   add authentication guide for remote subagents]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-faster-connector-authentication-setup-for-gong-github-and-monday-web-microsoft-3|Faster
+  connector authentication setup for Gong, GitHub, and Monday…]]'
 - '[[Changes/OpenCode/2026-03-24-added-poe-as-a-built-in-authentication-provider-with-oauth-and-api-key-support|Added
   Poe as a built-in authentication provider with OAuth and API key support]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-03-25-rel-ide-1-21-6-f3a90048|google-antigravity-2026-03-25-rel-ide-1-21-6-f3a90048]]'
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

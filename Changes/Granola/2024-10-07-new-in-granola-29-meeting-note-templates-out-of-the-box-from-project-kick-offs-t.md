@@ -5,20 +5,20 @@ description: 'Granola · 2024-10-07 · Meeting Notes: New in Granola: 29 meeting
   templates, out of the box. From Project Kick-Offs to Pipeline Reviews, we got ''em
   all.'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1196
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 154b91b10c85cf15d8e89922bbbd91e424de2c0fed14cb5fbc7d5181aa4c367f
+machine_hash: 8e6a345351017d9795c3e3140ab6a41b9884dc129b81ef61453c2124759ebaa4
 product: granola
 product_name: Granola
 record:
@@ -45,6 +45,13 @@ record:
   theme: meeting-notes
   title: 'New in Granola: 29 meeting note templates, out of the box'
   type: change
+related_changes:
+- '[[Changes/Notion/2022-03-15-databases-are-central-to-building-custom-workflows-in-notion-from-sprint-plannin|Databases
+  are central to building custom workflows in Notion]]'
+- '[[Changes/Notion/2022-10-12-dynamic-mentions-in-the-title-of-a-database-template|Dynamic
+  @mentions in the title of a database template]]'
+- '[[Changes/Notion/2022-11-08-set-up-recurring-tasks-meeting-notes-and-more-with-repeating-database-templates|Set
+  up recurring tasks, meeting notes, and more with repeating database templates]]'
 source_release: '[[Releases/Granola/granola-2024-10-07-https-www-granola-ai-updates-upgraded-meeting-note-templates-d58ad07d|granola-2024-10-07-https-www-granola-ai-updates-upgraded-meeting-note-templates-d58ad07d]]'
 source_type: granola_changelog
 theme: meeting-notes
@@ -71,13 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Later: 2025-07-14 · Granola · [[Changes/Granola/2025-07-14-team-folders-a-new-way-to-share-context-quickly-with-your-team-and-ask-questions|Team Folders: a new way to share context quickly with your team and ask questions…]]
+- Earlier: 2022-11-08 · Notion · [[Changes/Notion/2022-11-08-set-up-recurring-tasks-meeting-notes-and-more-with-repeating-database-templates|Set up recurring tasks, meeting notes, and more with repeating database templates]]
+- Later: 2025-02-18 · Notion · [[Changes/Notion/2025-02-18-workflows-in-one-click|Workflows in one click]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

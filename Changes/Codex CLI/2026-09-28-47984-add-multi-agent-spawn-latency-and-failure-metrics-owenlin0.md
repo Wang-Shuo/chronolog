@@ -4,20 +4,20 @@ date: '2026-09-28'
 description: 'Codex CLI · 2026-09-28 · Reliability and Performance: #47984 Add multi-agent
   spawn latency and failure metrics @owenlin0'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1383
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 527f2109f5d8ea1a83ba77d3f6500ef523932a128b965798077d90b4992edce5
+machine_hash: 292c5d4cfeda684069b9fbd2940c1f60e7774be956867d802a2a61a662516b75
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: '#47984 Add multi-agent spawn latency and failure metrics @owenlin0'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
-  Reliability and Performance changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved
+  resolution options for generated B-roll]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved
   startup time and memory use by building only the parts of the settings…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2023-11-22'
 description: 'Cursor · 2023-11-22 · Editor Experience: Experimental feature: go to
   "More" > "Interpreter Mode" to enable it. Gives the model access to a Python notebook…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 253
+  lag_days: 1837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9391b29dbf7756af0f3f3a42d75eb3581100e40c5401c7ff1b222ea12ce6c32a
+machine_hash: 7b36597c2888b93b2ee862fe8e1941a0b93356a687ea7ffe8a55411d4d48e94f
 product: cursor
 product_name: Cursor
 record:
@@ -58,11 +57,10 @@ record:
   title: 'Experimental feature: go to "More" > "Interpreter Mode" to enable it'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
-  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply
   chat suggestions]]'
 - '[[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]'
+- '[[Changes/Descript/2023-11-15-ai-script-rewriter|AI Script Rewriter]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46|cursor-2023-11-22-0-16-3-nightly-https-cursor-com-changelog-0-16-3-nightly-03172b46]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -89,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]
+- Earlier: 2023-11-15 · Descript · [[Changes/Descript/2023-11-15-ai-script-rewriter|AI Script Rewriter]]
 - Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-interpreter-mode-beta-you-can-now-enable-interpreter-mode-in-the-more-tab-this-g|Interpreter Mode Beta: You can now enable Interpreter Mode in the "More" tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

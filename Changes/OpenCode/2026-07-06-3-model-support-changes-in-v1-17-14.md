@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc80327bb209fdd54069b80ef3765d32152fc0dfa42d55947a539b7e61d6eb99
+machine_hash: 9bc9a27a61329152040bab1eb363a67f2b934b345b214b9511c78185d8b5cf8e
 product: opencode
 product_name: OpenCode
 record:
@@ -48,8 +48,9 @@ record:
   title: 3 Model Support changes in v1.17.14
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
+- '[[Changes/Kimi Code/2026-07-06-3-model-support-changes-in-kimi-code-0-23-0|3 Model
+  Support changes in Kimi Code 0.23.0]]'
 - '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-06-v1-17-14-6f861196|opencode-2026-07-06-v1-17-14-6f861196]]'
 source_type: opencode_changelog

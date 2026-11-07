@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e39146b94a73dcce7ab88639a64493d738502bf09ac1ebe64f2f09a9ff9a2b60
+machine_hash: 7e1d117b48b82d4459f5463b08a8af0154cb296701413baacd01378185d3b44d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,10 +53,11 @@ record:
   title: 5 Model Support changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]'
 - '[[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models
   to Ollama App]]'
 - '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
+- '[[Changes/Z.ai API/2026-04-07-it-demonstrates-stronger-engineering-intelligence-across-autonomous-planning-sus|It
+  demonstrates stronger engineering intelligence across autonomous planning…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'
 source_type: github_releases
 theme: model-support
@@ -105,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-07 · Windsurf · [[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]
+- Earlier: 2026-04-07 · Z.ai API · [[Changes/Z.ai API/2026-04-07-it-demonstrates-stronger-engineering-intelligence-across-autonomous-planning-sus|It demonstrates stronger engineering intelligence across autonomous planning…]]
 - Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core Kept model variants scoped to the selected model]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-09-21'
 description: "Open WebUI · 2026-09-21 · Files and Data: 10 changes in v0.11.4 — \U0001F9D7
   **Tagged blocks while streaming.** A reply using reasoning, solution or code interpreter…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1215
+  lag_days: 2560
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a48e5d5dfbff3f585df603d13f0452ca9dce19d65ed8b46b5f42e423eeaf5ca
+machine_hash: 937e2b8ed872312a1fa0f5b5f5a8eff725aa71de340ceba26a613f28f7493256
 product: open-webui
 product_name: Open WebUI
 record:
@@ -166,7 +166,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

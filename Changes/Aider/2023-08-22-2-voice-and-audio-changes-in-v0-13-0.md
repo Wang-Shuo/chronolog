@@ -4,20 +4,20 @@ date: '2023-08-22'
 description: 'Aider · 2023-08-22 · Voice and Audio: 2 changes in v0.13.0 — Send chat
   history as prompt/context for Whisper voice transcription'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 43
+  lag_days: 1870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b36818c9144920f73989a65db2fa285b4b62f79b09fd06fbffcbceeb39de2d25
+machine_hash: 95c638186302eb7d183dd98a337fff3131444587237e1061d644159ecd5817a9
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Voice and Audio changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Dify/2023-07-14-convert-audio-wav-to-mp3-by-zxhlyh-in-https-github-com-langgenius-dify-pull-552|convert
-  audio wav to mp3]]'
 - '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
   api add speech to text]]'
+- '[[Changes/Descript/2023-08-10-other-tweaks-fixes|Other tweaks & fixes]]'
 - '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
   link) support, which allows you…]]'
 source_release: '[[Releases/Aider/aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a|aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a]]'
@@ -84,13 +83,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.13.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
-- Later: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Later: 2023-08-22 · Descript · [[Changes/Descript/2023-08-22-using-overdub-regenerate-with-videos-overdub-https-help-descript-com-hc-en-us-ar|Using Overdub & Regenerate with Videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

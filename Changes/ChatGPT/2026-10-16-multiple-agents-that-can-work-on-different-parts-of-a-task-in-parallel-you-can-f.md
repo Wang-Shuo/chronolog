@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 160589af74b0f5e04208305315678f645514b60e94f6e4b349ad91f15c3f43ac
+machine_hash: 1a7b53068eba4d8d6416730a15e3248c4c3fd63d1b148d3970f09aed3f9b504e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Multiple agents that can work on different parts of a task in parallel
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
-  compact sibling, Nemotron 3.5…]]'
+- '[[Changes/Qoder/2026-10-14-agent-teams-now-available-in-the-personal-edition-create-your-own-agent-team-wit|Agent
+  Teams: Now available in the personal edition]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
 - '[[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type

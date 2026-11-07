@@ -4,20 +4,20 @@ date: '2025-09-11'
 description: 'Ollama · 2025-09-11 · Reliability and Performance: 3 changes in v0.11.11
   — Improved memory usage when using gpt-oss in Ollama''s app'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1001
+  lag_days: 2488
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b502dbc58ea826cb74147ae0782625af881e4d71473736ce57ab37935f109e30
+machine_hash: e87f948faa07ab5fda08c2277c7b535842734d445164c76343a0c0f0856df488
 product: ollama
 product_name: Ollama
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.11.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-08-25 · Collaboration: 6 changes in v0.11.1 �
   **Folder permissions when starting a chat.** Starting a conversation filed into
   a folder now…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1189
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c870aa760435429532975f44d8cc6a2a977804bb8872c243df4ccea858bfde34
+machine_hash: e0dc97432101ecde91297216ada2b16e055a898f4ae03d284f8adcefde883919
 product: open-webui
 product_name: Open WebUI
 record:
@@ -138,13 +139,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes in 1.17.0]]
-- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve shipped a lot since our last update]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An ecosystem that connects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

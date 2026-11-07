@@ -4,20 +4,20 @@ date: '2024-02-09'
 description: 'Runway · 2024-02-09 · Reliability and Performance: You with a large
   number of assets have significantly faster loading times.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 421
+  lag_days: 1908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23373ab3775ffa5f8e215031309ed3f68af7ab16eba7b6ded6034bbce3c32783
+machine_hash: 59af4f492ac87a619d259a92831465b98b2f0ce69102eb1c26640ea0ff9473e2
 product: runway
 product_name: Runway
 record:
@@ -41,12 +41,11 @@ record:
   title: Assets page is ~1.5x faster
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
-  performance improvements]]'
 - '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
   Diffs" from chat should be a bit faster]]'
 - '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
   making API requests, the new keep_alive parameter can be used to control how…]]'
+- '[[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]'
 source_release: '[[Releases/Runway/runway-2024-02-09-2024-02-09-assets-page-is-1-5x-faster-dc9e2539|runway-2024-02-09-2024-02-09-assets-page-is-1-5x-faster-dc9e2539]]'
 source_type: runway_changelog
 theme: reliability-performance
@@ -73,14 +72,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When making API requests, the new keep_alive parameter can be used to control how…]]
+- Earlier: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-ai-action-updates|AI Action Updates]]
 - Later: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref: optimize add hit count query performance when dataset hit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

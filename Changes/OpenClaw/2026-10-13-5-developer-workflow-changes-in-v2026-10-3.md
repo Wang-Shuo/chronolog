@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-13 · Developer Workflow: 5 changes in v2026.1
   — Doctor during updates. Doctor can continue after a later process check fails when
   it…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1305
+  lag_days: 2954
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c05298c42d84edc1916907246eaae6ccd9fc2d3c0b8a7de08e1ef2891358c5b7
+machine_hash: 67e15d531d6bb30e562d0b5a6f93e5ccf8b933bd4aae41c07b5c5d716c1d05c5
 product: openclaw
 product_name: OpenClaw
 record:
@@ -130,7 +131,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

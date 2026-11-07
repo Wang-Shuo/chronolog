@@ -4,20 +4,19 @@ date: '2026-04-08'
 description: 'OpenCode · 2026-04-08 · Editor Experience: Core Aligned GitHub Copilot
   Anthropic reasoning levels and removed incorrect Qwen variants.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1121
+  lag_days: 2705
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb115ee9971512da65f67ae2c805c0d7f8b771334dbcf29891d43686ab9f27b7
+machine_hash: 0094af95ce4b19a6835e05bb1d492c66d92c9cc598ebe45ae2ac92cfff421105
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +44,8 @@ record:
     Qwen variants
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline
-  no longer goes blank when content shrinks…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-copilot-adoption-report-updated-with-streamlined-ux-and-power-user-insights-web|Copilot
+  adoption report updated with streamlined UX and power user insights…]]'
 - '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
   Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli):
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

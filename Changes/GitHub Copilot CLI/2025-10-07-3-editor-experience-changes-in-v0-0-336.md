@@ -4,20 +4,19 @@ date: '2025-10-07'
 description: 'GitHub Copilot CLI · 2025-10-07 · Editor Experience: 3 changes in 0.0.336
   — Enabled proxy support via HTTPS_PROXY/HTTP_PROXY environment variables regardless…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2522
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d38d3eafc65c50588b4ca8465eef2e388b533fdde3cfe645459ca31661d15c3
+machine_hash: 30f4d48186a23c1f1ddc607ecf67907e1f3ce66b4a5ac94dc54025373da1ad98
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,9 +45,9 @@ record:
   title: 3 Editor Experience changes in v0.0.336
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3
-  Editor Experience changes in v0.0.335]]'
 - '[[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]'
+- '[[Changes/Synthesia/2025-10-06-we-ve-made-several-improvements-in-the-editor-and-we-know-that-details-matter-th|8
+  nice improvements and fixes in the Editor]]'
 - '[[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor
   Experience changes in v0.8.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f|github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f]]'
@@ -96,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.336
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

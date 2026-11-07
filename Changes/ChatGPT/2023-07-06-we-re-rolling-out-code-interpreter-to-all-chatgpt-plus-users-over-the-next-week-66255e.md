@@ -4,20 +4,20 @@ date: '2023-07-06'
 description: 'ChatGPT · 2023-07-06 · Files and Data: We’re rolling out code interpreter
   to all ChatGPT Plus users over the next week.It lets ChatGPT run code, optionally…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 42
+  lag_days: 1387
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 89c9be5aab9425ffec6bd455b59cf7885de92bf2fbc0f86b51db65376c0b25d7
+machine_hash: 32a9637155cff2951974f20df70b35a67b206a8095a006defffc2ac292f7f4e7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,12 @@ record:
   title: Code interpreter is now rolling out in beta on web
   type: change
 related_changes:
-- '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes
-  in 0.2.2]]'
 - '[[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard
   codes for you for improved math and data analysis]]'
+- '[[Changes/Descript/2023-06-13-change-layer-order-from-timeline-to-change-the-visual-layer-order-from-the-timel|Change
+  layer order from timeline]]'
+- '[[Changes/Descript/2023-06-13-flip-you-can-now-flip-videos-and-images-vertically-or-horizontally-https-help-de|Flip:
+  You can now flip videos and images vertically…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0|chatgpt-2023-07-06-code-interpreter-is-now-rolling-out-in-beta-on-web-427b9bc0]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -82,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-06-07 · Gemini · [[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard codes for you for improved math and data analysis]]
+- Earlier: 2023-06-13 · Descript · [[Changes/Descript/2023-06-13-flip-you-can-now-flip-videos-and-images-vertically-or-horizontally-https-help-de|Flip: You can now flip videos and images vertically…]]
 - Later: 2023-07-17 · Dify · [[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add document limit check]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

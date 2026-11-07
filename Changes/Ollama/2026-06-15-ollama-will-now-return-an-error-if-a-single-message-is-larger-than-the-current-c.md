@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Ollama · 2026-06-15 · Context Window: Ollama will now return an error
   if a single message is larger than the current context window'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 2462
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 715ac3f1014dd9cdb987e8a728ac4e8aa99e2fdb67204d6553b4b579fed35d7a
+machine_hash: b35d34c7566a985dc7b0c4ba03acb468a76b438d3fe156e13736141d55659d3e
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: Ollama will now return an error if a single message is larger than the current…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved
-  prompt caching by decoupling it from context shift for better KV cache reuse]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
   max_output_tokens for BYOK Responses providers]]'
 - '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
   Window changes in rust-v0.140.0]]'
+- '[[Changes/Kimi Code/2026-06-15-2-context-window-changes-in-kimi-code-0-15-0|2 Context
+  Window changes in Kimi Code 0.15.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-15-v0-30-9-github-339321705-3fe24316|ollama-2026-06-15-v0-30-9-github-339321705-3fe24316]]'
 source_type: github_releases
 theme: context-window
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context Window changes in rust-v0.140.0]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context Window changes in rust-v0.141.0]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-2-context-window-changes-in-kimi-code-0-15-0|2 Context Window changes in Kimi Code 0.15.0]]
+- Later: 2026-06-16 · Kimi Code · [[Changes/Kimi Code/2026-06-16-remove-redundant-llm-request-logging-context-plumbing|Remove redundant LLM request logging context plumbing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

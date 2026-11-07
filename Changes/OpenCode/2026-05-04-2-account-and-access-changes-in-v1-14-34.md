@@ -4,20 +4,21 @@ date: '2026-05-04'
 description: 'OpenCode · 2026-05-04 · Account and Access: 2 changes in v1.14.34 —
   Core Allow Codex Spark models when signing in with Codex OAuth.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1131
+  lag_days: 2106
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16d1525d820daa73790fcb9a2901cdbd640db406b9f3c093c211d74589461989
+machine_hash: 4beb251dc96b6f502fd256e0e3b677003b4ace9b3d7ffec4f6c992d796218d0b
 product: opencode
 product_name: OpenCode
 record:
@@ -94,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.14.34
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

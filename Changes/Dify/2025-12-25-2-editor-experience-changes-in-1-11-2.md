@@ -4,20 +4,19 @@ date: '2025-12-25'
 description: 'Dify · 2025-12-25 · Editor Experience: 2 changes in v1.11.2 — refactor:
   split changes for api/controllers/web/completion.py by @asukaminato0721 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1017
+  lag_days: 2601
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2112300efac51258966ace4ab26d80099d430258f7010fe492fba98778a1e95
+machine_hash: 045010b96fb717fd4dfe9ae36ffa079c1eec5847d5186210e209b96cbe4d6bc5
 product: dify
 product_name: Dify
 record:
@@ -100,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

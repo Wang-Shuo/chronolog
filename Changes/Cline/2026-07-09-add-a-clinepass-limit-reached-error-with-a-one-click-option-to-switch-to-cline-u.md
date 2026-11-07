@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'Cline · 2026-07-09 · Pricing Model: Add a ClinePass limit-reached error
   with a one-click option to switch to Cline usage-based billing.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1302
+  lag_days: 2920
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 679324e002c50bb4f5605763511f0e4066b19db672bc2a67cbac2554e1194d62
+machine_hash: 070a9e4b1a3aa636ba180bd891a7cef11a937e596e211b8ecd2f1488b002a4a1
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,11 @@ record:
     Cline…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve
-  /chronicle cost-tips with more precise evidence-backed recommendations]]'
 - '[[Changes/v0/2026-07-07-deprecations|Deprecations]]'
 - '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
   codex suppress low usage remaining warnings when credits are available…]]'
+- '[[Changes/HeyGen/2026-07-08-billing-plan-switches-pauses-cancellations-resumptions|Billing
+  — plan switches, pauses, cancellations, resumptions]]'
 source_release: '[[Releases/Cline/cline-2026-07-09-v4-0-7-github-351278875-29c28c0c|cline-2026-07-09-v4-0-7-github-351278875-29c28c0c]]'
 source_type: github_releases
 theme: pricing-model
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593 codex suppress low usage remaining warnings when credits are available…]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-billing-plan-switches-pauses-cancellations-resumptions|Billing — plan switches, pauses, cancellations, resumptions]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit reset credits now show their type and expiration, and let you choose…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

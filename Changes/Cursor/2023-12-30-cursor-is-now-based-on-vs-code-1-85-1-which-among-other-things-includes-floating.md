@@ -5,20 +5,19 @@ description: 'Cursor · 2023-12-30 · Editor Experience: Cursor is now based on 
   1.85.1, which, among other things, includes floating editor windows. Just drag and
   drop…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 291
+  lag_days: 1875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ada5ae44a07db3e98c13fb693de4bb27501b44df49fc80e56977efad22574c69
+machine_hash: 553e30f1d9f8c9ae985c897b85343d6dba1f842cf46691d0a5eef37429125658
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +44,9 @@ record:
   title: VS Code 1.85.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
-  Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE
   (0.20.1-0.20.2): We added TLDRs to make it easier to sort through the bugs…]]'
+- '[[Changes/Notion/2023-12-20-upgrades-to-web-publishing|Upgrades to web publishing]]'
 - '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
   Command-K, Copilot++ UI]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f|cursor-2023-12-30-0-21-3-nightly-https-cursor-com-changelog-0-21-3-nightly-0516160f]]'
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

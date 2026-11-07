@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: Today we’re rolling out improvements
   to Voice Mode to make it more accessible and useful for everyone. It also now…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 759
+  lag_days: 2586
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 881da0a36645d8abfd2840422e683d517c694b5aeaabe6bb3312c432e422c973
+machine_hash: fe8853675cc783754c3588b8499203b052269a6ab2018ec298f5720780d575d8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,8 +61,9 @@ record:
   title: ChatGPT Voice updates
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-28-text-to-voice|Text to Voice]]'
-- '[[Changes/ElevenLabs/2025-07-28-speech-to-text-b64b2f|Speech to Text]]'
+- '[[Changes/Descript/2025-07-31-transcription-glossary-moves-to-brand-studio-business-enterprise-only|Transcription
+  Glossary moves to Brand Studio (Business & Enterprise only)]]'
+- '[[Changes/Descript/2025-07-31-new-export-to-hubspot|New: Export to HubSpot]]'
 - '[[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
 source_type: chatgpt_changelog
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

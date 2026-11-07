@@ -4,20 +4,20 @@ date: '2024-08-28'
 description: 'Aider · 2024-08-28 · Interface Experience: Performance improvements
   for autocomplete in large/mono repos.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 597
+  lag_days: 1963
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14c7b742ee4fd31c9cf422e3f89c1a9c8be28159456bed569fba722729e990a4
+machine_hash: 48f0cec84e411e601460e292618f73b9042e2f127bed0cebf9a00f4268f01bd1
 product: aider
 product_name: Aider
 record:
@@ -51,10 +51,9 @@ record:
   title: Performance improvements for autocomplete in large/mono repos
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct
-  list rendering for chat window]]'
 - '[[Changes/Dify/2024-08-26-4-interface-experience-changes-in-0-7-2|4 Interface Experience
   changes in 0.7.2]]'
+- '[[Changes/Descript/2024-08-27-new-stock-speakers|New stock speakers]]'
 - "[[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|\U0001F527
   LaTeX Rendering Issue]]"
 source_release: '[[Releases/Aider/aider-2024-08-28-v0-54-0-github-172373996-a6760e8b|aider-2024-08-28-v0-54-0-github-172373996-a6760e8b]]'
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,21 @@ description: 'Dify · 2025-08-27 · Account and Access: 7 changes in v1.8.0 - As
   workflows meet multi-model management with OAuth-powered integrations. — **MCP Support
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 1856
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c02751b235073aad83cb16b41f9d6e4a5cd515940d679ebbe348f55688ae035
+machine_hash: 39ed2ae3da9b0a911e4f950cf9fb42712f0038b9e996776c10f3f2dcf2365549
 product: dify
 product_name: Dify
 record:
@@ -127,7 +128,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

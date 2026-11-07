@@ -4,19 +4,20 @@ date: '2026-09-21'
 description: 'GitHub Copilot CLI · 2026-09-21 · Developer Workflow: 5 changes in 1.0.87
   — A `worktreePathTemplate` setting decides where `/worktree`, `/move`, `/new` and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2932
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 300d96c28bcc3797d67fa030d19f6c6ce8a86efc89398b821a67d3ba9739637e
+machine_hash: 3fed5d1e8727b12870c9637f09a891a4029f64f984b41b83d3c096292dc784e2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,10 +56,10 @@ record:
   title: 5 Developer Workflow changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
-  /ultrareview when there''s nothing to review]]'
 - '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
   command that is killed when the app restarts is now reported as canceled instead…]]'
+- '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
+  Improved starting-point list loading and creation preparation…]]'
 - '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
   Workflow changes in v2026.9.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
@@ -114,7 +115,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

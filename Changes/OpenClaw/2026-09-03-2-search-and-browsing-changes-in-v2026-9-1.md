@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Search and Browsing: 2 changes in v2026.
   — Embedded session recall now reopens history around the selected search result,
   including…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2289
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae90d64dec3647188264d0457f176ad98366824f15d6d7ef9bc51cd499a7596f
+machine_hash: 29a410e2683c54e38c07672fe58ce9af15cc59d4276fd2235031d98379182130
 product: openclaw
 product_name: OpenClaw
 record:
@@ -106,13 +106,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-importing-or-returning-to-a-large-retained-history-also-requires-less-local-work|Importing or returning to a large retained history also requires less local work…]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-4-search-and-browsing-changes-in-v2026-9-2|4 Search and Browsing changes in v2026.9.2]]
+- Later: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-build-your-own-custom-look-pack|Build your own custom Look Pack]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

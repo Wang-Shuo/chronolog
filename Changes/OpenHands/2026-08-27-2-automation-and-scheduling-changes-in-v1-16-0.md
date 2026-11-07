@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'OpenHands · 2026-08-27 · Automation and Scheduling: 2 changes in v1.16.0
   — feat(automations): show a run''s live phase by @aartem1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb70a85a9c1c7f63e769e877adadd7b9905e4118894a94feb40b8dfb0553a1c0
+machine_hash: efcc643686e0f8e29ba63e6177f126b65ddaaa437ee16f5ecec3e800f797581b
 product: openhands
 product_name: OpenHands
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use x to remove scheduled /every and /after prompts in Schedule Manager]]
-- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3 Automation and Scheduling changes in v0.11.2]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-act-proactive-qoder-does-more-than-respond-to-instructions-it-proactively-brings|Act Proactive: Qoder does more than respond to instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

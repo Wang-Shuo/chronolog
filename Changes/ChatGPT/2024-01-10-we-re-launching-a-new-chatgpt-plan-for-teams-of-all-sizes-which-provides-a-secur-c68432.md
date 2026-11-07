@@ -5,19 +5,20 @@ description: 'ChatGPT · 2024-01-10 · Collaboration: We’re launching a new Ch
   plan for teams of all sizes, which provides a secure, collaborative workspace to
   get the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 231
+  lag_days: 1825
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 17a064924511bfecf6d47f8d490c1516fc039931138a86ad4c2238a65ac44611
+machine_hash: e1b87c1feaee4e9977a49e9dd4724e77e6a5b172370014a265bffb12b62f4495
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -93,13 +94,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-the-dify-team|The Dify Team 🛠️]]
-- Later: 2024-01-26 · Runway · [[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices with workspace]]
+- Later: 2024-01-17 · Notion · [[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-26'
 description: 'ElevenLabs · 2026-01-26 · Files and Data: **Folder management**: Added
   support for organizing knowledge base documents into folders. New endpoints include…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 977
+  lag_days: 2322
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 476e2ab96881aaa6c3b9c355a2beb0de28c1a147d5a33d729b654ca0fbae73de
+machine_hash: ea225cfe083b534263b1f38d2a0c7f5fc01d34705652ae4da7accfb60fc2d961
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,8 +51,8 @@ record:
   title: Knowledge Base
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes
-  in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate
+  Office documents from agents in Copilot Studio lite Windows…]]'
 - '[[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020
   fix(tui): document paste-burst state machine @joshka-oai]]'
 - '[[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

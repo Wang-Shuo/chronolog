@@ -4,20 +4,20 @@ date: '2025-07-19'
 description: 'Codex CLI · 2025-07-19 · Mobile and Desktop: Though https://github.com/openai/codex/pull/1590
   should make it so that, on Windows, the `npm` version will fall…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 858
+  lag_days: 2442
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fff0dfb3eb69e890c518d84c32a765fddc8d5e977c38f105ca8b69fb2e82f773
+machine_hash: 5ee6975711faf85898b1df0f1fbf5384233efd159e80861f19045bb2e7080571
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push notifications for usage alerts]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile and Desktop changes in v0.1.14]]
+- Later: 2025-07-22 · Notion · [[Changes/Notion/2025-07-22-on-web-or-desktop-go-to-settings-preferences-language|On web or desktop, go to Settings → Preferences → Language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 992d16baabd8f374371a3f8fa8c59854e25dfa58aa51844b27277d960cee67dd
+machine_hash: b411375f038535b45b4085efde46dffdf0f1aa4cefe08ce82c5b6294eb8ed3cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     files
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-a-userpromptsubmitted-hook-returning-a-non-string-value-for-modifiedprompt-modif|A
-  userPromptSubmitted hook returning a non-string value for modifiedPrompt…]]'
 - '[[Changes/Cline/2026-07-31-remove-vestigial-mcp-server-key-machinery-from-mcphub-native-mcp-tool-calls-now|Remove
   vestigial MCP server-key machinery from McpHub]]'
 - '[[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140
   Wait for memory consolidation shutdown before finishing jobs @copyberry]]'
+- '[[Changes/HeyGen/2026-08-07-when-users-enable-generate-script-with-ai-they-can-now-specify-the-script-s-goal|When
+  users enable Generate Script with AI , they can now specify the script’s goal…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: memory
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140 Wait for memory consolidation shutdown before finishing jobs @copyberry]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-when-users-enable-generate-script-with-ai-they-can-now-specify-the-script-s-goal|When users enable Generate Script with AI , they can now specify the script’s goal…]]
 - Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 88597dbecdb51fd92c4ff3addc04ae74d8c2599e9e4256566e27f0a946f414a5
+machine_hash: 5212a645de4770aeb00c513fb8277deae1409d854a98f3d39c9a1552d5a80aa8
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,9 @@ record:
   title: Display full model name in Settings UI (#3900)
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-09-23-2-model-support-changes-in-v0-3-12|2 Model Support
-  changes in v0.3.12]]'
 - '[[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support
   changes in v0.3.24]]'
+- '[[Changes/Notion/2024-09-25-chat-about-anything|Chat about anything]]'
 - "[[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|\U0001F527
   O1 Max Completion Tokens Issue]]"
 source_release: '[[Releases/OpenHands/openhands-2024-09-26-0-9-5-github-177061912-4573dec1|openhands-2024-09-26-0-9-5-github-177061912-4573dec1]]'

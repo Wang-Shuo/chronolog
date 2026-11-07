@@ -4,20 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Multimodal Input: feature(commands) - Refactor
   Slash Command + Vision For the Future by @abhipatel12 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 661
+  lag_days: 2429
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2371210464da1d19789db270e572841e9c86f56cf17265ce65c1d1856e474554
+machine_hash: d235c73ffeee3caf798cda5258f24dc3d843ce9118fedfa52416640c8f854421
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: feature(commands) - Refactor Slash Command + Vision For the Future
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-06-18-high-motion|High motion]]'
 - '[[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro
   and Mega tiers can help us test "video relax mode" right now…]]'
+- '[[Changes/Descript/2025-06-26-starting-today-we-re-toggling-the-new-timeline-experience-on-in-labs-for-everyon|Starting
+  today, we’re toggling the new timeline experience ON in Labs for everyone]]'
 - '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

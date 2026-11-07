@@ -4,20 +4,19 @@ date: '2026-06-09'
 description: 'Codex CLI · 2026-06-09 · Editor Experience: 4 changes in 0.139.0 — `codex
   doctor` now includes editor and pager environment details in the local report while…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 2767
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28e6fb59e5115ba65e3cdc000fe8aafcc180a25335a526ded030484df7b8c7b0
+machine_hash: d21a890ed99c2722039ab8e2981b39f2dccb0d31b196c75af30820c881f498cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +48,8 @@ record:
   title: 4 Editor Experience changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
-  Experience changes in rust-v0.138.0]]'
+- '[[Changes/HeyGen/2026-06-08-speech-cleanup-is-now-available-inside-heygen-it-takes-a-single-recording-and-au|Speech
+  Cleanup is now available inside HeyGen]]'
 - '[[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview
   in the code editor]]'
 - '[[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0
@@ -107,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

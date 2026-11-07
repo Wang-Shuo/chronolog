@@ -4,19 +4,20 @@ date: '2025-08-08'
 description: 'Replit · 2025-08-08 · Collaboration: Streamline your team management
   with enhanced [SCIM](https://docs.replit.com/teams/identity-and-access-management/scim.md)…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 807
+  lag_days: 2401
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9413b419bd64e80d5ad260f19576ae87f828f294292467c5a0f24afeaf70166
+machine_hash: 3c8731a0092da17e4a455e365871689069b85433e834f8d3b15b3782257f709d
 product: replit
 product_name: Replit
 record:
@@ -56,8 +57,8 @@ record:
   title: Streamline your team management with enhanced…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
-  setup e2e tests to use shared mock server]]'
+- '[[Changes/Descript/2025-07-31-quick-share-multi-track-support|Quick Share & multi-track
+  support]]'
 - '[[Changes/Claude/2025-08-01-project-sharing|Project Sharing]]'
 - '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
   code tracking API]]'
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

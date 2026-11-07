@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5d9e4144af1ce48783265d1a475e27db75d2a01989c745bccf8058f58193dd4
+machine_hash: 006ce4432e7ff52d20255f55b10a2bb83a73446904f9b2b1ba30ac3c98c8c09d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -56,12 +56,10 @@ record:
   title: 3 Model Support changes in v2026.10.3
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
-  in v4.1.24]]'
-- '[[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing
-  Gemini 4 Argon: our frontier model for complex tasks]]'
+- '[[Changes/HeyGen/2026-10-13-elevenlabs-v4-for-speech|ElevenLabs v4 for speech]]'
 - '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
   Argon for your app''s AI features]]'
+- '[[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-13-v2026-10-3-54cedb60|openclaw-2026-10-13-v2026-10-3-54cedb60]]'
 source_type: openclaw_changelog
 theme: model-support
@@ -105,7 +103,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4 Argon for your app's AI features]]
+- Earlier: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-new-week-new-models|New week, new models]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
 <!-- chronolog:end -->
 

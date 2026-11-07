@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-04-16 · Developer Workflow: /undo show
   explanatory message when rewind is unavailable (e.g., not in a git repository or
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac79283578e76fa79973a00225064c0ce1523ed051684f5e9bf1537751ba13b9
+machine_hash: 98c73a74554333b2aa7e30438fbb76151078ee68b8627c03a9b12018f5ba1745
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +45,7 @@ record:
   title: /undo shows an explanatory message when rewind is unavailable…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
-  /ultrareview for running comprehensive code review in the cloud using…]]'
+- '[[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal
   state correctly restored after a crash exit on Windows]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

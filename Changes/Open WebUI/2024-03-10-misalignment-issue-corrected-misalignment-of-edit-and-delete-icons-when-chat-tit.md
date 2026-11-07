@@ -5,20 +5,19 @@ description: "Open WebUI · 2024-03-10 · Editor Experience: \U0001F527 **Misali
   Issue**: Corrected misalignment of Edit and Delete Icons when Chat Title is Empty
   (Issue #1104)."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 362
+  lag_days: 1946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e9c632f1750c2cc7eeb67c09df5780d53bea6cf2e29e8902a41762eb47248df
+machine_hash: 0ac1ea0938cd28e8a3795748d27ab1610af418a1f185e0a5c5900352865b19b9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +44,12 @@ record:
   title: "\U0001F527 **Misalignment Issue**"
   type: change
 related_changes:
-- '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
-  Block]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
 - '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
   the user a FAQ link if edits fail to apply]]'
+- '[[Changes/Descript/2024-03-04-ai-edit-actions-now-with-deletion|AI Edit Actions:
+  Now with Deletion]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-10-v0-1-111-github-145741855-8cd6f3b9|open-webui-2024-03-10-v0-1-111-github-145741855-8cd6f3b9]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show the user a FAQ link if edits fail to apply]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
+- Earlier: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-ai-edit-actions-now-with-deletion|AI Edit Actions: Now with Deletion]]
+- Later: 2024-03-18 · Descript · [[Changes/Descript/2024-03-18-editor-updates|Editor Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-11-03 · Collaboration: 6 changes in v2026.10.10 
   shared conversation pages now look more like a chat, with clearer previews when
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9d92edc5b3c9a6c72ef8c2e8aa9e87a950588548884cb8d9594da15505fbac8
+machine_hash: 8739527b8b0ad1df1b028163090a89d3aeefeb934fd559704d69c8c252e9ca1e
 product: openclaw
 product_name: OpenClaw
 record:
@@ -64,10 +65,10 @@ record:
   title: 6 Collaboration changes in v2026.10.10
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
-  changes in v2026.10.9]]'
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
+- '[[Changes/Qoder/2026-10-30-2-collaboration-changes-in-qoder-0-5-1|2 Collaboration
+  changes in Qoder 0.5.1]]'
 - "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
   New chats stay in sync. A chat started from the home page keeps syncing…]]"
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|openclaw-2026-11-03-v2026-10-10-c26ff355]]'
@@ -138,7 +139,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

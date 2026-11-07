@@ -5,20 +5,20 @@ description: 'Gemini · 2025-08-26 · Image Generation: What: Experience a new l
   of creativity with our latest image generation and editing model. We''ve improved
   how…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 534
+  lag_days: 792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 28f42cb58f3587751fac5a0103c079d651185233d5073fb25b202371036eb758
+machine_hash: 298354276fb33d35a6db35d9eddc57c4a7a3f766632ca2d7ca86a6e82fbf80f6
 product: gemini
 product_name: Gemini
 record:
@@ -103,13 +103,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-image-generation-reliability-restored-fixed-a-key-issue-causing-image-generation|🖼️ Image Generation Reliability Restored]]
-- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-azure-openai-image-generation-is-now-supported-with-configurations-for-images-op|🎨 Azure OpenAI image generation is now supported, with configurations…]]
+- Later: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-how-to-access-nano-banana|How to access Nano Banana]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

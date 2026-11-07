@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Voice and Audio: \U0001F4F1 **Voice on
   Chrome.** Voice calls and dictation on Android Chrome no longer go silent or hang
   on Listening…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 3019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1394633eed42f10236f942c75d1051f6b3c2608034e9719ba6f5d571d418697
+machine_hash: fb26bce94ff3b6430cfcc53a6bf6744db3f194082ee0e66c57becd45d0ce1b96
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,11 +52,12 @@ record:
     Chrome no longer…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
-- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
-  Holding the microphone and releasing it no longer stops recording prematurely]]'
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
+- '[[Changes/HeyGen/2026-10-14-use-your-voice-in-other-languages|Use your voice in
+  other languages]]'
+- '[[Changes/HeyGen/2026-10-14-keep-one-consistent-sound-with-exact-mode|Keep one
+  consistent sound with Exact Mode]]'
+- '[[Changes/HeyGen/2026-10-14-design-a-voice-from-a-picture|Design a voice from a
+  picture]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
 source_type: github_releases
 theme: voice
@@ -94,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Earlier: 2026-10-14 · HeyGen · [[Changes/HeyGen/2026-10-14-design-a-voice-from-a-picture|Design a voice from a picture]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice and Audio changes in v0.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

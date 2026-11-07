@@ -5,20 +5,19 @@ description: 'Midjourney · 2024-11-07 · Editor Experience: we''re doing a comm
   contest for images made with the new editor . Please share your coolest examples
   of what…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 604
+  lag_days: 2188
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4dc30504ff7849ca01457a11d8baddc92544a99c3ffe96d9285563335ee7f5bd
+machine_hash: d616b7ed6672aac15ca485e1416ca5ad5f2bcc7961bf7b33ee802f98e987128f
 product: midjourney
 product_name: Midjourney
 record:
@@ -51,9 +50,9 @@ record:
   title: Editor Showcase
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
+- '[[Changes/Descript/2024-11-05-other-editor-tweaks|Other editor tweaks]]'
 - '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
   update type definition to resolve lint error in Base usage at text-editor.tsx]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-11-07-https-updates-midjourney-com-editor-showcase-3757bbaf|midjourney-2024-11-07-https-updates-midjourney-com-editor-showcase-3757bbaf]]'
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore: update type definition to resolve lint error in Base usage at text-editor.tsx]]
-- Later: 2024-11-19 · Gemini · [[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority access with Gemini Advanced]]
+- Later: 2024-11-19 · Descript · [[Changes/Descript/2024-11-19-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

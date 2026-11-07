@@ -4,20 +4,20 @@ date: '2025-08-05'
 description: 'Ollama · 2025-08-05 · Reliability and Performance: 2 changes in v0.11.0
   — **Configurable reasoning effort:** Easily adjust the reasoning effort (low, medium…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 964
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97a9cebc42ae1f4caab0ee848bbca3dea4de61744e4e1fdf81c8551981ac0db4
+machine_hash: 991af5992efe51179bdf28123ef85e34d8b4d25a1ecb9132c201f38721a8495c
 product: ollama
 product_name: Ollama
 record:
@@ -49,8 +49,8 @@ record:
   title: 2 Reliability and Performance changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
-  model availability check in the background to speed up startup]]'
+- '[[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI
+  for faster access]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
   Reliability and Performance changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
@@ -97,7 +97,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

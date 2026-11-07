@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 556828f543123623a4127a77347dd8a5999ebf74027b3612bbc9bb4eee704e0d
+machine_hash: e2731b4bf8a047288659a3b6657bca20fa3a5877583551edee9ae5d558afc3ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.97
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes in v1.27.0]]
-- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents use your app]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-edit-specific-scenes-in-video-agent|Edit specific scenes in Video Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

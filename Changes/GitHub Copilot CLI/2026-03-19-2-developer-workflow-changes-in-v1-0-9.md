@@ -4,19 +4,20 @@ date: '2026-03-19'
 description: 'GitHub Copilot CLI · 2026-03-19 · Developer Workflow: 2 changes in 1.0.9
   — Spurious I/O error messages (ENOTCONN, EIO) no longer appear in the timeline during…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1097
+  lag_days: 2746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a078d64b5e26729bcc9fc39308fe3e0a4e27ed20b9e2773a3366fe01e9e8d72
+machine_hash: b8b071cb00840e0a8402c12cac5b30e7a47f8851cf76f0e3bc074446bd04a0fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-10-13'
 description: 'Cline · 2026-10-13 · Editor Experience: The editor tool no longer receives
   null in place of the text to replace from some models.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1309
+  lag_days: 2893
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f2d4aee65becac0e42f30e296ff1e275f1ef403cc3c46e0553f7f7399b7416b
+machine_hash: 55c0d38b819b2e10b9e4685379dd4ef7cd79da97fc7fa0ce569527dd03e5ccb2
 product: cline
 product_name: Cline
 record:
@@ -94,13 +93,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed browser tabs]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous /task JSON output now includes failed child error and lifecycle events…]]
+- Later: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-you-can-edit-text-that-has-an-in-animation-again|You can edit text that has an In animation again]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

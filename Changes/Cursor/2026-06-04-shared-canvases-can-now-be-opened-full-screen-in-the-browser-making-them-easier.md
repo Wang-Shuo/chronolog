@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Interface Experience: Shared canvases can now
   be opened full-screen in the browser, making them easier to present to others.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1242
+  lag_days: 2608
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b6eca222d59241da1ed9151bcd711b287c254ffa388aa8c9d19aa31a6923a79
+machine_hash: eccd87a15ad793358ed99cd164aa0d3ed366f5c37495cb5e6a60ce127ef07582
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     easier…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
-  a slash command in the autocomplete menu now fills it into your prompt…]]'
+- '[[Changes/Kimi Code/2026-06-03-2-interface-experience-changes-in-kimi-code-0-9-0|2
+  Interface Experience changes in Kimi Code 0.9.0]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
 - '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-06-17 · Reliability and Performance: With schedul
   users can ask ChatGPT to send reminders, handle recurring work, or monitor things
   for…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2767
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e846f9b6c8cbf2746c8a52e4146f57f2a41ceb767754189f6885355c168af97a
+machine_hash: 9a0f6af7acc5243de5d51f36b2db5f54a4a13ec6663a5ae90f7a4ec9c34f95f2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
-  and export]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
   up branch and HEAD detection in warm sessions]]'
 - '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3
   Reliability and Performance changes in rust-v0.140.0]]'
+- '[[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves
+  open-source SOTA performance on coding and long-horizon task benchmarks…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -94,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3 Reliability and Performance changes in rust-v0.140.0]]
+- Earlier: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves open-source SOTA performance on coding and long-horizon task benchmarks…]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

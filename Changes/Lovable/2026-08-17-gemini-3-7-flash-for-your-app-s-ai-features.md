@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b3d53c22d44b605323690c3acbdc15909a9624b94e6e2c0f2a1818c48de57dff
+machine_hash: 00e89c3bd68b5f7ad80a1f4b3f0a688051c0bd2fda7640aa8a52c4ed08cb9017
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Gemini 3.7 Flash for your app's AI features
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
-  configurations]]'
+- '[[Changes/Notion/2026-08-14-no-more-guessing-which-model-to-use|Model selection,
+  simplified]]'
 - '[[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode
   WebP images for llama-server]]'
 - '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support

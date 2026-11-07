@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Developer Workflow: 18 changes in v2026.
   — If the background service is still using an old Node after an upgrade, openclaw
   gateway…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1273
+  lag_days: 2922
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c49fd252a1f08c8e99cebf195f275433355ae9e0e280ea18e9cb28da7dededf6
+machine_hash: b19276a8248197a0e25594691daaba0ed24f4f6a1bae6d7e417a23c507adc9ce
 product: openclaw
 product_name: OpenClaw
 record:
@@ -236,13 +237,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File review: Reduced CPU usage when multiple code diffs are expanded alongside…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

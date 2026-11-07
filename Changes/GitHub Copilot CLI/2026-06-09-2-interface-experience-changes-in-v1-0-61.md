@@ -4,20 +4,20 @@ date: '2026-06-09'
 description: 'GitHub Copilot CLI · 2026-06-09 · Interface Experience: 2 changes in
   1.0.61 — Symlinked directories now appear in @-file picker suggestions'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2613
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec9d670b5cd0c28b608210cb01c1e036e972d706f6e12744d6a81c91f9e48183
+machine_hash: 189454d7ec9abcd7292f3d76a829db450c14dc37500aae5bb912601e174c5697
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,13 +92,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface Experience changes in Changelog update]]
-- Later: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-interface-experience-changes-in-kimi-code-0-12-0|2 Interface Experience changes in Kimi Code 0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

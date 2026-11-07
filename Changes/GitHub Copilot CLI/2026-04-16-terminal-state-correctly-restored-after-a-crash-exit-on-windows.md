@@ -4,19 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Developer Workflow: Terminal state
   correctly restored after a crash exit on Windows'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d05d6504b932166046026d3bf24ea5d14945c7582495a78c23eabede706cc3f6
+machine_hash: bfbb99650d5de47834837f08a155d0814274a808138af168c5b7128e14be9250
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,12 +41,11 @@ record:
   title: Terminal state correctly restored after a crash exit on Windows
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
-  Workflow changes in v1.4.4]]'
 - '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
   Workflow changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
   /ultrareview for running comprehensive code review in the cloud using…]]'
+- '[[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-29-github-309903924-21482293|github-copilot-cli-2026-04-16-v1-0-29-github-309903924-21482293]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added /ultrareview for running comprehensive code review in the cloud using…]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]
 - Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support COPILOT_DISABLE_TERMINAL_TITLE environment variable to opt out of terminal…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

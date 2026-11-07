@@ -4,20 +4,20 @@ date: '2024-09-30'
 description: 'Dify · 2024-09-30 · Files and Data: Corrected a linking error in help
   documents (@hjlarry in #8508).'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 494
+  lag_days: 1839
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb815d265091cf22e0cfb94176c076bb158ba2dceaca2e90c185cee8e2664bd7
+machine_hash: 9c1f4e3d9af4a7ca520ea86f34686210b18bb0be9a99f1df3737261fa374dc84
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,11 @@ record:
   title: 'Corrected a linking error in help documents (@hjlarry in #8508)'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-07-document-count-display-now-displays-the-total-number-of-documents-directly-withi|\U0001F4CA
-  Document Count Display]]"
-- '[[Changes/Dify/2024-09-10-feat-return-page-number-of-pdf-documents-upon-retrieval-by-jasonkang14-in-https|feat:
-  return page number of pdf documents upon retrieval]]'
 - "[[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|\U0001F4C4
   Enhanced PDF Citations]]"
+- '[[Changes/Descript/2024-09-25-new-scene-toolbar-under-the-canvas|New scene toolbar
+  under the Canvas]]'
+- '[[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
 source_type: github_releases
 theme: file-data
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-enhanced-pdf-citations-pdf-citations-now-open-at-the-associated-page-streamlinin|📄 Enhanced PDF Citations]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-analyze-pdfs-images|Analyze PDFs & images]]
 - Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and Data changes in v0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

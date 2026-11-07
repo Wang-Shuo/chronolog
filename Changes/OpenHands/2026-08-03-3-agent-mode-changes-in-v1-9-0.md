@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6824fe3ae23aeab83f7037259f9747a5dee842f33b82e0e3eb7d799625029f6a
+machine_hash: 12bf6753d8685f6a2d3715df10d1e4a8afb81a2353e10a3f33ff981b97fde51f
 product: openhands
 product_name: OpenHands
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.9.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]
-- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode changes in v2.1.223]]
+- Later: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-run-the-cli-surfaces-interactive-tui-kimi-p-kimi-acp-kimi-export-kimi-provider-o|Run the CLI surfaces…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

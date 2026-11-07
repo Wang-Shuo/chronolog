@@ -5,20 +5,20 @@ description: 'Dify · 2024-01-24 · Multimodal Input: Our expansion into text-to
   capabilities marks a significant step in our multimodal journey. This includes a
   shared…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 127
+  lag_days: 1895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 735d5d6bbea77c17ee459069dfbdcaa09b3e213e8af96f038b07c1f05932278a
+machine_hash: b153a015c0c94f573b76bee4a4a238e0d12ddf1142cce8e400acb9282df8d656
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
     our…
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding
-  Bard’s understanding of YouTube videos]]'
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
 - '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
   Input changes in v0.1.15]]'
+- '[[Changes/Synthesia/2023-12-20-upload-a-document-or-paste-a-link-and-transform-it-into-an-eye-catching-video-wi|Introducing:
+  AI Video Assistant]]'
+- '[[Changes/Descript/2024-01-16-edit-for-clarity-intelligently-identifies-and-removes-distracting-filler-words-t|Edit
+  for Clarity intelligently identifies and removes distracting filler words…]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'
 source_type: github_releases
 theme: multimodal
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal Input changes in v0.1.15]]
-- Later: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal Input changes in v0.1.23]]
+- Earlier: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-edit-for-clarity-intelligently-identifies-and-removes-distracting-filler-words-t|Edit for Clarity intelligently identifies and removes distracting filler words…]]
+- Later: 2024-01-31 · Synthesia · [[Changes/Synthesia/2024-01-31-ai-video-assistant-3-0-allows-you-to-edit-and-refine-text-in-the-script-box-rewr|Editing in the script box: AI video assistant 3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

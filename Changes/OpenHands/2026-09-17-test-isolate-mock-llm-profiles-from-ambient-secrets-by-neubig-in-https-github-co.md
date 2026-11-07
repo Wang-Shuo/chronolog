@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32aa91b46441868d1176bdb153f56fc9691cdda96956ed51f34fb763ea344c8a
+machine_hash: 55ab3bf35122bd8c05ab663ab94d0a5325f9bea3c0946230135200416c202751
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: 'test: isolate Mock-LLM profiles from ambient secrets'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-13-model-support-changes-in-v4-1-19|13 Model Support
-  changes in v4.1.19]]'
 - '[[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model
   Support changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-a-better-center-active-speaker|A better center active
+  speaker]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded
   reasoning text in the compact timeline is no longer dimmed, so it…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-17-v1-20-0-github-390502317-9763b11e|openhands-2026-09-17-v1-20-0-github-390502317-9763b11e]]'

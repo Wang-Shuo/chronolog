@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-20 · Interface Experience: **\U0001F30D Tra
   Updates**: Various international translation refinements ensure better localization
   and a more…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 773
+  lag_days: 2139
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67e0dcab788144474ee6f889ecfa5c21e49dc355dd0c45e232d05122c90ab848
+machine_hash: 5685c26afdf96b9ff1e65b86024e06b241706515b396e4555fa62eb2f6f4d4c5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A new Folders menu is available on both the Create and Organize pages]]
-- Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making edits just got easier!]]
+- Later: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-publish-becomes-export|Publish becomes Export]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

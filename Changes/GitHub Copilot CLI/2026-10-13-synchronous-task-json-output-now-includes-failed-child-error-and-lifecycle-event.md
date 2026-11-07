@@ -4,20 +4,19 @@ date: '2026-10-13'
 description: 'GitHub Copilot CLI · 2026-10-13 · Editor Experience: Synchronous /task
   JSON output now includes failed child error and lifecycle events before completion.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1309
+  lag_days: 2893
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f22fa813d086918ea8241325571463fc1c3de66aacb014e2dee8b58f9c425593
+machine_hash: 9f6868e22f88096b5979d6c127bcb9361af6230441d8ab69f3e92c87adef773a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +42,12 @@ record:
     events…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
-  directly in the Files tab]]'
 - '[[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed
   browser tabs]]'
 - '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
   editor tool no longer receives null in place of the text to replace from some models]]'
+- '[[Changes/Descript/2026-10-13-you-can-edit-text-that-has-an-in-animation-again|You
+  can edit text that has an In animation again]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The editor tool no longer receives null in place of the text to replace from some models]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor Experience changes in v2.1.300]]
+- Earlier: 2026-10-13 · Descript · [[Changes/Descript/2026-10-13-you-can-edit-text-that-has-an-in-animation-again|You can edit text that has an In animation again]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-chapters-in-the-submit-step|Chapters in the Submit step]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Replit · 2026-08-14 · Interface Experience: Pro builders can now
   North America, Europe (EU), or Asia when they create a workspace. The selection
   sets…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1313
+  lag_days: 2679
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b643ee0ed7241621340d9763180470fb5fb19fe7e10ebe58e45d37946b600d59
+machine_hash: f9a9542ed31d823ff090abdd30a392d35745b1e9813556651d32f12096c2cf05
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Choose a workspace region
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
-  Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]'
-- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
-  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
+- '[[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2
+  Interface Experience changes in Kimi Code 0.36.0]]'
+- '[[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web:
+  Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved fullscreen streaming]]
+- Earlier: 2026-08-14 · Kimi Code · [[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web: Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]
 - Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4 Interface Experience changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

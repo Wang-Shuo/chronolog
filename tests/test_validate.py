@@ -233,6 +233,35 @@ def test_validate_vault_links_requires_rendered_relation_wikilinks(tmp_path: Pat
     }
 
 
+def test_wikilink_validation_preserves_literal_code_but_still_checks_real_links(tmp_path: Path):
+    import frontmatter
+    directory = tmp_path / "Releases"
+    directory.mkdir()
+    post = frontmatter.Post(
+        "Configure `[[hooks]]` or ``literal ` [[tools]]``. See [[missing|a real link]].",
+        record={"body": "Configure `[[hooks]]` in config.toml."},
+    )
+    (directory / "notes.md").write_text(frontmatter.dumps(post))
+    report = validate_vault_links(tmp_path)
+    assert [error["link"] for error in report["errors"]] == ["missing|a real link"]
+
+
+def test_code_spans_cannot_hide_links_across_metadata_fields_or_relation_targets(tmp_path: Path):
+    import frontmatter
+    directory = tmp_path / "Changes"
+    directory.mkdir()
+    post = frontmatter.Post(
+        "An unmatched ` marker still checks [[body-missing]].",
+        type="change", card_id="example", source_release="`[[Releases/missing]]`",
+        record={"first": "Unmatched `", "second": "[[metadata-missing]] `"},
+    )
+    (directory / "card.md").write_text(frontmatter.dumps(post))
+    report = validate_vault_links(tmp_path)
+    assert {error["link"] for error in report["errors"]} == {
+        "body-missing", "metadata-missing", "Releases/missing",
+    }
+
+
 def test_validate_vault_links_reports_missing_valid_change_card(tmp_path: Path):
     expected = {
         "card_id": "cursor-2026-01-01-bbbbbb",

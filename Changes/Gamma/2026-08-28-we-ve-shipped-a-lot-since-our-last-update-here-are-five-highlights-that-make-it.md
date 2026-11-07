@@ -5,19 +5,20 @@ description: 'Gamma · 2026-08-28 · Collaboration: We’ve shipped a lot since 
   update. Here are five highlights that make it easier to create, connect, and share
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 2786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86e11422f39fc139d2c58fd051698ddff05020f048c827994ddc5ae5b4f01cc1
+machine_hash: decd2bd965fc7edfebed496cc6f069f81c071581f1aef5a030266fe97fd5f551
 product: gamma
 product_name: Gamma
 record:
@@ -45,12 +46,12 @@ record:
   title: We’ve shipped a lot since our last update
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
 - '[[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes
   in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
   changes in v0.11.1]]'
+- '[[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An
+  ecosystem that connects]]'
 source_release: '[[Releases/Gamma/gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f|gamma-2026-08-28-6a91d076c7db3a7f05cc7f12-5820041f]]'
 source_type: gamma_changelog
 theme: collaboration
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration changes in v0.11.1]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-an-ecosystem-that-connects-with-70-plugins-20-000-skills-and-40-connectors-qoder|An ecosystem that connects]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Ollama · 2026-06-03 · Context Window: The llama.cpp backend now 
   cached prompt tokens in token accounting, improving usage reporting for requests
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2450
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8b5135b9e01a5a8fb224f0f8ea2c5910e6b60c0e82b31ad58e9d9e3a228f2f4
+machine_hash: e258912f83078de1d91c9d03df07849f4b543f6b7a8f07116398da47ee58bd01
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: The llama.cpp backend now includes cached prompt tokens in token accounting…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
-  Window changes in rust-v0.136.0]]'
 - '[[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window
   changes in v0.9.6]]'
+- '[[Changes/Kimi Code/2026-06-02-append-the-current-todo-list-as-markdown-to-compaction-summaries-before-writing|Append
+  the current todo list as markdown to compaction summaries before writing them…]]'
 - '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
   Complete simplification work]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-03-v0-30-2-github-333440259-35bd6401|ollama-2026-06-03-v0-30-2-github-333440259-35bd6401]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

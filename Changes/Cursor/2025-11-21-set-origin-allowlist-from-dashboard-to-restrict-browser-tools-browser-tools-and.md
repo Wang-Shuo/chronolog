@@ -4,20 +4,20 @@ date: '2025-11-21'
 description: 'Cursor · 2025-11-21 · Interface Experience: Set origin allowlist from
   dashboard to restrict browser tools. Browser tools and navigation will then be blocked…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1047
+  lag_days: 2413
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 093002d752c7b1297e6a8bef39788e42a21e318610c7137050c0d2fe46616667
+machine_hash: 7ef4b957d4bd00ceed379ce346d6d1662d7620fd733ba2fb7d994e39125143a4
 product: cursor
 product_name: Cursor
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate manually button bumps you back to prompt bar]]
-- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
+- Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-improved-loading-state-for-translation|Improved loading state for translation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

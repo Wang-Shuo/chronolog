@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Cline · 2025-12-11 · Context Window: 2 changes in v3.41.0 — context
   rewriting test cases by @0xToshii in https://github.com/cline/cline/pull/7923'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 952
+  lag_days: 2276
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ad908935c917c1027199b467f6591cd8302122119f23deb55eca4f3e6c7fcbb
+machine_hash: c6cd992d9d39809b2063a8c5cbed4afccd8eb73ac48ed3ed98f765f70c1dd0b5
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Context Window changes in v3.41.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context
-  Window changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-05-youtube-import-has-been-turned-off|YouTube import
+  has been turned off]]'
 - '[[Changes/Codex CLI/2025-12-09-general-fixes-parallel-tool-call-chat-now-returns-correctly-ghost-snapshot-token|General
   fixes: parallel tool-call chat now returns correctly, ghost snapshot tokens…]]'
 - '[[Changes/Gemini CLI/2025-12-09-feat-core-implement-jit-context-manager-and-setting-by-sandytao520-in-https-gith|feat(core):
@@ -94,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.41.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-06-16'
 description: 'Lovable · 2026-06-16 · Collaboration: Preview links are now shorter
   and easier to share. When you copy a link from [Share…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2713
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: afc362a175c8449917af18af4fe5b453fd10552ff67b2d2102a18044530fde15
+machine_hash: db4d3a81e0c7f3e8bbbc2fd88d1d9972799ce0ae091c6ad3694d30049b435e04
 product: lovable
 product_name: Lovable
 record:
@@ -52,7 +53,7 @@ record:
   title: Cleaner preview links
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]'
 - '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
   image: add shared data URL preparation utilities @fjord-oai]]'
 - '[[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]'
@@ -89,13 +90,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-15 · Lovable · [[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-world-cup-updates-chatgpt-can-now-help-you-follow-the-tournament-in-a-more-conve|World Cup updates]]
+- Later: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-connect-15five-data-to-surface-team-priorities-and-recognition-web-microsoft-365|Connect 15Five data to surface team priorities and recognition…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

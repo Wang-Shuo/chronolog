@@ -4,20 +4,20 @@ date: '2025-09-17'
 description: 'Open WebUI · 2025-09-17 · Image Generation: ⚙️ Models can now be configured
   with default features (Web Search, Image Generation) and filters that automatically…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 556
+  lag_days: 814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3fbd63352f7eb0e90345588d08b2187a3948dba4596f0a13557df4b2fa57bd1b
+machine_hash: 514c2924a2af66606a64699371750f52fd11cdb7c274dc12c35754d11d5fd4b5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,10 +68,9 @@ record:
     Generation)…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-22-image-generation-reliability-restored-fixed-a-key-issue-causing-image-generation|\U0001F5BC️
-  Image Generation Reliability Restored]]"
-- '[[Changes/Gemini/2025-08-26-reimagine-your-photos-with-a-prompt|Reimagine your
-  photos with a prompt]]'
+- '[[Changes/Descript/2025-08-29-how-to-access-nano-banana|How to access Nano Banana]]'
+- '[[Changes/Descript/2025-08-29-new-in-image-generation-nano-banana|New in image
+  generation—Nano Banana]]'
 - "[[Changes/Open WebUI/2025-09-09-azure-openai-image-generation-is-now-supported-with-configurations-for-images-op|\U0001F3A8
   Azure OpenAI image generation is now supported, with configurations…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0|open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0]]'
@@ -122,7 +121,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

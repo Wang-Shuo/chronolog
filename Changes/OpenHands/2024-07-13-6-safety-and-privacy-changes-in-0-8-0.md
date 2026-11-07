@@ -5,20 +5,20 @@ description: 'OpenHands · 2024-07-13 · Safety and Privacy: 6 changes in 0.8.0 
   Implement EventStream Runtime Client with Jupyter Support using Agnostic Sandbox
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 454
+  lag_days: 1446
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 174ebf7dae04f6381d18df57a4c14389a5a4fec250633f51f1ba9bb62176cbcd
+machine_hash: f8f625044dabbff7f352fafc4aef889530d151ae7d104a56b78e7ac9bc6eeb0b
 product: openhands
 product_name: OpenHands
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-06-16'
 description: 'Dify · 2025-06-16 · Editor Experience: **Dead Code Cleanup**: We’ve
   removed some obsolete code utilizing Vulture, keeping our codebase leaner and cleaner…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 825
+  lag_days: 2409
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c74dfc1889003b433c062b8b06628ab7ffc01b4c3777bf5216a53621af6c734b
+machine_hash: 9705d507258d0c58d25bd62bee48729c41d37b8ed150e642e33c1dd7f50b0533
 product: dify
 product_name: Dify
 record:
@@ -86,13 +85,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved GitHub Copilot token handling with better validation and error messages…]]
+- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-generate-button-for-avatar-added-to-scene-editor-toolbar|Generate button for Avatar added to Scene editor toolbar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

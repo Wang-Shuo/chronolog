@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-30 · Multimodal Input: 4 changes in v2026.9.7
   Android, Request all lets you review optional permissions together and finish setup
   even…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d331fed77a82055ab5515cd804e4145e3d2da7e2b9b8fdb406636eb70762461
+machine_hash: f40df0f3759e6b2730bfaa66d7e37113d34bd50ee928acc7dc55be45c8197fa1
 product: openclaw
 product_name: OpenClaw
 record:
@@ -58,10 +58,10 @@ record:
   title: 4 Multimodal Input changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an|Enhance
-  Frame Rate]]'
-- '[[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The
-  Browser sidebar gains a Download file button for the image, video, or document…]]'
+- '[[Changes/Synthesia/2026-09-21-preview-an-avatar-s-animations-for-a-single-scene-from-the-editor-so-you-can-rev|Preview
+  individual scenes with fully animated avatars]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-vision-in-microsoft-365-copilot-can-analyze-content-shared-on-desktop-screen-and|Vision
+  in Microsoft 365 Copilot can analyze content shared on desktop screen…]]'
 - '[[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef
   (27B) and Clef Flash (9B) are multimodal]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-30-v2026-9-7-3d25d2bd|openclaw-2026-09-30-v2026-9-7-3d25d2bd]]'
@@ -121,13 +121,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef (27B) and Clef Flash (9B) are multimodal]]
-- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu attachments]]
+- Later: 2026-10-06 · Synthesia · [[Changes/Synthesia/2026-10-06-say-how-long-you-want-your-video-in-your-prompt-so-the-assistant-plans-an-outlin|Match video length to your prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3973fc4cce0ed7ce1da586bdb75891528a6e106385a192b9e35b2d00f1d15f8
+machine_hash: da9e1ab6aad30a83ff9ee918424f21000badbd939324a5ef0b2b2b6781ea1a9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac|Computer use on Linux
-  and Mac]]'
 - '[[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor
   supports self-hosted machines, which let you keep tool execution entirely…]]'
 - '[[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced
   the /boost slash command to enhance thinking effort by using…]]'
+- '[[Changes/Kimi Code/2026-09-02-3-agent-mode-changes-in-kimi-code-0-40-0|3 Agent
+  Mode changes in Kimi Code 0.40.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: agent-mode
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced the /boost slash command to enhance thinking effort by using…]]
+- Earlier: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-3-agent-mode-changes-in-kimi-code-0-40-0|3 Agent Mode changes in Kimi Code 0.40.0]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

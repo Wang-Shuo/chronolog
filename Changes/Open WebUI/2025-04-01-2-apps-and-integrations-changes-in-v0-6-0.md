@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-01 · Apps and Integrations: 2 changes in v0
   — \U0001F9E9 **External Tool Server Support via OpenAPI**: Connect Open WebUI to
   any…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 740
+  lag_days: 2300
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8aed53c86a8489deaede302468926ae8b9f73f5838fd7da9a90b581c51ac430d
+machine_hash: 5320e03f2043421b310fa7afe02fba574ba82b18be427df5c83a10e149ea5f83
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,9 @@ record:
   title: 2 Apps and Integrations changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
-  Integrations changes in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
   Integrations changes in 0.48.x]]'
+- '[[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]'
 - '[[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and
   Integrations changes in v3.8.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'
@@ -103,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

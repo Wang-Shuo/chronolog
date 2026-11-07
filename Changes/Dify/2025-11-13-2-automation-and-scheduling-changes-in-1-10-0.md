@@ -5,20 +5,20 @@ description: 'Dify · 2025-11-13 · Automation and Scheduling: 2 changes in v1.1
   - Event-Driven Workflows — A **trigger** is a type of **Start node** that allows
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 681
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63a02951d76f82485366ef126f0329c227eee6f366684b9b4d289fa78d46a496
+machine_hash: a65fe27f97a94b584432d74347b6c9e58adeee93dbede6ccbedaeac69bc3878c
 product: dify
 product_name: Dify
 record:
@@ -96,13 +96,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-feat-prevent-self-imports-and-fix-build-loop-by-mattkorwel-in-https-github-com-g|feat: Prevent self-imports and fix build loop]]
-- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-admin-api-keys-skip-csrf-automation-now-flows-smoother-than-espresso|Admin API Keys skip CSRF — automation now flows smoother than espresso]]
+- Later: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-more-natural-movements|More natural movements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

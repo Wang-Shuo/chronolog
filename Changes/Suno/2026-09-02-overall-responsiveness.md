@@ -4,20 +4,20 @@ date: '2026-09-02'
 description: 'Suno · 2026-09-02 · Reliability and Performance: Audio playback is faster
   and projects load more quickly, so Studio can keep up with your pace better.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1357
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7d656c7c29c3382b34ac1b2359d208b98c3b366280599d75e78c5ed55b9f1722
+machine_hash: cf930269eab1593c2ff086a453ed78e9956573d1d5406a9bcb8b6da66c06a746
 product: suno
 product_name: Suno
 record:
@@ -42,10 +42,10 @@ record:
   title: Overall responsiveness
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-large-tool-calls-stream-faster-through-anthropic-compatible-clients-when-a-strea|\U0001F9E0
-  Large tool calls stream faster through Anthropic-compatible…]]"
 - "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Qoder/2026-08-31-2-reliability-and-performance-changes-in-qoder-0-1-3|2
+  Reliability and Performance changes in Qoder 0.1.3]]'
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 source_release: '[[Releases/Suno/suno-2026-09-02-e-studio-updates-sept26-eab89043|suno-2026-09-02-e-studio-updates-sept26-eab89043]]'
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

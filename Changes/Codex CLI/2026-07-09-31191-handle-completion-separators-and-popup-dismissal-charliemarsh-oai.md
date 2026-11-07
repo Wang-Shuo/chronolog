@@ -4,20 +4,19 @@ date: '2026-07-09'
 description: 'Codex CLI · 2026-07-09 · Editor Experience: #31191 Handle completion
   separators and popup dismissal @charliemarsh-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1213
+  lag_days: 2797
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 350a3cfa076c5acfbaee600717854f676c4eba0194693097b51eba16c2dd1661
+machine_hash: 592951847f51408505c7f0affbaaf06c9abfd55a24ca6341d5730bef2d56d012
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +40,10 @@ record:
   title: '#31191 Handle completion separators and popup dismissal @charliemarsh-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
-  Keep session tab titles available after reloads while session data is still…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
   Experience changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-from-the-modal-you-can-review-and-edit|From the modal,
+  you can review and edit]]'
 - '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud
   project]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

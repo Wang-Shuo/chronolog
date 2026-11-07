@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-14 · Reliability and Performance: 6 changes
   Release v0.1.21 — Run model availability check in the background to speed up startup
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 2460
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3169e7ca0e0fc85a5fe2b55aa1f7e7ef14e227797bc11f55988c594896022be9
+machine_hash: ee8bc4b0ec54cde585c6c6a9309e51f837edf652d456cccabe7d49753358e31f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,10 +56,11 @@ record:
   title: 6 Reliability and Performance changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-08-11-visual-edits-v2|Visual edits v2]]'
 - '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
   Reliability and Performance changes in v0.1.19]]'
+- '[[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag
+  & drop support - Simply drag images directly into the avatar creation…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: reliability-performance
@@ -114,14 +115,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2 Reliability and Performance changes in v0.1.19]]
+- Earlier: 2025-08-14 · Descript · [[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag & drop support - Simply drag images directly into the avatar creation…]]
 - Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2 Reliability and Performance changes in v0.11.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

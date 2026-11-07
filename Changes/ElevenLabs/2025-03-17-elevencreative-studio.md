@@ -4,20 +4,20 @@ date: '2025-03-17'
 description: 'ElevenLabs · 2025-03-17 · Enterprise and Administration: **Disable publishing
   UI**: Added ability to disable the publishing interface for specific workspace…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 682
+  lag_days: 1889
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3b332e1f9527e228ee3055cb1668a0b4b70224a295724b6b7f66d65b1bef0540
+machine_hash: 696d0be6a630ad6b92605b0f8a615f864dac6ca275535a397ddc33652ec1c6d2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,10 +52,11 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]'
-- "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
-  Chat Controls Permissions]]"
+- '[[Changes/Descript/2025-02-04-for-enterprise-users|For Enterprise users]]'
+- '[[Changes/Descript/2025-02-11-exclusive-to-business-and-enterprise-users-improved-custom-ai-speakers|Exclusive
+  to Business and Enterprise users — improved custom AI speakers]]'
+- '[[Changes/Descript/2025-02-11-translated-dubbing-and-captions-support-for-chinese-japanese-and-korean|Translated
+  dubbing and captions support for Chinese, Japanese and Korean]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-03-17-2025-03-17-a3ab66ac|elevenlabs-2025-03-17-2025-03-17-a3ab66ac]]'
 source_type: elevenlabs_changelog
 theme: enterprise-admin
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|🔒 Chat Controls Permissions]]
+- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-translated-dubbing-and-captions-support-for-chinese-japanese-and-korean|Translated dubbing and captions support for Chinese, Japanese and Korean]]
 - Later: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

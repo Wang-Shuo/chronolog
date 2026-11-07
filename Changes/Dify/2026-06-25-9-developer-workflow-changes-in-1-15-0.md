@@ -4,19 +4,20 @@ date: '2026-06-25'
 description: 'Dify · 2026-06-25 · Developer Workflow: 9 changes in 1.15.0 — **difyctl
   — drive Dify from the command line** ([Docs](https://docs.dify.ai/en/cli/overview))'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0949aa6a9be14c0967137f5acd1329de0a3024d9b460dc536b3d32e06f85634
+machine_hash: 5fc805e79e6b9ea30b7d669f046d5109ba0ad591ddaade447a6b7fa0179d3d38
 product: dify
 product_name: Dify
 record:
@@ -62,9 +63,10 @@ record:
   title: 9 Developer Workflow changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
+  the command in running Bash tool cards and allow expanding it with Ctrl+O…]]'
 - '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
   Workflow changes in v1.17.10]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
@@ -136,7 +138,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

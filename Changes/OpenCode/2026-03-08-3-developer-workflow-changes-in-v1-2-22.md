@@ -4,19 +4,20 @@ date: '2026-03-08'
 description: 'OpenCode · 2026-03-08 · Developer Workflow: 3 changes in v1.2.22 — Terminal
   Guard TUI exit to prevent premature termination'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90ca6acbc0b0f5aef16ce6c19daff34cb6e31e0acc7d6695397ead0fb691bcce
+machine_hash: 9863bfcfb9af332a3d877de1b4efa64130c22d7bc8cbb8541cc02bb1d64a7c77
 product: opencode
 product_name: OpenCode
 record:
@@ -94,7 +95,7 @@ Source: https://opencode.ai/changelog/v1.2.22
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,21 @@ date: '2023-10-10'
 description: 'Dify · 2023-10-10 · Account and Access: feat: move login_required wrapper
   outside by @takatost in https://github.com/langgenius/dify/pull/1281'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 194
+  lag_days: 1169
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2395db8eb7be50e666cda23c970fa234131f5aba2dfe5a788d90d619c7c4faed
+machine_hash: 9ab5f8a1de6eb01cdbc8734cfbbf1ff0c6cfa42e27965a110445f253a29ddea3
 product: dify
 product_name: Dify
 record:
@@ -78,13 +79,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2023-09-01 · Cursor · [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
-- Later: 2024-03-12 · Dify · [[Changes/Dify/2024-03-12-smtp-authentication-is-optional-by-lmagnien-in-https-github-com-langgenius-dify|SMTP authentication is optional]]
+- Later: 2024-03-04 · Descript · [[Changes/Descript/2024-03-04-signing-in-with-the-wrong-email|Signing in with the Wrong Email]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

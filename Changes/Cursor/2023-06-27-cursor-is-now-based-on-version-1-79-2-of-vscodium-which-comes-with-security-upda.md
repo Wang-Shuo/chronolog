@@ -4,20 +4,20 @@ date: '2023-06-27'
 description: 'Cursor · 2023-06-27 · Safety and Privacy: Cursor is now based on version
   1.79.2 of VSCodium, which comes with security updates and minor features'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 72
+  lag_days: 1064
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 345dbbe7ab158ef6d5d3d5882fe195a0ade367f5c5a661bb78d3e0d8badced04
+machine_hash: da01a3b8861ac6b17f50736960d2797e188614d324c33b8898fe7a920b13ba83
 product: cursor
 product_name: Cursor
 record:
@@ -45,6 +45,9 @@ record:
 related_changes:
 - '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
   mode for opting out of storing any kind of data on our servers]]'
+- '[[Changes/Notion/2023-04-27-2-step-verification-a-k-a-2fa-mfa|2-step verification
+  (a.k.a]]'
+- '[[Changes/Notion/2023-04-27-mention-groups|mention groups]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -76,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earlier: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-mention-groups|mention groups]]
 - Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage GPT to use language like "add files to the chat" to ask users…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

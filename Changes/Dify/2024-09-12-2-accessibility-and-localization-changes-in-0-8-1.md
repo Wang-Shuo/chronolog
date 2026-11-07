@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4cfcd1f45e74170eab27b19a91e7157f11699b65d5ea1114e39b74867db4dd1
+machine_hash: a461c937dc92ee6dcfeb0c29455351c35ff16c658f34bf2a67c60a3a4c84e06b
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.1
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-accessibility-enhancements-added-missing-aria-labels-for-buttons-improving-acces|🎭 Accessibility Enhancements]]
-- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-i18n-updates-enhanced-translations-for-chinese-ukrainian-russian-and-french-fost|🌍 i18n Updates]]
+- Later: 2024-09-12 · Synthesia · [[Changes/Synthesia/2024-09-12-give-every-viewer-the-right-language-version-with-easy-switching-localized-capti|Watch videos in any language with Multilingual Player]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

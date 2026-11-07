@@ -4,20 +4,20 @@ date: '2023-12-08'
 description: 'Dify · 2023-12-08 · Files and Data: feat: remove documents limit by
   @zxhlyh in https://github.com/langgenius/dify/pull/1697'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 197
+  lag_days: 1542
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b4689cdb6c43e64de843cb184fe0b6b0c74affbda805b1bb3927f0fe0a21f6ca
+machine_hash: 7f64779acbb3f2d03ce4bd92985ef4d262323c7f0242f498db01ad59731c65ad
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,11 @@ record:
   title: 'feat: remove documents limit'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-09-09-feat-optimize-high-load-sql-query-of-document-segment-by-takatost-in-https-githu|feat:
-  optimize high load sql query of document segment]]'
 - '[[Changes/Dify/2023-10-11-document-segmentapi-add-get-update-delete-operate-by-charli117-in-https-github-c|document
   segmentApi Add get&update&delete operate]]'
 - '[[Changes/Dify/2023-10-12-2-files-and-data-changes-in-0-3-27|2 Files and Data changes
   in 0.3.27]]'
+- '[[Changes/Descript/2023-10-31-expand-canvas|Expand Canvas]]'
 source_release: '[[Releases/Dify/dify-2023-12-08-0-3-33-github-133127964-bf22df9f|dify-2023-12-08-0-3-33-github-133127964-bf22df9f]]'
 source_type: github_releases
 theme: file-data
@@ -77,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-10-12 · Dify · [[Changes/Dify/2023-10-12-2-files-and-data-changes-in-0-3-27|2 Files and Data changes in 0.3.27]]
-- Later: 2023-12-19 · Dify · [[Changes/Dify/2023-12-19-unstructured-document-https-unstructured-io-github-io-unstructured-introduction|Unstructured Document((source link)]]
+- Earlier: 2023-10-31 · Descript · [[Changes/Descript/2023-10-31-expand-canvas|Expand Canvas]]
+- Later: 2023-12-18 · Descript · [[Changes/Descript/2023-12-18-new-canvas-options|New Canvas Options]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

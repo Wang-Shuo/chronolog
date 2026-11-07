@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Mobile and Desktop: Sandboxed builds
   on Windows create their scratch caches on first run, so cargo, go, Gradle, and ccache…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31764660a92e5e8cf30648ffbf4bc51c1d178c8acbb3ed1596012f677ffe6592
+machine_hash: 081b666d0cbc1e4dacb4c81ff3d981623e1096b1502b790824ed6c575095967a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,7 +46,8 @@ record:
     cargo, go…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-teams-meetings-in-copilot-notebooks-android-windows-ios-web-onenote|Teams
+  Meetings in Copilot Notebooks Android, Windows, iOS, Web (OneNote)]]'
 - "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
   Starting up on Windows. The Windows start script now creates the secret key…]]"
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
@@ -96,13 +97,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat: add linux desktop installer build (CI + deb maintainer fix)]]
+- Later: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-web-improve-mobile-ui-styling|web: Improve mobile UI styling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

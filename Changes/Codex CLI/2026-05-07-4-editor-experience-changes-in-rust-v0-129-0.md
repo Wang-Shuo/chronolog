@@ -4,20 +4,19 @@ date: '2026-05-07'
 description: 'Codex CLI · 2026-05-07 · Editor Experience: 4 changes in 0.129.0 — Large
   paste placeholders and Ctrl+C-stashed drafts now survive clear/editor workflows…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16a4e48d56579320adf5a7ff6cfde429421b3aff3948717461c3fb6377994574
+machine_hash: d6d7a86e0d06e009c0b7053c53059d63e7b6fb7ee58722b741a87b92fbce0561
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +47,12 @@ record:
   title: 4 Editor Experience changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell
-  tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]'
-- '[[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics
-  tab]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4
-  Editor Experience changes in v1.0.41]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-05-expanded-published-report-recipients-web-viva-insights|Expanded
+  published report recipients Web (Viva Insights)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-05-contextual-nudges-in-edge-offer-quick-page-summaries-in-copilot-chat-web-microso|Contextual
+  nudges in Edge offer quick page summaries in Copilot Chat…]]'
+- '[[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct
+  dubbing transcripts seamlessly]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
 source_type: github_releases
 theme: editor-experience
@@ -105,14 +104,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4 Editor Experience changes in v1.0.41]]
+- Earlier: 2026-05-06 · Synthesia · [[Changes/Synthesia/2026-05-06-edit-original-and-translated-dubbing-transcripts-without-validation-blockers-wit|Correct dubbing transcripts seamlessly]]
 - Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved prompt input undo grouping, so undo/redo feels more natural during edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

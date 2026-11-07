@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6fa9fb1710b596ae145458f1b8177aa1575eae763e689a802966cea85d0a52f
+machine_hash: b88977266dfdb526644974c264157fc975ae05e21aee894c836eb0bbb002b0b7
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +45,10 @@ record:
     messages
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
-  Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
-- '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
-  changes in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-added-original-and-discounted-usage-multipliers-to-the-model-menu|Added
+  original and discounted usage multipliers to the model menu]]'
+- '[[Changes/Qoder/2026-08-27-frontier-models-smart-routing-qoder-brings-together-leading-models-without-locki|Frontier
+  models, smart routing]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-28-v1-18-25-beb5a3f2|opencode-2026-08-28-v1-18-25-beb5a3f2]]'

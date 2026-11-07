@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 239f4e530c690ed3fb400adbe6dbaadeedbe1a4ea9a6306359f2c7f29fcc6c42
+machine_hash: f7322b37d4ee1e7a16b31f896fc442182761e848bfdd85da818c2c5e956f48fb
 product: ollama
 product_name: Ollama
 record:
@@ -50,12 +50,12 @@ record:
   title: '**Gemma 4 on MLX.** Added support for running Gemma 4 via MLX on Apple Silicon…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto
-  mode is now available for Max subscribers when using Opus 4.7]]'
 - '[[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7
   model support]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
   for Claude Opus 4.7]]'
+- '[[Changes/Notion/2026-04-16-claude-opus-4-7-anthropic-s-latest-model-is-now-in-notion-it-uses-fewer-tokens-m|Opus
+  4.7, now in Notion]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-16-v0-21-0-github-310055812-cddcf12c|ollama-2026-04-16-v0-21-0-github-310055812-cddcf12c]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support for Claude Opus 4.7]]
+- Earlier: 2026-04-16 · Notion · [[Changes/Notion/2026-04-16-claude-opus-4-7-anthropic-s-latest-model-is-now-in-notion-it-uses-fewer-tokens-m|Opus 4.7, now in Notion]]
 - Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-github-copilot-gpt-5-mini-now-uses-low-reasoning-effort-for-better-request-compa|GitHub Copilot gpt-5-mini now uses low reasoning effort for better request compatibility]]
 <!-- chronolog:end -->
 

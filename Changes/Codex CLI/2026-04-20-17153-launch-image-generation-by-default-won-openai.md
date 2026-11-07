@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'Codex CLI · 2026-04-20 · Image Generation: #17153 Launch image generation
   by default @won-openai'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 771
+  lag_days: 1029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 476ea80d41f41742829bb41118043be62991c040a5a28d85404f35213ca84416
+machine_hash: 02995f718bae06e6530eb400614f49ef8f44174383a05f2cc062b1d77526b243
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#17153 Launch image generation by default @won-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image
-  Generation changes in rust-v0.117.0]]'
+- '[[Changes/HeyGen/2026-04-02-image-generation-or-preservation|Image generation or
+  preservation]]'
 - '[[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and
   AI-generated images in Library]]'
 - '[[Changes/Codex CLI/2026-04-20-tool-discovery-and-image-generation-are-now-enabled-by-default-with-higher-detai|Tool
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

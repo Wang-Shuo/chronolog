@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a0e99b27b46cc6b040a58a3e44e3c6d76b731011fce83f51a088e0a899ab9ebb
+machine_hash: af2301a2695276628a5fe51424e5e28c5815c5fbf08bcfe5a5f1cb8f1ed98775
 product: opencode
 product_name: OpenCode
 record:
@@ -42,10 +42,10 @@ record:
   title: Made session compaction keep complete recent turns and produce clearer summaries…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
-  in v4.1.8]]'
 - '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
   changes in v0.55.1]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-choose-anthropic-models-when-editing-with-copilot-in-word-web-word|Choose
+  Anthropic models when editing with Copilot in Word Web (Word)]]'
 - '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
   the model selector dropdown to choose thinking levels per-model…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-12-v1-18-17-b94d17fb|opencode-2026-08-12-v1-18-17-b94d17fb]]'

@@ -4,20 +4,20 @@ date: '2026-03-27'
 description: 'Dify · 2026-03-27 · Pricing Model: 3 changes in v1.13.3 — refactor:
   route low-cost next modules through compat re-exports by @lyzno1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2816
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0ddce04c266531d4ac4f6842e52488408048ae131458905251cf8123fd26a96
+machine_hash: a08d35f20927e8b7f33013a83e0bd5c55408e50a83e0ad804fccee0a203d9db4
 product: dify
 product_name: Dify
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Pricing Model changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
   add Clearcut instrumentation for AI credits billing events]]'
+- '[[Changes/HeyGen/2026-03-25-sub-workspace-management-refreshed-ui-for-billing-setup-cleaner-management-of-av|Sub-workspace
+  management: Refreshed UI for billing setup, cleaner management…]]'
 - "[[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|\U0001F4CA
   Metrics export interval configuration. Administrators can now control…]]"
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
@@ -104,7 +105,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

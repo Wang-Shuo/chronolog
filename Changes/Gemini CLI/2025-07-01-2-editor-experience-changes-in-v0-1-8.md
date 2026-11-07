@@ -4,20 +4,19 @@ date: '2025-07-01'
 description: 'Gemini CLI · 2025-07-01 · Editor Experience: 2 changes in v0.1.8 — feat:
   add VSCodium editor support by @psinha40898 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 840
+  lag_days: 2424
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 542cf49f49ffbc55748388f709d48c444b561cfb8e79566a0dc362e06c2aff41
+machine_hash: 8953e4f344fce8c12906064834e1f8c5feb891cc88f9053bbcdc8dfb1728b34f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +41,9 @@ record:
   title: 2 Editor Experience changes in v0.1.8
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
-- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
-  Code Cleanup]]'
+- '[[Changes/Descript/2025-06-25-new-in-the-editor|New in the editor]]'
+- '[[Changes/Descript/2025-06-26-there-s-also-a-new-dropdown-view-menu-in-the-upper-lefthand-side-of-the-screen-r|There’s
+  also a new dropdown View menu in the upper lefthand side of the screen…]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
@@ -95,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

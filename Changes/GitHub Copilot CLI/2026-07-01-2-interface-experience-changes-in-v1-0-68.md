@@ -4,20 +4,20 @@ date: '2026-07-01'
 description: 'GitHub Copilot CLI · 2026-07-01 · Interface Experience: 2 changes in
   1.0.68 — Update the Sessions sidebar branch after /cd and /worktree'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8efffb17125d11f2a4be30ff557b44a347d427c95cdd261a8dbf2558701fac4
+machine_hash: 7b75151543acc127477ba02261f4996539dd06cc14b5b18b934829dcb1301adb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,13 +89,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface Experience changes in v2.1.198]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface Experience changes in v0.10.2]]
+- Later: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-keep-the-waiting-spinner-visible-while-encrypted-reasoning-streams-fixing-a-blan|Keep the waiting spinner visible while encrypted reasoning streams, fixing a blank…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

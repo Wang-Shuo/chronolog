@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-19 · Voice and Audio: \U0001F600 **Emoji Ge
   Error Handling**: Improved error handling in audio router and fixed metadata structure
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 740
+  lag_days: 2567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 298b4103e05cb43d1e41f0d40f570565850b3ee13cb97cd0edea8d0c6e742a04
+machine_hash: 6809b905c53fff1a5572e4551ad4931b0ab90db5fe9de7a7f46fa7ad0e95e44e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: "\U0001F600 **Emoji Generation Error Handling**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
-  live conversations like team meetings or voice notes, and turn those…]]'
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
-  to Advanced Voice Mode for Free tier users]]'
+- '[[Changes/Descript/2025-07-17-brand-studio-allows-you-to-view-your-drive-s-custom-fonts-for-use-in-layout-pack|Brand
+  studio allows you to view your Drive''s custom fonts for use in layout packs…]]'
+- '[[Changes/Descript/2025-07-17-editors-can-upload-fonts-remix-layout-packs-and-manage-transcription-tools|Editors
+  can upload fonts, remix layout packs, and manage transcription tools]]'
 - '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b|open-webui-2025-07-19-v0-6-17-github-233695159-4b5cb15b]]'
 source_type: github_releases
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

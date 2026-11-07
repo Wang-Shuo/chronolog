@@ -4,20 +4,20 @@ date: '2025-03-29'
 description: 'Gemini · 2025-03-29 · Context Window: What: Today we’re expanding access
   to our most intelligent AI model, 2.5 Pro (experimental), to all Gemini users. This…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 695
+  lag_days: 2019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9167ceb2b77c409d94d9d949cfa112e73d69be01e183d3d24370198da2b6a9a1
+machine_hash: eef49a5dcba91e3759650558be0b168befbb2f608eb0fbdd83e8ff837cc0bdb4
 product: gemini
 product_name: Gemini
 record:
@@ -128,7 +128,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

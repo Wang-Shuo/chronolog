@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'Ollama · 2026-11-03 · Reliability and Performance: Faster top-k sampling
   on MLX for large vocabularies'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1419
+  lag_days: 2906
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e636f679c4116537c1dec2f7f174e8e24cafcd0b548f0f43de3b7657a21ba92
+machine_hash: c5ebb1817b7f82e48434390dffbb462199aeff4eba4a516bfd995ea0638727d6
 product: ollama
 product_name: Ollama
 record:
@@ -40,10 +40,10 @@ record:
   title: Faster top-k sampling on MLX for large vocabularies
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-faster-long-sessions-in-desktop|Faster Long Sessions
-  in Desktop]]'
 - '[[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop
   Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]'
+- '[[Changes/Qoder/2026-10-30-conversation-input-improved-slash-menu-categories-and-recent-items-file-search-i|Conversation
+  input: Improved slash-menu categories and recent items, @ file…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes:
   History items for v4 generations keep clone_strength and speed…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-14-github-432169781-b3886e93|ollama-2026-11-03-v0-40-14-github-432169781-b3886e93]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

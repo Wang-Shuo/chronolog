@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Codex CLI · 2026-06-04 · Files and Data: #25682 [codex] document out-of-line
   test module convention @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c5421b548a4915b9a28d9141379f7ec1c5a0e8e68bfd35ad7aaf98df692dc91
+machine_hash: 85d98f8cb3638123069b19d413a7b5316d91390dc492c09d526476bf95f4e169
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#25682 [codex] document out-of-line test module convention @anp-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110
-  Move config document helpers into their own module @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-canvas-providers-can-return-file-urls-in-open-results-for-local-file-previews|Canvas
   providers can return file:// URLs in open results for local file previews]]'
 - '[[Changes/Open WebUI/2026-06-01-5-files-and-data-changes-in-v0-9-6|5 Files and
   Data changes in v0.9.6]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-copilot-can-edit-your-document-by-default-in-word-web-word|Copilot
+  can edit your document by default in Word Web (Word)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: file-data
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-5-files-and-data-changes-in-v0-9-6|5 Files and Data changes in v0.9.6]]
+- Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-copilot-can-edit-your-document-by-default-in-word-web-word|Copilot can edit your document by default in Word Web (Word)]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Runway · 2026-05-13 · Multimodal Input: Work with an AI creative partner
   to develop and produce a finished video. Describe the video you need, refine the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1159de67b40354042e79c258350705e226dfb88d3ccc837a07dbc6e827fef890
+machine_hash: 96a7e31d228235f7b9de1eee28c42fcc29c20ffb5e638a0d11cf46ee502295fa
 product: runway
 product_name: Runway
 record:
@@ -46,10 +46,10 @@ record:
   title: Runway Agent
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|\U0001F680
-  Persistent chat payload efficiency. Persisted chats now use server-side…]]"
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
-  image paste from Windows clipboard now works via a PowerShell fallback…]]'
+- '[[Changes/HeyGen/2026-05-13-heygen-is-now-natively-integrated-with-openai-codex-bringing-a-complete-video-cr|HeyGen
+  is now natively integrated with OpenAI Codex, bringing a complete video…]]'
+- '[[Changes/HeyGen/2026-05-13-whether-you-re-shipping-a-product-demo-a-tutorial-or-a-feature-walkthrough-you-c|Whether
+  you''re shipping a product demo, a tutorial, or a feature walkthrough, you…]]'
 - '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
   is not yet supported]]'
 source_release: '[[Releases/Runway/runway-2026-05-13-2026-05-13-runway-agent-c6b137b0|runway-2026-05-13-2026-05-13-runway-agent-c6b137b0]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

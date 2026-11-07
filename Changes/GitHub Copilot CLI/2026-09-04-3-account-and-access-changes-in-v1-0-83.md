@@ -4,20 +4,21 @@ date: '2026-09-04'
 description: 'GitHub Copilot CLI · 2026-09-04 · Account and Access: 3 changes in 1.0.83
   — Add Client ID Metadata Document (CIMD) support for MCP OAuth sign-in'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1254
+  lag_days: 2229
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82e4a6c3a5fc28233163d489da20a3bbdf1344f62a096718ae5acf87e0b95267
+machine_hash: 78d011c6f0840002d188470edf6a1c6e11a4ba14c6b383df3869d012ecd17729
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -103,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-05-05'
 description: 'GitHub Copilot CLI · 2026-05-05 · Editor Experience: 4 changes in 1.0.41
   — Shell completions (bash, zsh, fish) are automatically installed on first run and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2732
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aec278a69d5493f6e137eb894af72e67d08f790bf0ccf3b94ad2bd719e2be34d
+machine_hash: c6ae791c7088d00db9ed1823103c44d516b2ac0e2411a01a98f046f3d495ae6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,12 +49,12 @@ record:
   title: 4 Editor Experience changes in v1.0.41
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045
-  Fix plan mode nudge test after task completion signature change @canvrno-oai]]'
 - '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell
   tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]'
 - '[[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics
   tab]]'
+- '[[Changes/Notion/2026-05-04-navigating-notion-on-mobile-just-got-easier-with-the-new-home-tab-now-your-home|A
+  new home on mobile]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
 source_type: github_releases
 theme: editor-experience
@@ -100,14 +99,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-updated-usage-analytics-tab|Updated usage analytics tab]]
-- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-editor-experience-changes-in-rust-v0-129-0|4 Editor Experience changes in rust-v0.129.0]]
+- Earlier: 2026-05-04 · Notion · [[Changes/Notion/2026-05-04-navigating-notion-on-mobile-just-got-easier-with-the-new-home-tab-now-your-home|A new home on mobile]]
+- Later: 2026-05-05 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-05-copilot-configuration-insights-in-the-copilot-dashboard-readiness-page-web-viva|Copilot configuration insights in the Copilot Dashboard Readiness page…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-02-13'
 description: 'OpenHands · 2025-02-13 · Editor Experience: Add success/failure indicators
   for file read/edit operations by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 702
+  lag_days: 2286
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afad56c03431499edd1cece38c9697842551c4e2835361dbc6df19e9d0e4d2b1
+machine_hash: 8b052780ef282f12028b36d4fefca57776ff9c6be6b99bd972adac4f0b92edc6
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +43,7 @@ record:
   title: Add success/failure indicators for file read/edit operations
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-07-feat-prompt-editor-dark-theme-by-zxhlyh-in-https-github-com-langgenius-dify-pull|Feat/prompt
-  editor dark theme]]'
+- '[[Changes/Descript/2025-02-11-editor-updates|Editor updates]]'
 - '[[Changes/Lovable/2025-02-12-visual-edits|Visual Edits]]'
 - '[[Changes/Lovable/2025-02-12-introducing-visual-edits-https-lovable-dev-blog-introducing-visual-edits|Introducing
   Visual Edits.((source link)]]'
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

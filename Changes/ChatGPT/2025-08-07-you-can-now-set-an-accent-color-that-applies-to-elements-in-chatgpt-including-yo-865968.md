@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: You can now set an accent color
   that applies to elements in ChatGPT, including your conversation bubbles, the Voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 759
+  lag_days: 2586
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a76d52facefcc2d9d9c4241b50d3653b942a0b8aef15996675117097bac0a9d4
+machine_hash: 593df814e97c2ebaa2015d3cf74e1dc2854e500e1c7c27ba6fdfadea184f5b23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,7 +63,7 @@ record:
   title: Accent Colors
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-07-28-speech-to-text-b64b2f|Speech to Text]]'
+- '[[Changes/Descript/2025-07-31-new-export-to-hubspot|New: Export to HubSpot]]'
 - '[[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]'
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
   Voice updates]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

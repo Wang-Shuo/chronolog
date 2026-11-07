@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'Claude Code · 2026-06-10 · Mobile and Desktop: Disable mouse tracking
   on Windows consoles that don''t fully support it'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f09b1aebd3c2b480350a51702f2ec3ac673fa774fbd9d1796ad93e4fa31516ab
+machine_hash: 6fa3907bba3a0060c2a05acfc3a258b0c9b1e754d3b5d6091aec15c068de7151
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Disable mouse tracking on Windows consoles that don't fully support it
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate
-  image previews after sending]]'
 - '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
   on Windows now stops retrying within a session once claude.exe…]]'
 - '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
   Mobile and Desktop changes in rust-v0.138.0]]'
+- '[[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect
+  Git Bash installed through Scoop and other Git shims on Windows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c|claude-code-2026-06-10-v2-1-172-github-337412034-dc68562c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4 Mobile and Desktop changes in rust-v0.138.0]]
+- Earlier: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect Git Bash installed through Scoop and other Git shims on Windows]]
 - Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-2-mobile-and-desktop-changes-in-v1-17-1|2 Mobile and Desktop changes in v1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

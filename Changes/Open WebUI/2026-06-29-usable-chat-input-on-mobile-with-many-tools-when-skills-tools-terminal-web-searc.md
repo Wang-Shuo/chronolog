@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-29 · Image Generation: \U0001F4F1 **Usable 
   input on mobile with many tools.** When skills, tools, terminal, web search, and
   image generation…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 1099
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2aff01ee91f2a2314b6b21f4e99ea75b8fa84d6f5295beeedf17d606f82b267f
+machine_hash: f652aa9198fa6871b1c1d3a2f2f46490198d08d6e44fb17f7ab3a1439acf61b0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -72,10 +72,10 @@ record:
     tools, terminal, web…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
-  Generation changes in rust-v0.138.0]]'
 - '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
   Handle standalone image generation failures as terminal items @won-openai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black
+  Forest Lab''s FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]'
 - '[[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better
   standard image generation while building]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
@@ -134,7 +134,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

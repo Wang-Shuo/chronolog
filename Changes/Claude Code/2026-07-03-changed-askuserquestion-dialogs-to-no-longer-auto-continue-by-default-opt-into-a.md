@@ -4,20 +4,20 @@ date: '2026-07-03'
 description: 'Claude Code · 2026-07-03 · Interface Experience: Changed `AskUserQuestion`
   dialogs to no longer auto-continue by default; opt into an idle timeout via `/config`'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1271
+  lag_days: 2637
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bf7ec294e2fc67c2b2da0fd4dfc84018c59dc4b9efc9c32a33d84eb8b4c301d
+machine_hash: 739e09b2830c5373808d0b7cd11ca174377ccce739fca2f5690e50b9f5d4ffe7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
-  Experience changes in v2.1.198]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
-  Interface Experience changes in v1.0.68]]'
 - '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
   Experience changes in v0.10.2]]'
+- '[[Changes/Kimi Code/2026-07-02-add-workspace-sorting-by-manual-order-or-last-edited-time-plus-collapse-all-and|Add
+  workspace sorting by manual order or last-edited time, plus collapse-all…]]'
+- '[[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let
+  the web sidebar collapse an expanded workspace session list back to its first page]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface Experience changes in v0.10.2]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions]]
+- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-let-the-web-sidebar-collapse-an-expanded-workspace-session-list-back-to-its-firs|Let the web sidebar collapse an expanded workspace session list back to its first page]]
+- Later: 2026-07-04 · Kimi Code · [[Changes/Kimi Code/2026-07-04-revert-the-recent-tui-transcript-rendering-changes-to-the-original-upstream-beha|Revert the recent TUI transcript rendering changes to the original upstream behavior…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

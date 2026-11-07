@@ -4,20 +4,19 @@ date: '2026-08-21'
 description: 'Claude Code · 2026-08-21 · Editor Experience: Claude in Chrome: `/clear`
   now closes the session''s Chrome tab group, and empty groups are closed on `/resume`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2840
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d91994101c4312904f3f192ac1c22889869bb70b6e1229cbb83bf84c50224f06
+machine_hash: 0307355316ccca047fd99ff4649ce4df1d7e4f4bc8a682fe9a2ce0d91631f467
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +42,10 @@ record:
   title: Claude in Chrome
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
-  Experience changes in rust-v0.149.0]]'
-- '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering
-  over a file''s comment count pill now previews all comments on that file…]]'
+- '[[Changes/HeyGen/2026-08-20-your-avatar-doesn-t-have-to-be-stuck-with-the-day-you-recorded-it-edit-look-lets|Your
+  avatar doesn''t have to be stuck with the day you recorded it]]'
+- '[[Changes/Kimi Code/2026-08-20-edit-and-write-now-require-reading-an-existing-file-before-modifying-it|Edit
+  and Write now require reading an existing file before modifying it]]'
 - '[[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow
   Support in Runway MCP]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

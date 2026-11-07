@@ -4,20 +4,20 @@ date: '2026-08-10'
 description: 'Claude Code · 2026-08-10 · Reliability and Performance: Improved performance:
   fewer event-loop stalls on file-not-found suggestions and at-mention size checks'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1334
+  lag_days: 2821
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2565b03f88cc03405aa1f938ca6643c4e54dfc9a70e0655ca7e5f9f91bc5656
+machine_hash: 75584e766ca09c3bf1f16ae41bf3076265fcf4ad3a8f7d2b78ba81942738c2e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
-  a long session is dramatically faster and far lighter on memory, because…]]'
 - '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
   is faster on Apple GPUs]]'
+- '[[Changes/Descript/2026-08-05-improved-timeline-performance|Improved timeline performance]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2
   Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

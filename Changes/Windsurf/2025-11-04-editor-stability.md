@@ -4,20 +4,19 @@ date: '2025-11-04'
 description: 'Windsurf · 2025-11-04 · Editor Experience: **Terminal freeze fix** -
   Fixed an issue where the editor would freeze when opening the terminal'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2550
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ab3b4fcc60ce93d31f7c3095ef5874e0a4905c0df1f48fdf158141377b8cc524
+machine_hash: 84aafb31341bdb9619a5d7a37af630f9867d645729b664905417563d35dcb68e
 product: windsurf
 product_name: Windsurf
 record:
@@ -59,12 +58,12 @@ record:
   title: Editor Stability
   type: change
 related_changes:
-- '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
-  Editing with Nano Banana]]'
 - '[[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever
   made the perfect edit to an AI image, only to lose track of it?]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
   hunk lines now properly fill the width of the diff box]]'
+- '[[Changes/Synthesia/2025-11-03-grow-completion-rate-for-every-video-you-create-with-amazing-new-feature-quizzes|Add
+  Quizzes to any Synthesia video]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-04-v1-12-28-55c0c8a2|windsurf-2025-11-04-v1-12-28-55c0c8a2]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -98,14 +97,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff hunk lines now properly fill the width of the diff box]]
+- Earlier: 2025-11-03 · Synthesia · [[Changes/Synthesia/2025-11-03-grow-completion-rate-for-every-video-you-create-with-amazing-new-feature-quizzes|Add Quizzes to any Synthesia video]]
 - Later: 2025-11-05 · OpenHands · [[Changes/OpenHands/2025-11-05-removed-jupyter-tab-by-amanape-in-https-github-com-openhands-openhands-pull-1156|Removed Jupyter tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

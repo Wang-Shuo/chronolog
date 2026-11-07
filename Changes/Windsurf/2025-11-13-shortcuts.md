@@ -5,20 +5,19 @@ description: 'Windsurf · 2025-11-13 · Editor Experience: **Attach current file
   Cascade**: New shortcut `Option/Alt+Cmd+L` when in an editor to attach the current
   file to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 975
+  lag_days: 2559
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d552b94460324ba1123af7fef31045759347fe4c176d94b4d3e08616843bbab8
+machine_hash: cba31ef6eff795ee69116d00d46fe3b0f3542bc7ea5487ab4d2cf6f3679a84fd
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,9 +44,8 @@ record:
   title: Shortcuts
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3
-  Editor Experience changes in v0.0.355]]'
 - '[[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]'
+- '[[Changes/Descript/2025-11-13-editor|Editor]]'
 - '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
   reuse the same edit-custom-collection-modal component, and fix…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-13-v1-12-31-173d695f|windsurf-2025-11-13-v1-12-31-173d695f]]'
@@ -88,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

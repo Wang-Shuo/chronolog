@@ -5,20 +5,20 @@ description: 'Midjourney · 2026-09-24 · Pricing Model: Billing tabs no longer 
   blank when the portal is slow, and invoices open in the same tab if your browser
   blocks…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1379
+  lag_days: 2997
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: d2c28df09fb56a554635c88b453aa3a72abe00e7e9ee6b243be0844072969d61
+machine_hash: c5e1cb7714a7846fccc511e384c4e022aaa146134f450750c66357ced257efd2
 product: midjourney
 product_name: Midjourney
 record:
@@ -67,8 +67,8 @@ record:
   title: POLISH & BUGS
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
-  the estimated monthly Cloud cost of each database size]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-github-copilot-ai-cost-dashboard-in-insights-web-microsoft-365-copilot|GitHub
+  Copilot AI cost dashboard in Insights Web (Microsoft 365 Copilot)]]'
 - '[[Changes/OpenClaw/2026-09-23-8-pricing-model-changes-in-v2026-9-6|8 Pricing Model
   changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

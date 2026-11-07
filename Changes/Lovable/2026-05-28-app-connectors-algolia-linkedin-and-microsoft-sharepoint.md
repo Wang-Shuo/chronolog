@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Lovable · 2026-05-28 · Apps and Integrations: Three new app connectors
   let your apps work directly with advanced search, LinkedIn posting workflows, and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1162
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ee8054e2d34ec36af8f7bcd37af7e5108d587d54d89a871c74a0cafe510949d9
+machine_hash: 3fc3f0d9e4ff0a8994f744050b04a5e41cb8180990750868b70e72bbca8dae8a
 product: lovable
 product_name: Lovable
 record:
@@ -62,12 +62,12 @@ record:
   title: 'App connectors: Algolia, LinkedIn, and Microsoft SharePoint'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-28-move-the-vs-code-extension-project-into-apps-vscode|Move
-  the VS Code extension project into apps/vscode]]'
 - '[[Changes/Codex CLI/2026-05-28-14-apps-and-integrations-changes-in-rust-v0-135-0|14
   Apps and Integrations changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
   Apps and Integrations changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-2-apps-and-integrations-changes-in-kimi-code-0-5-0|2
+  Apps and Integrations changes in Kimi Code 0.5.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-28-2026-05-28-4c96572a|lovable-2026-05-28-2026-05-28-4c96572a]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -102,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10 Apps and Integrations changes in v1.0.55]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-2-apps-and-integrations-changes-in-kimi-code-0-5-0|2 Apps and Integrations changes in Kimi Code 0.5.0]]
 - Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP integrations can now send prompts, slash commands, and usage updates through acp-next]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

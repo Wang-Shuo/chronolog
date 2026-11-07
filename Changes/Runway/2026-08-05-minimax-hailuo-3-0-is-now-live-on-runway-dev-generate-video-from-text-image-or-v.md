@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'Runway · 2026-08-05 · Video Generation: MiniMax Hailuo 3.0 is now live
   on Runway Dev. Generate video from text, image, or video, with support for keyframes…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 930
+  lag_days: 2114
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b098cde1780579ce08ca338590a03f247c1bbd24214a7c1fc6ccd6746dca318e
+machine_hash: 4ebc07dff2f9524128936e0db5f70d0bdbba5f15970d5e9356ee7c3d972b0dbc
 product: runway
 product_name: Runway
 record:
@@ -48,12 +48,12 @@ record:
   title: MiniMax Hailuo 3.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-after-one-generated-video-clip-is-ready-a-different-next-clip-can-start-immediat|After
-  one generated video clip is ready, a different next clip can start immediately…]]'
 - '[[Changes/Runway/2026-07-21-two-new-lightweight-seedance-2-0-tiers-are-now-available-through-runway-mcp-seed|Seedance
   2.0 Mini and Fast]]'
 - '[[Changes/Runway/2026-07-22-runway-mcp-now-supports-seedance-2-0-video-generation-in-4k-resolution-just-expl|Seedance
   2.0 4K]]'
+- '[[Changes/HeyGen/2026-07-23-the-agent-can-source-web-images-and-stock-or-generate-its-own-video-and-photos-a|The
+  agent can source web images and stock, or generate its own video and photos…]]'
 source_release: '[[Releases/Runway/runway-2026-08-05-2026-08-05-minimax-hailuo-3-0-d38cf93d|runway-2026-08-05-2026-08-05-minimax-hailuo-3-0-d38cf93d]]'
 source_type: runway_changelog
 theme: video-generation
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-07-22 · Runway · [[Changes/Runway/2026-07-22-runway-mcp-now-supports-seedance-2-0-video-generation-in-4k-resolution-just-expl|Seedance 2.0 4K]]
-- Later: 2026-08-13 · Runway · [[Changes/Runway/2026-08-13-xai-s-grok-imagine-1-5-is-now-available-in-runway-mcp-as-grok-imagine-1-5-suppor|Grok Imagine 1.5 Video]]
+- Earlier: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-the-agent-can-source-web-images-and-stock-or-generate-its-own-video-and-photos-a|The agent can source web images and stock, or generate its own video and photos…]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen adds new customization options to Generate Script with AI in the PPT/PDF…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

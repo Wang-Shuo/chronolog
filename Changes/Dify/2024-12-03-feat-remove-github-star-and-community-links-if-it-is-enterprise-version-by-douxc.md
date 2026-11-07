@@ -4,20 +4,20 @@ date: '2024-12-03'
 description: 'Dify · 2024-12-03 · Enterprise and Administration: Feat: remove github
   star and community links if it is enterprise version by @douxc in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 578
+  lag_days: 1785
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12c461fb5955dc7e3ce608c3130b5d469ce6f66521b4a2ab6c3976522d048dd1
+machine_hash: 0b3a4d72a04e0e17c16adc5f57daef678d3cd64100f98d600490f9c0d6434555
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'Feat: remove github star and community links if it is enterprise version'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-05-23-enterprise-grade-data-protections-for-workspace-for-education-customers-is-now-a|Enterprise-grade
-  data protections for Workspace for Education customers is now…]]'
-- '[[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update
-  enterprise inquiry link to point to chatflow]]'
+- '[[Changes/Descript/2024-08-27-ai-usage-dashboard-admin-view|AI Usage dashboard
+  admin view]]'
 - '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
   support for reading .pdf and .docx files…]]'
+- '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
+  for Enterprise Drive admins]]'
 source_release: '[[Releases/Dify/dify-2024-12-03-0-13-0-github-188658250-1aa233f6|dify-2024-12-03-0-13-0-github-188658250-1aa233f6]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
+- Earlier: 2024-09-25 · Descript · [[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers for Enterprise Drive admins]]
 - Later: 2024-12-27 · Replit · [[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

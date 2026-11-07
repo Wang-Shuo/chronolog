@@ -4,20 +4,20 @@ date: '2023-06-07'
 description: 'Gemini · 2023-06-07 · Files and Data: What: Starting with English, we’ve
   updated Bard to detect computational prompts and run code in the background, making…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 13
+  lag_days: 1358
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4484d084822007736a1fd42401bd276b18d5ce3d62b9ac7ff3e0c3fbe5bbd430
+machine_hash: 2b23b722e1793cffa07b1db89a6c2ae34c876338963500018777da4a52e7e2e5
 product: gemini
 product_name: Gemini
 record:
@@ -48,8 +48,12 @@ record:
   title: Bard codes for you for improved math and data analysis
   type: change
 related_changes:
+- '[[Changes/Descript/2023-05-13-improved-visibility-into-sync-status-now-providing-more-information-on-the-progr|Improved
+  visibility into sync status, now providing more information on the progress…]]'
 - '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes
   in 0.2.2]]'
+- '[[Changes/Descript/2023-05-31-timeline-reflects-layer-order-layer-order-in-the-timeline-https-help-descript-co|Timeline
+  reflects layer order]]'
 source_release: '[[Releases/Gemini/gemini-2023-06-07-2023-06-07-1d644377|gemini-2023-06-07-2023-06-07-1d644377]]'
 source_type: gemini_changelog
 theme: file-data
@@ -78,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
-- Later: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earlier: 2023-05-31 · Descript · [[Changes/Descript/2023-05-31-timeline-reflects-layer-order-layer-order-in-the-timeline-https-help-descript-co|Timeline reflects layer order]]
+- Later: 2023-06-13 · Descript · [[Changes/Descript/2023-06-13-change-layer-order-from-timeline-to-change-the-visual-layer-order-from-the-timel|Change layer order from timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

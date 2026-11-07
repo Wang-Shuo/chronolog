@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8160bdac7f9a33e5b2212b623d393ec5a527ad9d3e09c704906c75ee66544ba7
+machine_hash: 64248529b0b7b47ed4def1daf206a2d4851af3870c381245e740fd54bc99f65b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -163,9 +163,11 @@ record:
   title: 25 Model Support changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-workspaces|Workspaces]]'
 - '[[Changes/ElevenLabs/2026-06-29-text-to-speech|Text to Speech]]'
 - '[[Changes/ElevenLabs/2026-06-29-workspaces-e487d5|Workspaces]]'
+- '[[Changes/Kimi Code/2026-06-29-route-kimi-code-models-on-the-anthropic-compatible-protocol-through-the-beta-mes|Route
+  Kimi Code models on the Anthropic-compatible protocol through the beta Messages
+  API]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: model-support
@@ -264,7 +266,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-workspaces-e487d5|Workspaces]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-route-kimi-code-models-on-the-anthropic-compatible-protocol-through-the-beta-mes|Route Kimi Code models on the Anthropic-compatible protocol through the beta Messages API]]
 - Later: 2026-06-30 · Claude · [[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]
 <!-- chronolog:end -->
 

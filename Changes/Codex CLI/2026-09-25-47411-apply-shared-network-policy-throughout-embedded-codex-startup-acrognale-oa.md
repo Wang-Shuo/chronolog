@@ -4,19 +4,20 @@ date: '2026-09-25'
 description: 'Codex CLI · 2026-09-25 · Collaboration: #47411 Apply shared network
   policy throughout embedded Codex startup @acrognale-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2814
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: beb6d227c7528eb663c0fe9da103259bfda04eb56ea6de7022efbb23942ebcb2
+machine_hash: 59980684defff1ae36ceb43bc0acf6df5ced7558cdadb10735a04b86b6b69309
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +43,10 @@ record:
   title: '#47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
 - '[[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration
   changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-a-new-space-for-human-and-agent-collaboration|A New
+  Space for Human and Agent Collaboration]]'
 - '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
   to share with you today]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
@@ -95,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

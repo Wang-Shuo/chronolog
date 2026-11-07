@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: eda702a74c2b629c64627891972735f70979bc10fa97b1b8be75471ff09fb78e
+machine_hash: ba04b707387e224d54b60023d7b0096ae4f62be64ce0f4a0d1ae4234dadb8616
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]]
+- Later: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-tighten-goal-mode-guidance-so-agents-continue-reasonable-work-across-turns-inste|Tighten goal-mode guidance so agents continue reasonable work across turns instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

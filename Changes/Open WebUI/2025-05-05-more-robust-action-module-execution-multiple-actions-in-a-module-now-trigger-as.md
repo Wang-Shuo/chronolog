@@ -4,20 +4,20 @@ date: '2025-05-05'
 description: "Open WebUI · 2025-05-05 · Automation and Scheduling: \U0001F6E0️ **More
   Robust Action Module Execution**: Multiple actions in a module now trigger as designed…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 489
+  lag_days: 2056
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a596c925d11ea39ec2a450c3537ac19cfe07065ea96d50b0f89f2e69ac370825
+machine_hash: 841e473516cb5db966bc75eb9c99212829b19f0b3c9ec4664b07a42b50cd7789
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,12 +43,11 @@ record:
   title: "\U0001F6E0️ **More Robust Action Module Execution**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew
-  workflow loop node]]'
 - '[[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation
   and Scheduling changes in 1.2.0]]'
 - "[[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|\U0001F9E0
   Elixir Code Highlighting Support]]"
+- '[[Changes/Notion/2025-04-15-schedule-meetings-instantly|Schedule meetings instantly]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-05-v0-6-6-github-216502762-5c099040|open-webui-2025-05-05-v0-6-6-github-216502762-5c099040]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|🧠 Elixir Code Highlighting Support]]
+- Earlier: 2025-04-15 · Notion · [[Changes/Notion/2025-04-15-schedule-meetings-instantly|Schedule meetings instantly]]
 - Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

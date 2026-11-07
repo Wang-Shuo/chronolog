@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-02 · Search and Browsing: **\U0001F50D Web 
   Support**: Introducing built-in web search capabilities via RAG API, allowing users
   to search…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 437
+  lag_days: 1466
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b5a5e625c08d9a47db744212f1ae5731f536a032f996e424d12791b625d2797e
+machine_hash: eea03871579e45a782815102f07ccb8c89c8913363f68ae411b6245404f5168e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
   title: "**\U0001F50D Web Search Support**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
-- '[[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current
-  version adds full-text search and hybrid search functions for datasets…]]'
+- '[[Changes/Descript/2023-12-19-since-we-overhauled-our-ai-speaker-https-help-descript-com-hc-en-us-articles-173|New
+  AI Stock Speakers]]'
+- '[[Changes/Notion/2023-12-20-quickly-find-pages-with-better-search|Quickly find
+  pages with better search]]'
 - '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
   @Web in chat will give the AI the ability to crawl the web!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

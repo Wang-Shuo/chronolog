@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Cursor · 2026-03-05 · Automation and Scheduling: Create automations
   at cursor.com/automations, or start from a template. Read more in our announcement.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 793
+  lag_days: 2360
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b917c27056b2790e076802d516c469ade1a5cd77924570c3f05f83fc16438ee8
+machine_hash: aa5884727c99e69f74e21f6b37afe11f58dd3439574b3cc9528ad0416c55ecbb
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
-  Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
+- '[[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First,
+  they’re completely autonomous (no manual prompting)]]'
 - '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
 - '[[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate
   core render util to use xterm.js as part of the rendering loop]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

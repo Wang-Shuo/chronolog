@@ -5,20 +5,20 @@ description: 'Dify · 2024-05-02 · Safety and Privacy: 2 changes in v0.6.6 — 
   sandbox service image tag to a specific version to avoid any issues with delayed
   image…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 382
+  lag_days: 1374
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9f4a2de18ec907fe842069ee37d321df8ee04c6c48d23570a2d4ceddf75acdc
+machine_hash: 18641a408ad05fd1d4b423765f48a20056f751997b42b41c30ab0c3ba5cf7bf8
 product: dify
 product_name: Dify
 record:
@@ -89,13 +89,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.6
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-04-30 · Gemini · [[Changes/Gemini/2024-04-30-extensions-are-now-available-in-more-languages|Extensions are now available in more languages]]
-- Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-2-safety-and-privacy-changes-in-0-6-7|2 Safety and Privacy changes in 0.6.7]]
+- Later: 2024-05-07 · Descript · [[Changes/Descript/2024-05-07-descript-for-web-now-with-recording-beta|Descript for Web now with Recording (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

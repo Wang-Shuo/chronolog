@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-28 · Enterprise and Administration: [Claud
   Improved "Notify members now" in admin settings: one press reaches every workspace
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1242
+  lag_days: 2449
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd3f3169f90a610bc3ad8f702f29f9e348f6937f6bdb8eec423d77ce0209d910
+machine_hash: a06e93823dfafb38d741ee171d540c3fad111f13e0e1f155178f195250437fba
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[Claude Tag] Improved "Notify members now" in admin settings'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
 - '[[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2
   Enterprise and Administration changes in v2026.9.6]]'
 - '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
   which credit limit applies to each member in the People export]]'
+- '[[Changes/Qoder/2026-09-26-improved-the-hook-mechanism-for-enterprise-usage-analytics-making-statistics-mor|Improved
+  the hook mechanism for Enterprise usage analytics, making statistics more…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-24 · Lovable · [[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See which credit limit applies to each member in the People export]]
+- Earlier: 2026-09-26 · Qoder · [[Changes/Qoder/2026-09-26-improved-the-hook-mechanism-for-enterprise-usage-analytics-making-statistics-mor|Improved the hook mechanism for Enterprise usage analytics, making statistics more…]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

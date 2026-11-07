@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 02cb7fd8a2488c8590d948cd16ac73898a12e1f088f8ae36a855a76186c27e81
+machine_hash: 914640a2bed7cc9893d236199043ab02ab943c05854fcfce65cb4bda7b673281
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -100,8 +100,7 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
-  changes in rust-v0.116.0]]'
+- '[[Changes/HeyGen/2026-03-19-video-agent|Video Agent]]'
 - '[[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]'
 - '[[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX
   Improvements Agent & Skill Ordering]]'

@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'OpenCode · 2026-10-30 · Context Window: 2 changes in v2.2.5 — Core Compaction
   now caps its prompt at the model''s context window when the input limit is larger.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1275
+  lag_days: 2599
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 784449bd7f97ce40411c7d30d69d4575a68454418d495aea7fab7ba65d20287f
+machine_hash: b788517a08efac9a9683e04271600d03b88bfab20b2748dab1ff77c75558c684
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ Source: https://opencode.ai/changelog/v2.2.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

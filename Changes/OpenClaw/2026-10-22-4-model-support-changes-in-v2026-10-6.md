@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4cfe33582bb97dd094da76b226345aabff632853f68634201b0f813e756daef7
+machine_hash: bfb7377892175fe453a47ed5005120718526ae8a6c6ec083272433bff62544af
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Model Support changes in v2026.10.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt
-  mode now honors managed Auto model selection for -p and piped stdin runs]]'
+- '[[Changes/Kimi Code/2026-10-21-switching-models-mid-session-now-shows-a-confirmation-dialog-start-a-new-session|Switching
+  models mid-session now shows a confirmation dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
   Support changes in v1.0.103]]'
 - '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini

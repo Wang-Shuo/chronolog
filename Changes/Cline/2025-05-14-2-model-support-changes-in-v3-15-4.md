@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88b81259962240ea539f52c2be5cda2c48679aa29519b46de333acc4a8b6dbec
+machine_hash: 1fba56e3ee4cc74f54bab472f6264e890342f7a6ee10e3d0b8cdca7298c7ee87
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v3.15.4
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled
-  prompt caching for claude-3.7-sonnet model through OpenRouter]]'
+- '[[Changes/Notion/2025-05-13-chat-directly-with-the-latest-ai-models|Chat directly
+  with the latest AI models]]'
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
   GPT-4.1 in ChatGPT for all paid users]]'
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing

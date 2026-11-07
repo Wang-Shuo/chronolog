@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 75e997749044e97653b5da9806b5c031f304bb0d69d6646b448161cfbca44901
+machine_hash: 7feeb57fc84f4d74efcf9beb45cf49bfc59fe018ebff10e886c2d88fe79d3a2b
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Desktop Fixed spacing between model provider sections in Settings
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
-  Support changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
   changes in v1.17.20 + 1]]'
 - '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
   the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model
+  Support changes in Kimi Code 0.24.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-14-v1-18-1-d4b11435|opencode-2026-07-14-v1-18-1-d4b11435]]'
 source_type: opencode_changelog
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
-- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6 and Gemini text-to-speech models for your app's AI features]]
+- Earlier: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-2-model-support-changes-in-kimi-code-0-24-1|2 Model Support changes in Kimi Code 0.24.1]]
+- Later: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-the-per-step-llm-retry-limit-is-raised-from-3-to-10-attempts-so-transient-provid|The per-step LLM retry limit is raised from 3 to 10 attempts, so transient provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

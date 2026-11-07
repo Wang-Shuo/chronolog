@@ -5,20 +5,20 @@ description: 'Dify · 2024-12-16 · Voice and Audio: Now, video, audio, and PDF 
   previews are accessible right within the chat, simplifying on-the-go information
   access…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 525
+  lag_days: 2352
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f4da797009b6830d5dd57877f4edb8f34328f5e04e46409632f99d1a4a03398
+machine_hash: 8422cf5053d48bc02a2b86197dcd695a90a140faef6fe41d8e807c446ae85bc7
 product: dify
 product_name: Dify
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice now lets you edit the transcribed text before sending]]
-- Later: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-text-to-speech-error-fixed-the-missing-argument-in-eleven-labs-get-available-voi|🎙️ Text-to-Speech Error]]
+- Later: 2024-12-17 · Synthesia · [[Changes/Synthesia/2024-12-17-ten-small-ui-updates-that-make-everyday-editing-smoother-from-a-more-precise-col|10 improvements and fixes based on your feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

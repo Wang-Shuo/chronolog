@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6575089931610abfd3bdd5b487f92a2149932bb2f59b7b2190c6abbfce03cfe8
+machine_hash: 720fc7795c603d4b1d5c8e392b914818d673b93fe4409fdb050eabdd51e8295f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Agent Mode changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the|Shell
-  command output on Windows no longer renders as "No changes detected" in the timeline]]'
+- '[[Changes/Notion/2026-03-03-custom-agents-now-support-minimax-m2-5-an-open-weight-model-that-s-up-to-10x-mor|Run
+  Custom Agents for less with MiniMax M2.5]]'
 - '[[Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures|Subagent
   stream retry delay increased to reduce noise from transient failures]]'
 - '[[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor

@@ -4,20 +4,20 @@ date: '2026-07-14'
 description: 'Claude Code · 2026-07-14 · Safety and Privacy: Fixed multi-second per-turn
   slowdowns in sessions with many permission deny/ask rules — rule matchers are now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1185
+  lag_days: 2177
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: a5e178a284aadb31699ab886224ba36c0752777a92040502d9835f600f73be55
+machine_hash: bb703dd2fcd0f9bbb2e81f121c7f79611943d802faf1df6ccd9ea9d066f564b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety and Privacy changes in v2.1.210]]
-- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-kept-permission-auto-accept-state-separate-for-each-server|Desktop Kept permission auto-accept state separate for each server]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-in-auto-permission-mode-plan-exits-are-now-marked-as-auto-approved-instead-of-us|In auto permission mode, plan exits are now marked as auto-approved instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

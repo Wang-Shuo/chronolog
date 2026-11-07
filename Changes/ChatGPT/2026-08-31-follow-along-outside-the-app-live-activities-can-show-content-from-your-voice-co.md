@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-31 · Voice and Audio: Follow along outside the
   Live Activities can show content from your voice conversation while you use another
   app…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1148
+  lag_days: 2975
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17e93571db4d1b3b726e0fe1117764837bc5a65f2309c659ef12349ca877ba97
+machine_hash: 5badf70d22eacf69e07dfb4d1141c12c12029c0f3c1bd418a42396a84896d247
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: Follow along outside the app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
-  Support voice-aware configuration and version-skew builds @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use
   Ctrl+Space to toggle voice dictation]]'
+- '[[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved
+  live voice usage alerts and draft handling]]'
 - '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
   from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd|chatgpt-2026-08-31-see-live-voice-content-on-your-lock-screen-3b9abebd]]'
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
 - Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

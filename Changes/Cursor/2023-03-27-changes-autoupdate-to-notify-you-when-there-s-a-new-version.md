@@ -4,20 +4,20 @@ date: '2023-03-27'
 description: 'Cursor · 2023-03-27 · Interface Experience: Changes autoupdate to notify
   you when there''s a new version'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 77
+  lag_days: 1443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e763e7e7d85104f333ecff6376c5e1d37bae82f511be0485d879e75cacd86bc8
+machine_hash: fd7e1e68a271a84223c34ed03a27bd562b3f78698bd4d45114bdf81f9c5b3655
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Changes autoupdate to notify you when there's a new version
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-09-as-we-recently-announced-our-plus-plan-comes-with-early-access-to-new-experiment-0e68f2|As
-  we recently announced, our Plus plan comes with early access to new, experimental…]]'
+- '[[Changes/Notion/2023-02-09-2-interface-experience-changes-in-notion-2-20-now-with-page|2
+  Interface Experience changes in Notion 2.20, now with page…]]'
 - '[[Changes/Cursor/2023-03-18-2-interface-experience-changes-in-0-1-2|2 Interface
   Experience changes in 0.1.2]]'
 - '[[Changes/Cursor/2023-03-23-3-interface-experience-changes-in-0-1-5|3 Interface
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

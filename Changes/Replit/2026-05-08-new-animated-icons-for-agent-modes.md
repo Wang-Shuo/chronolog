@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d28bbe07b0f3aa302d6a6b1be1b8207080ea0412d76286a9d19790c97ba92781
+machine_hash: 26dd6ec23e893ac0da699822f7ff13af8e6d5d94038dd3605dbcbf8512842655
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,10 @@ record:
   title: New animated icons for Agent modes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
-  changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
   the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan
+  Mode]]'
 - '[[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal
   Fix /agent create to use the /agents path]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'

@@ -4,19 +4,20 @@ date: '2024-09-10'
 description: 'Gamma · 2024-09-10 · Collaboration: We added a new way to share your
   Gamma creations. You can now download any of your Gammas as high-quality PNG images.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 475
+  lag_days: 2069
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3c86d2918f093174b6d39bea4f7286422cf0a7110af7e3159ca384a35d34359
+machine_hash: e647fb2c5fecae9eabdae036df06d6a0342f4e072287987e76449dc9ee9c4c1e
 product: gamma
 product_name: Gamma
 record:
@@ -48,10 +49,8 @@ record:
   title: We added a new way to share your Gamma creations
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add
-  email support for pro and team]]'
-- '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
-  changes in 0.8.2]]'
+- '[[Changes/Notion/2024-07-29-import-from-asana|Import from Asana]]'
+- '[[Changes/Notion/2024-08-13-create-a-chart-in-seconds|Create a chart in seconds]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 source_release: '[[Releases/Gamma/gamma-2024-09-10-66df49fa1244181269884530-39be8dbb|gamma-2024-09-10-66df49fa1244181269884530-39be8dbb]]'
@@ -85,13 +84,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With this release, we’re truly showcasing the power of Dify!]]
+- Later: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-suggests-how-it-can-help|Suggests how it can help]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

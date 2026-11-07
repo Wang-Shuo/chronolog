@@ -4,20 +4,20 @@ date: '2026-07-24'
 description: 'OpenCode · 2026-07-24 · Apps and Integrations: Core Use the correct
   prompt cache keys for each SDK.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2779
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4392c823ebd1e57db2525cefdbf451df76ffbd90f67452d45d4bda0f72cc0fa
+machine_hash: 87d0d222544615d90fd96f7666fe73c9763864bb0376e7336f0de2b3cd4d8e5e
 product: opencode
 product_name: OpenCode
 record:
@@ -43,12 +43,12 @@ record:
   title: Core Use the correct prompt cache keys for each SDK
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
-  integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
 - '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
   Apps and Integrations changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
   the host plugin version in telemetry events]]'
+- '[[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add
+  global default MCP server timeouts in config.toml and env vars]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-24-v1-18-5-afa44289|opencode-2026-07-24-v1-18-5-afa44289]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
+- Earlier: 2026-07-24 · Kimi Code · [[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add global default MCP server timeouts in config.toml and env vars]]
 - Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

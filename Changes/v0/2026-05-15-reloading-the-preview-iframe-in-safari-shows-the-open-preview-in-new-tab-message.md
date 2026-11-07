@@ -5,20 +5,19 @@ description: 'v0 · 2026-05-15 · Editor Experience: Reloading the preview ifram
   Safari shows the "Open preview in new tab" message instead of a generic unauthorized
   page.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1158
+  lag_days: 2742
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b2ae17b98af4233822bbfd2ccdb8118fc3e486c7f12ccf3e33459d01377d9688
+machine_hash: 32534a61c123a7d52ec6c7d2876ca8c667b41d6f02951b069df95f9b7a3b9415
 product: v0
 product_name: v0
 record:
@@ -47,8 +46,7 @@ record:
     message…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core
-  Autocomplete configured @mentions in prompts]]'
+- '[[Changes/Descript/2026-05-14-improved-edit-reviews|Improved edit reviews]]'
 - '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
   and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
 - '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
@@ -97,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

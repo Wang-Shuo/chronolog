@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 400d3a1c8df1f69a8bee3651b3cce4179a06bca077d465c4fffb9f49e4d6036f
+machine_hash: 273476f47fdf71e403f5ff400a6246fc7a7f3abbc8e8a32f5a9e380c80513bbf
 product: opencode
 product_name: OpenCode
 record:
@@ -40,11 +40,11 @@ record:
   title: Desktop Hidden agents no longer get cycled accidentally
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
-  Mode changes in v1.0.61]]'
 - '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
 - '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
   can now spawn their own sub-agents (up to 5 levels deep)]]'
+- '[[Changes/Kimi Code/2026-06-10-clarify-grouped-subagent-progress-with-active-status-breakdowns-and-elapsed-time|Clarify
+  grouped subagent progress with active status breakdowns and elapsed time]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-10-v1-17-0-776801ad|opencode-2026-06-10-v1-17-0-776801ad]]'
 source_type: opencode_changelog
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]
+- Earlier: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-clarify-grouped-subagent-progress-with-active-status-breakdowns-and-elapsed-time|Clarify grouped subagent progress with active status breakdowns and elapsed time]]
 - Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-let-subagents-use-their-own-configured-permissions-again|Let subagents use their own configured permissions again]]
 <!-- chronolog:end -->
 

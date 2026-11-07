@@ -3,20 +3,20 @@ card_id: replit-2026-07-24-002510
 date: '2026-07-24'
 description: 'Replit · 2026-07-24 · Apps and Integrations: Integrations'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2779
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b2e83cea3f49472fba01a69e5c760b754494459750789e5b563bd06508fa20e6
+machine_hash: 105e80c6a726cb250b5cfc5404f2682345a4be0cff9337f661481dde2a097f4d
 product: replit
 product_name: Replit
 record:
@@ -39,10 +39,10 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
-  Apps and Integrations changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
   the host plugin version in telemetry events]]'
+- '[[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add
+  global default MCP server timeouts in config.toml and env vars]]'
 - '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core
   Use the correct prompt cache keys for each SDK]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

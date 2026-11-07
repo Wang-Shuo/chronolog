@@ -4,20 +4,19 @@ date: '2026-06-25'
 description: 'Claude Code · 2026-06-25 · Editor Experience: Added live file path autocomplete
   to bash mode (`!`)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1199
+  lag_days: 2783
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1bff2482ad8f4173c4f7cb3210b0850796dd39a6fae63e7b73293cb6d51a2ca
+machine_hash: 83e4f6f1b05da0f93e47e58fe1d0a4581bd57208e84274dc6a5e8f8bed2d0153
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +40,8 @@ record:
   title: Added live file path autocomplete to bash mode (`!`)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
-  a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
+- '[[Changes/Kimi Code/2026-06-24-show-subcommand-suggestions-after-tab-completing-a-slash-command-name|Show
+  subcommand suggestions after Tab-completing a slash command name]]'
 - '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
   jobs in Lovable Cloud]]'
 - '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

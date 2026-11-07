@@ -4,20 +4,19 @@ date: '2026-04-24'
 description: 'Open WebUI · 2026-04-24 · Editor Experience: 2 changes in v0.9.2 — ✍️
   **Rich text extension conflicts.** Rich text editing no longer triggers duplicate…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2721
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed90867f1314671be943c8f906493a236b59c49984696c9ba2fd48e4064f5f0c
+machine_hash: cf4eeadf48bc568361e77ad3c31b98d6115dbedc8706c41cf712bc1221798e9d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

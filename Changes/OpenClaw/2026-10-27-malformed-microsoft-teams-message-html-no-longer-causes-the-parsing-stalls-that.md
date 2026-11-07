@@ -4,19 +4,20 @@ date: '2026-10-27'
 description: 'OpenClaw · 2026-10-27 · Collaboration: Malformed Microsoft Teams message
   HTML no longer causes the parsing stalls that could delay other Gateway sessions.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0a03d13f00206772cfadbb1e1dbd1daa705220d5aa07a9be85c220d501858a6
+machine_hash: 5ba4f833ffe6e46e14ec160ba3e312a860e761544bf2c027691085c5632e9290
 product: openclaw
 product_name: OpenClaw
 record:
@@ -41,11 +42,11 @@ record:
   title: Malformed Microsoft Teams message HTML no longer causes the parsing stalls…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
-  in 1.18.0]]'
 - '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use
+  Copilot Chat after a call in Queues app Windows, Mac (Teams)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: collaboration
@@ -87,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-use-copilot-chat-after-a-call-in-queues-app-windows-mac-teams|Use Copilot Chat after a call in Queues app Windows, Mac (Teams)]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core Honor shared parallel tool-call and service-tier settings for Groq]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

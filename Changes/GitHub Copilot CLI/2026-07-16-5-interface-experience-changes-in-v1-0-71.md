@@ -4,20 +4,20 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Interface Experience: 5 changes in
   1.0.71 — Persist sidebar sessions across restarts'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1284
+  lag_days: 2650
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da90e1352fe16f67e52496edd78a0fc75c64350ad8b5edb91566e7913cf457ff
+machine_hash: 78126c2f700eec378efb8fa90ea9ba7038b94e6248d546c461a7d7c815a8bcc4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Interface Experience changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
-  Experience changes in v2.1.210]]'
 - '[[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface
   Experience changes in v1.18.1 + 1]]'
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
   terminal layout and rendering performance]]'
+- '[[Changes/Kimi Code/2026-07-15-kimi-p-now-stays-alive-by-default-while-background-tasks-are-pending-with-no-eff|kimi
+  -p now stays alive by default while background tasks are pending, with no…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: interface-experience
@@ -107,14 +107,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved terminal layout and rendering performance]]
+- Earlier: 2026-07-15 · Kimi Code · [[Changes/Kimi Code/2026-07-15-kimi-p-now-stays-alive-by-default-while-background-tasks-are-pending-with-no-eff|kimi -p now stays alive by default while background tasks are pending, with no…]]
 - Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added an Up Arrow shortcut to close the subagent picker when the first item is selected]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

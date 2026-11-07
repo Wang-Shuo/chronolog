@@ -4,20 +4,20 @@ date: '2026-09-04'
 description: 'Lovable · 2026-09-04 · Enterprise and Administration: You can now create
   several [shared preview…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1218
+  lag_days: 2425
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 42b4b03cd0e8352089ed46062c733956a61714a7c97ff596ae7acbe638f43947
+machine_hash: acb24fa2a4bb4e352a65f2a662977e2e14fe7ac558a73312a6b1a16e688d2e3a
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,11 @@ record:
   title: Manage and protect your preview links
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable
-  in Slack is now available on Enterprise]]'
-- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
-  workspace adopts Lovable]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
   admins can pin sign-in to approved GitHub organizations…]]'
+- '[[Changes/HeyGen/2026-09-04-projects-page-organized-for-scale|Projects page, organized
+  for scale]]'
+- '[[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-04-2026-09-04-ccf2eec3|lovable-2026-09-04-2026-09-04-ccf2eec3]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise admins can pin sign-in to approved GitHub organizations…]]
+- Earlier: 2026-09-04 · HeyGen · [[Changes/HeyGen/2026-09-04-governance-for-admins|Governance for admins]]
 - Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4 Enterprise and Administration changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

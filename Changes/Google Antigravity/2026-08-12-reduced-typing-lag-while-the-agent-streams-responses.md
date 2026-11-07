@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6e67feea7b3183580d63b72cdf9f60855840172ebbd8d7b0f0b86e24bd513a83
+machine_hash: 74b74f2b4d64a4642bcab127312c5d41fff045e489e66f2ad118fc6b61f10c23
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode changes in v2.1.232]]
+- Later: 2026-08-12 · Kimi Code · [[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show the live work progress of background subagents in the /tasks panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

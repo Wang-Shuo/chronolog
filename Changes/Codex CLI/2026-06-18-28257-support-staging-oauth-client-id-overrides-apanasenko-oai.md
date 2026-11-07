@@ -4,20 +4,21 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Account and Access: #28257 Support staging
   OAuth client ID overrides @apanasenko-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1176
+  lag_days: 2151
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6f2c6a3cf374216056b75dafe39b12b449ddb72e46a78042f9d277403006d1f7
+machine_hash: b1f9fe5aa35bf833e8d99026553147cccf88f2f300a452ea6b5b7e46f75f2d9b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +44,8 @@ record:
   title: '#28257 Support staging OAuth client ID overrides @apanasenko-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Kimi Code/2026-06-17-show-the-underlying-connection-error-when-oauth-token-refresh-fails-after-intern|Show
+  the underlying connection error when OAuth token refresh fails after internal…]]'
 - '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
   language]]'
 - '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
@@ -86,13 +87,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account and Access changes in v1.17.8]]
-- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous users opening a shared or public chat are no longer redirected to sign…]]
+- Later: 2026-06-18 · Kimi Code · [[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign the web OAuth login dialog so the order of steps is unambiguous]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-02 · Image Generation: \U0001F3A8 Image gen
   in temporary chats was fixed by correctly handling local chat sessions that are
   not persisted to…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 632
+  lag_days: 890
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a340ab640e6d3c549fa6cc81250c4c5253843dee02c3dc8ed86afb0ed6bf4bc9
+machine_hash: dd8cd21fe6d7d499a6b1f0c0e89e780378a4abfd2d5d5f52d9a5a3a80dbd3315
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,11 @@ record:
     local chat…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-design-view|Design view]]'
 - '[[Changes/Lovable/2025-11-26-ai-powered-image-generation-in-visual-edits|AI-powered
   image generation in Visual edits]]'
 - '[[Changes/Lovable/2025-11-26-all-new-visual-edits|All new Visual edits]]'
+- '[[Changes/Synthesia/2025-11-26-we-just-added-image-generation-to-synthesia-try-the-latest-genai-models-they-re|Create
+  any images with FLUX.2 & Nanobanana Pro]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'
 source_type: github_releases
 theme: image-generation
@@ -91,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-all-new-visual-edits|All new Visual edits]]
-- Later: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
+- Earlier: 2025-11-26 · Synthesia · [[Changes/Synthesia/2025-11-26-we-just-added-image-generation-to-synthesia-try-the-latest-genai-models-they-re|Create any images with FLUX.2 & Nanobanana Pro]]
+- Later: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-flux-2-pro-now-available-for-image-generation|Flux 2 Pro now available for image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

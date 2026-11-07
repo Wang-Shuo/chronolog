@@ -4,20 +4,19 @@ date: '2026-07-08'
 description: 'Lovable · 2026-07-08 · Editor Experience: You can now manually [pause
   a project''s Lovable Cloud…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1212
+  lag_days: 2796
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: db40036fc723064025e35b435105fd25385b0c8a9e70b10d0bd5d2d8b3971e04
+machine_hash: 8a344063fa1ded0fe6a6ab207ce5759a889d7081f1de14e57bb3f67d2ce443ed
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +50,12 @@ record:
   title: Pause a Lovable Cloud project
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
-  Editor Experience changes in v1.0.69]]'
 - '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
   Keep session tab titles available after reloads while session data is still…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
   Experience changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-from-the-modal-you-can-review-and-edit|From the modal,
+  you can review and edit]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor Experience changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-from-the-modal-you-can-review-and-edit|From the modal, you can review and edit]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191 Handle completion separators and popup dismissal @charliemarsh-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

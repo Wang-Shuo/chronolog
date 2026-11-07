@@ -4,20 +4,20 @@ date: '2025-04-09'
 description: 'Dify · 2025-04-09 · Safety and Privacy: 4 changes in v1.2.0 — **Security
   & Efficiency**: Fixes like the provider credentials load error by @liuzhenghua ensure…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 724
+  lag_days: 1716
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef7ab7fcadfb01b0c8aadd74258063366b08c4d4b1b15726a2f7e6253aa7c8ca
+machine_hash: 82ce962517c548c3e8e624ec388a7e2c2d70a451710532931ecf46267589a86a
 product: dify
 product_name: Dify
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

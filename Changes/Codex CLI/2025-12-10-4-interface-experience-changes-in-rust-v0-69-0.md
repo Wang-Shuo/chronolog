@@ -4,20 +4,20 @@ date: '2025-12-10'
 description: 'Codex CLI · 2025-12-10 · Interface Experience: 4 changes in 0.69.0 —
   TUI/UX: Log files drop ANSI codes; vim navigation for option selection and transcript…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1066
+  lag_days: 2432
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39afa2e69d690655b7a608d1814f55f4e36195168f4fa44f684abe780f6dd882
+machine_hash: 2b4a7da484bb74919962d690a2b7691902b967d173e1ca8ad8daae106f60ab4e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Interface Experience changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
-  Interface Experience changes in rust-v0.65.0]]'
 - '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
   Custom Domains]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
+- '[[Changes/Synthesia/2025-12-09-noticed-a-new-tab-on-the-sidebar-meet-ai-playground|Experiment
+  with media creation in AI Playground]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,14 +94,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.69.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2 Interface Experience changes in rust-v0.66.0]]
+- Earlier: 2025-12-09 · Synthesia · [[Changes/Synthesia/2025-12-09-noticed-a-new-tab-on-the-sidebar-meet-ai-playground|Experiment with media creation in AI Playground]]
 - Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

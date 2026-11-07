@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-07 · Search and Browsing: 2 changes in v0.6
   \U0001F527 **Precise Web Results Source Attribution**: Fixed a key issue where all
   web search…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 746
+  lag_days: 1775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 267a8386c033304ff7a8491cd40f29d275f2bfc4a363dcb59f5fee88966a03b6
+machine_hash: d5d10bd93f7374510b6b45b9476bfbf96c358c7fc886e4dbff2e65f2e5f381e8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Search and Browsing changes in v0.6.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-27-full-context-mode-renamed-for-clarity-the-full-context-mode-toggle-in-web-search|\U0001F4DD
-  \"Full Context Mode\" Renamed for Clarity]]"
 - '[[Changes/Dify/2025-03-11-for-a-more-detailed-dive-into-each-update-feel-free-to-browse-through-the-prs-we|For
   a more detailed dive into each update, feel free to browse through the PRs]]'
+- '[[Changes/Notion/2025-03-26-build-trust-with-verified-pages|Build trust with verified
+  pages]]'
 - '[[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn
   on vision-based browsing by default and allow OpenHands to see PDF / images…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-07-v0-6-2-github-210644838-f92d9462|open-webui-2025-04-07-v0-6-2-github-210644838-f92d9462]]'
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

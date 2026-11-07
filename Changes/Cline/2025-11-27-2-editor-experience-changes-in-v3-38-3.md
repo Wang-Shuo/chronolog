@@ -4,20 +4,19 @@ date: '2025-11-27'
 description: 'Cline · 2025-11-27 · Editor Experience: 2 changes in v3.38.3 — feat(hooks):
   Implement Hooks tab in Rules & Workflows modal [ENG-1325] by @candieduniverse in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 989
+  lag_days: 2573
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d3eab4e906f54c90f78d48f0d5f0f7469e9efbe4bfe658032b570230fd12139
+machine_hash: 86a64c62cfbf00254da913d8bd871430dfaba55ab5c431dc46eb6fd5edac09b6
 product: cline
 product_name: Cline
 record:
@@ -89,13 +88,13 @@ Source: https://github.com/cline/cline/releases/tag/v3.38.3
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore keyboard mode when exiting the editor]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-view-remote-rules-and-workflows-in-the-editor-by-celestial-vault-in-https-github|View remote rules and workflows in the editor]]
+- Later: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-media-tab-removal|Media Tab removal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Lovable · 2026-09-23 · Apps and Integrations: The [**Connectors** catalog](https://docs.lovable.dev/integrations/introduction#where-to-find-connectors)
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2840
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd447254c597fb9b09d5af399282f4288b4f9696febf98840eda7cced126aa94
+machine_hash: a757019851718f535630d2d5d8b54ca6df6ce76274cb4211a68b80548dac0d43
 product: lovable
 product_name: Lovable
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
-- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58 Apps and Integrations changes in v2026.9.6]]
+- Later: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-federated-copilot-connectors-web-microsoft-365-copilot-extensibility|Federated Copilot Connectors Web (Microsoft 365 Copilot extensibility)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

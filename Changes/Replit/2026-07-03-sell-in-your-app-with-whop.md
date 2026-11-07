@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ac7aff27a25254f1e7628c2f0a90ec0801df13d0243410f424c20ccd8e4ec300
+machine_hash: 1e12123a86d82e4d0e874d426e710ec99742a51dbce487a0ec93db5c8ff57aea
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Sell in your app with Whop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
-  changes in v2.1.198]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
-  Mode changes in v1.0.68]]'
+- '[[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use
+  Outlook for you]]'
 - '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
   Agent Skills]]'
+- '[[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent
+  Mode changes in Kimi Code 0.22.2]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-02 · Runway · [[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway Agent Skills]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
+- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent Mode changes in Kimi Code 0.22.2]]
+- Later: 2026-07-04 · Kimi Code · [[Changes/Kimi Code/2026-07-04-wait-for-background-subagents-to-finish-and-respond-to-their-results-before-exit|Wait for background subagents to finish and respond to their results before exiting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

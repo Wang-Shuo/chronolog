@@ -4,20 +4,20 @@ date: '2025-11-19'
 description: 'Ollama · 2025-11-19 · Reliability and Performance: 3 changes in v0.13.0
   — Ollama''s GitHub repo now includes a `bench` tool that can be used to test model…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1070
+  lag_days: 2557
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa7530f84a41064abb232d6d8a9d83cd974b42dd271acb91ff755cc02b9e9771
+machine_hash: 9289024d2080c40b8ec3ed483c8a2ea6a978b52db2a13709a1a56e17a81e8141
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Reliability and Performance changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved
-  rendering performance in Ollama''s new app, especially when rendering code]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
-  performance]]'
+- '[[Changes/Notion/2025-11-17-finally-pages-are-loading-15-faster-it-s-a-strong-start-to-3-0|Finally,
+  pages are loading 15% faster]]'
+- '[[Changes/Notion/2025-11-17-less-load-time-more-work-time|Less load time, more
+  work time]]'
 - '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
   Compaction Support]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-19-v0-13-0-github-263513243-ba692e80|ollama-2025-11-19-v0-13-0-github-263513243-ba692e80]]'
@@ -95,7 +95,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

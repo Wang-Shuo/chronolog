@@ -5,20 +5,19 @@ description: 'Midjourney · 2024-10-23 · Editor Experience: lets you upload ima
   from your computer and then expand, crop, repaint, add, or modify things in the
   scene.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 589
+  lag_days: 2173
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f25f0841298491a1b0cc8774d1a4603daccfe34b3eca6a20ebaa3715d3fe38f3
+machine_hash: 33b5aa7639cac7beaa0cc314840eb0d2341f44b978d31b5e0e4afbacd1b89fed
 product: midjourney
 product_name: Midjourney
 record:
@@ -69,10 +68,9 @@ record:
   title: The image editor
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
-  Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
 - '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
   changes in v0.60.0]]'
+- '[[Changes/Descript/2024-10-23-editor-updates|Editor updates]]'
 - '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
   we’re testing our new external image editor , image retexturing , and next-gen…]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-10-23-https-updates-midjourney-com-external-image-editor-08e65064|midjourney-2024-10-23-https-updates-midjourney-com-external-image-editor-08e65064]]'
@@ -117,14 +115,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience changes in v0.60.0]]
+- Earlier: 2024-10-23 · Descript · [[Changes/Descript/2024-10-23-editor-updates|Editor updates]]
 - Later: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

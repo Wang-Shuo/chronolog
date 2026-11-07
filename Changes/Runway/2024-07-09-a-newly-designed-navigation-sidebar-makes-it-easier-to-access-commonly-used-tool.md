@@ -4,20 +4,20 @@ date: '2024-07-09'
 description: 'Runway · 2024-07-09 · Interface Experience: A newly designed navigation
   sidebar makes it easier to access commonly used tools.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 547
+  lag_days: 1913
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b0f97aa65d9e41f98088f2bb45f89c766c1ce8af021d23311547c7125f535af
+machine_hash: 6e2c9ff7d9278dd3fa4f5b1401a6291f76e148013faecea133a981200c43bb53
 product: runway
 product_name: Runway
 record:
@@ -75,13 +75,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️ Sideways Scrolling in Settings]]
-- Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
+- Later: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to starred folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

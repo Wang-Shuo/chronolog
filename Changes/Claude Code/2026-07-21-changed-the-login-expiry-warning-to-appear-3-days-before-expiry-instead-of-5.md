@@ -4,20 +4,21 @@ date: '2026-07-21'
 description: 'Claude Code · 2026-07-21 · Account and Access: Changed the login-expiry
   warning to appear 3 days before expiry instead of 5'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1209
+  lag_days: 2184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95e2adffcf120beb8a22248103a8740390c25200ea41d07cab0c4310a0ff03c
+machine_hash: f2afe4e60f68b5c6613ce0a2bf4158268c993d22fbac5fa7298b923c449bfbab
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +44,12 @@ record:
     5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
-  the auth status panel title from "Cloud authentication" to "Authentication"]]'
-- '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
-  Access changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-oauth-connection-errors-now-include-the-underlying-network-cause-dns-refused-con|OAuth
+  connection errors now include the underlying network cause…]]'
 - '[[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests
   connectors when several fit]]'
+- '[[Changes/Kimi Code/2026-07-20-allow-acp-sessions-to-start-with-configured-non-oauth-model-credentials-instead|Allow
+  ACP sessions to start with configured non-OAuth model credentials instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: account-access
@@ -83,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests connectors when several fit]]
+- Earlier: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-allow-acp-sessions-to-start-with-configured-non-oauth-model-credentials-instead|Allow ACP sessions to start with configured non-OAuth model credentials instead…]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9 Account and Access changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

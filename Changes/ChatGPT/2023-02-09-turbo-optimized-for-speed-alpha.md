@@ -4,20 +4,20 @@ date: '2023-02-09'
 description: 'ChatGPT · 2023-02-09 · Reliability and Performance: Turbo: optimized
   for speed (alpha)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 56
+  lag_days: 1543
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e22e8f3d43757aaa390c7dc555d208fc8ed22c8e8cc0edd12f0a546849efbfc
+machine_hash: 9c30354b9f6d0041ff6c3ae9d4b7f5a89dad8b0bc401070d788ea0d078aed230
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,6 +42,10 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
   performance: Among other improvements, users will notice that ChatGPT is now…]]'
+- '[[Changes/Descript/2023-01-23-unmodified-quick-recordings-published-to-a-web-link-are-now-processed-and-ready|Unmodified
+  quick recordings published to a web link are now processed and ready…]]'
+- '[[Changes/Descript/2023-02-06-drive-view-load-time-is-now-6x-faster-in-the-app-and-12x-faster-on-the-web|Drive
+  View load time is now 6x faster in the app and 12x faster on the web]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524|chatgpt-2023-02-09-introducing-chatgpt-plus-380a3524]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -71,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earlier: 2023-02-06 · Descript · [[Changes/Descript/2023-02-06-drive-view-load-time-is-now-6x-faster-in-the-app-and-12x-faster-on-the-web|Drive View load time is now 6x faster in the app and 12x faster on the web]]
 - Later: 2023-02-13 · ChatGPT · [[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based on user feedback, we are now defaulting Plus users to a faster version…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

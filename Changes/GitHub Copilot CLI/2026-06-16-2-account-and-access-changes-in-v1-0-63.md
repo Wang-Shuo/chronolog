@@ -4,20 +4,21 @@ date: '2026-06-16'
 description: 'GitHub Copilot CLI · 2026-06-16 · Account and Access: 2 changes in 1.0.63
   — Auth validation errors (e.g., VPN or IP allowlist failures) are now shown in the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2149
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0a5969024e03d5d9bfd94f64b22d856dd65c4f1ea7abbb6ff3752eac7d723b5
+machine_hash: 0330bffe2de433d24f66719d06e78f72dec9749fb3b87e5bd4d68681e35cd0fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

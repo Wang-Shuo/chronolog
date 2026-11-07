@@ -4,19 +4,20 @@ date: '2025-12-24'
 description: 'Windsurf · 2025-12-24 · Developer Workflow: 2 changes in v1.13.3 — Preserved
   colors and styling in Cascade terminal output'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1012
+  lag_days: 2661
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f11b6630c6b240f93f07f4f2353636b4a257957dc43054c52c92ac678dc071fd
+machine_hash: 58a5f80e34ef78e77e2f567adebd86bb63bbb6dcce6b834f408c746a85aa6e5f
 product: windsurf
 product_name: Windsurf
 record:
@@ -93,7 +94,7 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

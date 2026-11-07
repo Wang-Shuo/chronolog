@@ -4,20 +4,20 @@ date: '2026-05-18'
 description: 'ElevenLabs · 2026-05-18 · Voice and Audio: [v2.48.0](https://github.com/elevenlabs/elevenlabs-js/releases/tag/v2.48.0)
   - Added environment configuration to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8de9d1ffb1951319336914d05744d63a594e86c2e78a65bfa941519f027f089f
+machine_hash: 322319fbd546db532ddb0b6581e208eaa043f2c613bddba24098f5668397e5c8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,9 +65,11 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-python-sdk|Python SDK]]'
-- '[[Changes/ElevenLabs/2026-05-13-voice-design-b2b3bd|Voice Design]]'
 - '[[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]'
+- '[[Changes/HeyGen/2026-05-13-a-roll-b-roll-audio-captions-and-motion-graphics-are-no-longer-separate-steps-in|A-Roll,
+  B-Roll, audio, captions, and motion graphics are no longer separate steps…]]'
+- '[[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved
+  transcription with ElevenLabs Scribe v2]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-18-2026-05-18-640aaf83|elevenlabs-2026-05-18-2026-05-18-640aaf83]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -102,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-voice-changer-cdfc87|Voice Changer]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-improved-transcription-with-elevenlabs-scribe-v2|Improved transcription with ElevenLabs Scribe v2]]
 - Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

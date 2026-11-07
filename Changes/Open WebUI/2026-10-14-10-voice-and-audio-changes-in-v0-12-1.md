@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-14 · Voice and Audio: 10 changes in v0.12.1
   **Avatars in Standard voice calls.** A model's avatar now also appears in voice
   calls that…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1192
+  lag_days: 3019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60a77b0a1f59a99092ac61b54d2f8a091bd1dc38a4ecb600f3de41ad6f1c60c8
+machine_hash: 8e5c81ae1fd320f64c5fc8af55d54aa823425a0e6af63f03222979ce837c903a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,10 +96,10 @@ record:
   title: 10 Voice and Audio changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
-  Holding the microphone and releasing it no longer stops recording prematurely]]'
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
+- '[[Changes/HeyGen/2026-10-14-keep-one-consistent-sound-with-exact-mode|Keep one
+  consistent sound with Exact Mode]]'
+- '[[Changes/HeyGen/2026-10-14-design-a-voice-from-a-picture|Design a voice from a
+  picture]]'
 - "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
   Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -171,7 +171,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

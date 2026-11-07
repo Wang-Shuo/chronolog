@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-06-18 · Video Generation: . This means that yo
   make images in Midjourney, as normal, but now you can press “Animate” to make them
   move.'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 517
+  lag_days: 1701
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 31127b259d9eba6bb1d794083c85f3bcbda5208ec68fd720e4cd9b016fd3057a
+machine_hash: d6e64950528bbe8725d3de2a699632f7dc731d8ee2aa64a62f33a48b947fc50e
 product: midjourney
 product_name: Midjourney
 record:
@@ -46,12 +46,11 @@ record:
   title: Today’s Video workflow will be called “Image-to-Video”
   type: change
 related_changes:
-- '[[Changes/Runway/2024-11-15-generate-videos-up-to-20s-using-video-to-video-in-gen-3-alpha-and-gen-3-alpha-tu|20s
-  Video to Video generations]]'
-- '[[Changes/Runway/2024-12-19-add-a-middle-keyframe-in-addition-to-first-and-last-keyframes-for-more-control-o|Middle
-  keyframes in Gen-3 Alpha Turbo]]'
-- '[[Changes/Runway/2025-03-06-you-can-now-use-a-single-reference-image-in-gen-3-alpha-and-turbo-to-style-your|Restyle
-  Video]]'
+- '[[Changes/Descript/2025-04-29-announcing-descript-season-9-which-is-all-about-avatars-https-www-descript-com-a|Announcing
+  Descript Season 9, which is all about…]]'
+- '[[Changes/Descript/2025-04-29-the-process-is-simple-write-your-script-select-an-avatar-from-our-gallery-or-cre|The
+  process is simple]]'
+- '[[Changes/Descript/2025-05-20-avatar-update|Avatar update]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-06-18-https-updates-midjourney-com-introducing-our-v1-video-model-3b25dd23|midjourney-2025-06-18-https-updates-midjourney-com-introducing-our-v1-video-model-3b25dd23]]'
 source_type: midjourney_changelog
 theme: video-generation
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2025-03-06 · Runway · [[Changes/Runway/2025-03-06-you-can-now-use-a-single-reference-image-in-gen-3-alpha-and-turbo-to-style-your|Restyle Video]]
+- Earlier: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-avatar-update|Avatar update]]
 - Later: 2025-07-25 · Midjourney · [[Changes/Midjourney/2025-07-25-you-can-now-create-looping-videos-2-you-can-now-make-videos-with-a-specific-star|Create looping videos 2) You can now make videos with a specific start and end…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

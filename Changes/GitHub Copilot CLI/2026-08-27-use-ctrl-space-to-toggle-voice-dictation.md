@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Voice and Audio: Use Ctrl+Space to
   toggle voice dictation.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 2971
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be618bac0c73bec5dd1cb09f790b6cfb4dd6d538001b3cfb61c3b061c55097a3
+machine_hash: b564fb8ec77c066b2b6ba8a420395b2450f8d234bb2b0748dc72131cc8ee5aa6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: Use Ctrl+Space to toggle voice dictation
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
-  ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use
+  voice for Q&A during Read Aloud in Word Windows (Word)]]'
 - '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
   Audio changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953 Support voice-aware configuration and version-skew builds @copyberry]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-improved-live-voice-usage-alerts-and-draft-handling|Improved live voice usage alerts and draft handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

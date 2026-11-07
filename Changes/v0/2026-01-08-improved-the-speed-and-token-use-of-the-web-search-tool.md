@@ -4,20 +4,20 @@ date: '2026-01-08'
 description: 'v0 · 2026-01-08 · Search and Browsing: Improved the speed and token
   use of the Web Search tool'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1022
+  lag_days: 2051
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2a31c5a1bfa22a4e4715bb877dbd1195bceda79ce3c111a221a5ded6baba26e
+machine_hash: e0cde7d4f4b693723f8bf15b3a923566f9d0bb6dcdfbddfbf0b4c02d0592fcaf
 product: v0
 product_name: v0
 record:
@@ -51,8 +51,8 @@ record:
   title: Improved the speed and token use of the Web Search tool
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
-  your site to show up in search results?]]'
+- "[[Changes/HeyGen/2025-12-19-heygen-moves-fast-until-now-keeping-track-of-those-changes-could-be-a-challenge|We're
+  Starting a Changelog \U0001F4E3]]"
 - '[[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search
   and Browsing changes in v0.6.42]]'
 - '[[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

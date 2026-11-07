@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Context Window: 2 changes in v1.11.0 - Your knowledge
   base just went from mono to full HD — Each image is linked to its matching text…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 952
+  lag_days: 2276
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70a62af3ffcd8f1898fe0136e496009c80eed344b25de5f74fa3d0d1a0ac6ccf
+machine_hash: eef6d7d6bbd82554e0a9874df95e4f6b671039ed1e064dcb7b1c099ac682013c
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

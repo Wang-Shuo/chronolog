@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-14 · Interface Experience: 4 changes in v0.
   — \U0001F680 **Base Model List Caching**: Cache your base model list to speed up
   model selection…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 917
+  lag_days: 2283
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17a4c1d6bdece33e7b4687eaecbb92bf529732004e5c780e0b9007ba292d605
+machine_hash: dc9b49dc38f9445ba2ae4566cc1098f48058a82f276bd3291de0b6f59176963e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,11 @@ record:
   title: 4 Interface Experience changes in v0.6.16
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
-  tooltip for suggested tasks]]'
 - '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
   rendering bugs resolved (toolcall display, overflow issues)]]'
 - '[[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience
   changes in 1.6.0]]'
+- '[[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf|open-webui-2025-07-14-v0-6-16-github-232298341-b0885edf]]'
 source_type: github_releases
 theme: interface-experience
@@ -111,14 +110,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-interface-experience-changes-in-1-6-0|2 Interface Experience changes in 1.6.0]]
+- Earlier: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-databases-got-a-makeover|Databases got a makeover]]
 - Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

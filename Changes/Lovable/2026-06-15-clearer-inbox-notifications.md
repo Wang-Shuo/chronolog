@@ -4,19 +4,20 @@ date: '2026-06-15'
 description: 'Lovable · 2026-06-15 · Collaboration: Your [inbox](https://docs.lovable.dev/introduction/dashboard-overview.md#inbox-tab)
   is now easier to scan. Each…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1118
+  lag_days: 2712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 785e24a84015174223113666a030707bfd8be3bde6011d9c42f5f0da6867d7ab
+machine_hash: a189446f123f7e664256d323b4058313db5b6ba9f9d32538c112439511ab7817
 product: lovable
 product_name: Lovable
 record:
@@ -63,9 +64,8 @@ record:
   title: Clearer inbox notifications
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in
-  collaborative workspaces]]'
 - '[[Changes/Lovable/2026-06-09-workspace-view-only-sharing|Workspace view-only sharing]]'
+- '[[Changes/Descript/2026-06-11-classic-color-theme|Classic color theme]]'
 - '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
   image: add shared data URL preparation utilities @fjord-oai]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-15-2026-06-15-9835dce0|lovable-2026-06-15-2026-06-15-9835dce0]]'
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

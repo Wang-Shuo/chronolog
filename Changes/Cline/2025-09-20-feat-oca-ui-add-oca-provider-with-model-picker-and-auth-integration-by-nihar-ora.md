@@ -4,20 +4,20 @@ date: '2025-09-20'
 description: 'Cline · 2025-09-20 · Apps and Integrations: feat(oca-ui): add OCA provider
   with model picker and auth integration by @nihar-oracle in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 912
+  lag_days: 2472
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 24f120ae3b63cdc948a77b780e9468ade5e2360ef03190e63fb77d9e7185099c
+machine_hash: f6b34d6f2c05538941eecab0ef4dd174bc7ff4e311380acec39ef1d38ac47b8c
 product: cline
 product_name: Cline
 record:
@@ -58,10 +58,10 @@ record:
   title: 'feat(oca-ui): add OCA provider with model picker and auth integration'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps
-  and Integrations changes in v0.6.29]]'
 - '[[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️
   OneDrive integration was fixed after recent breakage, restoring reliable account…]]'
+- '[[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP
+  ecosystem just got bigger]]'
 - '[[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]'
 source_release: '[[Releases/Cline/cline-2025-09-20-v3-30-3-github-248753210-713b4a4c|cline-2025-09-20-v3-30-3-github-248753210-713b4a4c]]'
 source_type: github_releases
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

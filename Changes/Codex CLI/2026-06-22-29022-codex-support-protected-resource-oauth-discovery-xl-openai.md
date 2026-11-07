@@ -4,20 +4,21 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Account and Access: #29022 [codex] Support
   protected resource OAuth discovery @xl-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1180
+  lag_days: 2155
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d0856c5e5e14ac49a05d988be1e30b30ceef5451bb76d9b4b22d0f9fbd4f0a47
+machine_hash: c0242ee196396de8065cf24af02f6ab0cddc2ed7599045d90c60ce546fbb1b96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +44,8 @@ record:
   title: '#29022 [codex] Support protected resource OAuth discovery @xl-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
-  Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/Kimi Code/2026-06-18-redesign-the-web-oauth-login-dialog-so-the-order-of-steps-is-unambiguous|Redesign
+  the web OAuth login dialog so the order of steps is unambiguous]]'
 - '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
   users opening a shared or public chat are no longer redirected to sign…]]'
 - '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-12-25'
 description: 'Dify · 2025-12-25 · Context Window: test: add unit tests for DatasetConfig
   component with comprehensive coverage of rendering, dataset management, context…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2290
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb1dc2391c516e238077bb0f5b100a708e94589495992d7f406b18cfc337e386
+machine_hash: b378cf64a85d2e2d956891daa2610a8118109ce7c14e756129f0c541b3379f26
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'test: add unit tests for DatasetConfig component with comprehensive coverage…'
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build
-  with Glean via MCP]]'
+- '[[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve
+  released GLM-4.7, our foundation model with significant improvements…]]'
 - '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
 - '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
   fixes to the Model Context Protocol implementation]]'
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

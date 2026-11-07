@@ -4,20 +4,19 @@ date: '2026-01-07'
 description: 'GitHub Copilot CLI · 2026-01-07 · Editor Experience: File edits no longer
   hang when approving multiple concurrent edits'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1030
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52e88608c235835cfa7ea26569cc5497cc910f51794b503744c78e1831e03238
+machine_hash: 14b2e944a6ff95ab38eec6f57b25d0d8eb18afbfe863bb5975cc893e0597807b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +42,10 @@ record:
   title: File edits no longer hang when approving multiple concurrent edits
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-06-added-experimental-support-for-background-edits-allows-editing-files-in-backgrou|Added
-  experimental support for Background Edits…]]'
 - '[[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor
   Experience changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-improved-more-cost-effective-underlord|Improved,
+  more cost-effective Underlord]]'
 - '[[Changes/Codex CLI/2026-01-07-add-app-server-thread-rollback-so-ide-clients-can-undo-the-last-n-turns-without|Add
   app-server thread/rollback so IDE clients can undo the last N turns without…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91|github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

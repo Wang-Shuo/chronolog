@@ -4,20 +4,20 @@ date: '2023-08-20'
 description: 'Cursor · 2023-08-20 · Reliability and Performance: SSH support is now
   more robust! Please continue to let us know if you are experiencing any SSH problems.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 248
+  lag_days: 1735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f59755424701c7de31a16970ea28eacc32eb1c6e511f7941d447dbca90f0bbf3
+machine_hash: 8cf7a7742ca61b09fad319187ffec25d65271ac4fd7497b72e8a20486249490b
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: More robust SSH support
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-08-02-2-reliability-and-performance-changes-in-v0-0-13|2
-  Reliability and Performance changes in v0.0.13]]'
+- '[[Changes/Notion/2023-08-08-recently-visited-pages-now-load-10-faster-on-ios|Recently
+  visited pages now load 10% faster on iOS]]'
 - '[[Changes/Ollama/2023-08-10-llama-2-70b-model-with-metal-support-recommend-at-least-64gb-of-memory-ollama-ru|Llama
   2 70B model with Metal support (Recommend at least 64GB of memory)…]]'
 - '[[Changes/Ollama/2023-08-18-ollama-will-now-parse-data-from-ggml-format-models-and-use-them-to-make-sure-you|Ollama
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

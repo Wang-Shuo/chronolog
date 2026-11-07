@@ -4,20 +4,21 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Account and Access: 4 changes in GPT-5.6 Sol, sign-in
   inside previews, and zero-config AI Gateway for generated apps — Apps v0 generates…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2222
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 303df399d2a9a497e2c0f0130ae96f92947b22976201b74e23bcdde49a2da953
+machine_hash: 1305b56c160cbe98eab31a524029f250a8807b44ff85e1225345581dabd5322e
 product: v0
 product_name: v0
 record:
@@ -56,12 +57,12 @@ record:
   title: 4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
-  Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
 - '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
   and Access changes in v1.18.25 + 1]]'
+- '[[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved
+  Knowledge Center authentication synchronization]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: account-access
@@ -108,14 +109,14 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account and Access changes in v1.18.25 + 1]]
+- Earlier: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-improved-knowledge-center-authentication-synchronization|Improved Knowledge Center authentication synchronization]]
 - Later: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show the specific authentication failure (such as 401 Bad credentials) instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

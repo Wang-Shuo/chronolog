@@ -4,19 +4,20 @@ date: '2026-10-14'
 description: 'Claude Code · 2026-10-14 · Collaboration: Changed local session transcripts
   to also record each API request''s system prompt, tools and parameters, so a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2833
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f60cea1bcc8284260780d38ba9c17030f39f41308fe82d887b7984dae3c663f0
+machine_hash: 606674ccf859ef7ce91c7b8093861b25a1db8af0464fc53e2c9b25dc9c4028d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +47,10 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
-  changes in v0.12.0]]'
-- '[[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration
-  changes in v2026.10.1]]'
-- '[[Changes/OpenClaw/2026-10-12-home-notifications-creating-many-chats-no-longer-fills-home-s-notification-queue|Home
-  notifications]]'
+- '[[Changes/HeyGen/2026-10-13-voices-page|Voices page]]'
+- '[[Changes/HeyGen/2026-10-13-brand-glossary-rebuilt|Brand Glossary, rebuilt]]'
+- '[[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create
+  Syren videos in ChatGPT and Claude]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: collaboration
@@ -92,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-home-notifications-creating-many-chats-no-longer-fills-home-s-notification-queue|Home notifications]]
+- Earlier: 2026-10-13 · Synthesia · [[Changes/Synthesia/2026-10-13-make-refine-and-share-syren-videos-without-leaving-chatgpt-or-claude-using-the-d|Create Syren videos in ChatGPT and Claude]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|💾 Save hidden on others' messages. In a chat shared with Allow replies, editing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

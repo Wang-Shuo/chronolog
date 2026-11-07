@@ -5,20 +5,19 @@ description: 'GitHub Copilot CLI · 2026-10-07 · Editor Experience: Read user s
   only from ~/.copilot/settings.json; user-setting keys in ~/.copilot/config.json
   are…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1303
+  lag_days: 2887
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb4bc3b25dca75f9c7fb9969cf7484b9161a62e1bab43bfe9f9fb2c749fc6f28
+machine_hash: 709636bef650b0be44305696b4ccb7e450d4600a4ed8fbdcbb27701f9eb73ea6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

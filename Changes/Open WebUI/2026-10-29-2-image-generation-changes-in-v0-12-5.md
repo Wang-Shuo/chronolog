@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: "Open WebUI · 2026-10-29 · Image Generation: 2 changes in v0.12.5 — \U0001F39E️
   **Animated ComfyUI images.** Images from ComfyUI's Save Animated WEBP and Save Animated…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 1221
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c0fc1856f9ffb2d2843eea5eb08378bfeb1d9738046e6e1ca3b47f716dc8478
+machine_hash: 65d30abd0bdfaac6ef76d6e71d76f9884a9b432a23bf4ba16d70773f89dbdccf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

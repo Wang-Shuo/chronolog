@@ -1,0 +1,100 @@
+---
+card_id: notion-2024-10-24-f70eb5
+date: '2024-10-24'
+description: 'Notion · 2024-10-24 · Interface Experience: Notion Site URLs often have
+  a long string of numbers and characters, but now you can make them exactly what
+  you’d…'
+diffusion:
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 2020
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 37
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 9f855e2814d52bf40e562edf8a4c869653f045d9d7641b6370f38509909d2490
+product: notion
+product_name: Notion
+record:
+  card_id: notion-2024-10-24-f70eb5
+  comparison: ''
+  date: '2024-10-24'
+  description: 'Notion — Notion 2.46: Forms, Mail, layouts, new automations, and more!:
+    Notion Site URLs often have a long string of numbers and characters, but now you
+    can make them exactly what you’d like! Cory, our video producer and resident birder,
+    turned his site birdingnyc.com/NYC-Birding-Checklist-3ebf732864 into birdingnyc.com/mybirds
+    . Just use the Share → Publish menu. Learn more →'
+  evidence:
+  - quote: Notion Site URLs often have a long string of numbers and characters, but
+      now you can make them exactly what you’d like! Cory, our video producer and
+      resident birder, turned his site birdingnyc.com/NYC-Birding-Checklist-3ebf732864
+      into birdingnyc.com/mybirds . Just use the Share → Publish menu. Learn more
+      →
+    source_release: https://www.notion.com/releases/2024-10-24
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: notion
+  product_name: Notion
+  slug: personalize-your-urls
+  source_release: notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764
+  source_type: notion_changelog
+  theme: interface-experience
+  title: Personalize your URLs
+  type: change
+related_changes:
+- '[[Changes/Descript/2024-10-08-help-center-overhaul|Help center overhaul]]'
+- '[[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated
+  wording on Mic mute tooltip to provide clearer instructions]]'
+- '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
+source_release: '[[Releases/Notion/notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764|notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764]]'
+source_type: notion_changelog
+theme: interface-experience
+title: Personalize your URLs
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Personalize your URLs
+
+**Notion** · 2024-10-24 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://www.notion.com/releases/2024-10-24) · from [[Releases/Notion/notion-2024-10-24-https-www-notion-com-releases-2024-10-24-3455a764|Notion 2.46: Forms, Mail, layouts, new automations, and more!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Notion Site URLs often have a long string of numbers and characters, but now you can make them exactly what you’d like! Cory, our video producer and resident birder, turned his site birdingnyc.com/NYC-Birding-Checklist-3ebf732864 into birdingnyc.com/mybirds . Just use the Share → Publish menu. Learn more →
+>
+> Source: https://www.notion.com/releases/2024-10-24
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize your page]] · Files and Data
+- [[Changes/Notion/2024-10-24-a-few-more-improvements|A few more improvements]] · Reliability and Performance
+- [[Changes/Notion/2024-10-24-automate-more-actions-with-formulas|Automate more actions with formulas]] · Automation and Scheduling
+- [[Changes/Notion/2024-10-24-automations-can-now-send-emails|Automations can now send emails]] · Automation and Scheduling
+- [[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]] · Interface Experience
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-updated-wording-on-mic-mute-tooltip-to-provide-clearer-instructions|Updated wording on Mic mute tooltip to provide clearer instructions]]
+- Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface Experience changes in v0.3.33]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20notion-2024-10-24-f70eb5&body=Card%3A%20Changes%2FNotion%2F2024-10-24-personalize-your-urls.md%0ACard%20ID%3A%20notion-2024-10-24-f70eb5%0ASource%3A%20https%3A%2F%2Fwww.notion.com%2Freleases%2F2024-10-24%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

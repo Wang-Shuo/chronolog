@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'Dify · 2026-09-10 · Pricing Model: 4 changes in v1.17.1 - Bug Fixes
   and Improvements — **Lease-based triggers stopped working after about a week.**…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1365
+  lag_days: 2983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa6cfd47647449ef91e7713ed9086f765ecc014a964ac3951101daaf3a819216
+machine_hash: 4e4dd838f96bc45520ca1a523295e54f8baae9dd779fc80ac6585381f684a4c2
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Pricing Model changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
-  Unlimited GPT-Live-1 usage]]'
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy
+  credits and set auto top-ups]]'
+- '[[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track
+  credit usage with the Billing API]]'
 - '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
   Model changes in v2.1.268]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
@@ -117,7 +117,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

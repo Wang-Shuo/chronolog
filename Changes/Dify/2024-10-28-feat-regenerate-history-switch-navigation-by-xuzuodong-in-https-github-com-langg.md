@@ -4,20 +4,20 @@ date: '2024-10-28'
 description: 'Dify · 2024-10-28 · Interface Experience: feat: regenerate history switch
   navigation by @xuzuodong in https://github.com/langgenius/dify/pull/8749'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 658
+  lag_days: 2024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc3779a169805195346ceeaa11618f0112c9bd3172d90f38c64541489f00b321
+machine_hash: 96a54aaea0ae29222a9f6ec8836347f09dc330ab688a63796dfee57f5bd84bf7
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,8 @@ record:
   title: 'feat: regenerate history switch navigation'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
-  KaTeX Rendering Improvement]]"
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- '[[Changes/Notion/2024-10-24-shortcut-to-notion-features|Shortcut to Notion features]]'
+- '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
 - '[[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface
   Experience changes in v0.3.33]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'
@@ -89,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

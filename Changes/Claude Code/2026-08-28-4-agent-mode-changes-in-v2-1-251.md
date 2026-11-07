@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f39eaf063b786730dfdf30387654eed732b975f89cb18069473b6bbed00aaea
+machine_hash: 155a83bb4b488d1dc56f8fb28b9e1bfd2ce64652dc4ef19bb771f5474587b42e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
   title: 4 Agent Mode changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A
-  live preview, right in the browser]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent
-  Mode changes in v1.0.81]]'
 - '[[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes
   in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-as-coding-becomes-a-universal-capability-a-coding-agent-gives-anyone-the-power-t|As
+  Coding becomes a universal capability, a coding agent gives anyone the power…]]'
+- '[[Changes/Qoder/2026-08-27-hello-world|Hello, World!]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
 source_type: github_releases
 theme: agent-mode
@@ -103,8 +102,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes in v1.16.0]]
-- Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-find-your-first-customers-with-growth-skills|Find your first customers with Growth Skills]]
+- Earlier: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-hello-world|Hello, World!]]
+- Later: 2026-08-28 · Notion · [[Changes/Notion/2026-08-28-your-agents-can-now-propose-changes-instead-of-making-them-directly-ask-your-age|Ask your agent to suggest edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

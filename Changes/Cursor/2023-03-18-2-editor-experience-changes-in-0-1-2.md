@@ -4,20 +4,19 @@ date: '2023-03-18'
 description: 'Cursor · 2023-03-18 · Editor Experience: 2 changes in v0.1.2-0.1.3 (2023-03-18)
   — Diffs automatically continue'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 4
+  lag_days: 1588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8a0699fbbe3f0ac9fe3eb88279d6baa6e84e1e91e84210380067bd42462e663
+machine_hash: 4c854f0c1e3bea4ca3323db367f1aef4feae5c1de047901f19a85d09b67eddda
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +41,9 @@ record:
   title: 2 Editor Experience changes in 0.1.2
   type: change
 related_changes:
+- '[[Changes/Notion/2023-02-09-better-notifications|Better notifications]]'
+- '[[Changes/Descript/2023-02-21-you-can-now-download-your-published-video-directly-from-the-editor-in-the-publis|Download
+  your published video directly from the Editor in the Publish modal]]'
 - '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience
   changes in 0.0.37]]'
 source_release: '[[Releases/Cursor/cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875|cursor-2023-03-18-0-1-2-https-cursor-com-changelog-0-1-2-154cc875]]'
@@ -84,7 +86,7 @@ Source: https://cursor.com/changelog/0-1-2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

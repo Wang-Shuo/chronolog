@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2025-10-27 · Voice and Audio: **External voice shar
   controls**: External voice sharing and Voice Library publishing can now be disabled
   via…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 840
+  lag_days: 2667
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c70b0e24c1bdbb7877edac20b1083369e89e83826b7bb2ebdb325ae09f39b8d4
+machine_hash: fdb29d04a00099aa974e45e48d6998c6351a64d552c3d10c0226252f21710e44
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -54,10 +54,12 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-07-voice-management|Voice Management]]'
-- '[[Changes/ElevenLabs/2025-10-07-voice-management-a4407c|Voice Management]]'
 - "[[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|\U0001F50A
   Azure Text-to-Speech now properly escapes special characters like ampersands…]]"
+- '[[Changes/Descript/2025-10-09-import-files-from-other-projects-beta|Import files
+  from other projects (beta)]]'
+- '[[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription
+  now available in Beta]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-27-2025-10-27-a0636583|elevenlabs-2025-10-27-2025-10-27-a0636583]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -93,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|🔊 Azure Text-to-Speech now properly escapes special characters like ampersands…]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
+- Earlier: 2025-10-23 · Descript · [[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription now available in Beta]]
+- Later: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-audio-previews-now-available-in-the-editor-sidebar|Audio previews now available in the Editor sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

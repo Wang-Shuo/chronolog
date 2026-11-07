@@ -4,20 +4,20 @@ date: '2026-07-24'
 description: 'Replit · 2026-07-24 · Pricing Model: You can now move between individual
   Pro tiers and change your billing cadence from your billing settings. Replit shows…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1317
+  lag_days: 2935
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2719694a36934f103f83d02339cb7143728113749148f58cff713c68193da0ea
+machine_hash: 4c939b32e8ebbb91acc5ef3351e63a45debba095adc8d29ee88f7e16527c932c
 product: replit
 product_name: Replit
 record:
@@ -45,8 +45,8 @@ record:
   title: More flexibility when changing your Pro plan
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
-  Model changes in Cursor Router]]'
+- '[[Changes/Notion/2026-07-24-now-you-can-track-your-workers-usage-in-the-credits-dashboard-alongside-your-oth|Now
+  you can track your Workers’ usage in the credits dashboard , alongside…]]'
 - '[[Changes/Replit/2026-07-24-lower-prices-across-replit-cloud|Lower prices across
   Replit Cloud]]'
 - '[[Changes/Replit/2026-07-24-billing|Billing]]'
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
+- Earlier: 2026-07-24 · Notion · [[Changes/Notion/2026-07-24-now-you-can-track-your-workers-usage-in-the-credits-dashboard-alongside-your-oth|Now you can track your Workers’ usage in the credits dashboard , alongside…]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

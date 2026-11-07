@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d8718b75c5c67970af5a67b6e20a233769d12b2f789d01b0c5ab8631eeb08cad
+machine_hash: 1900e5f4a2ef1702b862e2c6e979f51275457c0b43715811521ad9a5d24b6f7c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-02 · Cursor · [[Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely|Cursor supports self-hosted machines, which let you keep tool execution entirely…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
+- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-3-agent-mode-changes-in-kimi-code-0-40-0|3 Agent Mode changes in Kimi Code 0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

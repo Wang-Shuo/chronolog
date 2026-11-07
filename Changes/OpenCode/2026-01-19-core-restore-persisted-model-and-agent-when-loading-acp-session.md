@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 23bd5fa158b209a2b4ba295602ad11c5167f10d9ade269be03877606595d12e7
+machine_hash: 7159cab9d4c4c6a4a3bcfc636b2cb9c22e9a17e57d7f79762d62d23a9a92578b
 product: opencode
 product_name: OpenCode
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP server management when swapping between custom agents with /agent]]
-- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes in v1.1.28]]
+- Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-your-agent-fits-in-your-pocket|Your Agent fits in your pocket]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

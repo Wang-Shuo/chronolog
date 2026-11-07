@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5633cc28573dcdd3fe71f1f045b32c71eb86bf2842f3dca023606f99acd45af6
+machine_hash: 80e7710edb997bb176476b13b05a1133d4d2982b22107099985b44172cbe2ded
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Cloud agents on mobile
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily
-  disable subagents in the VS Code extension while the SDK-backed…]]'
+- '[[Changes/Kimi Code/2026-06-26-optimize-the-default-system-prompt-and-built-in-tool-descriptions-to-stop-the-ag|Optimize
+  the default system prompt and built-in tool descriptions to stop the agent…]]'
 - '[[Changes/v0/2026-06-26-2-agent-mode-changes-in-platform-api-v2-mcp-chat-tools|2
   Agent Mode changes in Platform API v2, MCP chat tools…]]'
 - '[[Changes/Claude Code/2026-06-29-2-agent-mode-changes-in-v2-1-196|2 Agent Mode

@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'ElevenLabs · 2026-03-02 · Voice and Audio: **Update project content
   from URL**: New [Update…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c31e895ce1bd5de9f9532a0c0305dad8771f383be3e9f7f5bdc41c0bdebccde1
+machine_hash: ce830796c082c9935a2c682c7ce8b3e96260a1e812680ed5018ecd75cb480833
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,10 +49,10 @@ record:
   title: Audio Native
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved
-  dictation visuals]]'
-- '[[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice
-  and Audio changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-the-media-library-is-finally-here-in-drive-view|The
+  Media Library is finally here in Drive view]]'
+- '[[Changes/Descript/2026-03-02-preview-audio-and-video-results-in-underlord|Preview
+  audio and video results in Underlord]]'
 - '[[Changes/ElevenLabs/2026-03-02-voices|Voices]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-02-2026-03-02-97fa6f5d|elevenlabs-2026-03-02-2026-03-02-97fa6f5d]]'
 source_type: elevenlabs_changelog
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice and Audio changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-preview-audio-and-video-results-in-underlord|Preview audio and video results in Underlord]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69|3 Voice and Audio changes in v2.1.69]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

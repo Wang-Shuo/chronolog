@@ -4,20 +4,19 @@ date: '2025-08-13'
 description: 'Cline · 2025-08-13 · Editor Experience: 4 changes in v3.24.0 — Click
   from a file name in chat to editor by @tseglevskiy in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 883
+  lag_days: 2467
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e2a6b85f9c6e43ab029c8ed16cc958c30a5bd9a13df39c637dc5ff886c5d1a9
+machine_hash: 6b21af89ee45e617896842465be14b565d7f8d8631778c133da4590c8ea63b15
 product: cline
 product_name: Cline
 record:
@@ -101,7 +100,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

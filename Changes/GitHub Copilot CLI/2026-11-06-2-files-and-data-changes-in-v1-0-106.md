@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Files and Data: 2 changes in 1
   — Pasting two images or documents that share a file name from different folders
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fc549cbfdd7697c07e64d7de90cfe1528f4dacc4822c30ffb1c8dc0325f1ab3
+machine_hash: e77594df94ff506ea3e248a05c2905235fb4d0edbd7c14a4e5d5bc2e15e0341e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Files and Data changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and
-  Data changes in v2026.10.10]]'
-- '[[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas):
-  attribute local Cloud signup entries (ALL-5962)]]'
 - '[[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes
   in 1.19.0]]'
+- '[[Changes/Qoder/2026-11-05-take-documents-and-sites-further|Take Documents and
+  Sites Further]]'
+- '[[Changes/Qoder/2026-11-05-sites-design-canvas-adjust-site-page-content-and-layout-on-a-design-canvas-and-u|Sites
+  design canvas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: file-data
@@ -102,13 +102,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes in 1.19.0]]
+- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-sites-design-canvas-adjust-site-page-content-and-layout-on-a-design-canvas-and-u|Sites design canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

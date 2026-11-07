@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'v0 · 2026-01-14 · Pricing Model: Added scope selector in the buy credits
   dialog'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2744
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 15b1b6c08bf5aa60081e1b8b355d2b070440fec8e3ba873f8b6e380ca3c560df
+machine_hash: a0fd1cb634e3b1cd205d3baef796f0c287f056959b8a0ca731fdf497ab0061dc
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,11 @@ record:
   title: Added scope selector in the buy credits dialog
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-gift-cards|Gift cards]]'
-- '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
+- '[[Changes/Descript/2026-01-06-better-ai-credit-efficiency-and-reasoning|Better
+  AI-credit efficiency and reasoning]]'
 - '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
   Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
+- '[[Changes/HeyGen/2026-01-13-avatar-4-default|Avatar 4 (default)]]'
 source_release: '[[Releases/v0/v0-2026-01-14-2026-01-14-cce49812|v0-2026-01-14-2026-01-14-cce49812]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -77,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]
+- Earlier: 2026-01-13 · HeyGen · [[Changes/HeyGen/2026-01-13-avatar-4-default|Avatar 4 (default)]]
 - Later: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

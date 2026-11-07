@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-01 · Interface Experience: 3 changes in v0.
   — \U0001F50D **Chat Sidebar Search \"Clear” Button**: Quickly clear search filters
   in chat sidebar…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 813
+  lag_days: 2179
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97d3fcba117a2cdd73fc2d647d5ae26136a7996ca3d5f90446e5b719dffff60e
+machine_hash: e613ed92acce5fac6d9e98ddf56d7da36b44287d61f9b32d6513406f1d1af09f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,10 +52,9 @@ record:
   title: 3 Interface Experience changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
 - '[[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX
   Fixes: Addressed various style and interaction issues, like sidebar width…]]'
+- '[[Changes/Descript/2025-03-25-instant-recording-playback|Instant recording playback]]'
 - '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
   Experience changes in v0.80.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'
@@ -109,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

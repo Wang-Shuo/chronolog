@@ -5,20 +5,20 @@ description: 'Replit · 2025-06-13 · Mobile and Desktop: The latest mobile app 
   is now available in the App and Play stores! The update includes a refreshed home
   screen…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 822
+  lag_days: 2406
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e2cd63f6411e2b6619344235f6782fc8238ae3f266ae580e3ff773aee6507307
+machine_hash: b77ad643bd34995ce2fcebd8778e9d70247c3a859024a30e5170a5c26c9aede5
 product: replit
 product_name: Replit
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-3-mobile-and-desktop-changes-in-v0-9-1|3 Mobile and Desktop changes in v0.9.1]]
-- Later: 2025-06-26 · Lovable · [[Changes/Lovable/2025-06-26-improvements|Improvements]]
+- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

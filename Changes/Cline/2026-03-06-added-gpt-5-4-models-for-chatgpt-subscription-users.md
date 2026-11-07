@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83571a77e13b4ddae63f48fd8113b5e321da94cc83b5c6f81a6894169aec4cba
+machine_hash: 9f05c9ca18ad59134414cc06eb3bb1c7d820474fcc7e288746fb245fa27e0fb3
 product: cline
 product_name: Cline
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-05 · Ollama · [[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow thinking levels such as "medium" to correctly interpreted in Ollama's API…]]
-- Later: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-add-gpt-5-4-to-codex-allowed-models-list|Add GPT-5.4 to Codex allowed models list]]
+- Later: 2026-03-06 · Notion · [[Changes/Notion/2026-03-06-gpt-5-4-is-now-available-in-notion-s-model-picker-this-is-openai-s-latest-and-mo|GPT-5.4 is now in Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

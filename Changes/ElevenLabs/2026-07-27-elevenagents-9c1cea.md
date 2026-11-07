@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 92dc14bc39e0a02222a1845a4c955c05f4a4723abf688c7fa855cdf6282bddd6
+machine_hash: 57a36da089f01810320e863f05b60a205a4d07ef1d874958dbe11c1a776fba65
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -127,8 +127,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
-  changes in v2.1.219]]'
+- '[[Changes/Kimi Code/2026-07-24-add-experimental-secondary-model-bindings-for-newly-spawned-subagents-including|Add
+  experimental secondary-model bindings for newly spawned subagents, including…]]'
 - '[[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop
   Keep the prompt input agent toggle in sync]]'
 - '[[Changes/ElevenLabs/2026-07-27-elevenagents|ElevenAgents]]'

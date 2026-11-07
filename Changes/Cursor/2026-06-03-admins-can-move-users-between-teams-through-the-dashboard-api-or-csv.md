@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Cursor · 2026-06-03 · Enterprise and Administration: Admins can move
   users between teams through the dashboard, API, or CSV'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2332
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b7b98b1fc66102befcb70ccb671caf88f22fc6ca603eea4b29a2db24d60fd08
+machine_hash: 8cba955456eb0305bb90755ad22655c012066133f3831d4450e6e4697b5d8f97
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,11 @@ record:
   title: Admins can move users between teams through the dashboard, API, or CSV
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-29-upgrade-to-enterprise-without-leaving-replit|Upgrade
-  to Enterprise without leaving Replit]]'
-- '[[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2
-  Enterprise and Administration changes in v0.9.6]]'
-- '[[Changes/Claude/2026-06-02-enterprise-plans-can-manage-admin-permissions-with-custom-roles|Enterprise
-  plans can manage admin permissions with custom roles]]'
+- '[[Changes/HeyGen/2026-06-02-script-docx-upload-sunset|Script .docx upload SUNSET]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-automate-agent-lifecycle-management-with-policy-based-rules-windows-web-microsof|Automate
+  agent lifecycle management with policy-based rules Windows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-now-supports-email-messages-web-microsoft-365-admin-cent|Organizational
+  Messages now supports Email messages Web (Microsoft 365 admin center)]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -80,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-02 · Claude · [[Changes/Claude/2026-06-02-enterprise-plans-can-manage-admin-permissions-with-custom-roles|Enterprise plans can manage admin permissions with custom roles]]
+- Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-now-supports-email-messages-web-microsoft-365-admin-cent|Organizational Messages now supports Email messages Web (Microsoft 365 admin center)]]
 - Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-the-uk-plus-pr|Rolling out ads in the UK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

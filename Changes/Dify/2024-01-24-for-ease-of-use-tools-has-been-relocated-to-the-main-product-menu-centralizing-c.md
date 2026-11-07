@@ -5,20 +5,20 @@ description: 'Dify · 2024-01-24 · Interface Experience: For ease of use, "Tool
   been relocated to the main product menu, centralizing customization, authorization,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 380
+  lag_days: 1746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d3d063501f13c6fd7d079c4928254107eb94f896a22c55b4d58e7a4ab9f76bf
+machine_hash: 7de99192415e112848306103bd50178509c49b6fa51b7da381327b84e9a6f380
 product: dify
 product_name: Dify
 record:
@@ -43,11 +43,11 @@ record:
   title: For ease of use, "Tools" has been relocated to the main product menu, centralizing…
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
-  previews: We made it easier to see what codeblock you''re @''ing]]'
+- '[[Changes/Descript/2024-01-10-removed-a-confusing-tooltip-in-the-media-library-showing-in-point-selection-when|Removed
+  a confusing tooltip in the media library showing In-point selection…]]'
 - '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
   app sidebar support collapse]]'
+- '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat: app sidebar support collapse]]
+- Earlier: 2024-01-22 · Descript · [[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]
 - Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

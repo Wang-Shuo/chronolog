@@ -3,20 +3,20 @@ card_id: replit-2024-12-27-fc376f
 date: '2024-12-27'
 description: 'Replit · 2024-12-27 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 602
+  lag_days: 1809
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 578ffe076047a0d7b11c32b29869a235e7d72f288674eec5e1db0d0b65c86bb2
+machine_hash: 9ba2e404e9a0ed79df1dc2564b4c4272e485e0c546dbdeb6f8bad3dbb12fe2ae
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-update-enterprise-inquiry-link-to-point-to-chatflow-by-guchenhe-in-https-github|update
-  enterprise inquiry link to point to chatflow]]'
 - '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
   support for reading .pdf and .docx files…]]'
+- '[[Changes/Descript/2024-09-25-new-powers-for-enterprise-drive-admins|New powers
+  for Enterprise Drive admins]]'
 - '[[Changes/Dify/2024-12-03-feat-remove-github-star-and-community-links-if-it-is-enterprise-version-by-douxc|Feat:
   remove github star and community links if it is enterprise version]]'
 source_release: '[[Releases/Replit/replit-2024-12-27-2024-12-27-e5c636ef|replit-2024-12-27-2024-12-27-e5c636ef]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b444d9a661d6405bbdbc21e218a147aa5dfd055a64f9558d1c900e91c6d5f2cc
+machine_hash: 505ba02d9054499455d3e95e38d14b45122452ac11bc0d25fde6b4336517f981
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Vertex ai model mapping fix
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
-  to test new features]]'
+- '[[Changes/Kimi Code/2026-06-17-group-the-default-model-dropdown-in-web-settings-by-provider|Group
+  the default model dropdown in web settings by provider]]'
 - '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
   A and North family models now run on Apple Silicon with the MLX engine]]'
 - '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press

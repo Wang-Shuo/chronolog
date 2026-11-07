@@ -4,20 +4,20 @@ date: '2025-11-17'
 description: 'GitHub Copilot CLI · 2025-11-17 · Reliability and Performance: Improve
   `Ctrl+C` performance'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 2555
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb404d9144f90c2d341d4e632f78edd59f71e5c91406e8ef55a1a23fab9bbf20
+machine_hash: bd3d4df155d5c9e74b2c9b8f8e0dedc317b211c9528a138418f3749166b345ab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved rendering performance in Ollama's new app, especially when rendering code]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native Compaction Support]]
+- Later: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-finally-pages-are-loading-15-faster-it-s-a-strong-start-to-3-0|Finally, pages are loading 15% faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

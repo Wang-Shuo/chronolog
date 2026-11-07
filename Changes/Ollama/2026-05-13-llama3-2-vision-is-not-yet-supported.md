@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Ollama · 2026-05-13 · Multimodal Input: `llama3.2-vision` is not yet
   supported'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 967
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: baa006960b7cbc1e325772292fab5ed09e0e3345b2a5366d3a6ff1f115c34e13
+machine_hash: 4f0112406184668f0f1bfc7da875a98df885eea216993c4af45845e18682e1d8
 product: ollama
 product_name: Ollama
 record:
@@ -40,11 +40,12 @@ record:
   title: '`llama3.2-vision` is not yet supported'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-07-packages|Packages]]'
-- "[[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|\U0001F680
-  Persistent chat payload efficiency. Persisted chats now use server-side…]]"
 - '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
   image paste from Windows clipboard now works via a PowerShell fallback…]]'
+- '[[Changes/HeyGen/2026-05-13-heygen-is-now-natively-integrated-with-openai-codex-bringing-a-complete-video-cr|HeyGen
+  is now natively integrated with OpenAI Codex, bringing a complete video…]]'
+- '[[Changes/HeyGen/2026-05-13-whether-you-re-shipping-a-product-demo-a-tutorial-or-a-feature-walkthrough-you-c|Whether
+  you''re shipping a product demo, a tutorial, or a feature walkthrough, you…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12|ollama-2026-05-13-v0-30-0-github-318756375-d8b4dd12]]'
 source_type: github_releases
 theme: multimodal
@@ -75,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
+- Earlier: 2026-05-13 · HeyGen · [[Changes/HeyGen/2026-05-13-whether-you-re-shipping-a-product-demo-a-tutorial-or-a-feature-walkthrough-you-c|Whether you're shipping a product demo, a tutorial, or a feature walkthrough, you…]]
 - Later: 2026-05-13 · Runway · [[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

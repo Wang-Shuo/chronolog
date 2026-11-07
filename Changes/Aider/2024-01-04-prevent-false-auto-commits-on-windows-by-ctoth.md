@@ -4,20 +4,20 @@ date: '2024-01-04'
 description: 'Aider · 2024-01-04 · Mobile and Desktop: Prevent false auto-commits
   on Windows, by @ctoth'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 296
+  lag_days: 1880
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad0fe5f5d5948645a5af43a4eb5048a80c53cf1bd12cf6faef1451bf1d8b457b
+machine_hash: 0b3e3218f3efe23e2e249301aaa8787953fc63cfa08b1b1f1f695c704045441e
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,9 @@ record:
   title: Prevent false auto-commits on Windows, by @ctoth
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-09-06-note-cmake-is-required-to-build-dependencies-on-macos-it-can-be-installed-with-b|Note:
-  cmake is required to build dependencies]]'
 - '[[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama
   for macOS will now always update to the latest version, even if earlier…]]'
+- '[[Changes/Descript/2023-10-16-simplified-script-tools|Simplified Script tools]]'
 - '[[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat:
   fe mobile responsive next]]'
 source_release: '[[Releases/Aider/aider-2024-01-04-v0-20-0-github-135845423-1a95dda2|aider-2024-01-04-v0-20-0-github-135845423-1a95dda2]]'
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-feat-fe-mobile-responsive-next-by-yuhao1118-in-https-github-com-langgenius-dify|feat: fe mobile responsive next]]
-- Later: 2024-02-14 · Ollama · [[Changes/Ollama/2024-02-14-ollama-on-windows-is-now-available-in-preview|Ollama on Windows is now available in preview]]
+- Later: 2024-02-05 · Descript · [[Changes/Descript/2024-02-05-quick-recorder-gets-a-major-upgrade-on-macos|Quick Recorder gets a major upgrade on MacOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

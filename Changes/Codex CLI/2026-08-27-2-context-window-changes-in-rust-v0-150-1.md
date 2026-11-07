@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-08-27 · Context Window: 2 changes in 0.150.1 �
   compaction now counts retained images toward its token budget by default, trimming
   older…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2535
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41801cc2a31038b9e60d58e795cc07f63a0d7d1c118029be3e19e71e0f3674ad
+machine_hash: 53546a2a119f2c2307b798aff790be312583f58e6454342991e77f163ab96b77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

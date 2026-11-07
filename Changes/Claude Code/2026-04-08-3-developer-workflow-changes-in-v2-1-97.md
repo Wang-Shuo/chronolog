@@ -4,19 +4,20 @@ date: '2026-04-08'
 description: 'Claude Code · 2026-04-08 · Developer Workflow: 3 changes in v2.1.97
   — Added `workspace.git_worktree` to the status line JSON input, set when the current…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a42748e5cac8eba123282e81eb65eb226ab8b064eca7d16ac11014d2418776b8
+machine_hash: 2f59013b73583dbf3f176e220a407f8480a2df30e921f4e137be131b6304ce53
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

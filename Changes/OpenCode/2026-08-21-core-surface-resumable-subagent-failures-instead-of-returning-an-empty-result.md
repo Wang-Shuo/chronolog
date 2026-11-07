@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2014ce566c97cfb141177688e94681f3aefd106b2a07412080006b563fe7f965
+machine_hash: eaa31f9a93c44b1b654f00ad8bbf1003d66e666d97fa3a78f7fa8aabcb9b8419
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Core Surface resumable subagent failures instead of returning an empty result
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3
-  Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]'
+- '[[Changes/Kimi Code/2026-08-20-2-agent-mode-changes-in-kimi-code-0-38-0|2 Agent
+  Mode changes in Kimi Code 0.38.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
   changes in v2.1.239]]'
 - '[[Changes/OpenCode/2026-08-21-surface-failed-subagent-tool-calls-with-a-resumable-task-id|Surface

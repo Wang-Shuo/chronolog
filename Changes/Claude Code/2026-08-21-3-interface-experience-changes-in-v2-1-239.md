@@ -4,20 +4,20 @@ date: '2026-08-21'
 description: 'Claude Code · 2026-08-21 · Interface Experience: 3 changes in v2.1.239
   — Cost estimates (`/cost`, status line, `--max-budget-usd`) now include the 1.1×…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1320
+  lag_days: 2686
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4427c43311222fe421836162581aeea411b750fcd67f85da63796df642c27ad
+machine_hash: 1e9248f136c9307318fd573e08f8c1a9b99eb83e8c1454cc46ddd0427dcec375
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Interface Experience changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added
-  the ability to collapse top-level sidebar sections]]'
+- '[[Changes/Kimi Code/2026-08-20-web-add-a-pin-action-to-the-chat-header-more-menu|web:
+  Add a Pin action to the chat header more-menu]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 - '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

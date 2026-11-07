@@ -5,20 +5,19 @@ description: 'Runway · 2026-08-07 · Editor Experience: Leave feedback directly
   an image or video with the new Comments tab. Pin comments to an exact spot or moment
   in a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1242
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efffbc26ccd3d2d647ea4cc09dcf769bacf8f1b4ee0bf7a31387730f593d078b
+machine_hash: c71d1b2e39855081c8581b4a08b85ecd16b5e70f1664e353d30eb31ae7af8763
 product: runway
 product_name: Runway
 record:
@@ -47,12 +46,11 @@ record:
   title: Comments on Assets
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
-  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
 - '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
   bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
 - '[[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
   Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/HeyGen/2026-08-07-proofread-version-clarity|Proofread version clarity]]'
 source_release: '[[Releases/Runway/runway-2026-08-07-2026-08-07-comments-on-assets-66330d43|runway-2026-08-07-2026-08-07-comments-on-assets-66330d43]]'
 source_type: runway_changelog
 theme: editor-experience
@@ -79,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2 Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-proofread-version-clarity|Proofread version clarity]]
 - Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore the "View Changes" button on completion rows, backed by SDK checkpoints…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

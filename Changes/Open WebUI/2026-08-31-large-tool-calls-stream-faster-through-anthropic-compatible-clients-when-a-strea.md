@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-31 · Reliability and Performance: \U0001F9E
   tool calls stream faster through Anthropic-compatible clients.** When a streamed
   tool call…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1355
+  lag_days: 2842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0fa210734b0de5f14653ee1fc39cc7da4e0c060973c94dcfb56d3f110cb52c4
+machine_hash: 19485ac74d0d3cf5da645df82bf945fc96208cf1c21e7c3e4fae28fe33e4d05a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,11 +48,11 @@ record:
   title: "\U0001F9E0 **Large tool calls stream faster through Anthropic-compatible…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-10-reliability-and-performance-changes-in-v0-11-1|10
-  Reliability and Performance changes in v0.11.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume
-  large sessions faster by showing recent history first while older messages load]]'
 - '[[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]'
+- '[[Changes/Qoder/2026-08-27-improved-app-startup-performance-and-reliability|Improved
+  app startup performance and reliability]]'
+- '[[Changes/Qoder/2026-08-28-improved-first-message-and-app-startup-performance|Improved
+  first-message and app startup performance]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b|open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-27 · Lovable · [[Changes/Lovable/2026-08-27-faster-command-palette|Faster command palette]]
+- Earlier: 2026-08-28 · Qoder · [[Changes/Qoder/2026-08-28-improved-first-message-and-app-startup-performance|Improved first-message and app startup performance]]
 - Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

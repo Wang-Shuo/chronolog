@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-03-11 · Apps and Integrations: 8 changes in 0.1
   — Added an experimental hooks engine with `SessionStart` and `Stop` hook events.
   (#13276)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2644
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 312cd4dc63409e7549c5493ca57e6433a58053b0bf68862ba4816589026545bb
+machine_hash: 0a28fa9caa747fbcce7e54d05ed208459b8f410d07afcf330fe5e33fd3a8d92b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,11 +59,12 @@ record:
   title: 8 Apps and Integrations changes in rust-v0.114.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-09-mcp|MCP]]'
-- '[[Changes/Claude Code/2026-03-10-3-apps-and-integrations-changes-in-v2-1-72|3 Apps
-  and Integrations changes in v2.1.72]]'
-- '[[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11
-  Apps and Integrations changes in rust-v0.113.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-with-shortcut-to-manage-agile-development-workflows-web-microsof|Connect
+  Copilot with Shortcut to manage agile development workflows…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-connect-copilot-to-amazon-s3-document-repositories-web-microsoft-365-copilot-ext|Connect
+  Copilot to Amazon S3 document repositories…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable
+  AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8|codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -114,14 +115,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.114.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-11-apps-and-integrations-changes-in-rust-v0-113-0|11 Apps and Integrations changes in rust-v0.113.0]]
+- Earlier: 2026-03-10 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-10-explainable-ai-with-deep-and-inline-citations-for-connectors-microsoft-365-copil|Explainable AI with deep and inline citations for connectors (Microsoft 365 Copilot Chat)]]
 - Later: 2026-03-11 · Cursor · [[Changes/Cursor/2026-03-11-we-ve-added-more-than-30-new-plugins-from-partners-such-as-atlassian-datadog-git-901313|New Plugins on the Cursor Marketplace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2026-06-16'
 description: 'GitHub Copilot CLI · 2026-06-16 · Editor Experience: 4 changes in 1.0.63
   — Blocked image attachments now explain what to do — enable vision via the "Editor…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f41633bff51fa38fd5a07782c67a645f16d94edc632fe0296ad8eded36094ae4
+machine_hash: 98769b4c46b88b9e6e20809387a962a8311025f7aa1a3aee477e6dfddc6a9ea0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,11 +50,11 @@ record:
   title: 4 Editor Experience changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
-  Editor Experience changes in v1.0.62]]'
 - '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
   Experience changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]'
+- '[[Changes/Kimi Code/2026-06-15-prioritize-clearing-draft-editor-text-before-ctrl-c-cancels-an-active-stream|Prioritize
+  clearing draft editor text before Ctrl-C cancels an active stream]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: editor-experience
@@ -97,14 +96,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]
+- Earlier: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-prioritize-clearing-draft-editor-text-before-ctrl-c-cancels-an-active-stream|Prioritize clearing draft editor text before Ctrl-C cancels an active stream]]
 - Later: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-05-26 · Reliability and Performance: 3 changes
   v0.6.11 — \U0001F4E6 **GZip, Brotli, ZStd Compression Middleware**: Enjoy significantly
   faster page…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 2380
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd8012d72580683c898d4b06a66a829d2aba7fcc55f0fb6009790a747880a3ce
+machine_hash: 5ff2bbf51a1096201a5b06a72dc0b9e6337e93568466cd29883dbd8f9e84e16f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

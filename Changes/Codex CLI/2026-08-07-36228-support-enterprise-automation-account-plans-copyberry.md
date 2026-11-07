@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Automation and Scheduling: #36228 Support Enterprise
   automation account plans @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f2ea8d7c117b000d7b2c24a7ac6a10fdad5acf85f0f461886a5e12cff2cd5f7f
+machine_hash: b2e6654fcdac8797903328ef663d7b556a002d161d5d2471e780607e7e66d77b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: '#36228 Support Enterprise automation account plans @copyberry'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore:
-  bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]'
-- '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
-  drive the automation UI from the interface manifest]]'
+- '[[Changes/Kimi Code/2026-08-04-rename-two-loop-control-keys-max-retries-per-step-max-attempts-per-step-and-max|Rename
+  two loop_control keys]]'
+- '[[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]]'
 - '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
   Automation and Scheduling changes in v1.10.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

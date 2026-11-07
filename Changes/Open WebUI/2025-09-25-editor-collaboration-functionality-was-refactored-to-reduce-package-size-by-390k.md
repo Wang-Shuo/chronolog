@@ -4,19 +4,20 @@ date: '2025-09-25'
 description: 'Open WebUI · 2025-09-25 · Collaboration: ⚡ Editor collaboration functionality
   was refactored to reduce package size by 390KB and minimize compilation errors…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 855
+  lag_days: 2449
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c2ba7355c272cf2c8bb63ae923cce1ece66b3fe07bec781f789ef5b10e0b53c
+machine_hash: b21111ed90766de3ec53c82bac64d2dc1f6969562c7f753a7994b066aca5f1ff
 product: open-webui
 product_name: Open WebUI
 record:
@@ -112,7 +113,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

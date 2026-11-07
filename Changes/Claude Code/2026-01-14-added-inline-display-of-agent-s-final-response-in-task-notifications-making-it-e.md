@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 797efa088cec3eae39c0bb38b00ebe5bef9acc19a9d662770025c5babffa1a69
+machine_hash: c3fe1d1f5d2b4a249b5ec6a62c00db038237e385bdd50cae9968d5afc1c79c35
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-01-13-agent-skills|Agent Skills]]'
 - '[[Changes/Google Antigravity/2026-01-13-agent-skills-now-available-in-antigravity|Agent
   Skills now available in Antigravity]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-expand-copilot-agents-with-mail-people-and-meeting-insights-windows-web-microsof|Expand
+  Copilot Agents with Mail, People, and Meeting Insights Windows…]]'
 - '[[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases

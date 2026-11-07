@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'GitHub Copilot CLI · 2026-05-29 · Context Window: 2 changes in 1.0.56
   — Model picker shows accurate total context window size per pricing tier'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1121
+  lag_days: 2445
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9c501def74b0e15c583441d4f90780e20fcf078fd70ec95c159b2a5c7a8b183
+machine_hash: fa80e9fe66dc89395b18395b5764bcfa9e22e90572210126d8cc50a70ce5a522
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,13 +89,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Context Window
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-2-context-window-changes-in-v1-0-55|2 Context Window changes in v1.0.55]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context Window changes in rust-v0.136.0]]
+- Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-4-context-window-changes-in-kimi-code-0-6-0|4 Context Window changes in Kimi Code 0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

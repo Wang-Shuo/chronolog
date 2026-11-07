@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-12-02 · Developer Workflow: 13 changes in v0.6
   — \U0001F4E8 Direct Message channels now support a complete user-to-user messaging
   system with…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 990
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52cae4ce872a6b0ced4cd88a7280f7ead9cb016cf29d3b58ae74d03568634438
+machine_hash: dbd2152ac4759acb153accdeb1911e223af0299f748efaefef6fd2cdbcd34bda
 product: open-webui
 product_name: Open WebUI
 record:
@@ -181,7 +182,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

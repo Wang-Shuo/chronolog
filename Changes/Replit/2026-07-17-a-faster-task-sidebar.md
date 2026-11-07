@@ -5,20 +5,20 @@ description: 'Replit · 2026-07-17 · Interface Experience: The task sidebar is 
   a denser, easier-to-scan task navigator. Each task has its own hover card for quick
   actions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 92523f462400ddf624761da2779a29ea59a1c7fbb35dcc56f050eab3723a8ccd
+machine_hash: 2f3764e43935ab35dfbfd7ea977e20b4d284187bd99afe294304627dbb100486
 product: replit
 product_name: Replit
 record:
@@ -57,9 +57,10 @@ record:
   title: A faster task sidebar
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
 - '[[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface
   Experience changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-web-remember-the-thinking-level-per-model-fixing-an-empty-unresponsive-thinking|web:
+  Remember the thinking level per model, fixing an empty, unresponsive thinking…]]'
 - '[[Changes/Lovable/2026-07-17-redesigned-workspace-menu|Redesigned workspace menu]]'
 source_release: '[[Releases/Replit/replit-2026-07-17-2026-07-17-97de1494|replit-2026-07-17-2026-07-17-97de1494]]'
 source_type: replit_changelog
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

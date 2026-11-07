@@ -5,20 +5,20 @@ description: 'Cursor · 2025-03-11 · Reliability and Performance: This release 
   mainly on stability and performance improvements to make existing features work
   better.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 817
+  lag_days: 2304
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c5ac7fe86b334661b2c3ebca67784f7b430032ade22a2931ff14c7be42fae76
+machine_hash: 107b141a8ea471cf9fa9491fda347a0f19fd7d317f81157fbd8a360527e725db
 product: cursor
 product_name: Cursor
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️ General Reliability Enhancements]]
-- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability & Reliability]]
+- Later: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

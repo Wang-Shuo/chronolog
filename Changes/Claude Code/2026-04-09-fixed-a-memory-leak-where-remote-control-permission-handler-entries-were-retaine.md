@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-09 · Reliability and Performance: Fixed a 
   leak where Remote Control permission handler entries were retained for the lifetime
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2698
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 3e1e81b0888a386afd0048449f4a2e9e4ec523698d1ddff5cf6a3ba091ce27e6
+machine_hash: d74d4c43d2b4854cd9c6996d8b2098fe4f982a6d9454f9dad20b906eb2ea8069
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
     retained…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
-  Write tool diff computation speed for large files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
   memory usage by automatically shutting down shell sessions that are no longer…]]'
 - '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
   performance with NAX]]'
+- '[[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5 performance with NAX]]
+- Earlier: 2026-04-08 · HeyGen · [[Changes/HeyGen/2026-04-08-long-form-stability|Long-form stability]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-improved-rendering-performance-with-a-new-simplified-inline-renderer|Improved rendering performance with a new simplified inline renderer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

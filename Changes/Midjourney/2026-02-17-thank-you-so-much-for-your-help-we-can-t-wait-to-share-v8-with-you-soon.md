@@ -4,19 +4,20 @@ date: '2026-02-17'
 description: 'Midjourney · 2026-02-17 · Collaboration: Thank you so much for your
   help! We can''t wait to share V8 with you soon! ❤️ ❤️ ❤️'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1000
+  lag_days: 2594
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6a658da98f1adfd877db942728b26c8a577ea1fd4f008487c68ed5cbce465848
+machine_hash: ae3acc549c8a86b83b07d4cabd5695da1479c58b5af129554c9854eb1ce8b5fb
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,12 +44,12 @@ record:
   title: Thank you so much for your help!
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
-  you so much for your help!]]'
 - "[[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|\U0001F41B
   Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]"
 - "[[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|\U0001F510
   Skills sharing permissions. Administrators can now control skills sharing…]]"
+- '[[Changes/HeyGen/2026-02-17-videos-are-posted-right-back-into-the-thread-and-saved-to-your-heygen-workspace|Videos
+  are posted right back into the thread and saved to your HeyGen workspace]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-02-17-https-updates-midjourney-com-v8-rating-party-round-2-7386fd6b|midjourney-2026-02-17-https-updates-midjourney-com-v8-rating-party-round-2-7386fd6b]]'
 source_type: midjourney_changelog
 theme: collaboration
@@ -78,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|🔐 Skills sharing permissions. Administrators can now control skills sharing…]]
+- Earlier: 2026-02-17 · HeyGen · [[Changes/HeyGen/2026-02-17-videos-are-posted-right-back-into-the-thread-and-saved-to-your-heygen-workspace|Videos are posted right back into the thread and saved to your HeyGen workspace]]
 - Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-music|Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

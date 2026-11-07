@@ -4,20 +4,20 @@ date: '2023-11-27'
 description: 'Cursor · 2023-11-27 · Multimodal Input: Image Support in Chat: You can
   now drag and drop images into the chat to send them to the AI.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 69
+  lag_days: 1837
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 31ab2d403984ceba5b59407fa3b8e4c7bf13e95b4d2a2c95e5079ac3a9cd0d4a
+machine_hash: ec772008615d0c5060b9108a1e1851a5a780a04d3610eff16b6c3112655d3813
 product: cursor
 product_name: Cursor
 record:
@@ -83,13 +83,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2023-11-21 · Gemini · [[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding Bard’s understanding of YouTube videos]]
-- Later: 2023-12-12 · Ollama · [[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal Input changes in v0.1.15]]
+- Later: 2023-11-30 · Descript · [[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New AI Action: Find Good Clips]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

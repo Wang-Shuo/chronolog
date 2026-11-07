@@ -4,20 +4,20 @@ date: '2024-06-14'
 description: 'Dify · 2024-06-14 · Apps and Integrations: chore:add some new api version
   for azure openai by @leslie2046 in https://github.com/langgenius/dify/pull/5142'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 449
+  lag_days: 2009
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 68d132d8897d9347257e9fd1c39c7946c9ac4c08255e5cfc9fb88814ea1f490b
+machine_hash: a7735862c845ea8818557d7eb654edd56f09d789be11e963b625f9f9a386318c
 product: dify
 product_name: Dify
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-06-07 · Ollama · [[Changes/Ollama/2024-06-07-ollama-can-now-be-accessed-from-local-apps-built-with-electron-and-tauri-as-well|Ollama can now be accessed from local apps built with Electron and Tauri, as well…]]
-- Later: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-functions-feature-you-can-now-utilize-functions-like-filters-middleware-and-pipe|✨ "Functions" Feature]]
+- Later: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-instant-answers-from-slack-google-drive-salesforce-jira-and-more|Instant answers from Slack, Google Drive, Salesforce, Jira, and more]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

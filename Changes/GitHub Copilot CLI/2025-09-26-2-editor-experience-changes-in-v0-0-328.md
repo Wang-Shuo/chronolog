@@ -4,20 +4,19 @@ date: '2025-09-26'
 description: 'GitHub Copilot CLI · 2025-09-26 · Editor Experience: 2 changes in 0.0.328
   — Improved error message received when Copilot CLI is blocked by organization policy…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 927
+  lag_days: 2511
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8977a5574f081b7c32717e1aaca7d87b1c1d6ef25e3a9aea5342f4932b7a226
+machine_hash: 497695f4daca4649f9577e44734d6b106aa7d7ba64478b1f7ffc30cae563dd5b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.328
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

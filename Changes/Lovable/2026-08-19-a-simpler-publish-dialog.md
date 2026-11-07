@@ -4,20 +4,20 @@ date: '2026-08-19'
 description: 'Lovable · 2026-08-19 · Safety and Privacy: You can now [publish your
   project](https://docs.lovable.dev/features/publish.md) from a single view: select…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1221
+  lag_days: 2213
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6926921fe722db85f419fd6e40c78b0eddfa9a2fec65ba5e942597c86b3ce3ff
+machine_hash: a036faccbfc4249d2236d22071de886bcb430dec4b92796edb8495a5d315409f
 product: lovable
 product_name: Lovable
 record:
@@ -62,10 +62,10 @@ record:
   title: A simpler Publish dialog
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety
-  and Privacy changes in v2.1.235]]'
 - '[[Changes/Codex CLI/2026-08-18-17-safety-and-privacy-changes-in-rust-v0-148-0|17
   Safety and Privacy changes in rust-v0.148.0]]'
+- '[[Changes/Z.ai API/2026-08-18-emergent-cybersecurity-capabilities-glm-5-3-matches-mythos-5-in-white-box-code-r|Emergent
+  Cybersecurity Capabilities]]'
 - '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
   and Privacy changes in v2.1.236]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-19-2026-08-19-776e1b54|lovable-2026-08-19-2026-08-19-776e1b54]]'
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

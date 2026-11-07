@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ecb1e7dba96fc7050e257f845d4151bdcfb1f44a2e10306bf37807933961b598
+machine_hash: 0f7330c5ced6703baf6ebb83864eb5f239dfbb79a5e08a7fd93de8e249ebd5d4
 product: windsurf
 product_name: Windsurf
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model Support changes in rust-v0.40.0]]
-- Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support changes in v0.6.0]]
+- Later: 2025-09-24 · Descript · [[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New media generation model selection in Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

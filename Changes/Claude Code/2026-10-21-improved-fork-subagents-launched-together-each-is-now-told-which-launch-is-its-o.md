@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf98a23ead186d09924d46396d6f67a192b259aa986537ad950a1594c2f4e77c
+machine_hash: 6041e57dc1854a092d03e935074988826c24a6cb786b9b3841601aa60dd61ffe
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-21 · Claude · [[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude Duet research preview for Pro and Max plans]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
+- Later: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-compact-now-queues-while-the-agent-is-busy-instead-of-failing-with-an-error|/compact now queues while the agent is busy instead of failing with an error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

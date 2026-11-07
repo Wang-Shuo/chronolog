@@ -4,20 +4,20 @@ date: '2023-09-19'
 description: 'Dify · 2023-09-19 · Interface Experience: Mermaid front end rendering
   by @charli117 in https://github.com/langgenius/dify/pull/1166'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 253
+  lag_days: 1619
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b0cb899a1eabc72b75d622245b48d30f75ab37e5254fd850903ad757e55d571
+machine_hash: 20da24c19e1448e3b6a612852b4de5443ab67d8334c2ee01477a461acc53e7fe
 product: dify
 product_name: Dify
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat scroll: we got rid of sticky scroll to make the chat easier to read]]
+- Later: 2023-10-02 · Descript · [[Changes/Descript/2023-10-02-new-view-options-in-drive-view|New View Options in Drive View]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

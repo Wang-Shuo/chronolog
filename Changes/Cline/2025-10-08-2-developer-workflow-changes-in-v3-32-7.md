@@ -4,19 +4,20 @@ date: '2025-10-08'
 description: 'Cline · 2025-10-08 · Developer Workflow: 2 changes in v3.32.7 — adding
   send as a top level command by @0xToshii in https://github.com/cline/cline/pull/6661'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 935
+  lag_days: 2584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4eeda630ed310737551469049c5fb17463360dee8bee5bfb502f8b3a338a6e8
+machine_hash: 6a785f9785e980fd42203ea824fae49798a314af9964aa07bff0f9458673c38b
 product: cline
 product_name: Cline
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.32.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

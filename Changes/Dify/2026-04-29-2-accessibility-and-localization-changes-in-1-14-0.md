@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bce887a49a24bde0d83a2f64fd29f03c8cb231fc9fffd0aa8eb01ab48129e1a
+machine_hash: 286ad351d9e14f7f350fcc5e465ed20e6fd079f986e457e9c8d81f42de2aa7a3
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Accessibility and Localization changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
-  disables borders in screen reader mode to prevent announcing decorative characters]]'
 - '[[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop
   Synchronize internationalization translations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
   color contrast across CLI themes for better readability and accessibility]]'
+- '[[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion
+  Academy videos and certification programs are now live in 6 new languages…]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve color contrast across CLI themes for better readability and accessibility]]
+- Earlier: 2026-03-19 · Notion · [[Changes/Notion/2026-03-19-notion-academy-videos-and-certification-programs-are-now-live-in-6-new-languages|Notion Academy videos and certification programs are now live in 6 new languages…]]
 - Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI startup and accessibility were tightened by bounding terminal probes, clearing…]]
 <!-- chronolog:end -->
 

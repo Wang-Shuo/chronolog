@@ -4,20 +4,20 @@ date: '2026-08-09'
 description: 'Cline · 2026-08-09 · Context Window: 2 changes in v4.1.7 — Carry execution
   context in scheduled run reports — readable headers, schedule metadata, durations…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1193
+  lag_days: 2517
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f431e91216e50d55cefeda5128f9f677af6178ea56ce49886f58cd5fe1f682b1
+machine_hash: acaee26f1367edd288242d04dd64ac0138834427b9f16146740fdf7802b8320a
 product: cline
 product_name: Cline
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

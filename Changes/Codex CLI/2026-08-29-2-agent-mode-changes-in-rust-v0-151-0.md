@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 783eaa6e7a228e0c14ae08353c9571ce610a77f34e3856bda4f04ae8c6fc42c0
+machine_hash: e48f61ead8007d6dbc4865183d9ec89d25f1072401937d93b80736dc9c84aa78
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode
-  changes in v2.1.251]]'
+- '[[Changes/Notion/2026-08-28-your-agents-can-now-propose-changes-instead-of-making-them-directly-ask-your-age|Ask
+  your agent to suggest edits]]'
 - '[[Changes/Replit/2026-08-28-find-your-first-customers-with-growth-skills|Find your
   first customers with Growth Skills]]'
 - '[[Changes/Replit/2026-08-28-agent|Agent]]'

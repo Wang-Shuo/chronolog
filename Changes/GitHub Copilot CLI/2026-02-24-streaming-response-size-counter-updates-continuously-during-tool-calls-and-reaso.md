@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d71e045cf015ccdc307744d8f0ec4e9f56b9498c3c892cce6ccf58a1d41eec01
+machine_hash: 78c8db9760f4f119e01133dd37bef53e0d379ceea2cbc8e3c7fea8a4cd6cabe8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes in v3.67.0]]
-- Later: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support changes in v0.17.1]]
+- Later: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-declarative-agents-upgraded-to-gpt-5-1-microsoft-365-copilot-extensibility|Declarative agents upgraded to GPT-5.1 (Microsoft 365 Copilot extensibility)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

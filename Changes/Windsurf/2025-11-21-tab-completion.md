@@ -4,20 +4,19 @@ date: '2025-11-21'
 description: 'Windsurf · 2025-11-21 · Editor Experience: Improved latency, responsiveness,
   and accuracy of autocomplete.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 983
+  lag_days: 2567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1c8e7a8a9e89bffd8285ce91254a8f0e38ab66b727388cd3cf79e08a50c6f3f2
+machine_hash: 84a352c18057c1b63e5cf179fbe29bf1ea1c7e90494d13957453efd866a0d43d
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,12 +43,11 @@ record:
   title: Tab Completion
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The
-  “Hide” filter has changed to “Trash”]]'
 - '[[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor
   doesn’t glitch]]'
 - '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
   changes in 2.1]]'
+- '[[Changes/Descript/2025-11-21-editor|Editor]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-editor|Editor]]
 - Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced a broad set of workflow-editor improvements, including UI refinement…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

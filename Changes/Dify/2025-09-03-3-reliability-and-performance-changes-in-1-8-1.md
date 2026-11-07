@@ -5,20 +5,20 @@ description: "Dify · 2025-09-03 · Reliability and Performance: 3 changes in v1
   — Welcome to version 1.8.1! \U0001F389\U0001F389\U0001F389 This release focuses
   on stability, performance…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 993
+  lag_days: 2480
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef0f8d4c45ca9155d06f4c5e448d69a7362a31cdd3df34fe6487d0c81fcbdff1
+machine_hash: 487c6b72bca907f56bd3a4b18bebc4a1858bb9f6efea2fd5edf27fa113cc382e
 product: dify
 product_name: Dify
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

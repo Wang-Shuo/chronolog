@@ -4,20 +4,20 @@ date: '2024-08-20'
 description: 'Ollama · 2024-08-20 · Reliability and Performance: 2 changes in v0.3.7
   — CUDA 12 support: improving performance by up to 10% on newer NVIDIA GPUs'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 614
+  lag_days: 2101
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2be775b113a024c5e7bd9be0767ab6c68b84cc9a58c6d82130bdf0eaf9908c6b
+machine_hash: f47366d8f3a49695f189e1babda6e540a4e75beee93a8a411b4eb3b2b7dee2fe
 product: ollama
 product_name: Ollama
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

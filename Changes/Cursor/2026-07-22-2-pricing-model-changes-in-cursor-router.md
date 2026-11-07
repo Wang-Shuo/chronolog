@@ -4,20 +4,20 @@ date: '2026-07-22'
 description: 'Cursor · 2026-07-22 · Pricing Model: 2 changes in Cursor Router — Optimization
   modes: Cost, Balance, and Intelligence'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1315
+  lag_days: 2933
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0854fc5cd9bcf1a2cda8923dec96cff41fce10232ff3d5f2aa5b2518c87fa37f
+machine_hash: 4f58929238b93c94d413ff19831f55adfb5f2e84b008435a0bcd46b3b86c911c
 product: cursor
 product_name: Cursor
 record:
@@ -87,13 +87,13 @@ Source: https://cursor.com/changelog/router
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed server-managed settings so benign feature and cost toggles no longer trigger…]]
-- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-lower-prices-across-replit-cloud|Lower prices across Replit Cloud]]
+- Later: 2026-07-24 · Notion · [[Changes/Notion/2026-07-24-now-you-can-track-your-workers-usage-in-the-credits-dashboard-alongside-your-oth|Now you can track your Workers’ usage in the credits dashboard , alongside…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

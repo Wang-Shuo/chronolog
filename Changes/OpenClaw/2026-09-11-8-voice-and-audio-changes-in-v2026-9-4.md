@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Voice and Audio: 8 changes in v2026.9.4 
   users get fixes for restarts that stayed stuck and for conflicting settings that
   made…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2986
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fb8a382d9f57b2e5e58659a8812346d0041ede4d5cef4f3c0436254b1ed4078
+machine_hash: 18e24f35c37a4cb13790a7e918e790879133565c417f82a969020bc23dda898a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -164,13 +164,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
-- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-packages|Packages]]
+- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-real-time-voice-improved-connection-stability-reducing-the-likelihood-of-unexpec|Real-time voice: Improved connection stability, reducing the likelihood…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

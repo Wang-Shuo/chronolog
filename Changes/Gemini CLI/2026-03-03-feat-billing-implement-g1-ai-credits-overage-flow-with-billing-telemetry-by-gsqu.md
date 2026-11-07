@@ -4,20 +4,20 @@ date: '2026-03-03'
 description: 'Gemini CLI · 2026-03-03 · Pricing Model: feat(billing): implement G1
   AI credits overage flow with billing telemetry by @gsquared94 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 817f145f8f8bfd75afd8af95ade4bae3fe23e22d5f4ec5442c75619b53605254
+machine_hash: af8cf3e246b34f04ee28d5ce0799aecde94886f028e25f46a6447fefadee105f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 'feat(billing): implement G1 AI credits overage flow with billing telemetry'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
-  ChatGPT subscription]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
-  warning when user has no Copilot subscription]]'
+- '[[Changes/Descript/2026-02-10-accounts-billing|Accounts & Billing]]'
 - '[[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To
   support the stateful pause/resume mechanism required by HITL and provide…]]'
+- '[[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations
+  no longer require a separate API plan]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a|gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a]]'
 source_type: github_releases
 theme: pricing-model
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To support the stateful pause/resume mechanism required by HITL and provide…]]
+- Earlier: 2026-02-11 · HeyGen · [[Changes/HeyGen/2026-02-11-heygen-for-business-plan-users-can-now-access-all-integrations-hubspot-clay-zapi|Integrations no longer require a separate API plan]]
 - Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

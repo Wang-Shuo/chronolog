@@ -4,20 +4,19 @@ date: '2025-12-22'
 description: 'Gamma · 2025-12-22 · Editor Experience: Ever wish your logo looked just
   as good on cards with light and dark backgrounds? Now it can.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1014
+  lag_days: 2598
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7fb6cbe73cb2106378a0487b1a71ef5d503e035d6028491e97c1ac93db0b03f
+machine_hash: b5154a27fa43eaaf113477452e6d968507dc274fa24d8f897a8e7af74693c5bd
 product: gamma
 product_name: Gamma
 record:
@@ -51,8 +50,7 @@ record:
   title: Adaptive theme logos
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Descript/2025-12-20-editor|Editor]]'
 - '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
   Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
@@ -98,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-09-10'
 description: 'Dify · 2024-09-10 · Pricing Model: 2 changes in v0.8.0 — Feat:remove
   estimation of embedding cost by @JzoNgKVO in https://github.com/langgenius/dify/pull/7950'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 635
+  lag_days: 2253
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16faa798af8b0db33454dd650e6f8c213c3a58119d3f6824fa8a50d6670c24a9
+machine_hash: 939be1fc25d3f90740403894f7ea09fab3f84d36d52943b029f5bf7d27b3935c
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

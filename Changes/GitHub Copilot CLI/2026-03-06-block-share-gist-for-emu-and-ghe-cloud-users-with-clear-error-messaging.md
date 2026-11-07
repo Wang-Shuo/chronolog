@@ -4,19 +4,20 @@ date: '2026-03-06'
 description: 'GitHub Copilot CLI · 2026-03-06 · Collaboration: Block /share gist for
   EMU and GHE Cloud users with clear error messaging'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1017
+  lag_days: 2611
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13a4ce4a1d8b45a138f54513868ea83561404f59f21652fdf46070b421135c4a
+machine_hash: 125fabed4f76911b17902fb385d18694d282947f445fee5c253a9e97d65ac1d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +43,12 @@ record:
   title: Block /share gist for EMU and GHE Cloud users with clear error messaging
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
-  changes in rust-v0.106.0]]'
 - '[[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An
   update on Rooms]]'
 - "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
   Individual user sharing control. Administrators can now disable individual…]]"
+- '[[Changes/Notion/2026-03-05-this-feature-provides-more-granular-control-over-database-permissions-try-it-in|This
+  feature provides more granular control over database permissions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
 source_type: github_releases
 theme: collaboration
@@ -80,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|🔐 Individual user sharing control. Administrators can now disable individual…]]
+- Earlier: 2026-03-05 · Notion · [[Changes/Notion/2026-03-05-this-feature-provides-more-granular-control-over-database-permissions-try-it-in|This feature provides more granular control over database permissions]]
 - Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core Allow beta channel to share database with stable channel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

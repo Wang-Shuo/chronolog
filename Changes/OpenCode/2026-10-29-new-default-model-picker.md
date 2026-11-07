@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 800baac3268a8263f2b8a7ec0ff2d6b58441addd4f9549b272c93b763572a242
+machine_hash: 5484ebaa9f8f65fd666d43b60ae51585a014a9bc5ceb46e7529aea30b8f229e4
 product: opencode
 product_name: OpenCode
 record:
@@ -55,8 +55,8 @@ record:
   title: New Default Model Picker
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
-  use existing model-profile theme aliases]]'
+- '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
+  /provider refresh providerId to re-fetch provider model lists at runtime]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
   Support changes in rust-v0.166.0]]'
 - '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support

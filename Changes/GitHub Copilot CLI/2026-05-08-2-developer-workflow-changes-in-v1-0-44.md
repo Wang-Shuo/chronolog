@@ -4,19 +4,20 @@ date: '2026-05-08'
 description: 'GitHub Copilot CLI · 2026-05-08 · Developer Workflow: 2 changes in 1.0.44
   — Shell commands via ! prefix work correctly with all shell configurations'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 2796
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fc76176620a90773e957c5e766e842f9518a3a5db29e9bc541262b706c16a6a
+machine_hash: 85d4e90d01b51ec768e619ed1532bc580e5e74a5ecc932e49334d2e9bb504f56
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

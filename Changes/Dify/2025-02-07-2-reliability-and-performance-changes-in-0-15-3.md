@@ -4,20 +4,20 @@ date: '2025-02-07'
 description: 'Dify · 2025-02-07 · Reliability and Performance: 2 changes in v0.15.3
   — **Firecrawl Upgrade**: Updated to the v1 API by @ftonato, providing improved…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 785
+  lag_days: 2272
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f25ae412ea1f96a3cc54f0cbb9cedf748a161a63ac51fd19bb14ed0252885725
+machine_hash: c65e1db2095121c8a861f0160ebcb2e55526c55192b2936e91335ab933cce2da
 product: dify
 product_name: Dify
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

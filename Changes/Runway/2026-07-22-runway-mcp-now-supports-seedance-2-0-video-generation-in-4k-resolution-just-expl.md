@@ -5,20 +5,20 @@ description: 'Runway · 2026-07-22 · Video Generation: Runway MCP now supports 
   2.0 video generation in 4K resolution. Just explicitly request 4K to generate at
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 2100
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ded9c7cc8f9d754ac25356aa04fa9686d22085a901aec1b1a74e59b246ebfa9
+machine_hash: bcd5ea7a3beb7c3b8264c6ee6c1dbf073c1d19a4337b8623a2bd68fca27d273e
 product: runway
 product_name: Runway
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-07-21 · Runway · [[Changes/Runway/2026-07-21-two-new-lightweight-seedance-2-0-tiers-are-now-available-through-runway-mcp-seed|Seedance 2.0 Mini and Fast]]
-- Later: 2026-08-05 · Runway · [[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax Hailuo 3.0]]
+- Later: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-the-agent-can-source-web-images-and-stock-or-generate-its-own-video-and-photos-a|The agent can source web images and stock, or generate its own video and photos…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

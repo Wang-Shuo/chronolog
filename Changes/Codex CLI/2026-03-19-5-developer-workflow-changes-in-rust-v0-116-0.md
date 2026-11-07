@@ -4,19 +4,20 @@ date: '2026-03-19'
 description: 'Codex CLI · 2026-03-19 · Developer Workflow: 5 changes in 0.116.0 —
   #14864 fix: tighten up shell arg quoting in GitHub workflows @bolinfest'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1097
+  lag_days: 2746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00fdc88fe1fa5c4dbb6e6073cd00bf6c387195ed90f17783ee19a3caf641afd0
+machine_hash: c4b0a556747dbe1d6fbc335f2fb4faa07fafca3e5fbef4a5912eecf353f3b5fd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

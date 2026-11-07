@@ -4,20 +4,20 @@ date: '2025-10-27'
 description: 'v0 · 2025-10-27 · Pricing Model: Referrals are now live in v0. Invite
   a new user to subscribe to v0 with your link, and you each get $20 in v0 credits.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1047
+  lag_days: 2665
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b10c067aab4c92f397ce4d752ccb08a2fb8e4279d49041adb6e0e5a1a7a0a269
+machine_hash: 978beb73bfe2b98c69929cdc9054b81eeb6a6d328a820d4f53c93ebf9c00551d
 product: v0
 product_name: v0
 record:
@@ -46,8 +46,7 @@ record:
   title: Referrals Program
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
-  Go, our low cost subscription plan, is now available in 16 additional countries]]'
+- '[[Changes/Descript/2025-10-09-media-hours|Media Hours]]'
 - '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
   Go, our low cost subscription plan, is now available in 71 additional…]]'
 - '[[Changes/Dify/2025-10-22-3-pricing-model-changes-in-1-9-2|3 Pricing Model changes
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-11'
 description: 'Google Antigravity · 2026-06-11 · Apps and Integrations: 2 changes in
   HUB v2.1.4 — Quota Screen Redesign and PDF Support — Improved MCP server stability…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1176
+  lag_days: 2736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c18f95aadd1315938291da9e908af4f4a686f2a315588ecc1ea34ec0ec7937bf
+machine_hash: 186e5921f83966dead376abf6b0bd0750e558aa9f2d2efbb127a081dbcf86e34
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-2-apps-and-integrations-changes-in-v1-17-1|2 Apps
-  and Integrations changes in v1.17.1]]'
-- '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
-  Integrations changes in v3.89.2]]'
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
+- '[[Changes/Descript/2026-06-11-3-apps-and-integrations-changes-in-release-round-up-june-11th-2026|3
+  Apps and Integrations changes in Release round-up—June 11th, 2026]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it-c8519c|How to find it]]'
+- '[[Changes/Descript/2026-06-11-descript-in-claude-and-chatgpt|Descript in Claude
+  and ChatGPT]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910|google-antigravity-2026-06-11-rel-hub-2-1-4-62efd910]]'
 source_type: antigravity_changelog
 theme: apps-integrations
@@ -90,14 +89,14 @@ Source: https://antigravity.google/releases?tab=hub&version=2.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]
+- Earlier: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-descript-in-claude-and-chatgpt|Descript in Claude and ChatGPT]]
 - Later: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

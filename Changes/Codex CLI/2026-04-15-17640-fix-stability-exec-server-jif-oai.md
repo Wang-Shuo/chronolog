@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Codex CLI · 2026-04-15 · Reliability and Performance: #17640 fix: stability
   exec server @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2704
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 620fa997cfd6d59d31587b62930f52ab56077a371da0974b9cb06c33073fd98a
+machine_hash: 5ad2bf32334576201a4365323376e680929de04a8ad317c62bf72d913e6c541e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#17640 fix: stability exec server @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
-  stalled API stream handling]]'
-- '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
-  tabs is now less likely to glitch the file tree, and recovery is faster]]'
 - '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
   memory footprint for file reads, edits, and syntax highlighting by loading…]]'
+- '[[Changes/Notion/2026-04-14-a-meaningful-performance-boost|A meaningful performance
+  boost]]'
+- '[[Changes/Notion/2026-04-14-we-launched-custom-agents-a-few-weeks-ago-and-teams-are-building-faster-than-we|We
+  launched Custom Agents a few weeks ago, and teams are building faster than we can…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced memory footprint for file reads, edits, and syntax highlighting by loading…]]
-- Later: 2026-04-16 · Windsurf · [[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-we-launched-custom-agents-a-few-weeks-ago-and-teams-are-building-faster-than-we|We launched Custom Agents a few weeks ago, and teams are building faster than we can…]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-new-transitions|New Transitions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

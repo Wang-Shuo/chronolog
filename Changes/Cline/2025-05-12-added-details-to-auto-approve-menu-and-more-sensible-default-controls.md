@@ -4,20 +4,20 @@ date: '2025-05-12'
 description: 'Cline · 2025-05-12 · Interface Experience: Added details to auto approve
   menu and more sensible default controls'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 854
+  lag_days: 2220
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e3e9b5b8a56838230a748200effd3ab53459566b45951789989e0bcec38614f
+machine_hash: 80a94e8a186d35bd0b4c91a1a2bd8d20255b73df0fa4055467aca5c6d83ea576
 product: cline
 product_name: Cline
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface Experience changes in v0.6.8]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]
+- Later: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-welcome-to-your-new-ai-home|Welcome to your new AI Home]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

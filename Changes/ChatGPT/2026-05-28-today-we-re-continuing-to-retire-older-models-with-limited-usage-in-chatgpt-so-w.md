@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f4979d6b8975badc3caaab4f72b89c0b5992359113e2f8718394a0d743e1fb87
+machine_hash: 2946e18d65f0ef1bf437eb986a90a0eb4f520b101d24f8f0360e625964fd9b21
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,8 +55,8 @@ record:
   title: Retiring OpenAI o3 and GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
-  decouple auto model description and configuration from releaseChannel]]'
+- '[[Changes/Kimi Code/2026-05-27-use-one-retry-classification-for-transient-llm-failures-across-regular-turns-and|Use
+  one retry classification for transient LLM failures across regular turns…]]'
 - '[[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New
   OpenAI image models for AI features in your app]]'
 - '[[Changes/OpenCode/2026-05-27-3-model-support-changes-in-v1-15-11|3 Model Support

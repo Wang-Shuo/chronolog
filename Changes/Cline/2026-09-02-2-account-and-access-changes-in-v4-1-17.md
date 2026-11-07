@@ -4,20 +4,21 @@ date: '2026-09-02'
 description: 'Cline · 2026-09-02 · Account and Access: 2 changes in v4.1.17 — Signing
   in to OpenAI Codex (ChatGPT subscription) now fails with a clear "port in use" error…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2227
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ef800990dbe9c3993dbd0f41ea6bbba8c333b24d60f599249c37358f40e05c1
+machine_hash: 6986eafd5d13f46a7f9e62e8fc5895de027d8f2cdc630e75a619e1d3e8ddbf4a
 product: cline
 product_name: Cline
 record:
@@ -98,7 +99,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

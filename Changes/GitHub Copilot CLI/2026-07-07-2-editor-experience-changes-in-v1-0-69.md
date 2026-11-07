@@ -4,20 +4,19 @@ date: '2026-07-07'
 description: 'GitHub Copilot CLI · 2026-07-07 · Editor Experience: 2 changes in 1.0.69
   — Include files inside new untracked directories in /diff local edits'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1211
+  lag_days: 2795
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37360e9cb9af8f7aa02dd12e02f41854b103c7bce8fe22057f2b78a2757b421f
+machine_hash: 3c7477a70e857b8eee0196e19f55d8aa182385f8cecab4f785c9d60fe5ef2d78
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,7 +41,8 @@ record:
   title: 2 Editor Experience changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
+- '[[Changes/Kimi Code/2026-07-06-web-align-the-markdown-diff-code-block-with-the-design-system-code-text-keeps-th|web:
+  Align the markdown diff code block with the design system: code text keeps…]]'
 - '[[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor
   Experience changes in v1.17.14]]'
 - '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
@@ -92,13 +92,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]]
-- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop Keep session tab titles available after reloads while session data is still…]]
+- Later: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-web-recover-chat-streaming-after-a-stale-background-tab-websocket-instead-of-req|web: Recover chat streaming after a stale background-tab WebSocket instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

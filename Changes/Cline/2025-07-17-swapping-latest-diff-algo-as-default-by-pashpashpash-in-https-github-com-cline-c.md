@@ -4,20 +4,19 @@ date: '2025-07-17'
 description: 'Cline · 2025-07-17 · Editor Experience: swapping latest diff algo as
   default by @pashpashpash in https://github.com/cline/cline/pull/4412'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 856
+  lag_days: 2440
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 566d480e02ee2c40c89c086ebae921ceb96799cd6309c23128ace1f087506068
+machine_hash: de746363fdeb0ab7f94c346a510d0949a24904485455fb5c607b3ae399efcefd
 product: cline
 product_name: Cline
 record:
@@ -43,8 +42,7 @@ record:
   title: swapping latest diff algo as default
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
-  Experience changes in v0.6.16]]'
+- '[[Changes/Descript/2025-07-15-editor-updates|Editor updates]]'
 - '[[Changes/Cline/2025-07-16-2-editor-experience-changes-in-v3-19-5|2 Editor Experience
   changes in v3.19.5]]'
 - '[[Changes/OpenHands/2025-07-16-2-editor-experience-changes-in-0-49-0|2 Editor Experience
@@ -85,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

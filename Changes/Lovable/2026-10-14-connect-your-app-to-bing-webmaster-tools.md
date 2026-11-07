@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Lovable · 2026-10-14 · Apps and Integrations: You can now connect your
   Lovable app to [Bing Webmaster…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1301
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 89da8ff7fe33cf97ce13cd75d2265fe24075022885ee071aecbf28dbcaa9b786
+machine_hash: a9d67908e9292efb6a52579f6da3af913476d43fb5ed40ad12344dd5b29d8991
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Connect your app to Bing Webmaster Tools
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
   Apps and Integrations changes in v2.1.299]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
   Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Kimi Code/2026-10-14-2-apps-and-integrations-changes-in-kimi-code-2-2-0|2
+  Apps and Integrations changes in Kimi Code 2.2.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2 Apps and Integrations changes in v1.0.98]]
+- Earlier: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-2-apps-and-integrations-changes-in-kimi-code-2-2-0|2 Apps and Integrations changes in Kimi Code 2.2.0]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps and Integrations changes in v0.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

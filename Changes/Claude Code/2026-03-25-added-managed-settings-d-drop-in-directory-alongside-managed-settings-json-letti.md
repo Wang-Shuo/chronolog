@@ -4,19 +4,20 @@ date: '2026-03-25'
 description: 'Claude Code · 2026-03-25 · Collaboration: Added `managed-settings.d/`
   drop-in directory alongside `managed-settings.json`, letting separate teams deploy…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6754feec929935a58b36a3aac22ed4f7f8b468ddd273900fa5819b51e910514f
+machine_hash: 54db3fe118247f824feaf17e6a09419f15b14bf36333bdd471504aef21e3be53
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +43,12 @@ record:
   title: Added `managed-settings.d/` drop-in directory alongside `managed-settings.json`…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
-  split share text-generation and add high-coverage tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
   changes in v1.0.10]]'
 - '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
   changes in v1.3.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-with-egnyte-for-secure-file-collaboration-web-microsoft-365-copi|Connect
+  Copilot with Egnyte for secure file collaboration…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: collaboration
@@ -82,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
+- Earlier: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-with-egnyte-for-secure-file-collaboration-web-microsoft-365-copi|Connect Copilot with Egnyte for secure file collaboration…]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|🐛 Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

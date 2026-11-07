@@ -4,19 +4,20 @@ date: '2025-01-13'
 description: 'OpenHands · 2025-01-13 · Developer Workflow: 2 changes in 0.20.0 - 2025-01-13
   — Make the logs inside the runtime container optional (DEBUG_RUNTIME env var to…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 667
+  lag_days: 2316
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4824d37e0041941833edc24404f4754374241649a13265f64c17cd6d5623707e
+machine_hash: ee4a7fe30ad37bab87ce65cfac2098271121036930eebfe96f6eb362d44e134c
 product: openhands
 product_name: OpenHands
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.20.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

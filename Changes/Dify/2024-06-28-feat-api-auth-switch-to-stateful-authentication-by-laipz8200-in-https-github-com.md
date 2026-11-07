@@ -4,20 +4,21 @@ date: '2024-06-28'
 description: 'Dify · 2024-06-28 · Account and Access: feat(api/auth): switch-to-stateful-authentication
   by @laipz8200 in https://github.com/langgenius/dify/pull/5438'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 456
+  lag_days: 1431
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71d796f806de6ee75a071f8c42e75f733befdad35b61a779e9b2a2a2880b7ecf
+machine_hash: 0d3d4eccab975c1eb4e03866e7fe9171330d7e0bbe91968102d1f22e11cdf462
 product: dify
 product_name: Dify
 record:
@@ -85,13 +86,13 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-experimental-oauth-support-new-experimental-oauth-support-check-our-documentatio|🔒 Experimental OAuth Support: New experimental OAuth support]]
-- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action): move docker login above Set up QEMU in build-push action workflow]]
+- Later: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b38c2de765353c2e8edb2d56a1fe9a4210c26b1b57e986b1bce2ead12a5a7d71
+machine_hash: d2eb84dfb072204d1ba0fd9741097faa134cb27c4adee72a65b5ca6396817f0c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -73,10 +73,10 @@ record:
   title: 17 Agent Mode changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode
-  changes in v2.1.223]]'
 - '[[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent):
   implement Antigravity agent runner and prompt templates …]]'
+- '[[Changes/Kimi Code/2026-08-06-web-subagent-tasks-show-their-model-and-thinking-level|web:
+  Subagent tasks show their model and thinking level]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'

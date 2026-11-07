@@ -4,20 +4,20 @@ date: '2025-06-27'
 description: 'Aider · 2025-06-27 · Reliability and Performance: 3 changes in Aider
   v0.85.0 — Increased max tokens for Deepseek models to 65536 for better performance.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 925
+  lag_days: 2412
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5508159a7bdc9b492afc76c7b34aa1269e148328cff173e5302c30102e65ebd2
+machine_hash: 2fa874bb1746c893a566616fa306cf90efa7151702f36f6879ad1f02d574cfed
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Reliability and Performance changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
-  users to provide feedback on agent performance even when the agent…]]'
 - '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
   Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Descript/2025-06-26-the-new-timeline-turned-on-for-all-users-if-you-need-extra-time-to-get-up-to-spe|The
+  new timeline turned on for all users]]'
 - '[[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing
   Agent preference]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
@@ -98,7 +98,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

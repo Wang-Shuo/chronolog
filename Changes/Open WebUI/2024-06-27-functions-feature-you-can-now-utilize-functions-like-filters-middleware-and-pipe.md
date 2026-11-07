@@ -4,20 +4,20 @@ date: '2024-06-27'
 description: 'Open WebUI · 2024-06-27 · Apps and Integrations: **✨ "Functions" Feature**:
   You can now utilize "Functions" like filters (middleware) and pipe (model)…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 462
+  lag_days: 2022
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ffd16a51ae2d94e91854da0b14d2b876a9af3379acd2fd1bd4995d2aba43e07b
+machine_hash: 1a3bf031d9b13b982a6430f6f45604f81ad1dab1af08d81f596494aae17f029b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -66,12 +66,12 @@ record:
   title: '**✨ "Functions" Feature**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump
-  @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]'
 - '[[Changes/Ollama/2024-06-07-ollama-can-now-be-accessed-from-local-apps-built-with-electron-and-tauri-as-well|Ollama
   can now be accessed from local apps built with Electron and Tauri, as well…]]'
 - '[[Changes/Dify/2024-06-14-chore-add-some-new-api-version-for-azure-openai-by-leslie2046-in-https-github-co|chore:add
   some new api version for azure openai]]'
+- '[[Changes/Notion/2024-06-18-instant-answers-from-slack-google-drive-salesforce-jira-and-more|Instant
+  answers from Slack, Google Drive, Salesforce, Jira, and more]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-27-v0-3-6-github-162865914-133d7851|open-webui-2024-06-27-v0-3-6-github-162865914-133d7851]]'
 source_type: github_releases
 theme: apps-integrations
@@ -107,14 +107,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-chore-add-some-new-api-version-for-azure-openai-by-leslie2046-in-https-github-co|chore:add some new api version for azure openai]]
+- Earlier: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-instant-answers-from-slack-google-drive-salesforce-jira-and-more|Instant answers from Slack, Google Drive, Salesforce, Jira, and more]]
 - Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing with LangSmith and Langfuse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

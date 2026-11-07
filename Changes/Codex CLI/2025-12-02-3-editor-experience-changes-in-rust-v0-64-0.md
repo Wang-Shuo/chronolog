@@ -4,20 +4,19 @@ date: '2025-12-02'
 description: 'Codex CLI · 2025-12-02 · Editor Experience: 3 changes in 0.64.0 — Dependencies
   are updated: libc 0.2.177, webbrowser 1.0.6, regex 1.12.2, toml_edit 0.23.5…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2578
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 938de9656c3524f12edfc1a5d1ac1c84c5ec70d49f8591f2ef0082f9d4569145
+machine_hash: 5987757c08b7cd85aea5b82d44ded9120c0fd95fe9023f19a691df3df27490f2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +46,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore
-  keyboard mode when exiting the editor]]'
-- '[[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience
-  changes in v3.38.3]]'
+- '[[Changes/HeyGen/2025-12-01-the-holidays-are-just-around-the-corner-but-for-heygen-customers-christmas-alway|Weekly
+  Avatar drops]]'
+- '[[Changes/HeyGen/2025-12-01-style-your-avatar-without-leaving-the-studio|Style
+  your avatar without leaving the studio]]'
 - '[[Changes/Cline/2025-12-02-view-remote-rules-and-workflows-in-the-editor-by-celestial-vault-in-https-github|View
   remote rules and workflows in the editor]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
@@ -103,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

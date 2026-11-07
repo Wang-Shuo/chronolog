@@ -4,20 +4,20 @@ date: '2025-10-22'
 description: 'Gemini CLI · 2025-10-22 · Search and Browsing: refactor(core): migrate
   web search tool to tool-names by @abhipatel12 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 944
+  lag_days: 1973
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7352536bff03db05cdc4ec99e74e0ee44cb20fd92ae8d9d59ee90ac2e2446a53
+machine_hash: 5a07869d870c07b31e0e0a747f261b43163e71051ece10c30aa477b26ae39315
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search and Browsing changes in v0.6.33]]
-- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search and Browsing changes in v0.6.35]]
+- Later: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-updated-fonts-modal-for-easier-browsing|Updated fonts modal for easier browsing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

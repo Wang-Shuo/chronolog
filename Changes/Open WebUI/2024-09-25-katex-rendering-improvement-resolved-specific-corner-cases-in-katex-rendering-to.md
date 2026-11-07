@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-25 · Interface Experience: **\U0001F527 KaT
   Improvement**: Resolved specific corner cases in KaTeX rendering to enhance the
   display of…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 625
+  lag_days: 1991
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f731a866c60b871019dfd58d20e939fc330a77ae2b5be8fc40d8ea7fe44c9407
+machine_hash: 3df2e37f401bb04fb27c953d0e942a7a8aa4fd05746ed6083c613d0d865c0cb3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: "**\U0001F527 KaTeX Rendering Improvement**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-24-2-interface-experience-changes-in-v0-3-24|2 Interface
-  Experience changes in v0.3.24]]'
-- "[[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|\U0001F4CA
-  Enhanced LaTeX Rendering]]"
 - '[[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right
   click or go into the More Actions menu]]'
+- '[[Changes/Descript/2024-09-25-using-remove-ignored-text-in-edit-for-clarity-will-now-close-the-underlord-sideb|Using
+  Remove ignored text in Edit for clarity will now close the Underlord sidebar]]'
+- '[[Changes/Notion/2024-09-25-helps-with-questions-about-notion|Helps with questions
+  about Notion]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-25-v0-3-29-github-176855862-de339e4d|open-webui-2024-09-25-v0-3-29-github-176855862-de339e4d]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-24 · Suno · [[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right click or go into the More Actions menu]]
+- Earlier: 2024-09-25 · Notion · [[Changes/Notion/2024-09-25-helps-with-questions-about-notion|Helps with questions about Notion]]
 - Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings for completion menu colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

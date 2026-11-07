@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'Codex CLI · 2026-07-09 · Search and Browsing: #31525 core: migrate standalone
   web search to extension-owned turn items @owenlin0'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2233
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb329dfac06cb90547f9971c9ab1e994d4382e3b2fedddc544a19b5fa7d6ba34
+machine_hash: 6fcd06ff7d2ce3848891e821ce80f5aecf4efcf7c1788f31b18537ae86b5013f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-more-official-channel-provider-and-web-search-plugins-can-now-be-installed-or-re|More
-  official channel, provider, and web-search plugins can now be installed…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
-  resume, and switch between sessions from the agents screen]]'
 - "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
   Web search domain filtering. Domain allow and block rules for web search…]]"
+- '[[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save
+  shell commands to input history and recall them in bash mode]]'
+- '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
+  Add an Archived sessions page in Settings to browse and restore archived sessions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
 source_type: github_releases
 theme: search-browsing
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|🔒 Web search domain filtering. Domain allow and block rules for web search…]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web: Add an Archived sessions page in Settings to browse and restore archived sessions]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search and Browsing changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

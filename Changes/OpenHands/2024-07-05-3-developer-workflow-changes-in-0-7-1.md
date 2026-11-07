@@ -4,19 +4,20 @@ date: '2024-07-05'
 description: 'OpenHands · 2024-07-05 · Developer Workflow: 3 changes in 0.7.1 — feat:
   added make run-wsl by @tobitege in https://github.com/OpenDevin/OpenDevin/pull/2711'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 475
+  lag_days: 2124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7171edc1ab768941ed299d9c8a575bc6849f09090588a041393b2221683fcc3
+machine_hash: 9d57b6ab8255d65f688e34c722d9dd53ee00f9a53ed3709c51e66763b5987879
 product: openhands
 product_name: OpenHands
 record:
@@ -97,7 +98,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

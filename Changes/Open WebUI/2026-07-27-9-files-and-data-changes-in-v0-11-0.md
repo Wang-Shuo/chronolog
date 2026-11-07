@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-07-27 · Files and Data: 9 changes in v0.11.0 �
   **Default file upload mode.** You can now choose in settings how attached files
   are handled…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2504
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d0a031558b726a90a6c1d60bf4b49951edb02cbe8e959153cd4647ef1b4aa7b
+machine_hash: a18935cb69bbaef7b321b0bfe66f4f20e842c584bea853e5aa583f6bdc0ab959
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,10 +82,10 @@ record:
   title: 9 Files and Data changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
-  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167
   Document the Windows exec yield time range @copyberry]]'
+- '[[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web:
+  Show transparent images over a checkerboard canvas]]'
 - '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
   starting to roll out a new health experience in ChatGPT]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
@@ -161,7 +161,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

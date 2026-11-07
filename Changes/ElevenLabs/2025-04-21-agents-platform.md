@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 98c3ed274db08ec52b780e5662eddcab5f113a725c1670bd6826c0e1df009e6a
+machine_hash: 8438ea54e08982402539278324667a3415b6d6e222596dbe81dc1e8e24dfd486
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress UX]]
-- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in 1.3.0]]
+- Later: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-agent-underlord|Agent Underlord]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

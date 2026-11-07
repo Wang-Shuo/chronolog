@@ -4,20 +4,20 @@ date: '2025-12-09'
 description: 'Gemini CLI · 2025-12-09 · Apps and Integrations: 8 changes in Release
   v0.20.0 — feat(hooks): Hook Tool Execution Integration by @Edilmo in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 992
+  lag_days: 2552
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7872d8a92e066dead86c8a5a8f51ed3668d0fdfbab9199cc8ce025c37d0d29b0
+machine_hash: 8185e0852bf82e812546dff144948fce62630c660902fe717652bbb8c66d5986
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.20.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

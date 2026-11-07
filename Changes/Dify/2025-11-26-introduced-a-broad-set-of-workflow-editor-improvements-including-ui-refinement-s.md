@@ -4,20 +4,19 @@ date: '2025-11-26'
 description: 'Dify · 2025-11-26 · Editor Experience: **Introduced a broad set of workflow-editor
   improvements**, including UI refinement, stability fixes, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 988
+  lag_days: 2572
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36bd8226e19b3c511d6dbf9a8e91a78143f751329f2c5e7835651efcbe2ce7c4
+machine_hash: 97054c0c53b1e43912dbad5b16c87942fd0ce33ae5908554f0b926c5846dcd72
 product: dify
 product_name: Dify
 record:
@@ -58,10 +57,9 @@ record:
     refinement…'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor
-  doesn’t glitch]]'
 - '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
   changes in 2.1]]'
+- '[[Changes/Descript/2025-11-21-editor|Editor]]'
 - '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'
 source_release: '[[Releases/Dify/dify-2025-11-26-1-10-1-github-265397441-2aafa784|dify-2025-11-26-1-10-1-github-265397441-2aafa784]]'
 source_type: github_releases
@@ -108,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

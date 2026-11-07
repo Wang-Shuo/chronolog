@@ -4,20 +4,20 @@ date: '2023-11-13'
 description: 'Dify · 2023-11-13 · Multimodal Input: 2 changes in v0.3.30 — feat: [backend]
   vision support by @takatost in https://github.com/langgenius/dify/pull/1510'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 55
+  lag_days: 1823
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a32633841b47b011a0ab35a34d0660e4934d58f5cc89eea441300b4b48096ef
+machine_hash: a278a0cfe8202a1d52221a2c4610981522e41b91bbc8ab6e34d849c786b9c4c7
 product: dify
 product_name: Dify
 record:
@@ -44,6 +44,8 @@ record:
 related_changes:
 - '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
   video to cn readme]]'
+- '[[Changes/Synthesia/2023-09-21-three-new-avatars-are-ready-for-lights-camera-and-action-arnold-grace-and-tyra|New
+  Avatars: Arnold, Grace and Tyra]]'
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
   input will be generally available to Plus users on all platforms]]'
 source_release: '[[Releases/Dify/dify-2023-11-13-0-3-30-github-129173465-f7c04bd0|dify-2023-11-13-0-3-30-github-129173465-f7c04bd0]]'
@@ -87,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.30
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

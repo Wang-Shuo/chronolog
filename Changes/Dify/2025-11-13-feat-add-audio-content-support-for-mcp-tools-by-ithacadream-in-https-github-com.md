@@ -4,20 +4,20 @@ date: '2025-11-13'
 description: 'Dify · 2025-11-13 · Voice and Audio: feat: Add Audio Content Support
   for MCP Tools by @IthacaDream in https://github.com/langgenius/dify/pull/27979'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 857
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e0eba47d9b2be890a12c1b5b46858f6f3dc074d6fb3097f48a3a86713a99a5a3
+machine_hash: f6be3ebb128e784be5210dbf4aee3c7f58d8381c6faadbc0ded06026d3ff415e
 product: dify
 product_name: Dify
 record:
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio changes in v3.37.0]]
-- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-text-to-speech|Text to Speech]]
+- Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-better-audio-duration-matching-for-translation-dubbing|Better audio duration matching for translation dubbing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

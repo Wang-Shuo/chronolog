@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-02-16 · Collaboration: \U0001F510 **Skills sha
   permissions.** Administrators can now control skills sharing and public sharing
   permissions…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 999
+  lag_days: 2593
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18302cb135670f533544dc333cccd1a72a6c3b606aa5d7b21dd64b49cb5ef9e8
+machine_hash: b667e97f94bdb442ffc482bf346ea776de653dac79622b3c3a01011f61751111
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,13 +89,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|🐛 Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]
-- Later: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank you so much for your help!]]
+- Later: 2026-02-17 · HeyGen · [[Changes/HeyGen/2026-02-17-videos-are-posted-right-back-into-the-thread-and-saved-to-your-heygen-workspace|Videos are posted right back into the thread and saved to your HeyGen workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

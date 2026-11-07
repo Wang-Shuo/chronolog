@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'Cline · 2026-03-12 · Safety and Privacy: Markdown image loading now
   requires user consent'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1061
+  lag_days: 2053
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05c0e051ba5f93e9b17724d4c3ab44cceeb33982034a9e1044d15fa185a1c34e
+machine_hash: 8d23457564fbd426efaaf8b45cba72e1803bbd24de53a319d7656bb0d1299442
 product: cline
 product_name: Cline
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]]
-- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety and Privacy changes in v1.2.25]]
+- Later: 2026-03-12 · Notion · [[Changes/Notion/2026-03-12-workspace-owners-can-now-set-a-workspace-wide-policy-for-ai-meeting-notes-audio|New consent controls for AI Meeting Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

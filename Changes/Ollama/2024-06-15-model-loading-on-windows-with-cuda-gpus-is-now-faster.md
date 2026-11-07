@@ -4,20 +4,20 @@ date: '2024-06-15'
 description: 'Ollama · 2024-06-15 · Mobile and Desktop: Model loading on Windows with
   CUDA GPUs is now faster'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 459
+  lag_days: 2043
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 821da932d8921a3b17f8962b776ef1cebde1d224f0b5544a2922700ffded5bec
+machine_hash: ac8b8f2397ddabcc48d43148cdba38584026ccfa95c514bd93bfbd91c50d14ff
 product: ollama
 product_name: Ollama
 record:
@@ -52,12 +52,11 @@ record:
   title: Model loading on Windows with CUDA GPUs is now faster
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
-  iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
 - '[[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini
   mobile app is available in Europe]]'
 - "[[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|\U0001F4F1
   Mobile View Improvements]]"
+- '[[Changes/Notion/2024-06-11-see-your-day-at-a-glance|See your day at a glance]]'
 source_release: '[[Releases/Ollama/ollama-2024-06-15-v0-1-45-github-160632602-2296976d|ollama-2024-06-15-v0-1-45-github-160632602-2296976d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-06-05 · Open WebUI · [[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|📱 Mobile View Improvements]]
+- Earlier: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-see-your-day-at-a-glance|See your day at a glance]]
 - Later: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The Gemini mobile app launching in more countries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8fe5701438dd8dcd14a524c178a711512929124b22d1d92deebdffd08bec8e86
+machine_hash: 321210c485d7d475a2b2b0428417f558b7e6bef61e128052a1803148e4fb3c24
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes in v4.1.10]]
-- Later: 2026-08-15 · Ollama · [[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode WebP images for llama-server]]
+- Later: 2026-08-14 · Notion · [[Changes/Notion/2026-08-14-no-more-guessing-which-model-to-use|Model selection, simplified]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

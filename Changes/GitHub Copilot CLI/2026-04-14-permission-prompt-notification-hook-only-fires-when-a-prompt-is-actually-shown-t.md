@@ -4,20 +4,20 @@ date: '2026-04-14'
 description: 'GitHub Copilot CLI · 2026-04-14 · Safety and Privacy: Permission prompt
   notification hook only fires when a prompt is actually shown to the user'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 2086
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 625dcbd2e7075d9c57b465b3eddf069d94b44e60fc05d927a4888bd2fef8f771
+machine_hash: 23062bdec082a3464403fd9c77ade2eac141cfa62d44a5e7cf1d11058f63b980
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-3-safety-and-privacy-changes-in-v0-38-0|3 Safety and Privacy changes in v0.38.0]]
-- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-10-safety-and-privacy-changes-in-rust-v0-121-0|10 Safety and Privacy changes in rust-v0.121.0]]
+- Later: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-new-database-permission-can-create-pages|New database permission: “Can create pages”]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

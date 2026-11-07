@@ -4,19 +4,20 @@ date: '2025-08-06'
 description: 'Gemini CLI · 2025-08-06 · Developer Workflow: 31 changes in Release
   v0.1.18 — updated ''/auth'' to use new slash command arch by @haroldmciver-go in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 872
+  lag_days: 2521
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82c69d94a0fd5e0a0ea8039d414b233eac5691b7a5242ca714318fe9cdd675dd
+machine_hash: 2afccd3d4ec9bbaebf72e520946a191d8b802600a7623eba6cc54c8a9fa5c947
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -225,7 +226,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

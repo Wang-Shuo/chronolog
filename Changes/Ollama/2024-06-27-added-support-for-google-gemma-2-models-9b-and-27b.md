@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6aaa48210ba590c71ccfee529d91d00b9a14b3973f465f68b473f33dbbcc0e5c
+machine_hash: 7475588318913d4f198823d78c85f8fc133c294c4922a470e70ec0214c13e18c
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,7 @@ record:
   title: Added support for Google Gemma 2 models (9B and 27B)
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
-  Markdown Support in Model Descriptions]]"
+- '[[Changes/Notion/2024-06-18-now-with-gpt-4|Now with GPT-4]]'
 - '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
   in v0.39.0]]'
 - '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes

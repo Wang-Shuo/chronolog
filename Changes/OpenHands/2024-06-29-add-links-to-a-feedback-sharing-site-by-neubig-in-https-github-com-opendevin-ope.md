@@ -4,19 +4,20 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Collaboration: Add links to a feedback sharing
   site by @neubig in https://github.com/OpenDevin/OpenDevin/pull/2580'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 402
+  lag_days: 1996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd2b1959573d289a12053dd61e449995d51c0f6b506cfcd3cddc29082c505bf3
+machine_hash: f6204cf17016ea58104d81e3f6d11bf0be6af608d3a59e4981e183327fe51c3f
 product: openhands
 product_name: OpenHands
 record:
@@ -40,8 +41,8 @@ record:
   title: Add links to a feedback sharing site
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note
-  Support: Add notes directly into your workflows to enhance documentation…]]'
+- '[[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the
+  Plus plan]]'
 - '[[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A
   special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]'
 - "[[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|\U0001F4C1
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

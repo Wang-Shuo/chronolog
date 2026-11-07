@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4867c8caa940aad8c38506ad20e93c00a3c92c69f4d31eb683cb441577b560d9
+machine_hash: a9308dfacd4986feb8e869407d20a2ae8f2912ca92baa0d096c36228723e8e9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,12 @@ record:
   title: GPT-5.5 Instant Mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
-  Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]'
-- '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
-  the model capability warning so it applies more broadly]]'
+- '[[Changes/Kimi Code/2026-07-02-2-model-support-changes-in-kimi-code-0-22-0|2 Model
+  Support changes in Kimi Code 0.22.0]]'
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
   Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
+- '[[Changes/Kimi Code/2026-07-03-2-model-support-changes-in-kimi-code-0-22-2|2 Model
+  Support changes in Kimi Code 0.22.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
+- Earlier: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-2-model-support-changes-in-kimi-code-0-22-2|2 Model Support changes in Kimi Code 0.22.2]]
 - Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 

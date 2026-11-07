@@ -5,20 +5,20 @@ description: 'Ollama · 2026-07-11 · Apps and Integrations: 2 changes in v0.32.
   Renamed the Codex App integration to ChatGPT: use ollama launch chatgpt (and --restore
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 601d229c5322827e3673ae9536d7d81fc32817af06a008f29e10b0c3533ff5cb
+machine_hash: 581476db2211dd9d5d3ce0efe42da3f7e248fe35ae3ac037cf8202febef8a4c0
 product: ollama
 product_name: Ollama
 record:
@@ -84,13 +84,13 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.32.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2 Apps and Integrations changes in v2.1.207]]
-- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-sdk-releases|SDK Releases]]
+- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-update-the-webbridge-install-page-link-opened-from-the-plugins-panel|Update the WebBridge install page link opened from the /plugins panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

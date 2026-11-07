@@ -4,20 +4,20 @@ date: '2024-12-06'
 description: 'Aider · 2024-12-06 · Interface Experience: 2 changes in Aider v0.67.0
   — Spinner now falls back to ASCII art if fancy symbols throw unicode errors.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 697
+  lag_days: 2063
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c73be42173fcec96c2c05b962157a2a38c37369633b816bf09099a32637845df
+machine_hash: 8425948644e9d2b13671e2354be44eb30698e35e84f8b6214419cbbf3d7101db
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Interface Experience changes in v0.67.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
-  UI in the sidebar with inline diffs]]'
 - '[[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added
   Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]'
 - '[[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2
   Interface Experience changes in Lovable updates — 2024-12-03]]'
+- '[[Changes/Notion/2024-12-05-because-details-matter|Because details matter]]'
 source_release: '[[Releases/Aider/aider-2024-12-06-v0-67-0-github-189421051-c32a4de1|aider-2024-12-06-v0-67-0-github-189421051-c32a4de1]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,14 +81,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.67.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-03 · Lovable · [[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2 Interface Experience changes in Lovable updates — 2024-12-03]]
+- Earlier: 2024-12-05 · Notion · [[Changes/Notion/2024-12-05-because-details-matter|Because details matter]]
 - Later: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface Experience changes in 0.13.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

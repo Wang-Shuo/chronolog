@@ -4,19 +4,20 @@ date: '2025-10-18'
 description: 'GitHub Copilot CLI · 2025-10-18 · Developer Workflow: 2 changes in 0.0.344
   — Added support to the bash tool for executing detached processes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 945
+  lag_days: 2594
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19d0d0af2b4ba7fabe02af9d72b109fdb5b8d74ed5f10b273cbeee81e2a9128e
+machine_hash: 69f21c172fd0168d93ad57b0dca14ed1da950442bf5ae4b63193667a4106d66c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.344
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

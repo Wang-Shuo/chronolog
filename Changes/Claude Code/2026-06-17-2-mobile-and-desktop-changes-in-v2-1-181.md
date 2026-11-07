@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-17 · Mobile and Desktop: 2 changes in v2.1
   — Added `CLAUDE_CLIENT_PRESENCE_FILE` environment variable: point it at a marker
   file to…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e5bd75513e2aef8ae1af020d08b675d26feb49f15340bcbadd43914cdecfef3
+machine_hash: 80a45cb6e86df81dbf6faa81fddc17f4db6302f6de3864658f8f5b1ef0dbc5f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,9 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.181
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
-  contributor guidance around keeping crate APIs narrow and supporting…]]'
 - '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-anthropic-s-claude-now-available-in-microsoft-365-copilot-android-windows-ios-ma|Anthropic''s
+  Claude now available in Microsoft 365 Copilot Android, Windows, iOS…]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
   3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

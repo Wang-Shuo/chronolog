@@ -4,20 +4,20 @@ date: '2025-08-13'
 description: 'OpenHands · 2025-08-13 · Context Window: 2 changes in 0.52.0 - 2025-08-13
   — Added branch information to repository context by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 832
+  lag_days: 2156
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b58398344867311a500174101962a1bb22599785367e6552fbd630b1926b338
+machine_hash: e37d6c350d8cfbbb24c26f8c0f39d56f111b371eca71820bec0971223eb8ce3b
 product: openhands
 product_name: OpenHands
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.52.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

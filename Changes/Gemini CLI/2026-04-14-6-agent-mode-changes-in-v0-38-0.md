@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9c8dbea15b6c8b46ffaf07b325ae0d1d24fba73a7eb19db35a5afdee4c0b364
+machine_hash: 23baa11f8985401a76791ac72b16c479c761a91f4de0a611bbf7f42680197232
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.38.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
-- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0|7 Agent Mode changes in rust-v0.121.0]]
+- Later: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-new-custom-agent-upgrades-efficiency-transparency-context|New Custom Agent upgrades: efficiency, transparency, context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

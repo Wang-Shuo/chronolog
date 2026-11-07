@@ -4,19 +4,20 @@ date: '2026-01-29'
 description: 'OpenCode · 2026-01-29 · Developer Workflow: 3 changes in v1.1.42 — Terminal
   Add additional timeout race condition guards'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1048
+  lag_days: 2697
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 642979be7c40e8604b3fc904f4cfb61a631dc48a7dc1538f92ddc4bcd533b680
+machine_hash: 3a2cec1ce44c85a31f174e13338d1d6ae9abbe8afb1d08be32c6ed8392b6742a
 product: opencode
 product_name: OpenCode
 record:
@@ -92,7 +93,7 @@ Source: https://opencode.ai/changelog/v1.1.42
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

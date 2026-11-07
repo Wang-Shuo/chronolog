@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 94ca5f2c6b217f89d2f8498ac302e2883a681bffc03da363e1f7067e5c711176
+machine_hash: e20cb5222243fd262f657dc56853cce53d7af319180ee005828e4aed810b62e8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|🧠 Memory in automations. Automations now get the memory tools when the user has…]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex can run independent read-only tools in parallel, including skill, memory…]]
+- Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-remote-ssh-select-git-branches-in-remote-sessions-and-import-qoder-ide-task-hist|Remote SSH: Select Git branches in remote sessions and import Qoder IDE task…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

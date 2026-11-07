@@ -5,20 +5,20 @@ description: 'Replit · 2026-07-24 · Apps and Integrations: After you connect S
   Agent can search the messages, files, channels, and people you can access. It can
   read…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2779
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7a213dfff46cd69c14622dccfca0aa033bfe319e901416fe6bb3ae6905a242d9
+machine_hash: ab9f9c3ac4fbd177a85ed5f508a2bde80e429e7ddc4f2ab9b1bc8a963e9eaa68
 product: replit
 product_name: Replit
 record:
@@ -58,8 +58,8 @@ record:
   title: Bring more Slack context to Agent
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
+- '[[Changes/Kimi Code/2026-07-24-add-global-default-mcp-server-timeouts-in-config-toml-and-env-vars|Add
+  global default MCP server timeouts in config.toml and env vars]]'
 - '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core
   Use the correct prompt cache keys for each SDK]]'
 - '[[Changes/Replit/2026-07-24-integrations|Integrations]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

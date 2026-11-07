@@ -5,20 +5,19 @@ description: 'Claude Code · 2026-04-20 · Editor Experience: 2 changes in v2.1.
   — `/config` search now matches option values (e.g. searching "vim" finds the Editor
   mode…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2717
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37f6d8aa9320f810ddc4eef7035a1c25a6d9dc6ea2af31e5b4685ec4a73fc1b8
+machine_hash: 9bd418e00026d3f25c757d9f6e2ef24b9d86347b65870784b9fae8bc22c901f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +44,10 @@ record:
   title: 2 Editor Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core
-  Fixed Github Copilot overbilling issue]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
+  & Calendar, now in your settings]]'
 - '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
   Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
@@ -95,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

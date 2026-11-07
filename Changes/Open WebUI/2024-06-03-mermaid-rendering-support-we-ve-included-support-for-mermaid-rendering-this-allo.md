@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-03 · Interface Experience: **\U0001F30A Mer
   Rendering Support**: We've included support for Mermaid rendering. This allows you
   to create…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 511
+  lag_days: 1877
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 660fd33d98b032a77f7495cc293066f4b05aa2fe118ccf857295d3585f8b358c
+machine_hash: f19baa27c5c434fbacb68c56cb873e47ba950a5ef5778898f6b5a10cb52d2cd2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,7 @@ record:
     rendering"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-enhanced-sidebar-ui-model-files-documents-prompts-and-playground-merged-into-wor|\U0001F4C2
-  Enhanced Sidebar UI]]"
+- '[[Changes/Descript/2024-05-22-automatic-speaker-detection|Automatic Speaker Detection]]'
 - '[[Changes/Dify/2024-05-27-improved-variable-assigner-supports-more-flexible-variable-selection-additionall|Improved
   Variable Assigner supports more flexible variable selection]]'
 - "[[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|\U0001F5A5️
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

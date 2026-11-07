@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-10-15 · Automation and Scheduling: You
   now pick Flash Lite, Flash, or Pro for an automation when you create or edit it.
   New…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1017
+  lag_days: 2584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e2420c3bba6d594110222a97b2dd1fddab1e94d3ea90feb740a2570f6ae7344f
+machine_hash: 34e8d4a02f92b50f3be2ba1d0d9d62ab27fc8d7fd02f9864912a468accf68b9f
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,8 +47,8 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows
-  service accounts]]'
+- '[[Changes/Kimi Code/2026-10-14-cron-tasks-from-the-source-session-no-longer-fire-inside-a-forked-session|Cron
+  tasks from the source session no longer fire inside a forked session]]'
 - '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
   Automation run results. An automation run is now recorded as successful only…]]'
 - "[[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|\U0001F4C5
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

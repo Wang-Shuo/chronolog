@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: aaaea716a4cc1fd737ca2b860dacdbca62d2a1d509ca1915fd906768617f328d
+machine_hash: f3692d9692bd38ff1648c4a034e77d4914cffc22e4819165a27bf478fef04d58
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-packages|Packages]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]]
+- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-more-updates-your-devs-will-love|More updates your devs will love]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

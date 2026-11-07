@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-04 · Context Window: Improved Stats panel 
   cache tokens in its token totals, with a breakdown by input, output, cache read,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1188
+  lag_days: 2512
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5168188879d2d080841081fd5ace9fe8215019ad1f18dc06e84d953f076c063c
+machine_hash: 183e1e8706b3075b7c959b07a28ca77358f34529a3e1dd98d754d84eb29b158b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved Stats panel to count cache tokens in its token totals, with a breakdown…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
-  Window changes in rust-v0.146.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-29-take-screenshot-in-copilot-windows-microsoft-365-copilot-chat|Take
+  Screenshot in Copilot Windows (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore
   the early warning when unreclaimable system and tool context nears…]]'
 - '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If you paste more than 10k characters into the composer, ChatGPT will automatically…]]
-- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover from running out of context instead of failing with a raw provider error]]
+- Later: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-add-a-token-counting-config-section-when-a-provider-doesn-t-report-token-usage-s|Add a token_counting config section]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

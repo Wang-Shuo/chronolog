@@ -4,20 +4,20 @@ date: '2023-07-08'
 description: 'Aider · 2023-07-08 · Reliability and Performance: More robust handling
   of filepaths, to avoid 8.3 windows filenames'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 205
+  lag_days: 1692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34394658375dc628a2a55dbefb73789da25a0584e5c8fef6d8f0451507c99d41
+machine_hash: 83bf121d9f05c33d58a7d735e668255863404bdda4d1ff744655e1ce742d451b
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-based-on-user-feedback-we-are-now-defaulting-plus-users-to-a-faster-version-of-c|Based
-  on user feedback, we are now defaulting Plus users to a faster version…]]'
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
+- '[[Changes/Notion/2023-04-27-search-on-mobile-now-loads-60-faster|Search on mobile
+  now loads 60%+ faster]]'
+- '[[Changes/Descript/2023-05-31-quicker-default-effects-studio-sound-ducking-and-green-screen-are-default-effect|Quicker
+  default effects]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
 source_release: '[[Releases/Aider/aider-2023-07-08-v0-8-2-github-111498168-d0c535d5|aider-2023-07-08-v0-8-2-github-111498168-d0c535d5]]'
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
-- Later: 2023-07-11 · Ollama · [[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]
+- Later: 2023-07-10 · Descript · [[Changes/Descript/2023-07-10-updated-shortcut-modifier-for-playback-speed-changes|Updated shortcut modifier for playback speed changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

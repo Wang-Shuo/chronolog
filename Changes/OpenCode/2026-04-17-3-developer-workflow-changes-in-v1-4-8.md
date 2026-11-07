@@ -4,19 +4,20 @@ date: '2026-04-17'
 description: 'OpenCode · 2026-04-17 · Developer Workflow: 3 changes in v1.4.8 — Core
   Fixed Windows ctrl+z terminal suspend and input undo behavior.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 418346989df0c9059462f14c2b7931ab9ff44640a5f860bb393115066f265574
+machine_hash: 5ff0552671837c47382d17539f89bbd6ccb7fc7f0065d9aff9c119f955501038
 product: opencode
 product_name: OpenCode
 record:
@@ -93,7 +94,7 @@ Source: https://opencode.ai/changelog/v1.4.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

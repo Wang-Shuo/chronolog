@@ -5,20 +5,20 @@ description: 'Replit · 2025-06-13 · Mobile and Desktop: The team has rolled ou
   improvements to make your creation experience smoother and more intuitive. From
   a…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 822
+  lag_days: 2406
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 699bc929491307e9a40c333ea748fd33c0115d4b10f983681ca2693ceff5010a
+machine_hash: fa8d1d1195fccc94105bddea0d048d7b213c9fca6604c7f9cb30901f9bbd0427
 product: replit
 product_name: Replit
 record:
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-3-mobile-and-desktop-changes-in-v0-9-1|3 Mobile and Desktop changes in v0.9.1]]
-- Later: 2025-06-26 · Lovable · [[Changes/Lovable/2025-06-26-improvements|Improvements]]
+- Later: 2025-06-25 · Descript · [[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

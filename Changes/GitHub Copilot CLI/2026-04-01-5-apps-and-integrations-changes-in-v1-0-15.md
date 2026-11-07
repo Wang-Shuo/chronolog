@@ -4,20 +4,20 @@ date: '2026-04-01'
 description: 'GitHub Copilot CLI · 2026-04-01 · Apps and Integrations: 5 changes in
   1.0.15 — Add mcp.config.list, mcp.config.add, mcp.config.update, and mcp.config.remove…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2665
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 932d2d845ee829c9ddb89c207cd0cc0c02dfb60ef10d47ce3c2ddaa025539cff
+machine_hash: 500cc0fac544840d807ee98154eeea9ab8df3e1af9d2b29792cc1d27c94e8a45
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.15
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

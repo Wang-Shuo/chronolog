@@ -4,20 +4,20 @@ date: '2025-11-26'
 description: 'Dify · 2025-11-26 · Pricing Model: 3 changes in v1.10.1 – Multi-Database
   Era Begins: MySQL Joins the Family — **Corrected token overcounting during…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1077
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e26e1a8d8ceb5346b962aa58e1624932b6d16663960ef742e264924fdec3aed5
+machine_hash: f6ae450113a51e7e123df9c17154d963d3f7e6073faf85b4341c0cef56e7e58b
 product: dify
 product_name: Dify
 record:
@@ -47,7 +47,8 @@ record:
   title: 3 Pricing Model changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]'
+- '[[Changes/Descript/2025-11-13-prorated-charges-now-display-correctly|Prorated charges
+  now display correctly]]'
 - '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
   visible in /status]]'
 - '[[Changes/ElevenLabs/2025-11-21-get-user-subscription-https-elevenlabs-io-docs-api-reference-user-subscription-g|Get
@@ -103,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-09-09'
 description: 'Google Antigravity · 2026-09-09 · Developer Workflow: 2 changes in HUB
   v2.13.0 — Introducing new Documents section and several UX enhancements for organization…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1271
+  lag_days: 2920
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4463145d4faec6fc24796745251f3ab51f9c446f11a4baa740a1fddb58296e0
+machine_hash: 8596dba43a45098f872cd20d96eff7494bd3f44ee8901b6b5362713252a525fb
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -97,7 +98,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

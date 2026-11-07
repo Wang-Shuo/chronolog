@@ -4,20 +4,20 @@ date: '2026-08-17'
 description: 'ElevenLabs · 2026-08-17 · Multimodal Input: [Create video generation](https://elevenlabs.io/docs/api-reference/flows/video/create)
   - `POST /v1/flows/video`'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1063
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 332844349cb83594e6978f5fc3658ed201c3f86fcbd490a811d63874796e299f
+machine_hash: 0e29758e0d72e57a6f27dbbe0e7c3f850f81e956f98e159f99a5e97b5bcd6470
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -80,8 +80,8 @@ record:
   title: ElevenCreative
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal
-  Input changes in v0.32.7]]'
+- '[[Changes/Synthesia/2026-08-13-if-the-source-video-changes-after-you-export-an-xliff-we-now-reconcile-safe-upda|Keep
+  XLIFF imports in sync with edits]]'
 - '[[Changes/ElevenLabs/2026-08-17-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-08-17-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-17-2026-08-17-6196d42b|elevenlabs-2026-08-17-2026-08-17-6196d42b]]'
@@ -142,14 +142,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal Input changes in v0.32.7]]
+- Earlier: 2026-08-13 · Synthesia · [[Changes/Synthesia/2026-08-13-if-the-source-video-changes-after-you-export-an-xliff-we-now-reconcile-safe-upda|Keep XLIFF imports in sync with edits]]
 - Later: 2026-08-18 · Runway · [[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing Nodes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

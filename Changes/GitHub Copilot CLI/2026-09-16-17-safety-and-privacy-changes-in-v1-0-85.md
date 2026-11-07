@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'GitHub Copilot CLI · 2026-09-16 · Safety and Privacy: 17 changes in
   1.0.85 — Add /sandbox Network host allow/deny rules without replacing your configured…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1249
+  lag_days: 2241
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23391479c35782958d956e91cd08705dc4d0e06e311bb44012a48f4d47ac0613
+machine_hash: 30a49d236ba9895ff1d2a4a8ead811b3e442ad67a73b5c9ee48f7ce8a65e7a53
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,8 +97,8 @@ record:
   title: 17 Safety and Privacy changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety
-  and Privacy changes in v2.1.271]]'
+- '[[Changes/Kimi Code/2026-09-14-add-the-kimi-code-permission-mode-reminder-environment-variable-set-it-to-0-to-s|Add
+  the KIMI_CODE_PERMISSION_MODE_REMINDER environment variable]]'
 - '[[Changes/Claude Code/2026-09-15-5-safety-and-privacy-changes-in-v2-1-273|5 Safety
   and Privacy changes in v2.1.273]]'
 - '[[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety
@@ -188,7 +188,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

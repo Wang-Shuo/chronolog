@@ -5,19 +5,20 @@ description: 'OpenCode · 2026-03-22 · Collaboration: 2 changes in v1.3.0 — R
   & Collaboration File Attachments : Fixed file and image attachments being silently
   lost…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1033
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 640ed01c19f00227d5049a4fe24dfc7003512c66c6225af14bdacfdec7211277
+machine_hash: d8e332d1672cfafed3efe35b1fe46a346ee85622e137acca4ec95d53e2a3b8cf
 product: opencode
 product_name: OpenCode
 record:
@@ -45,10 +46,10 @@ record:
   title: 2 Collaboration changes in v1.3.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
-  support for linking team skills to design systems]]'
 - '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
   split share text-generation and add high-coverage tests]]'
+- '[[Changes/Notion/2026-03-19-this-launch-wouldn-t-have-been-possible-without-collaboration-with-our-global-pa|This
+  launch wouldn’t have been possible without collaboration with our global…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
   changes in v1.0.10]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-22-v1-3-0-00955596|opencode-2026-03-22-v1-3-0-00955596]]'
@@ -94,13 +95,13 @@ Source: https://opencode.ai/changelog/v1.3.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]]
+- Later: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-with-egnyte-for-secure-file-collaboration-web-microsoft-365-copi|Connect Copilot with Egnyte for secure file collaboration…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

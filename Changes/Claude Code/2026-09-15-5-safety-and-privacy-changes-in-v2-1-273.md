@@ -4,20 +4,20 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Safety and Privacy: 5 changes in v2.1.273
   — Fixed Bash commands the permission checker cannot fully analyze skipping the prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2240
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 690aeefea64f267ed0fb703ef02bab10ed9241911d52027c5b189aafd5df5478
+machine_hash: 4d588481e3ca44e210d7f53e8ff78c8c29e905f6d5d3b5259e11763ae4381a10
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed
-  read-only git commands in Bash unexpectedly asking for permission after…]]'
 - '[[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If
   you make no changes to your Plugins settings, the default permission setting…]]'
 - '[[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety
   and Privacy changes in v2.1.271]]'
+- '[[Changes/Kimi Code/2026-09-14-add-the-kimi-code-permission-mode-reminder-environment-variable-set-it-to-0-to-s|Add
+  the KIMI_CODE_PERMISSION_MODE_REMINDER environment variable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: safety-privacy
@@ -112,14 +112,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety and Privacy changes in v2.1.271]]
+- Earlier: 2026-09-14 · Kimi Code · [[Changes/Kimi Code/2026-09-14-add-the-kimi-code-permission-mode-reminder-environment-variable-set-it-to-0-to-s|Add the KIMI_CODE_PERMISSION_MODE_REMINDER environment variable]]
 - Later: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety and Privacy changes in v0.60.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

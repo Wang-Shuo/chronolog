@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-06-10 · Collaboration: \U0001F4DD **Dedicated 
   Role Edit Modal**: Updating user roles now reliably opens a dedicated edit user
   modal instead of…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 2342
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dad208d5c6a9b6915dd0b497f4eaf18c40d67bf74b12a0014ab74b22379de262
+machine_hash: e2d69e26cf77ce4013ba54ec40832ec139d3bd9146cf1eacd8eb0ab535dbf2bf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

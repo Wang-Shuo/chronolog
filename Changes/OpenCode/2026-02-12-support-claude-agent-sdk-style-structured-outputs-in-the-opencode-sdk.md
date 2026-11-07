@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 33bf25f7651d07c875d56563a7e4f0f1fcf1e922c33941666447447e98e885b9
+machine_hash: 4bef91cbba93eedc844041dfd3f61e2f7f65a733ef3442483189242bc319a97d
 product: opencode
 product_name: OpenCode
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents return complete responses]]
-- Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production SQL database access]]
+- Later: 2026-02-13 · HeyGen · [[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe the video you want in natural language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

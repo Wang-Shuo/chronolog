@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62a8cd26132fa48662676812d26788e5c53351e4012caa85c4891f90e68226fa
+machine_hash: d05551db18f61749c8b6e5a74ab1f29bcbf5dc1b32f641bc6dfcbe96c43aa78e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 10 Model Support changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-27-13-model-support-changes-in-v2-2-0|13 Model Support
-  changes in v2.2.0]]'
 - '[[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add
   configurable prompt cache TTLs per provider/model]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
   use existing model-profile theme aliases]]'
+- '[[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add
+  /provider refresh providerId to re-fetch provider model lists at runtime]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: model-support
@@ -131,7 +131,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings): use existing model-profile theme aliases]]
+- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add /provider refresh providerId to re-fetch provider model lists at runtime]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support changes in v0.12.5]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cb9e38de7c9adad88f0b6e7a8f45a9a5272a2e3a0ff120ccefb83667dd8e5272
+machine_hash: 0ecc43343249b48a5be3e7489fc9e7742b37843b6a2ef57715eaca8b5d57568e
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,10 @@ record:
   title: 'chore: bump agent-server to 1.56.0'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent
-  Mode changes in v1.0.100]]'
+- '[[Changes/Notion/2026-10-19-we-rebuilt-our-agent-harness-again|We rebuilt our agent
+  harness]]'
+- '[[Changes/Notion/2026-10-19-connect-your-chatgpt-plus-pro-or-go-plan-to-your-personal-notion-agent|Connect
+  your ChatGPT Plus, Pro, or Go plan to your personal Notion Agent]]'
 - '[[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes
   in v1.28.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-1-github-417540834-ce6b4180|openhands-2026-10-19-v1-28-1-github-417540834-ce6b4180]]'

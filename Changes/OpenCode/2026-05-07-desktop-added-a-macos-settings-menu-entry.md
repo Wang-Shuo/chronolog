@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'OpenCode · 2026-05-07 · Interface Experience: Desktop Added a macOS
   Settings menu entry.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1214
+  lag_days: 2580
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08b8b0701afc3951774cce9602281e27323f4666ce603171d2e887bb737a74e2
+machine_hash: 119341ffb340ca0f699ac57a868bf17f71ce4a0fd9f7ccdb26b753aef28ed955
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Desktop Added a macOS Settings menu entry
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2
-  Interface Experience changes in v1.0.43]]'
+- '[[Changes/Notion/2026-05-06-get-started-from-the-sidebar-library-agents|Get started
+  from the sidebar: Library → Agents]]'
 - '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
   behavior]]'
 - '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

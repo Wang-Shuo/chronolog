@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f8d3892b3cb04a21f2cf2b243be6fcb74537374c21ad170f4da6ef03c89325e
+machine_hash: 2b33c850515cee818dc453192ad57c82708efc1c0144c79a868e958cfeae0590
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.32.1
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core
-  Improved default reasoning depth for Meta models]]'
-- '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
-  ChatGPT subscription models]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
   Support changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-2-model-support-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
+  Model Support changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
+- '[[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model
+  Support changes in Kimi Code 0.25.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-16-v0-32-1-github-354673173-8c5519c6|ollama-2026-07-16-v0-32-1-github-354673173-8c5519c6]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.32.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model Support changes in v1.0.71]]
+- Earlier: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model Support changes in Kimi Code 0.25.0]]
 - Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
 <!-- chronolog:end -->
 

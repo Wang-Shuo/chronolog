@@ -5,20 +5,20 @@ description: 'Cline · 2026-07-31 · Apps and Integrations: 3 changes in v4.1.0 
   converts the stable extension to a **combined A/B package**: one VSIX containing
   both…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1226
+  lag_days: 2786
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0a39393ad4f926d163d2e22e9c2861ee239d86e21ea7795175f28c150288c12
+machine_hash: 571a8bc59047ac5d204bf8f6d10c39ba4963a3db40caa3cab1f05e4435015751
 product: cline
 product_name: Cline
 record:
@@ -51,10 +51,10 @@ record:
   title: 3 Apps and Integrations changes in v4.1.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
-  + chat connectors: Amazon Redshift and Microsoft Fabric]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
   Apps and Integrations changes in v1.0.76]]'
+- '[[Changes/Kimi Code/2026-07-30-plugins-can-contribute-system-prompt-instructions-through-systemprompt-or-system|Plugins
+  can contribute system prompt instructions through systemPrompt…]]'
 - '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
   enable/disable an installed MCP server from its card]]'
 source_release: '[[Releases/Cline/cline-2026-07-31-v4-1-0-github-362842844-bb117e78|cline-2026-07-31-v4-1-0-github-362842844-bb117e78]]'
@@ -99,7 +99,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

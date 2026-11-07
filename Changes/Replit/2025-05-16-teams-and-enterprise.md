@@ -3,20 +3,20 @@ card_id: replit-2025-05-16-7b595c
 date: '2025-05-16'
 description: 'Replit · 2025-05-16 · Enterprise and Administration: Teams and Enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 742
+  lag_days: 1949
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 37be9274f5343c990173d46715fe1b22d913f57685f166446aa7953e29b61dbd
+machine_hash: 5c39df1adb14fd78624cd7032cf9715b83270503a80db79d2322d91a6182af12
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,12 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-09-teams-and-enterprise|Teams and Enterprise]]'
 - "[[Changes/Open WebUI/2025-05-10-temporary-chat-admin-controls-session-cleanliness-admins-are-now-able-to-properl|\U0001F4AC
   Temporary Chat Admin Controls & Session Cleanliness]]"
 - '[[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added
   self-hosted gitlab or enterprise github host settings for local installation]]'
+- '[[Changes/Notion/2025-05-13-find-anything-with-enterprise-search|Find anything
+  with enterprise search]]'
 source_release: '[[Releases/Replit/replit-2025-05-16-2025-05-16-6ddbb27c|replit-2025-05-16-2025-05-16-6ddbb27c]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added self-hosted gitlab or enterprise github host settings for local installation]]
+- Earlier: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-find-anything-with-enterprise-search|Find anything with enterprise search]]
 - Later: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

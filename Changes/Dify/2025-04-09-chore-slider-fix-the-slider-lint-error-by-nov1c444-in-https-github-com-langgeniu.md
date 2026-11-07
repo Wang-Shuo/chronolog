@@ -4,20 +4,19 @@ date: '2025-04-09'
 description: 'Dify · 2025-04-09 · Editor Experience: chore(slider): fix the slider
   lint error by @Nov1c444 in https://github.com/langgenius/dify/pull/16746'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 757
+  lag_days: 2341
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b1a254355d2ef409c1a19f23ef814c9f528f744abf3b5787d637db14c6adb77
+machine_hash: 2c53a2d5427dcf9da9879c419bc8e5364bfe80dd98c6d4b81018cdc213133091
 product: dify
 product_name: Dify
 record:
@@ -43,12 +42,11 @@ record:
   title: 'chore(slider): fix the slider lint error'
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-04-04-lovable-now-has-a-dev-mode-enabling-dev-mode-lets-you-not-only-read-your-project|Lovable
-  now has a Dev Mode]]'
-- '[[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add
-  ability to detect when user edits files manually so Cline knows to re-read…]]'
 - '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
   to edit subdomain on website deploy]]'
+- '[[Changes/Descript/2025-04-08-editor-updates|Editor updates]]'
+- '[[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for
+  the Editor recorder]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability to edit subdomain on website deploy]]
+- Earlier: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-a-new-look-for-the-editor-recorder|A new look for the Editor recorder]]
 - Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience changes in v3.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

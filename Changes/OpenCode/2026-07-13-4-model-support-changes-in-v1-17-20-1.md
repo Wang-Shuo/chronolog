@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc369e767fb54088c4e03905fc0030bdd17d4d862b30daf8455a19fd55f76b42
+machine_hash: 9e93aa63a2cdc4b31c226e947c99bf99a015a7fe87735ab9509f1426fe8ba7e1
 product: opencode
 product_name: OpenCode
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in v1.17.20 + 1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
-  Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
 - '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
   more models to the GCP Vertex provider, plus a free-form entry option…]]'
+- '[[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model
+  Support changes in Kimi Code 0.23.6]]'
 - '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
   Support changes in v2026.7.1]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-13-v1-17-20-71b89dbf|opencode-2026-07-13-v1-17-20-71b89dbf]]'

@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'Lovable · 2026-10-15 · Enterprise and Administration: Workspace admins
   and owners on Enterprise plans can now [schedule exports of the workspace''s audit…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1259
+  lag_days: 2466
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2930426772a8165c46284a0efe2931177f4fa7bb1dba392d45fc529f128ce88f
+machine_hash: a1e0b69dc5de4fe721b1bdfc194f3c4f66a44a4fcac9a9fa0f31d695c7f67772
 product: lovable
 product_name: Lovable
 record:
@@ -66,10 +66,10 @@ record:
   title: Export audit logs to your SIEM or cloud storage
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
-  Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 - "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E
   SCIM cannot delete admins. An identity provider can no longer delete…]]"
+- '[[Changes/Qoder/2026-10-14-locked-use-beta-on-macos-14-4-or-later-enable-locked-use-in-settings-computer-us|Locked
+  use (Beta)]]'
 - '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
   are now open to labs at U.S. universities]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'
@@ -111,7 +111,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

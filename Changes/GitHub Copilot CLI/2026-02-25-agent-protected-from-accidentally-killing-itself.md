@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: efdb4168bcf4ec14fc72b11b32f0be02ee1d676ebe889c2ca13b40b3eec6e7eb
+machine_hash: 6abb2269f7b455ff989a9ae350b84a4cefbd3c083288d848587601dcd1b887f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Agent protected from accidentally killing itself
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
+- '[[Changes/Notion/2026-02-24-build-agents-for-every-workflow|Build agents for every
+  workflow]]'
 - '[[Changes/Codex CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0|18 Agent
   Mode changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-4-agent-mode-changes-in-v0-30-0|4 Agent Mode changes

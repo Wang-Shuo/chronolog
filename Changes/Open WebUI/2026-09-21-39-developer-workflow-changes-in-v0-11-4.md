@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-09-21 · Developer Workflow: 39 changes in v0.1
   — \U0001F4E6 **Smaller standard image.** The image no longer carries a second copy
   of Python, two…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2932
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fbd3e4da6ade7b9919becf2a9f2ce99caca0fe96a580342d20234201d8bcb5c
+machine_hash: 52c3ada7ab4bce06f3d99864300bd12239297a6d6c0e42167997a18f748b4891
 product: open-webui
 product_name: Open WebUI
 record:
@@ -274,8 +275,8 @@ record:
   title: 39 Developer Workflow changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
-  command that is killed when the app restarts is now reported as canceled instead…]]'
+- '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
+  Improved starting-point list loading and creation preparation…]]'
 - '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
   Workflow changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
@@ -410,7 +411,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

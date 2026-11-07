@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6449088220c140639ba36390775cba862f7e6d620dc1ae1736ff5890b033e1c9
+machine_hash: 24533cd982558d8646dab7900fac79e4ddb17b7603e4e3ec5db46076f5901d71
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.19
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-agent|Agent]]
-- Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-new-endpoints|New Endpoints]]
+- Later: 2026-04-06 · HeyGen · [[Changes/HeyGen/2026-04-06-open-video-agent-type-your-prompt-and-generate-seedance-footage-will-automatical|Open Video Agent, type your prompt, and generate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

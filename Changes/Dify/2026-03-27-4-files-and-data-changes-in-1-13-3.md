@@ -4,20 +4,20 @@ date: '2026-03-27'
 description: 'Dify · 2026-03-27 · Files and Data: 4 changes in v1.13.3 — test: migrate
   batch update document status tests to testcontainers by @Desel72 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1037
+  lag_days: 2382
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51187d82ea276cf5949b7b6e0f63937faf87cb1ea5155c665522a700f5300e89
+machine_hash: 9366a8690380683af86aff337f2da54cb1a800f17b00fe8687cc407a18a735cc
 product: dify
 product_name: Dify
 record:
@@ -105,13 +105,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 ## Nearby in Files and Data
 
 - Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and Data changes in v0.8.11]]
-- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and analyze data]]
+- Later: 2026-04-02 · HeyGen · [[Changes/HeyGen/2026-04-02-supported-file-types-ppt-pptx-pdf-max-50mb|Supported file types: PPT, PPTX, PDF (max 50MB)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

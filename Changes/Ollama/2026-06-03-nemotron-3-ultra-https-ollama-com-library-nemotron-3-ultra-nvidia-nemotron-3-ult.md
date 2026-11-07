@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8f83d0f7a5efd72416740d50aa0e75a8eb28796872243b51f057da76e6d6ea95
+machine_hash: 72fbc52b71c6652a30be313e1e364110e43daee2abddb7770590c91122da4e05
 product: ollama
 product_name: Ollama
 record:
@@ -47,12 +47,12 @@ record:
     Nemotron 3…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling
-  a running shell command (Ctrl+C on a !command, or aborting an agent command]]'
-- '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
-  performance of opening recently-inactive background agent sessions…]]'
-- '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
-  agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-grader-framework-for-agent-evaluation-web-microsoft-365-copilot-studio|Grader
+  Framework for Agent Evaluation Web (Microsoft 365 Copilot Studio)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-add-expected-response-for-agent-evaluation-test-cases-web-microsoft-365-copilot|Add
+  expected response for agent evaluation test cases Web (Microsoft 365 Copilot Studio)]]'
+- '[[Changes/Kimi Code/2026-06-03-2-agent-mode-changes-in-kimi-code-0-9-0|2 Agent
+  Mode changes in Kimi Code 0.9.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-03-v0-30-4-github-333924925-ef7a97f1|ollama-2026-06-03-v0-30-4-github-333924925-ef7a97f1]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude agents rows now show done/total before the detail when work is fanned out]]
+- Earlier: 2026-06-03 · Kimi Code · [[Changes/Kimi Code/2026-06-03-2-agent-mode-changes-in-kimi-code-0-9-0|2 Agent Mode changes in Kimi Code 0.9.0]]
 - Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode changes in v2.1.163]]
 <!-- chronolog:end -->
 

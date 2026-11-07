@@ -5,20 +5,20 @@ description: 'Lovable · 2026-10-13 · Interface Experience: You can now [search
   individual settings](https://docs.lovable.dev/features/workspace-admin-settings.md)
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1373
+  lag_days: 2739
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 158181b91e2b3c466ec8bea02f4ea707ad93f95e3573e3b164a1ee253e20db23
+machine_hash: fb4b0507901240abefdcaf0ddc5961c7487d2e80ad014cf763f424a6419fe5ea
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,11 @@ record:
   title: Search for individual settings
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-summaries-before-completion-replies-when-a-long-conversation-needs-a-summary-ope|Summaries
-  before completion replies]]'
-- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
-  add compact section navigation on tablets]]'
 - '[[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This
   release fixes the license picker shown during onboarding, which could grow…]]'
+- '[[Changes/HeyGen/2026-10-13-pinned-folders-on-every-device|Pinned folders on every
+  device]]'
+- '[[Changes/HeyGen/2026-10-13-mode-picker-in-avatar-shots|Mode picker in Avatar Shots]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -85,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-13 · Google Antigravity · [[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This release fixes the license picker shown during onboarding, which could grow…]]
+- Earlier: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-mode-picker-in-avatar-shots|Mode picker in Avatar Shots]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

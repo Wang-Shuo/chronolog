@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-11-05 · Context Window: 3 changes in v2026.11.1 
   the effective context budget alongside the model maximum in the model picker when
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2605
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b184c618abfbe4777974645fabd4490925ec226a7dfde1927d7ff55bedfe642
+machine_hash: 5e0115c2b819e55563bee03a067b9552da4ed9f8368087dc215d473384f4bf27
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Context Window changes in v2026.11.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|\U0001F4CF
-  Live context usage estimates. The context indicator now accounts for output…]]"
 - '[[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context
   Window changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
   in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account
+  Selector in Outlook Copilot Side Pane Web (Outlook)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: context-window
@@ -101,14 +101,14 @@ Source: https://docs.openclaw.ai/releases/2026.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes in 1.19.0]]
+- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account Selector in Outlook Copilot Side Pane Web (Outlook)]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context Window changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

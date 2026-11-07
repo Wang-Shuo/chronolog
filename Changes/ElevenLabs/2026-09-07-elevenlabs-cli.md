@@ -4,19 +4,20 @@ date: '2026-09-07'
 description: 'ElevenLabs · 2026-09-07 · Developer Workflow: [v1.2.0](https://github.com/elevenlabs/cli/releases/tag/v1.2.0)
   - Added the `elevenlabs say` command and its…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2918
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1965236e3687788560825229cf866d5a0c94f31d86aef5a5e9435dc1737e743d
+machine_hash: 3f18b72d8e16441650518a869d1392a70ed59657f0ee6dc0a27595a530a5d09b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,8 +56,8 @@ record:
   title: ElevenLabs CLI
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
-  the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/Kimi Code/2026-09-04-3-developer-workflow-changes-in-kimi-code-0-41-0|3
+  Developer Workflow changes in Kimi Code 0.41.0]]'
 - '[[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer
   Workflow changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-05-you-can-now-put-the-part-of-a-task-you-are-working-on-in-the-main-view-and-keep|Put
@@ -100,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

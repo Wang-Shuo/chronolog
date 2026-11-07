@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-07-27 · Multimodal Input: \U0001F5BC️ **Medi
   an extraction engine may handle.** Administrators can now list which image and video
   types the…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2810
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80015b922e7354dfeca3ca49b20ad8b482913330c8613e06cda353480932703f
+machine_hash: 249d03b747b2cfec70793cdb299dfb09fe2298d6a4a96e6b98e94fde51883e89
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,12 @@ record:
     can now list…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
-- '[[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal
-  Input changes in v2026.7.1]]'
 - '[[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph
   2.0 in MCP]]'
+- '[[Changes/HeyGen/2026-07-23-the-video-agent-builds-a-complete-video-from-a-single-prompt-script-voiceover-av|The
+  Video Agent builds a complete video from a single prompt]]'
+- '[[Changes/Synthesia/2026-07-24-motion-graphics-now-translate-as-part-of-the-standard-video-translation-flow|Translate
+  motion graphics automatically]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: multimodal
@@ -109,14 +109,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-07-14 · Runway · [[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph 2.0 in MCP]]
+- Earlier: 2026-07-24 · Synthesia · [[Changes/Synthesia/2026-07-24-motion-graphics-now-translate-as-part-of-the-standard-video-translation-flow|Translate motion graphics automatically]]
 - Later: 2026-07-28 · Runway · [[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3 Video Segmentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

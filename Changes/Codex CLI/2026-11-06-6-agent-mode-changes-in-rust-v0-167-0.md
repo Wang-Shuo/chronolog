@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41df165a1f5a514417640df7dcd9d18b54f25368e516b7b0183c6ea5b3a6aefb
+machine_hash: c18037638957ab9e34b0dd5e5da10623bb6e8848d2dd173ecf75bb6a481caee4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Agent Mode changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
-  in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-agents-usage-report-web-microsoft-365-admin-center|Agents
+  usage report Web (Microsoft 365 admin center)]]'
 - '[[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes
   in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes

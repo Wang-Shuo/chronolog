@@ -4,19 +4,20 @@ date: '2026-06-24'
 description: 'OpenCode · 2026-06-24 · Developer Workflow: 3 changes in v1.17.10 —
   Terminal Added a configurable keybind to open the diff viewer.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1194
+  lag_days: 2843
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9afb124c229a6a249953acc6e7597d687aa9b2a0e46a9baea5b2447825d5d760
+machine_hash: 136eca740bebe7a20625287b34d8f442e1dd17f6d3a4865711b1e3d13b5f8383
 product: opencode
 product_name: OpenCode
 record:
@@ -43,11 +44,11 @@ record:
   title: 3 Developer Workflow changes in v1.17.10
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15
-  Developer Workflow changes in v1.0.64]]'
 - '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
+  the command in running Bash tool cards and allow expanding it with Ctrl+O…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-24-v1-17-10-f309a338|opencode-2026-06-24-v1-17-10-f309a338]]'
 source_type: opencode_changelog
 theme: developer-workflow
@@ -90,14 +91,14 @@ Source: https://opencode.ai/changelog/v1.17.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove syntax highlighting from shell commands in the timeline]]
+- Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show the command in running Bash tool cards and allow expanding it with Ctrl+O…]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

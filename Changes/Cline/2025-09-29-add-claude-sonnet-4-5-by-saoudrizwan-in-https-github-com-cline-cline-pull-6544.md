@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0430048ffb1c959a0ac0d605271df94014352ae999c4b5d848960b589d83d21c
+machine_hash: ccb63498cd37dc3adf9db1612e10311086b2854047bd5051f642e0937f3b1629
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]
-- Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-v1-tts-model-deprecation|v1 TTS model deprecation]]
+- Later: 2025-09-29 · Descript · [[Changes/Descript/2025-09-29-why-choose-different-models|Why choose different models?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

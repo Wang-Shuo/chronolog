@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42bba520dc49c5baae60fc625ff66eb680addf3167ff739ae3c83f8878c43377
+machine_hash: 95f0ad16b7549f6808ba6cf3742522d0874f3730e4cc39684eb259422ec5855a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v1.0.103
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
-  Support changes in v1.0.101]]'
 - '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
   5 Pro and Seedance 2.5 for your app''s AI features]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt
   mode now honors managed Auto model selection for -p and piped stdin runs]]'
+- '[[Changes/Kimi Code/2026-10-21-switching-models-mid-session-now-shows-a-confirmation-dialog-start-a-new-session|Switching
+  models mid-session now shows a confirmation dialog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56|github-copilot-cli-2026-10-22-v1-0-103-github-420944485-e95a7f56]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.103
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-prompt-mode-now-honors-managed-auto-model-selection-for-p-and-piped-stdin-runs|Prompt mode now honors managed Auto model selection for -p and piped stdin runs]]
+- Earlier: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-switching-models-mid-session-now-shows-a-confirmation-dialog-start-a-new-session|Switching models mid-session now shows a confirmation dialog]]
 - Later: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini 2.5 chat models are retired for your app's AI features]]
 <!-- chronolog:end -->
 

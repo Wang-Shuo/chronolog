@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87465943d5c048111d8d8912763d05162435cb2cb93b1fea7ab98bc6f4d11540
+machine_hash: 9285a0035c8f5e5297c97f665addb2667e7473d6316e055d994a635b6c211ac1
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes in v3.67.0]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0|18 Agent Mode changes in rust-v0.105.0]]
+- Later: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-copilot-studio-agent-report-enhancements-web-windows-mac-viva-insights|Copilot Studio agent report enhancements Web, Windows, Mac (Viva Insights)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

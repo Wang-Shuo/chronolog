@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-04 · Interface Experience: 3 changes in v2
   — [VSCode] Added a "Build a custom style" walkthrough to the Output styles menu
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1334
+  lag_days: 2700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3284aa94ba6844d196c0f0160231a33219db11a30e20f7a376d7bc59ee43c645
+machine_hash: 7a23add4c61669ba20f565f12990a80dc19517400ff693c07154f94bdf6b63a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,11 @@ record:
   title: 3 Interface Experience changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Midjourney/2026-09-03-polish-bugs|POLISH & BUGS]]'
 - '[[Changes/Midjourney/2026-09-03-prompt-bar-pills|PROMPT BAR & PILLS]]'
 - '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
   Experience changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch
+  tasks archiving]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,14 +96,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface Experience changes in v2026.9.1]]
+- Earlier: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch tasks archiving]]
 - Later: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

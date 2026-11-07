@@ -4,19 +4,20 @@ date: '2026-05-18'
 description: 'Codex CLI · 2026-05-18 · Collaboration: 3 changes in 0.131.0 — #22383
   chore(config) include_collaboration_mode_instructions @dylan-hurd-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26a75de5c957befa4c1a735e8ddf54d10fcb0fcbe11bfd90a52b61a4f994c825
+machine_hash: 6d776414d836c31eb23e29c0d47aee9b95a1cea5b7514c933c7fc99fa3b7c226
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +44,8 @@ record:
   title: 3 Collaboration changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/Descript/2026-05-14-the-descript-telethon-kicks-off-today-may-14-at-10-00-am-pt-https-www-youtube-co|The
+  Descript Telethon kicks off today, May 14 at 10:00 AM…]]'
 - '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
   teams with multiple accounts can pick which account a chat connects…]]'
 - '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
@@ -101,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-01-15'
 description: 'OpenCode · 2026-01-15 · Developer Workflow: 2 changes in v1.1.21 — Core
   Adjust LSP wording to better encourage users to fix issues'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d116dfbd8050d9937a022066e266e866a95666089574a85b9f24f50380502925
+machine_hash: 05b696edbe5cf37bfd1e3a2363b1d996becb499fe695599b156815604fe24d9d
 product: opencode
 product_name: OpenCode
 record:
@@ -89,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.1.21
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

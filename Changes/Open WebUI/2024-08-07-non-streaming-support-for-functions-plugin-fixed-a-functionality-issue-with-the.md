@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-07 · Apps and Integrations: **\U0001F527 No
   Support for Functions Plugin**: Fixed a functionality issue with the Functions plugin
   where…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 503
+  lag_days: 2063
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: add56edcb6181cbdb0e8e45c35048721ba05a4b6b728dcbd6ce4458401baf765
+machine_hash: 482f0cfe6817cbd38840b08f986139ea008032e886ae23c6aa858a617d6a09b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,11 @@ record:
   title: "**\U0001F527 Non-Streaming Support for Functions Plugin**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
-  and Integrations changes in 0.8.1]]'
 - '[[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and
   Integrations changes in 0.6.15]]'
 - '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
   and Integrations changes in 0.8.2]]'
+- '[[Changes/Notion/2024-07-29-more-new-features|More new features!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f|open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps and Integrations changes in 0.8.2]]
-- Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-integration-testing-improvements-modified-how-cypress-integration-tests-detect-c|🚧 Integration Testing Improvements]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-more-new-features|More new features!]]
+- Later: 2024-08-13 · Notion · [[Changes/Notion/2024-08-13-use-multiple-charts-to-track-everything|Use multiple charts to track everything]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

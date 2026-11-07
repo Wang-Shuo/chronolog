@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-03-25 · Collaboration: \U0001F41B **Shared cha
   crash.** Shared chats can now be viewed by unauthenticated users without crashing,
   with proper…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc5719b929fcd02e0d8a438ad49fe34957c885f459a6468ecaf95452140027ca
+machine_hash: cc2237ebfb43faa94a2da2d6d4583afe4408bd0f9a0b89e4b0ce03e74494111c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +50,10 @@ record:
     by unauthenticated…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
-  changes in v1.0.10]]'
 - '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
   changes in v1.3.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-connect-copilot-with-egnyte-for-secure-file-collaboration-web-microsoft-365-copi|Connect
+  Copilot with Egnyte for secure file collaboration…]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
@@ -105,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

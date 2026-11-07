@@ -4,20 +4,19 @@ date: '2026-08-28'
 description: 'v0 · 2026-08-28 · Editor Experience: 2 changes in GPT-5.6 Sol, sign-in
   inside previews, and zero-config AI Gateway for generated apps — Refocusing a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1263
+  lag_days: 2847
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f5a15b5766e1eac84442549cb47d9ed93246a690f08acad5aa30283698479bc
+machine_hash: a70962527d3f2c2e9f6e66ef7f61f67ed11682d06c54b29e737f5d34ea6fc942
 product: v0
 product_name: v0
 record:
@@ -99,7 +98,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

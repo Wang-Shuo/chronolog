@@ -5,20 +5,21 @@ description: "Open WebUI · 2026-06-29 · Account and Access: \U0001F91D **Share
   read-only chats no longer sign users out.** Opening or reading chats from shared
   folders now…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1187
+  lag_days: 2162
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc868edccf047471c248465ac7b9df2414f6941cd1be7e64580eca7903155db2
+machine_hash: 12e9c92d4b6be5d5eb478ec6984717cfbacb220701b85b6326ba0e68c9b05e6c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +49,10 @@ record:
     or reading…"
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled
-  automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]'
 - '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
   Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-shell-mode-to-the-tui-type-in-the-input-box-to-enable-it-for-long-running-co|Add
+  shell mode to the TUI]]'
 - '[[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3
   Account and Access changes in Platform API v2, MCP chat tools…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-1-github-346467913-0bcc38a8|open-webui-2026-06-29-v0-10-1-github-346467913-0bcc38a8]]'
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

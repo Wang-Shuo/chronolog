@@ -4,20 +4,20 @@ date: '2025-02-05'
 description: "Gamma · 2025-02-05 · Interface Experience: Exciting news for smart layouts—Gamma
   just got even smarter! \U0001F389 We’ve added more circle layouts to give your designs…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 758
+  lag_days: 2124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 348e10ee1b0a3a25c7edb8de32f9f2052ba5e325f5cb097e571de09c928961d0
+machine_hash: 92fcd66dedc2f8cbaebe9116aa3f041bda81ec32cc5470a6863626255f2f81b6
 product: gamma
 product_name: Gamma
 record:
@@ -48,8 +48,7 @@ record:
   title: Circle Smart Layouts Have Arrived
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
-  API ToC]]'
+- '[[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]'
 - '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
   General UI/UX Refinements]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

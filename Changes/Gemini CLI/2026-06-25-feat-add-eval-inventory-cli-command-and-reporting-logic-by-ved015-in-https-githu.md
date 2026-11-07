@@ -4,19 +4,20 @@ date: '2026-06-25'
 description: 'Gemini CLI · 2026-06-25 · Developer Workflow: feat: add eval:inventory
   CLI command and reporting logic by @ved015 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1195
+  lag_days: 2844
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd456c9c0629f6f4c8753989084748213ac39ccc4fde5cae365fe4e145bf26b8
+machine_hash: 64d06dc46407780cfa8ba6bd0c0bee8c5b742e61c9bbd713c65e40b08c776c1b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +44,8 @@ record:
   title: 'feat: add eval:inventory CLI command and reporting logic'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
-  syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Kimi Code/2026-06-24-show-the-command-in-running-bash-tool-cards-and-allow-expanding-it-with-ctrl-o-b|Show
+  the command in running Bash tool cards and allow expanding it with Ctrl+O…]]'
 - '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
   Workflow changes in v1.17.10]]'
 - '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

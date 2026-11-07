@@ -5,20 +5,20 @@ description: 'Ollama · 2023-12-12 · Multimodal Input: 3 changes in v0.1.15 —
   now supports multimodal models that can describe what they see. To use a multimodal
   model…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 84
+  lag_days: 1852
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 462e5f2ef96b20ad5302fd4051b520c75622431d1e20ff5f61b2189a05fc100e
+machine_hash: df14712fd3a07e6afb7be66e4b47b0a0dae1ded6fe81d49fea31f0d9719b8cb6
 product: ollama
 product_name: Ollama
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Multimodal Input changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Dify/2023-11-21-feat-sdk-vision-support-by-garfielddai-in-https-github-com-langgenius-dify-pull|Feat/sdk
-  vision support]]'
 - '[[Changes/Gemini/2023-11-21-expanding-bard-s-understanding-of-youtube-videos|Expanding
   Bard’s understanding of YouTube videos]]'
 - '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
   Support in Chat]]'
+- '[[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New
+  AI Action: Find Good Clips]]'
 source_release: '[[Releases/Ollama/ollama-2023-12-12-v0-1-15-github-133517915-5af535e3|ollama-2023-12-12-v0-1-15-github-133517915-5af535e3]]'
 source_type: github_releases
 theme: multimodal
@@ -91,14 +91,14 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image Support in Chat]]
-- Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our expansion into text-to-image capabilities marks a significant step in our…]]
+- Earlier: 2023-11-30 · Descript · [[Changes/Descript/2023-11-30-after-a-long-session-of-recording-producing-and-editing-the-last-thing-you-want|New AI Action: Find Good Clips]]
+- Later: 2023-12-20 · Synthesia · [[Changes/Synthesia/2023-12-20-upload-a-document-or-paste-a-link-and-transform-it-into-an-eye-catching-video-wi|Introducing: AI Video Assistant]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

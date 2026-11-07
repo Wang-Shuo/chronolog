@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-05 · Presentation Creation: Progress mode can
   quiet about routine tool calls while keeping the updates that help you follow the
   task or…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 815
+  lag_days: 1884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c4632f12a1bcac48678f178ddbc9baf1e046fe9ab53f7b5a5e553e543c19e3b
+machine_hash: 46950b3c83faef1f471cb46b1b9e63fe4a5834d4d81dab80a608b7233dce21ac
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: Progress mode can stay quiet about routine tool calls while keeping the updates…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-2-presentation-creation-changes-in-v2026-7-1|2 Presentation
-  Creation changes in v2026.7.1]]'
+- '[[Changes/Kimi Code/2026-08-27-web-improve-composer-interaction-including-the-presentation-of-file-folder-and-m|web:
+  Improve composer interaction, including the presentation of file, folder…]]'
 - '[[Changes/Gamma/2026-08-28-work-with-gamma-directly-in-slack|Work with Gamma directly
   in Slack]]'
 - '[[Changes/Gamma/2026-08-28-better-exports-with-more-control|Better exports, with
@@ -108,13 +108,13 @@ type: change
 ## Nearby in Presentation Creation
 
 - Earlier: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-better-exports-with-more-control|Better exports, with more control]]
-- Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-exports-that-stay-closer-to-your-design|Exports that stay closer to your design]]
+- Later: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-presentation-creation-and-editing-open-pptx-files-from-your-workspace-to-edit-an|Presentation creation and editing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

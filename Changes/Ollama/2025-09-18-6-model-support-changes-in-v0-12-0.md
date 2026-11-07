@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1af4e483a36f1194d28c0cc8a33448bb957348d694d4cbcec32fc2a955542789
+machine_hash: 1538a4a4ec9c12943b38b67ec1c6bbd53601b385623301854b4575c376c80421
 product: ollama
 product_name: Ollama
 record:
@@ -52,12 +52,12 @@ record:
   title: 6 Model Support changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor:
-  Centralize and improve model fallback handling]]'
 - '[[Changes/Open WebUI/2025-09-17-3-model-support-changes-in-v0-6-29|3 Model Support
   changes in v0.6.29]]'
 - '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
   Updates]]'
+- '[[Changes/Notion/2025-09-18-the-best-ai-models-built-in|The best AI models, built
+  in]]'
 source_release: '[[Releases/Ollama/ollama-2025-09-18-v0-12-0-github-248152545-8ad2535c|ollama-2025-09-18-v0-12-0-github-248152545-8ad2535c]]'
 source_type: github_releases
 theme: model-support
@@ -98,7 +98,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-the-best-ai-models-built-in|The best AI models, built in]]
 - Later: 2025-09-19 · Cline · [[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add code-supernova stealth model]]
 <!-- chronolog:end -->
 

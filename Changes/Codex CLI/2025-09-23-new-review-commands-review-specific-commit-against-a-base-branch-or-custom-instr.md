@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f4f5dc37faf6464976c5e0d1654a97d9f49c8850ec41405adc4e70480f58f656
+machine_hash: d1202b5f07286730907b6d7afb11c46d66c61f066bd4689e76fec4b222b789af
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: New `/review` commands…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
-  settings are now in Settings]]'
 - '[[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory
   on Enterprise plans]]'
+- '[[Changes/Notion/2025-09-18-personalize-your-agent-s-instructions-and-memory|Personalize
+  your Agent’s instructions and memory]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'

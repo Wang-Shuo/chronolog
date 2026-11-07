@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d60d513619c7bff656feab3db38b8b5428c1ce5af120f05a29410e5b53fb1801
+machine_hash: 63a25a778e04e5f630f221020d66eaa78f0971af32ab716b19ecc23a4018f88b
 product: dify
 product_name: Dify
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat: shell_command tool (29364f3a9)]]
-- Later: 2025-11-18 · Gemini · [[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]
+- Later: 2025-11-17 · Notion · [[Changes/Notion/2025-11-17-your-calendar-is-now-searchable|Your calendar is now searchable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

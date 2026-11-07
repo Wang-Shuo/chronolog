@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2025-08-02 · Reliability and Performance: 2 changes
   Release v0.1.16 — Run model availability check in the background to speed up startup
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 961
+  lag_days: 2448
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 061fe8baae403b4566e01aa4c46162d483fe43c4b900b56e0699f5248e29ab07
+machine_hash: 3e4acda2c82ecd124cd4a166e0b57fdc0a844888a7febe63b65936ebcc098061
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster
-  edits]]'
 - '[[Changes/Cursor/2025-07-29-2-reliability-and-performance-changes-in-1-3|2 Reliability
   and Performance changes in 1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
+- '[[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI
+  for faster access]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,14 +95,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
+- Earlier: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-avatars-new-ui-for-faster-access|Avatars: New UI for faster access]]
 - Later: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2 Reliability and Performance changes in v0.1.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

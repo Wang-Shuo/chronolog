@@ -4,20 +4,20 @@ date: '2023-11-21'
 description: 'Dify · 2023-11-21 · Multimodal Input: Feat/sdk vision support by @GarfieldDai
   in https://github.com/langgenius/dify/pull/1531'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 63
+  lag_days: 1831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d9f73339e372a2add8e99eda02744c21c2518830dad3b44aed1ce48cc75eb17c
+machine_hash: 1a7b5bdbc18128b749acaa4f1ab0499450e2df84cb771cb1e375996da9b1dabb
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: Feat/sdk vision support
   type: change
 related_changes:
-- '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-  video to cn readme]]'
+- '[[Changes/Synthesia/2023-09-21-three-new-avatars-are-ready-for-lights-camera-and-action-arnold-grace-and-tyra|New
+  Avatars: Arnold, Grace and Tyra]]'
 - '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
   input will be generally available to Plus users on all platforms]]'
 - '[[Changes/Dify/2023-11-13-2-multimodal-input-changes-in-0-3-30|2 Multimodal Input
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

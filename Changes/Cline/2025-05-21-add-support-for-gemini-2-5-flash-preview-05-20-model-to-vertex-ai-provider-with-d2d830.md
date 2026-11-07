@@ -4,20 +4,20 @@ date: '2025-05-21'
 description: 'Cline · 2025-05-21 · Context Window: Add support for Gemini 2.5 Flash
   Preview 05-20 model to Vertex AI provider with massive 1M token context window (Thanks…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 2072
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1e21167e3cad8866f0483fd8d2c6c8914213d7e39c23ac6b88a5457607ddcdb8
+machine_hash: 6d55522ec2cb80e44f6eab0f0df3f484bb66507e7d4527dbf1184c8760e7dc1d
 product: cline
 product_name: Cline
 record:
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

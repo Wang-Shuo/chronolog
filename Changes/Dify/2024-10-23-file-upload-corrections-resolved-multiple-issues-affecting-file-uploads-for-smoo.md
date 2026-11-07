@@ -4,20 +4,20 @@ date: '2024-10-23'
 description: 'Dify · 2024-10-23 · Files and Data: **File Upload Corrections**: Resolved
   multiple issues affecting file uploads for smoother operations. Image config uploads…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 517
+  lag_days: 1862
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b105c63bfbf0bab913382a0067079d9537078fa04ade457751a54d68976fded4
+machine_hash: b95dde88b529c4790ce627b532a689ac27091057185520c05eab34b803960cd2
 product: dify
 product_name: Dify
 record:
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-2-files-and-data-changes-in-0-10-0|2 Files and Data changes in 0.10.0]]
-- Later: 2024-10-24 · Open WebUI · [[Changes/Open WebUI/2024-10-24-enhanced-knowledge-collection-now-you-can-reference-individual-files-from-a-know|📚 Enhanced Knowledge Collection]]
+- Later: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize your page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

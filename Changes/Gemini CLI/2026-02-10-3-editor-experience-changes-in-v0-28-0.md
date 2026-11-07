@@ -4,20 +4,19 @@ date: '2026-02-10'
 description: 'Gemini CLI · 2026-02-10 · Editor Experience: 3 changes in Release v0.28.0
   — feat(cli): align hooks enable/disable with skills and improve completion by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a904c786d99bd455c8e0075d704e4ac67c5c71d99a41a3075cc3a96a8b4c0ad
+machine_hash: 66f1473ccdcf7ee21946e1cd183885940d65278b1fb01233a78c8f68c36c6247
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +44,11 @@ record:
   title: 3 Editor Experience changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer
-  mode is now stable and enabled by default, so Enter sends immediately during…]]'
-- '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
-  console icons and titles in the editor]]'
 - '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
   project and chat names to editor explorer header]]'
+- '[[Changes/Descript/2026-02-10-revert-understanding-thinking-and-view-media-in-underlord|Revert,
+  understanding thinking, and view media in Underlord]]'
+- '[[Changes/Descript/2026-02-10-editor|Editor]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: editor-experience
@@ -95,14 +93,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced project and chat names to editor explorer header]]
+- Earlier: 2026-02-10 · Descript · [[Changes/Descript/2026-02-10-editor|Editor]]
 - Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience changes in v1.1.54]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

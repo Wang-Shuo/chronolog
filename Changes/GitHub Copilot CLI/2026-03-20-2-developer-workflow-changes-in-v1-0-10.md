@@ -4,19 +4,20 @@ date: '2026-03-20'
 description: 'GitHub Copilot CLI · 2026-03-20 · Developer Workflow: 2 changes in 1.0.10
   — Add /undo command to undo the last turn and revert file changes'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1098
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b180e7df9f99b71b85068016d9c0ec093030463baa3a7a149cc8b28bf4549f8b
+machine_hash: 43e8203139fe02bcdd3895bdce02d025bad9c3e11715501663087d283ae26b38
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

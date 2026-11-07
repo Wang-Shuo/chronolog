@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-07-13 · Presentation Creation: 2 changes in v202
   — Slack presentation messages now arrive as native Block Kit cards with working
   headers…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 761
+  lag_days: 1830
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8178f7d70273586a7d02088eb2178acc3f01adff099b0d82cb2c0179a9528421
+machine_hash: 7c8c0810f1c34b65f187a71d7fda4e4a1b094a878b069435ebf369846738cfec
 product: openclaw
 product_name: OpenClaw
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Presentation Creation changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-export-quality-keeps-getting-better|Export quality keeps
-  getting better]]'
-- '[[Changes/Gamma/2026-06-12-svg-images-in-exports-finally-work-everywhere|SVG images
-  in exports finally work everywhere]]'
-- '[[Changes/OpenClaw/2026-06-30-word-powerpoint-and-excel-document-reads-and-writes-now-use-the-intended-docx-pp|Word,
-  PowerPoint, and Excel document reads and writes now use the intended .docx…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-open-word-excel-and-powerpoint-and-pdf-files-in-copilot-chat-windows-mac-web-mic|Open
+  Word, Excel, and PowerPoint, and PDF files in Copilot Chat Windows, Mac…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-create-powerpoint-presentations-from-copilot-notebooks-windows-web-microsoft-365|Create
+  PowerPoint presentations from Copilot Notebooks Windows…]]'
+- '[[Changes/HeyGen/2026-07-08-2-presentation-creation-changes-in-july-2026-enterprise-releases|2
+  Presentation Creation changes in July 2026 Enterprise Releases]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
 source_type: openclaw_changelog
 theme: presentation-creation
@@ -111,14 +111,14 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Presentation Creation
 
-- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-word-powerpoint-and-excel-document-reads-and-writes-now-use-the-intended-docx-pp|Word, PowerPoint, and Excel document reads and writes now use the intended .docx…]]
-- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-work-with-gamma-directly-in-slack|Work with Gamma directly in Slack]]
+- Earlier: 2026-07-08 · HeyGen · [[Changes/HeyGen/2026-07-08-2-presentation-creation-changes-in-july-2026-enterprise-releases|2 Presentation Creation changes in July 2026 Enterprise Releases]]
+- Later: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-copilot-uses-enterprise-assets-hosted-on-adobe-experience-manager-when-creating|Copilot uses enterprise assets hosted on Adobe Experience Manager when creating…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7db54868392b98a2ad3ca6b8ecc66bbbcc262553250572f5ffed0733851e046c
+machine_hash: 96c04475a8f9cb4be915721dea6b8c74dfacd4ebf7d663269ee339edea606b87
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 6 Model Support changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
-  changes in v1.1.26]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
+- '[[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First
+  round of 2026 updates is in!]]'
 - '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
   Support changes in rust-v0.88.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'

@@ -4,19 +4,20 @@ date: '2026-06-30'
 description: 'Cursor · 2026-06-30 · Collaboration: Team marketplaces now support organization
   groups, in addition to team-level SCIM directory groups.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a6368cc2522c20246b791dd029bc5acc1b42d3c7e9d8d63705f8107ae39f8b63
+machine_hash: 30a85d854c2213b926d92e2131ff2ef677880a4dd043ffcd84e7135aa2278179
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +50,8 @@ record:
   title: Marketplace access by organization group
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-26-snowflake-gets-fewer-first-deploy-failures-creates-a-missing-snowflake-yml-for-y|Snowflake
-  gets fewer first deploy failures, creates a missing snowflake.yml for you…]]'
+- '[[Changes/Kimi Code/2026-06-29-scope-the-web-composer-s-up-down-input-history-to-the-current-session-instead-of|Scope
+  the web composer''s up/down input history to the current session instead…]]'
 - '[[Changes/Open WebUI/2026-06-29-4-collaboration-changes-in-v0-10-0|4 Collaboration
   changes in v0.10.0]]'
 - '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

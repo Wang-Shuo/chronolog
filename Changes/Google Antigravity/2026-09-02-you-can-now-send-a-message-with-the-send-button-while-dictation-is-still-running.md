@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-09-02 · Voice and Audio: You can now s
   a message with the send button while dictation is still running, instead of having
   to stop…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1150
+  lag_days: 2977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3044d01c1c61d6c6fb5dbf84504ee722dd8f051854fccc362893dfe8786eeba
+machine_hash: a2ad7c6b625dc4bc7f61d736dfea8469cb9c76aa5c85734bc7f646f502ec3fd4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -44,10 +44,10 @@ record:
   title: Send a message with the send button while dictation is still running, instead…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and
-  Audio changes in v2026.8.1]]'
 - '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
   Audio changes in v2026.8.2]]'
+- '[[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find
+  the right voice faster with the refreshed voice picker]]'
 - '[[Changes/Google Antigravity/2026-09-02-added-drag-and-drop-and-improved-support-for-attaching-audio-files-to-conversati|Added
   drag-and-drop and improved support for attaching audio files to conversations…]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80|google-antigravity-2026-09-02-rel-hub-2-12-0-738d6e80]]'
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and Audio changes in v2026.8.2]]
+- Earlier: 2026-09-01 · Synthesia · [[Changes/Synthesia/2026-09-01-browse-featured-voices-filter-by-language-or-accent-and-preview-instantly-all-in|Find the right voice faster with the refreshed voice picker]]
 - Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4 now supports images and audio on MLX engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

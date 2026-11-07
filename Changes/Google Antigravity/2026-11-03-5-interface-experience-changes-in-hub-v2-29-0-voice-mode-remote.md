@@ -4,20 +4,20 @@ date: '2026-11-03'
 description: 'Google Antigravity · 2026-11-03 · Interface Experience: 5 changes in
   HUB v2.29.0 — Voice mode, remote agents, redesigned Automations, and Jupyter notebook…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1394
+  lag_days: 2760
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 330b1f2e42c6bc67275fd962474f02d8bb64428ce0a750690e4be16641ce3442
+machine_hash: adbba9cdb563ef19fd27ccefb053c6d343dcf6b45ef27f9992afbc2e13f2389d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -118,7 +118,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.29.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

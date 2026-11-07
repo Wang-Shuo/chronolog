@@ -4,19 +4,20 @@ date: '2024-07-27'
 description: 'OpenHands · 2024-07-27 · Collaboration: 2 changes in 0.8.2 — chore(deps):
   bump @react-types/shared from 3.24.0 to 3.24.1 in /frontend by @dependabot in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 430
+  lag_days: 2024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d6f0ef84f9094978e7042153dfcd71c22406a83c56207417bb628ca4fd19259
+machine_hash: 3fb131ced1566cd1791106217cb955e46788780ab1c7551bdf470dc487527312
 product: openhands
 product_name: OpenHands
 record:
@@ -87,13 +88,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 ## Nearby in Collaboration
 
 - Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add email support for pro and team]]
-- Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- Later: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-import-from-asana|Import from Asana]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

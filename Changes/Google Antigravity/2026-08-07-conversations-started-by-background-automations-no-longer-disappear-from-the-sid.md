@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Google Antigravity · 2026-08-07 · Automation and Scheduling: Conversations
   started by background automations no longer disappear from the sidebar list; they…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 948
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3d8ce61145dc47ce04726e763e225abc3d15b098237f5d1ecccc5e31d5e67d4
+machine_hash: f748ca2ed97987084213a32988c89f1879ea85b186630b50ab45495d3cccf680
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -55,8 +55,7 @@ record:
     the sidebar list
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
-  drive the automation UI from the interface manifest]]'
+- '[[Changes/Descript/2026-08-05-schedule-a-room|Schedule a Room]]'
 - '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
   Automation and Scheduling changes in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
@@ -105,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

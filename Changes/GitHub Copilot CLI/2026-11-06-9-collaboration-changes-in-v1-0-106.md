@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Collaboration: 9 changes in 1.
   — Ctrl+Y and /share research skip research folder entries that are not readable
   files…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1262
+  lag_days: 2856
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f06138512a4c2516cb40133383fe6223ed1683351029f6038ed1d368d5a3dfaa
+machine_hash: 8ff2bc28154d3f59607cb737f4f540a7c1b073329064d74dd4d74bf42ce2a481
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -71,12 +72,12 @@ record:
   title: 9 Collaboration changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration
-  changes in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes
-  in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows
   authorized native commands to restore archived source sessions, and reports…]]'
+- '[[Changes/Qoder/2026-11-05-2-collaboration-changes-in-qoder-0-5-5|2 Collaboration
+  changes in Qoder 0.5.5]]'
+- '[[Changes/Descript/2026-11-06-import-from-other-projects-now-shows-every-project-in-your-drive-not-just-ones-s|Import
+  from other projects now shows every project in your drive, not just ones…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: collaboration
@@ -142,13 +143,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows authorized native commands to restore archived source sessions, and reports…]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-import-from-other-projects-now-shows-every-project-in-your-drive-not-just-ones-s|Import from other projects now shows every project in your drive, not just ones…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

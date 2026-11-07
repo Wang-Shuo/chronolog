@@ -4,20 +4,20 @@ date: '2026-04-08'
 description: 'OpenCode · 2026-04-08 · Safety and Privacy: Terminal Added opencode
   run --dangerously-skip-permissions to auto-approve non-denied permission prompts.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1088
+  lag_days: 2080
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dcda374770da59138e3229848b1bc4d2838d7e610c994f22f04125a309968f3
+machine_hash: 5791745d6b59a34335f3837c92e0edff1f4f5a4173228af970b2b711b370be46
 product: opencode
 product_name: OpenCode
 record:
@@ -44,8 +44,8 @@ record:
   title: Terminal Added opencode run --dangerously-skip-permissions to auto-approve…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode
-  Added a warning banner when settings.json files fail to parse, so users…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-04-07-fewer-confirmation-prompts-for-copilot-actions-web-microsoft-365-copilot-extensi|Fewer
+  confirmation prompts for Copilot actions Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
   and Privacy changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

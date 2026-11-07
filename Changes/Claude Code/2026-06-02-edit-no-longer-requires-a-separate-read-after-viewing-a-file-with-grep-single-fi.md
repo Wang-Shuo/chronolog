@@ -4,20 +4,19 @@ date: '2026-06-02'
 description: 'Claude Code · 2026-06-02 · Editor Experience: Edit no longer requires
   a separate Read after viewing a file with `grep`: single-file `grep`/`egrep`/`fgrep`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1176
+  lag_days: 2760
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48daf8bc7d8a956cf4b823852ee4954473d4c0a72286e23cb4750d59187a8bd1
+machine_hash: fe2222dac42f122f91df5028903bd509607a5fe176ca06d3e74aa0ac6255ccda
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,13 +86,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor Experience changes in v0.9.6]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]
+- Later: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-voices-tab-refresh|Voices tab refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

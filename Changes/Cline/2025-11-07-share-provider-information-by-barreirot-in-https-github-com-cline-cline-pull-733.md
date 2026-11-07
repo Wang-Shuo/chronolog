@@ -4,19 +4,20 @@ date: '2025-11-07'
 description: 'Cline · 2025-11-07 · Collaboration: Share provider information by @BarreiroT
   in https://github.com/cline/cline/pull/7331'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 2492
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 475a553fe61a8221a2ae9bd94a7d60a31b0a7d1344cf00d4e77d59e78de7580e
+machine_hash: ef559fec89005cddaf7c61e54452345b67c66f645b72299272785d65a894e4fc
 product: cline
 product_name: Cline
 record:
@@ -76,13 +77,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access to private projects]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote shared helpers for suite tests (♯6460) — @aibrahim]]
+- Later: 2025-11-14 · Notion · [[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

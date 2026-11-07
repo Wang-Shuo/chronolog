@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Cline · 2026-09-24 · Context Window: Long replies on local models (llama.cpp,
   Ollama, LM Studio) that hit the output-token limit now compact the conversation…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1239
+  lag_days: 2563
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 027054b994bc7d60e104f93c928f21a1e455ad4dd138583853289b56fa67dfbb
+machine_hash: 55db5d9e40cbc7f70b759832d6c1ab4868a6e68984135ab65c8d3b04bee08674
 product: cline
 product_name: Cline
 record:
@@ -58,10 +58,10 @@ record:
   title: Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
-  changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-new-copilot-notebooks-design-in-the-microsoft-365-copilot-app-web-microsoft-365|New
+  Copilot Notebooks design in the Microsoft 365 Copilot App…]]'
 - '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context
   Window changes in v2026.9.6]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

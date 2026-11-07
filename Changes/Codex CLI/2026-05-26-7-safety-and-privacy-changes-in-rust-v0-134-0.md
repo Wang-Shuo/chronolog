@@ -4,20 +4,20 @@ date: '2026-05-26'
 description: 'Codex CLI · 2026-05-26 · Safety and Privacy: 7 changes in 0.134.0 —
   Made `--profile` the primary profile selector across CLI, TUI permissions, and sandbox…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dacac531ba0047969858d246ee9ea5a1bddc2f76f34e1875f29c34b88c885966
+machine_hash: 7b8ca193a5851e63fa9e991a52696bbd276028526d8d726ee3d1f72b4cbf449d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

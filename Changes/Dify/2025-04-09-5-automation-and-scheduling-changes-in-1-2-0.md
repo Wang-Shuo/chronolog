@@ -5,20 +5,20 @@ description: 'Dify · 2025-04-09 · Automation and Scheduling: 5 changes in v1.2
   **New Workflow Loop Node**: A huge shoutout to @Woo0ood, @arkunzz, @Gevtolev and
   @zxhlyh…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 463
+  lag_days: 2030
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8043d0156cf78ec304654d0f0e5887418ab49475dfca5fab810ba6c63040a23
+machine_hash: b97f97a226cefa9bd112b6fcdcd45dcbb5e7c5992d154bff84ff4bf775e6acee
 product: dify
 product_name: Dify
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Automation and Scheduling changes in 1.2.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-  tasks in ChatGPT]]'
-- '[[Changes/Open WebUI/2025-02-14-2-automation-and-scheduling-changes-in-v0-5-12|2
-  Automation and Scheduling changes in v0.5.12]]'
+- '[[Changes/Notion/2025-02-18-more-improvements-to-start-the-year|More improvements
+  to start the year!]]'
+- '[[Changes/Notion/2025-02-18-more-reasons-to-replace-your-scheduling-app|More reasons
+  to replace your scheduling app]]'
 - '[[Changes/Dify/2025-03-11-feature-newnew-workflow-loop-node-by-woo0ood-in-https-github-com-langgenius-dify|Feature/newnew
   workflow loop node]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
@@ -117,7 +117,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

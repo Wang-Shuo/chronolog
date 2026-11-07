@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-03 · Interface Experience: 14 changes in v202
   — On a headless machine, the same path provides a one-time authenticated dashboard
   link…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2699
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04c0a2c043909021eb2a84d81a4fdbd921e098412cb0be4072892229ac6b1eae
+machine_hash: 11a0bc9bf8147eb8a6a9dab2f2f12852950cf7fa906e1e91008ab417d631cddb
 product: openclaw
 product_name: OpenClaw
 record:
@@ -215,13 +215,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.1
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-03 · Midjourney · [[Changes/Midjourney/2026-09-03-prompt-bar-pills|PROMPT BAR & PILLS]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
+- Later: 2026-09-03 · Qoder · [[Changes/Qoder/2026-09-03-batch-tasks-archiving-multi-select-tasks-in-the-sidebar-to-archive-them-and-swit|Batch tasks archiving]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

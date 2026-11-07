@@ -4,20 +4,20 @@ date: '2025-03-23'
 description: 'Cursor · 2025-03-23 · Enterprise and Administration: Enhanced visibility
   of auto-run controls configured by team admins, clarifying when they are active'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 688
+  lag_days: 1895
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31de30a34f71377a7a62ebc670f01ed28a1b1e0bf1159594ae0d2a2dac32bf34
+machine_hash: f8ded8f31f8bdd1cd8a7c9d1b7e54043f189e97037a6730929b67299f700c28f
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
-  Chat Controls Permissions]]"
+- '[[Changes/Descript/2025-02-11-translated-dubbing-and-captions-support-for-chinese-japanese-and-korean|Translated
+  dubbing and captions support for Chinese, Japanese and Korean]]'
 - '[[Changes/ElevenLabs/2025-03-17-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy
   enterprise]]'
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy enterprise]]
-- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-enterprise-and-administration-changes-in-v0-6-0|2 Enterprise and Administration changes in v0.6.0]]
+- Later: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-level-up-your-admin-controls|Level up your admin controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

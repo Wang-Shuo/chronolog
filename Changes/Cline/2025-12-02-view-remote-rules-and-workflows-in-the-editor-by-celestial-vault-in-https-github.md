@@ -4,20 +4,19 @@ date: '2025-12-02'
 description: 'Cline · 2025-12-02 · Editor Experience: View remote rules and workflows
   in the editor by @celestial-vault in https://github.com/cline/cline/pull/7702'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2578
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9dc1fa5a88b6c7460faecbf301d1195e9594011e82edd7c5ffe60d2087954bab
+machine_hash: 646621ab56ea17418fb6671cda26ba24ae311d268d81d46f74db1058c5cec709
 product: cline
 product_name: Cline
 record:
@@ -41,12 +40,11 @@ record:
   title: View remote rules and workflows in the editor
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced
-  a broad set of workflow-editor improvements, including UI refinement…]]'
-- '[[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore
-  keyboard mode when exiting the editor]]'
-- '[[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience
-  changes in v3.38.3]]'
+- '[[Changes/HeyGen/2025-12-01-ai-studio-updates-for-all|AI Studio updates for all]]'
+- '[[Changes/HeyGen/2025-12-01-the-holidays-are-just-around-the-corner-but-for-heygen-customers-christmas-alway|Weekly
+  Avatar drops]]'
+- '[[Changes/HeyGen/2025-12-01-style-your-avatar-without-leaving-the-studio|Style
+  your avatar without leaving the studio]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-2-editor-experience-changes-in-v3-38-3|2 Editor Experience changes in v3.38.3]]
+- Earlier: 2025-12-01 · HeyGen · [[Changes/HeyGen/2025-12-01-style-your-avatar-without-leaving-the-studio|Style your avatar without leaving the studio]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor Experience changes in rust-v0.64.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

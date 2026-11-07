@@ -4,20 +4,20 @@ date: '2024-04-27'
 description: 'Midjourney · 2024-04-27 · Voice and Audio: It has text chat and voice
   chat'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 292
+  lag_days: 2119
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7a3f0b1e8c5a2120c2d9cb8eff173d48acbd7cbe82a39844bcc277f7046655f1
+machine_hash: 6adebe7f2b17f7e1713eba5f52c5f34ef8f01550c60ac72e02342e54f147c2cd
 product: midjourney
 product_name: Midjourney
 record:
@@ -51,8 +51,7 @@ record:
   title: A few cool features in rooms
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
-  audition]]'
+- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
 - '[[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip
   Sync in Gen-2]]'
 - '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
@@ -95,13 +94,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
-- Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio changes in 0.6.7]]
+- Later: 2024-05-07 · Synthesia · [[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice Cloning: your voice in 29 languages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Suno · 2026-08-07 · Music Generation: We brought Voices to both 
   and Android. Record your voice once and use it on any song. Now available to try
   on free…'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 958
+  lag_days: 2424
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37d93161e5cf3be528a6f40f17b977e4330ef66e861a086e95b71a42ba6895b3
+machine_hash: e5875e5841058af945b32464477f7b115dbf817179c95dbcdf7e91bd399b4c73
 product: suno
 product_name: Suno
 record:
@@ -54,10 +54,10 @@ record:
   title: We brought Voices to both iOS and Android
   type: change
 related_changes:
-- '[[Changes/Suno/2026-07-15-suno-now-lives-in-your-imessage-keyboard-ios-users-can-create-and-send-songs-and|Suno
-  now lives in your iMessage keyboard. iOS users can create and send songs…]]'
 - '[[Changes/Suno/2026-07-20-drag-the-new-duration-slider-in-the-create-form-to-pick-your-song-length|Duration
   Slider on Web]]'
+- '[[Changes/HeyGen/2026-07-23-result-one-prompt-produces-a-complete-video-presenter-b-roll-captions-music-and|Result:
+  One prompt produces a complete video: presenter, B-roll, captions, music…]]'
 - '[[Changes/Suno/2026-07-31-songs-that-look-as-good-as-they-sound|Songs that look
   as good as they sound]]'
 source_release: '[[Releases/Suno/suno-2026-08-07-e-updates-to-voices-f1709b3a|suno-2026-08-07-e-updates-to-voices-f1709b3a]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-14'
 description: 'Claude Code · 2026-07-14 · Interface Experience: 2 changes in v2.1.210
   — Added a live elapsed-time counter to the collapsed tool summary line so long-running…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1282
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 152abc8e39bd4600ee58461a789b7194e6da99a4f69d2d1bdf01c130b63773d8
+machine_hash: ec9c4707e4f915b1f8e89890390150bbfdd0a91c11ef0bcf344b60daddea6080
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]]
-- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface Experience changes in v1.18.1 + 1]]
+- Later: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-web-add-session-export-run-export-or-pick-export-session-from-a-session-s-more-m|web: Add session export: run /export or pick Export session from a session's more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

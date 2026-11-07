@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Codex CLI · 2026-01-14 · Files and Data: #9020 fix(tui): document paste-burst
   state machine @joshka-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 965
+  lag_days: 2310
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7586a7d0720f46db264678ea626e1bf5af2b7ef0e691a6cb63d18f8b4d0fee7f
+machine_hash: b9e3fd61bace105dfc33c267ef054addac0c185805c723aa7d52472214908c80
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: '#9020 fix(tui): document paste-burst state machine @joshka-oai'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt
-  in docs]]'
 - '[[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]'
 - '[[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes
   in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate
+  Office documents from agents in Copilot Studio lite Windows…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: file-data
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes in 1.11.3]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-generate-office-documents-from-agents-in-copilot-studio-lite-windows-web-microso|Generate Office documents from agents in Copilot Studio lite Windows…]]
 - Later: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-06-07'
 description: 'ChatGPT · 2025-06-07 · Voice and Audio: We''re upgrading Advanced Voice
   in ChatGPT for paid users with significant enhancements in intonation and naturalness…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 698
+  lag_days: 2525
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6c0b12d98e6b60638726f89dfb3f8499b6f47cbde02178d7c27e525a12838fa
+machine_hash: 72a09b23ed56ddee625ce218eef1422286e45425bb253d7d54663092c1484539
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,11 +73,10 @@ record:
   title: We're upgrading Advanced Voice in ChatGPT for paid users with significant…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-27-2-voice-and-audio-changes-in-1-4-1|2 Voice and Audio
-  changes in 1.4.1]]'
 - "[[Changes/Open WebUI/2025-05-28-reliable-read-aloud-text-to-speech-read-aloud-now-works-seamlessly-across-messag|\U0001F50A
   Reliable Read Aloud (Text-to-Speech)]]"
 - '[[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]'
+- '[[Changes/Descript/2025-06-05-regenerate-video-beta|Regenerate video (beta)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446|chatgpt-2025-06-07-updates-to-advanced-voice-mode-for-paid-users-55969446]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -106,14 +105,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]
+- Earlier: 2025-06-05 · Descript · [[Changes/Descript/2025-06-05-regenerate-video-beta|Regenerate video (beta)]]
 - Later: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus isn't just where you generate videos — it's where you craft cinematic experiences]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

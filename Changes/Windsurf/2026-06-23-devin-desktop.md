@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'Windsurf · 2026-06-23 · Mobile and Desktop: Devin ACU usage is now displayed
   in the client.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 418b4e1956c4249f66b42bf40df1f9024390c6bace367155f2f14269d6f46a25
+machine_hash: e70245b95f64689147d42fae9d6af9117b21d64955bcd6cc20a411d97d52b70f
 product: windsurf
 product_name: Windsurf
 record:
@@ -75,13 +75,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
-- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile and Desktop changes in v1.17.10]]
+- Later: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize the web app's components into area subdirectories…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

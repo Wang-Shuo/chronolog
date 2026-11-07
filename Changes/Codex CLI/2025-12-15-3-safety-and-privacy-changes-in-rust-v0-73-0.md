@@ -4,20 +4,20 @@ date: '2025-12-15'
 description: 'Codex CLI · 2025-12-15 · Safety and Privacy: 3 changes in 0.73.0 — Introduce
   AbsolutePathBuf as part of sandbox config (PR #7856)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 1966
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49631994ddfac07cc11a0e7d0a67c8850c1e333455189d799abfd76104d913a2
+machine_hash: 8f7eee75545b9c5044caa315bde70e6dae7e0b79f19034537cfad55107e4fdf7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.73.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

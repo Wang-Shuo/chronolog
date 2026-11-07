@@ -4,19 +4,20 @@ date: '2026-05-02'
 description: 'OpenCode · 2026-05-02 · Developer Workflow: 2 changes in v1.14.33 +
   1 — Terminal Reduced startup theme flashing when using the system theme.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1141
+  lag_days: 2790
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cbfa2b725fbeb9ba1540db8fb0be5cea11268a3963339a834195fe77b0416a2
+machine_hash: 9628e4b222f03a07f60dd654176ad683553b59b8235d2a8eda222147f2d042e1
 product: opencode
 product_name: OpenCode
 record:
@@ -89,7 +90,7 @@ Source: https://opencode.ai/changelog/v1.14.33
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

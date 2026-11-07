@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ce5676fc272e95c9550c743127aec266fc5c26ca5168f1b11a5fb4528a94bd5e
+machine_hash: 7a951835e6b3206e6e17b070d6a608d1917f1a3b762d21b336b4f180924d1e52
 product: replit
 product_name: Replit
 record:
@@ -54,12 +54,11 @@ record:
   title: Understand app usage with Project Analytics
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-03-14-agent-mode-changes-in-v2026-9-1|14 Agent Mode
-  changes in v2026.9.1]]'
-- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
-  changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
   a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/HeyGen/2026-09-04-video-agent-essential-mode|Video Agent Essential Mode]]'
+- '[[Changes/Kimi Code/2026-09-04-2-agent-mode-changes-in-kimi-code-0-41-0|2 Agent
+  Mode changes in Kimi Code 0.41.0]]'
 source_release: '[[Releases/Replit/replit-2026-09-04-2026-09-04-ccf2eec3|replit-2026-09-04-2026-09-04-ccf2eec3]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping a timed-out shell command now lets queued messages run and sessions return…]]
+- Earlier: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-2-agent-mode-changes-in-kimi-code-0-41-0|2 Agent Mode changes in Kimi Code 0.41.0]]
 - Later: 2026-09-04 · Runway · [[Changes/Runway/2026-09-04-team-is-a-new-self-serve-plan-for-small-teams-that-create-together-in-runway-eve|Introducing Team Plan]]
 <!-- chronolog:end -->
 

@@ -4,19 +4,20 @@ date: '2026-11-05'
 description: 'OpenClaw · 2026-11-05 · Collaboration: Allows authorized native commands
   to restore archived source sessions, and reports session sharing discovery failures.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1261
+  lag_days: 2855
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8e0aba272364fcaebdb7f2600790a6032ae2ea3ff072e64724a0fabf9674911
+machine_hash: c725591a79e3f328a0045bca403331d01bbb7950d6ce98d709ab96a7f3653b23
 product: openclaw
 product_name: OpenClaw
 record:
@@ -42,12 +43,12 @@ record:
     reports…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration
-  changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration
   changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes
   in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-ai-workflows-in-workflows-app-windows-mac-teams|AI
+  Workflows in Workflows app Windows, Mac (Teams)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|openclaw-2026-11-05-v2026-11-1-7d3de823]]'
 source_type: openclaw_changelog
 theme: collaboration
@@ -91,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes in 1.19.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-9-collaboration-changes-in-v1-0-106|9 Collaboration changes in v1.0.106]]
+- Earlier: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-ai-workflows-in-workflows-app-windows-mac-teams|AI Workflows in Workflows app Windows, Mac (Teams)]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-2-collaboration-changes-in-qoder-0-5-5|2 Collaboration changes in Qoder 0.5.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

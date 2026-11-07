@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'OpenCode · 2026-05-15 · Interface Experience: Auto-hide the menu bar
   on Linux and Windows'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1222
+  lag_days: 2588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ed585901825dd59d8c90004ffefd9121117bbe0265e5cd5e4eb1fda3942f81bb
+machine_hash: 8f182589a199b0d6b80ac2602cabf5d3d14ba6ca0917fd9e2eb9e59591bde49d
 product: opencode
 product_name: OpenCode
 record:
@@ -40,9 +40,9 @@ record:
   title: Auto-hide the menu bar on Linux and Windows
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/Descript/2026-05-14-chat-history|Chat history]]'
+- '[[Changes/Descript/2026-05-14-workspaces-drive-sidebar-and-settings-redesigns|Workspaces,
+  Drive sidebar, and Settings redesigns]]'
 - '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
   markdown rendering for session output by default]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-15-v1-15-0-3ca1d4c1|opencode-2026-05-15-v1-15-0-3ca1d4c1]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

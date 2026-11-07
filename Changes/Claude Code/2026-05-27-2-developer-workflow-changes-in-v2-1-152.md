@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-05-27 · Developer Workflow: 2 changes in v2.1
   — `/code-review --fix` now applies review findings to your working tree after the
   review…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2815
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c462853f592c25b63a2e694d8d112a5db6fe2a7948eb3f099bb8f37cd53d59bf
+machine_hash: 06f829fe4ecc1f68bfd44486f9ff41191e44cae19b6bde8168a0f999504a1bd1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
-  add shell command safety evals]]'
-- '[[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer
-  Workflow changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash
   shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]'
+- '[[Changes/Kimi Code/2026-05-26-persist-model-selections-from-the-terminal-ui-to-the-default-configuration-and-h|Persist
+  model selections from the terminal UI to the default configuration…]]'
+- '[[Changes/Kimi Code/2026-05-26-exit-promptly-when-the-controlling-terminal-goes-away-the-tui-now-handles-sighup|Exit
+  promptly when the controlling terminal goes away]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,14 +92,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-exit-promptly-when-the-controlling-terminal-goes-away-the-tui-now-handles-sighup|Exit promptly when the controlling terminal goes away]]
 - Later: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core): expose RAG snippets to local log file for debugging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

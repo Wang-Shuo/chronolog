@@ -4,19 +4,20 @@ date: '2026-09-17'
 description: 'Cline · 2026-09-17 · Developer Workflow: 2 changes in v4.1.19 — Checkpoints
   no longer re-hash every untracked file on each message. In workspaces holding large…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1279
+  lag_days: 2928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6f588713d6f99eb2802b57ac2e00a72a7c0d6d1e320fb4f088c09cae44e1892
+machine_hash: 845243d9154bfe0c8f3502732ade9088082b2162fa3f788273bb0afb61751c6e
 product: cline
 product_name: Cline
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

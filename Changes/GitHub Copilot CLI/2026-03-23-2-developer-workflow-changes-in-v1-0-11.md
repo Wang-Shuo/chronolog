@@ -4,19 +4,20 @@ date: '2026-03-23'
 description: 'GitHub Copilot CLI · 2026-03-23 · Developer Workflow: 2 changes in 1.0.11
   — Terminal screen redraws correctly after process suspend and resume (Ctrl+Z / fg)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1101
+  lag_days: 2750
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 885ca0350d18b9916e1525a147f9ea5498d4e1bf94ac9c2a30ed5fdba4640532
+machine_hash: 598ef3223edcdb7a6e276cef7afebffd538cbdf31f38d821787d616c16a895e5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

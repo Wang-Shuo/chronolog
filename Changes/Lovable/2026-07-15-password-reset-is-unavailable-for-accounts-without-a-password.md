@@ -5,20 +5,21 @@ description: 'Lovable · 2026-07-15 · Account and Access: If your account signs
   only through Google, GitHub, Apple, or SSO, selecting **Forgot password?** no longer
   sends…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2178
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b6e0edb80aa9abb59540427004f355373178561b9ccebf36f627ac816248cc66
+machine_hash: a639f7e3d34e86975811688cf9cf24a094789134ba62b4df0a1f2683d74e06c1
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +50,10 @@ record:
   title: Password reset is unavailable for accounts without a password
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-69-account-and-access-changes-in-v2026-7-1|69 Account
-  and Access changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core
   Added OAuth support for Luna Responses Lite]]'
+- '[[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show
+  the provider''s actual rejection message instead of a misleading re-login prompt…]]'
 - '[[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email
   alerts for sign-ins from a new device and country]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core Added OAuth support for Luna Responses Lite]]
+- Earlier: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show the provider's actual rejection message instead of a misleading re-login prompt…]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

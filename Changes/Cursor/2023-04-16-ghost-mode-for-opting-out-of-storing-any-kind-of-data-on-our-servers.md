@@ -4,20 +4,20 @@ date: '2023-04-16'
 description: 'Cursor · 2023-04-16 · Safety and Privacy: Ghost mode for opting out
   of storing any kind of data on our servers'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 992
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c643da065d974dbeaf17383db7c1c393f89391c4031ad4a0178e63024d5ec2a0
+machine_hash: 8bee4a8486f80f43786ea6969e0178017394f1559d5a6b7a9db711e69f4f7f9d
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +42,11 @@ record:
   theme_resolution: manual-backfill-review-v1
   title: Ghost mode for opting out of storing any kind of data on our servers
   type: change
+related_changes:
+- '[[Changes/Descript/2021-08-10-soc-2-type-ii-compliance|SOC 2 Type II Compliance]]'
+- '[[Changes/Notion/2022-02-08-can-edit-content-permission-level|Can Edit Content
+  permission level]]'
+- '[[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]'
 source_release: '[[Releases/Cursor/cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8|cursor-2023-04-16-0-2-4-https-cursor-com-changelog-0-2-4-1ed55ed8]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -70,13 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]]
+- Earlier: 2022-06-29 · Notion · [[Changes/Notion/2022-06-29-request-access-to-pages|Request access to pages]]
+- Later: 2023-04-27 · Notion · [[Changes/Notion/2023-04-27-2-step-verification-a-k-a-2fa-mfa|2-step verification (a.k.a]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

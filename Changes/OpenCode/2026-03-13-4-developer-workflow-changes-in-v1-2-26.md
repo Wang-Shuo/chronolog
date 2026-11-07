@@ -4,19 +4,20 @@ date: '2026-03-13'
 description: 'OpenCode · 2026-03-13 · Developer Workflow: 4 changes in v1.2.26 — Core
   Sessions lost after git init in existing project'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64fd035298e471271693d4c09c1eda9fc975b5dcfff00564f2bb92c7fd9cda27
+machine_hash: 246e5284e6bfcbf7d88773915a30409ac1e207f68b6ac3923f55a6f6c2e62ae1
 product: opencode
 product_name: OpenCode
 record:
@@ -100,7 +101,7 @@ Source: https://opencode.ai/changelog/v1.2.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

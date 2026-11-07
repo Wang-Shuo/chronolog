@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b5b473380f702afbb9f7f01fcdb3e3b160b66243d89d309042c0bd016d6eb0b
+machine_hash: 5d87d5f7161386db303edfcf70a53e8a186d079a891c25b5e093bb312fa22cae
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Agent Mode changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-03-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A
   run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]'
 - '[[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes
   in v1.9.0]]'
+- '[[Changes/Kimi Code/2026-08-05-run-the-cli-surfaces-interactive-tui-kimi-p-kimi-acp-kimi-export-kimi-provider-o|Run
+  the CLI surfaces…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0|3 Agent Mode changes in v1.9.0]]
+- Earlier: 2026-08-05 · Kimi Code · [[Changes/Kimi Code/2026-08-05-run-the-cli-surfaces-interactive-tui-kimi-p-kimi-acp-kimi-export-kimi-provider-o|Run the CLI surfaces…]]
 - Later: 2026-08-06 · Gemini CLI · [[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent): implement Antigravity agent runner and prompt templates …]]
 <!-- chronolog:end -->
 

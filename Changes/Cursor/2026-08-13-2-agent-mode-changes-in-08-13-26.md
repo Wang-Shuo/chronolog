@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27620dcbf16200e78dc38f23d01e884f8e20cefca87969b69a126ca21b4a12ea
+machine_hash: f491b5fbbe5e5746932925112a39f6652344c3e177132cde3bf1002cec57f2a0
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in 08.13.26
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
-  typing lag while the agent streams responses]]'
+- '[[Changes/Kimi Code/2026-08-12-show-the-live-work-progress-of-background-subagents-in-the-tasks-panel|Show
+  the live work progress of background subagents in the /tasks panel]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 - '[[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent
@@ -88,7 +88,7 @@ Source: https://cursor.com/changelog/08-13-26
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent forking is now on by default]]
-- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore: enforce typed @openhands/typescript-client for agent-server API calls…]]
+- Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent Mode changes in Kimi Code 0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

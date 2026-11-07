@@ -4,19 +4,20 @@ date: '2026-05-09'
 description: 'OpenCode · 2026-05-09 · Collaboration: Core Fixed HTTP API auth responses
   to match the previous wire format for empty authorize results and share errors.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1081
+  lag_days: 2675
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b20660eb36e995353dbf716d00818af714caf84f3157e85b786f419dd621161
+machine_hash: 40f653120946bf496c4aaf2489e4f79b4ceca1a45b9726ee0aea18ca7e7921b9
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +45,10 @@ record:
     empty…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
-  Reduce the surface of collaboration modes @pakrym-oai]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
+- '[[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share
+  avatar outfits and spaces]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
   changes in rust-v0.129.0]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-09-v1-14-44-6cb8a034|opencode-2026-05-09-v1-14-44-6cb8a034]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

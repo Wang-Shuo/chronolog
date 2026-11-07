@@ -4,20 +4,20 @@ date: '2025-07-24'
 description: 'Granola · 2025-07-24 · Meeting Notes: New for meeting notes: now you
   can tweak tone, change length or make precise edits, just by asking Granola.'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 290
+  lag_days: 1486
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb4bff13cf87b3d12b019ec1a33313b9129743a6df28723b15f5ec72d2bb24ec
+machine_hash: 0845f59765eb63649b88ff4cd2b2bf92e17dea5a1f60001f65c03a59e889cc4d
 product: granola
 product_name: Granola
 record:
@@ -45,8 +45,9 @@ record:
   title: New for meeting notes
   type: change
 related_changes:
-- '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-  in Granola: 29 meeting note templates, out of the box]]'
+- '[[Changes/Notion/2025-02-18-workflows-in-one-click|Workflows in one click]]'
+- '[[Changes/Notion/2025-05-13-leave-the-note-taking-to-us-with-ai-meeting-notes|Leave
+  the note-taking to us, with AI meeting notes]]'
 - '[[Changes/Granola/2025-07-14-team-folders-a-new-way-to-share-context-quickly-with-your-team-and-ask-questions|Team
   Folders: a new way to share context quickly with your team and ask questions…]]'
 source_release: '[[Releases/Granola/granola-2025-07-24-https-www-granola-ai-updates-edit-notes-just-by-asking-4ff5fa98|granola-2025-07-24-https-www-granola-ai-updates-edit-notes-just-by-asking-4ff5fa98]]'
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

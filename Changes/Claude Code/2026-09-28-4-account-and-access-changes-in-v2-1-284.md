@@ -5,20 +5,21 @@ description: 'Claude Code · 2026-09-28 · Account and Access: 4 changes in v2.1
   — Added certificate client authentication (`private_key_jwt`) between the Claude
   apps…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1278
+  lag_days: 2253
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2f3d86c2e4de95003c2f3f29e6b5b5919553e6320607bd6eb6c7aeffeba2622
+machine_hash: 3e3770200b0c867fd014c46d99c4b6cedad04ac45e9503679ab01e14bc522e3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +56,8 @@ record:
   title: 4 Account and Access changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account
-  and Access changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-network-proxy-added-support-for-http-https-proxy-urls-containing-a-username-and|Network
+  proxy: Added support for HTTP/HTTPS proxy URLs containing a username…]]'
 - '[[Changes/Codex CLI/2026-09-25-5-account-and-access-changes-in-rust-v0-157-0|5
   Account and Access changes in rust-v0.157.0]]'
 - '[[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added
@@ -118,7 +119,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Context Window: 2 changes in 1.0.71
   — Honor --context in fresh interactive sessions'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 2493
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d41ba0d3fcdde373a844bb6ac2618801b6375324ff9e72d9b8e1ac9f29ef8b50
+machine_hash: 71924776ac3e4fbd2525ca3a5c7aadc01f4abffb111848fd36f8838b485b9280
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,13 +98,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Context Window
 
 - Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop Aligned context token counts with usage totals]]
-- Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]
+- Later: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-2-context-window-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2 Context Window changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-08-21 · Reliability and Performance: 6 changes
   v0.6.23 — \U0001F4C8 **Database Performance Indexes and Migration Script**: Introduced
   new database…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 980
+  lag_days: 2467
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61e6787800ee349b542454f1dc90506c841ddb6cff66c0795d9edb9a64a2f610
+machine_hash: 358f40ccd91fa024dcd95cebadb56404d7d57807b42a01907edc5fc2af93097d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -81,11 +81,12 @@ record:
   title: 6 Reliability and Performance changes in v0.6.23
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-08-20-global-tts-api-preview|Global TTS API preview]]'
 - '[[Changes/Ollama/2025-08-20-2-reliability-and-performance-changes-in-v0-11-6|2
   Reliability and Performance changes in v0.11.6]]'
 - '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
   General stability improvements and bug fixes to enhance overall application…]]'
+- '[[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing
+  Templates—Your shortcut to professional videos with Underlord]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
 source_type: github_releases
 theme: reliability-performance
@@ -140,14 +141,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]]
+- Earlier: 2025-08-21 · Descript · [[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing Templates—Your shortcut to professional videos with Underlord]]
 - Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2 Reliability and Performance changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

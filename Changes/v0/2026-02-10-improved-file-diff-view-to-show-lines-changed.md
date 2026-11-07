@@ -4,20 +4,19 @@ date: '2026-02-10'
 description: 'v0 · 2026-02-10 · Editor Experience: Improved file diff view to show
   lines changed'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2f989d915ac517e36d93a30a8c050a308ee4dedf155134a841dd9911e218c4b
+machine_hash: 346eb889caa8a76c401fcd8b1da1e978f6cedcdbc9a8a16ae2a6c6fb0d41d035
 product: v0
 product_name: v0
 record:
@@ -43,8 +42,7 @@ record:
   title: Improved file diff view to show lines changed
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
-  project and chat names to editor explorer header]]'
+- '[[Changes/Descript/2026-02-10-editor|Editor]]'
 - '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
   Experience changes in v0.28.0]]'
 - '[[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience
@@ -85,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

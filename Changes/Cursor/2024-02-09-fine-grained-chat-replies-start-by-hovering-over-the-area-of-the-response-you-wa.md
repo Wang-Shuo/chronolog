@@ -4,20 +4,20 @@ date: '2024-02-09'
 description: 'Cursor · 2024-02-09 · Interface Experience: Fine-grained chat replies
   (start by hovering over the area of the response you want to reply to)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 396
+  lag_days: 1762
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eff2b833bb8b12266263b66d3ed7821fe6e88878d38deb57eac0b19c1f5b1589
+machine_hash: 03c221e6978718da21e82d9cbc84f0116962d59b48454ed42a64093a59acede3
 product: cursor
 product_name: Cursor
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]
-- Later: 2024-02-20 · Gemini · [[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive to Gemini Advanced: Edit and run Python code]]
+- Later: 2024-02-20 · Descript · [[Changes/Descript/2024-02-20-speaker-labeling-updates|Speaker Labeling Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-02-16'
 description: 'Open WebUI · 2026-02-16 · Image Generation: ⚙️ **Chat toggles now control
   built-in tools.** Users can now disable web search, image generation, and code…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 708
+  lag_days: 966
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 255796672f51fb33c487b4670c7a6f350427eede88bef91fbe91138284056f5f
+machine_hash: fbfb8cbbbeed4aa2ea2fca24a2783c9d63bcaf544217134377da8aa0e2e95fc4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,7 +64,8 @@ record:
     search…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
+- '[[Changes/HeyGen/2026-01-26-smarter-decision-making-small-requests-quick-clips-avatar-tweaks-image-generatio|Smarter
+  decision-making Small requests…]]'
 - '[[Changes/Ollama/2026-02-12-image-generation-models-will-now-respect-the-ollama-load-timeout-variable|Image
   generation models will now respect the OLLAMA_LOAD_TIMEOUT variable]]'
 - '[[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation
@@ -111,7 +112,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

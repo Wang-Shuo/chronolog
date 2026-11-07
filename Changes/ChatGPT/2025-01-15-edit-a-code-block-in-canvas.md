@@ -3,20 +3,20 @@ card_id: chatgpt-2025-01-15-f32a4e
 date: '2025-01-15'
 description: 'ChatGPT · 2025-01-15 · Files and Data: Edit a code block in Canvas'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 601
+  lag_days: 1946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dc3bbf60090a379465d474e87634f09034077b43676409ff2142b8157192b14
+machine_hash: a51ecdcd52d6a2b4784672d576163502cbc2748449dcdc0ffe2231ea4e186984
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,7 +39,8 @@ record:
   title: Edit a code block in Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
+- '[[Changes/Descript/2024-12-13-we-ve-added-a-new-layer-type-in-the-elements-panel-called-placeholder-https-help|Descript
+  adds a new layer type in the Elements panel called…]]'
 - '[[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes
   in 0.15.0]]'
 - '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

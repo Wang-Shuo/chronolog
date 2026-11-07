@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-11-03 · Meeting Notes: Retrying a meeting transc
   from Summary or Transcript now restores all available pages. Capture settings return
   you…'
 diffusion:
-  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
-    in Granola: 29 meeting note templates, out of the box]]'
+  first_in_tracked: '[[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed
+    Sketch designs, Excalidraw drawings & Framer prototypes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 757
+  lag_days: 1953
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: meeting-notes
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da3bf69b369cfc38a07a3f04a4ff45363e4e96b642c8f14f97955bcb445ac8ca
+machine_hash: b8fdb918b9c26edd754a38fd9ea3dcd99af042713aedbfc1deab6a5d6ce8fdaf
 product: openclaw
 product_name: OpenClaw
 record:
@@ -47,12 +47,12 @@ record:
     available pages
   type: change
 related_changes:
-- '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
-  Crunched]]'
-- '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
-  Granola MCP]]'
-- '[[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New:
-  Briefs prepare you for your next meeting as you join]]'
+- '[[Changes/Notion/2026-07-01-and-there-s-a-lot-more-ai-meeting-notes-now-include-speaker-labels-a-top-request|And
+  there’s a lot more]]'
+- '[[Changes/Notion/2026-07-01-smarter-meeting-summaries-with-speaker-labels|Smarter
+  meeting summaries with speaker labels]]'
+- '[[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced
+  databases]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|openclaw-2026-11-03-v2026-10-10-c26ff355]]'
 source_type: openclaw_changelog
 theme: meeting-notes
@@ -103,13 +103,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Meeting Notes
 
-- Earlier: 2026-05-20 · Granola · [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New: Briefs prepare you for your next meeting as you join]]
+- Earlier: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-reintroducing-synced-databases|Reintroducing synced databases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+- Earliest same-theme entry in the tracked set: 2021-06-29 · Notion · [[Changes/Notion/2021-06-29-embed-sketch-designs-excalidraw-drawings-framer-prototypes|Embed Sketch designs, Excalidraw drawings & Framer prototypes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

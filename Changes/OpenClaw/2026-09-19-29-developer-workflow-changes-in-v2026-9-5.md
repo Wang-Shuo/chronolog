@@ -4,19 +4,20 @@ date: '2026-09-19'
 description: 'OpenClaw · 2026-09-19 · Developer Workflow: 29 changes in v2026.9.5
   — The installer can reuse your compatible Node and nvm setup without replacing system…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2930
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04917e4c55f06bf3cdc64e36e27b007b5ad4713248ffc53e247950cdc3a95f69
+machine_hash: a04d13b3556bf38c889412be7be5e07b825ab66c4d4681c66fca062a08ee74d0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -194,12 +195,12 @@ record:
   title: 29 Developer Workflow changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
-  status row now says it is waiting for background shells, instead…]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
 - '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
   command that is killed when the app restarts is now reported as canceled instead…]]'
+- '[[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree:
+  Improved starting-point list loading and creation preparation…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: developer-workflow
@@ -312,14 +313,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A command that is killed when the app restarts is now reported as canceled instead…]]
+- Earlier: 2026-09-18 · Qoder · [[Changes/Qoder/2026-09-18-worktree-improved-starting-point-list-loading-and-creation-preparation-for-large|Worktree: Improved starting-point list loading and creation preparation…]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

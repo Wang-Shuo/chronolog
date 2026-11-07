@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-02-23 · Editor Experience: 2 changes in v0.8.4
   **Notes list payload optimization.** Notes list and search endpoints now return
   only a…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1077
+  lag_days: 2661
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddd44b791dae3be773977e31514759a471530c3642c5465d1ba5ed5d066f2a94
+machine_hash: 68b1d43d273696b5083c853127f0f70ac70de7b6f4feddcb5178df1d296b2e7b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

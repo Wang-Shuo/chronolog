@@ -5,20 +5,21 @@ description: 'Lovable · 2026-07-15 · Account and Access: When someone signs in
   your Lovable account from both a device and a country that have not been seen on
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1203
+  lag_days: 2178
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1927b7139733d1b083c3bd05801a4ab697d616e76d533cffbabe3e5ab1ce4877
+machine_hash: cbea1cdd15148868e067f9b8217af99dd5e5fe3f2007b426bcac4d2f6a647e41
 product: lovable
 product_name: Lovable
 record:
@@ -55,12 +56,12 @@ record:
   title: Email alerts for sign-ins from a new device and country
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign
-  in to Lovable from your identity provider''s portal]]'
 - '[[Changes/OpenClaw/2026-07-13-69-account-and-access-changes-in-v2026-7-1|69 Account
   and Access changes in v2026.7.1]]'
 - '[[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core
   Added OAuth support for Luna Responses Lite]]'
+- '[[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show
+  the provider''s actual rejection message instead of a misleading re-login prompt…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'
 source_type: lovable_changelog
 theme: account-access
@@ -94,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core Added OAuth support for Luna Responses Lite]]
+- Earlier: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-show-the-provider-s-actual-rejection-message-instead-of-a-misleading-re-login-pr|Show the provider's actual rejection message instead of a misleading re-login prompt…]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

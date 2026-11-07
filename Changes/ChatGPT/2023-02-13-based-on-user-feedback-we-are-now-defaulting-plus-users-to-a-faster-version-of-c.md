@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-02-13 · Reliability and Performance: Based on use
   we are now defaulting Plus users to a faster version of ChatGPT, formerly known
   as…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 60
+  lag_days: 1547
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ec024007e77b9c5237d6e3ce2d6af191685ed0cff3ad441a0765e5542afb855
+machine_hash: 921db2585b1410f3f610cb003efbaffd6cd65c5c160493b0670ff34048d82c1b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,10 @@ record:
   title: Based on user feedback, we are now defaulting Plus users to a faster version…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-  performance: Among other improvements, users will notice that ChatGPT is now…]]'
+- '[[Changes/Descript/2023-01-23-unmodified-quick-recordings-published-to-a-web-link-are-now-processed-and-ready|Unmodified
+  quick recordings published to a web link are now processed and ready…]]'
+- '[[Changes/Descript/2023-02-06-drive-view-load-time-is-now-6x-faster-in-the-app-and-12x-faster-on-the-web|Drive
+  View load time is now 6x faster in the app and 12x faster on the web]]'
 - '[[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for
   speed (alpha)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3|chatgpt-2023-02-13-updates-to-chatgpt-0d776ee3]]'
@@ -79,13 +81,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
-- Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
+- Later: 2023-02-21 · Descript · [[Changes/Descript/2023-02-21-big-projects-load-quicker-we-ve-significantly-improved-the-loading-times-for-lar|Big projects load quicker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'GitHub Copilot CLI · 2026-07-20 · Developer Workflow: 8 changes 
   — Command approvals no longer carry over to another repository after you switch
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1220
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7ab7355754b0d0f03458784da86973eddd7158a14e4390c88e2aa3a68304496
+machine_hash: d65a3715a1f0bdb6fcdc6482af0ebb0890bdad5858c701c9577847e408dc24b7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -69,8 +70,8 @@ record:
   title: 8 Developer Workflow changes in v1.0.72
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow
-  changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-add-the-copy-slash-command-to-copy-the-last-assistant-message-to-the-clipboard|Add
+  the /copy slash command to copy the last assistant message to the clipboard]]'
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
   no longer runs the /verify and /code-review skills on its own]]'
 - '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
@@ -127,13 +128,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]]
-- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync the embedded terminal theme with the app theme]]
+- Later: 2026-07-20 · Kimi Code · [[Changes/Kimi Code/2026-07-20-2-developer-workflow-changes-in-kimi-code-0-28-0|2 Developer Workflow changes in Kimi Code 0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

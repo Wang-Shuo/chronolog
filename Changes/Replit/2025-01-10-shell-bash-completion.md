@@ -4,20 +4,19 @@ date: '2025-01-10'
 description: 'Replit · 2025-01-10 · Editor Experience: Shell now has autocomplete!
   Hit tab twice to autocomplete a command.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 668
+  lag_days: 2252
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a67226962fa7dd968810306c1740c4eb285c2404dae15ad7efc9f2ec918239a9
+machine_hash: 595702b820c94d02d21c1a8c87e715347213efa80417d06667692c6cf166b330
 product: replit
 product_name: Replit
 record:
@@ -41,10 +40,10 @@ record:
   title: Shell bash completion
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare
-  lets you see a diff overview between the snapshot and the current state…]]'
-- '[[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit
-  with Lovable” Badge enabled for all users]]'
+- '[[Changes/Descript/2025-01-07-batch-exports-now-available-for-translations|Batch
+  exports now available for Translations]]'
+- '[[Changes/Descript/2025-01-07-with-our-first-update-back-from-the-holidays-we-re-adding-a-new-way-to-export-yo|With
+  our first update back from the holidays, we’re adding a new way to export…]]'
 - '[[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience
   changes in 0.15.0]]'
 source_release: '[[Releases/Replit/replit-2025-01-10-2025-01-10-f947321a|replit-2025-01-10-2025-01-10-f947321a]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

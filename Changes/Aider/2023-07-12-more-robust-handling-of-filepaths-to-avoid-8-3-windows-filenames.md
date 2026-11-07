@@ -4,20 +4,20 @@ date: '2023-07-12'
 description: 'Aider · 2023-07-12 · Reliability and Performance: More robust handling
   of filepaths, to avoid 8.3 windows filenames'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 209
+  lag_days: 1696
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 805f260ed68aab900b1e1145aeccd68aed2ae1eb99a90b6beac6836829c6ff80
+machine_hash: 8c753682defde6bca6d358dc1fa3c9ffdf66ad805b1390215327e792e97b9ca0
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: More robust handling of filepaths, to avoid 8.3 windows filenames
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
-  robust handling of filepaths, to avoid 8.3 windows filenames]]'
 - '[[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames-db5eb1|More
   robust handling of filepaths, to avoid 8.3 windows filenames]]'
+- '[[Changes/Descript/2023-07-10-updated-shortcut-modifier-for-playback-speed-changes|Updated
+  shortcut modifier for playback speed changes]]'
 - '[[Changes/Ollama/2023-07-11-much-faster-performance|Much faster performance]]'
 source_release: '[[Releases/Aider/aider-2023-07-12-v0-8-3-github-111880787-1670b688|aider-2023-07-12-v0-8-3-github-111880787-1670b688]]'
 source_type: github_releases
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

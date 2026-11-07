@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'ChatGPT · 2026-07-08 · Voice and Audio: We’re rolling out a new ChatGPT
   Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1094
+  lag_days: 2921
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b2eddb1f4c3abfdae962fc19862b5291b6a1fc82a887ac9d9e03c29004b81826
+machine_hash: 4df873909d5ba2db5155688e5b00a17f09195ebab0d6b61e7599c97bfa083ee8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,8 +89,8 @@ record:
   title: Introducing GPT-Live-1 in ChatGPT Voice
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-speech-to-text-request-format-openai-compatible-speech-to-text-can-now-send-audi|\U0001F399️
-  Speech-to-text request format. OpenAI-compatible speech-to-text can now send…]]"
+- '[[Changes/Kimi Code/2026-07-02-group-consecutive-tool-calls-into-a-collapsible-stack-with-per-tool-renderers-in|Group
+  consecutive tool calls into a collapsible stack with per-tool renderers…]]'
 - '[[Changes/ElevenLabs/2026-07-06-music|Music]]'
 - '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91|chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91]]'
@@ -120,13 +120,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]
-- Later: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
+- Later: 2026-07-09 · Synthesia · [[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore the new Voices page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

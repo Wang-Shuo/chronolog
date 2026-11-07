@@ -4,20 +4,20 @@ date: '2026-08-20'
 description: 'Google Antigravity · 2026-08-20 · Interface Experience: Added the ability
   to collapse top-level sidebar sections. The ungrouped list now shows up to 30…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1319
+  lag_days: 2685
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e3b72fa3b97ac5ab5d438cbce22c0b6b8dce8589df4c15b54d4ba5092bf383b
+machine_hash: dfb106f47bd074b7e526740e0f5011432aa8e4c66431a44fa1ba89b435fd2c9c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -45,8 +45,8 @@ record:
   title: Added the ability to collapse top-level sidebar sections
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
-  the /model picker to highlight only the newest model''s name…]]'
+- '[[Changes/Kimi Code/2026-08-19-web-settings-gains-a-lab-tab-with-a-new-multi-tab-sidebar-toggle-when-enabled-th|web:
+  Settings gains a Lab tab with a new multi-tab sidebar toggle]]'
 - '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
   Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
 - '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]]
+- Later: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-web-add-a-pin-action-to-the-chat-header-more-menu|web: Add a Pin action to the chat header more-menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

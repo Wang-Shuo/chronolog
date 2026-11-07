@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 275079961fcbc10557963c96d01477840e58fe6a06d5e92c28c789c868f4e5dd
+machine_hash: 2e35d00b98dac118fece4b4eac276a5f671b46e125e8559b9296d078e3870eef
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9 Agent Mode changes in ElevenLabs updates — 2026-10-26]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
+- Later: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-stop-showing-a-failed-swarm-for-agentswarm-calls-rejected-before-any-subagent-st|Stop showing a failed swarm for AgentSwarm calls rejected before any subagent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

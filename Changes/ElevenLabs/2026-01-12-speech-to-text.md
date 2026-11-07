@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2026-01-12 · Voice and Audio: **Entity detection**:
   `entity_detection` option to Speech-to-Text requests. Accepts `''all''`, specific
   entity…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 917
+  lag_days: 2744
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a53806227646239574410794b7bbe0d6d6d8e79b68a7c412ea4b2668b8eed628
+machine_hash: 84d1d4f0426300e057c9f5999a2e6a614f6361cdecebf440e87ccc9603c1268d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-01-12 · ChatGPT · [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation Updates]]
-- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-speech-to-text-has-been-upgraded-to-use-the-new-elevenlabs-transcription-model-s|Speech-to-text has been upgraded to use the new ElevenLabs transcription model…]]
+- Later: 2026-01-13 · Synthesia · [[Changes/Synthesia/2026-01-13-long-awaited-updates-you-can-now-regenerate-speech-and-control-voice-speed|Long-awaited updates: you can now regenerate speech and control voice speed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

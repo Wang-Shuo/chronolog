@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-04-16 · Developer Workflow: Added `/ultrarevi
   for running comprehensive code review in the cloud using parallel multi-agent analysis
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0e9929fe0baa83267194d0e940e979df28b8f6b5d1ac7c54802a0072e0677dcc
+machine_hash: 56487cf3ef53eb3b3bae8d8fbd76b146f52b6832db35e1ef8ee8c07e3afd01c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -103,13 +104,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
-- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal state correctly restored after a crash exit on Windows]]
+- Later: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-descript-api-in-open-beta|Descript API in open beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

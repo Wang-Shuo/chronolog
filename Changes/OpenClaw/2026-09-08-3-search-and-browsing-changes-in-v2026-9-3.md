@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'OpenClaw · 2026-09-08 · Search and Browsing: 3 changes in v2026.9.3
   — Folder browsing filters as you type and supports keyboard completion. Availability-aware…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1265
+  lag_days: 2294
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f3936cfe56a0dfdc9cf1bbd1d4086c1ef7a73ec8b76c737d6794d5cff6ee197
+machine_hash: a86dee5d04c24e5c5460e405d8cbb07a68bd069bbe768c5facec5ddf3d5a1be6
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,10 +51,10 @@ record:
   title: 3 Search and Browsing changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-01-importing-or-returning-to-a-large-retained-history-also-requires-less-local-work|Importing
-  or returning to a large retained history also requires less local work…]]'
 - '[[Changes/OpenClaw/2026-09-03-2-search-and-browsing-changes-in-v2026-9-1|2 Search
   and Browsing changes in v2026.9.1]]'
+- '[[Changes/HeyGen/2026-09-04-build-your-own-custom-look-pack|Build your own custom
+  Look Pack]]'
 - '[[Changes/OpenClaw/2026-09-05-4-search-and-browsing-changes-in-v2026-9-2|4 Search
   and Browsing changes in v2026.9.2]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
@@ -118,7 +118,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

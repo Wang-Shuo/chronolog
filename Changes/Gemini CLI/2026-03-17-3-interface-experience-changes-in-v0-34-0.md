@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Interface Experience: 3 changes in Release
   v0.34.0 — feat(ui): dynamically generate all keybinding hints by @scidomino in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2529
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6cad40b150f37da870ad081736a13e296dcda939fc00dd6d62d7b9e064eea971
+machine_hash: 6d6c76f84fd88959305bd1c7ef0411c36d3c46d6aeb53853f73c161c42097158
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Interface Experience changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
-  now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
-- '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
-  Experience changes in v2.1.78]]'
+- '[[Changes/Descript/2026-03-17-translation-and-regenerate|Translation and regenerate]]'
+- '[[Changes/Descript/2026-03-17-the-redesigned-color-adjustments-settings-are-now-in-the-properties-panel-instea|The
+  redesigned Color adjustments settings are now in the Properties panel instead…]]'
 - '[[Changes/Dify/2026-03-17-7-interface-experience-changes-in-1-13-1|7 Interface
   Experience changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
@@ -106,7 +105,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

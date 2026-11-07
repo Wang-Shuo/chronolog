@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-08 · Mobile and Desktop: 4 changes in 0.138.
   The `/app` command can now hand off the current CLI thread into Codex Desktop on
   macOS and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 586209849dec745b81ae552322cfb09573a584ebab1cb83aa239358e9e9a56c2
+machine_hash: d9589dbfc90b41d8ad506d6eb02ddb67da46868a2a864acda71a97ef5f435aa9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,13 +101,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-detect-git-bash-installed-through-scoop-and-other-git-shims-on-windows|Detect Git Bash installed through Scoop and other Git shims on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

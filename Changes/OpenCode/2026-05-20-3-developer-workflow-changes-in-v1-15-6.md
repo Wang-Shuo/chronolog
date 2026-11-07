@@ -4,19 +4,20 @@ date: '2026-05-20'
 description: 'OpenCode · 2026-05-20 · Developer Workflow: 3 changes in v1.15.6 — Core
   Added shell mode to the run prompt.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1159
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65f338d21c0cdae8d17f6075986212276f713aa2c5cf0c8df001c3949ae0742e
+machine_hash: 359203507279e9a06ddb39744689ef105879ccbe9a3efb0af6e05567ecd4320b
 product: opencode
 product_name: OpenCode
 record:
@@ -101,7 +102,7 @@ Source: https://opencode.ai/changelog/v1.15.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

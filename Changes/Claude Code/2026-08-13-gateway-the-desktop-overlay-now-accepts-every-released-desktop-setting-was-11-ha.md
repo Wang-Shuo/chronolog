@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Mobile and Desktop: Gateway: the `desktop:`
   overlay now accepts every released Desktop setting (was 11 hand-listed keys), validated…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d275dfb063764ef1561c2eed93bf29373226b9b78a7541c7ed8ae1f22902c44f
+machine_hash: 3ca06cc0bc82de1c5080e27256ffa48068f65b0cd7a83b305f45766ecc10b065
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,8 @@ record:
   title: 'Gateway: the `desktop:` overlay now accepts every released Desktop setting…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-outlook-prepare-for-meetings-with-copilot-in-classic-outlook-for-windows-windows|Outlook:
+  Prepare for meetings with Copilot in classic Outlook for Windows…]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
 - '[[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

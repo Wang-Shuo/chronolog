@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a114e71fac06eef51f52097c38a686f393afd112677615b98cccb669b1e6edf5
+machine_hash: 676692ffc082ed0ec8ac7d687a6737939d5132f644d31ce2e34d7e5b1981c49c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core
-  Improve shell command handling for Bash, PowerShell, and cmd sessions]]'
-- '[[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core):
-  enhance shell command validation and add core tools allowlist]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add
-  experimental MCP Tasks support]]'
+- '[[Changes/Notion/2026-05-05-set-guardrails-before-custom-agents-run|Set guardrails
+  before Custom Agents run]]'
+- '[[Changes/Notion/2026-05-05-two-months-ago-we-launched-custom-agents-in-beta-since-then-teams-have-created-m|Two
+  months ago, we launched Custom Agents in beta]]'
+- '[[Changes/Notion/2026-05-05-scale-agents-with-built-in-guardrails|Scale agents
+  with built-in guardrails]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7|github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add experimental MCP Tasks support]]
-- Later: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-improved-reliability-of-devin-local-agent|Improved reliability of Devin Local agent]]
+- Earlier: 2026-05-05 · Notion · [[Changes/Notion/2026-05-05-scale-agents-with-built-in-guardrails|Scale agents with built-in guardrails]]
+- Later: 2026-05-06 · Notion · [[Changes/Notion/2026-05-06-custom-agents-now-have-a-dedicated-place-in-your-library-use-the-custom-agent-di|Custom Agents now have a dedicated place in your Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

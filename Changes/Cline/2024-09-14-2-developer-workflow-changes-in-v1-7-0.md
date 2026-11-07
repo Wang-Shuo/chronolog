@@ -5,19 +5,20 @@ description: "Cline · 2024-09-14 · Developer Workflow: 2 changes in v1.7.0 —
   Dev can now monitor your workspace for linter, compiler, and build issues as he
   works \U0001F680…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 546
+  lag_days: 2195
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e0ddf9445238152a71e021553703c33aeb4847002682256c402cdf067431774
+machine_hash: 382c83276dfd54ad4f1962d6459e5a971d98e255429d9f6c67217b48ad09508f
 product: cline
 product_name: Cline
 record:
@@ -94,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v1.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

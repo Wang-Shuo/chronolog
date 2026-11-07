@@ -4,20 +4,20 @@ date: '2025-09-22'
 description: 'Dify · 2025-09-22 · Automation and Scheduling: 5 changes in 1.9.0 –
   Orchestrating Knowledge, Powering Workflows — The Knowledge Pipeline is a **visual…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 629
+  lag_days: 2196
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f8a07522ffcd3775177957793f2c494cf8afe262db0e9e93c2cc0b0eb0f288a
+machine_hash: 152b8d28b92910b0ed7c06a2d0567df65a321a84325208bf2e731666a527509b
 product: dify
 product_name: Dify
 record:
@@ -60,10 +60,11 @@ record:
   title: 5 Automation and Scheduling changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]'
 - '[[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma
   API: Automate your creative workflow (Beta)]]'
+- '[[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write
+  your formulas]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -113,14 +114,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write your formulas]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3 Automation and Scheduling changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

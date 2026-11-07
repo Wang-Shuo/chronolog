@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 78c6ebc6bcc7c4b8b5d6f240fe00047a39b7af357272a0a1f21e35e6da0a063a
+machine_hash: 36b23dc44a04ca147b6c6fdd0a54580ba64fb5239d7b44afccfa3ee7433d1e36
 product: runway
 product_name: Runway
 record:
@@ -44,12 +44,12 @@ record:
   title: Runway Agent Skills
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-32-agent-mode-changes-in-v2026-6-11|32 Agent Mode
-  changes in v2026.6.11]]'
-- '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
-  changes in v2.1.198]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
-  Mode changes in v1.0.68]]'
+- '[[Changes/Notion/2026-07-01-track-custom-agent-actions-in-the-audit-log|Track Custom
+  Agent actions in the audit log]]'
+- '[[Changes/Notion/2026-07-01-orchestrate-external-agents-claude-cursor-and-more-soon|Orchestrate
+  External Agents (Claude, Cursor, and more soon)]]'
+- '[[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use
+  Outlook for you]]'
 source_release: '[[Releases/Runway/runway-2026-07-02-2026-07-02-runway-agent-skills-6d83a438|runway-2026-07-02-2026-07-02-runway-agent-skills-6d83a438]]'
 source_type: runway_changelog
 theme: agent-mode
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent Mode changes in v1.0.68]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
+- Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-your-agent-can-use-outlook-for-you|Your agent can use Outlook for you]]
+- Later: 2026-07-03 · Kimi Code · [[Changes/Kimi Code/2026-07-03-2-agent-mode-changes-in-kimi-code-0-22-2|2 Agent Mode changes in Kimi Code 0.22.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

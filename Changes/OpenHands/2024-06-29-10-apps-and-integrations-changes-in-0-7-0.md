@@ -4,20 +4,20 @@ date: '2024-06-29'
 description: 'OpenHands · 2024-06-29 · Apps and Integrations: 10 changes in 0.7.0
   — BioCoder integration by @tangxiangru in https://github.com/OpenDevin/OpenDevin/pull/2076'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 464
+  lag_days: 2024
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37173dbc0985d046af091fe76641a133f5ce2073b91f93873515037264e1def0
+machine_hash: 8af5c1cf941b92c5cdbdca031573d61e54553799f68a043aa7aaff370f2a459d
 product: openhands
 product_name: OpenHands
 record:
@@ -66,8 +66,8 @@ record:
   title: 10 Apps and Integrations changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-chore-add-some-new-api-version-for-azure-openai-by-leslie2046-in-https-github-co|chore:add
-  some new api version for azure openai]]'
+- '[[Changes/Notion/2024-06-18-instant-answers-from-slack-google-drive-salesforce-jira-and-more|Instant
+  answers from Slack, Google Drive, Salesforce, Jira, and more]]'
 - '[[Changes/Open WebUI/2024-06-27-functions-feature-you-can-now-utilize-functions-like-filters-middleware-and-pipe|✨
   "Functions" Feature]]'
 - '[[Changes/Dify/2024-06-28-tracing-with-langsmith-and-langfuse-now-you-can-trace-your-apps-traffic-with-lan|Tracing
@@ -136,7 +136,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

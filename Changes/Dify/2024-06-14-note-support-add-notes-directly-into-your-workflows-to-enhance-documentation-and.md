@@ -4,19 +4,20 @@ date: '2024-06-14'
 description: 'Dify · 2024-06-14 · Collaboration: **Note Support**: Add notes directly
   into your workflows to enhance documentation and readability when editing or reviewing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 387
+  lag_days: 1981
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc5957cf8dbd14b37fb592d351ae5c6b7c301e5474f843cab04e742752d165cf
+machine_hash: 11f2d6746c6ab4f711f1cd29a34269da8772323e46907e3e44d00e53b82db4a5
 product: dify
 product_name: Dify
 record:
@@ -46,10 +47,9 @@ record:
   title: '**Note Support**: Add notes directly into your workflows to enhance documentation…'
   type: change
 related_changes:
-- '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
-  as always, for your support]]'
 - '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration
   changes in v0.2.0]]'
+- '[[Changes/Descript/2024-06-04-publish-to-google-drive|Publish to Google Drive]]'
 - '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
   changes in 0.6.1]]'
 source_release: '[[Releases/Dify/dify-2024-06-14-0-6-11-github-160555165-620e243a|dify-2024-06-14-0-6-11-github-160555165-620e243a]]'
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
-- Later: 2024-06-27 · Ollama · [[Changes/Ollama/2024-06-27-a-special-thank-you-to-the-google-cloud-and-deepmind-team-members-for-gemma-2-su|A special thank you to the Google Cloud and DeepMind team members for Gemma 2 support]]
+- Later: 2024-06-26 · Notion · [[Changes/Notion/2024-06-26-the-evolution-of-the-plus-plan|The evolution of the Plus plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

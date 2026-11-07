@@ -4,19 +4,20 @@ date: '2026-06-23'
 description: 'Windsurf · 2026-06-23 · Developer Workflow: On Windows, `bash` now resolves
   to Git Bash instead of the WSL launcher stub.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1193
+  lag_days: 2842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4122a0c08af02eb5d5e4af4f1ff2c6e4930040b89981ba2c69ed68bac3b5694f
+machine_hash: b63cea60af8532f55775331764743c63d69f6a6340fceae506b7f12738d4fbf8
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,12 +52,12 @@ record:
   title: CLI and Devin Local
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed
-  /review pr to use the same review engine as /code-review medium]]'
-- '[[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4
-  Developer Workflow changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-use-the-add-dir-command-to-add-extra-working-directories-to-the-current-session|Use
+  the /add-dir  command to add extra working directories to the current session…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15
   Developer Workflow changes in v1.0.64]]'
+- '[[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate
+  web client localStorage access and split the root state store and app…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-23-v3-3-18-b3edad75|windsurf-2026-06-23-v3-3-18-b3edad75]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15 Developer Workflow changes in v1.0.64]]
+- Earlier: 2026-06-23 · Kimi Code · [[Changes/Kimi Code/2026-06-23-consolidate-web-client-localstorage-access-and-split-the-root-state-store-and-ap|Consolidate web client localStorage access and split the root state store and app…]]
 - Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove syntax highlighting from shell commands in the timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

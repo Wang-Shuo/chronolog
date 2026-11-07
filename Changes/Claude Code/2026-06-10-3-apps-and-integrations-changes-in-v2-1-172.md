@@ -4,20 +4,20 @@ date: '2026-06-10'
 description: 'Claude Code · 2026-06-10 · Apps and Integrations: 3 changes in v2.1.172
   — Amazon Bedrock now reads the AWS region from `~/.aws` config files when `AWS_REGION`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2735
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50c1a340acf349d8c009ec86b115ce90455e692db1b498739bec3f81c56aa53e
+machine_hash: 9ea2ed19c695825ff6e8710c9eb9bcdf6dfc4d58b57f2d7f2a944ea16744bf64
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4 Apps and Integrations changes in v1.0.61]]
-- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-7-apps-and-integrations-changes-in-v1-17-0|7 Apps and Integrations changes in v1.17.0]]
+- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-add-an-interrupt-hook-event-that-fires-when-the-user-interrupts-a-turn-e-g-press|Add an Interrupt hook event that fires when the user interrupts a turn…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

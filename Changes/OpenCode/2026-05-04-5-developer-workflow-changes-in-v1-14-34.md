@@ -4,19 +4,20 @@ date: '2026-05-04'
 description: 'OpenCode · 2026-05-04 · Developer Workflow: 5 changes in v1.14.34 —
   Terminal Add debug info to print environment and diagnostic details.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1143
+  lag_days: 2792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8cc040a6c5113af3bd73870329d800e09d6d74d042663147882f9ce601038e3a
+machine_hash: d94a34f0a2d92c3af120dcf620c0cec43a91a235aeed944254fb41cf87ef4435
 product: opencode
 product_name: OpenCode
 record:
@@ -105,7 +106,7 @@ Source: https://opencode.ai/changelog/v1.14.34
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

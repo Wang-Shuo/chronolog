@@ -4,20 +4,19 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Editor Experience: 2 changes in 0.167.0 — #58166
   Make rollout recording failures and completion explicit @cassirer-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1333
+  lag_days: 2917
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e98d40ac3876470d5de33f97deb3c9786301d3df0a205f0ca438b24fd0f91e0
+machine_hash: 3e8dc81639d8d5eec7c23a53acd0b501c6ae54aed9abe825e380949257c48085
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +42,8 @@ record:
   title: 2 Editor Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli):
-  bridge the IDE companion into container sandboxes over exec stdio]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-navigate-to-your-workbook-changes-directly-from-the-copilot-chat-pane-response-w|Navigate
+  to your workbook changes directly from the Copilot chat pane response…]]'
 - '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
   prompt-cache misses across completion, heartbeat and background turns…]]'
 - '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
@@ -94,13 +93,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-57-editor-experience-changes-in-v1-0-106|57 Editor Experience changes in v1.0.106]]
+- Later: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-script-text-no-longer-shakes-up-and-down-while-you-edit|Script text no longer shakes up and down while you edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

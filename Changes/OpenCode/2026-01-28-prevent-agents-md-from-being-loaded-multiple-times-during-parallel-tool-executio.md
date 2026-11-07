@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b4b8dda6d95fbae6a143fc4ee056add426ebf750cb80aa63bb015c12f65144d6
+machine_hash: ba057d495e1f5874da37985a22895c199458c6c033f15fab5bc270b36cc6da83
 product: opencode
 product_name: OpenCode
 record:
@@ -42,8 +42,8 @@ record:
   title: Prevent AGENTS.md from being loaded multiple times during parallel tool execution
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396|3 Agent
-  Mode changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-generate-icons-using-ai-in-agent-builder-windows-web-microsoft-365-copilot-exten|Generate
+  icons using AI in Agent Builder Windows…]]'
 - '[[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes
   in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add

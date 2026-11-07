@@ -5,20 +5,19 @@ description: "Open WebUI · 2026-03-25 · Editor Experience: 4 changes in v0.8.1
   \U0001F4CC **Knowledge file previews.** Knowledge base files can now be opened in
   a new tab directly…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66ee37dd782691bc90fca82f1a87947dba9151701dd5bf93dbb88e3d57add0a3
+machine_hash: 46bb62ee17b92844f5b3f6aef727c262891fbca68ddc607b536d1a735b9c679c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,10 +55,10 @@ record:
   title: 4 Editor Experience changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed
-  command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]'
 - '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
   Experience changes in v2.1.83]]'
+- '[[Changes/HeyGen/2026-03-25-members-tab-added-member-search-active-pending-member-filtering-and-the-ability|Members
+  tab: Added member search, active/pending member filtering, and the ability…]]'
 - '[[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft
   Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
@@ -120,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

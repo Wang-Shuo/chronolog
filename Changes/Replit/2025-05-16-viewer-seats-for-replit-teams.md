@@ -5,19 +5,20 @@ description: 'Replit · 2025-05-16 · Collaboration: Introducing Viewer Seats fo
   Teams. Share your applications with stakeholders who only view and interact with
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 723
+  lag_days: 2317
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bbab2d0c0e537c797ccc9f1f71886267acb06eb9e0c1cbe97ded59a72f3df84a
+machine_hash: 862d0964ce755be4e39d25e274ab44b1f8c8f3742e872c0c98fc7dbd889b8afb
 product: replit
 product_name: Replit
 record:
@@ -47,8 +48,8 @@ record:
   title: Viewer seats for Replit Teams
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project
-  visibility settings have returned to team workspaces, but will be disabled for now]]'
+- '[[Changes/Notion/2025-05-13-research-mode-drafts-detailed-docs-in-minutes|Research
+  mode drafts detailed docs in minutes]]'
 - '[[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola
   2.0: A second brain for your team]]'
 - '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

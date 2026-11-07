@@ -4,20 +4,20 @@ date: '2025-10-30'
 description: 'v0 · 2025-10-30 · Interface Experience: We redesigned the chat sidebar
   with better organization, faster navigation, and a cleaner interface.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1025
+  lag_days: 2391
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ba8d1d134b3ddf4395733afe3dca824180ffe5a5c1322dbf05a3e707c8d56918
+machine_hash: e770471cd4915a77525a315a1490949836e6cc01c7243ec23c586a961e9bc66d
 product: v0
 product_name: v0
 record:
@@ -55,7 +55,8 @@ record:
   title: Redesigned Chat Sidebar
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
+- '[[Changes/Descript/2025-10-28-drag-and-drop-now-works-from-brand-studio-and-editor-sidebar|Drag
+  and drop now works from Brand Studio and Editor sidebar]]'
 - '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
   text parsing for chat rendering]]'
 - '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

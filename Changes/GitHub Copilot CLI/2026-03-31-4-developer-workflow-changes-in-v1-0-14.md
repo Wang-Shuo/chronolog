@@ -4,19 +4,20 @@ date: '2026-03-31'
 description: 'GitHub Copilot CLI · 2026-03-31 · Developer Workflow: 4 changes in 1.0.14
   — Terminal output no longer clears or jumps on error exit'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1109
+  lag_days: 2758
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d141bab300c3cd647a964d4b18f7556636b60ac3dd4b52be62a6ee22125b3063
+machine_hash: d7d2ed4bad53f1acaddd0257afbd6403bb2074bf9bf1969794865c4d8c61e6c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

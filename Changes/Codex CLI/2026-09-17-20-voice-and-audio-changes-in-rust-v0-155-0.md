@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-09-17 · Voice and Audio: 20 changes in 0.155.0 
   experimental `/voice` conversations with live transcripts and microphone controls
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1165
+  lag_days: 2992
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf902af369981971021b4517159f9e3347032780399e4c2e8fff76166ec3976f
+machine_hash: 6d424693a1ee2c80cb67d0a9d36f477ae086704cdaea3118d2f558e9829f9a53
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,9 +86,10 @@ record:
   title: 20 Voice and Audio changes in rust-v0.155.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
+- '[[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate
+  B-roll with Flux 3 from Black Forest Labs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'
 source_type: github_releases
 theme: voice
@@ -170,14 +171,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]
-- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice and Audio changes in v2026.9.5]]
+- Earlier: 2026-09-16 · Synthesia · [[Changes/Synthesia/2026-09-16-create-up-to-20-seconds-of-b-roll-with-natively-synced-audio-and-drop-polished-c|Generate B-roll with Flux 3 from Black Forest Labs]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-how-to-find-it|How to find it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

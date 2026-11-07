@@ -4,20 +4,20 @@ date: '2026-10-14'
 description: 'Lovable · 2026-10-14 · Pricing Model: Workspace owners on Free, Pro,
   and Business plans can now [restore a deleted…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1399
+  lag_days: 3017
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ca4c79cefcf61c845c0d3f45fb415824229535c52aa8babc761f9718d0b0c660
+machine_hash: a15f0da8a3e9617dbaaae9a14ba946b3b74aa891932c94dc860f6f74eadce42d
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,9 @@ record:
   title: Restore a deleted workspace yourself
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model
-  changes in v2026.10.2]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
-  billed AI Credits in /usage for token-billed sessions, including after resume]]'
+- '[[Changes/Notion/2026-10-13-don-t-pay-twice-use-your-chatgpt-plan-in-notion|Don’t
+  pay twice. Use your ChatGPT plan in Notion]]'
+- '[[Changes/HeyGen/2026-10-14-build-with-the-api|Build with the API]]'
 - '[[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask
   Lovable what drives your run credit usage]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
+- Earlier: 2026-10-14 · HeyGen · [[Changes/HeyGen/2026-10-14-build-with-the-api|Build with the API]]
 - Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

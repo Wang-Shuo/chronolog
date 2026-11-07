@@ -3,20 +3,20 @@ card_id: replit-2025-03-28-14659c
 date: '2025-03-28'
 description: 'Replit · 2025-03-28 · Multimodal Input: [YouTube video player](https://www.youtube.com/embed/55k6J9djOB4)'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 556
+  lag_days: 2324
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 948cb4f00f09a5f6061649f04c9d2e4f00f2e0c6f1a0cb5e2b50837929b2e7da
+machine_hash: eacf18c814ac27d6aec9771bace83eb24a150b4556e33a7c41176a1eb99a393e
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: DeepLearningAI course launch
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
-- '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
-  add grok-2-1212 and grok-2-vision-1212]]'
-- '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
-  adds a new folder and organization system to the website]]'
+- '[[Changes/Synthesia/2025-03-03-add-word-by-word-captions-that-stay-perfectly-in-sync-with-your-script-so-every|Add
+  Dynamic Captions to your videos]]'
+- '[[Changes/Synthesia/2025-03-11-check-updated-video-analytics-quickly-understand-how-your-videos-perform-right-i|New
+  Video Analytics is here]]'
+- '[[Changes/Descript/2025-03-28-check-out-our-video-roundup-https-youtu-be-cdvy7wtzaie-for-march-hosted-by-the-c|Descript''s
+  March Roundup]]'
 source_release: '[[Releases/Replit/replit-2025-03-28-2025-03-28-e7e91c08|replit-2025-03-28-2025-03-28-e7e91c08]]'
 source_type: replit_changelog
 theme: multimodal
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney adds a new folder and organization system to the website]]
-- Later: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add support for Meta's Llama 4((source link) multimodal models]]
+- Earlier: 2025-03-28 · Descript · [[Changes/Descript/2025-03-28-check-out-our-video-roundup-https-youtu-be-cdvy7wtzaie-for-march-hosted-by-the-c|Descript's March Roundup]]
+- Later: 2025-04-08 · Descript · [[Changes/Descript/2025-04-08-new-in-elements-placeholder-layers|New in Elements—placeholder layers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

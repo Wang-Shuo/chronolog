@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9b4631c5142dd021163974b86781f25a12b97b57c516aec72b1cb38c8d1ba4ac
+machine_hash: 4841ee84b24ed98f8c4c9717209c1e8079647b70573a7908fe5c23e87ff68065
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent forking is now on by default]]
-- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore: enforce typed @openhands/typescript-client for agent-server API calls…]]
+- Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-3-agent-mode-changes-in-kimi-code-0-36-0|3 Agent Mode changes in Kimi Code 0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5182a860b9d19e9beafcb975b4013e38abacd4d45d242c997601d89b7496e667
+machine_hash: 3d64b3b8cf044ea7109a9f76fbcf8461eeafbab7d09532425b9eb0579e894e43
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v3.55.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
-  in v3.54.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model
   Support changes in rust-v0.92.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-copilot-chat-model-selector-now-offers-gpt-5-2-android-windows-ios-mac-web-micro|Copilot
+  Chat model selector now offers GPT-5.2 Android, Windows, iOS, Mac…]]'
 - '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
   ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 source_release: '[[Releases/Cline/cline-2026-01-28-v3-55-0-github-280533078-64c27930|cline-2026-01-28-v3-55-0-github-280533078-64c27930]]'

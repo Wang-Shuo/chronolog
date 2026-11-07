@@ -5,20 +5,20 @@ description: 'ElevenLabs · 2026-11-02 · Multimodal Input: **Video clip backgro
   removal**: Video clips have a **Remove background** action, and right-clicking a
   clip opens…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1140
+  lag_days: 2908
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10471e590b53780a962ae616dfc888ec80fc170ffea405e76aef2e625199663f
+machine_hash: cc8407429a03a89eeea2085b82a02a1bac5aca3d9e5743ec36a93c52db33b9eb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: '**Video clip background removal**'
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
-  camera discovery now reports an unreadable device folder as an error instead…]]'
 - '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
   to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal
+  capture in Copilot Notebooks Android (OneNote)]]'
 - '[[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized
   macOS camera clips and screen recordings now return an error instead…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
@@ -113,7 +113,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a56da67d63d22d254a020f8e435ac21cd13b35987cec75a93f5e6f2a5b320dc6
+machine_hash: 8e7cafe79f0df783df462626d624839288f41e615898a8c7da5e552783183016
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,11 @@ record:
   title: Empty project creation
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-17-you-can-ask-your-openclaw-to-run-tasks-using-claude-with-subagents|You
-  can ask your OpenClaw to run tasks using claude with subagents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
   Mode changes in v1.0.8]]'
 - '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
   changes in rust-v0.116.0]]'
+- '[[Changes/HeyGen/2026-03-19-video-agent|Video Agent]]'
 source_release: '[[Releases/Replit/replit-2026-03-20-2026-03-20-d0928006|replit-2026-03-20-2026-03-20-d0928006]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode changes in rust-v0.116.0]]
+- Earlier: 2026-03-19 · HeyGen · [[Changes/HeyGen/2026-03-19-video-agent|Video Agent]]
 - Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX Improvements Agent & Skill Ordering]]
 <!-- chronolog:end -->
 

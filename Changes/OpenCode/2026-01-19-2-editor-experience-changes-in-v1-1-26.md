@@ -4,20 +4,19 @@ date: '2026-01-19'
 description: 'OpenCode · 2026-01-19 · Editor Experience: 2 changes in v1.1.26 — Core
   Add proper variant support to copilot'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2626
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bf13e6e426d386c3983bb8549bad8b2f390633541465dc707f410452eb48010
+machine_hash: 4165fa827377a36b09555db93ca50ae21db1d91416e01f0c333450f9acc62cbf
 product: opencode
 product_name: OpenCode
 record:
@@ -97,7 +96,7 @@ Source: https://opencode.ai/changelog/v1.1.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

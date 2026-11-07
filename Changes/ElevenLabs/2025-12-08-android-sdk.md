@@ -4,20 +4,20 @@ date: '2025-12-08'
 description: 'ElevenLabs · 2025-12-08 · Mobile and Desktop: [v0.7.0](https://github.com/elevenlabs/elevenlabs-android/releases/tag/v0.7.0)
   - Added `sendToolResult` function…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1000
+  lag_days: 2584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8840a2d00ee84073fb411675ccabb6925f1240c15f9bcfaba16d14a782986249
+machine_hash: 1d12956a65809dfcdd7c0ba3569d7c68e10331d75c17229ea4de5976b2b310af
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,8 +44,9 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
 - '[[Changes/ElevenLabs/2025-11-27-react|React]]'
+- '[[Changes/HeyGen/2025-11-30-for-course-creators-coaches-and-anyone-who-needs-to-move-fast-the-android-app-pu|For
+  course creators, coaches, and anyone who needs to move fast, the Android app…]]'
 - '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
   gains an experimental “exp” model, unified exec pruning to limit session…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

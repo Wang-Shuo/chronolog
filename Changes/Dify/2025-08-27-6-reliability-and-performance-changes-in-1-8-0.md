@@ -5,20 +5,20 @@ description: 'Dify · 2025-08-27 · Reliability and Performance: 6 changes in v1
   - Async workflows meet multi-model management with OAuth-powered integrations. —
   **Default…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 986
+  lag_days: 2473
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b56547997eeee11408c717c4264ea488a855ab29d229d20886751c92c6b9616
+machine_hash: 7e4f377bd30dc882c0b66f3de2d62eed6846a392a4599d2b092d0fda66140b53
 product: dify
 product_name: Dify
 record:
@@ -64,8 +64,8 @@ record:
   title: 6 Reliability and Performance changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
+- '[[Changes/Descript/2025-08-21-introducing-templates-your-shortcut-to-professional-videos-with-underlord|Introducing
+  Templates—Your shortcut to professional videos with Underlord]]'
 - '[[Changes/Open WebUI/2025-08-21-6-reliability-and-performance-changes-in-v0-6-23|6
   Reliability and Performance changes in v0.6.23]]'
 - '[[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2
@@ -128,7 +128,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

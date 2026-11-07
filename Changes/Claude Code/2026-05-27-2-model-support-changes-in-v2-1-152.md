@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec55283e790dd36cfc350f2990c8f804e349faae5d8006c1920e3d2582944971
+machine_hash: b09216c4f3a2eda9d5aec817296123d912add4a1f6f70ad3b4bfa67bf5912a7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
-  changes in v1.15.9]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
-  subagents use GPT-5.4 or GPT-5.5 when available]]'
 - '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
   in v3.85.0]]'
+- '[[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model
+  Support changes in Kimi Code 0.2.0]]'
+- '[[Changes/Kimi Code/2026-05-26-2-model-support-changes-in-kimi-code-0-3-0|2 Model
+  Support changes in Kimi Code 0.3.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.152
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes in v3.85.0]]
+- Earlier: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-2-model-support-changes-in-kimi-code-0-3-0|2 Model Support changes in Kimi Code 0.3.0]]
 - Later: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor: decouple auto model description and configuration from releaseChannel]]
 <!-- chronolog:end -->
 

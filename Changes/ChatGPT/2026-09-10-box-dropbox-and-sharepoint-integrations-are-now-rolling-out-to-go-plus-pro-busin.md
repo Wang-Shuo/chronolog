@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-09-10 · Enterprise and Administration: Box, Dropb
   and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu,
   Healthcare…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2431
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 41635af1c209da7c1e0f2aaa6ebe444af3413168d19e2fce98088d72252062be
+machine_hash: 963c611d5c9a3c9e4b90200e633874ab3d4f62e0bc1434bdaae82b846cdd9222
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
-  your preview links]]'
 - '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
   Enterprise and Administration changes in v2026.9.2]]'
 - '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
   model changes now apply to the current chat by default, including…]]'
+- '[[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control
+  which AI models your agents can use]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary model changes now apply to the current chat by default, including…]]
+- Earlier: 2026-09-09 · Notion · [[Changes/Notion/2026-09-09-what-s-on-your-team-s-model-roster-that-s-up-to-you-with-model-controls-workspac|Control which AI models your agents can use]]
 - Later: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

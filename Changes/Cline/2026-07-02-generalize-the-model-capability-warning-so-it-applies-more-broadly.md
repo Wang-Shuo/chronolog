@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 82a7b8de31c981f7650cbeab455a49102cd4cb7b6e2f331b81b302e40f4a77da
+machine_hash: b5df067a9a2c0d1653bd85715a490a4c1ff31e2af39eaa7f86bd4f87bfd493ad
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Generalize the model capability warning so it applies more broadly
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
-  support for the kimi-k2.7-code model]]'
+- '[[Changes/Notion/2026-07-01-more-models-without-the-lock-in|More models, without
+  the lock-in]]'
 - '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
   changes in v0.10.2]]'
 - '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-when-large-images-are-compressed-tell-the-model-the-original-and-delivered-image|When large images are compressed, tell the model the original and delivered image details]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

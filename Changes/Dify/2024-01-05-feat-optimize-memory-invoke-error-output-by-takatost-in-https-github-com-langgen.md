@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adab53a641124ca10387a200c471ee5b7f3e5b7874e57dec6a5fb512da344952
+machine_hash: a378f3ed4e902530eaba3d73ac7c0df66d41311c6822a195c18eab173f3aed4c
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,11 @@ record:
   title: 'feat: optimize memory & invoke error output'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-  instructions are rolling out in beta]]'
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
   instructions are now available to free users]]'
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
   instructions are now available to users in the EU & UK]]'
+- '[[Changes/Descript/2023-12-05-command-e-https-help-descript-com-hc-en-us-articles-10255582172173-keyboard-shor|Command…]]'
 source_release: '[[Releases/Dify/dify-2024-01-05-0-4-4-github-136011870-88e45dde|dify-2024-01-05-0-4-4-github-136011870-88e45dde]]'
 source_type: github_releases
 theme: memory
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2023-08-21 · ChatGPT · [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the EU & UK]]
+- Earlier: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-command-e-https-help-descript-com-hc-en-us-articles-10255582172173-keyboard-shor|Command…]]
 - Later: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
 <!-- chronolog:end -->
 

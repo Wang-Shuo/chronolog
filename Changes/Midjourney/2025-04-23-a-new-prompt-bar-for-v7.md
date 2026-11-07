@@ -5,20 +5,20 @@ description: 'Midjourney · 2025-04-23 · Voice and Audio: The new prompt bar no
   separate toggleable buttons for Personalization, Draft Mode, Conversational (LLM)
   mode…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 653
+  lag_days: 2480
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e7b1dfa48f369f6fc8d71348b67381c4712687376547888b271a415150492c8a
+machine_hash: c2a7ba0e84a5199448d2176a99c9580d936afd7b8b49631d75cdd4fdb290a021
 product: midjourney
 product_name: Midjourney
 record:
@@ -68,10 +68,10 @@ record:
   title: A new prompt bar for V7
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-21-speech-to-text|Speech to Text]]'
-- '[[Changes/ElevenLabs/2025-04-21-professional-voice-cloning-pvc|Professional Voice
-  Cloning (PVC)]]'
 - '[[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]'
+- '[[Changes/Descript/2025-04-22-13-new-stock-speakers|13 New stock speakers]]'
+- '[[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider
+  selection]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-04-23-https-updates-midjourney-com-editor-improvements-a-cbe424a2|midjourney-2025-04-23-https-updates-midjourney-com-editor-improvements-a-cbe424a2]]'
 source_type: midjourney_changelog
 theme: voice
@@ -108,14 +108,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-04-21 · ElevenLabs · [[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]
+- Earlier: 2025-04-22 · Descript · [[Changes/Descript/2025-04-22-transcription-provider-selection|Transcription provider selection]]
 - Later: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio Generation (TTS, S2S, SFX, Voice Design)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

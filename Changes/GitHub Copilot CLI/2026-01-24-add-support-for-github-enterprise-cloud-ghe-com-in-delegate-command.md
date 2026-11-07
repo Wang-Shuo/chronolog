@@ -4,20 +4,20 @@ date: '2026-01-24'
 description: 'GitHub Copilot CLI · 2026-01-24 · Enterprise and Administration: Add
   support for GitHub Enterprise Cloud (\*.ghe.com) in /delegate command'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 995
+  lag_days: 2202
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: afeffc80bbe3af3804d30de86cde3789838272cc8b594c6c21a650a1149e137b
+machine_hash: ca093c0a36048e016cfc1957ef8b88b9ff3791a97714d005dc02e7fa93480621
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-enterprise-features|Enterprise Features]]
-- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin): implement admin controls polling and restart prompt]]
+- Later: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-copilot-icon-visibility-in-microsoft-edge-web-microsoft-365-copilot-chat|Copilot icon visibility in Microsoft Edge Web (Microsoft 365 Copilot Chat)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

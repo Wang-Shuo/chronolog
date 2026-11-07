@@ -4,20 +4,20 @@ date: '2026-07-22'
 description: 'Lovable · 2026-07-22 · Apps and Integrations: The [Lovable MCP server](https://docs.lovable.dev/integrations/lovable-mcp-server.md)
   is now a Codex plugin. If…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1217
+  lag_days: 2777
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72401a9ee577454c2efbe5e3a19eae9895f7cde34722c0b715828bdc69eea8d6
+machine_hash: 8eafd671bf98f17e9245f4a035396e1f0141eaeccf5c1e5cad3df108594b5abf
 product: lovable
 product_name: Lovable
 record:
@@ -44,10 +44,10 @@ record:
   title: Lovable MCP is now a Codex plugin
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-3-apps-and-integrations-changes-in-slash-commands-the-shopify|3
-  Apps and Integrations changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
   Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect
+  a dropped MCP server connection automatically when one of its tools…]]'
 - '[[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit
   your Shopify catalog in one approval]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-22-2026-07-22-3071ca78|lovable-2026-07-22-2026-07-22-3071ca78]]'
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-reconnect-a-dropped-mcp-server-connection-automatically-when-one-of-its-tools-is|Reconnect a dropped MCP server connection automatically when one of its tools…]]
 - Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3 Apps and Integrations changes in v1.0.74]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

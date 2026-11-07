@@ -4,19 +4,20 @@ date: '2025-04-25'
 description: 'Replit · 2025-04-25 · Collaboration: Managing team invitations is now
   easier with clear visibility into expired invites and the ability to re-send invitations…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 702
+  lag_days: 2296
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0ace3f72647e3cd645490fd0e2aeca4621df7babd9ad583ccfecd7832b8097b8
+machine_hash: f5f89af95da17f016f08eabc14351b59e89a7ef02f1e5dd7ef4b7c94437e7064
 product: replit
 product_name: Replit
 record:
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-04-25 · Lovable · [[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]
-- Later: 2025-05-02 · Replit · [[Changes/Replit/2025-05-02-replit-teams-annual-plan|Replit Teams Annual plan]]
+- Later: 2025-04-29 · Descript · [[Changes/Descript/2025-04-29-join-ceo-andrew-and-the-team-for-a-live-demonstration-of-avatars|Join CEO Andrew and the team for a live demonstration of Avatars]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

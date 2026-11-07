@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b114201b04647a6fe4151c6b3b166e2984c8dfeb10c1dc9fc5b4cdee468cb2e8
+machine_hash: cd2ae908fbdee7b54b50eddb50f51a363d0d72e64819dc25de4b5925479aa678
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core): enhance shell command validation and add core tools allowlist]]
-- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment|Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)]]
+- Later: 2026-05-05 · Notion · [[Changes/Notion/2026-05-05-track-every-agent-and-spend-across-your-workspace|Track every agent and spend across your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

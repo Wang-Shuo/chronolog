@@ -4,20 +4,20 @@ date: '2026-01-28'
 description: 'GitHub Copilot CLI · 2026-01-28 · Apps and Integrations: `/mcp show
   <server-name>` displays server details and available tools'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb12ea97dcee72bd2d1fe752bf3f75aa1686f5e1844eacdc5393ba6d374dbf60
+machine_hash: 641d49e93faa0f1aca8b534093b0a0dd25ceec2b056079ca71c85d17ed59da6b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '`/mcp show <server-name>` displays server details and available tools'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-2-apps-and-integrations-changes-in-v0-0-396|2
-  Apps and Integrations changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-advanced-understanding-for-comments-and-attachments-in-snow-kb-and-azure-devops|Advanced
+  understanding for comments and attachments in SNOW KB and Azure DevOps…]]'
 - '[[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add
   MCP prompts support - prompts from connected MCP servers now appear in slash…]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

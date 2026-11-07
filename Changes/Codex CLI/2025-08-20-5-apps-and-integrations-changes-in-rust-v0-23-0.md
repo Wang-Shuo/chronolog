@@ -4,20 +4,20 @@ date: '2025-08-20'
 description: 'Codex CLI · 2025-08-20 · Apps and Integrations: 5 changes in 0.23.0
   — New commands and controls: support `/mcp` in TUI (#2430) and a slash command `/approvals`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 2441
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09c1c804ff49febe44106847eb436ad5df5d6fc54068cec38b2698b0f330c73d
+machine_hash: 4d43fd8508f0b11d3354b66229678e9ce12008aba57783c4225f0d7b41900581
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-41-apps-and-integrations-changes-in-v0-1-21|41
-  Apps and Integrations changes in v0.1.21]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps
   and Integrations changes in v0.1.22]]'
+- '[[Changes/Notion/2025-08-19-use-your-favorite-ai-tools-with-notion-s-mcp|Use your
+  favorite AI tools with Notion’s MCP]]'
 - '[[Changes/Cline/2025-08-20-2-apps-and-integrations-changes-in-v3-26-0|2 Apps and
   Integrations changes in v3.26.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'
@@ -113,7 +113,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

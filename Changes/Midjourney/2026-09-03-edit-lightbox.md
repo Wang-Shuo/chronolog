@@ -4,20 +4,19 @@ date: '2026-09-03'
 description: 'Midjourney · 2026-09-03 · Editor Experience: The biggest change is that
   the new v8.2 edit model is on alpha, with a new editor built directly into the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2853
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b1115270c8ec0470d70b02d446f5819ca5315127f975fff821e8c9253740e7e8
+machine_hash: 35cb62ad56b996a07161c906d954105a1f2fcaeef9dd03bb5f1f86702a2fad2e
 product: midjourney
 product_name: Midjourney
 record:
@@ -61,10 +60,10 @@ record:
   title: EDIT-LIGHTBOX
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
-  Session renames now save reliably from the title editor and tab context menu]]'
-- '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
-  code diff against the base branch]]'
+- '[[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web:
+  Add a code wrap toggle to the diff panel and streamline its header]]'
+- '[[Changes/Synthesia/2026-09-02-design-any-scene-with-layouts-a-library-of-100-ready-made-designs-right-in-the-e|Design
+  any scene with Layouts]]'
 - '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
   the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-09-03-https-updates-midjourney-com-alpha-changelog-9-2-26-6e9a883f|midjourney-2026-09-03-https-updates-midjourney-com-alpha-changelog-9-2-26-6e9a883f]]'
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

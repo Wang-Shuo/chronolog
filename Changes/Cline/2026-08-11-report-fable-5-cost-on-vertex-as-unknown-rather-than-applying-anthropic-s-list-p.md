@@ -4,20 +4,20 @@ date: '2026-08-11'
 description: 'Cline · 2026-08-11 · Pricing Model: Report Fable 5 cost on Vertex as
   unknown rather than applying Anthropic''s list price, which understated what Vertex…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1335
+  lag_days: 2953
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ed7c080822e0376694cf88855adcb45f23a568799bd388f6d49ea3352b8356f2
+machine_hash: cbff836951a7e53d3acb6a83c91a0c5d42ac38ca12af96165b1643d7f1a7041d
 product: cline
 product_name: Cline
 record:
@@ -46,8 +46,7 @@ record:
     list…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
-  fast mode to report on the stream when usage credits run out mid-session…]]'
+- '[[Changes/Descript/2026-08-05-underlord|Underlord]]'
 - '[[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between
   workspaces]]'
 - '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
@@ -84,13 +83,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]
-- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing and checkout show actionable payment errors, scope-appropriate upgrade…]]
+- Later: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption Dashboard tracks Copilot credit usage Web (Viva Insights)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

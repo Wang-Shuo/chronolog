@@ -5,20 +5,20 @@ description: 'Dify · 2026-03-27 · Reliability and Performance: 2 changes in v1
   — Our latest patch release, v1.13.3, focuses on stability and correctness across
   workflow…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2685
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1cc254ddada150ad1689fd04af17c4d9776db55c8bede5b00feeb08f47596a6
+machine_hash: e5e4b0b85b4ad24f64b4436676d9d0da7c2e0ec912c6af99d8c23ca749d82df7
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Reliability and Performance changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
-  no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/Notion/2026-03-26-this-month-we-have-a-champagne-problem-our-engineers-are-shipping-faster-than-ev|This
+  month, we have a champagne problem]]'
 - '[[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core
   Skip snapshotting files larger than 2MB to improve performance]]'
 - '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

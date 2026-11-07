@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 79c501cd2ec77688f8e2c22d5eebf0b23bfe3434bd393e59fe08d6e644d82d04
+machine_hash: 0c332e371fca47fa0250392284e084b2710e9d09812a7fb821bc08d9f2f59cf4
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3 Model Support changes in ElevenLabs updates — 2026-10-26]]
-- Later: 2026-10-26 · Runway · [[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App Studio]]
+- Later: 2026-10-26 · Kimi Code · [[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update model switch confirmation prompts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

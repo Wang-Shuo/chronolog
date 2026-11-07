@@ -4,20 +4,20 @@ date: '2024-07-17'
 description: "Open WebUI · 2024-07-17 · Files and Data: 2 changes in v0.3.10 — **\U0001F504
   Improved File Upload**: Addressed the issue where file uploads lacked animation."
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 419
+  lag_days: 1764
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbc9c64b5d465703176b79e1e2b4ad14654df340fb5ff0e5bf52d78c6f21936f
+machine_hash: e9c8bda2e7e63cf213007a5469cb77f682989dd1525d471c924c15b7ae70a0b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Files and Data changes in v0.3.10
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-02-processing-different-parts-of-a-document-simultaneously|Processing
-  different parts of a document simultaneously]]'
 - '[[Changes/Dify/2024-07-15-feat-delete-file-when-clean-document-by-johnjyong-in-https-github-com-langgenius|Feat/delete
   file when clean document]]'
+- '[[Changes/Descript/2024-07-16-file-upload-limits|File upload limits]]'
 - '[[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-9|2 Files and
   Data changes in v0.3.9]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-17-v0-3-10-github-165882161-25c52e94|open-webui-2024-07-17-v0-3-10-github-165882161-25c52e94]]'
@@ -89,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

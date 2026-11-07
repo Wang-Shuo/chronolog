@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-05-26 · Context Window: 5 changes in 0.134.0 �
   richer extension and hook context, including conversation history for extension
   tools and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1118
+  lag_days: 2442
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 594790d25ec9a9219b66377668c6576d2a6dfa8d9a1437e428b5af3cec7b801d
+machine_hash: 439a270d88f0de59b357e0b27d71a7ef5f88d85f38792b2ee1923caf9ecc2c9c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,13 +104,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context Window changes in v1.0.52]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added pluginSuggestionMarketplaces managed setting]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-prevent-running-the-model-and-sessions-slash-commands-while-streaming-or-compact|Prevent running the /model and /sessions slash commands while streaming…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

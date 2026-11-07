@@ -5,20 +5,20 @@ description: 'Dify · 2024-10-14 · Reliability and Performance: 2 changes in v0
   — This version packs plenty to explore, ensuring your workflows and integrations
   are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 669
+  lag_days: 2156
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88637a7dedf3187618b2e6070c299b630542b4e0e4abf9b8671c92f1a421c439
+machine_hash: 60e037936f27af5f4d4ce408401e6fe278a11fca28955ad9a77bb248ef971bec
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in 0.9.2
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-library-dependencies-update-upgraded-dependencies-to-ensure-compatibility-and-pe|\U0001F4E6
-  Library Dependencies Update]]"
 - '[[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2
   Reliability and Performance changes in v0.3.31]]'
 - '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
   and Performance changes in v2.0.0]]'
+- '[[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved
+  UI responsiveness when in a Room with only 1 participant]]'
 source_release: '[[Releases/Dify/dify-2024-10-14-0-9-2-github-179747449-3e58ccc7|dify-2024-10-14-0-9-2-github-179747449-3e58ccc7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,14 +92,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability and Performance changes in v2.0.0]]
+- Earlier: 2024-10-10 · Descript · [[Changes/Descript/2024-10-10-improved-ui-responsiveness-when-in-a-room-with-only-1-participant|Improved UI responsiveness when in a Room with only 1 participant]]
 - Later: 2024-10-17 · Ollama · [[Changes/Ollama/2024-10-17-2-reliability-and-performance-changes-in-v0-3-14|2 Reliability and Performance changes in v0.3.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

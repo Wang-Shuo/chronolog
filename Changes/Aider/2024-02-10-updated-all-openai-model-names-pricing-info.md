@@ -4,20 +4,20 @@ date: '2024-02-10'
 description: 'Aider · 2024-02-10 · Pricing Model: Updated all OpenAI model names,
   pricing info'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 422
+  lag_days: 2040
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 191a2ba6e42e016f45fcf2b79c26c40bacfee2ac1563baae9d65ef0122ec0f2f
+machine_hash: 1feb182ac4f26dc958d7b923f6dec4a82eb6ed97d5c74ce7c04b4f17b4590c15
 product: aider
 product_name: Aider
 record:
@@ -52,8 +52,8 @@ record:
   title: Updated all OpenAI model names, pricing info
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat:
-  add billing switch]]'
+- '[[Changes/Descript/2024-01-10-drive-administrators-cannot|Drive administrators
+  CANNOT]]'
 - '[[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore:
   enchance view billing text]]'
 - '[[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

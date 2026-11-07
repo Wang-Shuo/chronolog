@@ -5,20 +5,20 @@ description: 'Dify · 2026-02-03 · Multimodal Input: 3 changes in v1.12.0 - Int
   Summary Index: Smarter Retrieval with AI Summarization — **Multimodal Support:**
   When…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 868
+  lag_days: 2636
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c4e5a6383b5fa505f313e286e49f9118cea4c33bb2e42fed0b70ca0c74962de
+machine_hash: dbe2b0a27919dc352133d415d031fbe6e2e0a4d2f037e04cc14d180979a856e9
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,11 @@ record:
   title: 3 Multimodal Input changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-11-11-multimodal-input-changes-in-1-11-0|11 Multimodal Input
-  changes in 1.11.0]]'
-- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added
-  clickable Image ♯N links that open attached images in the default viewer]]'
+- '[[Changes/Descript/2025-12-20-teleprompter-in-rooms|Teleprompter in Rooms]]'
 - '[[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal
   Input changes in v0.6.42]]'
+- '[[Changes/HeyGen/2026-01-26-build-vs-chat-modes-build-mode-auto-proceeds-until-your-video-is-ready-chat-mode|Build
+  vs Chat modes Build mode auto-proceeds until your video is ready]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases
 theme: multimodal
@@ -103,14 +102,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-multimodal-input-changes-in-v0-6-42|2 Multimodal Input changes in v0.6.42]]
+- Earlier: 2026-01-26 · HeyGen · [[Changes/HeyGen/2026-01-26-build-vs-chat-modes-build-mode-auto-proceeds-until-your-video-is-ready-chat-mode|Build vs Chat modes Build mode auto-proceeds until your video is ready]]
 - Later: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source link) GLM-OCR is a multimodal OCR model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

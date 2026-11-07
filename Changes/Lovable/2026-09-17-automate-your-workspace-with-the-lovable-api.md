@@ -5,20 +5,20 @@ description: 'Lovable · 2026-09-17 · Automation and Scheduling: You can now us
   [Lovable API](https://docs.lovable.dev/api-reference/introduction.md) from your
   own…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 989
+  lag_days: 2556
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cbef27222e689c0df3b0769dbf70c5eeb7d811f9eaae15be9e25df699571e418
+machine_hash: 4cc7fe070c0a5b26f6092b01618b5a8cd14b10d859473a1b5bb505ec9b07a595
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,11 @@ record:
   title: Automate your workspace with the Lovable API
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
-  Automation and Scheduling changes in v2026.9.4]]'
-- '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
-  Automation and Scheduling changes in v1.18.0]]'
 - '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
   Automation and Scheduling changes in v1.19.0]]'
+- '[[Changes/Descript/2026-09-17-how-to-find-it-231db5|How to find it]]'
+- '[[Changes/Descript/2026-09-17-record-in-a-scheduled-room-without-the-host|Record
+  in a scheduled Room without the host]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-17-2026-09-17-90228cca|lovable-2026-09-17-2026-09-17-90228cca]]'
 source_type: lovable_changelog
 theme: automation-scheduling
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-record-in-a-scheduled-room-without-the-host|Record in a scheduled Room without the host]]
 - Later: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

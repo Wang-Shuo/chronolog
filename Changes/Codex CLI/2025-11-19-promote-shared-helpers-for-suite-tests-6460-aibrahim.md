@@ -4,19 +4,20 @@ date: '2025-11-19'
 description: 'Codex CLI · 2025-11-19 · Collaboration: Promote shared helpers for suite
   tests (#6460) — @aibrahim'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 910
+  lag_days: 2504
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 482a8a4b8c3c5508cb676b1b49b6edaec5a676aa0e9fdd093f0c4a6cf3e39ad7
+machine_hash: 43fabf05a8e0b2c361fe566a161604b916cbce8f1c37597ff6a68f8c3325bdeb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +43,11 @@ record:
   title: Promote shared helpers for suite tests (#6460) — @aibrahim
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging):
-  Centralize all console messaging to a shared logger (part 1)]]'
 - '[[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access
   to private projects]]'
 - '[[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share
   provider information]]'
+- '[[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: collaboration
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-11-07 · Cline · [[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share provider information]]
+- Earlier: 2025-11-14 · Notion · [[Changes/Notion/2025-11-14-catch-up-on-comments|Catch up on comments]]
 - Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos to discuss them out loud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

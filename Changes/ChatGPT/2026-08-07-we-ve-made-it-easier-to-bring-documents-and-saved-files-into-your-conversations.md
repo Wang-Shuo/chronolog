@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-07 · Files and Data: We’ve made it easier to
   documents and saved files into your conversations, find what you need, and pick
   up where…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1170
+  lag_days: 2515
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e971c78e983161fa8cb6441330dc42999426e256c75cbc742d3aa74cee899c48
+machine_hash: 12480c6707e432832f508b699443ae4d56af1133b923b7311bf63e3068f5e7fb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: ChatGPT makes it easier to bring documents and saved files into your conversations…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-files-and-data-changes-in-rust-v0-146-0|2 Files
-  and Data changes in rust-v0.146.0]]'
 - '[[Changes/OpenHands/2026-07-29-chore-replay-agent-canvas-history-by-neubig-in-https-github-com-openhands-openha|chore:
   replay Agent Canvas history]]'
+- '[[Changes/Descript/2026-08-05-edit-an-image-by-drawing-on-it|Edit an image by drawing
+  on it]]'
 - '[[Changes/OpenHands/2026-08-05-feat-set-canvas-default-model-to-glm-5-2-by-juanmichelini-in-https-github-com-op|feat:
   set Canvas default model to GLM 5.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

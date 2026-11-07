@@ -5,20 +5,21 @@ description: 'v0 · 2026-06-26 · Account and Access: 3 changes in Platform API 
   MCP chat tools, and Office file attachments — Project visibility settings now respect
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 309142329dc544a146792116c735eed7d6ef48727b30038de84e584669df7147
+machine_hash: f192a81363cac859936d991db0b9eb542ea4d8fcdd70eecb77be7ece00bc091d
 product: v0
 product_name: v0
 record:
@@ -49,12 +50,12 @@ record:
   title: 3 Account and Access changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and
-  Access changes in 1.15.0]]'
 - '[[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled
   automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]'
 - '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
   Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
+- '[[Changes/Kimi Code/2026-06-26-add-shell-mode-to-the-tui-type-in-the-input-box-to-enable-it-for-long-running-co|Add
+  shell mode to the TUI]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: account-access
@@ -96,14 +97,14 @@ Source: https://v0.app/changelog#2026-06-26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core Always print the MCP OAuth URL so manual sign-in still works when opening…]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-add-shell-mode-to-the-tui-type-in-the-input-box-to-enable-it-for-long-running-co|Add shell mode to the TUI]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|🤝 Shared folder read-only chats no longer sign users out. Opening or reading…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

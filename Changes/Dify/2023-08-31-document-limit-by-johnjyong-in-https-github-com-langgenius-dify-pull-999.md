@@ -4,20 +4,20 @@ date: '2023-08-31'
 description: 'Dify · 2023-08-31 · Files and Data: document limit by @JohnJyong in
   https://github.com/langgenius/dify/pull/999'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 98
+  lag_days: 1443
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df8e5b3fb68ffa74800fd3a7d980439b844087c7a9b0837288d3248e4289f267
+machine_hash: 201c1f3e6d26e37a785aed023f11e2d5928fed27ca8f94dc0f66ef6f9d362840
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: document limit
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
 - '[[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add
   document limit check]]'
+- '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
+  & hiding layers]]'
 - '[[Changes/Dify/2023-08-23-4-files-and-data-changes-in-0-3-15|4 Files and Data changes
   in 0.3.15]]'
 source_release: '[[Releases/Dify/dify-2023-08-31-0-3-19-github-119449505-7b070c6d|dify-2023-08-31-0-3-19-github-119449505-7b070c6d]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

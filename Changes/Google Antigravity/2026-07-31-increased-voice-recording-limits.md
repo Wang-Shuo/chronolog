@@ -4,20 +4,20 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Voice and Audio: Increased voice recording
   limits.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1117
+  lag_days: 2944
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81703c923ad33ccc3d1cec685899924f0dd078254b263dfd554cffdf30fa681a
+machine_hash: 321578d819d439e51faa7476db98579791ceaf01cb8262c4adb1d63ecf748a90
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -41,8 +41,7 @@ record:
   title: Increased voice recording limits
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
-  and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
+- '[[Changes/HeyGen/2026-07-29-why-it-matters|Why it matters]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
   mode pauses playing media before recording and resumes it afterward, where…]]'
 - '[[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,19 @@ description: 'Runway · 2026-08-20 · Editor Experience: Agents can now list wor
   in your workspace, open one in the web app editor, tweak it, and run it from chat.
   Built…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2839
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f545b7d76139651ac2640816118e0a46f9ecff5d8102ce4db7e4888b49256364
+machine_hash: 514d19012cb462df3bdc981841825ffb53ba783844fef1d38f4afec77a06e67f
 product: runway
 product_name: Runway
 record:
@@ -55,12 +54,12 @@ record:
   title: Workflow Support in Runway MCP
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
-  Track running unified exec processes at turn completion @copyberry]]'
-- '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
-  Experience changes in rust-v0.149.0]]'
 - '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering
   over a file''s comment count pill now previews all comments on that file…]]'
+- '[[Changes/HeyGen/2026-08-20-your-avatar-doesn-t-have-to-be-stuck-with-the-day-you-recorded-it-edit-look-lets|Your
+  avatar doesn''t have to be stuck with the day you recorded it]]'
+- '[[Changes/Kimi Code/2026-08-20-edit-and-write-now-require-reading-an-existing-file-before-modifying-it|Edit
+  and Write now require reading an existing file before modifying it]]'
 source_release: '[[Releases/Runway/runway-2026-08-20-2026-08-20-workflow-support-in-runway-mcp-a2e43648|runway-2026-08-20-2026-08-20-workflow-support-in-runway-mcp-a2e43648]]'
 source_type: runway_changelog
 theme: editor-experience
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering over a file's comment count pill now previews all comments on that file…]]
+- Earlier: 2026-08-20 · Kimi Code · [[Changes/Kimi Code/2026-08-20-edit-and-write-now-require-reading-an-existing-file-before-modifying-it|Edit and Write now require reading an existing file before modifying it]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

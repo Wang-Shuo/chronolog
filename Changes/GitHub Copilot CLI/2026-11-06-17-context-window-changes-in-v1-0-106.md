@@ -4,20 +4,20 @@ date: '2026-11-06'
 description: 'GitHub Copilot CLI · 2026-11-06 · Context Window: 17 changes in 1.0.106
   — Model picker shows context window size for flat, unpriced, and single-tier models'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1282
+  lag_days: 2606
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3cfd304fba25d4420953a1a840114d8fe95e18f1f1ac8b51158ed8254e8c34a
+machine_hash: 9f3ec6293fb2ba0fa8d12284f042bc036e90b5bbfd5a00ca12e52129cbfd345e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,8 +91,8 @@ record:
   title: 17 Context Window changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
-  in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-account-selector-in-outlook-copilot-side-pane-web-outlook|Account
+  Selector in Outlook Copilot Side Pane Web (Outlook)]]'
 - '[[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context
   Window changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context
@@ -185,7 +185,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

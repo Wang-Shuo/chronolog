@@ -4,20 +4,19 @@ date: '2026-06-10'
 description: 'OpenHands · 2026-06-10 · Editor Experience: Removed App tab from conversation
   by @neubig in https://github.com/OpenHands/OpenHands/pull/14395'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24b25bb3ac4952a655d20a7a66cd3030b5dcf4c676dedda59c6b6a49dae2bbb0
+machine_hash: 7f76592350c5fb8163442fe4565c56b60d9bfc18cf2a6ed0b181ebe2a873b9ff
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +40,12 @@ record:
   title: Removed App tab from conversation
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0
-  can now write SQL for you in DB Studio]]'
-- '[[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor
-  Experience changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-4-editor-experience-changes-in-v1-0-61|4
   Editor Experience changes in v1.0.61]]'
+- '[[Changes/Kimi Code/2026-06-09-rework-file-reference-completion-in-the-tui|Rework
+  file reference completion in the TUI]]'
+- '[[Changes/Kimi Code/2026-06-10-tighten-file-tool-guidance-to-route-incremental-edits-through-edit|Tighten
+  file tool guidance to route incremental edits through Edit]]'
 source_release: '[[Releases/OpenHands/openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca|openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-editor-experience-changes-in-v1-0-61|4 Editor Experience changes in v1.0.61]]
+- Earlier: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-tighten-file-tool-guidance-to-route-incremental-edits-through-edit|Tighten file tool guidance to route incremental edits through Edit]]
 - Later: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The 3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

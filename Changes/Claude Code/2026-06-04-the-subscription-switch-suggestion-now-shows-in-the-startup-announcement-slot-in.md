@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Claude Code · 2026-06-04 · Pricing Model: The subscription-switch suggestion
   now shows in the startup announcement slot instead of a toast'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fecf6ed5d3227d95eacd9e676744fdbbd61fd41c8db6d894effbd710555dd283
+machine_hash: 0ed7e5d6124412c986b3b4e8e3b9766a96313f78fcd29e26bc1fd5db0d7384a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
     slot…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
-  Model changes in v1.0.55]]'
 - '[[Changes/Replit/2026-05-29-billing|Billing]]'
 - '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
   3D models with the Tripo3D connector]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational
+  Messages Usage‑based targeting is now generally available…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: pricing-model
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate 3D models with the Tripo3D connector]]
+- Earlier: 2026-06-02 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational Messages Usage‑based targeting is now generally available…]]
 - Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add billing help topic with an overview of AI credit usage features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

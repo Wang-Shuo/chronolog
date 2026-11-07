@@ -3,20 +3,20 @@ card_id: cursor-2023-08-17-0cf9da
 date: '2023-08-17'
 description: 'Cursor · 2023-08-17 · Interface Experience: Keychords now use Cmd+R/Ctrl+R.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 220
+  lag_days: 1586
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 418aac541e714354d7ae083cd66c6b3cf2c9c4d920ac77da909cb209ce88173b
+machine_hash: b0566bb903dccafb5178b8acd5c2e6ff2362f2e6a8f42c9c46d8ab3c86443264
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,10 @@ record:
   title: Keychords now use Cmd+R/Ctrl+R
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit
-  tooltip blocks less code]]'
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
-  properly render in the chat]]'
-- '[[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More
-  seamless updates]]'
+- '[[Changes/Notion/2023-08-08-little-fixes-big-improvements|Little fixes = big improvements]]'
+- '[[Changes/Descript/2023-08-10-app-header-improvements|App header improvements]]'
+- '[[Changes/Descript/2023-08-14-added-selection-options-to-the-new-button-in-drive-view|Added
+  selection options to the New button in Drive view]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549|cursor-2023-08-17-0-7-14-nightly-https-cursor-com-changelog-0-7-14-nightly-b6b0c549]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -75,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More seamless updates]]
+- Earlier: 2023-08-14 · Descript · [[Changes/Descript/2023-08-14-added-selection-options-to-the-new-button-in-drive-view|Added selection options to the New button in Drive view]]
 - Later: 2023-08-21 · Cursor · [[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer error messages in the chat!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

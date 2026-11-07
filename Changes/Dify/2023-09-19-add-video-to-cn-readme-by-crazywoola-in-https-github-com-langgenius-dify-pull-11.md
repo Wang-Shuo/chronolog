@@ -4,20 +4,20 @@ date: '2023-09-19'
 description: 'Dify · 2023-09-19 · Multimodal Input: add video to cn readme by @crazywoola
   in https://github.com/langgenius/dify/pull/1165'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1768
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 196fa1c02aa2012d65b4b62fafd6652bd514f2b320ee343c4d3bc47f90af8305
+machine_hash: 90a63093509d5d1e18c7da2c484b924e909f0f11e6a5129a656ef7d99f78d1b9
 product: dify
 product_name: Dify
 record:
@@ -41,6 +41,12 @@ record:
   theme_resolution: manual-semantic-rule-v1
   title: add video to cn readme
   type: change
+related_changes:
+- '[[Changes/Descript/2023-09-18-add-layers-to-a-selection-with-the-new-button|Add
+  layers to a selection with the new “+” button]]'
+- '[[Changes/Descript/2023-09-18-word-gap-improvements|Word gap improvements]]'
+- '[[Changes/Descript/2023-09-18-4k-video-recording-in-squadcast-beta|4K video recording
+  in SquadCast (beta)]]'
 source_release: '[[Releases/Dify/dify-2023-09-19-0-3-23-github-121733755-0e2f942d|dify-2023-09-19-0-3-23-github-121733755-0e2f942d]]'
 source_type: github_releases
 theme: multimodal
@@ -71,13 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Later: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earlier: 2023-09-18 · Descript · [[Changes/Descript/2023-09-18-4k-video-recording-in-squadcast-beta|4K video recording in SquadCast (beta)]]
+- Later: 2023-09-21 · Synthesia · [[Changes/Synthesia/2023-09-21-three-new-avatars-are-ready-for-lights-camera-and-action-arnold-grace-and-tyra|New Avatars: Arnold, Grace and Tyra]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

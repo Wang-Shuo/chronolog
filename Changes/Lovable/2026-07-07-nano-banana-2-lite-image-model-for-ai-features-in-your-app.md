@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bb401e9d6c6a4971d6742405dab49af9a22ee07ed090540fe8d697f26ccac880
+machine_hash: ad8dd1cf32f65448ce771479d5b84048f587e023456a738120c9f158353d59e8
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Nano Banana 2 Lite image model for AI features in your app
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support
-  changes in v1.17.14]]'
 - '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
   changes in 1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
   Support changes in v1.0.69]]'
+- '[[Changes/Kimi Code/2026-07-07-2-model-support-changes-in-kimi-code-0-23-1|2 Model
+  Support changes in Kimi Code 0.23.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-07-2026-07-07-3495f67b|lovable-2026-07-07-2026-07-07-3495f67b]]'
 source_type: lovable_changelog
 theme: model-support
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model Support changes in v1.0.69]]
+- Earlier: 2026-07-07 · Kimi Code · [[Changes/Kimi Code/2026-07-07-2-model-support-changes-in-kimi-code-0-23-1|2 Model Support changes in Kimi Code 0.23.1]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model Support changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

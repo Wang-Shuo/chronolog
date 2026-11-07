@@ -5,20 +5,20 @@ description: 'Midjourney · 2024-03-13 · Automation and Scheduling: Hey @everyo
   we need to halt our free-gpu rewards for image-ranking until further notice due
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 71
+  lag_days: 1638
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a73f74c1eaf22efc23bba62c039c9dbada0415aadf93c910b5a37477887c53e
+machine_hash: 57f54b4e4cbd0150e21ae638929aba7e5374e58c197fa4b6b7403a10668f6e6c
 product: midjourney
 product_name: Midjourney
 record:
@@ -59,12 +59,12 @@ record:
     until…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-  data clean schedule]]'
 - '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
   schedule timedelta]]'
 - '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
   per the planned schedule, these deprecated envs are being removed]]'
+- '[[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database
+  buttons]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-03-13-https-updates-midjourney-com-halting-free-gpu-rewards-1ae59e99|midjourney-2024-03-13-https-updates-midjourney-com-halting-free-gpu-rewards-1ae59e99]]'
 source_type: midjourney_changelog
 theme: automation-scheduling
@@ -102,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As per the planned schedule, these deprecated envs are being removed]]
+- Earlier: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database buttons]]
 - Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

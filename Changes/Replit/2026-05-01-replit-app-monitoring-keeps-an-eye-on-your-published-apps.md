@@ -4,20 +4,20 @@ date: '2026-05-01'
 description: 'Replit · 2026-05-01 · Apps and Integrations: You can now turn on **App
   monitoring** for any published Replit App and get a real-time uptime check, a colored…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1135
+  lag_days: 2695
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 66c99e9ceb5bb42862a5bc6195a9676a3d7dfc80b06fec780017bbaeced95c57
+machine_hash: b0ba64ed9d711519617606343f67a33258fe9860b1c01ddb1eaa6dbc9a542c71
 product: replit
 product_name: Replit
 record:
@@ -54,8 +54,8 @@ record:
   title: Replit App Monitoring keeps an eye on your published apps
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
-  Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/Notion/2026-05-01-custom-agents-can-now-read-and-reply-in-private-slack-channels-get-started-from|Add
+  Custom Agents to private Slack channels]]'
 - '[[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core
   Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]'
 - '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

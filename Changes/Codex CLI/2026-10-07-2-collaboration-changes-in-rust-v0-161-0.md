@@ -4,19 +4,20 @@ date: '2026-10-07'
 description: 'Codex CLI · 2026-10-07 · Collaboration: 2 changes in 0.161.0 — #49798
   Share cached exec-server environment info with Arc @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1232
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a2f387413e4d5849a0bbafe7192073e2a0ff5bd7d020e4a8db10f88b381aa90
+machine_hash: 372f20479614beb28ccf4874437da930c70cd26099182602e0adcc1269d61ad3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +42,8 @@ record:
   title: 2 Collaboration changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
-  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
+- '[[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label
+  every video with an AI content watermark]]'
 - '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal
   accounts are now team workspaces]]'
 - '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

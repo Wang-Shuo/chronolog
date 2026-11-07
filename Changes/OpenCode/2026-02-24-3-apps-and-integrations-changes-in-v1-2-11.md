@@ -4,20 +4,20 @@ date: '2026-02-24'
 description: 'OpenCode · 2026-02-24 · Apps and Integrations: 3 changes in v1.2.11
   — Core Fix plugin resolution with createRequire fallback on Windows'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1069
+  lag_days: 2629
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df65a7051dce2350a5ce777b826b38fb41195b091c1bf280c185ea2f6a3aedd3
+machine_hash: 6e16e7398e08c17265b890ce3f89bb4df2f8a84d6d9e0b8b72b0dad0f565a729
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Apps and Integrations changes in v1.2.11
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-add-mcp-enterprise-configuration-details|Add MCP enterprise
-  configuration details]]'
-- '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
-  Cline SDK API interface for programmatic access to Cline features and tools…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
-  third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-jira-data-center-to-manage-engineering-tasks-web-microsoft|Connect
+  Copilot with Jira Data Center to manage engineering tasks…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-connect-copilot-with-azure-file-share-web-microsoft-365-copilot-extensibility|Connect
+  Copilot with Azure File Share Web (Microsoft 365 Copilot extensibility)]]'
+- '[[Changes/Notion/2026-02-24-integrate-custom-agents-with-slack-mail-calendar-mcp|Integrate
+  Custom Agents with Slack, Mail, Calendar, & MCP]]'
 source_release: '[[Releases/OpenCode/opencode-2026-02-24-v1-2-11-50dfe84c|opencode-2026-02-24-v1-2-11-50dfe84c]]'
 source_type: opencode_changelog
 theme: apps-integrations
@@ -91,14 +91,14 @@ Source: https://opencode.ai/changelog/v1.2.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block third-party MCP servers when the Copilot MCP policy does not allow them]]
+- Earlier: 2026-02-24 · Notion · [[Changes/Notion/2026-02-24-integrate-custom-agents-with-slack-mail-calendar-mcp|Integrate Custom Agents with Slack, Mail, Calendar, & MCP]]
 - Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources from apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

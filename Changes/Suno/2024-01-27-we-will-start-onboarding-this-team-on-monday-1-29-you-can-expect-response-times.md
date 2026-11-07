@@ -5,19 +5,20 @@ description: 'Suno · 2024-01-27 · Collaboration: We will start onboarding this
   on Monday (1/29). You can expect response times to start improving over the coming
   weeks…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 248
+  lag_days: 1842
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20788d1dc3cc39c632655e8a850888f2e5a15515681fa70f314fb4c842634b9e
+machine_hash: 0b22a3d9a0d17c5a8198223509aee1dab122eaae3421086182d824b1af106a60
 product: suno
 product_name: Suno
 record:
@@ -47,9 +48,10 @@ record:
   title: We will start onboarding this team on Monday (1/29)
   type: change
 related_changes:
-- "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
 - '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
   ChatGPT alongside your team]]'
+- '[[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling
+  tool]]'
 - '[[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices
   with workspace]]'
 source_release: '[[Releases/Suno/suno-2024-01-27-e-quality-of-life-improvements-1bc6fb75|suno-2024-01-27-e-quality-of-life-improvements-1bc6fb75]]'
@@ -81,13 +83,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-01-26 · Runway · [[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices with workspace]]
-- Later: 2024-03-05 · Suno · [[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You can share playlists using their link]]
+- Later: 2024-02-06 · Synthesia · [[Changes/Synthesia/2024-02-06-we-are-excited-to-share-the-news-the-dialogue-feature-is-live-now-you-can-add-tw|Add 2+ avatars in the scene Dialogue Feature]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

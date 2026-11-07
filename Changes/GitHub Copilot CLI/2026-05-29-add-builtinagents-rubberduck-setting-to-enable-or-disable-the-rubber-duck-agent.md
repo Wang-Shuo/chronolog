@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d888d4518f422f04b65c2af5d07215f98135684fae279a224b9b6e5671bf859d
+machine_hash: f598fec23fac6b2874ffbd5747c21f85722a4349a1b140c09f6fc5f046fc78dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-29 · Cursor · [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review Run Mode]]
-- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-agent|Agent]]
+- Later: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-3-agent-mode-changes-in-kimi-code-0-6-0|3 Agent Mode changes in Kimi Code 0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

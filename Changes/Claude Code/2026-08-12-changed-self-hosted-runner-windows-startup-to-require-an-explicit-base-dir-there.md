@@ -4,20 +4,20 @@ date: '2026-08-12'
 description: 'Claude Code · 2026-08-12 · Mobile and Desktop: Changed self-hosted runner
   Windows startup to require an explicit `--base-dir`; there is no default checkout…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1247
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e261f5fdbcf34f13e5203bdf1fd5ff6521b0c706829805a6107a19e89d7ffae3
+machine_hash: 3ee3789f22616192a2421bb902b40f69811e1281d111a3bc7e3289afa6700385
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: Changed self-hosted runner Windows startup to require an explicit `--base-dir`
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
-  Mobile and Desktop changes in v1.0.79]]'
-- '[[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile
-  and Desktop changes in v1.18.16]]'
 - '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-outlook-copilot-provides-coaching-feedback-in-chat-as-you-draft-edit-and-format|Outlook:
+  Copilot provides coaching feedback in chat as you draft, edit, and format…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-outlook-prepare-for-meetings-with-copilot-in-classic-outlook-for-windows-windows|Outlook:
+  Prepare for meetings with Copilot in classic Outlook for Windows…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]
+- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-outlook-prepare-for-meetings-with-copilot-in-classic-outlook-for-windows-windows|Outlook: Prepare for meetings with Copilot in classic Outlook for Windows…]]
 - Later: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop Updated Chinese developer terminology to use more widely recognized translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

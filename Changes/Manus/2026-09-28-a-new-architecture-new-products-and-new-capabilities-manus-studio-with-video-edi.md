@@ -4,20 +4,20 @@ date: '2026-09-28'
 description: 'Manus · 2026-09-28 · Automation and Scheduling: A new architecture,
   new products, and new capabilities: Manus Studio with Video Editor and Game Dev…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1000
+  lag_days: 2567
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eea54c8d72aa97922a9139c1916adb7d4ee442cc1c37cb3e34230002a29c8ded
+machine_hash: 02aa2f5ce6dbb9963b2d07a2768283e559288a7be56778bf84869a3770f19f65
 product: manus
 product_name: Manus
 record:
@@ -60,10 +60,10 @@ record:
   title: Introducing Manus 2.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9
-  Automation and Scheduling changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
   consume SDK 1.49.5 and Automation 1.15.0]]'
+- '[[Changes/Qoder/2026-09-23-cloud-automations-create-scheduled-tasks-through-conversation-or-manual-configur|Cloud
+  automations: Create scheduled tasks through conversation or manual…]]'
 - '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
   Automation and Scheduling changes in v1.24.0]]'
 source_release: '[[Releases/Manus/manus-2026-09-28-g8j8nphvwgqyv5g4jyap9l-6132644e|manus-2026-09-28-g8j8nphvwgqyv5g4jyap9l-6132644e]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

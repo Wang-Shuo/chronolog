@@ -5,20 +5,20 @@ description: 'Lovable · 2026-06-22 · Image Generation: Lovable now uses GPT Im
   2 for standard-quality image generation when creating image assets for your app,
   with…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 834
+  lag_days: 1092
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 042f0214f2de36b3c099c58bdabeb47134d2cf15cfb3ebfb883d5e9a36c9dc7e
+machine_hash: 45386090af63c2d8f3635d499cdad8129d729be341b73e94ad9b1091296f2eb7
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +45,12 @@ record:
   title: Better standard image generation while building
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
-  Generation changes in rust-v0.137.0]]'
 - '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
   Generation changes in rust-v0.138.0]]'
 - '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
   Handle standalone image generation failures as terminal items @won-openai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black
+  Forest Lab''s FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-22-2026-06-22-645b32b5|lovable-2026-06-22-2026-06-22-645b32b5]]'
 source_type: lovable_changelog
 theme: image-generation
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920 Handle standalone image generation failures as terminal items @won-openai]]
+- Earlier: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black Forest Lab's FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|📱 Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

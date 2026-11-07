@@ -4,19 +4,20 @@ date: '2026-05-01'
 description: 'Cursor · 2026-05-01 · Collaboration: Admins can now create a team marketplace
   without connecting a repository first. Add, remove, and configure install…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1073
+  lag_days: 2667
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 873401254bda25d12ef77b4867496d2a64abc1dac8b8a8caa956cd31f97e763b
+machine_hash: 1d07c751935ff9cdeb93aba685c43e2681d753bea6541b120a54811e1ee326ba
 product: cursor
 product_name: Cursor
 record:
@@ -106,13 +107,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149 Reduce the surface of collaboration modes @pakrym-oai]]
-- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration changes in rust-v0.129.0]]
+- Later: 2026-05-05 · Synthesia · [[Changes/Synthesia/2026-05-05-share-customizable-avatar-outfits-and-spaces-with-your-teammates-or-your-whole-w|Share avatar outfits and spaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

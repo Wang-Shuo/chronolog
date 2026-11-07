@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'Gemini CLI · 2026-09-08 · Safety and Privacy: fix(core): enforce fail-closed
   workspace trust and filter mcpServers in restricted mode by @luisfelipe-alt in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1241
+  lag_days: 2233
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fbf997debaadc64a19efb9e6375c4acc9f326b7e27a28138e1d55b2046c4c81
+machine_hash: fb1ce16e4829d2b424f7d5b3890f922c2c390ea143a62fd1af50a27dce3c7217
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
     restricted mode'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5
-  Safety and Privacy changes in v1.0.83]]'
+- '[[Changes/Kimi Code/2026-09-04-3-safety-and-privacy-changes-in-kimi-code-0-41-0|3
+  Safety and Privacy changes in Kimi Code 0.41.0]]'
 - '[[Changes/OpenClaw/2026-09-05-24-safety-and-privacy-changes-in-v2026-9-2|24 Safety
   and Privacy changes in v2026.9.2]]'
 - '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

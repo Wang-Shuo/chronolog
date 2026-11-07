@@ -4,19 +4,20 @@ date: '2024-12-25'
 description: "Open WebUI · 2024-12-25 · Collaboration: 2 changes in v0.5.0 — **\U0001F4DA
   Channels (Beta)**: Explore Discord/Slack-style chat rooms designed for real-time…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 581
+  lag_days: 2175
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4368987db89912b87d30f4299d826bb15be078057c989cdbd8143e9448972782
+machine_hash: e29f87b2c186720b061f0a0ffed86d8b918690836911ae1f4dd420feeacd996a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,11 +50,11 @@ record:
   title: 2 Collaboration changes in v0.5.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
-  changes in v0.4.0]]'
-- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
-  suggesting files that share names with files already in chat]]'
+- '[[Changes/Notion/2024-12-05-press-a-button-send-a-notification|Press a button,
+  send a notification]]'
 - '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
+- '[[Changes/Synthesia/2024-12-17-you-share-your-feedback-and-we-work-on-turning-it-into-helpful-ui-updates-today|10
+  improvements and fixes based on your feedback]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: collaboration
@@ -96,14 +97,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
+- Earlier: 2024-12-17 · Synthesia · [[Changes/Synthesia/2024-12-17-you-share-your-feedback-and-we-work-on-turning-it-into-helpful-ui-updates-today|10 improvements and fixes based on your feedback]]
 - Later: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-typing-indicators-in-channels-know-exactly-who-s-typing-in-real-time-within-your|🖊️ Typing Indicators in Channels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

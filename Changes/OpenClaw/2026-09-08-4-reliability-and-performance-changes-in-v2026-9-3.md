@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'OpenClaw · 2026-09-08 · Reliability and Performance: 4 changes in v2026.9.3
   — Cloud bootstrap reports individual preparation phases so operators can locate…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1363
+  lag_days: 2850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19d243be4506365d5c9e48375a2a8039af4d316e437980e2ce4608a08af7a3a4
+machine_hash: 6bfb5bf3ecad4f048ef9c1a1ec831a158642605f9ca19d9b79814f9dc72ce787
 product: openclaw
 product_name: OpenClaw
 record:
@@ -121,13 +121,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned Cloud Advanced settings show when your database is under pressure]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]]
+- Later: 2026-09-08 · Qoder · [[Changes/Qoder/2026-09-08-multitasking-performance-lower-memory-usage-and-reduced-messaging-overhead-when|Multitasking performance: Lower memory usage and reduced messaging overhead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

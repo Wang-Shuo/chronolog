@@ -4,20 +4,20 @@ date: '2023-05-05'
 description: 'Gemini · 2023-05-05 · Enterprise and Administration: What: Google Workspace
   admins can now enable Bard for their domains, allowing their users to access Bard…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1207
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e0e2513f034d4e27e3efcbc1273187889c6e30e0e91d8770569e81d5b78fa09d
+machine_hash: d2eb1339d2c9310aec7ab62538bcaa89d01f1c7b862d62d9a7212020dc68d8e0
 product: gemini
 product_name: Gemini
 record:
@@ -45,6 +45,13 @@ record:
   theme: enterprise-admin
   title: Access for Google Workspace accounts
   type: change
+related_changes:
+- '[[Changes/Notion/2023-02-09-companies-on-an-enterprise-plan-now-have-more-options-to-view-manage-and-restric|Companies
+  on an Enterprise plan now have more options to view, manage, and restrict…]]'
+- '[[Changes/Descript/2023-02-21-4k-video-publishing-pro-and-enterprise-drive-members-can-now-publish-any-composi|4K
+  video publishing]]'
+- '[[Changes/Descript/2023-03-06-you-can-now-select-any-resolution-option-when-publishing-and-if-you-aren-t-on-pr|Select
+  any resolution option when publishing, and if you aren’t on Pro or Enterprise…]]'
 source_release: '[[Releases/Gemini/gemini-2023-05-05-2023-05-05-05b9970a|gemini-2023-05-05-2023-05-05-05b9970a]]'
 source_type: gemini_changelog
 theme: enterprise-admin
@@ -73,13 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Later: 2024-02-21 · Gemini · [[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade data protections for Workspace customers is now available in Gemini]]
+- Earlier: 2023-03-06 · Descript · [[Changes/Descript/2023-03-06-you-can-now-select-any-resolution-option-when-publishing-and-if-you-aren-t-on-pr|Select any resolution option when publishing, and if you aren’t on Pro or Enterprise…]]
+- Later: 2023-06-13 · Descript · [[Changes/Descript/2023-06-13-drive-invite-links-we-ve-added-drive-invite-links-so-that-you-can-add-team-membe|Drive Invite links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

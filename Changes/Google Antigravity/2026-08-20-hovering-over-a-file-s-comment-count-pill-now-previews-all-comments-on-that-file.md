@@ -5,20 +5,19 @@ description: 'Google Antigravity · 2026-08-20 · Editor Experience: Hovering ov
   file''s comment count pill now previews all comments on that file alongside their
   line…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1255
+  lag_days: 2839
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a145836eb8d1964a76e89943c2198ea17b9717302a3b878fe2642a25158c1afa
+machine_hash: 04baeebcbac694541b3913a586462ec94161db037c225a78f80707c981238f97
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -49,9 +48,10 @@ record:
     file…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
 - '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
   Track running unified exec processes at turn completion @copyberry]]'
+- '[[Changes/Kimi Code/2026-08-18-web-the-browser-tab-title-now-shows-the-current-workspace-directory-name|web:
+  The browser tab title now shows the current workspace directory name]]'
 - '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
   Experience changes in rust-v0.149.0]]'
 source_release: '[[Releases/Google Antigravity/google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814|google-antigravity-2026-08-20-rel-hub-2-9-1-30fa0814]]'
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
-- Later: 2026-08-20 · Runway · [[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow Support in Runway MCP]]
+- Later: 2026-08-20 · HeyGen · [[Changes/HeyGen/2026-08-20-your-avatar-doesn-t-have-to-be-stuck-with-the-day-you-recorded-it-edit-look-lets|Your avatar doesn't have to be stuck with the day you recorded it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

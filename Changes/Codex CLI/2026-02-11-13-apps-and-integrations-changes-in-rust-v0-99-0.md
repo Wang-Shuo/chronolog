@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-02-11 · Apps and Integrations: 13 changes in 0.
   — Required MCP servers now fail fast during start/resume flows instead of continuing
   in a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1056
+  lag_days: 2616
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb6e2e4a0edee8d954c9d037048ea9218ae87d18d6737e59c9d66984ce000127
+machine_hash: 6b9d248caae9caf3de2d197cc90b23cc8e2a9a9a55acf853265ab99109d12c0b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,9 +69,10 @@ record:
   title: 13 Apps and Integrations changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
-- '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
-  and Integrations changes in v0.28.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-connect-copilot-to-github-server-with-copilot-connector-web-microsoft-365-copilo|Connect
+  Copilot to GitHub Server with Copilot Connector…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-10-query-miro-boards-and-diagrams-with-copilot-connectors-web-microsoft-365-copilot|Query
+  Miro boards and diagrams with Copilot connectors…]]'
 - '[[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core
   Add directory parameter to plugin client for multi-project support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -149,7 +150,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,21 @@ description: 'Claude Code · 2026-06-08 · Account and Access: Improved the erro
   shown when your organization has disabled API key authentication, with guidance
   based…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 2141
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a204c031cb670011bcfdf5e677d6d763167e32f5d7a596888c261b12b35ecee
+machine_hash: 5188f67a8121be4dd634cfec6df071e6f0afcb97f9ea5661a43ad1e4c7c800a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +46,8 @@ record:
     key…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise
-  Authentication Fix]]'
+- '[[Changes/Kimi Code/2026-06-04-keep-managed-oauth-credentials-scoped-to-their-configured-authentication-and-api|Keep
+  managed OAuth credentials scoped to their configured authentication and API endpoints]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP
   OAuth re-authentication no longer fails with an address-in-use error…]]'
 - '[[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased
@@ -96,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

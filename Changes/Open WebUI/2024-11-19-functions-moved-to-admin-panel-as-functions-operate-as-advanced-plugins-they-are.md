@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-11-19 · Apps and Integrations: **\U0001F6E0️
   Moved to Admin Panel**: As Functions operate as advanced plugins, they are now accessible
   from…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 607
+  lag_days: 2167
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d54c2811970500850f470042c62687fda1ec7978e4317378fb11bcdd35788c8
+machine_hash: 86e876daf7ab63587a4ed5155a67c9fe40830d0a8f976676b287577bd62cb02a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F6E0️ Functions Moved to Admin Panel**"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench
-  OpenHands Integration]]'
 - '[[Changes/Dify/2024-11-05-3-apps-and-integrations-changes-in-0-11-0|3 Apps and
   Integrations changes in 0.11.0]]'
 - '[[Changes/Dify/2024-11-11-gitlab-tools-integration-amp-up-your-devops-with-the-integration-of-gitlab-tools|GitLab
   Tools Integration]]'
+- '[[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You
+  can add status page updates to your Slack workspace using the the Subscribe to Updates]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-gitlab-tools-integration-amp-up-your-devops-with-the-integration-of-gitlab-tools|GitLab Tools Integration]]
+- Earlier: 2024-11-19 · Descript · [[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You can add status page updates to your Slack workspace using the the Subscribe to Updates]]
 - Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-a-minimal-separator-between-pinned-apps-and-unpinned-apps-in-the-explor|feat: add a minimal separator between pinned apps and unpinned apps in the explore page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

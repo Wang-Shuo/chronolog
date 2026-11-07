@@ -4,20 +4,20 @@ date: '2025-10-15'
 description: 'Gemini CLI · 2025-10-15 · Automation and Scheduling: Cleanup useSelectionList
   and fix infinite loop in debug mode issues. by @jacob314 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 652
+  lag_days: 2219
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 805c5d2977e536f92817629aad2405be4a1cd7a16e7e4422753e63674adbf97c
+machine_hash: b363fb2972512538bb8565ae9f35c407e499b3bb0b4282aa3898babbe5aa37ab
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Cleanup useSelectionList and fix infinite loop in debug mode issues
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma
-  API: Automate your creative workflow (Beta)]]'
+- '[[Changes/Notion/2025-09-18-notion-ai-will-write-your-formulas|Notion AI will write
+  your formulas]]'
 - '[[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation
   and Scheduling changes in 1.9.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a2d1fa76c437f8fdf43f5eb9b87cded6932bf53893e60718396e2087dc428279
+machine_hash: e55d467aa13d85538744292d21859ec5293a496dcb2931de10bdb201a3b41f47
 product: opencode
 product_name: OpenCode
 record:
@@ -47,10 +47,9 @@ record:
   title: UI/UX Improvements Agent & Skill Ordering
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
-  Mode changes in v1.0.8]]'
 - '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
   changes in rust-v0.116.0]]'
+- '[[Changes/HeyGen/2026-03-19-video-agent|Video Agent]]'
 - '[[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-22-v1-3-0-00955596|opencode-2026-03-22-v1-3-0-00955596]]'
 source_type: opencode_changelog

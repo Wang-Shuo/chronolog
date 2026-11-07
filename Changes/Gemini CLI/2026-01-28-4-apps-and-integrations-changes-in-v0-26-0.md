@@ -5,20 +5,20 @@ description: 'Gemini CLI · 2026-01-28 · Apps and Integrations: 4 changes in Re
   v0.26.0 — Add support for running available commands prior to MCP servers loading
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1042
+  lag_days: 2602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f0813f0e08602bb1f74ed6c0e39dc64e45a56f7fed14b7c67a14b836230f7b2
+machine_hash: 1f6f9165049538bbfbbbbc5e90687f3255b6e75f1ea2f79599f56ea6e22d1d5b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Apps and Integrations changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-refreshed-protocol-mcp-docs-to-reflect-thread-unarchive-and-the-updated-request|Refreshed
-  protocol/MCP docs to reflect thread/unarchive and the updated…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-2-apps-and-integrations-changes-in-v0-0-396|2
   Apps and Integrations changes in v0.0.396]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-advanced-understanding-for-comments-and-attachments-in-snow-kb-and-azure-devops|Advanced
+  understanding for comments and attachments in SNOW KB and Azure DevOps…]]'
 - '[[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add
   MCP prompts support - prompts from connected MCP servers now appear in slash…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9|gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9]]'
@@ -108,7 +108,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

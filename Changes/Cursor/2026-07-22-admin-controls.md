@@ -5,20 +5,20 @@ description: 'Cursor · 2026-07-22 · Enterprise and Administration: Admins can 
   the router per team or group, restrict which optimization modes members can use,
   set the…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1174
+  lag_days: 2381
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c3ed28651ad453a84ad05bd7555835c68a44d275a9c6d4339c4acd51ca5741ab
+machine_hash: bc11394598b23956745b2486f5e4eb5ca6e23dfe910136533ab2aa03b97c8bd4
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: Admin controls
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
-  /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins
+  can manage access more precisely with support for nested permissions…]]'
 - '[[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise
   and Administration changes in 1.16.0]]'
 - '[[Changes/v0/2026-07-21-enterprise-managed-users-are-surfaced-in-the-web-ui-and-their-profiles-are-alway|Enterprise
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

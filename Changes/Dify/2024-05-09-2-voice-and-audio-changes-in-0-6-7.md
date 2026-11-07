@@ -4,20 +4,20 @@ date: '2024-05-09'
 description: 'Dify · 2024-05-09 · Voice and Audio: 2 changes in v0.6.7 — `LocalAI`
   speech-to-text support by @Tomywang999 in #3921.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 304
+  lag_days: 2131
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f30c9f8109216cc493faf9ae82097da08d076e13f975c3cbc4d4abc7d50cecf9
+machine_hash: 3af6121b791a402d0324bc0c6830e77466280c1f7ba18e006050d33c8ef911bc
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Voice and Audio changes in 0.6.7
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
-  changes in 0.6.5]]'
 - '[[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features
   in rooms]]'
 - '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
   next week)]]'
+- '[[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice
+  Cloning: your voice in 29 languages]]'
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'
 source_type: github_releases
 theme: voice
@@ -86,14 +86,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully next week)]]
+- Earlier: 2024-05-07 · Synthesia · [[Changes/Synthesia/2024-05-07-clone-your-voice-in-english-and-use-it-in-29-other-languages-the-recording-takes|Voice Cloning: your voice in 29 languages]]
 - Later: 2024-05-24 · Suno · [[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4 is cooking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

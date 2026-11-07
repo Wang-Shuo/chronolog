@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Apps and Integrations: 14 changes in v1.18.0 — Smarter
   Agent Routing, Portable Apps, Deeper Workflow Visibility — Create a knowledge space…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4c6d5328d4dbc205db4beda075e722bf017dcec7a21f691fe9e5c8974702f47
+machine_hash: 680bbf11a4f17bfc869a3424203469e97c8b46e2ab7b32cb87f0e71c79a7ff80
 product: dify
 product_name: Dify
 record:
@@ -110,8 +110,8 @@ record:
   title: 14 Apps and Integrations changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
-  bump @openhands/extensions to 0.33.0]]'
+- '[[Changes/Qoder/2026-10-22-3-apps-and-integrations-changes-in-qoder-0-4-9|3 Apps
+  and Integrations changes in Qoder 0.4.9]]'
 - '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
   Apps and Integrations changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
@@ -193,7 +193,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

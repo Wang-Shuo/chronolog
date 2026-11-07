@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d7820f025d861a6b8337a4e43a2b2f2da46add8fb0349b10d1a71b9b91288311
+machine_hash: 5ee711b8b78cb8a8cdccf4001f33bf4789922a5c134eabd1ea210007a17de778
 product: midjourney
 product_name: Midjourney
 record:
@@ -45,10 +45,10 @@ record:
     to V8.1!
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
-  LLM profiles]]'
 - '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
   V4 reasoning format]]'
+- '[[Changes/Descript/2026-06-11-opus-4-8-is-now-in-the-model-picker|Opus 4.8 is now
+  in the model picker]]'
 - '[[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support
   for PDF attachments to messages to Gemini models]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-06-11-https-updates-midjourney-com-v8-1-is-now-the-default-model-c7c15790|midjourney-2026-06-11-https-updates-midjourney-com-v8-1-is-now-the-default-model-c7c15790]]'

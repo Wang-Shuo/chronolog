@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Enterprise and Administration: 2 changes
   v2026.9.6 — The Windows installer can continue after a failed Node package-manager
   attempt…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1237
+  lag_days: 2444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5ee12ce53c02a95ade9ff1097016e87f4a6a0392b39bd2c6f1f9050f2473ff5
+machine_hash: b79c1e3d7253dd03c0712e4f247794dbeef0e064bc0083e05c3a28e55d63155a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -57,12 +57,12 @@ record:
   title: 2 Enterprise and Administration changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
-  design system for each group]]'
-- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
-  Enterprise and Administration changes in v0.11.4]]'
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-people-skills-removal-and-deletion-admin-control-web-microsoft-365-copilot|People
+  Skills - removal and deletion admin control Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-new-dedicated-license-requests-page-in-microsoft-365-admin-center-web-microsoft|New
+  dedicated License Requests page in Microsoft 365 Admin Center…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-unlocking-deeper-copilot-insights-with-enhanced-power-bi-filtering-web-microsoft|Unlocking
+  Deeper Copilot Insights with Enhanced Power BI Filtering…]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: enterprise-admin
@@ -117,14 +117,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-unlocking-deeper-copilot-insights-with-enhanced-power-bi-filtering-web-microsoft|Unlocking Deeper Copilot Insights with Enhanced Power BI Filtering…]]
 - Later: 2026-09-24 · Lovable · [[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See which credit limit applies to each member in the People export]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

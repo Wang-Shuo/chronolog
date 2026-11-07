@@ -4,20 +4,19 @@ date: '2026-03-02'
 description: 'Codex CLI · 2026-03-02 · Editor Experience: 3 changes in 0.107.0 — Large
   pasted-content placeholders now survive file completion correctly, fixing a regression…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1084
+  lag_days: 2668
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0321f42af676f323b1b2eda7cbb19d76227d525e46012a7e3034403e1d9eb13
+machine_hash: 1a9404b40983b1ca7eceed40993b773ad7e6c8fbd201b40e910c22d6bacf3b57
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,13 +96,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli): include /dir add directories in @ autocomplete suggestions]]
-- Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-chatcontrols-reactivity-fix-fixed-a-svelte-reactivity-issue-where-the-active-tab|⚡ ChatControls reactivity fix. Fixed a Svelte reactivity issue where the active…]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-more-predictable-layout-behavior|More predictable layout behavior]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

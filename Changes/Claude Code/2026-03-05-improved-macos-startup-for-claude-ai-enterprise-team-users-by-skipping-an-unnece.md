@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-05 · Enterprise and Administration: Improv
   startup for Claude.ai enterprise/team users by skipping an unnecessary keychain
   lookup'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 2242
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f16a87dba6949b3e3df7e4079fd6a71c657ccb680d3ba6936e88b6a1b1daaede
+machine_hash: 3d096a5971d7013ac5868ab11169f89e4c399f8d7ea091d11cb4b0da11528ff1
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Improved macOS startup for Claude.ai enterprise/team users by skipping…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-23-file-access-control-respect-the-files-list-and-search-endpoints-now-properly-res|\U0001F5C4️
-  File access control respect. The files list and search endpoints now properly…]]"
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-out-of-box-filter-support-for-data-sources-in-copilot-search-web-microsoft-365-c|Out-of-box
+  filter support for data sources in Copilot Search…]]'
 - '[[Changes/Gemini CLI/2026-02-25-feat-admin-add-admin-controls-documentation-by-skeshive-in-https-github-com-goog|feat(admin):
   Add admin controls documentation]]'
 - '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

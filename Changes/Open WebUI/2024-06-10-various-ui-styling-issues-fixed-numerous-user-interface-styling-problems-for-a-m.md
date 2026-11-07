@@ -4,20 +4,20 @@ date: '2024-06-10'
 description: 'Open WebUI · 2024-06-10 · Interface Experience: **✨ Various UI Styling
   Issues**: Fixed numerous user interface styling problems for a more cohesive look.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 518
+  lag_days: 1884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20313a56f69c243dd5be06478d0ae67fe0dae3e37e2db372071cccfe36feb78c
+machine_hash: f957b75153029cb9e8d5ba0f77c86ad4598e24cc5b12e4d8a3c06516305f424e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,12 +42,11 @@ record:
   title: '**✨ Various UI Styling Issues**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-02-ui-enhancement-fixed-the-scrollbar-overlapping-issue-with-the-message-box-in-the|\U0001F5A5️
-  UI Enhancement]]"
-- "[[Changes/Open WebUI/2024-06-03-mermaid-rendering-support-we-ve-included-support-for-mermaid-rendering-this-allo|\U0001F30A
-  Mermaid Rendering Support: We've included support for Mermaid rendering]]"
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
+- '[[Changes/Descript/2024-06-04-introducing-underlord|Introducing Underlord]]'
+- '[[Changes/Descript/2024-06-04-the-new-and-improved-sidebar|The new and improved
+  sidebar]]'
+- '[[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and
+  Highlight reels]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-10-v0-3-0-github-159582186-c823064c|open-webui-2024-06-10-v0-3-0-github-159582186-c823064c]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo map is now optimized based on text of chat history as well as files added to chat]]
-- Later: 2024-06-12 · Midjourney · [[Changes/Midjourney/2024-06-12-report-bug-can-now-be-found-under-the-help-menu|'Report Bug' can now be found under the 'Help' menu]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-create-clips-and-highlight-reels|Create Clips and Highlight reels]]
+- Later: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-a-tidier-sidebar|A tidier sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

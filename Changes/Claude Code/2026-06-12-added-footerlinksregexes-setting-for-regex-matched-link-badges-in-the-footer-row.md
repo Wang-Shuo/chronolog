@@ -4,20 +4,20 @@ date: '2026-06-12'
 description: 'Claude Code · 2026-06-12 · Interface Experience: Added `footerLinksRegexes`
   setting for regex-matched link badges in the footer row, configurable via user or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1250
+  lag_days: 2616
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f487fb9a48fd9482eb17ad1a74c1e46870d359b68c68bb919b6cf73acf89e42a
+machine_hash: 433f82e7899dddc5175a701da427793af7b865095630441edb4258bc22c9423e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,8 @@ record:
     row…
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core
-  References can include usage descriptions for agents, show up in the new docs…]]'
 - '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Descript/2026-06-11-how-to-find-it|How to find it]]'
 - '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
   Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

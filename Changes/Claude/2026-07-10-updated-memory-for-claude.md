@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f154ed1acd856f5e1b0f0f9b10ba917b9605ab5e71ef4438371efb5e8104bff
+machine_hash: dd9a85b6dccb1e2bc3b148dd9e41354ae91a7fbf32227d34196b6878d4c5d316
 product: claude
 product_name: Claude
 record:
@@ -47,10 +47,10 @@ record:
   title: Updated memory for Claude
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team
-  members with v0 edit access can manage team skills and memories without…]]'
 - '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
   Memory and Personalization changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-progressive-tool-disclosure-select-tools-experimental-compaction-now-discards-th|Progressive
+  tool disclosure (select_tools, experimental)]]'
 - '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
   with Claude]]'
 source_release: '[[Releases/Claude/claude-2026-07-10-2026-07-10-b0b0aa18|claude-2026-07-10-2026-07-10-b0b0aa18]]'

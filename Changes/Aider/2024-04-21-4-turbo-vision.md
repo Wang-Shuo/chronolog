@@ -3,20 +3,20 @@ card_id: aider-2024-04-21-e11beb
 date: '2024-04-21'
 description: 'Aider · 2024-04-21 · Multimodal Input: `--4-turbo-vision`'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 215
+  lag_days: 1983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be51c9c5eb0050e73e24c024e8aaabda32f93f2f4c5f36f96acfeed263e67a48
+machine_hash: 1144bdf054b76bafed812752f82fcc6ed2c1f91c11172e70884944ac8cba701c
 product: aider
 product_name: Aider
 record:
@@ -39,8 +39,8 @@ record:
   title: '`--4-turbo-vision`'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
-  Input changes in v0.1.23]]'
+- '[[Changes/Synthesia/2024-02-19-today-we-are-introducing-layers-another-nice-feature-to-help-you-edit-the-video|Layers:
+  now easier to select and edit]]'
 - '[[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom
   Gen-2 presets]]'
 - '[[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

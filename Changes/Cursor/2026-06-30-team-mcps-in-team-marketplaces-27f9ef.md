@@ -5,19 +5,20 @@ description: 'Cursor · 2026-06-30 · Collaboration: Admins can now configure Te
   servers once and distribute them across cloud agents, the agents window, IDE, and
   CLI.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 21641203d0199dbedcca607e7b8f93922b4f886ea5b5835ba6609244a872f354
+machine_hash: d96fde6c4af459c494a449c48897416b57a28682e1d25299f40a8584f8da5028
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +49,10 @@ record:
   title: Team MCPs in team marketplaces
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-26-comments-in-shared-app-previews|Comments in shared
-  app previews]]'
 - '[[Changes/v0/2026-06-26-snowflake-gets-fewer-first-deploy-failures-creates-a-missing-snowflake-yml-for-y|Snowflake
   gets fewer first deploy failures, creates a missing snowflake.yml for you…]]'
+- '[[Changes/Kimi Code/2026-06-29-scope-the-web-composer-s-up-down-input-history-to-the-current-session-instead-of|Scope
+  the web composer''s up/down input history to the current session instead…]]'
 - '[[Changes/Open WebUI/2026-06-29-4-collaboration-changes-in-v0-10-0|4 Collaboration
   changes in v0.10.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2|cursor-2026-06-30-3-10-https-cursor-com-changelog-team-marketplace-updates-eb3caab2]]'
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-05-15'
 description: 'Dify · 2025-05-15 · Voice and Audio: add Accept-Ranges header for audio/video
   files by @sondin in https://github.com/langgenius/dify/pull/19119'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 675
+  lag_days: 2502
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 028f96b10aae16b4d4d3f6b6c7040488594c3f0ba1f85c47aba0bc97ea8ad5e9
+machine_hash: 5e58b31fb021a455f1840e240fbc3054fae05f3cba9f43be02e09707ec1cb794
 product: dify
 product_name: Dify
 record:
@@ -41,8 +41,8 @@ record:
   title: add Accept-Ranges header for audio/video files
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-05-05-2-voice-and-audio-changes-in-v0-6-6|2 Voice and
-  Audio changes in v0.6.6]]'
+- '[[Changes/Descript/2025-05-06-custom-speaker-quality-improvements|Custom speaker
+  quality improvements]]'
 - "[[Changes/Open WebUI/2025-05-06-webm-audio-transcription-now-supported-fixed-an-issue-where-webm-files-failed-du|\U0001F3A7
   WebM Audio Transcription Now Supported]]"
 - "[[Changes/Open WebUI/2025-05-10-audio-transcription-issue-with-openai-resolved-openai-based-audio-transcription|\U0001F3A4
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

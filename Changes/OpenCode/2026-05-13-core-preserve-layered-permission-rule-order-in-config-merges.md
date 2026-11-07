@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'OpenCode · 2026-05-13 · Safety and Privacy: Core Preserve layered permission
   rule order in config merges.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2115
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1990bb0b14d25d99cd70d190cdbd1bbd5f0af1c30af34ae3bacb3963fbfd8f23
+machine_hash: 3da54d240e1df01068aa7869004e2a83868f74b5860bce5f02879fe65c41c55d
 product: opencode
 product_name: OpenCode
 record:
@@ -43,13 +43,11 @@ record:
   title: Core Preserve layered permission rule order in config merges
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0
-  can now run terminal commands in your chats, with a permission prompt before each
-  one]]'
 - '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
   and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
   governance and security controls]]'
+- '[[Changes/Notion/2026-05-13-meet-your-notion-workers|Meet your Notion Workers]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-13-v1-14-49-e73e3778|opencode-2026-05-13-v1-14-49-e73e3778]]'
 source_type: opencode_changelog
 theme: safety-privacy
@@ -85,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]]
+- Earlier: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-meet-your-notion-workers|Meet your Notion Workers]]
 - Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added new claude agents flags]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,19 +5,20 @@ description: 'Claude Code · 2026-09-18 · Developer Workflow: Improved `/ultrar
   when there''s nothing to review: messages say which case you''re in, offer a command
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1280
+  lag_days: 2929
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 25cbffb3694212c4da59d14ba3831c04e9dff1d133a71e7a11b943d96aaf3fc0
+machine_hash: 769c5b2a4abd488a7f535548e8bf0a4769aa81fb8f36b4f7b5a6f05a29eed810
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +49,12 @@ record:
   title: Improved `/ultrareview` when there's nothing to review
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-2-developer-workflow-changes-in-v4-1-19|2 Developer
-  Workflow changes in v4.1.19]]'
 - '[[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15
   Developer Workflow changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
   status row now says it is waiting for background shells, instead…]]'
+- '[[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render
+  mermaid code blocks as diagrams in the terminal]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The status row now says it is waiting for background shells, instead…]]
+- Earlier: 2026-09-17 · Kimi Code · [[Changes/Kimi Code/2026-09-17-render-mermaid-code-blocks-as-diagrams-in-the-terminal-turn-it-off-under-setting|Render mermaid code blocks as diagrams in the terminal]]
 - Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A command that is killed when the app restarts is now reported as canceled instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

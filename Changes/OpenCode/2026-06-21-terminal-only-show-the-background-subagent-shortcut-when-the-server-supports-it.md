@@ -4,19 +4,20 @@ date: '2026-06-21'
 description: 'OpenCode · 2026-06-21 · Developer Workflow: Terminal Only show the background
   subagent shortcut when the server supports it.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2840
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8e5bb3ecb3cc1b52ca00aa82b0625b6aeda386ca0385662ad5e68f85b9867fa
+machine_hash: 026d28bea8bef09ef004c516481f0df343b31e05f7f1384810009f16972b6e30
 product: opencode
 product_name: OpenCode
 record:
@@ -52,7 +53,8 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
+- '[[Changes/Kimi Code/2026-06-17-skip-debug-tps-when-the-output-stream-is-too-short-to-measure-reliably|Skip
+  debug TPS when the output stream is too short to measure reliably]]'
 - '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
   Developer Workflow changes in rust-v0.141.0]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
@@ -95,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

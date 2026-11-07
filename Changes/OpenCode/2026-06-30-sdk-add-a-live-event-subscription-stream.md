@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenCode · 2026-06-30 · Pricing Model: SDK Add a live event subscription
   stream.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1293
+  lag_days: 2911
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 04302bc495c0164cf27bce89d1c3e715d115f238ad71d94253c8da3813c87627
+machine_hash: eb3a07b16fa97d13582e2e031c83d9fc86786499a6478a57da6ee089e4d39747
 product: opencode
 product_name: OpenCode
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically compress oversized images before they reach the model, downsampling…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

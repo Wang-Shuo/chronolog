@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0015e86af05d1e7456dd63d6f153b0f4cc618e2acd208a5d0474e640f4432e6
+machine_hash: 092024f0ebef12e8853da558d90dd3da617c13e9e7c3ab61153d854434205128
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v4.1.6
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain
-  when a free model promotion ends]]'
-- '[[Changes/Codex CLI/2026-08-05-37057-0-146-backport-safer-cyber-model-auto-review-defaults-anp-oai|♯37057
-  0.146 Backport safer cyber-model auto-review defaults @anp-oai]]'
+- '[[Changes/Descript/2026-08-05-two-more-models-to-choose-from|Two more models to
+  choose from]]'
+- '[[Changes/Descript/2026-08-05-a-solstice-a-red-moon-and-a-slew-of-new-descript-features-early-summer-had-it-al|A
+  solstice, a red moon, and a slew of new Descript features—early summer had it all]]'
 - '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
   to GPT‑5.6 in ChatGPT]]'
 source_release: '[[Releases/Cline/cline-2026-08-06-v4-1-6-github-366065847-44178bc5|cline-2026-08-06-v4-1-6-github-366065847-44178bc5]]'
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.6
 ## Nearby in Model Support
 
 - Earlier: 2026-08-06 · ChatGPT · [[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates to GPT‑5.6 in ChatGPT]]
-- Later: 2026-08-06 · Lovable · [[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI's thinking in your app]]
+- Later: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model Support changes in Kimi Code 0.34.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2025-12-21'
 description: "Open WebUI · 2025-12-21 · Files and Data: 6 changes in v0.6.42 — \U0001F4CA
   File viewer modal was significantly enhanced with native-like viewers for Excel/CSV…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 941
+  lag_days: 2286
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e5e34308a8e6d91135156ff9ead7b148d249366a3a25671702244bf2c716ad9
+machine_hash: 3403908e270371759c845cdb5abcabfad2245b58b278e07f3a47adb4f76008b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -132,13 +132,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 ## Nearby in Files and Data
 
 - Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-new-endpoints|New Endpoints]]
-- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add file upload enabled check and new i18n message]]
+- Later: 2025-12-22 · Z.ai API · [[Changes/Z.ai API/2025-12-22-the-update-brings-open-source-sota-performance-on-major-coding-and-reasoning-ben|The update brings open-source SOTA performance on major coding and reasoning…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

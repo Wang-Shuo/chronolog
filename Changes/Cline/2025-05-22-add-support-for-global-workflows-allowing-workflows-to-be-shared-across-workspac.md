@@ -4,19 +4,20 @@ date: '2025-05-22'
 description: 'Cline · 2025-05-22 · Collaboration: Add support for global workflows,
   allowing workflows to be shared across workspaces with local workflows taking precedence'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 729
+  lag_days: 2323
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0c5bd3f956932b79f4438dbc3c03af693e74c2287d895ddcaaf68e0a4d7c5f7
+machine_hash: 5b504271d1d3e09a3aa5b10eada7915396f0bc388c5b5a3efc79202334317bfb
 product: cline
 product_name: Cline
 record:
@@ -46,11 +47,10 @@ record:
     workspaces…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
-  collapsible recent task list, allowing users to hide their task history…]]'
 - '[[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit
   Teams]]'
 - '[[Changes/ElevenLabs/2025-05-19-voices|Voices]]'
+- '[[Changes/Descript/2025-05-20-drive-invite-links|Drive invite links]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-2-github-220508945-79432c34|cline-2025-05-22-v3-17-2-github-220508945-79432c34]]'
 source_type: github_releases
 theme: collaboration
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-voices|Voices]]
+- Earlier: 2025-05-20 · Descript · [[Changes/Descript/2025-05-20-drive-invite-links|Drive invite links]]
 - Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-team-member-app-transfers|Team member app transfers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

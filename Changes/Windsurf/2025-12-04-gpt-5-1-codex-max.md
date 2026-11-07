@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 009375208d51ecce8b2c49b10168d0d415d8e39a82bd7b4780c585a030cd9647
+machine_hash: 76381e353ff52050e25d24b48438462e427c93ec876b416302677eedec8034fa
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,8 +46,8 @@ record:
   title: GPT-5.1-Codex Max
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model
-  Support changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-04-new-generative-video-and-image-models|New generative
+  video and image models]]'
 - '[[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve
   even more complex problems with Gemini 3 Deep Think]]'
 - '[[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39

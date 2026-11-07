@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: "Open WebUI · 2026-01-09 · Image Generation: 4 changes in v0.7.0 — \U0001F916
   **Native Function Calling with Built-in Tools.** Users can now ask models to perform…"
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 670
+  lag_days: 928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73da4cb2bb0a8ba51022f3cd662b156592fe66010aa037c391efc22b20377ad6
+machine_hash: 69231266bf4cc89fd5d6260b4b83f23e9f43157e5dd01e0ec7111d6eac9e19e0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Runway · 2026-07-01 · Reliability and Performance: Nano Banana 2
   is now available in Runway. Create images at warp speed, without compromising on
   quality.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1294
+  lag_days: 2781
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f5cc5c41ad7cdae2eeb7bff563cda950fcd655046ebd67f228baf65290d7046d
+machine_hash: 341a7946bce67b210221d0c489b21a05375241ab3866f0baceb1417ed202f9ba
 product: runway
 product_name: Runway
 record:
@@ -43,10 +43,10 @@ record:
   title: Nano Banana 2 Lite
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
-  Reliability and Performance changes in v0.31.1]]'
 - '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
   Reliability and Performance changes in v2026.6.11]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-01-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
+  survey insights with Copilot Highlights Web (Viva Glint)]]'
 - "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/Runway/runway-2026-07-01-2026-07-01-nano-banana-2-lite-7d4e53e4|runway-2026-07-01-2026-07-01-nano-banana-2-lite-7d4e53e4]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

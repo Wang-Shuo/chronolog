@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-09-11 · Developer Workflow: You can now answer y
   Claw’s questions and enter secrets from the terminal, with clearer output to read
   and copy…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1273
+  lag_days: 2922
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1461b9aa2c0e5010a6e61de7c6c6ba7f7d65d63a40cb5f666b4c264b2d7aafd3
+machine_hash: 35a3fe82070904b3415c5744483f0e896ce5c3844990e2cd98bacf212725c483
 product: openclaw
 product_name: OpenClaw
 record:
@@ -107,13 +108,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Later: 2026-09-12 · Qoder · [[Changes/Qoder/2026-09-12-file-review-reduced-cpu-usage-when-multiple-code-diffs-are-expanded-alongside-an|File review: Reduced CPU usage when multiple code diffs are expanded alongside…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

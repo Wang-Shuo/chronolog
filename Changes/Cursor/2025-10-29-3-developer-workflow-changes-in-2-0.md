@@ -4,19 +4,20 @@ date: '2025-10-29'
 description: 'Cursor · 2025-10-29 · Developer Workflow: 3 changes in New Coding Model
   and Agent Interface — Simplified text rendering within chat to use the LSP less.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 956
+  lag_days: 2605
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b23998aae870540e899757288f70182d2f07347013b6a4edf33c0a582fc89a3f
+machine_hash: c55e67fae219e7a7edc9a12161cec2c6e917308fd0bced0769a35064b42f634d
 product: cursor
 product_name: Cursor
 record:
@@ -110,7 +111,7 @@ Source: https://cursor.com/changelog/2-0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

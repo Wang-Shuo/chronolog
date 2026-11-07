@@ -4,20 +4,20 @@ date: '2026-10-05'
 description: 'GitHub Copilot CLI · 2026-10-05 · Files and Data: Canvas actions can
   now return images to the model in invoke_canvas_action.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1229
+  lag_days: 2574
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 678d4031dc40c29617395df7a985402d0ea127a4ddbc8fe362a2bdfdefc840b2
+machine_hash: 73c29f6e2af3758c192ad4127e821fa0776988671e9b3a8b87976ac0cb08b537
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: Canvas actions can now return images to the model in invoke_canvas_action
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
-  retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload
+  WebP images to your videos]]'
 - '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and
   Data changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

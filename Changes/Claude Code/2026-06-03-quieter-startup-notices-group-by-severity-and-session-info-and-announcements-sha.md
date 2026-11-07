@@ -4,19 +4,20 @@ date: '2026-06-03'
 description: 'Claude Code · 2026-06-03 · Collaboration: Quieter startup: notices group
   by severity, and session info and announcements share a single line per launch'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b94ec8714aaa871c99b10686ced4f7ea7ba7818fdd5f4304a6fd21744418d8d
+machine_hash: 66b31ca468d130be524217950bff77ba4ebec70098156ba7c858b0d4811a3dd1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +45,8 @@ record:
     share…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
-  values are now included as labels on metric datapoints…]]'
+- '[[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The
+  Organization tab now begins with a Team Overview section, where admins can view…]]'
 - '[[Changes/Lovable/2026-06-02-cleaner-project-collaborator-icons|Cleaner project
   collaborator icons]]'
 - '[[Changes/Lovable/2026-06-02-move-projects-to-folders-from-chat|Move projects to
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

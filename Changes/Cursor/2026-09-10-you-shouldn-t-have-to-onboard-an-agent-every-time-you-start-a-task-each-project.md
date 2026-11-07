@@ -5,20 +5,20 @@ description: 'Cursor · 2026-09-10 · Context Window: You shouldn''t have to onb
   an agent every time you start a task. Each Project maintains a set of files that
   sync…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c59eb6ef6c22614f26ce948f4221d4b85d964875f284d9ea2323ee7d06cf289b
+machine_hash: c23293ee641c9533776935b806b4706cb66066bffb13f0b6eb2e1df7276be26b
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
   title: Shared context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
-  prompt-cache stability]]'
 - '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
   Window changes in rust-v0.154.0]]'
+- '[[Changes/Kimi Code/2026-09-09-web-support-permanently-deleting-sessions-from-the-session-row-context-menu-with|web:
+  Support permanently deleting sessions from the session row context menu…]]'
 - '[[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews
   for CSV and TSV files]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

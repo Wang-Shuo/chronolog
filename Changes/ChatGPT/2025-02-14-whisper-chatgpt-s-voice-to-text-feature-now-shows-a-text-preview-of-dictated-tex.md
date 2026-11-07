@@ -4,20 +4,20 @@ date: '2025-02-14'
 description: 'ChatGPT · 2025-02-14 · Voice and Audio: Whisper (ChatGPT''s voice-to-text
   feature) now shows a text preview of dictated text after recording:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 585
+  lag_days: 2412
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87a61f8c59e70f8b7f5844d77e66ff4800bd88c376ceb9e7ef4e274fef765f81
+machine_hash: 19f8cd80f523b519348b591fb3958b3152fafb22ebc55b6f5b3365585ad3145a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
     text…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
-  Audio Input Echo Cancellation]]"
-- '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
-  changes in v0.71.0]]'
+- '[[Changes/Descript/2025-01-28-auto-detect-transcription-language|Auto-detect transcription
+  language]]'
+- '[[Changes/Descript/2025-02-04-you-can-hear-a-before-and-after-sample-below-this-voice-was-trained-first-on-our|You
+  can hear a before and after sample below]]'
 - "[[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|\U0001F3A4
   Kokoro-JS TTS Support]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

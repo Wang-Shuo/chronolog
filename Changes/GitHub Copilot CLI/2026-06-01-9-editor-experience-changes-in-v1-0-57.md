@@ -4,20 +4,19 @@ date: '2026-06-01'
 description: 'GitHub Copilot CLI · 2026-06-01 · Editor Experience: 9 changes in 1.0.57
   — Actionable error message shown when GitHub API rate limit is hit during `copilot…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f2b43a5a9edda3f7e7b68c6d58e06caf05efd56639d46b8ca7dd76b5986235e
+machine_hash: c1e4e83987b46e5099bd61f633649c653465357585e5faf212a05ab7b8d9cfc7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -127,7 +126,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.57
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

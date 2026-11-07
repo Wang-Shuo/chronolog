@@ -4,20 +4,20 @@ date: '2024-09-30'
 description: 'OpenHands · 2024-09-30 · Multimodal Input: Vision and prompt caching
   fixes by @enyst in https://github.com/All-Hands-AI/OpenHands/pull/4014'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 377
+  lag_days: 2145
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2989d889774950202a5cd80e43f54754f962dcf85d0b5cbf21011a789a176552
+machine_hash: f9255a8258b097ecc6212d9b6e2a35737369c01be8ed94ac198b77328717f1d2
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Vision and prompt caching fixes
   type: change
 related_changes:
-- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
-  Alpha Text to Video]]'
+- '[[Changes/Descript/2024-08-30-borders-and-shadows-on-media-layers|Borders and shadows
+  on media layers]]'
 - '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
   add hunyuan-vision]]'
 - '[[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

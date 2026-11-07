@@ -4,20 +4,20 @@ date: '2025-11-13'
 description: 'Codex CLI · 2025-11-13 · Search and Browsing: 2 changes in 0.58.0 —
   Quality of life fixes: doc updates (web_search, SDK, config), TUI shortcuts inline…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 966
+  lag_days: 1995
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 194ed895b88604ac2703335aa7b3040e55a3f0bdb121e2a1c197009ee4e532f0
+machine_hash: 68599710d08062d547fe910f90f8f6f022e0e13b424ee0fed4c4e724676f6245
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Search and Browsing changes in rust-v0.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core):
-  migrate web search tool to tool-names]]'
+- '[[Changes/Descript/2025-10-28-updated-fonts-modal-for-easier-browsing|Updated fonts
+  modal for easier browsing]]'
 - '[[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search
   and Browsing changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.58.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

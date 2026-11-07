@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'Midjourney · 2025-07-16 · Enterprise and Administration: We''re starting
   to investigate opening up an Enterprise API for people to start integrating Midjourney…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 803
+  lag_days: 2010
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7db36345042b91efbe290e01ec56bbe112f5fd44418e91412177a813a519c69b
+machine_hash: 5ecd2d803837021786bb06c5ae975e350f723aba922171b1f34096fb8e5e9a24
 product: midjourney
 product_name: Midjourney
 record:
@@ -46,8 +46,9 @@ record:
   title: Enterprise API Survey
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Notion/2025-07-10-and-search-across-linear|and search across Linear]]'
+- '[[Changes/Notion/2025-07-10-search-gmail-with-enterprise-search|Search Gmail with
+  Enterprise Search]]'
 - '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
 source_release: '[[Releases/Midjourney/midjourney-2025-07-16-https-updates-midjourney-com-enterprise-api-survey-f331446a|midjourney-2025-07-16-https-updates-midjourney-com-enterprise-api-survey-f331446a]]'
@@ -79,13 +80,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important for enterprise customers who use Windsurf across lots of repos]]
+- Later: 2025-07-17 · Descript · [[Changes/Descript/2025-07-17-looking-for-more-tutorials-head-to-learn-descript-https-web-descript-com-learn-d|Looking for more tutorials?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

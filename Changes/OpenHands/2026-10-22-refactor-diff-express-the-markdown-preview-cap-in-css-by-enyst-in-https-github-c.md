@@ -4,20 +4,19 @@ date: '2026-10-22'
 description: 'OpenHands · 2026-10-22 · Editor Experience: refactor(diff): express
   the Markdown preview cap in CSS by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1318
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b944ac24efae714a259c33db5c244be2266bca57876215f764067135ae483f11
+machine_hash: 879751487426f4a08df4b5e04e1368d848f4d66e25b4c159b595585e7d11a2fd
 product: openhands
 product_name: OpenHands
 record:
@@ -81,13 +80,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell completion now finds global flags after subcommands]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
+- Later: 2026-10-22 · Qoder · [[Changes/Qoder/2026-10-22-incremental-conversation-import-detect-source-updates-to-previously-imported-tas|Incremental conversation import]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

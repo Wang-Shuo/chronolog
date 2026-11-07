@@ -4,19 +4,20 @@ date: '2026-02-03'
 description: 'OpenCode · 2026-02-03 · Developer Workflow: 12 changes in v1.1.49 —
   Terminal Respect terminal transparency in system theme'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1053
+  lag_days: 2702
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6a647e5a287a751018efb3f4de4c8dad99ea1a18a1b57b7fd79f7ac538ce184
+machine_hash: e03f0b534def25fff72d1b30a1519993778dae2fdd9198d60b325c368c206ba6
 product: opencode
 product_name: OpenCode
 record:
@@ -135,7 +136,7 @@ Source: https://opencode.ai/changelog/v1.1.49
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

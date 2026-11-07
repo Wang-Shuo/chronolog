@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21956088dfb0273ae54d7e0ed49b396cabd166237491df2b4af4f2f804490a04
+machine_hash: ee4a7001a3e2c117a95ed3ee329b70a21c0deb71ee191d5107b433c8cb7ca5ba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-01-13-agent-skills-now-available-in-antigravity|Agent
-  Skills now available in Antigravity]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-expand-copilot-agents-with-mail-people-and-meeting-insights-windows-web-microsof|Expand
+  Copilot Agents with Mail, People, and Meeting Insights Windows…]]'
 - '[[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]'
 - '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
   inline display of agent''s final response in task notifications, making…]]'

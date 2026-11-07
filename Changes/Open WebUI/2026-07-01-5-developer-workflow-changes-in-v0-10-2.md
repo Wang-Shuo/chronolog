@@ -5,19 +5,20 @@ description: "Open WebUI · 2026-07-01 · Developer Workflow: 5 changes in v0.10
   \U0001F5C2️ **Folder uploads to knowledge bases.** Dragging a folder into a knowledge
   base, or…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1201
+  lag_days: 2850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87d3aa310cacceddcb2035013dd0ae80b2b3000830d86f337b7361aa4c3b269c
+machine_hash: 75db70c86d56c1dd45857ab52b570172932827279acdb8e42aab0238ad27c3ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,12 +63,12 @@ record:
   title: 5 Developer Workflow changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer
-  Workflow changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
   agents launched from claude agents now commit, push, and open a draft…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
   Developer Workflow changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show
+  file path completions when typing / in shell mode (!)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -116,14 +117,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6 Developer Workflow changes in v1.0.68]]
+- Earlier: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-show-file-path-completions-when-typing-in-shell-mode|Show file path completions when typing / in shell mode (!)]]
 - Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop Streamline WSL server setup with clearer distro checks and install flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

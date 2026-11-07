@@ -4,20 +4,20 @@ date: '2026-09-30'
 description: 'OpenClaw · 2026-09-30 · Enterprise and Administration: 2 changes in
   v2026.9.7 — Profile explains your current access and offers Reconnect after an…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1244
+  lag_days: 2451
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1958a8841f155f045552f94b93491ea21076e54d9796f38cbc910c3e56ef2102
+machine_hash: 738833f7cf85d8b148068681ac1c1a905f68c19ce3dd921338bf89f21c46e1f9
 product: openclaw
 product_name: OpenClaw
 record:
@@ -51,8 +51,8 @@ record:
   title: 2 Enterprise and Administration changes in v2026.9.7
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
-  which credit limit applies to each member in the People export]]'
+- '[[Changes/Qoder/2026-09-26-improved-the-hook-mechanism-for-enterprise-usage-analytics-making-statistics-mor|Improved
+  the hook mechanism for Enterprise usage analytics, making statistics more…]]'
 - '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
   Tag Improved "Notify members now" in admin settings]]'
 - '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
@@ -116,7 +116,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

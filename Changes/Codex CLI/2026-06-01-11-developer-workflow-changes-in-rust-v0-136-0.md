@@ -5,19 +5,20 @@ description: 'Codex CLI · 2026-06-01 · Developer Workflow: 11 changes in 0.136
   Sandboxed commands clean up more reliably after interruptions or denied Windows
   network…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a2fd66653c498514dfcfe944f8f90d7f301f62754bd0aa2606a9d9ee6286b53
+machine_hash: 5189c4670116e3af7ccf5fc98842773ec8be1111ebd9467e9784870d14650a41
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,10 +65,10 @@ record:
   title: 11 Developer Workflow changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
-  Workflow changes in v2.1.157]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-support-querying-sessions-by-sessionid-or-workdir-in-listsessions-and-show-a-hel|Support
+  querying sessions by sessionId or workDir in listSessions, and show…]]'
 - '[[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal
   Wrapped inline tool rows now stay aligned, and failed inline tools can…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
@@ -138,7 +139,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58d46e6643698f068d1d12cce6d5093a4fa8d5b4f1254466377015fa09a7130f
+machine_hash: c3aa1e2df10ef7cbae15c29cf71da1e2e7b4bf9446bc92169e102e294682ac58
 product: dify
 product_name: Dify
 record:
@@ -80,8 +80,8 @@ record:
   title: 12 Model Support changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
-  Support changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model
+  Support changes in Kimi Code 0.25.0]]'
 - '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
   changes in v0.32.1]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
@@ -157,7 +157,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
-- Later: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
+- Later: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-using-an-api-key-for-kimi-coding-models-now-also-fetches-the-latest-model-list-a|Using an API key for Kimi coding models now also fetches the latest model list…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

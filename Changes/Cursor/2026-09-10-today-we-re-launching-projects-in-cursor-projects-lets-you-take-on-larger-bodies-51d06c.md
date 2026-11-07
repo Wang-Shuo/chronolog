@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'Cursor · 2026-09-10 · Context Window: Today we''re launching Projects
   in Cursor. Projects lets you take on larger bodies of work, such as a feature, a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 605b2f8327fb4db831737d28be5e05a2857d10ac7a30e8543115c4c7e1885e32
+machine_hash: 6476a0cdecc9f912737b69bbadcfb06446907692c4d91885d74592f48e84daa9
 product: cursor
 product_name: Cursor
 record:
@@ -61,8 +61,8 @@ record:
   title: Cursor launches Projects
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
-  Window changes in rust-v0.154.0]]'
+- '[[Changes/Kimi Code/2026-09-09-web-support-permanently-deleting-sessions-from-the-session-row-context-menu-with|web:
+  Support permanently deleting sessions from the session row context menu…]]'
 - '[[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews
   for CSV and TSV files]]'
 - '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

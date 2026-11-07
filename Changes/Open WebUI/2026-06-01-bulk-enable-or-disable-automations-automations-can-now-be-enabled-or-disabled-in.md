@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-06-01 · Automation and Scheduling: \U0001F518 
   enable or disable automations.** Automations can now be enabled or disabled in bulk
   from an…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 2448
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f7f923c901af34eae8668410855aa309fbbb0bfea5b3a96857de99928f19df0
+machine_hash: c100119f00cbd8cf1d17f70ac9f7e7e6b444782c2574d39614c31004fefb19ab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,11 +56,12 @@ record:
     enabled or disabled…"
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings
-  dropdown]]'
-- '[[Changes/ElevenLabs/2026-05-25-music|Music]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
   manager hint bar text no longer wraps over dialog borders when entries are added]]'
+- '[[Changes/Kimi Code/2026-05-28-2-automation-and-scheduling-changes-in-kimi-code-0-5-0|2
+  Automation and Scheduling changes in Kimi Code 0.5.0]]'
+- '[[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask
+  the agent to remind you at a specific time, run a task on a recurring cron…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -109,14 +110,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule manager hint bar text no longer wraps over dialog borders when entries are added]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-you-can-now-ask-the-agent-to-remind-you-at-a-specific-time-run-a-task-on-a-recur|Ask the agent to remind you at a specific time, run a task on a recurring cron…]]
 - Later: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental schedule prompts with /every and /after]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-24'
 description: 'OpenCode · 2026-06-24 · Mobile and Desktop: 15 changes in v1.17.10 —
   Desktop Added a new session progress indicator.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1198
+  lag_days: 2782
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6cf358d0c7a16fc326ac9726fe25877c3bded274eb3a8a9774994647486f564a
+machine_hash: 0bed6f60088988fc45743f2debcc086444b6486abc76f18885a2adbf48c1fc99
 product: opencode
 product_name: OpenCode
 record:
@@ -69,11 +69,11 @@ record:
   title: 15 Mobile and Desktop changes in v1.17.10
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
-  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize
+  the web app''s components into area subdirectories…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-24-v1-17-10-f309a338|opencode-2026-06-24-v1-17-10-f309a338]]'
 source_type: opencode_changelog
 theme: mobile-desktop
@@ -140,14 +140,14 @@ Source: https://opencode.ai/changelog/v1.17.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]
+- Earlier: 2026-06-24 · Kimi Code · [[Changes/Kimi Code/2026-06-24-reorganize-the-web-app-s-components-into-area-subdirectories-chat-settings-dialo|Reorganize the web app's components into area subdirectories…]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-04-16'
 description: 'GitHub Copilot CLI · 2026-04-16 · Apps and Integrations: 2 changes in
   1.0.30 — Plugin skills and commands are correctly discovered when using skills.discover'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2680
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49f5c694e583a3af3fc803aff7791e543377508378bd76e13642702e6d7a8111
+machine_hash: 8738816660615262866d1bc020f0a060d4b5a5005f36a6bfd87209c9cc2b4bf0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Apps and Integrations changes in v1.0.30
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
-  and Integrations changes in v1.4.4]]'
 - '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 - '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
   Apps and Integrations changes in v2.1.111]]'
+- '[[Changes/Descript/2026-04-16-the-api-also-supports-model-context-protocol-mcp-connections-so-you-can-take-act|The
+  API also supports Model Context Protocol (MCP) connections so you can take…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826|github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,14 +82,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.30
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2 Apps and Integrations changes in v2.1.111]]
+- Earlier: 2026-04-16 · Descript · [[Changes/Descript/2026-04-16-the-api-also-supports-model-context-protocol-mcp-connections-so-you-can-take-act|The API also supports Model Context Protocol (MCP) connections so you can take…]]
 - Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-mcp-migration-hint-now-links-to-documentation-with-platform-specific-instruction|MCP migration hint now links to documentation with platform-specific instructions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

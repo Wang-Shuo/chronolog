@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed152f4db27f2f4011b27a602b5dfaddfaac4dd04433cccea9cd832eec48cbe5
+machine_hash: c42774f93fb2f275787bbb94bf2f08ce8cc63dccc4febcbd30a620e705174a8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Model Support changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
-  ChatGPT subscription models]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
-  Support changes in v1.0.71]]'
+- '[[Changes/Kimi Code/2026-07-16-2-model-support-changes-in-kimi-code-0-26-0-2026-07-16-say-hi|2
+  Model Support changes in Kimi Code 0.26.0 (2026-07-16) Say hi…]]'
+- '[[Changes/Kimi Code/2026-07-16-3-model-support-changes-in-kimi-code-0-25-0|3 Model
+  Support changes in Kimi Code 0.25.0]]'
 - '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
   changes in v0.32.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'

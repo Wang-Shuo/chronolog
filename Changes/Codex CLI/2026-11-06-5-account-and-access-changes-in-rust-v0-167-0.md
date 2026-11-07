@@ -4,20 +4,21 @@ date: '2026-11-06'
 description: 'Codex CLI · 2026-11-06 · Account and Access: 5 changes in 0.167.0 —
   Find API key and cloud provider options under “Sign in another way.” Enable…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1317
+  lag_days: 2292
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c59fc939ddeb18b6fc0488c18b3daab46789d0052a6651b9bfeaae61d74278d9
+machine_hash: 7e69688d7f1f9e7be1d09d8c2c0f7d9100c13de83c42548d2a5969fc9df0aa88
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +51,12 @@ record:
   title: 5 Account and Access changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps):
-  bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]'
 - '[[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and
   Access changes in 1.19.0]]'
 - '[[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account
   and Access changes in v2026.11.1]]'
+- '[[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH
+  and WSL: Improves connection management and workspace creation, including…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: account-access
@@ -106,14 +107,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account and Access changes in v2026.11.1]]
+- Earlier: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-ssh-and-wsl-improves-connection-management-and-workspace-creation-including-dire|SSH and WSL: Improves connection management and workspace creation, including…]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-23-account-and-access-changes-in-v1-0-106|23 Account and Access changes in v1.0.106]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

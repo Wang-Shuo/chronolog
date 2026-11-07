@@ -4,20 +4,21 @@ date: '2025-04-16'
 description: 'OpenHands · 2025-04-16 · Account and Access: Added support for GitLab
   API calling using both OAuth and PAT tokens by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 1723
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5b9dfeb3e6059c4fbf244cecc1cb8e1b456683f7f67736fc60c1a5d374b141b6
+machine_hash: 79fbee98d95bd4c34b85867f592700108bf68a4d8465d6ab080926a49fceb109
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +55,12 @@ record:
   title: Added support for GitLab API calling using both OAuth and PAT tokens
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and
-  Access changes in v0.81.0]]'
 - '[[Changes/Open WebUI/2025-04-13-2-account-and-access-changes-in-v0-6-3|2 Account
   and Access changes in v0.6.3]]'
 - "[[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|\U0001F6E0️
   LDAP Login Reliability Restored]]"
+- '[[Changes/Descript/2025-04-15-you-ll-see-some-ui-differences-when-you-login|A new
+  look for login]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-16-0-33-0-github-212925112-8094af39|openhands-2025-04-16-0-33-0-github-212925112-8094af39]]'
 source_type: github_releases
 theme: account-access
@@ -91,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|🛠️ LDAP Login Reliability Restored]]
+- Earlier: 2025-04-15 · Descript · [[Changes/Descript/2025-04-15-you-ll-see-some-ui-differences-when-you-login|A new look for login]]
 - Later: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-feat-add-interfaces-of-oauth-handler-methods-for-authorization-by-yeuoly-in-http|feat: add interfaces of OAuth handler methods for authorization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

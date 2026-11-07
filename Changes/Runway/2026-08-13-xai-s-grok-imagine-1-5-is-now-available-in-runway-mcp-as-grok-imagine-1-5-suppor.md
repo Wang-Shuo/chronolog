@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Runway · 2026-08-13 · Video Generation: xAI''s Grok Imagine 1.5 is now
   available in Runway MCP as grok-imagine-1.5, supporting text-to-video and image-to-video…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2122
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4a63a0b0bcde8343193185dc0ca52b674f0ed24a2bf1bf61052ab9e0866dff57
+machine_hash: f18a3ea6b5d95cf78fbac8d5b283ff38ee2e18202cac32f218caae1271d94a4c
 product: runway
 product_name: Runway
 record:
@@ -60,12 +60,12 @@ record:
   title: Grok Imagine 1.5 Video
   type: change
 related_changes:
-- '[[Changes/Runway/2026-07-21-two-new-lightweight-seedance-2-0-tiers-are-now-available-through-runway-mcp-seed|Seedance
-  2.0 Mini and Fast]]'
-- '[[Changes/Runway/2026-07-22-runway-mcp-now-supports-seedance-2-0-video-generation-in-4k-resolution-just-expl|Seedance
-  2.0 4K]]'
+- '[[Changes/HeyGen/2026-07-23-the-agent-can-source-web-images-and-stock-or-generate-its-own-video-and-photos-a|The
+  agent can source web images and stock, or generate its own video and photos…]]'
 - '[[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax
   Hailuo 3.0]]'
+- '[[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen
+  adds new customization options to Generate Script with AI in the PPT/PDF…]]'
 source_release: '[[Releases/Runway/runway-2026-08-13-2026-08-13-grok-imagine-1-5-video-696a7249|runway-2026-08-13-2026-08-13-grok-imagine-1-5-video-696a7249]]'
 source_type: runway_changelog
 theme: video-generation
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Video Generation
 
-- Earlier: 2026-08-05 · Runway · [[Changes/Runway/2026-08-05-minimax-hailuo-3-0-is-now-live-on-runway-dev-generate-video-from-text-image-or-v|MiniMax Hailuo 3.0]]
+- Earlier: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-we-ve-added-new-customization-options-to-generate-script-with-ai-in-the-ppt-pdf|HeyGen adds new customization options to Generate Script with AI in the PPT/PDF…]]
 - Later: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-wan-3-0-is-now-available-in-runway-in-tool-mode-and-workflows-generate-near-stat|Wan 3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

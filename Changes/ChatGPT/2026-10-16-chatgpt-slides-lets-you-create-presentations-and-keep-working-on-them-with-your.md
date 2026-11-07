@@ -4,19 +4,20 @@ date: '2026-10-16'
 description: 'ChatGPT · 2026-10-16 · Collaboration: ChatGPT Slides lets you create
   presentations and keep working on them with your team in Space. Start from a conversation…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1241
+  lag_days: 2835
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44110b459c9c60ded8b9bd8c6c86e891ee88a5c4a64a7fb85dd9e103a806d000
+machine_hash: 2edfb01171811dbfedf41324431a112923638342923c48fcb6dddc3155b5dc12
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +46,8 @@ record:
     your team…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
-  Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
+- '[[Changes/Qoder/2026-10-14-collaboration-through-conversation-accounts-with-collaboration-access-can-query|Collaboration
+  through conversation]]'
 - '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
   changes in rust-v0.163.0]]'
 - '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

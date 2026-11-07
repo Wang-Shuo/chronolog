@@ -5,20 +5,20 @@ description: 'Cursor · 2024-07-23 · Reliability and Performance: Copilot++ now
   chunked streaming (currently in Beta)! It will surface edits faster in smaller chunks.
   To…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 586
+  lag_days: 2073
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4732c4ded0434c0c4a4d283595e7f518130c121ccebd2ae473609353b91291a0
+machine_hash: 1420caf144c9edf6a1089e932b9253207ca9b9aab75c3ff4ff0f29d596652c0a
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Copilot++ now has chunked streaming (currently in Beta)!
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3
-  Reliability and Performance changes in v0.3.8]]'
 - '[[Changes/Ollama/2024-07-11-glm4-models-will-no-longer-fail-to-load-from-out-of-memory-errors|glm4
   models will no longer fail to load from out of memory errors]]'
 - '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
   will no longer error if loading models larger than system memory if disk…]]'
+- '[[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit
+  faster with GIFs, Direct Cut, and Shortcuts]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-13 · Ollama · [[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama will no longer error if loading models larger than system memory if disk…]]
+- Earlier: 2024-07-22 · Synthesia · [[Changes/Synthesia/2024-07-22-add-giphy-gifs-speed-up-scene-transitions-with-direct-cut-and-use-keyboard-short|Edit faster with GIFs, Direct Cut, and Shortcuts]]
 - Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance and reliability improvements when downloading models using ollama pull]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

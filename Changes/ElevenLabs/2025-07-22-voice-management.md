@@ -4,20 +4,20 @@ date: '2025-07-22'
 description: 'ElevenLabs · 2025-07-22 · Voice and Audio: Updated Voice endpoints with
   backward compatible improvements:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 743
+  lag_days: 2570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55cff227ca10f094f116be853034d84341a98db6eb6f9d5679c3f062be9ed3c9
+machine_hash: a43dc6c2ca07bfcbfbd74febe198cf591bf9564cbd2abb3fc66fafaaef196171
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,8 +50,8 @@ record:
   title: Voice Management
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
-  to Advanced Voice Mode for Free tier users]]'
+- '[[Changes/Descript/2025-07-17-editors-can-upload-fonts-remix-layout-packs-and-manage-transcription-tools|Editors
+  can upload fonts, remix layout packs, and manage transcription tools]]'
 - '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
 - "[[Changes/Open WebUI/2025-07-19-emoji-generation-error-handling-improved-error-handling-in-audio-router-and-fixe|\U0001F600
   Emoji Generation Error Handling]]"
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-04-28'
 description: 'Ollama · 2024-04-28 · Context Window: [Llama 3 Gradient 1048K](https://ollama.com/library/llama3-gradient):
   A Llama 3 fine-tune by Gradient to support up to a…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 360
+  lag_days: 1684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0a06d00f67e98a1426a9599c8b9940bb96bc56b0634e30aceafe749e37d1a64f
+machine_hash: 9cb19dad4c3b0986ffb3191990985df2ec46a4f980158a0e5a69bf081f169533
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

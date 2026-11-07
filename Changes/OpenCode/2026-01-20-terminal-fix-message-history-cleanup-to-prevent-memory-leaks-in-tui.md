@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Reliability and Performance: Terminal Fix message
   history cleanup to prevent memory leaks in TUI'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1132
+  lag_days: 2619
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 350c7b6117cd717b08a2ca02c129342fa389f7bd65e2bbfc843c47635acca12c
+machine_hash: 5a0635684bdbf5d593e7395952dde6d481471a0331064e3ac2d89c4f51c23dd5
 product: opencode
 product_name: OpenCode
 record:
@@ -51,12 +51,11 @@ record:
   title: Terminal Fix message history cleanup to prevent memory leaks in TUI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
 - '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
   link) As the strongest model…]]'
 - '[[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved
   scroll anchoring and grid performance]]'
+- '[[Changes/Notion/2026-01-20-more-improvements|More improvements]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-27-d4cdcad9|opencode-2026-01-20-v1-1-27-d4cdcad9]]'
 source_type: opencode_changelog
 theme: reliability-performance
@@ -88,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-20 · Midjourney · [[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved scroll anchoring and grid performance]]
+- Earlier: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-more-improvements|More improvements]]
 - Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

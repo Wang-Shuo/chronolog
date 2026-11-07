@@ -4,20 +4,20 @@ date: '2026-02-18'
 description: 'Cursor · 2026-02-18 · Safety and Privacy: 7 changes in CLI Improvements
   and Mermaid ASCII Diagrams — Known-safe URLs (e.g. Cursor docs) are auto-approved…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1039
+  lag_days: 2031
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3958a27daa5fbca5f59182daba0ab0feaafad979131a1c574ea581bf1dd46761
+machine_hash: 33947a24486998f37923f6746c5522651a71dc5ffda30d5ded26bdb7433eda91
 product: cursor
 product_name: Cursor
 record:
@@ -126,7 +126,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

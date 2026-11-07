@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Codex CLI · 2026-07-29 · Apps and Integrations: 47 changes in 0.146.0
   — Support Agent Plugins manifests, workspace plugin publishing, and additional plugin…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 469b6971cd1df7fe3657fabc95092349272870d48909170288b288f307d8347e
+machine_hash: 3efd58a31aa141be6222d03e810f36e80bd177d00586a59dd0dfd6aaa24ce969
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -282,13 +282,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
-- Later: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App + chat connectors: Amazon Redshift and Microsoft Fabric]]
+- Later: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2 Apps and Integrations changes in Kimi Code 0.30.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

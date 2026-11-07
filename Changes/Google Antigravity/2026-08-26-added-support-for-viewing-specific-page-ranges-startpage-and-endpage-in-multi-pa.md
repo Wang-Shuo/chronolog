@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-08-26 · Files and Data: Added support 
   viewing specific page ranges (StartPage and EndPage) in multi-page documents (like
   PDFs)…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1189
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 416ab233d1913dfd7839df7769070d6dae81aae6e3bc572ec65fbbe4551d5b67
+machine_hash: 61b93aa2c9c2698cfc0a97730318c36e3224cd4ae7e58b5402eebdcb8ce7589d
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and Data changes in v0.11.1]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas windows open and refresh in the background instead of stealing focus…]]
+- Later: 2026-08-26 · Z.ai API · [[Changes/Z.ai API/2026-08-26-beyond-coding-supports-office-document-and-financial-research-workflows-autonomo|Beyond coding: Supports office document and financial research workflows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

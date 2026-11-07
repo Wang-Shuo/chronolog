@@ -4,19 +4,20 @@ date: '2026-05-16'
 description: 'Windsurf · 2026-05-16 · Developer Workflow: 2 changes in v2.3.9 — Improved
   terminal processing performance'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1155
+  lag_days: 2804
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbe3786e85b72d8037f1bd8cbcc5adcc0ddc18e2345b52866521122d34317678
+machine_hash: d5825843822a1188233d73134286048ca3ddbb60d9db56f6a833312bb743feef
 product: windsurf
 product_name: Windsurf
 record:
@@ -86,7 +87,7 @@ Source: https://docs.devin.ai/desktop/changelog#v2-3-9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

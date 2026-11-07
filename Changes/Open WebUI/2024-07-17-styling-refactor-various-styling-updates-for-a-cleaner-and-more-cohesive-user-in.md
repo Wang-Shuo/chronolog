@@ -4,20 +4,20 @@ date: '2024-07-17'
 description: "Open WebUI · 2024-07-17 · Interface Experience: **\U0001F3A8 Styling
   Refactor**: Various styling updates for a cleaner and more cohesive user interface."
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 555
+  lag_days: 1921
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 159b2d716293dbda86bfe0ef8cea0eca88363ce7e6cfb7cbe66eb27d6ef62e74
+machine_hash: a337b6d8e0fd7ac0dff08734b2e4344d4063a3cd7eaf5dacb9d866a93ed9a130
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,12 +42,12 @@ record:
   title: "**\U0001F3A8 Styling Refactor**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface
-  Experience changes in 0.6.13]]'
 - '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
   Sideways Scrolling in Settings]]'
 - '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
   Sidebar]]'
+- '[[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to
+  starred folders]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a|open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-09 · Runway · [[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned Sidebar]]
+- Earlier: 2024-07-16 · Descript · [[Changes/Descript/2024-07-16-move-projects-to-starred-folders|Move projects to starred folders]]
 - Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

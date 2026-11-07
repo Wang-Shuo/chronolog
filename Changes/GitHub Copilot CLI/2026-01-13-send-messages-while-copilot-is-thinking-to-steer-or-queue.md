@@ -4,20 +4,19 @@ date: '2026-01-13'
 description: 'GitHub Copilot CLI · 2026-01-13 · Editor Experience: Send messages while
   Copilot is thinking to steer or queue'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 2620
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d08da9452ce5b077d05c49e1b5265328ea8d477ab591eb446df985ecae11fb4
+machine_hash: 6903d28b1d5e45630ebda7fc92b236bf340cf790d6de3a5fb988a39a22338045
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,13 +83,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost text and tab completion show correct alias when typing slash commands like…]]
-- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core Improved edit and write tool feedback to prevent confusion about whether…]]
+- Later: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-search-for-meetings-by-organizer-using-copilot-chat-windows-microsoft-365-copilo|Search for meetings by organizer using Copilot Chat Windows (Microsoft 365 Copilot Chat)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

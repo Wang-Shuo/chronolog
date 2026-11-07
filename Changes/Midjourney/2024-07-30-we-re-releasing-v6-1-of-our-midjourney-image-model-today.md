@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 17b8d46c1f43cb4e331d2306aabcd84039bb90b888b9a763aa5adf665da79153
+machine_hash: ac74e5de76173085a7aa7e09dcfe90f739db79caa8450aef9b8c2b5cee47657c
 product: midjourney
 product_name: Midjourney
 record:
@@ -43,12 +43,11 @@ record:
   title: we’re releasing V6.1 of our Midjourney Image Model today!
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing
-  Gemini 1.5 Flash to Gemini]]'
 - '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
   in v0.3.0]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-07-30-https-updates-midjourney-com-version-6-1-50c9fddc|midjourney-2024-07-30-https-updates-midjourney-com-version-6-1-50c9fddc]]'
 source_type: midjourney_changelog
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-29 · Notion · [[Changes/Notion/2024-07-29-one-ai-tool-to-chat-search|One AI tool to chat & search]]
 - Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes in v0.3.1]]
 <!-- chronolog:end -->
 

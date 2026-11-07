@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-29 · Safety and Privacy: 2 changes in v2.1
   — Fixed sandbox network permission prompts appearing in auto and bypass-permissions
   mode…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1139
+  lag_days: 2131
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89525d3ceb7dee0c873331bfc260151c78f7c557bac9e5753daa47795998126f
+machine_hash: 0c007aebfee1652db40168096bfe4f605cdb6d20434c38f313ad5c53d0208844
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
-  and Privacy changes in v2.1.153]]'
 - '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
   Safety and Privacy changes in rust-v0.135.0]]'
+- '[[Changes/Kimi Code/2026-05-28-add-auto-slash-command-and-auto-cli-flag-for-auto-permission-mode|Add
+  /auto slash command and --auto CLI flag for auto permission mode]]'
 - '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
   Handled acp-next permission prompts correctly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
@@ -90,13 +90,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core Handled acp-next permission prompts correctly]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11 Safety and Privacy changes in rust-v0.136.0]]
+- Later: 2026-05-29 · Synthesia · [[Changes/Synthesia/2026-05-29-members-on-free-and-restricted-licenses-can-now-edit-scripts-and-add-screen-reco|Let free workspace members help you edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

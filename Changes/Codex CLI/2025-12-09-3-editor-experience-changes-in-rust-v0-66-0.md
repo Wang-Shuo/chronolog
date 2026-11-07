@@ -4,20 +4,19 @@ date: '2025-12-09'
 description: 'Codex CLI · 2025-12-09 · Editor Experience: 3 changes in 0.66.0 — Cloud
   exec: codex cloud exec accepts --branch for remote runs and now exposes…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1001
+  lag_days: 2585
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bd74018543c61d26448c83fee39bfb990b6ebcdaf81e8955c949af49a5283df
+machine_hash: fe76a59d7576ea11751494407c102179414d59598a3fb83a406f246c96abb177
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +45,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore
-  bracketed paste mode after external editor exit]]'
-- "[[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|\U0001F3A8
-  The model editor interface was refined with access control settings moved…]]"
 - '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
   the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
+- '[[Changes/Descript/2025-12-04-editor|Editor]]'
+- '[[Changes/Descript/2025-12-04-editor-desktop|Editor - Desktop]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,14 +93,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set the cli's 'ide version' to just the cli version rather than being blank, to make…]]
+- Earlier: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-editor-desktop|Editor - Desktop]]
 - Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

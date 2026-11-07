@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-13 · Context Window: Replies after native com
   The next message waits for saved conversation history to become readable instead
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1258
+  lag_days: 2582
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42a9cb28ed9636dee7844935880861b7cb403c37a59b23551c7863ea7f6dc8c9
+machine_hash: 0870839c9ade1c63287b14337407c92cbaed644f2bbd287e3825bb200ae8dba3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -48,12 +48,12 @@ record:
   title: Replies after native compaction
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-10-12-context-window-changes-in-v2026-10-1|12 Context
-  Window changes in v2026.10.1]]'
-- '[[Changes/OpenClaw/2026-10-12-4-context-window-changes-in-v2026-10-2|4 Context
-  Window changes in v2026.10.2]]'
 - '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
   changes in v4.1.24]]'
+- '[[Changes/Notion/2026-10-13-your-agents-and-teams-run-on-context-if-you-switch-agents-add-a-new-tool-or-welc|Your
+  agents and teams run on context]]'
+- '[[Changes/Notion/2026-10-13-more-ways-to-connect-and-govern-context|More ways to
+  connect and govern context]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-13-v2026-10-3-54cedb60|openclaw-2026-10-13-v2026-10-3-54cedb60]]'
 source_type: openclaw_changelog
 theme: context-window
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window changes in v4.1.24]]
+- Earlier: 2026-10-13 · Notion · [[Changes/Notion/2026-10-13-more-ways-to-connect-and-govern-context|More ways to connect and govern context]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

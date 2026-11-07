@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-04-01 · Reliability and Performance: 3 changes
   v0.6.0 — \U0001F9E0 **Embedding Prefix Support Added**: Add custom prefixes to your
   embeddings for…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 838
+  lag_days: 2325
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba7f1216a6f63dae304f853ac4ec6bea06c8d885b40320e8afca4aff056c0400
+machine_hash: c5eb5127ba6f5dfcc5f25b5e0c77b8e423fc813f07ffae0ae18321d2ac8b223b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,11 +51,11 @@ record:
   title: 3 Reliability and Performance changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
-  and Performance changes in 0.48.x]]'
 - '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
 - '[[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability
   and Performance changes in 1.1.3]]'
+- '[[Changes/Descript/2025-03-25-smart-transitions-and-wordless-media|Smart transitions,
+  and Wordless media]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,14 +100,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability and Performance changes in 1.1.3]]
+- Earlier: 2025-03-25 · Descript · [[Changes/Descript/2025-03-25-smart-transitions-and-wordless-media|Smart transitions, and Wordless media]]
 - Later: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-v7-launches-in-two-modes|V7 launches in two modes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

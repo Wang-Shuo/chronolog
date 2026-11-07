@@ -5,20 +5,20 @@ description: 'Open WebUI · 2026-07-01 · Interface Experience: 2 changes in v0.
   — ♿ **Clearer high-contrast sidebar selection.** With high-contrast mode enabled,
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1269
+  lag_days: 2635
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93779c6e190292c60ff9d385a9f41cafc7fc3d0bf07ebf3bf0135eeb23475814
+machine_hash: be94239ba3fd8853000e4ac2f889f7b6c600a4a3c3d645f855f3411d6bcfed17
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Interface Experience changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
-  Experience changes in v2026.6.11]]'
-- '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
-  Experience changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
   Interface Experience changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-keep-the-waiting-spinner-visible-while-encrypted-reasoning-streams-fixing-a-blan|Keep
+  the waiting spinner visible while encrypted reasoning streams, fixing a blank…]]'
+- '[[Changes/Kimi Code/2026-07-01-add-mermaid-diagram-rendering-to-the-web-chat-fenced-mermaid-blocks-in-assistant|Add
+  Mermaid diagram rendering to the web chat]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,14 +97,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2 Interface Experience changes in v1.0.68]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-askuserquestion-dialogs-to-no-longer-auto-continue-by-default-opt-into-a|Changed AskUserQuestion dialogs to no longer auto-continue by default]]
+- Earlier: 2026-07-01 · Kimi Code · [[Changes/Kimi Code/2026-07-01-add-mermaid-diagram-rendering-to-the-web-chat-fenced-mermaid-blocks-in-assistant|Add Mermaid diagram rendering to the web chat]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-add-workspace-sorting-by-manual-order-or-last-edited-time-plus-collapse-all-and|Add workspace sorting by manual order or last-edited time, plus collapse-all…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

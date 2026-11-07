@@ -5,20 +5,20 @@ description: 'Cline · 2026-07-09 · Interface Experience: 2 changes in v4.0.7 �
   ClinePass onboarding and provider settings copy, and open the "learn more" link
   via the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2643
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1f2c71a5337f5bb303e11acebf3caf944e190b780a58d0df004de1ad570df42
+machine_hash: 691f247d810dcb48e749a070456e6d78388824d9b34e381b846e1a9088dea24c
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v4.0.7
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
-  Interface Experience changes in Grouped tool approvals, richer MCP…]]'
+- '[[Changes/Kimi Code/2026-07-08-web-show-session-skills-in-the-slash-menu-as-skill-so-they-are-distinguishable-f|web:
+  Show session skills in the slash menu as /skill: so they are distinguishable…]]'
 - '[[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]'
 - '[[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud
   instance from chat]]'
@@ -90,7 +90,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

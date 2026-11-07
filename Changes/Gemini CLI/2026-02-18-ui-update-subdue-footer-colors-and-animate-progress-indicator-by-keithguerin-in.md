@@ -4,20 +4,20 @@ date: '2026-02-18'
 description: 'Gemini CLI · 2026-02-18 · Interface Experience: ui: update & subdue
   footer colors and animate progress indicator by @keithguerin in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1136
+  lag_days: 2502
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b94d6061892dc424fe0be36bed8b126219de50b5909c840afb65f73a99669a93
+machine_hash: ef3d48d71cb6925649c2f287e9d0d8a11711b7f33ad650e4067e4504f8fe2ed6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor introduces the ability to hand off plans from the CLI to the cloud, in-line…]]
-- Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6 Interface Experience changes in v0.0.412]]
+- Later: 2026-02-18 · Notion · [[Changes/Notion/2026-02-18-as-your-workspace-grows-your-sidebar-can-get-crowded-library-solves-this-with-a|A home for everything in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

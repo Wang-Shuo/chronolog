@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c784b8376d8370889cd87c2f5fb051b1b490063622384b33ca82c0bbbdf5747
+machine_hash: 9e0f79ac203759244989dc05be5ce3934616f5f4d440c532f0c1b15c7b1295a1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.17
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-accessibility-high-contrast-theme-enhancements-major-accessibility-overhaul-with|🎨 Accessibility & High-Contrast Theme Enhancements]]
-- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-refactor-centralize-email-internationalization-handling-by-laipz8200-in-https-gi|refactor: centralize email internationalization handling]]
+- Later: 2025-07-22 · Notion · [[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you can set your language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

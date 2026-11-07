@@ -4,20 +4,20 @@ date: '2025-10-01'
 description: 'v0 · 2025-10-01 · Pricing Model: It no longer costs credits to use "Fix
   with v0" when v0 makes an error.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1021
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 77bc648ef2e3d8b37774a087fd585ab1e5e4a0bde258205ced782870abec4dad
+machine_hash: 13b77b6992a58ac64a948130b154c5c74d495381b21a0b8eb111c5357d15800d
 product: v0
 product_name: v0
 record:
@@ -43,9 +43,9 @@ record:
   title: It no longer costs credits to use "Fix with v0" when v0 makes an error
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
-- '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
-  launches ChatGPT Go, our low cost subscription plan, in Indonesia]]'
+- '[[Changes/Descript/2025-09-24-for-paid-subscribers|For paid subscribers]]'
+- '[[Changes/Descript/2025-09-24-introducing-new-plans-and-usage-tracking-in-descript|Introducing
+  new plans and usage tracking in Descript]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched
   to using per-subscription Copilot API endpoints in accordance…]]'
 source_release: '[[Releases/v0/v0-2025-10-01-2025-10-01-fix-with-v0-free-cf8b1c54|v0-2025-10-01-2025-10-01-fix-with-v0-free-cf8b1c54]]'
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

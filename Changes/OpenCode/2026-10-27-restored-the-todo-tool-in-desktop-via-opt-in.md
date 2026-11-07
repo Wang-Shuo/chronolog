@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenCode · 2026-10-27 · Mobile and Desktop: Restored the Todo tool in
   desktop via opt-in'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2bb83b7a6f26501bceabed3df96ae48b943ea540bdf6a9f13f1155ffb51c4d1d
+machine_hash: 5bb2d69a21ed8ffad04e2766b5942b7fea228d886d6d98e39750469ace92ebf3
 product: opencode
 product_name: OpenCode
 record:
@@ -40,8 +40,8 @@ record:
   title: Restored the Todo tool in desktop via opt-in
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen
-  side panel tabs you closed, at their previous position and scroll point…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-copilot-settings-in-classic-outlook-for-windows-windows-outlook|Copilot
+  Settings in classic Outlook for Windows Windows (Outlook)]]'
 - '[[Changes/OpenClaw/2026-10-27-future-macos-updates-wait-for-the-serving-gateway-to-exit-and-release-its-databa|Future
   macOS updates wait for the serving Gateway to exit and release its databases…]]'
 - '[[Changes/OpenCode/2026-10-27-73-mobile-and-desktop-changes-in-v2-2-0|73 Mobile
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

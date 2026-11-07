@@ -4,19 +4,20 @@ date: '2025-09-03'
 description: 'Dify · 2025-09-03 · Developer Workflow: 2 changes in v1.8.1 — feat:
   Add support for slash commands, optimize command selector logic. by @ZeroZ-lab in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 900
+  lag_days: 2549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19f0f3575879f7999500db8f8798a03c7ac58cf9dedfa26cc317cf5205412cf4
+machine_hash: 1591fd1451ad4ce6a4b4f5c96677af91adfb54ffc288448f3e448eb51fcde41e
 product: dify
 product_name: Dify
 record:
@@ -93,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.8.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-02-02'
 description: 'Cursor · 2024-02-02 · Interface Experience: You can now drag images
   into the Command-K prompt bar!'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 389
+  lag_days: 1755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9a32c05816877bc8396a2991142804b485df98fefb52028abfe5be389349240
+machine_hash: 623c15ff980b0abd0a42c34629b7c69b31916b303104356893a070c73a2b38ad
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,9 @@ record:
   title: Drag images into the Command-K prompt bar!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
-  previews: We made it easier to see what codeblock you''re @''ing]]'
 - '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
   app sidebar support collapse]]'
+- '[[Changes/Descript/2024-01-22-animation-curve-presets|Animation Curve Presets]]'
 - '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
   ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

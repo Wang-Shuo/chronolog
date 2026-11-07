@@ -5,20 +5,19 @@ description: 'OpenClaw · 2026-09-19 · Editor Experience: 21 changes in v2026.9
   The browser-tab icon now shows when the selected agent is working, needs an answer
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbe5edacbd0c9fd5a58ab430ba3e2508d7ed99575b46a2cf2b61540e02d37c8d
+machine_hash: 10262d77bf4649bfab37b7eaa3178f2dc32bb613bba2316052d2562ee58be74b
 product: openclaw
 product_name: OpenClaw
 record:
@@ -158,8 +157,7 @@ record:
   title: 21 Editor Experience changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
-  Experience changes in rust-v0.155.0]]'
+- '[[Changes/Descript/2026-09-17-a-heads-up-about-grammarly|A heads-up about Grammarly]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
   Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
@@ -267,7 +265,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

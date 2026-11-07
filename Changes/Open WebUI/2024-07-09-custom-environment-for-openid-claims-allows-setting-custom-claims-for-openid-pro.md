@@ -4,20 +4,21 @@ date: '2024-07-09'
 description: "Open WebUI · 2024-07-09 · Account and Access: **\U0001F6E0️ Custom Environment
   for OpenID Claims**: Allows setting custom claims for OpenID, providing more flexibility…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 467
+  lag_days: 1442
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe11a89a382edd11c21d3e6a509278e0fae4887fe63706fd48a4cae8aab56bcb
+machine_hash: 15215712c72f6b371666d72cea95eca739e816182b4abc1d52e781f603138d8b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,10 +43,9 @@ record:
   title: "**\U0001F6E0️ Custom Environment for OpenID Claims**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-27-experimental-oauth-support-new-experimental-oauth-support-check-our-documentatio|\U0001F512
-  Experimental OAuth Support: New experimental OAuth support]]"
 - '[[Changes/Dify/2024-06-28-feat-api-auth-switch-to-stateful-authentication-by-laipz8200-in-https-github-com|feat(api/auth):
   switch-to-stateful-authentication]]'
+- '[[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]'
 - '[[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action):
   move docker login above Set up QEMU in build-push action workflow]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5|open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

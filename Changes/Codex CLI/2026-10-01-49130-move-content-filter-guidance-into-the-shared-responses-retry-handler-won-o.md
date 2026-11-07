@@ -4,19 +4,20 @@ date: '2026-10-01'
 description: 'Codex CLI · 2026-10-01 · Collaboration: #49130 Move content-filter guidance
   into the shared Responses retry handler @won-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1226
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee67a2f725fe86e23e89c80c7bc23cedb27683566305383d838224b585df3588
+machine_hash: 64193af24b1b6e94abc05180423c18c21aa4511a88d36cae69af9a80747c433a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,13 +95,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration changes in v2026.9.7]]
-- Later: 2026-10-06 · v0 · [[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal accounts are now team workspaces]]
+- Later: 2026-10-01 · Synthesia · [[Changes/Synthesia/2026-10-01-automatically-label-every-video-your-team-creates-as-ai-generated-so-you-can-mee|Label every video with an AI content watermark]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,21 @@ date: '2026-07-31'
 description: 'Google Antigravity · 2026-07-31 · Account and Access: 2 changes in HUB
   v2.5.0 — Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1219
+  lag_days: 2194
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c590857839381246b297fcf6e291db06b608428316c9ba480cbb6fbcdf6c6a65
+machine_hash: 61aa7487be1157584abf68bf4a50206c9e4fb402b7f20d860780b7a395f66c34
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -99,7 +100,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.5.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-03-16'
 description: 'v0 · 2026-03-16 · Collaboration: Added support for linking team skills
   to design systems'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2621
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2cd326d26c19a867b4f7227865cb713ed9e6f84f8f6204fef7a75da57be37c2
+machine_hash: f5507144c2dfcecac71874af37f2006b6fa366f9ea2d7b399547343916ab62ec
 product: v0
 product_name: v0
 record:
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-workspace-knowledge|Workspace knowledge]]
-- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web): split share text-generation and add high-coverage tests]]
+- Later: 2026-03-17 · Descript · [[Changes/Descript/2026-03-17-share-page|Share page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

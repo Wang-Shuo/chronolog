@@ -4,20 +4,20 @@ date: '2025-06-26'
 description: 'Lovable · 2025-06-26 · Mobile and Desktop: Redesigned the mobile experience
   for building apps and websites directly from your phone.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 835
+  lag_days: 2419
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 545820f1d1bd857112900594ef43ca14a4c190619c87246c37808fc325666b16
+machine_hash: 955fdcad6270e919339df83aa0f0c1130dd8687aa11c6229da6219e226bf6982
 product: lovable
 product_name: Lovable
 record:
@@ -69,10 +69,10 @@ record:
   title: Improvements**
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-06-09-3-mobile-and-desktop-changes-in-v0-9-1|3 Mobile and
-  Desktop changes in v0.9.1]]'
-- '[[Changes/Replit/2025-06-13-mobile-app-update|Mobile app update]]'
 - '[[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]'
+- '[[Changes/Descript/2025-06-25-screen-recorder-on-windows|Screen recorder on Windows]]'
+- '[[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If
+  you''re on Desktop, we also release an update that requires a restart]]'
 source_release: '[[Releases/Lovable/lovable-2025-06-26-2025-06-26-16aa6e6c|lovable-2025-06-26-2025-06-26-16aa6e6c]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -113,14 +113,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]
+- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-if-you-re-on-desktop-we-also-release-an-update-that-requires-a-restart-it-fixes|If you're on Desktop, we also release an update that requires a restart]]
 - Later: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-5-mobile-and-desktop-changes-in-v0-9-4|5 Mobile and Desktop changes in v0.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-07-16'
 description: 'Codex CLI · 2026-07-16 · Developer Workflow: 2 changes in 0.144.5 —
   Improved dangerous-command detection, including more forced `rm` forms, and provides…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1216
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc261096c0b5f6f20cff2ecc1e2d569d927b53a67fbe0bfa522ef5c2d1151d45
+machine_hash: 86500f759ff03a5c9e9a04fec61397246a2f8dbc11499bbec36d478a5ced1d29
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2023-11-21'
 description: 'Dify · 2023-11-21 · Developer Workflow: 3 changes in v0.3.31 — Therefore,
   we provide a full-language tokenizer mirror for Qdrant: **langgenius/qdrant:latest**…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 248
+  lag_days: 1897
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d2bc1a3c718dc47eaadf2d51206ca3082f587133822a2a49ec408e45e439c84
+machine_hash: 924ef73193bc55a01edf1dbb256fe8ab5da66ee7f4b52e20da9d4cb75950f051
 product: dify
 product_name: Dify
 record:
@@ -96,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.31
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

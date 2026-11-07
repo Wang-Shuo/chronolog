@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'GitHub Copilot CLI · 2026-07-07 · Context Window: Warn when static context
   uses most of the prompt budget and block requests when little conversation room…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 2484
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d08ff8c6e29923ee498ccb830820b3f8b37ba7102d76735e1e9acb69f8425fdf
+machine_hash: 3b57c103010a60efbc8ff2c9730ddd57e5ab5a747ce81be1cc5bace95dcead36
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Warn when static context uses most of the prompt budget and block requests…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
-  and context compaction now inherit the session''s extended thinking…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context
-  Window changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-03-have-context-compaction-notes-capture-a-forward-plan-for-the-remaining-work-upco|Have
+  context-compaction notes capture a forward plan for the remaining work]]'
+- '[[Changes/Kimi Code/2026-07-06-2-context-window-changes-in-kimi-code-0-23-0|2 Context
+  Window changes in Kimi Code 0.23.0]]'
 - '[[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test:
   PLTF-1269 replace test_should naming with test_verb_noun_context convention]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

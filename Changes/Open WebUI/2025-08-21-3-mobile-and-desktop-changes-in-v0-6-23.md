@@ -4,20 +4,20 @@ date: '2025-08-21'
 description: 'Open WebUI · 2025-08-21 · Mobile and Desktop: 3 changes in v0.6.23 —
   ✨ **Dynamic Loading of ''kokoro-js''**: Implemented dynamic loading for the ''kokoro-js''…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 891
+  lag_days: 2475
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c13a4b5fcdaeba9657d510087058c0e78f8b52fe6f0d6ec2115fde77f04770b
+machine_hash: a71f1ff94e1d3f173569445c2faf026c27f9fdb26930293f265869fc809977e2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,8 @@ record:
   title: 3 Mobile and Desktop changes in v0.6.23
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
-  and Desktop changes in v0.1.21]]'
-- '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
-  size of installation on Windows and Linux]]'
+- '[[Changes/Notion/2025-08-19-notion-mail-is-now-on-ios|Notion Mail is now on iOS]]'
+- '[[Changes/Notion/2025-08-19-work-offline-in-notion|Work offline in Notion]]'
 - '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
   and Desktop changes in rust-v0.23.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
@@ -116,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

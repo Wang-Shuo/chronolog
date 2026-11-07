@@ -4,20 +4,20 @@ date: '2023-11-04'
 description: 'Ollama · 2023-11-04 · Context Window: 3 changes in v0.1.8 — [Yarn Mistral](https://ollama.ai/library/yarn-mistral)
   an extension of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 184
+  lag_days: 1508
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4432b5882f38826b60a4a595b8814f53fda855477010a22f1d9195c178492dcf
+machine_hash: ed15abe99988f3354eab6ce3089ece431d50b694b0121e90d153e61952d839c0
 product: ollama
 product_name: Ollama
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.8
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

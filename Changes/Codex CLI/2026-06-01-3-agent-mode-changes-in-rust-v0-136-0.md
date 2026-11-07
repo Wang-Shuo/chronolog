@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26782ad11a2e6d396f4cf11ee3fff89d525dbc62ac1ad6fcb6dce49b2d40cea1
+machine_hash: 54a461bda2df0c0341e8d7ebaeca809f9cba49c61ddb8a06b0d1eaaa3b35922a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Agent Mode changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add
-  builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]'
+- '[[Changes/Kimi Code/2026-05-29-3-agent-mode-changes-in-kimi-code-0-6-0|3 Agent
+  Mode changes in Kimi Code 0.6.0]]'
 - '[[Changes/Replit/2026-05-29-agent|Agent]]'
 - '[[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent
   can generate music, sound effects, and speech]]'

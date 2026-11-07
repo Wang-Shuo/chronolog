@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Pricing Model: Complete usage reporting
   no longer shows partial status or phantom unattributed spend after resume when…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1404
+  lag_days: 3022
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 28ec11eb24e35b17b0727b99f550138dc03738fcd237b1182a1d70069410ec3b
+machine_hash: 4690aae4db28eef5a8bdbdbf2fa278669b5f022fe9210889875a2d236f9270c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members with a scheduled-ending or cancelled Premium subscription keep…]]
-- Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Later: 2026-10-19 · Notion · [[Changes/Notion/2026-10-19-your-credits-go-about-10-further|Your credits go about 10× further]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

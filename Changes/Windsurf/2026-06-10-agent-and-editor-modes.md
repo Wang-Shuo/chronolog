@@ -5,20 +5,20 @@ description: 'Windsurf · 2026-06-10 · Interface Experience: Added the Agent/Ed
   switch to the collapsed-sidebar titlebar, and unified the search icon to open agent
   search.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1248
+  lag_days: 2614
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f766d031a3989428bdf9d5457f9a7d0cedbd3e96a46a5536fe1016a0322add7a
+machine_hash: 137a405ea31833f9e061c8f85f267ff642dac0a82246fd8cb1755732a15e82a7
 product: windsurf
 product_name: Windsurf
 record:
@@ -104,13 +104,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core References can include usage descriptions for agents, show up in the new docs…]]
-- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2 Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]
+- Later: 2026-06-11 · Descript · [[Changes/Descript/2026-06-11-how-to-find-it|How to find it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

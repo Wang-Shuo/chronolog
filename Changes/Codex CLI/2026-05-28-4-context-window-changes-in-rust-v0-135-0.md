@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Codex CLI · 2026-05-28 · Context Window: 4 changes in 0.135.0 — #24608
   feat: add manual and remote_v2 tags to compaction metric @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be9f57d6037f90b995bb6539c6c64adfbef74bcc656363dea142eb229d99fd35
+machine_hash: cbc1a8bc4d019eed376afd793970ffc9be053e4d49d500707dbc7fd6350b3b94
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Context Window changes in rust-v0.135.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
-  pluginSuggestionMarketplaces managed setting]]'
+- '[[Changes/Kimi Code/2026-05-27-route-session-tagged-log-entries-exclusively-to-the-session-sink-instead-of-dupl|Route
+  session-tagged log entries exclusively to the session sink instead…]]'
 - '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude
   now reserves the multiple-choice question prompt for decisions it genuinely…]]'
 - '[[Changes/Cline/2026-05-28-show-prompt-cache-support-for-qwen-3-7-max-in-the-cline-provider|Show
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.135.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

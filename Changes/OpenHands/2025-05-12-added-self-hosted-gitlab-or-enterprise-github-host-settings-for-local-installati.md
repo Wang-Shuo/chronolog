@@ -4,20 +4,20 @@ date: '2025-05-12'
 description: 'OpenHands · 2025-05-12 · Enterprise and Administration: Added self-hosted
   gitlab or enterprise github host settings for local installation by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 738
+  lag_days: 1945
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4c84b8471b2c3c029b378e3177ffdb7172b6c5f65dc57de6581c36ba5838ebc
+machine_hash: 265d27fbf075c2e16eac16efc1dba2f2fb498b3680784f93b0b3228a68b4086e
 product: openhands
 product_name: OpenHands
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-temporary-chat-admin-controls-session-cleanliness-admins-are-now-able-to-properl|💬 Temporary Chat Admin Controls & Session Cleanliness]]
-- Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2025-05-13 · Notion · [[Changes/Notion/2025-05-13-find-anything-with-enterprise-search|Find anything with enterprise search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

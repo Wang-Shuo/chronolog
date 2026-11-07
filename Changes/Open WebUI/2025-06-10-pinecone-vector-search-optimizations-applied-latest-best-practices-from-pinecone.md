@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-06-10 · Reliability and Performance: \U0001F68
   & Vector Search Optimizations**: Applied latest best practices from Pinecone for
   smarter…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 908
+  lag_days: 2395
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08881f2ae5208143ba7d8278e6b1f17889ff3cb722107e7ebf56531a7bd6f657
+machine_hash: 172134df7413e72cda6bd5abeab1247df9757b19b22bfe543d7d7e147d1cfb40
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,9 +48,9 @@ record:
   title: "\U0001F680 **Pinecone & Vector Search Optimizations**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]'
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
+- '[[Changes/Synthesia/2025-06-04-today-we-re-excited-to-roll-out-three-enterprise-grade-upgrades-that-help-you-wo|Enterprise
+  Update: Avatar Sharing, Bulk Actions & JIT Provisioning]]'
+- '[[Changes/Descript/2025-06-05-a-note-on-releases|A note on releases]]'
 - '[[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
   macOS app is now a native application and starts much faster while requiring…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

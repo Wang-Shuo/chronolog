@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49a9f401972b149307911971d1f02899d0e2053b95d46d3a01f4d0f849cb753f
+machine_hash: 334c65c01cb4b5e44caf2ad779f08775ccad0c0aef714e1b29cf59dca10c8ceb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Local session history is safer for compressed rollouts, renamed titles, pathless…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
-  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
-  remote access from the ChatGPT mobile app]]'
+- '[[Changes/Kimi Code/2026-05-26-2-projects-and-workspaces-changes-in-kimi-code-0-2-0|2
+  Projects and Workspaces changes in Kimi Code 0.2.0]]'
+- '[[Changes/Kimi Code/2026-05-27-show-the-original-session-resume-command-after-forking-a-session|Show
+  the original session resume command after forking a session]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session
   resume works correctly after a crash that left partial data in the session log]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-session-resume-works-correctly-after-a-crash-that-left-partial-data-in-the-sessi|Session resume works correctly after a crash that left partial data in the session log]]
-- Later: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid persisting empty resume sessions]]
+- Later: 2026-06-10 · Kimi Code · [[Changes/Kimi Code/2026-06-10-prevent-forking-sessions-during-active-turns-and-consolidate-wire-protocol-defin|Prevent forking sessions during active turns and consolidate wire protocol…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,19 @@ date: '2026-04-20'
 description: 'OpenCode · 2026-04-20 · Editor Experience: Core Preserved concurrent
   edits to the same file instead of letting parallel edits overwrite each other.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1133
+  lag_days: 2717
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7d7a54e47ece92b88f7acffd27d0d91f2aca83923f8b6bd6d518486f4baef57
+machine_hash: 0811ea068f3250dd84e97c8142d705920f317c2f47e15cf612cde541305a7241
 product: opencode
 product_name: OpenCode
 record:
@@ -45,8 +44,8 @@ record:
     edits…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
-  Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/Notion/2026-04-17-connect-your-calendar-and-inbox-from-a-new-dedicated-tab-in-your-settings-after|Mail
+  & Calendar, now in your settings]]'
 - '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
   Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 - '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
@@ -84,13 +83,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
-- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor Experience changes in v0.9.0]]
+- Later: 2026-04-21 · HeyGen · [[Changes/HeyGen/2026-04-21-you-recorded-a-90-minute-podcast-your-editor-needs-6-hours-to-pull-clips-your-au|You recorded a 90-minute podcast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

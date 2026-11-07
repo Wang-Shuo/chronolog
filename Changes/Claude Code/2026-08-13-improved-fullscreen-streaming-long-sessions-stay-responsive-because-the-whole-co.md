@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'Claude Code · 2026-08-13 · Interface Experience: Improved fullscreen
   streaming: long sessions stay responsive because the whole conversation is no longer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1312
+  lag_days: 2678
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff43ad83113de461a2445780b0974a38ed9a8a78664b0ae977e377a29a0f2a61
+machine_hash: dff1ebd24cef769f5a09c235f46bbe420d3c4ed98fcfbc5a3ce6e641f35d50cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent Sidebar Folders, Crash Fixes, and UI Enhancements]]
-- Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]
+- Later: 2026-08-13 · Kimi Code · [[Changes/Kimi Code/2026-08-13-2-interface-experience-changes-in-kimi-code-0-36-0|2 Interface Experience changes in Kimi Code 0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

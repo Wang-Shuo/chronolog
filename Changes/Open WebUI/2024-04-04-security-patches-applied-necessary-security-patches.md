@@ -4,20 +4,20 @@ date: '2024-04-04'
 description: "Open WebUI · 2024-04-04 · Safety and Privacy: \U0001F512 **Security
   Patches**: Applied necessary security patches."
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 354
+  lag_days: 1346
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4aa4795553231bd121f0bfd1f6054c94d1c2e95910cc7e90c816b68cc936f69d
+machine_hash: 6ecb4f95cbeab99436cc741ecce13f34e6c725d7bb1f55cf05e8dd1fd5526cd4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -41,8 +41,8 @@ record:
   title: "\U0001F512 **Security Patches**: Applied necessary security patches"
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-11-17-fix-permission-denied-issues-when-running-ollama-create-on-linux|Fix
-  permission denied issues when running ollama create on Linux]]'
+- '[[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI
+  Speaker authorization has been simplified, so you can Upload a consent statement…]]'
 - '[[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding
   Bard Extensions to new languages]]'
 - '[[Changes/Dify/2024-02-28-2-safety-and-privacy-changes-in-0-5-7|2 Safety and Privacy
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

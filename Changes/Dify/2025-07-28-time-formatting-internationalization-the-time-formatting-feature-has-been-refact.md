@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ecf227c7aa0899d33bd60d73a7fd48aea04732c4d323b782f473cffbbb4ebcda
+machine_hash: d2958a275917ec3597c9ce8f9c0d700a9b069c74b3641ce05d3c880e31490bae
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: '**Time Formatting Internationalization**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-14-accessibility-high-contrast-theme-enhancements-major-accessibility-overhaul-with|\U0001F3A8
-  Accessibility & High-Contrast Theme Enhancements]]"
 - '[[Changes/Open WebUI/2025-07-19-2-accessibility-and-localization-changes-in-v0-6-17|2
   Accessibility and Localization changes in v0.6.17]]'
+- '[[Changes/Notion/2025-07-22-here-s-how-you-can-set-your-language|Here’s how you
+  can set your language]]'
 - '[[Changes/Dify/2025-07-23-refactor-centralize-email-internationalization-handling-by-laipz8200-in-https-gi|refactor:
   centralize email internationalization handling]]'
 source_release: '[[Releases/Dify/dify-2025-07-28-1-7-1-github-235626993-47ad2206|dify-2025-07-28-1-7-1-github-235626993-47ad2206]]'

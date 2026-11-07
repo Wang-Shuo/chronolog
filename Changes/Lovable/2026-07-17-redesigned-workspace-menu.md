@@ -5,20 +5,20 @@ description: 'Lovable · 2026-07-17 · Interface Experience: The workspace menu 
   dashboard sidebar, opened by clicking your workspace name, has a cleaner layout
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2651
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 806ab5ab82fcbc849a8c5c1be3dec187716c6fd390036d0d07eefe9c8bc5750d
+machine_hash: dd308095631c919b2dd25dd2237468e8ce5994f2016561615587557102da9527
 product: lovable
 product_name: Lovable
 record:
@@ -50,11 +50,11 @@ record:
   title: Redesigned workspace menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
-  /resume in the agent view now opens a picker of past sessions]]'
 - '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
 - '[[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface
   Experience changes in 1.16.0]]'
+- '[[Changes/Kimi Code/2026-07-17-web-remember-the-thinking-level-per-model-fixing-an-empty-unresponsive-thinking|web:
+  Remember the thinking level per model, fixing an empty, unresponsive thinking…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-17-2026-07-17-97de1494|lovable-2026-07-17-2026-07-17-97de1494]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface Experience changes in 1.16.0]]
+- Earlier: 2026-07-17 · Kimi Code · [[Changes/Kimi Code/2026-07-17-web-remember-the-thinking-level-per-model-fixing-an-empty-unresponsive-thinking|web: Remember the thinking level per model, fixing an empty, unresponsive thinking…]]
 - Later: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

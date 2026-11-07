@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Cursor · 2026-05-13 · Context Window: Compact chats give you a tighter
   view of your agent conversations so you can read threads more quickly without losing…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2429
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0c2dc5e65fd45f1614064c338d09294e06ccc64a995f2af7a24239cb002a31c3
+machine_hash: 77df07776243158e135688339ad0871ef5250af09cc84c1fe58256b326c4c2bf
 product: cursor
 product_name: Cursor
 record:
@@ -113,13 +113,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]]
-- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core Keep recent turns after compaction instead of folding them into the summary]]
+- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

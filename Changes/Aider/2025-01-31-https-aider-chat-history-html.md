@@ -3,20 +3,20 @@ card_id: aider-2025-01-31-baac29
 date: '2025-01-31'
 description: 'Aider · 2025-01-31 · Interface Experience: https://aider.chat/HISTORY.html'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 753
+  lag_days: 2119
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10c7cc9318eeff6cf0a0ebed68304fac43a322ed71eb1db905c903408cb3d442
+machine_hash: 39054ed36b0d67d6c2e661312c0b674bd79b0a83b587acd1cbcc4adddc80f6b8
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,9 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
   API ToC]]'
+- '[[Changes/Descript/2025-01-14-blur-speaker-background|Blur speaker background]]'
 - '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
   General UI/UX Refinements]]'
 source_release: '[[Releases/Aider/aider-2025-01-31-v0-73-0-github-197873362-8d9f245d|aider-2025-01-31-v0-73-0-github-197873362-8d9f245d]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

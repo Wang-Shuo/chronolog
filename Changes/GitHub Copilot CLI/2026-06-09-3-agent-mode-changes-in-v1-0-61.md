@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a27dd9d0e72c265275bd252829b5ad86cf0190bc94a950d1ac8e9b0ac6884b7b
+machine_hash: 25247daf7e2d4f9b07f86101bc9a6dd73395bd2001acfe01008f4d95080d38e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode changes in rust-v0.139.0]]
-- Later: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]
+- Later: 2026-06-09 · Kimi Code · [[Changes/Kimi Code/2026-06-09-2-agent-mode-changes-in-kimi-code-0-12-0|2 Agent Mode changes in Kimi Code 0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

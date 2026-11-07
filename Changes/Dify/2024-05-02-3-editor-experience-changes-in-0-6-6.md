@@ -4,20 +4,19 @@ date: '2024-05-02'
 description: 'Dify · 2024-05-02 · Editor Experience: 3 changes in v0.6.6 — CODE transform
   node editor support insert var by add slash or left brace by @iamjoel in #3946'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 415
+  lag_days: 1999
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98d6def30207e964f3be20650ee568320f6a2a1bc73bd4dcd09317587d857cb0
+machine_hash: 80eb31216aa111f00a4135fabce86393da27bf60ea572b59e2081ad98e0cc639
 product: dify
 product_name: Dify
 record:
@@ -100,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

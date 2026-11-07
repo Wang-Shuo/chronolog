@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bad64882ca84d8d864d44d2c8aaef98ef098be0d69f1f436ffe9a7f4de02f07
+machine_hash: 7ddc903cbd583ac0cfa945597a6e91938212dae5599cbb9a647f65f547bbed52
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Memory and Personalization changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
-  memory: the agent is now reminded to compact its MEMORY.md index…]]'
+- '[[Changes/Kimi Code/2026-06-24-read-large-text-files-in-bounded-memory-and-read-tail-lines-without-scanning-who|Read
+  large text files in bounded memory and read tail lines without scanning whole files]]'
 - '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
   Memory and Personalization changes in v0.10.0]]'
 - '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
@@ -97,7 +97,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26 Memory and Personalization changes in v2026.6.11]]
-- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team members with v0 edit access can manage team skills and memories without…]]
+- Later: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-release-pasted-images-and-streaming-timers-once-they-are-no-longer-shown-so-memo|Release pasted images and streaming timers once they are no longer shown, so memory…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

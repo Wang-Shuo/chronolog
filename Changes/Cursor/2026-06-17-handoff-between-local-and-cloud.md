@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1bed2f6675fd96f4e56cbbdea752e1e203e8cb4c0e32043e07e232faec251a5d
+machine_hash: 57db7394c00a777da038ca42ee408b45380ad9d168fd69afed95ad1b6920de07
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +49,10 @@ record:
   title: Handoff between local and cloud
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
+- '[[Changes/Kimi Code/2026-06-16-prevent-session-shutdown-from-resuming-the-agent-when-stopping-background-tasks|Prevent
+  session shutdown from resuming the agent when stopping background tasks]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved
   the subagent panel]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa|cursor-2026-06-17-3-7-https-cursor-com-changelog-cloud-in-agents-window-d40d64fa]]'

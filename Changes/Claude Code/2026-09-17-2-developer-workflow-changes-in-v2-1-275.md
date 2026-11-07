@@ -4,19 +4,20 @@ date: '2026-09-17'
 description: 'Claude Code · 2026-09-17 · Developer Workflow: 2 changes in v2.1.275
   — Added syncing of the skills and plugins enabled on your claude.ai account to terminal…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1279
+  lag_days: 2928
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce2c466d421c84a9dcc1f780d1dbe9dde36213410399aadea19ab3f0bb6fd5c4
+machine_hash: b14d2955290983a337f12ca625dd1b1502390d97086d18ea6d291912a96ca58e
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

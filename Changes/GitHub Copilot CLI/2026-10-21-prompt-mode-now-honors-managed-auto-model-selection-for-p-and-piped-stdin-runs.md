@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f04518e4cb1fc45aa122c00125574f7cfe0a96d6d59ec5fc71f64f290794d26
+machine_hash: 7237af866dc9ddb79439d13a610261ae1fa2828a0ae0f0900ed857e27d47b1ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     runs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model
-  Support changes in v1.0.100]]'
+- "[[Changes/Notion/2026-10-19-meet-auto-our-upgraded-model-router|Meet Auto, our
+  upgraded model router \U0001F500]]"
 - '[[Changes/GitHub Copilot CLI/2026-10-20-8-model-support-changes-in-v1-0-101|8 Model
   Support changes in v1.0.101]]'
 - '[[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-seedream-5-pro-and-seedance-2-5-for-your-app-s-ai-features|Seedream 5 Pro and Seedance 2.5 for your app's AI features]]
-- Later: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model Support changes in v1.0.103]]
+- Later: 2026-10-21 · Kimi Code · [[Changes/Kimi Code/2026-10-21-switching-models-mid-session-now-shows-a-confirmation-dialog-start-a-new-session|Switching models mid-session now shows a confirmation dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

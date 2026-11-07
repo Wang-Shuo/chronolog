@@ -4,20 +4,19 @@ date: '2025-07-16'
 description: 'Cline · 2025-07-16 · Editor Experience: 2 changes in v3.19.5 — Update
   diff edit evals README.md by @pashpashpash in https://github.com/cline/cline/pull/4920'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 855
+  lag_days: 2439
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 765aa6dde97666da2f2793c0e12da5098ef2183c7259c62aebf7d65d52b3daad
+machine_hash: b2f4e1de9e6bad9386a093a49455abffb9c9f05d2f719916f67fb0ac5871ff0b
 product: cline
 product_name: Cline
 record:
@@ -42,12 +41,11 @@ record:
   title: 2 Editor Experience changes in v3.19.5
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-10-2-editor-experience-changes-in-1-6-0|2 Editor Experience
-  changes in 1.6.0]]'
 - '[[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help:
   add shift+tab tip]]'
 - '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
   Experience changes in v0.6.16]]'
+- '[[Changes/Descript/2025-07-15-editor-updates|Editor updates]]'
 source_release: '[[Releases/Cline/cline-2025-07-16-v3-19-5-github-232737574-15eeaef6|cline-2025-07-16-v3-19-5-github-232737574-15eeaef6]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,14 +79,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.19.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor Experience changes in v0.6.16]]
+- Earlier: 2025-07-15 · Descript · [[Changes/Descript/2025-07-15-editor-updates|Editor updates]]
 - Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-2-editor-experience-changes-in-0-49-0|2 Editor Experience changes in 0.49.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

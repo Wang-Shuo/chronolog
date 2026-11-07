@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dadbe21c41853db761eeae65358722b7658fd8e3c0763486dc118fac45c10513
+machine_hash: c5ed26fa31aa3ff3c328f036fecc78507be566c3ddde97c80bfaaa7acccae1f7
 product: runway
 product_name: Runway
 record:
@@ -50,10 +50,9 @@ record:
   title: Introducing Team Plan
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
-  changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/HeyGen/2026-09-04-video-agent-essential-mode|Video Agent Essential Mode]]'
+- '[[Changes/Kimi Code/2026-09-04-2-agent-mode-changes-in-kimi-code-0-41-0|2 Agent
+  Mode changes in Kimi Code 0.41.0]]'
 - '[[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand
   app usage with Project Analytics]]'
 source_release: '[[Releases/Runway/runway-2026-09-04-2026-09-04-introducing-team-plan-c8d46c03|runway-2026-09-04-2026-09-04-introducing-team-plan-c8d46c03]]'

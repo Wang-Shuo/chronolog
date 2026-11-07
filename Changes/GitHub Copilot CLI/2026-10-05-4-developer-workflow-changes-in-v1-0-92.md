@@ -4,19 +4,20 @@ date: '2026-10-05'
 description: 'GitHub Copilot CLI · 2026-10-05 · Developer Workflow: 4 changes in 1.0.92
   — Shell tool calls now stream live stdout and stderr output reliably in the timeline'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1297
+  lag_days: 2946
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e422601405c226a4a2e72180c94a881c704e0f2f39b433fb729f7f787d53f09b
+machine_hash: 3f2fca18d447f098bf7a6ac3618f24180d37ea207345adf8da56d472aad7a648
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -111,7 +112,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-12-24'
 description: 'Windsurf · 2025-12-24 · Context Window: Multiple fixes to the Model
   Context Protocol implementation'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 965
+  lag_days: 2289
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 587db7035aa43443ccd041f029434e7716887c2c9ef7dc8da2e8df7441e37963
+machine_hash: 7fcffdf65f3215b39dca8902c799ef1e84dc0bd4f6cd19b0957a765f21dcd986
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,10 +52,10 @@ record:
   title: Multiple fixes to the Model Context Protocol implementation
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add
-  /context command to visualize token usage]]'
 - '[[Changes/v0/2025-12-22-you-can-now-connect-v0-to-your-glean-workspace-and-build-directly-from-your-comp|Build
   with Glean via MCP]]'
+- '[[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve
+  released GLM-4.7, our foundation model with significant improvements…]]'
 - '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-24-v1-13-3-cac9d5c1|windsurf-2025-12-24-v1-13-3-cac9d5c1]]'
 source_type: windsurf_changelog
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

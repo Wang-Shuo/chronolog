@@ -4,19 +4,20 @@ date: '2025-04-09'
 description: 'Dify · 2025-04-09 · Collaboration: Hello community! We’re excited to
   share our v1.2.0 update with you—it''s packed with impressive new features, enhancements…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 686
+  lag_days: 2280
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5bdcc23a01790db58fa2ed6f30660e69df841e6e98be3cc94af4d782982e46f2
+machine_hash: 0829edf170ba3f370fba2dca547952f1c7cdb2e771f41feda6a831ec5f04a077
 product: dify
 product_name: Dify
 record:
@@ -48,10 +49,10 @@ record:
   title: Hello community!
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
-  heard the issues you''ve shared with us and we''re working hard to fix them all]]'
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Notion/2025-03-26-search-jira-with-notion-ai-beta|Search Jira with Notion
+  AI beta]]'
+- '[[Changes/Notion/2025-03-26-view-multiple-databases-on-one-page|View multiple databases
+  on one page]]'
 - '[[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank
   you so much for your help!]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
@@ -98,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

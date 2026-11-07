@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Claude Code · 2026-08-07 · Interface Experience: Improved fullscreen
   mode to keep the full pre-compaction history in scrollback across repeated compactions…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1306
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc247db16763487d3da5cbbbdf58073a78c90cac4ddab0c6658f56c5ff0d4552
+machine_hash: 329861eeddffee738bdf1c2a5826dce689a1646dbaf152385b20021ddc3aa00a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved fullscreen mode to keep the full pre-compaction history in scrollback…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise
-  a plan by highlighting the part you want changed]]'
-- '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
-  Added Focus view]]'
 - '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
   Experience changes in v4.1.4]]'
+- '[[Changes/Kimi Code/2026-08-05-web-pin-sessions-to-the-top-of-the-sidebar|web:
+  Pin sessions to the top of the sidebar]]'
+- '[[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web:
+  Add a flat view to the sidebar session list]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface Experience changes in v4.1.4]]
+- Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-web-add-a-flat-view-to-the-sidebar-session-list|web: Add a flat view to the sidebar session list]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

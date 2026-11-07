@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-19 · Mobile and Desktop: 23 changes in v2026.
   — Web and macOS chat show each subagent task’s name beside a claw that moves while
   it runs…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1285
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40a67ddb1e80916d619bf3f2d52dce3f7b8bd166dc82c06b5eabd952f6548e1b
+machine_hash: d8de28d7f6cd247a9ae77887357ba85c50d96c2adf6c1fc1039046e430cc0d3c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -185,8 +185,8 @@ record:
   title: 23 Mobile and Desktop changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Qoder/2026-09-18-sites-choose-a-template-and-build-a-website-through-conversation-preview-publish|Sites:
+  Choose a template and build a website through conversation]]'
 - '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
   and network sandboxing on Windows are now supported]]'
 - '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
@@ -298,7 +298,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

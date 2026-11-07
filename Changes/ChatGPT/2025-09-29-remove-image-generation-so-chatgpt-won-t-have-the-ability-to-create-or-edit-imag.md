@@ -4,20 +4,20 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Image Generation: Remove image generation, so
   ChatGPT won’t have the ability to create or edit images.'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 568
+  lag_days: 826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e99eefb5c8a7225a3dc2b53b6371c2dfda6a25d5f486e788523d3ab0bcf00e28
+machine_hash: c465f300a605e23e58fd19919619ffb38723ca2b65e70b80329d946a758ee415
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,9 @@ record:
     images
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️
-  Models can now be configured with default features (Web Search, Image Generation)…]]'
 - '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Descript/2025-09-24-image-generation-models|Image generation models]]'
 - "[[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|\U0001F3A8
   Image generation model selection was centralized to enable dynamic model override…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

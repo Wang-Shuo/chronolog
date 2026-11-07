@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-08-29 · Safety and Privacy: 5 changes in 0.151.
   Preserved restored permission profiles across TUI turns and prevented `/cd` from
   weakening…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2223
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9e774a5171e2ddcc8b03451c2defc0b1def9913b394c4c5c3a9aa21ed003f05
+machine_hash: 380705a8e8c06d50cad75eac8549856dd3d0db70b71c5a93d5bd9811ee7499b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.151.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict
-  external invites to verified email domains]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Kimi Code/2026-08-28-web-fix-switching-the-permission-mode-in-one-session-changing-it-for-every-sessi|web:
+  Fix switching the permission mode in one session changing it for every session]]'
 - '[[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
   Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d|codex-cli-2026-08-29-rust-v0-151-0-github-378941035-5571827d]]'
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

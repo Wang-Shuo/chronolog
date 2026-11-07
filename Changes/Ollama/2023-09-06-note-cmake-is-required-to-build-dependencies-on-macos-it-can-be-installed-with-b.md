@@ -5,20 +5,20 @@ description: 'Ollama · 2023-09-06 · Mobile and Desktop: Note: `cmake` is requi
   to build dependencies. On macOS it can be installed with `brew install cmake`, and
   on other…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 176
+  lag_days: 1760
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cbcf94254d70f4ba358d9a1bebe03acf6f1457d58d9e312de520664e9e74cbf
+machine_hash: 1637c1bc1776c288ae53c5c93a28988a7c4f2b2fa7924e492d6793f985c16879
 product: ollama
 product_name: Ollama
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-07-25 · ChatGPT · [[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing the ChatGPT app for Android]]
-- Later: 2023-10-13 · Ollama · [[Changes/Ollama/2023-10-13-ollama-for-macos-will-now-always-update-to-the-latest-version-even-if-earlier-up|Ollama for macOS will now always update to the latest version, even if earlier…]]
+- Later: 2023-09-18 · Descript · [[Changes/Descript/2023-09-18-new-add-layer-panel|New add layer panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

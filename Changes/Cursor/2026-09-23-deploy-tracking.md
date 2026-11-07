@@ -5,20 +5,20 @@ description: 'Cursor · 2026-09-23 · Reliability and Performance: Rollouts wake
   deploy events for the change''s commit and runs the plan against your logs, metrics,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1378
+  lag_days: 2865
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 31c3ba78b0f87adc1bc6c0f9676907f52bef82e51be9d75b303707ad2c50a875
+machine_hash: 7edd5079b1ad51e2c29ad02270473415f09e9f8565262e1ee61e3486d3d5334f
 product: cursor
 product_name: Cursor
 record:
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering skills and other customizations is now dramatically faster on large…]]
-- Later: 2026-09-23 · Ollama · [[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2 Reliability and Performance changes in v0.34.4]]
+- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-reduce-the-cli-s-startup-time-and-memory-usage|Reduce the CLI's startup time and memory usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

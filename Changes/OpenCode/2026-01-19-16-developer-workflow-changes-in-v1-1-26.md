@@ -4,19 +4,20 @@ date: '2026-01-19'
 description: 'OpenCode · 2026-01-19 · Developer Workflow: 16 changes in v1.1.26 —
   Core Reset worktree to clean state'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1038
+  lag_days: 2687
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1327f5d2ff4d9c6c3ca7a5f78871e705aff4ff00294007b43f4cfab1d0bdf021
+machine_hash: 0224412bc6224593a4a1982d3b43302d980b47b4e48911c49c245aa324bb6793
 product: opencode
 product_name: OpenCode
 record:
@@ -155,7 +156,7 @@ Source: https://opencode.ai/changelog/v1.1.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

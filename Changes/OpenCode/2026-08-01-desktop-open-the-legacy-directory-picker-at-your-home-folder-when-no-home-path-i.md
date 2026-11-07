@@ -4,20 +4,20 @@ date: '2026-08-01'
 description: 'OpenCode · 2026-08-01 · Interface Experience: Desktop Open the legacy
   directory picker at your home folder when no home path is loaded yet.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1300
+  lag_days: 2666
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce77cf892a9ce3493ac8116905f2836ca6a087dba35a00d7adcc70839a929c1e
+machine_hash: 0126fe66596b6dc0eaf69a79c330ef3008ec132d9eb44bb3a26b58c13e6cfc75
 product: opencode
 product_name: OpenCode
 record:
@@ -43,10 +43,10 @@ record:
     path…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
 - '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
   Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-reduce-frequent-full-screen-redraws-in-the-tui|Reduce
+  frequent full-screen redraws in the TUI]]'
 - '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
   Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-08-01-v1-18-11-fe6c9c73|opencode-2026-08-01-v1-18-11-fe6c9c73]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

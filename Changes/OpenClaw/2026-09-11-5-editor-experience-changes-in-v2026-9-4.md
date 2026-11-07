@@ -5,20 +5,19 @@ description: 'OpenClaw · 2026-09-11 · Editor Experience: 5 changes in v2026.9.
   Highlight a passage and choose Add to chat to put an editable quote into your draft
   without…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1277
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb3708396b2e6ea7a94bdac96f96170c2c64fccaa152cf00405b62523c246a26
+machine_hash: 020828d521a140e7655b2f57c83c41cdeff27e3265df236f432eddd6ee929c2d
 product: openclaw
 product_name: OpenClaw
 record:
@@ -144,7 +143,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.4
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

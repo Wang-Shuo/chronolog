@@ -4,20 +4,20 @@ date: '2026-09-19'
 description: 'OpenClaw · 2026-09-19 · Reliability and Performance: 5 changes in v2026.9.5
   — Session refreshes also release old versions of session-list data that were being…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1374
+  lag_days: 2861
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f5c66a9fb1a0e39e08747c6006676ce22cf92dbfa21901d2f698fdcc699c947
+machine_hash: 98945ce75156e54cfc84c84390b48252412038ac1177d1f0f8db85a8d01c14d8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -65,12 +65,10 @@ record:
   title: 5 Reliability and Performance changes in v2026.9.5
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed
-  a redundant scan of your skills, rules, and other customization files…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
-  up startup when resuming an existing local session by its exact UUID with --resume]]'
 - '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
   a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/Descript/2026-09-17-faster-scrubbing|Faster scrubbing]]'
+- '[[Changes/Descript/2026-09-17-faster-aaf-and-sesx-exports|Faster AAF and SESX exports]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-19-v2026-9-5-506f537c|openclaw-2026-09-19-v2026-9-5-506f537c]]'
 source_type: openclaw_changelog
 theme: reliability-performance
@@ -135,14 +133,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]]
+- Earlier: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-faster-aaf-and-sesx-exports|Faster AAF and SESX exports]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

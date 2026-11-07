@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f8c3f3f24130682518a0b04ae584dbd3d443a422f4edec3b0a090f761a3c9cd5
+machine_hash: 7bfdddf47528ff5a1b89f8816df70619e56aaa4d002cf3f1214bd232f6beeeb4
 product: replit
 product_name: Replit
 record:
@@ -51,11 +51,12 @@ record:
   title: Build full-stack mobile apps with Agent
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-27-python-sdk|Python SDK]]'
 - '[[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell
   apply_patch parsing is corrected, and apply_patch tests now cover…]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
   infer property to control custom agent tool visibility]]'
+- '[[Changes/Notion/2025-12-03-notion-agent-can-now-build-beautiful-forms-in-seconds|Agent
+  can build forms]]'
 source_release: '[[Releases/Replit/replit-2025-12-05-2025-12-05-a5f5ba3b|replit-2025-12-05-2025-12-05-a5f5ba3b]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add infer property to control custom agent tool visibility]]
+- Earlier: 2025-12-03 · Notion · [[Changes/Notion/2025-12-03-notion-agent-can-now-build-beautiful-forms-in-seconds|Agent can build forms]]
 - Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

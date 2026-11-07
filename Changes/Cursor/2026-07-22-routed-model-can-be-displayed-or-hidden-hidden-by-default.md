@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2899f439af710e6090b200f580c701c8f41e513b2f0320d5e1443e0c5f3833e6
+machine_hash: 97a06d5c8c9adcf83182d61ae9fad6c7560dfdbcf86c081ed73c3b5b3834ab04
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
-- Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini 3.6 Flash is now the default model for your app's AI]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-2-model-support-changes-in-kimi-code-0-29-0|2 Model Support changes in Kimi Code 0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

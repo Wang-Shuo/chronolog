@@ -5,20 +5,20 @@ description: 'OpenCode · 2026-07-14 · Interface Experience: 2 changes in v1.18
   1 — Desktop Fixed connected project picker positioning when its anchor is still
   loading.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1282
+  lag_days: 2648
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 246cfba04038a8d16d0e7be5b70c91c631e56b92c2347882e0d736a3683069dd
+machine_hash: 8e01d9d999a89e0f9f0a034c0467ee26fb26ca9b1d4d7d7399d7eb5e4e9b3d59
 product: opencode
 product_name: OpenCode
 record:
@@ -44,13 +44,12 @@ record:
   title: 2 Interface Experience changes in v1.18.1 + 1
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface
-  Experience changes in v2026.7.1]]'
-- '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
-  mouse-click support for multi-select menus and "Other" input rows in fullscreen
-  mode]]'
 - '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
   Experience changes in v2.1.210]]'
+- '[[Changes/Kimi Code/2026-07-14-web-add-session-export-run-export-or-pick-export-session-from-a-session-s-more-m|web:
+  Add session export: run /export or pick Export session from a session''s more…]]'
+- '[[Changes/Kimi Code/2026-07-14-preserve-goal-completion-summaries-and-show-untyped-llm-errors-without-an-intern|Preserve
+  goal completion summaries and show untyped LLM errors without an internal…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-07-14-v1-18-1-d4b11435|opencode-2026-07-14-v1-18-1-d4b11435]]'
 source_type: opencode_changelog
 theme: interface-experience
@@ -87,14 +86,14 @@ Source: https://opencode.ai/changelog/v1.18.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
+- Earlier: 2026-07-14 · Kimi Code · [[Changes/Kimi Code/2026-07-14-preserve-goal-completion-summaries-and-show-untyped-llm-errors-without-an-intern|Preserve goal completion summaries and show untyped LLM errors without an internal…]]
 - Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved terminal layout and rendering performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

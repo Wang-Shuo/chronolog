@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe78de74fa514df81d42305932f6f3919da01d8214ea3e500de073dd08826950
+machine_hash: e9125c68ea85ecadf4ddbe9aab24cd4f989a40ddc3f0a613b435b475ac5acfbf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Agent Mode changes in v1.0.4
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-09-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
   in v2.1.72]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-10-edit-with-copilot-in-excel-to-enhance-your-productivity-formerly-agent-mode-wind|Edit
+  with Copilot in Excel to enhance your productivity (formerly Agent Mode)…]]'
 - '[[Changes/Gemini CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0|6 Agent Mode changes
   in v0.33.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1|github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1]]'

@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Cline · 2026-05-28 · Context Window: Show prompt-cache support for Qwen
   3.7 Max in the Cline provider.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1120
+  lag_days: 2444
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 79fe2b6dc153f9b371aaa756aa786cdbcc3d6976633caf3312c0baaa36034576
+machine_hash: e0c9598c7cc9eb62b3b19f300ba50e2cf32f54143c66a0455ce737ea7bfbed43
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: Show prompt-cache support for Qwen 3.7 Max in the Cline provider
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context
-  Window changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
   pluginSuggestionMarketplaces managed setting]]'
+- '[[Changes/Kimi Code/2026-05-27-route-session-tagged-log-entries-exclusively-to-the-session-sink-instead-of-dupl|Route
+  session-tagged log entries exclusively to the session sink instead…]]'
 - '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude
   now reserves the multiple-choice question prompt for decisions it genuinely…]]'
 source_release: '[[Releases/Cline/cline-2026-05-28-v3-86-0-github-331045172-25b66006|cline-2026-05-28-v3-86-0-github-331045172-25b66006]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

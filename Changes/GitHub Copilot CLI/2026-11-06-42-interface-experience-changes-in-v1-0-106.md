@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Interface Experience: 42 chang
   1.0.106 — The @ file picker now underlines a name with a capital dotted I, such
   as…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1397
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88ffb76e5298eb40e11fc7167d1663406cb95c2bfd41e10bfb9150592a6a3dc2
+machine_hash: e3705b2f2c11c1525f2da5dc9a5864dad59b4da570f52cf7ae74f944f5de769f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -172,12 +172,10 @@ record:
   title: 42 Interface Experience changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
-  Experience changes in v1.35.0]]'
-- '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface
-  Experience changes in 1.19.0]]'
-- '[[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13
-  Interface Experience changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-how-to-find-it|How to find it]]'
+- '[[Changes/Descript/2026-11-06-how-to-find-it-8b7715|How to find it]]'
+- '[[Changes/Descript/2026-11-06-2-interface-experience-changes-in-release-roundup-november-6-2026|2
+  Interface Experience changes in Release roundup—November 6, 2026]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: interface-experience
@@ -309,13 +307,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13 Interface Experience changes in rust-v0.167.0]]
+- Earlier: 2026-11-06 · Descript · [[Changes/Descript/2026-11-06-2-interface-experience-changes-in-release-roundup-november-6-2026|2 Interface Experience changes in Release roundup—November 6, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

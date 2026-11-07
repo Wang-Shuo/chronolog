@@ -4,20 +4,20 @@ date: '2024-06-14'
 description: 'Dify · 2024-06-14 · Pricing Model: feat: pricing page add llm load balancing
   info by @iamjoel in https://github.com/langgenius/dify/pull/4942'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 547
+  lag_days: 2165
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: da94be2d6ebf481a7ae502179fdd63f7c7254b88c2e0952480e75f9004130f6e
+machine_hash: 16f6ad5f25d8961edf607d15f86b90b827d7eed6d6264c8735683b782afb2329
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,8 @@ record:
   title: 'feat: pricing page add llm load balancing info'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes
-  in 0.6.9]]'
+- '[[Changes/Descript/2024-06-04-future-limits-on-ai-features|Future Limits on AI
+  Features]]'
 - '[[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat:
   show more usage info in billing page]]'
 - '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
@@ -97,13 +97,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add cost metrics to evaluation outputs for all benchmarks]]
-- Later: 2024-07-15 · Gemini · [[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace Extensions now available in Beta for Gemini for Google Workspace add-on…]]
+- Later: 2024-06-26 · Notion · [[Changes/Notion/2024-06-26-an-update-to-our-plus-plan-pricing|An update to our Plus plan pricing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

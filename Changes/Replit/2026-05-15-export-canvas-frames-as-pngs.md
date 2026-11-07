@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'Replit · 2026-05-15 · Files and Data: Right-click any artifact or design
   frame on the Canvas and select **Export** > **PNG** to download a snapshot of the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 2431
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3635b3c5420544f5b2c14a3d12927eaaf2093b30e8a804318449b473806cd2f9
+machine_hash: 1ffd7f4ec058dfeb0e775b76294e602eeb0b7a8132c2cc5b1cb6648e02543d57
 product: replit
 product_name: Replit
 record:
@@ -48,9 +48,10 @@ record:
   title: Export Canvas frames as PNGs
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]'
 - '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
   library is expanding to Free and Go users, including to users in the European…]]'
+- '[[Changes/Descript/2026-05-14-bullet-points-in-canvas-text-clips|Bullet points
+  in Canvas text clips]]'
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
   finances in ChatGPT]]'
 source_release: '[[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|replit-2026-05-15-2026-05-15-d142aa2e]]'
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

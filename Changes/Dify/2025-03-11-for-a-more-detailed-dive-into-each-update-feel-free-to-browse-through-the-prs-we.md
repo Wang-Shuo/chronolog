@@ -4,20 +4,20 @@ date: '2025-03-11'
 description: 'Dify · 2025-03-11 · Search and Browsing: For a more detailed dive into
   each update, feel free to browse through the PRs. We’re all about improving and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 719
+  lag_days: 1748
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bc928d4277ca1b57ae10660ef1fcfad63f703424fd240627c8413352f2de30b7
+machine_hash: 6af9b2dcc4d0bee052cb0096067c4945bc2290287684a150375ba39ad4de6363
 product: dify
 product_name: Dify
 record:
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-full-context-mode-renamed-for-clarity-the-full-context-mode-toggle-in-web-search|📝 "Full Context Mode" Renamed for Clarity]]
-- Later: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-turn-on-vision-based-browsing-by-default-and-allow-openhands-to-see-pdf-images-i|Turn on vision-based browsing by default and allow OpenHands to see PDF / images…]]
+- Later: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-build-trust-with-verified-pages|Build trust with verified pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

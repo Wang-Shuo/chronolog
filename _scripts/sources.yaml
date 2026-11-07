@@ -432,3 +432,113 @@ products:
     silence_periods: 2
     silence_baseline_factor: 0.5
     language: en
+  - name: descript
+    display_name: Descript
+    feed_type: canny_changelog
+    url: https://feedback.descript.com/changelog
+    api_url: https://feedback.descript.com/api/changelog/getEntries
+    title_only_notes: true
+    canny_partition_by_type: true
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Published entries across all three official Canny update types (new, improved and fixed), including AI editing, transcription and the wider video/audio editor. Each type archive is traversed to its terminal page and overlaps are deduplicated. Posts with an empty or media-only body retain their official title only; media contents are not transcribed. Drafts and deleted entries are excluded.
+    themes: [video-generation, voice, agent-mode, collaboration, apps-integrations, editor-experience]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: heygen
+    display_name: HeyGen
+    feed_type: heygen_changelog
+    url: https://heygen.noticeable.news/
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All dated public updates in the official HeyGen Noticeable archive, including video, avatar, voice and API updates. Publication timestamps are checked against each linked article; company or plan announcements may appear alongside features.
+    themes: [video-generation, voice, model-support, apps-integrations, enterprise-admin, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: synthesia
+    display_name: Synthesia
+    feed_type: synthesia_changelog
+    url: https://www.synthesia.io/updates
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated summaries across every page of the official product-update index. Separate featured hero announcements without publication dates and full linked article bodies are excluded. This is the currently available dated index, not a lifetime release history.
+    themes: [video-generation, voice, apps-integrations, collaboration, enterprise-admin, accessibility-localization]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: qoder
+    display_name: Qoder
+    feed_type: qoder_changelog
+    url: https://changelog.qoder.com/app
+    markdown_url: https://changelog.qoder.com/app.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: The current unified Qoder app changelog, beginning with the earliest dated version on the official page. Qoder IDE, CLI and the older QoderWork changelogs are separate surfaces and are not combined or counted twice.
+    themes: [agent-mode, developer-workflow, apps-integrations, model-support, automation-scheduling, projects-workspaces]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: kimi-code
+    display_name: Kimi Code
+    feed_type: kimi_code_changelog
+    url: https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/release-notes/changelog.md
+    markdown_url: https://raw.githubusercontent.com/MoonshotAI/kimi-code/main/docs/en/release-notes/changelog.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated stable versions in the official English Kimi Code changelog, covering CLI and Web UI changes listed there. Unreleased sections are excluded. The Kimi consumer app and model API have separate histories; the earliest entry here is not their launch date.
+    themes: [agent-mode, developer-workflow, model-support, context-window, apps-integrations, reliability-performance]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: microsoft-365-copilot
+    display_name: Microsoft 365 Copilot
+    feed_type: m365_copilot_changelog
+    url: https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: The official Microsoft Learn all-features tab for Microsoft 365 Copilot, currently covering 2026. App-scoped feature titles and their first change summaries are retained; platform tabs duplicate the same releases and are excluded, as are nested setup instructions and impact boilerplate. Dates label release batches; availability rolls out gradually. This does not cover the separate consumer Copilot app.
+    themes: [agent-mode, presentation-creation, meeting-notes, apps-integrations, enterprise-admin, collaboration, file-data]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: notion
+    display_name: Notion
+    feed_type: notion_changelog
+    url: https://www.notion.com/releases
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every dated release in the official paginated Notion archive, including Notion AI, agents and the wider workspace product. This is not an AI-only history. Explicit coming-soon blocks remain in source records but are excluded from shipped-change cards; video-player controls and error messages are removed.
+    themes: [agent-mode, collaboration, projects-workspaces, apps-integrations, search-browsing, file-data, enterprise-admin]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: zai-api
+    display_name: Z.ai API
+    feed_type: zai_changelog
+    url: https://docs.z.ai/release-notes/new-released
+    markdown_url: https://docs.z.ai/release-notes/new-released.md
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All dated model announcements currently listed in the official Z.ai New Released notes. This is a model/API announcement history, not a complete consumer-chat or platform history. Performance statements are upstream claims, not independently verified benchmark results.
+    themes: [model-support, context-window, image-generation, developer-workflow, multimodal]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en

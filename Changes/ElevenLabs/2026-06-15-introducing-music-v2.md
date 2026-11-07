@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 02f7749f5e2a80b8da4f826babfd6a6d50fb386a0ff54a41f9460fae53573530
+machine_hash: 5f099105607bb79ccb9f5ba3ef8713dc34be400f534526cd253cc00b582dbeb0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model Support changes in rust-v0.140.0]]
-- Later: 2026-06-16 · Midjourney · [[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview to test new features]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-2-model-support-changes-in-kimi-code-0-15-0|2 Model Support changes in Kimi Code 0.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

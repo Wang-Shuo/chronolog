@@ -4,19 +4,20 @@ date: '2026-10-15'
 description: 'Codex CLI · 2026-10-15 · Developer Workflow: 15 changes in 0.163.0 —
   On Windows, `Ctrl+V` and `Shift+Insert` paste text as well as images. On WSL, repeated…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1307
+  lag_days: 2956
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 145c8d1b215ba4298705035a5e948b3e3aed7263690c234165c090bfec4aa71d
+machine_hash: dc1f76c6099c3ba82271af225f183b538bfc1607fabeca57c6f6ad8a1677bf73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -156,7 +157,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

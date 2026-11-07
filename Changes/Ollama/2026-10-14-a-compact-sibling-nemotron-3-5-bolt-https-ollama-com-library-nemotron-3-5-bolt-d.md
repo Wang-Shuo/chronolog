@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b6a3979a9e1b8527fb312c70cb1054ef565c78850e13f655ff1d318c353422c
+machine_hash: b380ac16aa85fceccdb1e91e7b04f0a381df9417c5f3422cd3af6d918d9c1a50
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: A compact sibling, [Nemotron 3.5…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-let-browser-agents-use-your-app|Let browser agents
-  use your app]]'
 - '[[Changes/Claude Code/2026-10-14-5-agent-mode-changes-in-v2-1-299|5 Agent Mode
   changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
   changes in v2.1.300]]'
+- '[[Changes/Kimi Code/2026-10-14-2-agent-mode-changes-in-kimi-code-2-2-0|2 Agent
+  Mode changes in Kimi Code 2.2.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-14-v0-40-5-github-413093320-5ea8d6c0|ollama-2026-10-14-v0-40-5-github-413093320-5ea8d6c0]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode changes in v2.1.300]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent Mode changes in rust-v0.163.0]]
+- Earlier: 2026-10-14 · Kimi Code · [[Changes/Kimi Code/2026-10-14-2-agent-mode-changes-in-kimi-code-2-2-0|2 Agent Mode changes in Kimi Code 2.2.0]]
+- Later: 2026-10-14 · Qoder · [[Changes/Qoder/2026-10-14-interactive-visualizations-agent-responses-in-local-tasks-can-now-display-intera|Interactive visualizations: Agent responses in local tasks can now display…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

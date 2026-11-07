@@ -4,20 +4,20 @@ date: '2026-05-05'
 description: 'Ollama · 2026-05-05 · Reliability and Performance: Gemma 4 MTP speculative
   decoding is now supported on Macs. This can give over a 2x speed increase for the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1237
+  lag_days: 2724
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f240eef22ba1fdd65a78c6eafa53c74a9c63a43396ea5a02e40bf870b430786
+machine_hash: b399f70618e25c813f1eaceefeafaff4f0516f51fb58f56c5903915fce3e1c28
 product: ollama
 product_name: Ollama
 record:
@@ -55,12 +55,12 @@ record:
   title: Gemma 4 MTP speculative decoding is now supported on Macs
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core
-  Reduced memory growth in long-running bash tool usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
   stability on Windows by working around a V8 crash in Node 24.x]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-05-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated
+  survey insights with Copilot Highlights Web (Viva Glint)]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-05-v0-23-1-github-317940314-58bff55a|ollama-2026-05-05-v0-23-1-github-317940314-58bff55a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve stability on Windows by working around a V8 crash in Node 24.x]]
+- Earlier: 2026-05-05 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-05-05-ai-generated-survey-insights-with-copilot-highlights-web-viva-glint|AI-generated survey insights with Copilot Highlights Web (Viva Glint)]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated the /tui fullscreen startup banner to describe additional renderer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

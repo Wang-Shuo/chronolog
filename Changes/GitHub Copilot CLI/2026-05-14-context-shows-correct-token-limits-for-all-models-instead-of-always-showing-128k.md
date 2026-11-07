@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'GitHub Copilot CLI · 2026-05-14 · Context Window: /context shows correct
   token limits for all models instead of always showing 128k'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2430
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 290b72b5997c78526c4d7a5bd920929f0f0921e53fbb51e8129420db154277aa
+machine_hash: 1a55770d33896da519db7b15a195c93f34f83c01adbf5cba2df5d2da829aeb0b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,11 +53,11 @@ record:
     128k
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
-- '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
-  Keep recent turns after compaction instead of folding them into the summary]]'
 - '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
   reactive compaction]]'
+- '[[Changes/Descript/2026-05-14-underlord-updates-context-chat-history-and-improved-edit-review|Underlord
+  updates—context, chat history, and improved edit review]]'
+- '[[Changes/Descript/2026-05-14-add-context|Add context]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
 source_type: github_releases
 theme: context-window
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]]
+- Earlier: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-add-context|Add context]]
 - Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core Fixed repeated auto-compaction in sessions after compaction reordered messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-09-17'
 description: 'Open WebUI · 2025-09-17 · Apps and Integrations: ☁️ OneDrive integration
   was fixed after recent breakage, restoring reliable account connectivity and file…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 909
+  lag_days: 2469
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: db7d1cb92bf2287c7b06a53367c265898eca50e4d8390e0466fc1fb5be5d08cf
+machine_hash: c943118ea896c6ad82712bc5f4f97ace38070a97073f60b1ec0d19f0dd0b5125
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps and Integrations changes in v0.6.29]]
-- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]
+- Later: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-notion-s-mcp-ecosystem-just-got-bigger|Notion’s MCP ecosystem just got bigger]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

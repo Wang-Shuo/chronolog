@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e28b3c54c9406f4d29ece41eac87c60cb603cf47385f814b1b70ed0e2b009b1
+machine_hash: 3c2c9f37aba9ea91d76b95752fbc148ea1271f87f2d953dbca6361aaa1324949
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Model Support changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
-  in v3.47.0]]'
 - '[[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model
   Support changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-choose-the-best-model-for-the-job|Choose the best
+  model for the job]]'
 - '[[Changes/Codex CLI/2026-01-07-3-model-support-changes-in-rust-v0-79-0|3 Model
   Support changes in rust-v0.79.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'

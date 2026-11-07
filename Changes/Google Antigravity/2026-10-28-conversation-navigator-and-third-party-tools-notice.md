@@ -4,20 +4,20 @@ date: '2026-10-28'
 description: 'Google Antigravity · 2026-10-28 · Apps and Integrations: This release
   adds a conversation navigator for jumping between turns, a notice about third party…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1315
+  lag_days: 2875
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 893c8c099ad9b325c99bad32e8c4bfe6703771ed132d5a5829e7f88294388bd0
+machine_hash: 83ebe449c3ca7857b82a31f003040fd8bf6bc547a03e5eff56ac60584421d4ed
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -98,13 +98,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
-- Later: 2026-10-28 · Suno · [[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]
+- Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect workspace MCP servers automatically with backoff when the initial…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

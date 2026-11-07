@@ -5,20 +5,20 @@ description: 'Replit · 2026-09-18 · Safety and Privacy: Audit logs now cover m
   than 65 additional events across projects, workspaces, deployments, account security,
   SSO…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2243
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3eaf399d5ab8d989b2eefe1c01ed09a6ff461cecf714466b81aa6e6949be1486
+machine_hash: f7833929267cb664b9ccea8beb8e34fa332e343f293fe4c695b6cc5dad4f2e3b
 product: replit
 product_name: Replit
 record:
@@ -78,12 +78,12 @@ record:
   title: Investigate with expanded audit logs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
-  policy now reports local-network access using your configured setting]]'
 - '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
   and Privacy changes in v2.1.277]]'
 - '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
   an issue where permission settings accumulated duplicate entries, which made…]]'
+- '[[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop
+  asking for approval of bash commands that cannot be statically analyzed in Ask…]]'
 source_release: '[[Releases/Replit/replit-2026-09-18-2026-09-18-bb95ac6d|replit-2026-09-18-2026-09-18-bb95ac6d]]'
 source_type: replit_changelog
 theme: safety-privacy
@@ -112,14 +112,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed an issue where permission settings accumulated duplicate entries, which made…]]
+- Earlier: 2026-09-18 · Kimi Code · [[Changes/Kimi Code/2026-09-18-stop-asking-for-approval-of-bash-commands-that-cannot-be-statically-analyzed-in|Stop asking for approval of bash commands that cannot be statically analyzed in Ask…]]
 - Later: 2026-09-19 · Google Antigravity · [[Changes/Google Antigravity/2026-09-19-windows-sandbox-support|Windows sandbox support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

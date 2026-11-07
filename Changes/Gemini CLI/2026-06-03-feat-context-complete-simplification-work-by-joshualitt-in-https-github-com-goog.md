@@ -4,20 +4,20 @@ date: '2026-06-03'
 description: 'Gemini CLI · 2026-06-03 · Context Window: feat(context): Complete simplification
   work. by @joshualitt in https://github.com/google-gemini/gemini-cli/pull/27345'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2450
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90c14af9f2243f2b4f1fd81c78c458af4c3b4d88cc9beb5f66b2e5c37b1ed594
+machine_hash: f3f6e142f560afb49fa1e6aae7d835eeac7630de85f401afcbdf794fb8ed2286
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat(context): Complete simplification work'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context
-  Window changes in v1.0.56]]'
 - '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
   Window changes in rust-v0.136.0]]'
 - '[[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window
   changes in v0.9.6]]'
+- '[[Changes/Kimi Code/2026-06-02-append-the-current-todo-list-as-markdown-to-compaction-summaries-before-writing|Append
+  the current todo list as markdown to compaction summaries before writing them…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-03-v0-45-0-github-333446430-371faa63|gemini-cli-2026-06-03-v0-45-0-github-333446430-371faa63]]'
 source_type: github_releases
 theme: context-window
@@ -75,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window changes in v0.9.6]]
+- Earlier: 2026-06-02 · Kimi Code · [[Changes/Kimi Code/2026-06-02-append-the-current-todo-list-as-markdown-to-compaction-summaries-before-writing|Append the current todo list as markdown to compaction summaries before writing them…]]
 - Later: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The llama.cpp backend now includes cached prompt tokens in token accounting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

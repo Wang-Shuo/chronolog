@@ -5,20 +5,19 @@ description: 'OpenCode · 2026-06-05 · Editor Experience: 3 changes in v1.16.2 
   Edit operations now refuse loose matches that could overwrite the wrong code or
   replace…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba889aa3dbfb8718ee8928799d4ae67347a177d125d946d7e26b4d5896b8c9fb
+machine_hash: 64c773440ef30cce5d3ee4490dde143cbb8f53d47bdc34ac4089c64279e5432c
 product: opencode
 product_name: OpenCode
 record:
@@ -47,12 +46,12 @@ record:
   title: 3 Editor Experience changes in v1.16.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed
-  Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]'
-- '[[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus
-  and Open IDE fixes]]'
+- '[[Changes/Kimi Code/2026-06-04-2-editor-experience-changes-in-kimi-code-0-10-0|2
+  Editor Experience changes in Kimi Code 0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
   Editor Experience changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-support-multiline-edits-when-managing-upcoming-goals|Support
+  multiline edits when managing upcoming goals]]'
 source_release: '[[Releases/OpenCode/opencode-2026-06-05-v1-16-2-1b5b7f0d|opencode-2026-06-05-v1-16-2-1b5b7f0d]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -95,14 +94,14 @@ Source: https://opencode.ai/changelog/v1.16.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3 Editor Experience changes in v1.0.60]]
+- Earlier: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-support-multiline-edits-when-managing-upcoming-goals|Support multiline edits when managing upcoming goals]]
 - Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

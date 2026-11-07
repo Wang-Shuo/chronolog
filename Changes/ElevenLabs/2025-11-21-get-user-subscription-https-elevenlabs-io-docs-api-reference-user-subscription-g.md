@@ -3,20 +3,20 @@ card_id: elevenlabs-2025-11-21-c1b18b
 date: '2025-11-21'
 description: 'ElevenLabs · 2025-11-21 · Pricing Model: [Get user subscription](https://elevenlabs.io/docs/api-reference/user/subscription/get)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1072
+  lag_days: 2690
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4c62ae9436a3975b11f92e24249c05991b2a3d0e096794c38de5ea6d78839c55
+machine_hash: 84f4c1846c1824dcea8093a1525ab7e14b57bb4af256b5f255e72e6ef62e7bde
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -39,8 +39,9 @@ record:
   title: '[Get user subscription](https://elevenlabs.io/docs/api-reference/user/subscription/get)'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-billing|Billing]]'
 - '[[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]]'
+- '[[Changes/Descript/2025-11-13-prorated-charges-now-display-correctly|Prorated charges
+  now display correctly]]'
 - '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
   visible in /status]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-21-2025-11-21-d3d6b6ca|elevenlabs-2025-11-21-2025-11-21-d3d6b6ca]]'
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

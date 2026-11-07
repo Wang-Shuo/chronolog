@@ -4,20 +4,20 @@ date: '2023-10-27'
 description: 'Ollama · 2023-10-27 · Reliability and Performance: 2 changes in v0.1.6
   — [Zephyr Beta](https://ollama.ai/library/zephyr): this is the second model in the…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 316
+  lag_days: 1803
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a5d6a5a3e1b607ec9030f2e8a66bf41e7aacfcfd173d523fbe80a815ca8638a
+machine_hash: 109688603145ddab0327fdbc3c1cb1e9abd3bb32c09b5140a914d56ce2b5770c
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.1.6
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-10-12-2-reliability-and-performance-changes-in-v0-1-2|2 Reliability
-  and Performance changes in v0.1.2]]'
 - '[[Changes/Ollama/2023-10-13-improved-gpu-allocation-for-older-gpus-to-fix-out-of-memory-errors|Improved
   GPU allocation for older GPUs to fix "out of memory" errors]]'
+- '[[Changes/Descript/2023-10-17-a-major-advancement-in-speed-quality-of-ai-speech|A
+  major advancement in speed & quality of AI speech]]'
 - '[[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama
   run will now show more descriptive errors when encountering runtime issues…]]'
 source_release: '[[Releases/Ollama/ollama-2023-10-27-v0-1-6-github-127004875-cc195255|ollama-2023-10-27-v0-1-6-github-127004875-cc195255]]'
@@ -91,7 +91,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

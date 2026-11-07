@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-10-29 · Voice and Audio: \U0001F50A **Read Alo
   Kokoro.js.** Read Aloud now speaks with the chosen Kokoro voice when Kokoro.js (Browser)
   is…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1207
+  lag_days: 3034
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5bf532336771111c3f3ee72d86af7ba2ad68cf2b86209c3726cf49819dd72afa
+machine_hash: 9a4fff96461da68845baf5560de31e411204d404f5d6834663505d4f1e3dea02
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,9 @@ record:
     chosen Kokoro voice…"
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and
-  Audio changes in v2026.10.8]]'
-- '[[Changes/OpenCode/2026-10-27-2-voice-and-audio-changes-in-v2-2-0|2 Voice and Audio
-  changes in v2.2.0]]'
+- '[[Changes/HeyGen/2026-10-28-you-can-now-record-a-line-on-your-phone-or-laptop-and-get-it-back-in-your-heygen|Record
+  a line on your phone or laptop and get it back in your HeyGen Voice]]'
+- '[[Changes/HeyGen/2026-10-28-why-it-matters|Why it matters]]'
 - '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
   AI''s LFM3((source link) models, including text-to-speech…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -108,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

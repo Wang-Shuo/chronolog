@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Search and Browsing: Plugins are now a first-class
   workflow: Codex can sync product-scoped plugins at startup, browse them in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22c83932f5da6f0a66ab6d5185172840678bf3240a56429357dfbee819a5c3a7
+machine_hash: 4615d66afdd5e8162c5494a5690c09e465c4c6c6e2064b0bea47bc8f6c576e39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -108,13 +108,13 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search and Browsing changes in v0.8.11]]
-- Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama launch pi now includes web search plugin that uses Ollama's web search]]
+- Later: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archive-lets-you-mark-pages-as-outdated-to-keep-your-workspace-clean-and-improve|Archive lets you mark pages as outdated to keep your workspace clean and improve…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

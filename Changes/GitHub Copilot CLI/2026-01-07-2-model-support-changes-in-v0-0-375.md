@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51551f8b23b34caa770539c8a8037a64b2d117b90abe8d915773c4120838c911
+machine_hash: 097c0423592d7757b0f08a686ba0507f4e7d5a7cb4d64a6f3bf48694f8eb9c58
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v0.0.375
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model
-  Support changes in rust-v0.78.0]]'
+- '[[Changes/Descript/2026-01-06-choose-the-best-model-for-the-job|Choose the best
+  model for the job]]'
 - '[[Changes/Codex CLI/2026-01-07-3-model-support-changes-in-rust-v0-79-0|3 Model
   Support changes in rust-v0.79.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-3-model-support-changes-in-v0-23-0|3 Model Support

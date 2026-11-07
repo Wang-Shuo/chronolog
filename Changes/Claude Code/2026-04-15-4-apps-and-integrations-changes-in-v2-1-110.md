@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-15 · Apps and Integrations: 4 changes in v
   — Improved `/plugin` Installed tab — items needing attention and favorites appear
   at…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2679
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adccec974879d0a5416358e8ace5a3635a269dd84062bcb2a38a689cd9e86c14
+machine_hash: a63b1efb86c7e3fef0418f0a35932f5d16a8e5ffd9a27ea7d43ecf0a9b4c19c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.110
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-you-can-now-remote-control-your-cli-sessions-using-remote-or-remote|Remote
-  control your CLI sessions using --remote or /remote]]'
 - '[[Changes/Gemini CLI/2026-04-14-2-apps-and-integrations-changes-in-v0-38-0|2 Apps
   and Integrations changes in v0.38.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-4-apps-and-integrations-changes-in-v1-0-26|4
   Apps and Integrations changes in v1.0.26]]'
+- '[[Changes/Notion/2026-04-14-new-ai-connectors-salesforce-and-box|New AI connectors:
+  Salesforce and Box]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,14 +101,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-4-apps-and-integrations-changes-in-v1-0-26|4 Apps and Integrations changes in v1.0.26]]
+- Earlier: 2026-04-14 · Notion · [[Changes/Notion/2026-04-14-new-ai-connectors-salesforce-and-box|New AI connectors: Salesforce and Box]]
 - Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9 Apps and Integrations changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

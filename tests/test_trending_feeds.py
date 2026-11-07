@@ -119,7 +119,7 @@ def test_gamma_traverses_cumulative_pages_with_published_filter(monkeypatch):
         return {"result": {"entries": [gamma_entry()] + ([gamma_entry("b", "2025-01-01")] if query["pages"] == 2 else []),
                            "hasNextPage": query["pages"] == 1}}
     monkeypatch.setattr(feeds, "post_json", post)
-    rows = feeds.fetch_gamma(CATALOG["gamma"], None)
+    rows = feeds.fetch_canny(CATALOG["gamma"], None)
     assert len(rows) == 2 and len(calls) == 2
     assert all(query["status"] == ["published"] for query in calls)
     assert rows[1]["date"] == "2025-01-01"
@@ -139,7 +139,7 @@ def test_gamma_fails_on_incomplete_or_unpublished_response(monkeypatch, failure)
         return {"result": {"entries": entries, "hasNextPage": None if failure == "no-more-flag" else True}}
     monkeypatch.setattr(feeds, "post_json", post)
     with pytest.raises(ValueError):
-        feeds.fetch_gamma(CATALOG["gamma"], None)
+        feeds.fetch_canny(CATALOG["gamma"], None)
 
 
 def test_manus_follows_public_cursor_checks_total_and_keeps_safe_source_links(monkeypatch):

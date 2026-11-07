@@ -4,19 +4,20 @@ date: '2026-04-16'
 description: 'OpenCode · 2026-04-16 · Developer Workflow: 3 changes in v1.4.7 — Terminal
   Pasting files or large text no longer inserts content twice.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b9b3fdb8e323be796c28a0e05f1b52ede50bdc305af96748f645943a87093c4
+machine_hash: ec2fd1512094dd6dad5e0b40f21902980eb339567a1f4743732a66f2f61f9df1
 product: opencode
 product_name: OpenCode
 record:
@@ -99,7 +100,7 @@ Source: https://opencode.ai/changelog/v1.4.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2025-01-06'
 description: 'Lovable · 2025-01-06 · Editor Experience: “Edit with Lovable” Badge
   enabled for all users.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 664
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 930857e065a33d34c63905ff9751ebffaff258e3464273674ca7cbfd7674d3a3
+machine_hash: 6da76ae1c5cc1c74975fc607f32b7ac9fa16744363f70d736dcddd9e327c9720
 product: lovable
 product_name: Lovable
 record:
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare lets you see a diff overview between the snapshot and the current state…]]
-- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience changes in 0.15.0]]
+- Later: 2025-01-07 · Descript · [[Changes/Descript/2025-01-07-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

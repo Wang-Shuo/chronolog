@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'Lovable · 2026-07-13 · Apps and Integrations: You can now connect your
   app to [Mapbox](https://docs.lovable.dev/integrations/mapbox.md) to embed interactive…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2768
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 392397ab07acc22fd038737ed0adca234c182af3b6895cafe7fa569962db16e0
+machine_hash: 7f3e0e293ae84c09f08557872fc426b171e7830bab48414a3a3e2f436760256b
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Mapbox connector
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-11-2-apps-and-integrations-changes-in-v0-32-0|2 Apps and
-  Integrations changes in v0.32.0]]'
+- '[[Changes/Kimi Code/2026-07-12-update-the-webbridge-install-page-link-opened-from-the-plugins-panel|Update
+  the WebBridge install page link opened from the /plugins panel]]'
 - '[[Changes/ElevenLabs/2026-07-13-sdk-releases|SDK Releases]]'
 - '[[Changes/Lovable/2026-07-13-connect-klipy-in-one-click-no-api-key|Connect KLIPY
   in one click, no API key]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

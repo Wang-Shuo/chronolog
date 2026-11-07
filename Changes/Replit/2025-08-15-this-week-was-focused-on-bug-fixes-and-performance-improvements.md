@@ -4,20 +4,20 @@ date: '2025-08-15'
 description: 'Replit · 2025-08-15 · Reliability and Performance: This week was focused
   on bug fixes and performance improvements.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 2461
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f1387a03ed1f886191ee2e68cfc8ddd85241af18ba898c5246c7c3436b01b9e
+machine_hash: 5e1b0aeb00d7874053021a7302fd077c1126a1e415ff5c6a5e79199a99b047df
 product: replit
 product_name: Replit
 record:
@@ -41,8 +41,8 @@ record:
   title: This week was focused on bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
-  Reliability and Performance changes in v0.1.19]]'
+- '[[Changes/Descript/2025-08-14-drag-drop-support-simply-drag-images-directly-into-the-avatar-creation-interface|Drag
+  & drop support - Simply drag images directly into the avatar creation…]]'
 - '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
   Reliability and Performance changes in v0.1.21]]'
 - '[[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 335fec061439f1a783c5ea37eac39bde21ba1869fe665860b622a75fd1664fe3
+machine_hash: c9134df0455069e3144954584ba0399aecc8889288c58371a0ea1333046bfeda
 product: cursor
 product_name: Cursor
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode changes in rust-v0.129.0]]
-- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal Fix /agent create to use the /agents path]]
+- Later: 2026-05-07 · Notion · [[Changes/Notion/2026-05-07-when-you-ask-your-agent-to-make-significant-changes-like-rewriting-pages-or-upda|Plan Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-17 · Interface Experience: 3 changes in v2
   — Added the `selection:clear` keybinding action, so a key can be bound to clear
   an…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2682
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c71344b44754846c2931ac3aa27adde11652e8136fccaa743cd4cfe2c63fe9b9
+machine_hash: 091312caf7195f9e461691b5aeb83371cc7ef71630e3f82b5a287c5ad5db43c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Interface Experience changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
+- '[[Changes/Kimi Code/2026-08-14-web-polish-the-plan-goal-and-swarm-toggles-in-the-composer-which-now-live-in-the|web:
+  Polish the Plan, Goal, and Swarm toggles in the composer, which now live…]]'
 - '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'
 - '[[Changes/v0/2026-08-14-4-interface-experience-changes-in-a-redesigned-sidebar-a-richer|4
   Interface Experience changes in A redesigned sidebar, a richer…]]'
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

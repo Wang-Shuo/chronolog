@@ -4,20 +4,20 @@ date: '2025-06-09'
 description: 'Ollama · 2025-06-09 · Mobile and Desktop: 3 changes in v0.9.1 — A new
   version of Ollama''s macOS and Windows applications are available to test for early…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 818
+  lag_days: 2402
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff41e0120f000d13123787555a7815cf4860ca7a77af9d7e968c948c1e5b7b48
+machine_hash: 6b1fc891f1f24d54baf80d8f4e6b437f1e1fc2ba4179e40b51918df57580963e
 product: ollama
 product_name: Ollama
 record:
@@ -46,8 +46,7 @@ record:
   title: 3 Mobile and Desktop changes in v0.9.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
-  small tweaks for mobile styles]]'
+- '[[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]'
 - '[[Changes/Ollama/2025-05-13-improved-prompt-processing-speeds-of-qwen3-moe-on-macos|Improved
   prompt processing speeds of Qwen3 MoE on macOS]]'
 - '[[Changes/Replit/2025-05-30-ios-app-payment-support|iOS app payment support]]'
@@ -95,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.9.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

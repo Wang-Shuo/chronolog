@@ -4,20 +4,19 @@ date: '2025-10-03'
 description: 'Codex CLI · 2025-10-03 · Editor Experience: 2 changes in 0.44.0 — #4639
   Fix tab+enter regression on slash commands'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 934
+  lag_days: 2518
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a363064b1755f1c4f8f135593b4763aa84b5feea021855e9975ec41396a1f305
+machine_hash: 79e982336d93951157be7ebe1035575894c24e6613483d6f4ef500f3ed476396
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 73d75dbd67cd6a704e2dd3f591d88b8bdd6383343a6cde1eb1d1b8adf17e9e7f
+machine_hash: 21d8e54a01001080c730fb4b5f37e84283802849babd0b225f9f012c7e8f0459
 product: lovable
 product_name: Lovable
 record:
@@ -65,12 +65,12 @@ record:
   title: Show the AI's thinking in your app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-05-37057-0-146-backport-safer-cyber-model-auto-review-defaults-anp-oai|♯37057
-  0.146 Backport safer cyber-model auto-review defaults @anp-oai]]'
 - '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
   to GPT‑5.6 in ChatGPT]]'
 - '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
   in v4.1.6]]'
+- '[[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model
+  Support changes in Kimi Code 0.34.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-06-2026-08-06-64cede0d|lovable-2026-08-06-2026-08-06-64cede0d]]'
 source_type: lovable_changelog
 theme: model-support
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-06 · Cline · [[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes in v4.1.6]]
+- Earlier: 2026-08-06 · Kimi Code · [[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model Support changes in Kimi Code 0.34.0]]
 - Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]]
 <!-- chronolog:end -->
 

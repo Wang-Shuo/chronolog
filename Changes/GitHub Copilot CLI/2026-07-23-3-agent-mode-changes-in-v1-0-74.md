@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfb8d315aedc1dc56249cd74b041e32046480ef688dda6b1cfdb6846f3d53572
+machine_hash: 839301a83cd9437465a71d1c4bd6d63ef82d243d464394362288567b519924c2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Agent Mode changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent
-  auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed
   plan mode with auto to no longer prompt for Bash commands the static…]]'
 - '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
   is now powered by Cursor Router]]'
+- '[[Changes/Kimi Code/2026-07-22-3-agent-mode-changes-in-kimi-code-0-29-0|3 Agent
+  Mode changes in Kimi Code 0.29.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,8 +94,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]]
-- Later: 2026-07-23 · Runway · [[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent Workflows]]
+- Earlier: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-3-agent-mode-changes-in-kimi-code-0-29-0|3 Agent Mode changes in Kimi Code 0.29.0]]
+- Later: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-2-agent-mode-changes-in-hyperframes-is-now-inside-video-agent|2 Agent Mode changes in HyperFrames is now inside Video Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

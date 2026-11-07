@@ -4,20 +4,20 @@ date: '2023-03-23'
 description: 'ChatGPT · 2023-03-23 · Apps and Integrations: We are announcing experimental
   support for AI plugins in ChatGPT — tools designed specifically for language…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1560
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2db369b9e6f92818153e3c7d35c12e5422da61afefd10958a00054ba4509a419
+machine_hash: b5e52cae072b696ca81e577b398f92f56488e132f9f10d67a4b53edf1da93c53
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,6 +64,13 @@ record:
     theme: model-support
   title: We are announcing experimental support for AI plugins in ChatGPT
   type: change
+related_changes:
+- '[[Changes/Notion/2022-08-25-improvements-to-synced-databases-with-jira-and-github|Improvements
+  to Synced Databases with Jira and GitHub]]'
+- '[[Changes/Notion/2022-11-08-connect-notion-s-people-property-in-synced-databases-for-github-and-jira|Connect
+  Notion’s “People” property in Synced Databases for GitHub and Jira]]'
+- '[[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects
+  created using our Zapier integration now create Storyboard projects]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -98,13 +105,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Later: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-one-click-extension-import-from-vs-code-beta-as-a-highly-requested-feature-we-re|One-Click Extension Import from VS Code (beta)]]
+- Earlier: 2023-03-21 · Descript · [[Changes/Descript/2023-03-21-projects-created-using-our-zapier-integration-now-create-storyboard-projects|Projects created using our Zapier integration now create Storyboard projects]]
+- Later: 2023-03-23 · Notion · [[Changes/Notion/2023-03-23-embed-content-from-2-000-apps-like-mixpanel-and-twitch|Embed content from 2,000 apps like Mixpanel and Twitch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-01-27'
 description: 'Suno · 2024-01-27 · Music Generation: Hope everyone is having a great
   weekend! We released some quality of life improvements based on your recent feedback:'
 diffusion:
-  first_in_tracked: '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
-    a Holiday Song   - A limited-time mode for the holidays…]]'
+  first_in_tracked: '[[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag
+    pinned tracks into negative time -]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 35
+  lag_days: 1501
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: music-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e106ff2c934e32070b68bc0d5c738c45c2dbf8c92e87992eee33b9329d471eb
+machine_hash: 56350da1ded7f76beeb808ff5905a1948ca74b7d9ad971eae71dadce0bf9a422
 product: suno
 product_name: Suno
 record:
@@ -68,6 +68,10 @@ record:
   title: Hope everyone is having a great weekend!
   type: change
 related_changes:
+- '[[Changes/Descript/2022-11-15-premium-stock-media-https-help-descript-com-hc-en-us-articles-10165831753997-sto|Premium
+  stock…]]'
+- '[[Changes/Synthesia/2023-04-19-you-can-now-control-the-volume-of-music-and-videos-files-in-studio|AUDIO
+  controls are here!]]'
 - '[[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make
   a Holiday Song   - A limited-time mode for the holidays…]]'
 source_release: '[[Releases/Suno/suno-2024-01-27-e-quality-of-life-improvements-1bc6fb75|suno-2024-01-27-e-quality-of-life-improvements-1bc6fb75]]'
@@ -119,7 +123,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-make-a-holiday-song-a-limited-time-mode-for-the-holidays-meant-to-be-fun-and-whi|Make a Holiday Song   - A limited-time mode for the holidays…]]
+- Earliest same-theme entry in the tracked set: 2019-12-18 · Descript · [[Changes/Descript/2019-12-18-makes-it-easier-to-work-with-music-at-the-top-of-a-composition|Drag pinned tracks into negative time -]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

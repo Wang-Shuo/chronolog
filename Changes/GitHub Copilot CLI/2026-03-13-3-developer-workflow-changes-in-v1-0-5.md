@@ -4,19 +4,20 @@ date: '2026-03-13'
 description: 'GitHub Copilot CLI · 2026-03-13 · Developer Workflow: 3 changes in 1.0.5
   — Terminal title resets to default after running /clear or /new'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1091
+  lag_days: 2740
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c28a74a8939e6803f4ad9e71a7a902e7a4ee36d424aea84965515c9ccba8c831
+machine_hash: 47fbe39228ead4910fc833cc4915e875d9408002e4c778e9a8dd965bbe6f58a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

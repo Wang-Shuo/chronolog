@@ -5,20 +5,20 @@ description: "Manus · 2025-12-04 · Presentation Creation: Google’s Nano Bana
   is now integrated into Manus Slides. Look for the \U0001F34C icon to use it in your
   presentations."
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 540
+  lag_days: 1609
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2b5ef31ec6cae0d9e9f5374d1f6110418583a003094b8aca0644a68b40fea4b
+machine_hash: 065df09ad6b83ed5e6e558ab8a508393693aaf62b4d53e1ce2bfdc270f413d62
 product: manus
 product_name: Manus
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Presentation Creation
 
 - Earlier: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-creating-presentations-used-to-mean-staring-at-blank-pages-fighting-with-layouts|Creating presentations used to mean staring at blank pages, fighting with layouts…]]
-- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core Adjust skill presentation to reduce token usage]]
+- Later: 2026-01-23 · Synthesia · [[Changes/Synthesia/2026-01-23-introducing-updated-powerpoint-to-video-turn-static-slides-into-narrated-videos|Introducing updated PowerPoint to Video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

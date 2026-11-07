@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-15 · Apps and Integrations: 3 changes in v
   — Added plugin dependency enforcement: `claude plugin disable` now refuses when
   another…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1149
+  lag_days: 2709
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 883020064f8c1c2a3575a499a7237c870660b9ab1eb5228d569760f1eda1ae09
+machine_hash: 6b50868f928dad75f335b87ede9d9dd17c43cc40c1027c1b18cb032381f0184e
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,7 +51,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
+- '[[Changes/HeyGen/2026-05-13-getting-started-is-easy-go-to-codex-click-on-plugins-type-in-heygen-and-click-ad|Getting
+  started is easy]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
@@ -104,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

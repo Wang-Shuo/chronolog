@@ -5,20 +5,20 @@ description: 'Codex CLI · 2025-07-10 · Mobile and Desktop: Thanks to @pchuri s
   when running Codex installed via `npm`, `process.platform === "android"` will run
   the…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 849
+  lag_days: 2433
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fec323de25310a834817c4e91a66c9c786856d73886d171030bcf44857059b8
+machine_hash: d164c7977d6c96035e0865241c128f822553a293b54217f23cb3ed56d870b338
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and Desktop changes in v0.9.5]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don't enforce leading slash since that's not true on Windows]]
+- Later: 2025-07-10 · Notion · [[Changes/Notion/2025-07-10-lots-of-improvements|Lots of improvements!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Gemini CLI · 2026-01-14 · Apps and Integrations: 9 changes in Release
   v0.24.0 — Add Folder Trust Support To Hooks by @sehoon38 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1028
+  lag_days: 2588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b9320d9871c11a694f7b16c059d249eb9efbc1edebd1f5d8e6ba5ce92d032bef
+machine_hash: ba98b4a878de6e8973d079d11ea29d4605b4b3ef362a8952a791a708e47c8359
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,8 +61,8 @@ record:
   title: 9 Apps and Integrations changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
-  Integrations changes in 1.11.3]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-smart-document-management-with-google-drive-integration-web-microsoft-365-copilo|Smart
+  document management with Google Drive integration…]]'
 - '[[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal
   Actually modify OpenCode config when adding MCP servers with mcp add command]]'
 - '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
@@ -126,7 +126,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

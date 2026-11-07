@@ -4,20 +4,19 @@ date: '2023-03-23'
 description: 'Cursor · 2023-03-23 · Editor Experience: 2 changes in v0.1.5 (2023-03-23)
   — Automatically apply chat suggestion'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 9
+  lag_days: 1593
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15bc289190fff4ec45c58c4f448927e8e7a4f09837e0199f35bd56bf1c7bbfe3
+machine_hash: 03b30cb6daa1b9b3ec851670e55791068c4b05fcdbfcb776e3c804f2eb5bda9c
 product: cursor
 product_name: Cursor
 record:
@@ -42,6 +41,8 @@ record:
   title: 2 Editor Experience changes in 0.1.5
   type: change
 related_changes:
+- '[[Changes/Descript/2023-02-21-you-can-now-download-your-published-video-directly-from-the-editor-in-the-publis|Download
+  your published video directly from the Editor in the Publish modal]]'
 - '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience
   changes in 0.0.37]]'
 - '[[Changes/Cursor/2023-03-18-2-editor-experience-changes-in-0-1-2|2 Editor Experience
@@ -86,7 +87,7 @@ Source: https://cursor.com/changelog/0-1-5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

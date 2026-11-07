@@ -4,20 +4,20 @@ date: '2026-02-27'
 description: 'Runway · 2026-02-27 · Image Generation: The most advanced and consistent
   image generation and editing model. Now available in Runway.'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 719
+  lag_days: 977
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb75c064b65a71cbbf37fcdbee3aa55aa124fc7dec26c5267793e930e19e12f0
+machine_hash: dcc7498f5844419c5f4ac1d0a131f5cf3f2696cdf3d8ec4f84355c2c60e662e3
 product: runway
 product_name: Runway
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-video-stack|Video Stack]]
-- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded image workflow support for clients, including client-side handling…]]
+- Later: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-new-in-image-generation-nano-banana-2|New in image generation—Nano Banana 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

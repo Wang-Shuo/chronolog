@@ -4,20 +4,20 @@ date: '2026-10-12'
 description: 'Ollama · 2026-10-12 · Multimodal Input: Added support for multimodal
   embeddings through llama-server'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1119
+  lag_days: 2887
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2839345c6f5b2d765391153e1af469b01cce5d3da126ceb920f9b202450b0d3e
+machine_hash: 1234bd5224e6e586daca91f08f9b1ddec27272509881137cbea447092c411a87
 product: ollama
 product_name: Ollama
 record:
@@ -82,13 +82,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-music|Music]]
-- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-smaller-improvements|Smaller improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

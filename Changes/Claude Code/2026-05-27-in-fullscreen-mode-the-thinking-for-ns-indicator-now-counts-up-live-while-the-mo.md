@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-05-27 · Interface Experience: In fullscreen m
   the "Thinking for Ns" indicator now counts up live while the model is thinking,
   and keeps…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1234
+  lag_days: 2600
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 40215e4ed4dc50ea69efb1680c1b605db7b6d15b115812030db45c123c34f170
+machine_hash: f24e28ffa0039bd6bcd86c1d4ee762f0f6ddcb02169fe451eb998bf7a2914715
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: In fullscreen mode, the "Thinking for Ns" indicator now counts up live…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
-  Interface Experience changes in v1.0.53]]'
 - '[[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar
   navigation improvements]]'
 - '[[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project
   view pins. Project views can no longer be customized with pins]]'
+- '[[Changes/Notion/2026-05-26-give-it-a-try-select-multiple-cells-open-the-cell-menu-select-merge-cells|Give
+  it a try: select multiple cells → open the cell menu → select Merge cells]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-26 · Lovable · [[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project view pins. Project views can no longer be customized with pins]]
+- Earlier: 2026-05-26 · Notion · [[Changes/Notion/2026-05-26-give-it-a-try-select-multiple-cells-open-the-cell-menu-select-merge-cells|Give it a try: select multiple cells → open the cell menu → select Merge cells]]
 - Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-a-new-rerun-as-hd-button-makes-it-easy-to-rerun-any-v8-1-image-generated-in-stan|A new Rerun as HD button makes it easy to rerun any V8.1 image generated in Standard…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

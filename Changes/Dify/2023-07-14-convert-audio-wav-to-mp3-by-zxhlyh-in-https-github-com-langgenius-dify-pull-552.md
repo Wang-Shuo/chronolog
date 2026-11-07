@@ -4,20 +4,20 @@ date: '2023-07-14'
 description: 'Dify · 2023-07-14 · Voice and Audio: convert audio wav to mp3 by @zxhlyh
   in https://github.com/langgenius/dify/pull/552'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 4
+  lag_days: 1831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f2b36f9afc3e91d2a1faa2f2c70c79e8cab9f6a3404cf8c42d3d13d44cd561a
+machine_hash: cedc1c08b497758c7c59644bcf7d24e3f26a8f5088ab3e32f23aed431b1a28d6
 product: dify
 product_name: Dify
 record:
@@ -40,6 +40,9 @@ record:
   title: convert audio wav to mp3
   type: change
 related_changes:
+- '[[Changes/Descript/2023-05-01-composition-audio-properties-we-ve-brought-back-the-ability-to-adjust-audio-prop|Composition
+  audio properties]]'
+- '[[Changes/Descript/2023-07-10-replace-selection|Replace selection]]'
 - '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio
   changes in 0.3.7]]'
 source_release: '[[Releases/Dify/dify-2023-07-14-0-3-8-github-112198241-55c9356b|dify-2023-07-14-0-3-8-github-112198241-55c9356b]]'
@@ -73,13 +76,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
-- Later: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application api add speech to text]]
+- Later: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-regenerate-beta|Regenerate (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

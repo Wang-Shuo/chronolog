@@ -4,20 +4,20 @@ date: '2025-05-21'
 description: 'Cline · 2025-05-21 · Interface Experience: Add keyboard shortcut (Cmd+'')
   to quickly focus Cline from anywhere in VS Code'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 863
+  lag_days: 2229
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a53257c80fef4f73ba20cb74114cdd8fd4188b0c083ee567b4ea730685f8df5
+machine_hash: 70bf7d3fd1e9d5b9b3ed3757f6da901f9ee94eb446ccafa0bb8e4a9d635851c5
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
     Code
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update
-  UI styling for auto-approve menu items to conserve space]]'
 - "[[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|\U0001F9D1\U0001F4BC
   Customizable Pending User Overlay]]"
+- '[[Changes/Descript/2025-05-20-new-in-labs-a-new-timeline-experience|New in Labs—a
+  new Timeline experience]]'
 - '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add
   keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f|cline-2025-05-21-v3-16-3-github-220188760-3dddbf0f]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

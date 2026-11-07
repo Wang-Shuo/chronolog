@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1beccc0b502b143a3dde884be4a6bfb426daa3b647de1b47c4d54ec08b0f7bc0
+machine_hash: 7216c08e47b7e4b67391a2dc752ae1c74bc9571a6bdc4cdb9df0338c5b7dc61a
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'CI: For colima, modify CPU count and memory'
   type: change
 related_changes:
-- '[[Changes/Midjourney/2024-06-12-we-re-releasing-an-early-test-version-of-model-personalization-today-here-s-how|We''re
-  releasing an early test version of model personalization today]]'
 - '[[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory
   and Personalization changes in 0.6.11]]'
 - "[[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|\U0001F9E0
   Editable Memories: Adds the capability to modify memories]]"
+- '[[Changes/Notion/2024-06-18-unlock-your-company-s-memory|Unlock your company’s
+  memory]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: memory
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|🧠 Editable Memories: Adds the capability to modify memories]]
+- Earlier: 2024-06-18 · Notion · [[Changes/Notion/2024-06-18-unlock-your-company-s-memory|Unlock your company’s memory]]
 - Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory and Personalization changes in 0.6.13]]
 <!-- chronolog:end -->
 

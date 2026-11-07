@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-10 · Voice and Audio: 3 changes in v0.3.0 �
   Hands-Free Voice Call Feature**: Initiate voice calls without needing to use your
   hands…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 336
+  lag_days: 2163
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb6a6147e2798fb7c7714c270be1a85eee85eda6c6375ee3ea00058faf125b5a
+machine_hash: 9ada2dab412f07052a31e176446d04aae20b4a97a1965af0555413f92362f707
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,10 @@ record:
   title: 3 Voice and Audio changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4
-  is cooking]]'
-- "[[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|\U0001F50A
-  Local TTS Voice Selection]]"
 - '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
   supported audio sample rates for /voice]]'
+- '[[Changes/Descript/2024-06-04-sound-good|Sound Good]]'
+- '[[Changes/Descript/2024-06-04-layer|Layer]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-10-v0-3-0-github-159582186-c823064c|open-webui-2024-06-10-v0-3-0-github-159582186-c823064c]]'
 source_type: github_releases
 theme: voice
@@ -94,14 +92,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-layer|Layer]]
 - Later: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and Audio changes in v0.3.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

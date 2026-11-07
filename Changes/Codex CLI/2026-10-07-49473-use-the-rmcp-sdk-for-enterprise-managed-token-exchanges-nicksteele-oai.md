@@ -4,20 +4,20 @@ date: '2026-10-07'
 description: 'Codex CLI · 2026-10-07 · Enterprise and Administration: #49473 Use the
   rmcp SDK for enterprise-managed token exchanges @nicksteele-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1251
+  lag_days: 2458
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d9ed81dc6d3ffe978c943946997c74cf0e3b75488c62bbf2feaa2ceb19c5ac6
+machine_hash: c1c891309f6c2d1ca00c0055b74108bdeb8d4306917b779fac3513e2dae54fe6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: '#49473 Use the rmcp SDK for enterprise-managed token exchanges @nicksteele-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote
-  Control is on by default for everyone except Enterprise organizations]]'
 - '[[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-admin-center-detailed-report-on-everyone-except-external-user-permissions-web-mi|Admin
+  Center - detailed report on Everyone except external user permissions…]]'
 - '[[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3
   Enterprise and Administration changes in v2.1.293]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55|codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

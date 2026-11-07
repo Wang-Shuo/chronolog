@@ -4,20 +4,20 @@ date: '2025-11-12'
 description: 'Ollama · 2025-11-12 · Context Window: 2 changes in v0.12.11 — Ollama''s
   API and OpenAI-compatible API now support [log…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 923
+  lag_days: 2247
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d217500a57f85e2cbe5de7b6cf63f09c74261ef80914b83dc4d083ea5c6462cd
+machine_hash: cae42ac33525f29b14914a8780d9029879023e5c28aa396a248c3fe2b1847196
 product: ollama
 product_name: Ollama
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.12.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

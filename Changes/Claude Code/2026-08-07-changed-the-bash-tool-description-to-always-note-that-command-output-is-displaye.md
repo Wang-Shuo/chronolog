@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a4c29fd9635605ff429774f389933373eb8f659cfbcc61e6b82afa7d8649777
+machine_hash: 60d87ec878166564f40426e68d5e77f51198fc757859a86766f2b147d447390f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Changed the Bash tool description to always note that command output is displayed…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
-  to GPT‑5.6 in ChatGPT]]'
 - '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
   in v4.1.6]]'
+- '[[Changes/Kimi Code/2026-08-06-2-model-support-changes-in-kimi-code-0-34-0|2 Model
+  Support changes in Kimi Code 0.34.0]]'
 - '[[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI''s
   thinking in your app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88ed5291d6ce280d4db22d7792ac3699a4cd4ae691fd7eb23712e5e60e82091d
+machine_hash: 1ab70524d5ddbd57122d29a269f413ebc1ec491dc5a7200daaf3440410f907e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,10 +67,10 @@ record:
   title: 14 Agent Mode changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes
-  in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
   in v0.57.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work
+  IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]'
 - "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
   Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'

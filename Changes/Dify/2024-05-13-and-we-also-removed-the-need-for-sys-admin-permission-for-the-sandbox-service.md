@@ -4,20 +4,20 @@ date: '2024-05-13'
 description: 'Dify · 2024-05-13 · Safety and Privacy: And we also removed the need
   for SYS_ADMIN permission for the sandbox service.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 393
+  lag_days: 1385
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fdf9dd6983f376a74829444d7fca4c8d419aa0b57ffb195ba74e1b8f9fbc810
+machine_hash: 99591e7abbe1ae757cfc9c70c90b52d7ccb62231e0e3d49eb4e16642df0b48a9
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: And we also removed the need for SYS_ADMIN permission for the sandbox service
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-04-30-extensions-are-now-available-in-more-languages|Extensions
-  are now available in more languages]]'
 - '[[Changes/Dify/2024-05-02-2-safety-and-privacy-changes-in-0-6-6|2 Safety and Privacy
   changes in 0.6.6]]'
+- '[[Changes/Descript/2024-05-07-descript-for-web-now-with-recording-beta|Descript
+  for Web now with Recording (Beta)]]'
 - '[[Changes/Dify/2024-05-09-2-safety-and-privacy-changes-in-0-6-7|2 Safety and Privacy
   changes in 0.6.7]]'
 source_release: '[[Releases/Dify/dify-2024-05-13-0-6-8-github-155567404-54e0e464|dify-2024-05-13-0-6-8-github-155567404-54e0e464]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

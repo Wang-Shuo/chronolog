@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-08-07 · Apps and Integrations: 2 chang
   HUB v2.6.0 — Faster long conversations, more reliable hooks and subagents — Hooks
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c56b84837136f7b5bd9e0a616452bc0bb0309721140403ccb81c3efb910f19f6
+machine_hash: e4317abf6cb572b77b23ec29db18c913569119560d20a570a6312721b02b167c
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in HUB v2.6.0 — Faster long conversations…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin
-  security scanning (beta)]]'
+- '[[Changes/Kimi Code/2026-08-06-the-kimi-computer-use-plugin-now-supports-windows-x64-install-it-from-plugins|The
+  Kimi Computer Use plugin now supports Windows x64 — install it from /plugins]]'
 - '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
   Apps and Integrations changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
@@ -99,7 +99,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

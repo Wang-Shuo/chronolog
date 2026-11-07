@@ -4,20 +4,20 @@ date: '2026-01-11'
 description: 'OpenCode · 2026-01-11 · Mobile and Desktop: 5 changes in v1.1.13 — Desktop
   Add ability to fork sessions in desktop app'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1034
+  lag_days: 2618
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c818d254e8297d6bd6a58312003c8632509bf49cfee2e5b69e9284ae4fbc2dd
+machine_hash: 36d66f055b48311a4da088b2af53b0ec3d15cd15e9d9066eec44e22d7cf8bd91
 product: opencode
 product_name: OpenCode
 record:
@@ -104,7 +104,7 @@ Source: https://opencode.ai/changelog/v1.1.13
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

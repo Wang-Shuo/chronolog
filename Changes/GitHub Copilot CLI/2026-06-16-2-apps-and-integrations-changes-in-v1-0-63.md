@@ -4,20 +4,20 @@ date: '2026-06-16'
 description: 'GitHub Copilot CLI · 2026-06-16 · Apps and Integrations: 2 changes in
   1.0.63 — Add deferTools option to MCP server config to keep a server''s tools always…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1181
+  lag_days: 2741
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d95001aa3677515163127bef3e3f3ea9e7601502d7eeed1aeb1c4259ead4202a
+machine_hash: 6feda85b28bc4c189fab3f9395c90f6144fddb086e5bdfc61e3e9a2d177a9d51
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
+- '[[Changes/Kimi Code/2026-06-15-3-apps-and-integrations-changes-in-kimi-code-0-15-0|3
+  Apps and Integrations changes in Kimi Code 0.15.0]]'
 - '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
   AWS Athena and Replicate]]'
 - '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
@@ -92,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82a876821d7cf0b23ae7f04a541406c5d9b17751c1995b49e0f370270458594e
+machine_hash: a5b2ee19547fc1dc8547069daa7614ad10a8b9bb935029ab6201ce68df930d95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,12 +77,12 @@ record:
   title: Memory that stays more up to date
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory
-  tool calls are throttled per response and per interaction to prevent…]]'
 - '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
   Memory and Personalization changes in rust-v0.136.0]]'
 - '[[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2
   Memory and Personalization changes in v0.9.6]]'
+- '[[Changes/HeyGen/2026-06-02-personal-settings-contains-settings-that-apply-only-to-the-individual-user-inclu|Personal
+  Settings contains settings that apply only to the individual user…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2 Memory and Personalization changes in v0.9.6]]
+- Earlier: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-personal-settings-contains-settings-that-apply-only-to-the-individual-user-inclu|Personal Settings contains settings that apply only to the individual user…]]
 - Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan members can set custom instructions]]
 <!-- chronolog:end -->
 

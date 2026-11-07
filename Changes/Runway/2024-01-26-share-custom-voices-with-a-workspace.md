@@ -3,19 +3,20 @@ card_id: runway-2024-01-26-180c9a
 date: '2024-01-26'
 description: 'Runway · 2024-01-26 · Collaboration: Share Custom Voices with a workspace.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 247
+  lag_days: 1841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c68a3ef18c9cf85abf2aae03d1cd68d81ad323abd12f8b7f9b0b47790660877
+machine_hash: 6c5b5e0ace870ab8b5656752ce334c704d5e63dabc9d1acd9b1259ca6ba44bb9
 product: runway
 product_name: Runway
 record:
@@ -41,11 +42,11 @@ record:
   title: Share Custom Voices with workspace
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
-  shared conversations now support uploaded images]]'
 - "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
 - '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
   ChatGPT alongside your team]]'
+- '[[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling
+  tool]]'
 source_release: '[[Releases/Runway/runway-2024-01-26-2024-01-26-share-custom-voices-with-workspace-6f059877|runway-2024-01-26-2024-01-26-share-custom-voices-with-workspace-6f059877]]'
 source_type: runway_changelog
 theme: collaboration
@@ -72,14 +73,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
+- Earlier: 2024-01-17 · Notion · [[Changes/Notion/2024-01-17-a-b-uilt-in-scheduling-tool|A b uilt-in scheduling tool]]
 - Later: 2024-01-27 · Suno · [[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We will start onboarding this team on Monday (1/29)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

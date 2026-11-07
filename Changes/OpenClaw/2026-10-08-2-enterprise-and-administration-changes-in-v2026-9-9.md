@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-10-08 · Enterprise and Administration: 2 changes
   v2026.9.9 — Telegram Control UI. To open OpenClaw''s Mini App in Telegram, send
   /controlui…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1252
+  lag_days: 2459
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11cd80cfe6601a09f4025ba7efceb3892d70f85e1ea9d7239baf346f0b694003
+machine_hash: 910a9517eef31eb79e94f10fd0a044722e2faf89fa29ee2bbe51150e7b4f6ea0
 product: openclaw
 product_name: OpenClaw
 record:
@@ -111,7 +111,7 @@ Source: https://docs.openclaw.ai/releases/2026.9.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

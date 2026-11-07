@@ -4,20 +4,19 @@ date: '2025-12-22'
 description: 'Cline · 2025-12-22 · Editor Experience: Duplicate error messages during
   streaming for Diff Edit tool when Parallel Tool Calling is not enabled'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1014
+  lag_days: 2598
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 782f8719bf340d233369d5356f7de7579859391d6fed29261c681d2000ffc956
+machine_hash: 195bfd33dafff42694f527833e4c3de58406b550237b3ec6430667212c1d1f33
 product: cline
 product_name: Cline
 record:
@@ -45,10 +44,9 @@ record:
     Tool…
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard
-  shortcuts in Design Mode]]'
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Descript/2025-12-20-play-your-script-while-recording-b-roll|Play your
+  script while recording B-roll]]'
+- '[[Changes/Descript/2025-12-20-editor|Editor]]'
 - '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
   Experience changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

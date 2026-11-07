@@ -4,20 +4,20 @@ date: '2026-02-19'
 description: 'GitHub Copilot CLI · 2026-02-19 · Interface Experience: 6 changes in
   0.0.412 — Hide custom agents with `user-invocable: false` from the `/agents` picker'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1137
+  lag_days: 2503
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d2a3519cdf3d487dd3bd8917f50e232d3a0a5b44dcd11f1ad647b170c0cc79f
+machine_hash: ae9913fbe61e6bf74ca8f2a67ccdd10ba6d805eee219b4055ef52f6b87f751a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Interface Experience changes in v0.0.412
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-interface-experience-changes-in-cli-improvements-and-mermaid-ascii|2
-  Interface Experience changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
   introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
 - '[[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui:
   update & subdue footer colors and animate progress indicator]]'
+- '[[Changes/Notion/2026-02-18-as-your-workspace-grows-your-sidebar-can-get-crowded-library-solves-this-with-a|A
+  home for everything in Library]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60]]'
 source_type: github_releases
 theme: interface-experience
@@ -109,14 +109,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui: update & subdue footer colors and animate progress indicator]]
+- Earlier: 2026-02-18 · Notion · [[Changes/Notion/2026-02-18-as-your-workspace-grows-your-sidebar-can-get-crowded-library-solves-this-with-a|A home for everything in Library]]
 - Later: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-up-down-arrow-key-navigation-for-input-box-history|Up/down arrow key navigation for input box history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-08-05'
 description: 'OpenHands · 2026-08-05 · Files and Data: feat: set Canvas default model
   to GLM 5.2 by @juanmichelini in https://github.com/OpenHands/OpenHands/pull/16146'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 2513
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 16779f9d8f4c7c01924433d96c0bfa896e265031c5f4a434fd1cdda29d6a6f61
+machine_hash: 8aa64dc6cc4d639e4fff3065553b43316ec08daf164bcde8be1f5fdf5a5ebe1d
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 'feat: set Canvas default model to GLM 5.2'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-28-migrated-from-https-github-com-openhands-agent-canvas-releases-tag-v1-6-1-to-see|Migrated
-  from (source link) to seed…]]'
 - '[[Changes/Codex CLI/2026-07-29-2-files-and-data-changes-in-rust-v0-146-0|2 Files
   and Data changes in rust-v0.146.0]]'
 - '[[Changes/OpenHands/2026-07-29-chore-replay-agent-canvas-history-by-neubig-in-https-github-com-openhands-openha|chore:
   replay Agent Canvas history]]'
+- '[[Changes/Descript/2026-08-05-edit-an-image-by-drawing-on-it|Edit an image by drawing
+  on it]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-chore-replay-agent-canvas-history-by-neubig-in-https-github-com-openhands-openha|chore: replay Agent Canvas history]]
+- Earlier: 2026-08-05 · Descript · [[Changes/Descript/2026-08-05-edit-an-image-by-drawing-on-it|Edit an image by drawing on it]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

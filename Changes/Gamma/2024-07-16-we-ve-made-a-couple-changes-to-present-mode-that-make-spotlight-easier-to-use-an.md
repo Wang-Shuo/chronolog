@@ -4,20 +4,19 @@ date: '2024-07-16'
 description: 'Gamma · 2024-07-16 · Editor Experience: We''ve made a couple changes
   to present mode that make spotlight easier to use and prevent you from accidentally…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 490
+  lag_days: 2074
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a155e8e87a70531765c5f877106e8ba7c10da7fd5f823b75717a36466fb7fd9e
+machine_hash: c29f0ac01e8646e708e20d71eb12023a42704cec7b119b1f767a1bc1d2fb7f1d
 product: gamma
 product_name: Gamma
 record:
@@ -46,8 +45,7 @@ record:
     use…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
+- '[[Changes/Descript/2024-07-02-editor-updates|Editor updates]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
   (beta)]]'
 - '[[Changes/Gamma/2024-07-16-right-click-to-edit|Right-click to edit]]'
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

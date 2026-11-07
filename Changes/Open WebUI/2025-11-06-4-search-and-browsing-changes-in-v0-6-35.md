@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-11-06 · Search and Browsing: 4 changes in v0.6
   — \U0001F517 Web search SSL verification is now asynchronous, preventing the website
   from hanging…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 959
+  lag_days: 1988
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee9aa8211267e924dfdf8e9eda169b4f679a04541d3e4592022e73675fcbf894
+machine_hash: c5bd58242986c18497492d1e6e6efa2d13ba061779ac5bd165108411c93f9403
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,11 +56,12 @@ record:
   title: 4 Search and Browsing changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/Replit/2025-10-03-app-themes-font-improvements|App Themes font improvements]]'
 - '[[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search
   and Browsing changes in v0.6.33]]'
 - '[[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core):
   migrate web search tool to tool-names]]'
+- '[[Changes/Descript/2025-10-28-updated-fonts-modal-for-easier-browsing|Updated fonts
+  modal for easier browsing]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234|open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234]]'
 source_type: github_releases
 theme: search-browsing
@@ -114,14 +115,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core): migrate web search tool to tool-names]]
+- Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-updated-fonts-modal-for-easier-browsing|Updated fonts modal for easier browsing]]
 - Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367 – SDK: add network_access and web_search options to TypeScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

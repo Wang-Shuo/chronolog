@@ -4,20 +4,21 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Account and Access: 4 changes in v2.1.273
   — Improved `/autofix-pr`: when `gh pr view` fails it now shows gh''s own error (sign-in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1265
+  lag_days: 2240
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e26f9e317a49b79c0ec57dd5ecf7073f42b5cd657e4d3d1e7255fd4de454ab5
+machine_hash: 7eab20030e6781d58fa6234e97e270e371b95c3b1f56d144c330687b66197440
 product: claude-code
 product_name: Claude Code
 record:
@@ -110,7 +111,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

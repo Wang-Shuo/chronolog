@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-10-24 · Files and Data: **\U0001F4DA Enhanced 
   Collection**: Now, you can reference individual files from a knowledge collection—ideal
   for…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 518
+  lag_days: 1863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0fe0c483c1ea31df77640ada3ac89ad3442993464b0b7e06d66bf17b94b8bee0
+machine_hash: 99223d81b02308bc8bccadefee0eece100f2e4b3aa470108edd7760ad53aa1ac
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: "**\U0001F4DA Enhanced Knowledge Collection**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-10-07-2-files-and-data-changes-in-v0-3-31|2 Files and
-  Data changes in v0.3.31]]'
 - '[[Changes/Dify/2024-10-21-2-files-and-data-changes-in-0-10-0|2 Files and Data changes
   in 0.10.0]]'
 - '[[Changes/Dify/2024-10-23-file-upload-corrections-resolved-multiple-issues-affecting-file-uploads-for-smoo|File
   Upload Corrections]]'
+- '[[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize
+  your page]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
 source_type: github_releases
 theme: file-data
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-file-upload-corrections-resolved-multiple-issues-affecting-file-uploads-for-smoo|File Upload Corrections]]
+- Earlier: 2024-10-24 · Notion · [[Changes/Notion/2024-10-24-layouts-to-customize-your-page|Layouts to customize your page]]
 - Later: 2024-10-26 · Open WebUI · [[Changes/Open WebUI/2024-10-26-s3-file-upload-issue-fixed-a-problem-affecting-s3-file-uploads-ensuring-smooth-o|💼 S3 File Upload Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

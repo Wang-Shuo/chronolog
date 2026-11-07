@@ -5,20 +5,19 @@ description: 'Lovable · 2026-06-16 · Editor Experience: The **Publish** button
   the editor now shows a small dot when your project has changes that are newer than
   the live…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 2774
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 425abe694a4e8dca1adc8c93de261b67663473398a11dcc36066a8b117bb57c6
+machine_hash: b82db22230224168fd94e3bae5768a2efe71aeb7cfbbb9080e0ff82a0c315bf3
 product: lovable
 product_name: Lovable
 record:
@@ -53,9 +52,9 @@ record:
   title: See when you have unpublished changes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
-  Experience changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]'
+- '[[Changes/Kimi Code/2026-06-15-prioritize-clearing-draft-editor-text-before-ctrl-c-cancels-an-active-stream|Prioritize
+  clearing draft editor text before Ctrl-C cancels an active stream]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4
   Editor Experience changes in v1.0.63]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-16-2026-06-16-4dd14eb5|lovable-2026-06-16-2026-06-16-4dd14eb5]]'
@@ -91,13 +90,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4 Editor Experience changes in v1.0.63]]
-- Later: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed the Explain sparkle button from the editor breadcrumbs]]
+- Later: 2026-06-16 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-06-16-modern-unified-and-updated-look-and-feel-in-microsoft-edge-web-microsoft-365-cop|Modern, unified, and updated look and feel in Microsoft Edge…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

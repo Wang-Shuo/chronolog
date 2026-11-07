@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Pricing Model: #28143 feat(app-server): expose
   rate-limit reset credits @jayp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2899
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b9fb3331df8bd4194a41b069333e8a741ea04cfb20ab3d60d55357463314dbf7
+machine_hash: 4de7a69cb65f8845f4f67457a2492344a22ff2127b90f73d0057750e0389e1b0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: '#28143 feat(app-server): expose rate-limit reset credits @jayp-oai'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-05-billing|Billing]]'
-- '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
-  model picker pricing view for select enterprise customers]]'
+- '[[Changes/Descript/2026-06-11-always-show-ai-credits-and-minutes-usage|Always show
+  AI credits and minutes usage]]'
+- '[[Changes/Descript/2026-06-11-the-customer-obsessed-telethon|The Customer-Obsessed
+  Telethon]]'
 - '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
   screen redesign]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

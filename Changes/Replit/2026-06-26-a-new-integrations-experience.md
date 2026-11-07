@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'Replit · 2026-06-26 · Apps and Integrations: You can now browse every
   service Replit connects to in one place. The redesigned Integrations page brings…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2751
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c58a2d3d91ba1a2f85c638406d5ddb5b6fcb50597153fd43ed66da01bf984ff5
+machine_hash: f872075a80b230404180d9d4cf8dcaae5b8d2c8394a858fb700122e090736f22
 product: replit
 product_name: Replit
 record:
@@ -52,8 +52,8 @@ record:
   title: A new Integrations experience
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
-  Integrations changes in v4.0.0]]'
+- '[[Changes/Kimi Code/2026-06-26-4-apps-and-integrations-changes-in-kimi-code-0-20-0|4
+  Apps and Integrations changes in Kimi Code 0.20.0]]'
 - '[[Changes/Lovable/2026-06-26-app-connectors-klipy-and-logo-dev|App connectors:
   KLIPY and Logo.dev]]'
 - '[[Changes/Replit/2026-06-26-integrations|Integrations]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

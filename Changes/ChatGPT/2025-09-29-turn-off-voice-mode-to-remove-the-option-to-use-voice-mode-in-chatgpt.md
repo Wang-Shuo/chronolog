@@ -4,20 +4,20 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Voice and Audio: Turn off voice mode, to remove
   the option to use voice mode in ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 812
+  lag_days: 2639
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 637b8a062b3421c254cb85cf19a2d2167dedf80abb463e74201d8081954ff179
+machine_hash: e88e4c832fe76209232ff7c415281685682ade0d5b2da36bfd35a841754ee965
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,7 @@ record:
   title: Turn off voice mode, to remove the option to use voice mode in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
-  audio]]'
+- '[[Changes/Descript/2025-09-24-lossless-wav-recording|Lossless WAV recording]]'
 - '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
   changes in v3.31.0]]'
 - '[[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

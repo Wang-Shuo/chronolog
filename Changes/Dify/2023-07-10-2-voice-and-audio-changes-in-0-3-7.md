@@ -4,20 +4,20 @@ date: '2023-07-10'
 description: "Dify · 2023-07-10 · Voice and Audio: 2 changes in Version 0.3.7 — \U0001F399️
   Chat App support voice (OpenAI whisper)"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1827
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6bc30cbbdb180ccf743d1e4bf172c0764a96c7ff8eeb80305fc262e92b121fb
+machine_hash: 54c008f451041c189c0338b14b733e5c82349d3a63a55bcb8dab22ada9e6dd28
 product: dify
 product_name: Dify
 record:
@@ -41,6 +41,12 @@ record:
   theme: voice
   title: 2 Voice and Audio changes in 0.3.7
   type: change
+related_changes:
+- '[[Changes/Descript/2023-05-01-transcription-enhancements-we-improved-transcription-at-sentence-boundaries-you|Transcription
+  enhancements: We improved transcription at sentence boundaries]]'
+- '[[Changes/Descript/2023-05-01-composition-audio-properties-we-ve-brought-back-the-ability-to-adjust-audio-prop|Composition
+  audio properties]]'
+- '[[Changes/Descript/2023-07-10-replace-selection|Replace selection]]'
 source_release: '[[Releases/Dify/dify-2023-07-10-0-3-7-github-111584105-664d19d6|dify-2023-07-10-0-3-7-github-111584105-664d19d6]]'
 source_type: github_releases
 theme: voice
@@ -73,13 +79,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
+- Earlier: 2023-07-10 · Descript · [[Changes/Descript/2023-07-10-replace-selection|Replace selection]]
 - Later: 2023-07-14 · Dify · [[Changes/Dify/2023-07-14-convert-audio-wav-to-mp3-by-zxhlyh-in-https-github-com-langgenius-dify-pull-552|convert audio wav to mp3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-23 · Context Window: 3 changes in 1
   — Resumed sessions reproduce the original attached-file references even if those
   files…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1146
+  lag_days: 2470
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f962064c34b52d658e9b312748383ff37683a8caaf3c00ebc3f3fcb07bc98800
+machine_hash: 4981aaf1698f3f29ae7a5d339e4ec8edf7e6433dd177c8ac11356c7a212bb045
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Context Window changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large
-  pastes are now handled as attachments for more plans]]'
 - '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
   bash commands now trigger Claude to respond to the output automatically]]'
 - '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
   Window changes in rust-v0.142.0]]'
+- '[[Changes/Kimi Code/2026-06-22-surface-provider-safety-policy-blocks-instead-of-silently-treating-them-as-compl|Surface
+  provider safety-policy blocks instead of silently treating them as completed…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: context-window
@@ -106,14 +106,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context Window changes in rust-v0.142.0]]
+- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-surface-provider-safety-policy-blocks-instead-of-silently-treating-them-as-compl|Surface provider safety-policy blocks instead of silently treating them as completed…]]
 - Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core Waited for plugins before loading reference-backed config and system context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

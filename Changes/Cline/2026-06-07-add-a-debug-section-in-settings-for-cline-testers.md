@@ -4,19 +4,20 @@ date: '2026-06-07'
 description: 'Cline · 2026-06-07 · Developer Workflow: Add a debug section in settings
   for Cline testers.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1177
+  lag_days: 2826
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09fe3ea49910a940dae630516d14b364f062b4228cab7bc15a07bd8005773076
+machine_hash: 82d3fe3d8012e738be665f7659a7760edb23cfd9d235891a1e24cacdaa999089
 product: cline
 product_name: Cline
 record:
@@ -41,8 +42,8 @@ record:
   title: Add a debug section in settings for Cline testers
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
-  Developer Workflow changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-show-unknown-command-instead-of-too-many-arguments-when-an-invalid-subcommand-is|Show
+  "unknown command" instead of "too many arguments" when an invalid subcommand…]]'
 - '[[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core
   Terminal themes now refresh after live terminal reloads without stale colors…]]'
 - '[[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

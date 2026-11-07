@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Dify · 2026-10-23 · Interface Experience: 2 changes in v1.18.0 — Smarter
   Agent Routing, Portable Apps, Deeper Workflow Visibility — **Date, time, and icons:**…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1383
+  lag_days: 2749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5a5e1bb1e0b0508c02f22168aff19c5bd1368ac9506ffd23751f48019893e0b
+machine_hash: 84484c9c94746476951e30b768c868ff216344d2d02d44e51902bd3dc2a863f7
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
-  notification preferences, toggle completion sounds, and adjust agent sound…]]'
+- '[[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar
+  customization: Reorder navigation entries, move them between sections…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 - '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9
@@ -105,7 +105,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

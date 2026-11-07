@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c3d24d9a2cf6e743fb02a741dceead501519fbb3b625caad009dda4c61fc5e2
+machine_hash: 24c9d0500bc7ebb39090b713036ef63a835b5a88fd9a430290c63b49a23e40b0
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v0.17.1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model
-  support]]'
 - '[[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes
   in v3.67.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming
   response size counter updates continuously during tool calls…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-declarative-agents-upgraded-to-gpt-5-1-microsoft-365-copilot-extensibility|Declarative
+  agents upgraded to GPT-5.1 (Microsoft 365 Copilot extensibility)]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-24-v0-17-1-github-289729999-4cd9fc05|ollama-2026-02-24-v0-17-1-github-289729999-4cd9fc05]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.17.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming response size counter updates continuously during tool calls…]]
+- Earlier: 2026-02-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-02-24-declarative-agents-upgraded-to-gpt-5-1-microsoft-365-copilot-extensibility|Declarative agents upgraded to GPT-5.1 (Microsoft 365 Copilot extensibility)]]
 - Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model Support changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 

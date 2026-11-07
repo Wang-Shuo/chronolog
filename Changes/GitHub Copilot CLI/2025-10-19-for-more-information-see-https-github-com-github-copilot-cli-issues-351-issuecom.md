@@ -4,20 +4,19 @@ date: '2025-10-19'
 description: 'GitHub Copilot CLI · 2025-10-19 · Editor Experience: For more information,
   see https://github.com/github/copilot-cli/issues/351#issuecomment-3419045411'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 950
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea330ee1428e69b79976b6298864fd09812eddcf34154db8f1e1b56aa1278306
+machine_hash: 5ad9bc737122e3b569e3fe1f183bbda07b090e65b6234cb1169a0b81e13cdeff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

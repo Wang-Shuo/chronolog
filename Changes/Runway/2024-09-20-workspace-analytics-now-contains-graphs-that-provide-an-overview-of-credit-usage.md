@@ -4,20 +4,20 @@ date: '2024-09-20'
 description: 'Runway · 2024-09-20 · Pricing Model: Workspace Analytics now contains
   graphs that provide an overview of credit usage across the workspace.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 645
+  lag_days: 2263
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9fe2ff65e23ddc61c477d601ba46707d1c6b87af9d1e9de1080af0496ef41122
+machine_hash: b94b9a0e9ae12a503374770f99aa92a74a42737d9dc571440cdad53257903cd8
 product: runway
 product_name: Runway
 record:
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter now supports prompt caching!]]
-- Later: 2024-10-21 · Gemini · [[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access to Imagen 3 now available for Google Workspace customers]]
+- Later: 2024-10-08 · Descript · [[Changes/Descript/2024-10-08-subscription-management-and-checkout-improvements|Subscription management and checkout improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

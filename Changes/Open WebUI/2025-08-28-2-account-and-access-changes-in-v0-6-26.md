@@ -5,20 +5,21 @@ description: "Open WebUI · 2025-08-28 · Account and Access: 2 changes in v0.6.
   \U0001F510 **Azure Document Intelligence DefaultAzureCredential Support**: Added
   support for…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 882
+  lag_days: 1857
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82c513d619c17694777975613f0b6b38781f1421126878191676955fcd449c69
+machine_hash: 1b707d997cc381934abbf885fbe9aa24edb60ab60a422f904e40dd996fce7887
 product: open-webui
 product_name: Open WebUI
 record:
@@ -107,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

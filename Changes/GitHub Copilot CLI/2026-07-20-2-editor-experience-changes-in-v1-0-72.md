@@ -4,20 +4,19 @@ date: '2026-07-20'
 description: 'GitHub Copilot CLI · 2026-07-20 · Editor Experience: 2 changes in 1.0.72
   — The GitHub tab''s Open in web action now reliably launches your browser on Windows'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d023b239ed3cc849a38efb289136473eebb615b10accf720430d404d3eb2d486
+machine_hash: 99e4a9759cbc1b5e160799c1f1828a437d6c183578c6318d100fdf737af968ad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

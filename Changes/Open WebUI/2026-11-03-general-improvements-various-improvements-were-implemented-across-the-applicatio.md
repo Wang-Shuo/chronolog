@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-11-03 · Reliability and Performance: \U0001F50
   improvements.** Various improvements were implemented across the application to
   enhance…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1419
+  lag_days: 2906
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73c9ea281a2f7649ac2b3038c691aeed9b7c1ed9a14e3d02ff12e0852992bb87
+machine_hash: 9abeeb83f4dfbc75f8174d62bd24b8525447f112c4295b08ff795fc1be0d208f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop
-  Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]'
+- '[[Changes/Qoder/2026-10-30-conversation-input-improved-slash-menu-categories-and-recent-items-file-search-i|Conversation
+  input: Improved slash-menu categories and recent items, @ file…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes:
   History items for v4 generations keep clone_strength and speed…]]'
 - '[[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster
@@ -113,7 +113,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

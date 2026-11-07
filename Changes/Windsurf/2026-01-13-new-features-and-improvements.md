@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 794b134d0808a3b90ee29b1064da00c16c7c60822e3215572a13369f7911ea19
+machine_hash: dc251e6dd031394720907217bc5e22e5dd6a5a5877dc996b22e8ce0503789576
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,11 +44,11 @@ record:
   title: New Features and Improvements
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent
-  Mode changes in v0.0.380]]'
 - '[[Changes/Google Antigravity/2026-01-13-agent-skills|Agent Skills]]'
 - '[[Changes/Google Antigravity/2026-01-13-agent-skills-now-available-in-antigravity|Agent
   Skills now available in Antigravity]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-13-expand-copilot-agents-with-mail-people-and-meeting-insights-windows-web-microsof|Expand
+  Copilot Agents with Mail, People, and Meeting Insights Windows…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-13-v1-13-6-e1532028|windsurf-2026-01-13-v1-13-6-e1532028]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-13 · Google Antigravity · [[Changes/Google Antigravity/2026-01-13-agent-skills-now-available-in-antigravity|Agent Skills now available in Antigravity]]
+- Earlier: 2026-01-13 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-13-expand-copilot-agents-with-mail-people-and-meeting-insights-windows-web-microsof|Expand Copilot Agents with Mail, People, and Meeting Insights Windows…]]
 - Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added inline display of agent's final response in task notifications, making…]]
 <!-- chronolog:end -->
 

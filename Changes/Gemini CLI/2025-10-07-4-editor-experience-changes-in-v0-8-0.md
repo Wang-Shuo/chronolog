@@ -4,20 +4,19 @@ date: '2025-10-07'
 description: 'Gemini CLI · 2025-10-07 · Editor Experience: 4 changes in Release v0.8.0
   — feat(vscode-ide-companion): add script to check for new release by @skeshive in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 938
+  lag_days: 2522
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9164e0e9b3d3b2c22a9b5d3921847071fb3a2c59f8008eddbd59ff5c2a03ce8a
+machine_hash: f41253d34ca31c5860f6788dcbbed31f7a66a6a109b9db7be10792c022599545
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,11 +48,11 @@ record:
   title: 4 Editor Experience changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-03-2-editor-experience-changes-in-v0-0-334|2
-  Editor Experience changes in v0.0.334]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3
   Editor Experience changes in v0.0.335]]'
 - '[[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]'
+- '[[Changes/Synthesia/2025-10-06-we-ve-made-several-improvements-in-the-editor-and-we-know-that-details-matter-th|8
+  nice improvements and fixes in the Editor]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: editor-experience
@@ -100,14 +99,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]
+- Earlier: 2025-10-06 · Synthesia · [[Changes/Synthesia/2025-10-06-we-ve-made-several-improvements-in-the-editor-and-we-know-that-details-matter-th|8 nice improvements and fixes in the Editor]]
 - Later: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3 Editor Experience changes in v0.0.336]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

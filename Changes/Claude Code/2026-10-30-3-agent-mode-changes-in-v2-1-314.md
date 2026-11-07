@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 965787437e988316ac54e984688e6f9700fa531f747591655ebbb0795b5954e9
+machine_hash: 3488c50f5878980fe086a8be721b206020ad53365a03aa447c6803f7f104172d
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-core-add-opt-in-scheduled-prompts-through-schedule-agent-tools-and-experimental|Core Add opt-in scheduled prompts through /schedule , agent tools…]]
-- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]
+- Later: 2026-10-30 · Kimi Code · [[Changes/Kimi Code/2026-10-30-a-single-file-read-by-the-agent-now-returns-at-most-100-000-characters-or-about|A single file read by the agent now returns at most 100,000 characters or about…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

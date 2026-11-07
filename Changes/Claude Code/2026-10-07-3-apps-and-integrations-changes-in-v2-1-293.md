@@ -4,20 +4,20 @@ date: '2026-10-07'
 description: 'Claude Code · 2026-10-07 · Apps and Integrations: 3 changes in v2.1.293
   — Changed the order of agent lists and of MCP servers announced to the model: names…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1294
+  lag_days: 2854
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77da4cfba7700a5fc8c1c6b692625802e6e4507c8bf5b84ffa2962d4ecf92cfd
+machine_hash: b05933c841c271eeb8fd80dd40f3890ee594ecd333b7e096098eb3c319238b7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-06-connect-to-databricks-with-your-own-account|Connect
-  to Databricks with your own account]]'
-- '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
-  model list for the built-in AI connector]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-seamless-search-and-chat-integration-windows-web-microsoft-365-copilot|Seamless
+  Search and Chat Integration Windows, Web (Microsoft 365 Copilot)]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-06-edit-query-string-and-user-identity-mapping-rules-for-copilot-connectors-windows|Edit
+  query string and user identity mapping rules for Copilot connectors Windows…]]'
 - '[[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore:
   consume Extensions 0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.293
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

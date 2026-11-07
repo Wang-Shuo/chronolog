@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-06-05 · Mobile and Desktop: **\U0001F4F1 Mobil
   Improvements**: The UI now uses dvh (dynamic viewport height) instead of vh (viewport
   height)…"
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 449
+  lag_days: 2033
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d3f74cf67daee2182fc349bb2ac94a535c15157ec669a03784c96ae70b7287c
+machine_hash: 2aab584f05c19e1da201c14a2abd2b7139e251d0885f7caca1c79191874d1cb1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,9 @@ record:
   title: "**\U0001F4F1 Mobile View Improvements**"
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The
-  Gemini mobile app is available in more languages]]'
 - "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
   iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
+- '[[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]'
 - '[[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini
   mobile app is available in Europe]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-05-v0-2-5-github-159039205-a0513844|open-webui-2024-06-05-v0-2-5-github-159039205-a0513844]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-06-05 · Gemini · [[Changes/Gemini/2024-06-05-the-gemini-mobile-app-is-available-in-europe|The Gemini mobile app is available in Europe]]
-- Later: 2024-06-15 · Ollama · [[Changes/Ollama/2024-06-15-model-loading-on-windows-with-cuda-gpus-is-now-faster|Model loading on Windows with CUDA GPUs is now faster]]
+- Later: 2024-06-11 · Notion · [[Changes/Notion/2024-06-11-see-your-day-at-a-glance|See your day at a glance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

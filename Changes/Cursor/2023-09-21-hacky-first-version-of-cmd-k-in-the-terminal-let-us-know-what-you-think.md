@@ -4,20 +4,19 @@ date: '2023-09-21'
 description: 'Cursor · 2023-09-21 · Editor Experience: Hacky first version of cmd-K
   in the terminal! Let us know what you think.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 191
+  lag_days: 1775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 512d3873a6e93f38c1c1035b6ac59d2b8d8b0a2aa82febd0d32d2cc2496bc720
+machine_hash: aa68f6c289c186a6d54f72b2da40db45c4e762ec51a6bf0b4d1f27a7c201af46
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +50,9 @@ record:
   title: Cmd-K in the terminal!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
-  will no longer output backticks if you do @file]]'
 - '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
   query parameter in the POST /v1/completion-messages endpoint of the App…]]'
+- '[[Changes/Descript/2023-09-18-other-tweaks-fixes|Other tweaks & fixes]]'
 - '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
   Chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc|cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc]]'
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -3,20 +3,20 @@ card_id: replit-2025-08-08-a97829
 date: '2025-08-08'
 description: 'Replit · 2025-08-08 · Enterprise and Administration: **Enterprise**'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 826
+  lag_days: 2033
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fe1e676de8c339f513e7f5fc2d72e2d08515c1a37a2eb18bfaffac0da39d4f7
+machine_hash: de3f349391280b9ab4e8b174ad54e6970c2eba970106b33e80e80f81fee565a5
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: '**Enterprise**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|\U0001F691
-  Users Not Loading in Groups]]"
 - "[[Changes/Open WebUI/2025-07-19-traceability-with-log-trace-and-span-ids-each-log-entry-now-carries-detailed-tra|\U0001F3F7️
   Traceability with Log Trace and Span IDs]]"
 - '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
   team admins to configure an extension allowlist]]'
+- '[[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New
+  Viewer role in Descript Rooms (Business & Enterprise only)]]'
 source_release: '[[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|replit-2025-08-08-2025-08-08-cb053c3d]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
-- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3 Enterprise and Administration changes in v0.6.19]]
+- Earlier: 2025-07-31 · Descript · [[Changes/Descript/2025-07-31-new-viewer-role-in-descript-rooms-business-enterprise-only|New Viewer role in Descript Rooms (Business & Enterprise only)]]
+- Later: 2025-08-08 · Synthesia · [[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create video assets with Veo 3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-11-15'
 description: 'Ollama · 2024-11-15 · Interface Experience: [Athene V2](https://ollama.com/library/athene-v2):
   a 72B parameter model which excels at code completion…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 676
+  lag_days: 2042
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2843a4b0c4e2cfdad449d1bed783000dff9d87c18e3b4ba3cefcaa056a703a1f
+machine_hash: c5426201e9a2fa4a595a53a3a3395a7801db3d735e5bca24743d453d231d140c
 product: ollama
 product_name: Ollama
 record:
@@ -55,8 +55,7 @@ record:
   title: '[Athene V2](https://ollama.com/library/athene-v2): a 72B parameter model…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- '[[Changes/Notion/2024-10-24-personalize-your-urls|Personalize your URLs]]'
 - '[[Changes/Open WebUI/2024-10-24-3-interface-experience-changes-in-v0-3-33|3 Interface
   Experience changes in v0.3.33]]'
 - '[[Changes/Dify/2024-10-28-feat-regenerate-history-switch-navigation-by-xuzuodong-in-https-github-com-langg|feat:
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

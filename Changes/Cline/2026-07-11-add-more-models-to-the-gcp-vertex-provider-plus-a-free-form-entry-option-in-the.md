@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 240c1f129d7412dde8f4a3df470bb6047e16203d789056c006dda8153a230166
+machine_hash: fc657d01e5e7b4c42eadf8cabe11dcfd2f9230789a6a22f6f9a2c6744e27bf2e
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Add more models to the GCP Vertex provider, plus a free-form entry option…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
-  /code-review findings quality on claude-opus-4-8 across all effort levels]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model
   Support changes in v1.0.70]]'
+- '[[Changes/Kimi Code/2026-07-10-keep-image-heavy-sessions-within-provider-request-size-limits-oversized-images-m|Keep
+  image-heavy sessions within provider request-size limits]]'
 - '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
   Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
 source_release: '[[Releases/Cline/cline-2026-07-11-v4-0-8-github-352386325-80bdb2f8|cline-2026-07-11-v4-0-8-github-352386325-80bdb2f8]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]
-- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model Support changes in v2026.7.1]]
+- Later: 2026-07-12 · Kimi Code · [[Changes/Kimi Code/2026-07-12-3-model-support-changes-in-kimi-code-0-23-6|3 Model Support changes in Kimi Code 0.23.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

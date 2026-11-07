@@ -4,20 +4,20 @@ date: '2026-07-09'
 description: 'ChatGPT · 2026-07-09 · Apps and Integrations: We’re also replacing the
   App Directory with the Plugin Directory. Existing app connections are unaffected…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2764
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85897e824b4111fff2e7eeb50c41329d6f761bebb1512d21d5ab8ddfc14d815e
+machine_hash: bb365fce7db39c3b0a32133e5cfb59a284446e0c21822b58cb5844f371901998
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: We’re also replacing the App Directory with the Plugin Directory
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
-  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Kimi Code/2026-07-08-add-the-vercel-plugin-to-the-bundled-plugin-marketplace-run-plugins-and-select-v|Add
+  the Vercel plugin to the bundled plugin marketplace]]'
 - '[[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector
   in chat]]'
 - '[[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore:
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

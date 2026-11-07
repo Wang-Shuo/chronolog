@@ -4,20 +4,20 @@ date: '2025-09-24'
 description: 'Ollama · 2025-09-24 · Search and Browsing: 2 changes in v0.12.2 — <img
   width="512" alt="ollama_web_search"…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 1945
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0855164055eb22de00e1748203ba92bdb7440449553ed4d380e95a3e549a40ff
+machine_hash: 1a0faaf71c1f09a73ab2cb0627a186f1e8fb5dc62ad27564f02f78d9904124e0
 product: ollama
 product_name: Ollama
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.12.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

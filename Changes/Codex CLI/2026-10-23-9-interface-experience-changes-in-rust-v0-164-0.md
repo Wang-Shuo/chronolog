@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-10-23 · Interface Experience: 9 changes in 0.16
   — Save reusable prompts and slash commands in ten numbered `/presets` slots, with
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1383
+  lag_days: 2749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eaca68a7ccce2289a087659dbe8f805c4b98f8f160c73dad11013250f12c26a
+machine_hash: 04992d3d06a1911aa4d68ffb688025740d189232613192ceb143f5932c15edea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,10 @@ record:
   title: 9 Interface Experience changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The
-  more-actions menu on conversations in the sidebar now includes Pin and Archive…]]'
 - '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
   notification preferences, toggle completion sounds, and adjust agent sound…]]'
+- '[[Changes/Qoder/2026-10-22-sidebar-customization-reorder-navigation-entries-move-them-between-sections-and|Sidebar
+  customization: Reorder navigation entries, move them between sections…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -133,7 +133,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

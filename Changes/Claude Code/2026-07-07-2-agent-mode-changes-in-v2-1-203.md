@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34d732df5966614bb40f90ebb28de0fb9a6349742a15b8d722061b8572fcdfe6
+machine_hash: f3f44d11cc3062f4fffa5ae37006f3bfda94fe1cb054273931d55101429eb6a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web:
+  Replace the swarm footer with a single inline tool card that shows live…]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
 - '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF

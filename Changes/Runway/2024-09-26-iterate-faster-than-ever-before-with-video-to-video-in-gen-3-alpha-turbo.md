@@ -4,20 +4,20 @@ date: '2024-09-26'
 description: 'Runway · 2024-09-26 · Multimodal Input: Iterate faster than ever before
   with Video to Video in Gen-3 Alpha Turbo.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 373
+  lag_days: 2141
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bfc6f6663fdbfb6e073c69107768b1ce2c4ab86ea147a0491e02f4e1962f3ad
+machine_hash: 17c3d64da0cc65b5ec07bd9094c3b585250f7c046269885b8a53c633abe1a77d
 product: runway
 product_name: Runway
 record:
@@ -51,10 +51,10 @@ record:
   title: Video to Video in Gen-3 Alpha Turbo
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
-  Youtube RAG Pipeline]]"
-- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
-  Alpha Text to Video]]'
+- '[[Changes/Synthesia/2024-08-29-set-a-default-brand-kit-and-we-ll-apply-your-colors-fonts-logos-and-avatars-auto|Create
+  on-brand videos with Brand Kit 2.0]]'
+- '[[Changes/Descript/2024-08-30-borders-and-shadows-on-media-layers|Borders and shadows
+  on media layers]]'
 - '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
   add hunyuan-vision]]'
 source_release: '[[Releases/Runway/runway-2024-09-26-2024-09-26-video-to-video-in-gen-3-alpha-turbo-d9796ba4|runway-2024-09-26-2024-09-26-video-to-video-in-gen-3-alpha-turbo-d9796ba4]]'
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Ollama · 2024-07-02 · Reliability and Performance: 5 changes in 
   — Ollama can now serve multiple requests at the same time, using only a little bit
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 565
+  lag_days: 2052
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ac5d44c29f521308e9efd41b2d4c8f46f370a8ab0fbfca0f2c0cf0f22b59399
+machine_hash: ad9dfc683fb647f5cfc40c2ddc7a56a20a34af4bf16a55f70faa7e641b2f03cd
 product: ollama
 product_name: Ollama
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Reliability and Performance changes in v0.2.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-12-frontend-responsiveness-resolved-the-problem-where-the-frontend-would-stop-respo|\U0001F5A5️
-  Frontend Responsiveness]]"
 - '[[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability
   and Performance changes in 0.6.11]]'
+- '[[Changes/Notion/2024-06-18-plus-a-few-more-of-your-top-requests|Plus a few more
+  of your top requests.]]'
 - '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
   Reliability and Performance changes in v0.1.46]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-02-v0-2-0-github-163643882-25f7f395|ollama-2024-07-02-v0-2-0-github-163643882-25f7f395]]'
@@ -110,7 +110,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

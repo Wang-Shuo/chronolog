@@ -5,19 +5,20 @@ description: 'Dify · 2026-11-04 · Collaboration: 4 changes in v1.19.0 - Trace 
   Workflows, Layer by Layer — **Existing `shared.env` files remain supported.** Common
   API…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2854
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 478dd590e3917e1d7b4b43e57e994567783b4950014751f86c1e0e50536c30fc
+machine_hash: 033bc488fcbeac3e618bab4976907e2f21d74d73e55e7484b1083ea9333715ff
 product: dify
 product_name: Dify
 record:
@@ -123,13 +124,13 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration changes in v1.35.0]]
-- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows authorized native commands to restore archived source sessions, and reports…]]
+- Later: 2026-11-04 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-11-04-ai-workflows-in-workflows-app-windows-mac-teams|AI Workflows in Workflows app Windows, Mac (Teams)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

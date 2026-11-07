@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenClaw · 2026-10-27 · Multimodal Input: Oversized macOS camera clips
   and screen recordings now return an error instead of disconnecting the node. The…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1134
+  lag_days: 2902
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc7f49e4854b4f3b79964ebf89d0d7dc7bd89b49000e08b6d544e9286da370cb
+machine_hash: e133def547a8bf5a6f935c4ca518dba20834b4f596a820130f9bfe878aad80e3
 product: openclaw
 product_name: OpenClaw
 record:
@@ -44,11 +44,12 @@ record:
   title: Oversized macOS camera clips and screen recordings now return an error instead…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
 - '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
   camera discovery now reports an unreadable device folder as an error instead…]]'
 - '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
   to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal
+  capture in Copilot Notebooks Android (OneNote)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: multimodal
@@ -90,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-multimodal-capture-in-copilot-notebooks-android-onenote|Multimodal capture in Copilot Notebooks Android (OneNote)]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-video-clip-background-removal-video-clips-have-a-remove-background-action-and-ri|Video clip background removal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,19 @@ date: '2023-05-06'
 description: 'Cursor · 2023-05-06 · Editor Experience: Rarely, pressing Enter in the
   editor does nothing'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 53
+  lag_days: 1637
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61e1f07faeeb400bd3fe817242c6b7d8ac39222bf27b7890d1fa00159182b429
+machine_hash: e298cf59e2766c42ff7f419fe0c3f9807ba8bcd5b410fb61d1477b6641db1e82
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +40,8 @@ record:
   title: Rarely, pressing Enter in the editor does nothing
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-04-16-nicer-edits-now-work-with-cmd-z|Nicer edits, now work
-  with cmd-Z]]'
+- '[[Changes/Descript/2023-04-17-drawer-resizing-the-media-library-and-composition-drawers-are-now-freely-resizab|Drawer
+  resizing: The Media Library and Composition Drawers are now freely…]]'
 - '[[Changes/Cursor/2023-04-29-experimental-support-for-multi-file-diffs|Experimental
   support for multi-file diffs]]'
 - '[[Changes/Cursor/2023-05-04-improved-prompting-for-edits-and-generates|Improved
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-02-09'
 description: 'Cline · 2025-02-09 · Interface Experience: Adds keyboard shortcut (CMD
   + Shift + A) to easily switch between Plan/Act mode'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 762
+  lag_days: 2128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 130ca562e767f963b444e73a73c8b4cc10197e1eec827131b233648548ad0eff
+machine_hash: ec10461308a32707278e50490a9abd6ac56a25508af871445b40b2a5dc3821da
 product: cline
 product_name: Cline
 record:
@@ -79,13 +79,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
+- Later: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-add-scene-in-script-toolbar|Add scene in Script toolbar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

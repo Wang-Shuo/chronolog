@@ -4,20 +4,20 @@ date: '2026-03-23'
 description: 'ElevenLabs · 2026-03-23 · Multimodal Input: [v2.40.0](https://github.com/elevenlabs/elevenlabs-js/releases/tag/v2.40.0)
   - Added `multimodal_message` WebSocket…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 2684
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0c714cce3a249ef57c228fe4cbd6cf00b1128b791cb6aa2ce003d6b2bac8d896
+machine_hash: f937890f09a098ecb4e88b278c7591554202848453c96ff8b359ef58643fd7f9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,9 +46,9 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal
-  Input changes in rust-v0.107.0]]'
-- '[[Changes/ElevenLabs/2026-03-16-python-sdk|Python SDK]]'
+- '[[Changes/HeyGen/2026-03-18-heygen-now-supports-interactive-video-experiences-with-built-in-quizzes-branchin|HeyGen
+  now supports interactive video experiences with built-in quizzes, branching…]]'
+- '[[Changes/HeyGen/2026-03-18-quizzes|Quizzes]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages|Packages]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-23-2026-03-23-c7dac693|elevenlabs-2026-03-23-2026-03-23-c7dac693]]'
 source_type: elevenlabs_changelog
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-python-sdk|Python SDK]]
-- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-tool-binary-response-handling-tool-servers-can-now-return-binary-data-such-as-im|🏮 Tool binary response handling. Tool servers can now return binary data such…]]
+- Earlier: 2026-03-18 · HeyGen · [[Changes/HeyGen/2026-03-18-quizzes|Quizzes]]
+- Later: 2026-03-25 · HeyGen · [[Changes/HeyGen/2026-03-25-video-distribution-new-controls-for-video-downloads-public-publishing-and-social|Video distribution: New controls for video downloads, public publishing, and social…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

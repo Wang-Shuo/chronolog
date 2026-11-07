@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'Codex CLI · 2026-10-29 · Apps and Integrations: 22 changes in 0.166.0
   — #56483 Allow installed plugin metadata to skip display enrichment @bkotsopoulos'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e18758a995c1be88b76a067b10e1c5d0b7f2280c783b3d467736906077590b2
+machine_hash: 9ae88401d0d437caae4ae8604192754405e2f24a9fbab2b6854ca54608e3f364
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,10 +89,10 @@ record:
   title: 22 Apps and Integrations changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A
-  plugin''s page now shows its developer and version, with links to its website…]]'
 - '[[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation
   navigator and third party tools notice]]'
+- '[[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect
+  workspace MCP servers automatically with backoff when the initial…]]'
 - '[[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect
   Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
@@ -189,7 +189,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

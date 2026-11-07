@@ -4,20 +4,19 @@ date: '2026-07-29'
 description: 'Codex CLI · 2026-07-29 · Editor Experience: 3 changes in 0.146.0 — #34551
   Simplify TUI restoration for the external editor @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1233
+  lag_days: 2817
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 730c6d47317175069130b4b83a5585e7b7b6e21a390fcdf74f2f235b065be1ac
+machine_hash: 3c2d161d5eae8af05dfad5bb2ec74f56d44fe35f2ee952836d8762c02bb14f20
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,13 +99,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added preview (temporary) tabs to the auxiliary pane, allowing files to open…]]
-- Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
+- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-redesign-overview-experience-in-copilot-notebooks-in-onenote-windows-mac-web-one|Redesign Overview experience in Copilot notebooks in OneNote Windows, Mac, Web (OneNote)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

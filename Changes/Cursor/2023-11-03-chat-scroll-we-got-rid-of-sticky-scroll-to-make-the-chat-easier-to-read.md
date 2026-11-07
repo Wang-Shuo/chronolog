@@ -4,20 +4,20 @@ date: '2023-11-03'
 description: 'Cursor · 2023-11-03 · Interface Experience: Chat scroll: we got rid
   of sticky scroll to make the chat easier to read.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 298
+  lag_days: 1664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de236da8b1ace13d236a9f9444e891cbf910d9d38c0ccae382a3e3e4ae9f0df3
+machine_hash: 70e0543cb1981f923d08d9016bc6e1482624a98159b7277fbce4a4b398d23bbd
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
-  to the VS Code sidebar orientation]]'
-- '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
-  you''ve configured your browser to use one of these supported languages, you''ll…]]'
-- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
-  front end rendering]]'
+- '[[Changes/Descript/2023-10-02-new-view-options-in-drive-view|New View Options in
+  Drive View]]'
+- '[[Changes/Descript/2023-10-16-docked-panels-are-now-remembered|Docked panels are
+  now remembered]]'
+- '[[Changes/Descript/2023-10-16-new-keyboard-shortcut-forward-back-keyboard-shortcuts-for-navigating-between-com|New
+  Keyboard Shortcut]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
+- Earlier: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-new-keyboard-shortcut-forward-back-keyboard-shortcuts-for-navigating-between-com|New Keyboard Shortcut]]
 - Later: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface Experience changes in 0.3.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

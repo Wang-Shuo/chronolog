@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffcaaa47c596ed8c211f4957a1b406194d2f0497c519d2e1c815af348a5e16eb
+machine_hash: 8b6d8b24cb54f6e8574b4cd9cdb8c18cd770fd550d271fb0f171cba7470ad3c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Accessibility and Localization changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved
-  screen-reader output in /mcp]]'
 - '[[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization
   maintenance removes entries whose interface text has already been…]]'
+- '[[Changes/Synthesia/2026-09-30-add-burned-in-captions-to-dubbed-videos-in-one-click-so-your-localized-content-s|Add
+  burned-in captions to dubbed videos]]'
 - '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
   screen reader mode to write new or changed lines without first pausing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'

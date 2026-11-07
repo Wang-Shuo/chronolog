@@ -4,19 +4,20 @@ date: '2025-09-04'
 description: 'Gemini CLI · 2025-09-04 · Collaboration: 2 changes in Release v0.3.0
   — feat(core): share file list patterns between glob and grep tools by @Han5991 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 834
+  lag_days: 2428
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce3b14943a34ca9e2e5f14ef2c34f75e4fe57ea8066e2dfd65c4c65004a98e4d
+machine_hash: 572d040629fd6b1d73e398e21881fb92eada91de1649415faaba4d3658705b79
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

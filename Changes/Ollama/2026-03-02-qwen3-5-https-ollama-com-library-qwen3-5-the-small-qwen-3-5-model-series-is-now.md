@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2215fa72a1ac3dd635ee32eb6e74468e59f038bdc91f07acdec8e936b8144c7e
+machine_hash: 3239d719d10bb5ccce06bb68c18121dd04dea5e11cbb2b3b9341cea8c3be81b7
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
     series…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM
-  2((source link) LFM2 is a family of hybrid models designed…]]'
 - '[[Changes/Open WebUI/2026-03-01-8-model-support-changes-in-v0-8-6|8 Model Support
   changes in v0.8.6]]'
 - '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
   Support changes in rust-v0.107.0]]'
+- '[[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude
+  Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-02-v0-17-5-github-291735275-cda2bceb|ollama-2026-03-02-v0-17-5-github-291735275-cda2bceb]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model Support changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · Descript · [[Changes/Descript/2026-03-02-claude-sonnet-4-6-and-google-gemini-3-1-pro-now-in-underlord|Claude Sonnet 4.6 and Google Gemini 3.1 Pro now in Underlord]]
 - Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|💾 Temporary chat params preservation. Model parameters are now correctly saved…]]
 <!-- chronolog:end -->
 

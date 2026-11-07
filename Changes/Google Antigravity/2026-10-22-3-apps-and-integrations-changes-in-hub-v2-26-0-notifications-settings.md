@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-10-22 · Apps and Integrations: 3 chang
   HUB v2.26.0 — Notifications settings, docked question prompts, and conversation
   palette…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1309
+  lag_days: 2869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddca1a1a90480ccd5ea0f29cba4f5f0eaa7e3817dda9c91f403712d67ae2a2f5
+machine_hash: 5be809752841f7171f34e133ae648631711f2ae6c91ab57499ef3340a189222a
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Apps and Integrations changes in HUB v2.26.0 — Notifications settings…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2
-  Apps and Integrations changes in v1.0.102]]'
+- '[[Changes/Kimi Code/2026-10-21-3-apps-and-integrations-changes-in-kimi-code-2-3-0|3
+  Apps and Integrations changes in Kimi Code 2.3.0]]'
 - '[[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2
   Apps and Integrations changes in v2.1.309]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse
@@ -103,7 +103,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.26.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'Lovable · 2026-06-26 · Apps and Integrations: [KLIPY](https://docs.lovable.dev/integrations/klipy.md)
   lets apps search and embed GIFs, stickers, and short…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1191
+  lag_days: 2751
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3a96fcea5bdd90a5a2cbf5e0c8daf95f9669177756fe4ac3343b4bb43c1ff75
+machine_hash: d6e7ce2bdd24df5d3dbf334d093f241669efc5e6891f4ab22e93af51a476195f
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: 'App connectors: KLIPY and Logo.dev'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-27-apps-and-integrations-changes-in-1-15-0|27 Apps and
-  Integrations changes in 1.15.0]]'
-- '[[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs:
-  redesign docs landing and integrations overview]]'
 - '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
   Integrations changes in v4.0.0]]'
+- '[[Changes/Kimi Code/2026-06-26-plugins-now-support-declaring-lifecycle-hooks-in-kimi-plugin-json-to-run-scripts|Plugins
+  now support declaring lifecycle hooks in kimi.plugin.json to run scripts…]]'
+- '[[Changes/Kimi Code/2026-06-26-4-apps-and-integrations-changes-in-kimi-code-0-20-0|4
+  Apps and Integrations changes in Kimi Code 0.20.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-26-2026-06-26-0ee85750|lovable-2026-06-26-2026-06-26-0ee85750]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and Integrations changes in v4.0.0]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-4-apps-and-integrations-changes-in-kimi-code-0-20-0|4 Apps and Integrations changes in Kimi Code 0.20.0]]
 - Later: 2026-06-26 · Replit · [[Changes/Replit/2026-06-26-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

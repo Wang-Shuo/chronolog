@@ -4,20 +4,19 @@ date: '2024-05-24'
 description: 'Midjourney · 2024-05-24 · Editor Experience: From the rooms tab, click
   "Create room" and give your room a name, description, and password.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 437
+  lag_days: 2021
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fdc4d02e341e69015d47d9ded084712b613e9014a8c0cba0a3e8fc710b0a3b1a
+machine_hash: 533a050f8807d19f585ada48ecfc8c2547648a158d81a15cb0a10206e68d9689
 product: midjourney
 product_name: Midjourney
 record:
@@ -44,12 +43,12 @@ record:
   title: How does it work?
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
-  for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
-- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
-  prompting to unify some phrasing across edit formats]]'
 - '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
   reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Descript/2024-05-22-editor-recorder-smart-settings|Editor Recorder Smart
+  Settings]]'
+- '[[Changes/Descript/2024-05-22-welcome-to-version-90-of-descript|Welcome to version
+  90 of Descript]]'
 source_release: '[[Releases/Midjourney/midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda|midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda]]'
 source_type: midjourney_changelog
 theme: editor-experience
@@ -78,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
+- Earlier: 2024-05-22 · Descript · [[Changes/Descript/2024-05-22-welcome-to-version-90-of-descript|Welcome to version 90 of Descript]]
 - Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

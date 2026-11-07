@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b0a2145aba28cd5b51f67d786ea97ce425914c13ee964ff64f3851cd4317c84
+machine_hash: 7292e9e1b397bd4aba796abdb7cd7883f4e6abe486f1d60b772ca933cf6c29d3
 product: replit
 product_name: Replit
 record:
@@ -58,12 +58,11 @@ record:
   title: Find your first customers with Growth Skills
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent
-  Mode changes in v1.0.81]]'
-- '[[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes
-  in v1.16.0]]'
+- '[[Changes/Qoder/2026-08-27-hello-world|Hello, World!]]'
 - '[[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode
   changes in v2.1.251]]'
+- '[[Changes/Notion/2026-08-28-your-agents-can-now-propose-changes-instead-of-making-them-directly-ask-your-age|Ask
+  your agent to suggest edits]]'
 source_release: '[[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|replit-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]]
+- Earlier: 2026-08-28 · Notion · [[Changes/Notion/2026-08-28-your-agents-can-now-propose-changes-instead-of-making-them-directly-ask-your-age|Ask your agent to suggest edits]]
 - Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0|2 Agent Mode changes in rust-v0.151.0]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2023-03-23'
 description: 'ChatGPT · 2023-03-23 · Search and Browsing: Browsing: An experimental
   model that knows when and how to browse the internet'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 1029
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ab0cc9cd88ce79725b0a1da8ff1c8ef303e7ecc99e96d61f13543f34d7413eef
+machine_hash: 2d35191bf4622d5c121bf6b8d1c0c85167c23c8747990b2f61f539ac984b8101
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,13 @@ record:
     theme: model-support
   title: 'Browsing: An experimental model that knows when and how to browse the internet'
   type: change
+related_changes:
+- '[[Changes/Descript/2021-01-27-we-ve-updated-public-project-links-to-not-be-indexed-by-search-engines-anymore-t|Public
+  projects are no longer indexable by search engines]]'
+- '[[Changes/Notion/2022-05-10-integrate-your-workspace-with-census-rootly-bardeen-ai|Integrate
+  your workspace with Census, Rootly & Bardeen.ai]]'
+- '[[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse
+  through a page’s images from one place]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8|chatgpt-2023-03-23-introducing-plugins-in-chatgpt-8c6badc8]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -83,13 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Later: 2023-05-12 · ChatGPT · [[Changes/ChatGPT/2023-05-12-web-browsing-try-a-new-version-of-chatgpt-that-knows-when-and-how-to-browse-the|Web browsing: Try a new version of ChatGPT that knows when and how to browse…]]
+- Earlier: 2022-09-13 · Notion · [[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse through a page’s images from one place]]
+- Later: 2023-05-01 · Descript · [[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 29 tracked products.
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

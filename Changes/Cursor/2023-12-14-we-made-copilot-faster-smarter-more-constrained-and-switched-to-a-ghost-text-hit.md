@@ -4,20 +4,19 @@ date: '2023-12-14'
 description: 'Cursor · 2023-12-14 · Editor Experience: We made Copilot++ faster, smarter,
   more constrained, and switched to a ghost-text + hit-Tab-to-accept UI. Would love…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 275
+  lag_days: 1859
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91e93f11ab01bdd2cd8596214c9a0c3e3ab7a8cddf1bdb82c56c57217c99aded
+machine_hash: c69fa140b4d8a273b677fbbff77b68d5c1a06f7679b268b3f0903be9a9e2eabc
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +52,10 @@ record:
   title: Copilot++ Improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
-  reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
 - '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
   Followups]]'
+- '[[Changes/Descript/2023-12-06-sometimes-you-need-a-few-sometimes-you-need-a-few-tries-before-sometimes-you-nee|New
+  AI Action: Remove Retakes]]'
 - '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
   bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e|cursor-2023-12-14-0-19-0-https-cursor-com-changelog-0-19-0-d991f76e]]'
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

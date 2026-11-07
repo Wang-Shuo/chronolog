@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 839e68d95071ebce82c384b6b7fe8fb3e73361862e27969c484405445a262948
+machine_hash: 105e064381abb0a5a5c1f776e9de1ec48db33b216433354c54f8de943bc1f4c1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]]
-- Later: 2026-07-02 · Runway · [[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway Agent Skills]]
+- Later: 2026-07-01 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-01-create-presentations-with-work-iq-using-agent-mode-in-copilot-in-powerpoint-wind|Create presentations with Work IQ using Agent Mode in Copilot in PowerPoint…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

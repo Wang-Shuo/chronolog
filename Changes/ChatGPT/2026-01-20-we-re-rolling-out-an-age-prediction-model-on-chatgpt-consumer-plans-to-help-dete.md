@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 8c96f077acb7e2942d2e8f9e20fa25e3bc5baac9fdedbbc1e13545b17bb4abef
+machine_hash: f404a5139d88e38323e559a5346f81bf5fe0d2f866c6eb97c5b635e9fcdcdb8e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support changes in v1.1.26]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model Support changes in rust-v0.88.0]]
+- Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-first-round-of-2026-updates-is-in-this-release-helps-notion-fit-into-your-world|First round of 2026 updates is in!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

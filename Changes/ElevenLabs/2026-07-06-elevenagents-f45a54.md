@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 916a134f889ed79a16858da09465c674d436ab8f421ab0733f314bd4acb05ce1
+machine_hash: 731cb1ce133dd6ab0b43f96fe009d473e46c7c9f8cb99e23ea019b8f64845bcd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -137,7 +137,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes in 1.9.0]]
+- Later: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web: Replace the swarm footer with a single inline tool card that shows live…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

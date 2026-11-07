@@ -4,20 +4,20 @@ date: '2025-08-13'
 description: 'Cline · 2025-08-13 · Context Window: 5 changes in v3.24.0 — stop double
   counting tokens by @0xToshii in https://github.com/cline/cline/pull/5426'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 832
+  lag_days: 2156
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e7666f588dc407e19834ede1e4098f740447dbf66075956b39e9578752c2504
+machine_hash: b4b00e17aaac272867633bf4e990dbc06638289f24bad342dbf2e6c5c3cb3c26
 product: cline
 product_name: Cline
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.24.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

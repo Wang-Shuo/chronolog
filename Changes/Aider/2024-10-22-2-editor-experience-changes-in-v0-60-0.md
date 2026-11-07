@@ -4,20 +4,19 @@ date: '2024-10-22'
 description: 'Aider · 2024-10-22 · Editor Experience: 2 changes in v0.60.0 — Corrected
   diff edit format prompt that only the first match is replaced.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 588
+  lag_days: 2172
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4b087c7d19373aacd38bed6ce8d915e9eb6835b17cad8715617005e55028868
+machine_hash: 84af40f564b3f5d38f68fe0c01cc7aa982b5bbb9d970dc8790fc9f542274bf4f
 product: aider
 product_name: Aider
 record:
@@ -82,13 +81,13 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.60.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
-- Later: 2024-10-23 · Midjourney · [[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today we’re testing our new external image editor , image retexturing , and next-gen…]]
+- Later: 2024-10-23 · Descript · [[Changes/Descript/2024-10-23-editor-updates|Editor updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

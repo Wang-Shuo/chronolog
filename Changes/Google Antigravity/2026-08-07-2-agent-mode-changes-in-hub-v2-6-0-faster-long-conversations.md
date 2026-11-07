@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e15956283501de209ac5029921fd177d261344e34b4ce8226f525428bb4f201
+machine_hash: b2aee4a0746ecf8147cc5adc4b37037d91ff9f11a33505599873d2d09dc57762
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in HUB v2.6.0 — Faster long conversations…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent):
-  implement Antigravity agent runner and prompt templates …]]'
+- '[[Changes/Kimi Code/2026-08-06-web-subagent-tasks-show-their-model-and-thinking-level|web:
+  Subagent tasks show their model and thinking level]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
 - '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
@@ -93,7 +93,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.6.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent Mode changes in rust-v0.147.0]]
-- Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat: add a typed agent action for launching local or Cloud child conversations]]
+- Later: 2026-08-07 · HeyGen · [[Changes/HeyGen/2026-08-07-hyperframes-in-video-agent|Hyperframes in Video Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

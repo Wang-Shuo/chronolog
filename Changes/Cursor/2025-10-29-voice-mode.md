@@ -5,20 +5,20 @@ description: 'Cursor · 2025-10-29 · Voice and Audio: Control Agent with your v
   using built-in speech-to-text conversion. You can also define custom submit keywords
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 842
+  lag_days: 2669
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f7dc3c116b22de80665938c01407b8b028c99dc3d66dd7d114aca0e0b063e605
+machine_hash: 70860693938a5885db28bc7310d59301e9026806a159d93a72ba255e8b8c1f07
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,11 @@ record:
   title: Voice Mode
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-07-voice-management-a4407c|Voice Management]]'
-- "[[Changes/Open WebUI/2025-10-07-azure-text-to-speech-now-properly-escapes-special-characters-like-ampersands-in|\U0001F50A
-  Azure Text-to-Speech now properly escapes special characters like ampersands…]]"
+- '[[Changes/Descript/2025-10-23-welsh-transcription-now-available-in-beta|Welsh transcription
+  now available in Beta]]'
 - '[[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]'
+- '[[Changes/Descript/2025-10-28-audio-previews-now-available-in-the-editor-sidebar|Audio
+  previews now available in the Editor sidebar]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: voice
@@ -99,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-workspaces|Workspaces]]
+- Earlier: 2025-10-28 · Descript · [[Changes/Descript/2025-10-28-audio-previews-now-available-in-the-editor-sidebar|Audio previews now available in the Editor sidebar]]
 - Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-music-api|Music API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-10-30'
 description: 'Codex CLI · 2025-10-30 · Safety and Privacy: 3 changes in 0.52.0 — Added
   model summary and risk assessment for commands that violate sandbox policy in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 928
+  lag_days: 1920
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e426dfc5f601923732f935ed2cc78b496c2568d93834135198a472c07755134
+machine_hash: 3b94982dc0628c884f8f63883865bda110a6c57a33f1c88f17e8e4036a2457c9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536
-  — Added model summary and risk assessment for commands that violate sandbox policy]]'
+- '[[Changes/Descript/2025-10-28-permission-changes-now-take-effect-immediately-without-needing-to-refresh|Permission
+  changes now take effect immediately without needing to refresh]]'
 - '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
 - '[[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety
   and Privacy changes in 0.60.0]]'
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7183920a8289f24ddd240f7016674725131bce8d15c3b166c4ce5f7e5eb3800b
+machine_hash: 2c58da97a5c2b39e14b5712330d61c5274b891fcff5018ba67e2ab49e6c03521
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 7 Agent Mode changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes
-  in v2026.10.8]]'
 - '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
   in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
   stand in for DigitalOcean so Managed Agents can be verified]]'
+- '[[Changes/Kimi Code/2026-10-28-2-agent-mode-changes-in-kimi-code-2-4-0|2 Agent
+  Mode changes in Kimi Code 2.4.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: agent-mode
@@ -116,7 +116,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify): stand in for DigitalOcean so Managed Agents can be verified]]
+- Earlier: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-2-agent-mode-changes-in-kimi-code-2-4-0|2 Agent Mode changes in Kimi Code 2.4.0]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|🤖 Photos for sub-agents. Models can now hand a photo attached in the chat…]]
 <!-- chronolog:end -->
 

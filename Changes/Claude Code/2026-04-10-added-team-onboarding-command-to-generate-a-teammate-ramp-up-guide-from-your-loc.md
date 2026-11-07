@@ -4,19 +4,20 @@ date: '2026-04-10'
 description: 'Claude Code · 2026-04-10 · Collaboration: Added `/team-onboarding` command
   to generate a teammate ramp-up guide from your local Claude Code usage'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1052
+  lag_days: 2646
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f1953f785f12eddcfe123ce05728b8b0a00617a46cceb69bdec092fbc366ff4
+machine_hash: 5356b484a648558d366303594444ad8c7e6a04297243ed89fb7eb6c1cb051478
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +42,8 @@ record:
   title: Added `/team-onboarding` command to generate a teammate ramp-up guide…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
-  in 3.0]]'
+- '[[Changes/Notion/2026-04-07-you-can-now-share-your-notion-ai-chats-as-a-read-only-link-share-a-helpful-respo|Share
+  Notion AI chats as a link]]'
 - '[[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned
   Bugbot settings, and split personal and team settings into clearer sections]]'
 - '[[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

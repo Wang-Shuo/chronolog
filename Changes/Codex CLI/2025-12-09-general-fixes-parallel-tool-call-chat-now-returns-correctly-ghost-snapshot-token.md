@@ -4,20 +4,20 @@ date: '2025-12-09'
 description: 'Codex CLI · 2025-12-09 · Context Window: General fixes: parallel tool-call
   chat now returns correctly, ghost snapshot tokens aren’t billed, missing tool names…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 950
+  lag_days: 2274
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1bd4e93c03aa439917134fd40c9b17b593edc3d487940958c37954914edd311
+machine_hash: 7d6460f90ace707e7566908c14e1c818412af61c10079404bfd25bdbc1b8f48b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     tokens…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-tool-call-response-token-duplication-was-fixed-by-removing-redundant-message-his|\U0001F504
-  Tool call response token duplication was fixed by removing redundant message…]]"
 - '[[Changes/Cline/2025-12-04-2-context-window-changes-in-v3-40-0|2 Context Window
   changes in v3.40.0]]'
 - '[[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context
   Window changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-05-youtube-import-has-been-turned-off|YouTube import
+  has been turned off]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: context-window
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-context-window-changes-in-rust-v0-65-0|3 Context Window changes in rust-v0.65.0]]
+- Earlier: 2025-12-05 · Descript · [[Changes/Descript/2025-12-05-youtube-import-has-been-turned-off|YouTube import has been turned off]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-core-implement-jit-context-manager-and-setting-by-sandytao520-in-https-gith|feat(core): Implement JIT context manager and setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

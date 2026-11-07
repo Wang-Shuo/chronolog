@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d88bf7c7a964792330cdee368fe7e9d40020c8100a42e6e1c51be31611239ef1
+machine_hash: 2ab1157a45a1d055b2f45e1be15cfe811ab8eea54e473bc877842401f9b32781
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,7 @@ record:
   title: '#9644 feat(core) update Personality on turn @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-3-memory-and-personalization-changes-in-v0-0-385|3
-  Memory and Personalization changes in v0.0.385]]'
+- '[[Changes/Notion/2026-01-20-new-models-same-memory|New models, same memory]]'
 - '[[Changes/Codex CLI/2026-01-21-9459-feat-personality-introduce-model-personality-config-dylan-hurd-oai|♯9459
   feat(personality) introduce model_personality config @dylan-hurd-oai]]'
 - '[[Changes/Gemini CLI/2026-01-21-feat-a2a-introduce-memory-command-for-a2a-server-by-cocosheng-g-in-https-github|feat(a2a):

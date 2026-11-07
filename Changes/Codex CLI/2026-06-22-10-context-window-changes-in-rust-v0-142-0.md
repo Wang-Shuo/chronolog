@@ -4,20 +4,20 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Context Window: 10 changes in 0.142.0 — #28629
   [codex] core: restore absolute turn context cwd @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1145
+  lag_days: 2469
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e890815c3597b4eb2cd5c273ee9f96c992c819a842685c34228d7e81c6d95ab2
+machine_hash: 3ce7b0f497792cafee66892eb94a0b82466996daf135b3eeb8686e6f86c70e27
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -129,13 +129,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context Window changes in v1.0.64]]
+- Later: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-surface-provider-safety-policy-blocks-instead-of-silently-treating-them-as-compl|Surface provider safety-policy blocks instead of silently treating them as completed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

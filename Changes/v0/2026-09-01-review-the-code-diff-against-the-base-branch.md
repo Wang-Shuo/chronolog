@@ -4,20 +4,19 @@ date: '2026-09-01'
 description: 'v0 · 2026-09-01 · Editor Experience: Review the code diff against the
   base branch.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2851
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8b26bb944de73027d91491048833613af7e969701ffc54b6969223054ec5339
+machine_hash: b1bb9b0cb85f7dcb2fd589e70c2095ce1476e197664b6d39f834cdd5348a4dbc
 product: v0
 product_name: v0
 record:
@@ -81,13 +80,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop Session renames now save reliably from the title editor and tab context menu]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]]
+- Later: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-web-add-a-code-wrap-toggle-to-the-diff-panel-and-streamline-its-header|web: Add a code wrap toggle to the diff panel and streamline its header]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

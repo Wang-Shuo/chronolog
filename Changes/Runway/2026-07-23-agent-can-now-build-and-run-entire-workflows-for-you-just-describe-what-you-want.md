@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6a22293397e9c8221351e99f1d4ba6b641e3df2a91b9fdc42e4b30c0d19d2cae
+machine_hash: ad06db1b2fd8309e29f3631ca809a78c1809c3fef2808e05ccfd96a1ef01c12d
 product: runway
 product_name: Runway
 record:
@@ -48,12 +48,12 @@ record:
   title: Agent Workflows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed
-  plan mode with auto to no longer prompt for Bash commands the static…]]'
-- '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
-  is now powered by Cursor Router]]'
+- '[[Changes/Kimi Code/2026-07-22-3-agent-mode-changes-in-kimi-code-0-29-0|3 Agent
+  Mode changes in Kimi Code 0.29.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent
   Mode changes in v1.0.74]]'
+- '[[Changes/HeyGen/2026-07-23-2-agent-mode-changes-in-hyperframes-is-now-inside-video-agent|2
+  Agent Mode changes in HyperFrames is now inside Video Agent]]'
 source_release: '[[Releases/Runway/runway-2026-07-23-2026-07-23-agent-workflows-21fea77d|runway-2026-07-23-2026-07-23-agent-workflows-21fea77d]]'
 source_type: runway_changelog
 theme: agent-mode
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent Mode changes in v1.0.74]]
+- Earlier: 2026-07-23 · HeyGen · [[Changes/HeyGen/2026-07-23-2-agent-mode-changes-in-hyperframes-is-now-inside-video-agent|2 Agent Mode changes in HyperFrames is now inside Video Agent]]
 - Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
 <!-- chronolog:end -->
 

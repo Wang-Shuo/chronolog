@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Files and Data: #33167 Document the Windows
   exec yield time range @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 2498
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fb7779fde3bacc2df491bd4e0b95d3d6491d5e352d6225776b3fd4ef5478a15
+machine_hash: 7c947fa77e1ee52094132a65e0534133b8b72248500fdb19dcca24f5a9f27396
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#33167 Document the Windows exec yield time range @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
-  in Chrome: hardened file-upload path validation]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-create-brand-kits-from-your-brand-guidelines-web-microsoft-365-copilot-app|Create
+  brand kits from your brand guidelines Web (Microsoft 365 Copilot App)]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add
   canvas support in the CLI for extension-driven interactions]]'
 - '[[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes in 1.16.0]]
-- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-web-show-transparent-images-over-a-checkerboard-canvas|web: Show transparent images over a checkerboard canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

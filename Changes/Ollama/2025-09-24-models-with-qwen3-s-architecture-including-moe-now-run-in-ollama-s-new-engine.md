@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fad6d2956a360d1525e60c21ce9db082bbade9ae8661129c2287649243c2e309
+machine_hash: 8e337886497b15c32b9014aa19b17f1f42a34b6bf038513d9e500a42e4df6ef8
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: Models with Qwen3's architecture including MoE now run in Ollama's new engine
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model
-  Support changes in rust-v0.40.0]]'
 - '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
   in Windsurf!]]'
+- '[[Changes/Descript/2025-09-24-new-media-generation-model-selection-in-settings|New
+  media generation model selection in Settings]]'
 - '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
   changes in v0.6.0]]'
 source_release: '[[Releases/Ollama/ollama-2025-09-24-v0-12-2-github-249797732-6e6bda0b|ollama-2025-09-24-v0-12-2-github-249797732-6e6bda0b]]'

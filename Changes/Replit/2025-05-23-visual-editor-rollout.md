@@ -4,20 +4,19 @@ date: '2025-05-23'
 description: 'Replit · 2025-05-23 · Editor Experience: A new, updated Visual Editor
   is now available. Create beautiful layouts visually while the editor automatically…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 801
+  lag_days: 2385
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 99bb81cf9e5d9bb0a93f3eecb892770e80cbf1dededee7fe39243ab86204a11c
+machine_hash: 78c8d1a75c724ecdf49dbf48e04c70d21d0ca57ce9b786e9d6427f7068b1f9d1
 product: replit
 product_name: Replit
 record:
@@ -88,13 +87,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor Experience changes in v0.6.10]]
-- Later: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve upgraded the AI moderation in the editor]]
+- Later: 2025-05-28 · Descript · [[Changes/Descript/2025-05-28-starting-today-you-can-try-out-the-new-underlord-available-in-labs-it-s-no-longe|New in Labs—the new Underlord]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

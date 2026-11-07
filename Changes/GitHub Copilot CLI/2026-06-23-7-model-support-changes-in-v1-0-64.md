@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36bc6a19f5587ede7461549e205cf19040d8a5e86968586b628be6739cb85af3
+machine_hash: b0964a2f92581e7846f752f09716baf88955b9b0d9058ca0179032495b639563
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,9 +57,10 @@ record:
   title: 7 Model Support changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-workspaces|Workspaces]]'
 - '[[Changes/ElevenLabs/2026-06-22-music|Music]]'
 - '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
+- '[[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect
+  the real image format from file contents when reading media, so a mismatched…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: model-support
@@ -118,7 +119,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]
+- Earlier: 2026-06-22 · Kimi Code · [[Changes/Kimi Code/2026-06-22-detect-the-real-image-format-from-file-contents-when-reading-media-so-a-mismatch|Detect the real image format from file contents when reading media, so a mismatched…]]
 - Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

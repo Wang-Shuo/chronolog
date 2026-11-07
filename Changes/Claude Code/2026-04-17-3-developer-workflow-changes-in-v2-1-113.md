@@ -4,19 +4,20 @@ date: '2026-04-17'
 description: 'Claude Code · 2026-04-17 · Developer Workflow: 3 changes in v2.1.113
   — Changed the CLI to spawn a native Claude Code binary (via a per-platform optional…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2775
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f87ec353aa76f9094d7d36cc8fc3580fa3898f5308c7aef0d04b53bcb055fa5b
+machine_hash: 3e676cbb0d96fbf9e92e7795366cb3c08c2f31f9ddb79d90e0f7d7ce06e1e631
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

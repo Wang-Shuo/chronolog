@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 800f79254d3a51db6a85bb8984784341630b8211287a1d6a9138003d93bc871f
+machine_hash: e7b3828f82ec6741bfb1175dde1edf668b557624bbfa18c268eb800768fc375d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
-- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-python-sdk|Python SDK]]
+- Later: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-gemini-3-now-available-in-underlord|Gemini 3 now available in Underlord]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,19 @@ date: '2026-06-05'
 description: 'GitHub Copilot CLI · 2026-06-05 · Editor Experience: 3 changes in 1.0.60
   — Tab completes `..` parent traversal in slash-command path arguments instead of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1179
+  lag_days: 2763
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93d613bf52bbba3a010e5373372a2d6030c9572e8329b1992b6ad64e95f3e6d1
+machine_hash: c8642f70285b90743ad4628e48ee9ee11585493ca87f39ea32fb675f4dac73ab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +48,12 @@ record:
   title: 3 Editor Experience changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
-  no longer requires a separate Read after viewing a file with grep]]'
 - '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed
   Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]'
 - '[[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus
   and Open IDE fixes]]'
+- '[[Changes/Kimi Code/2026-06-04-2-editor-experience-changes-in-kimi-code-0-10-0|2
+  Editor Experience changes in Kimi Code 0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,14 +100,14 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-03 · Google Antigravity · [[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus and Open IDE fixes]]
-- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-3-editor-experience-changes-in-v1-16-2|3 Editor Experience changes in v1.16.2]]
+- Earlier: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-2-editor-experience-changes-in-kimi-code-0-10-0|2 Editor Experience changes in Kimi Code 0.10.0]]
+- Later: 2026-06-05 · Kimi Code · [[Changes/Kimi Code/2026-06-05-support-multiline-edits-when-managing-upcoming-goals|Support multiline edits when managing upcoming goals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

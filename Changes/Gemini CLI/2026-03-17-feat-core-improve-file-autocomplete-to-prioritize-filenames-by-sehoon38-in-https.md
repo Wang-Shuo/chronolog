@@ -4,20 +4,19 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Editor Experience: feat(core): improve @file
   autocomplete to prioritize filenames by @sehoon38 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2683
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9973250b56406609071d9317b382dac6ace45cbed02eec91d9661ec0cdddc893
+machine_hash: 037da99e89817a323c4df8242769cf0a8d53f0cd1d9093a68223884dbd246899
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +41,9 @@ record:
   title: 'feat(core): improve @file autocomplete to prioritize filenames'
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-16-improved-diff-statistics-formatting-with-locale-specific-number-separators|Improved
-  diff statistics formatting with locale-specific number separators]]'
-- '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
-  Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Descript/2026-03-17-underlord-links-now-take-you-to-the-right-spot-in-your-project|Underlord
+  links now take you to the right spot in your project]]'
+- '[[Changes/Descript/2026-03-17-create-a-scene|Create a scene]]'
 - '[[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience
   changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

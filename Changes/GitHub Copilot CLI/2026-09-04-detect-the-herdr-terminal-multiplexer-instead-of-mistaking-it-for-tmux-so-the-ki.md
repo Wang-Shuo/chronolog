@@ -4,19 +4,20 @@ date: '2026-09-04'
 description: 'GitHub Copilot CLI · 2026-09-04 · Developer Workflow: Detect the herdr
   terminal multiplexer instead of mistaking it for tmux, so the Kitty keyboard protocol…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1266
+  lag_days: 2915
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d877b036f50f0fcf789f31be6cb7d0fd20b53cf777594c7a0b8e93b7b162b90
+machine_hash: 2ce242e65105bfd46fcccd7304309ec7ab28a463d988d8040128e927c098fa4d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +45,10 @@ record:
     the Kitty…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
-  Developer Workflow changes in rust-v0.153.0]]'
 - '[[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer
   Workflow changes in v2026.9.1]]'
+- '[[Changes/Qoder/2026-09-03-clickable-terminal-links-http-https-links-in-the-terminal-now-open-directly|Clickable
+  terminal links: HTTP/HTTPS links in the terminal now open directly]]'
 - '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
   Workflow changes in v2.1.261]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
-- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer Workflow changes in v2026.9.2]]
+- Later: 2026-09-04 · Kimi Code · [[Changes/Kimi Code/2026-09-04-3-developer-workflow-changes-in-kimi-code-0-41-0|3 Developer Workflow changes in Kimi Code 0.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e17c6140324d80e85da691ecf9ec78883c30c42d1ae60256dc3ff05bfb7943b7
+machine_hash: 0e61d4e12b1e9b725f014eca8d4331a3bb8528c237993e8377ea1705b5434705
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 5 Model Support changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking
-  – deeper reasoning for more complex tasks]]'
-- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
-  default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
+- '[[Changes/Descript/2026-03-17-heads-up-for-existing-projects|Heads up for existing
+  projects]]'
+- '[[Changes/Descript/2026-03-17-updated-the-underlying-model-powering-regenerate-to-improve-how-natural-the-outp|Updated
+  the underlying model powering Regenerate to improve how natural the output sounds]]'
 - '[[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes
   in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'

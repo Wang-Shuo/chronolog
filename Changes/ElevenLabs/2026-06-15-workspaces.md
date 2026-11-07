@@ -4,20 +4,19 @@ date: '2026-06-15'
 description: 'ElevenLabs · 2026-06-15 · Editor Experience: **Service account API key
   updates**: [Update service account API…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1189
+  lag_days: 2773
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 71be78c6710b70f7b78a60870220faa90dc668ff78d461896615a47aa767f7ab
+machine_hash: 031a3ac1a425fe8fd681c97d5123ec81ca341eeb667e9b34f66a43909c5d586e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,8 +55,8 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
-  editing and presenting experience]]'
+- '[[Changes/Synthesia/2026-06-12-a-set-of-small-but-satisfying-editor-improvements-to-resizing-trimming-stock-sea|10
+  improvements to your Editor experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
   Editor Experience changes in v1.0.62]]'
 - '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
@@ -107,13 +106,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor Experience changes in rust-v0.140.0]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4 Editor Experience changes in v1.0.63]]
+- Later: 2026-06-15 · Kimi Code · [[Changes/Kimi Code/2026-06-15-prioritize-clearing-draft-editor-text-before-ctrl-c-cancels-an-active-stream|Prioritize clearing draft editor text before Ctrl-C cancels an active stream]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

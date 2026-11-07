@@ -4,20 +4,20 @@ date: '2026-07-28'
 description: 'Google Antigravity · 2026-07-28 · Reliability and Performance: 3 changes
   in HUB v2.4.3 — Preview tabs, MCP timeouts, file attachments, and performance fixes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1321
+  lag_days: 2808
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2c926194e1ad6402f592a7c8be3d162ac96a0ca604c74778000eb287de3625f
+machine_hash: d6f4545da5ffee72a67eda9a04b39209c7ac51f4997273b60cf7347e70ab57a2
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -103,7 +103,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.4.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

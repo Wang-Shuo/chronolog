@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a8a92f1b8ebdae4a901554cd278239e7016466efbbb22dc03f3d7bf527decf8
+machine_hash: 03f15906ea84cd9c6c7d4446da1c257a4f3f1dfc953ecd884703a619120794b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 8 Agent Mode changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
-  changes in v2.1.211]]'
 - '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
   use your published app]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-submit-agent-to-agent-store-from-agent-builder-windows-web-microsoft-365-admin-c|Submit
+  agent to Agent Store from Agent Builder Windows, Web (Microsoft 365 admin center)]]'
 - '[[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core
   Stopped subagents from launching nested subagents by default…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -126,7 +126,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core Stopped subagents from launching nested subagents by default…]]
-- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop Fixed custom agent selector visibility when custom agents are available]]
+- Later: 2026-07-16 · Kimi Code · [[Changes/Kimi Code/2026-07-16-expand-the-coder-subagent-tool-set-to-include-background-tasks-todo-lists-plan-m|Expand the coder subagent tool set to include background tasks, todo lists, plan…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

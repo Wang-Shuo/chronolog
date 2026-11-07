@@ -4,19 +4,20 @@ date: '2024-06-02'
 description: 'Open WebUI · 2024-06-02 · Collaboration: 2 changes in v0.2.0 — Open
   WebUI Team'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 375
+  lag_days: 1969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28bd20a767fb46873563b7bcb49b7ea0a6f1806e71155dbc520b8641633d6a56
+machine_hash: fc1a8ac2af8228f939f23b23ce97363cbf670894b67f4508c2b3d555b28745c7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,13 +88,13 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.2.0
 ## Nearby in Collaboration
 
 - Earlier: 2024-05-30 · Suno · [[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks, as always, for your support]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
+- Later: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-publish-to-google-drive|Publish to Google Drive]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

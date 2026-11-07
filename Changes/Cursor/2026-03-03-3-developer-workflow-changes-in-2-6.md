@@ -4,19 +4,20 @@ date: '2026-03-03'
 description: 'Cursor · 2026-03-03 · Developer Workflow: 3 changes in MCP Apps and
   Team Marketplaces for Plugins — Added support for multiple parallel Debug mode sessions.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1081
+  lag_days: 2730
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afcf61172205e07f5066954a8ed39d563a5d19a6ab6547d0d4085003fc622058
+machine_hash: ef093a4ee2ed326c96b59b126856f66d96f42db6526d39ca4a2f366cdfab4919
 product: cursor
 product_name: Cursor
 record:
@@ -102,7 +103,7 @@ Source: https://cursor.com/changelog/2-6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

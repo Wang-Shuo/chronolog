@@ -4,19 +4,20 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Collaboration: 2 changes in New Cursor Interface
   — Added a team-level Admin setting for cloud agents that restricts creating, editing…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1044
+  lag_days: 2638
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4662a1d0bbc454ed52e33cba486f74d65eb17fc735828189e67ffa604db1c29c
+machine_hash: 40660da7352eeb9f2f39ab09f8427ad6f79c83fe0532cf0ae5091c9c31cd30a6
 product: cursor
 product_name: Cursor
 record:
@@ -93,13 +94,13 @@ Source: https://cursor.com/changelog/3-0
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration changes in rust-v0.118.0]]
-- Later: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]]
+- Later: 2026-04-07 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-07-share-onedrive-files-with-a-copilot-generated-summary-in-windows-windows-onedriv|Share OneDrive files with a Copilot-generated summary in Windows Windows (OneDrive)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

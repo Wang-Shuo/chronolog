@@ -4,20 +4,20 @@ date: '2025-03-18'
 description: 'Dify · 2025-03-18 · Enterprise and Administration: Ci/deploy enterprise
   by @GareArc in https://github.com/langgenius/dify/pull/15699'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 683
+  lag_days: 1890
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1885cb4acb5f62bf35cc5b8625e69c27bfe6cd80fbd4b863a40131ff049b8631
+machine_hash: e69616953a6ed7ccc5c46c880edacdd78615dbac335471b80f9ff72cff04cbe9
 product: dify
 product_name: Dify
 record:
@@ -40,9 +40,10 @@ record:
   title: Ci/deploy enterprise
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]'
-- "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
-  Chat Controls Permissions]]"
+- '[[Changes/Descript/2025-02-11-exclusive-to-business-and-enterprise-users-improved-custom-ai-speakers|Exclusive
+  to Business and Enterprise users — improved custom AI speakers]]'
+- '[[Changes/Descript/2025-02-11-translated-dubbing-and-captions-support-for-chinese-japanese-and-korean|Translated
+  dubbing and captions support for Chinese, Japanese and Korean]]'
 - '[[Changes/ElevenLabs/2025-03-17-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Dify/dify-2025-03-18-1-1-0-github-206514946-497d593d|dify-2025-03-18-1-1-0-github-206514946-497d593d]]'
 source_type: github_releases
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

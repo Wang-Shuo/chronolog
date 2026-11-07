@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6f54e29c49375a27b6829214820672fd75e005b41df6ecc29b4fadeea15f5700
+machine_hash: c7c6698f6f03132a2b3472342c5e168d4e3cbce217fa13965bb9293bf666b72b
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Agent can generate music, sound effects, and speech
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review
-  Run Mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add
   builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]'
+- '[[Changes/Kimi Code/2026-05-29-3-agent-mode-changes-in-kimi-code-0-6-0|3 Agent
+  Mode changes in Kimi Code 0.6.0]]'
 - '[[Changes/Replit/2026-05-29-agent|Agent]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: replit_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]
+- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-3-agent-mode-changes-in-kimi-code-0-6-0|3 Agent Mode changes in Kimi Code 0.6.0]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 

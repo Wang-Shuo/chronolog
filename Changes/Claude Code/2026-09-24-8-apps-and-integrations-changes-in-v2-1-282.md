@@ -4,20 +4,20 @@ date: '2026-09-24'
 description: 'Claude Code · 2026-09-24 · Apps and Integrations: 8 changes in v2.1.282
   — Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1281
+  lag_days: 2841
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e850fc4285224b12eaa08d6d52dae324db79adb5cb5806c2ac30a90de608f89
+machine_hash: 74cf4424998d9596cf11236b4b5673774d447a144c240cba709fe2db0dd82445
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,10 +68,10 @@ record:
   title: 8 Apps and Integrations changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector
-  search]]'
 - '[[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58
   Apps and Integrations changes in v2026.9.6]]'
+- '[[Changes/Qoder/2026-09-23-mcp-configuration-added-a-custom-timeout-setting-so-you-can-adjust-the-wait-time|MCP
+  configuration: Added a custom timeout setting so you can adjust the wait…]]'
 - '[[Changes/Runway/2026-09-23-runway-mcp-is-now-available-on-cursor-s-marketplace-making-it-easy-to-bring-runw|Runway
   MCP on Cursor]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
@@ -132,7 +132,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

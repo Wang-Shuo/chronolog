@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Dify · 2025-12-11 · Multimodal Input: 11 changes in v1.11.0 - Your knowledge
   base just went from mono to full HD…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 814
+  lag_days: 2582
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0b80c125c24b56873fcfa51d34d33e65e165775c59667b755063ecfb9a5a0a4
+machine_hash: 2606a81359aa73c78fdd41365cbcc33ba06a57b5ea592b1fe7ccc442ce9528ac
 product: dify
 product_name: Dify
 record:
@@ -65,12 +65,10 @@ record:
   title: 11 Multimodal Input changes in 1.11.0
   type: change
 related_changes:
-- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
-  more styles]]'
-- '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
-  Input changes in v0.6.35]]'
-- '[[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source
-  link) A general-purpose…]]'
+- '[[Changes/HeyGen/2025-11-29-we-ve-redesigned-how-video-translation-works-with-two-distinct-engines-built-for|We''ve
+  redesigned how video translation works with two distinct engines built…]]'
+- '[[Changes/HeyGen/2025-11-30-better-control|Better control]]'
+- '[[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]'
 source_release: '[[Releases/Dify/dify-2025-12-11-1-11-0-github-269442254-945416fa|dify-2025-12-11-1-11-0-github-269442254-945416fa]]'
 source_type: github_releases
 theme: multimodal
@@ -134,14 +132,14 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-11-27 · Ollama · [[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source link) A general-purpose…]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added clickable Image ♯N links that open attached images in the default viewer]]
+- Earlier: 2025-11-30 · HeyGen · [[Changes/HeyGen/2025-11-30-intelligent-render-selection|Intelligent render selection]]
+- Later: 2025-12-12 · Synthesia · [[Changes/Synthesia/2025-12-12-view-and-edit-your-full-video-script-in-one-continuous-layout-making-it-easier-t|Review your whole script in Storyboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

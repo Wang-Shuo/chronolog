@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-02 · Reliability and Performance: 4 changes
   v0.6.41 — \U0001F3D7️ Knowledge base file management was rebuilt with a dedicated
   database table…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1083
+  lag_days: 2570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6294dd629e825d58a2d19753ded958ec7cbf0a3f20d53f063e68be3ea7682dc1
+machine_hash: 34014d0d503154a74eb22abe523a1c29a42ac04726006fbaa3c7879ba3e3e150
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,12 +58,12 @@ record:
   title: 4 Reliability and Performance changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
-  and Performance changes in 1.10.1]]'
-- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
-  Fixes]]'
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
+- '[[Changes/HeyGen/2025-11-29-speed-mode-provides-fast-reliable-translation-in-175-languages-accents-and-diale|Speed
+  Mode provides fast, reliable translation in 175+ languages, accents, and dialects]]'
+- '[[Changes/HeyGen/2025-11-29-if-you-re-scaling-content-globally-you-now-have-clear-options-speed-when-you-nee|If
+  you''re scaling content globally, you now have clear options]]'
+- '[[Changes/HeyGen/2025-12-01-a-faster-cleaner-editing-experience|A faster, cleaner
+  editing experience]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'
 source_type: github_releases
 theme: reliability-performance
@@ -113,14 +113,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Earlier: 2025-12-01 · HeyGen · [[Changes/HeyGen/2025-12-01-a-faster-cleaner-editing-experience|A faster, cleaner editing experience]]
 - Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2 Reliability and Performance changes in rust-v0.65.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

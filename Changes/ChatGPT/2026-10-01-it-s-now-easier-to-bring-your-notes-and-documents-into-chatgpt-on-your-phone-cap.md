@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-01 · Files and Data: It’s now easier to brin
   notes and documents into ChatGPT on your phone. Capture multiple pages in a row,
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1225
+  lag_days: 2570
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b350bff16d4ca12535144b6e84b9b14a2cece0d473ccb8e2f00bb23c4a812c3e
+machine_hash: 018ba3638383e3a8eb0d55ddee39912c49dcc5fd8ac88cb86fa1ca9e5ddb1f91
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Scan notes and documents more easily with ChatGPT camera
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
-  prompt-audit on Claude Code configuration]]'
 - '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
   retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/Synthesia/2026-09-29-bring-webp-files-straight-into-the-editor-use-still-or-animated-webp-on-the-canv|Upload
+  WebP images to your videos]]'
 - '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and
   Data changes in v2026.9.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

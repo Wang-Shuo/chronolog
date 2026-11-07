@@ -4,20 +4,20 @@ date: '2023-11-17'
 description: 'Ollama · 2023-11-17 · Safety and Privacy: Fix permission denied issues
   when running `ollama create` on Linux'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 215
+  lag_days: 1207
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12707b1752690ed5a193ff721b53b0957c48c1c2f6ae0cac7160c596146d14d1
+machine_hash: 8a59626946d1278e77eebb5e381817f4a76d897b7be0ba5de7e84fe1fa02af0f
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: Fix permission denied issues when running `ollama create` on Linux
   type: change
 related_changes:
-- '[[Changes/Dify/2023-08-15-fix-frontend-permission-check-by-matriq-in-https-github-com-langgenius-dify-pull|fix:
-  frontend permission check]]'
 - '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
   ChatGPT Enterprise]]'
 - '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
   box is now a password type]]'
+- '[[Changes/Descript/2023-10-16-set-default-privacy-for-published-pages-https-help-descript-com-hc-en-us-article|Set
+  Default Privacy for Published…]]'
 source_release: '[[Releases/Ollama/ollama-2023-11-17-v0-1-10-github-129663335-c3472355|ollama-2023-11-17-v0-1-10-github-129663335-c3472355]]'
 source_type: github_releases
 theme: safety-privacy
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
-- Later: 2023-12-18 · Gemini · [[Changes/Gemini/2023-12-18-expanding-bard-extensions-to-new-languages|Expanding Bard Extensions to new languages]]
+- Earlier: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-set-default-privacy-for-published-pages-https-help-descript-com-hc-en-us-article|Set Default Privacy for Published…]]
+- Later: 2023-12-05 · Descript · [[Changes/Descript/2023-12-05-ai-speaker-authorization-has-been-simplified-so-you-can-upload-a-consent-stateme|AI Speaker authorization has been simplified, so you can Upload a consent statement…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

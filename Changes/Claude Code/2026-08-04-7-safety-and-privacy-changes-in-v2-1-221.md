@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-04 · Safety and Privacy: 7 changes in v2.1
   — Added `mode: "mask"` for sandbox credential files on Linux and WSL — sandboxed
   commands…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1206
+  lag_days: 2198
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 549dd5c0d655dff76053f26234213918407e06cdf7c304b45c938db6beea627c
+machine_hash: 6bbe213f8781d4dd20a89262af0f8cc3dc397ac75f6e54095b26b7e01a35f2a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,8 +64,8 @@ record:
   title: 7 Safety and Privacy changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
-  Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
+- '[[Changes/Kimi Code/2026-07-31-web-order-permission-modes-from-safest-to-most-permissive-across-settings-surfac|web:
+  Order permission modes from safest to most permissive across settings surfaces…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-3-safety-and-privacy-changes-in-v1-0-78|3
   Safety and Privacy changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved
@@ -126,7 +126,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

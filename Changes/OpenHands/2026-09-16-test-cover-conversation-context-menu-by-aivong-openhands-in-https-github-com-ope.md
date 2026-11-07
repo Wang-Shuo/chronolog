@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'OpenHands · 2026-09-16 · Context Window: test: cover conversation context
   menu by @aivong-openhands in https://github.com/OpenHands/OpenHands/pull/17319'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1231
+  lag_days: 2555
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f98226e66141d55ebeac79872f0d3d87af182ffcb520bb567b6befe77d5be14d
+machine_hash: e0848abee536888ab031c322a1fa09dcdd4060e813d69d45bd3b09d877937dc2
 product: openhands
 product_name: OpenHands
 record:
@@ -51,8 +51,8 @@ record:
   title: 'test: cover conversation context menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
-  x-claude-code-request-class, x-claude-code-agent-type…]]'
+- '[[Changes/Notion/2026-09-15-run-a-skill-the-moment-you-need-it|Run a skill the
+  moment you need it]]'
 - '[[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent
   in Asset Comments]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

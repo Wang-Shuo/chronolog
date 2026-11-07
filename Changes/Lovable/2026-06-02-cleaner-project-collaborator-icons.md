@@ -5,19 +5,20 @@ description: 'Lovable · 2026-06-02 · Collaboration: When a project has more ac
   collaborators than fit cleanly in the top bar, the extras now collapse behind a
   single…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1105
+  lag_days: 2699
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd5c58e565cc9f5bbab6edf4f6f2235f5eebb3fd90917bb4a47205676b06d176
+machine_hash: 51db27b41808449e95919684cabe144e8efbcef5cb2d1d87144d1647d3625ea7
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +46,12 @@ record:
   title: Cleaner project collaborator icons
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent
-  project action buttons]]'
 - "[[Changes/Open WebUI/2026-06-01-shared-chat-file-write-protection-access-to-a-file-through-a-shared-chat-now-onl|\U0001F510
   Shared-chat file write protection. Access to a file through a shared chat now…]]"
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'
+- '[[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The
+  Organization tab now begins with a Team Overview section, where admins can view…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-02-2026-06-02-2d78061d|lovable-2026-06-02-2026-06-02-2d78061d]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -79,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Earlier: 2026-06-02 · HeyGen · [[Changes/HeyGen/2026-06-02-the-organization-tab-now-begins-with-a-team-overview-section-where-admins-can-vi|The Organization tab now begins with a Team Overview section, where admins can view…]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter startup: notices group by severity, and session info and announcements share…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

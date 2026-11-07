@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Claude Code · 2026-08-26 · Context Window: Changed Sonnet 5''s default
   auto-compact window to its full 1M context, so sessions on the 1M window now auto-compact…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1210
+  lag_days: 2534
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56df88205d4eb9a7495048b6db7ac4d1d2ead14be4874a372ff31ab46d044ff5
+machine_hash: f30aed6062c6e74023e2c56703f29b4d9d06985f9ba09f4845353b77a0889bb3
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-8-context-window-changes-in-1-17-0|8 Context Window changes
-  in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
   Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-outlook-emails-in-copilot-notebooks-windows-web-microsoft-365-copilot|Outlook
+  Emails in Copilot Notebooks Windows, Web (Microsoft 365 Copilot)]]'
 - '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
   changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

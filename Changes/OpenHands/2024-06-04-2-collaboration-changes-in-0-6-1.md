@@ -4,19 +4,20 @@ date: '2024-06-04'
 description: 'OpenHands · 2024-06-04 · Collaboration: 2 changes in 0.6.1 — Transition
   Share-OpenDevin to gcloud endpoint by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 377
+  lag_days: 1971
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aec7eedbb839e88bafce3c519424caea5320551d1e41431ecedbc4d9525ac709
+machine_hash: bd58024bc77547f6329de018f20c7ce1b359d86eaddd970f99d56be2bfa2f05c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +42,11 @@ record:
   title: 2 Collaboration changes in 0.6.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
-  Shared Chat Update: Shared chat now includes creator user information]]"
 - '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
   as always, for your support]]'
 - '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration
   changes in v0.2.0]]'
+- '[[Changes/Descript/2024-06-04-publish-to-google-drive|Publish to Google Drive]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: collaboration
@@ -83,14 +83,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.6.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration changes in v0.2.0]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-publish-to-google-drive|Publish to Google Drive]]
 - Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-note-support-add-notes-directly-into-your-workflows-to-enhance-documentation-and|Note Support: Add notes directly into your workflows to enhance documentation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

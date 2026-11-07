@@ -5,19 +5,20 @@ description: 'v0 · 2026-07-21 · Collaboration: 4 changes in Slash commands, th
   integration, and a Snowflake reliability pass — Snowflake detects when a chat''s
   code…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 2748
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1eb0c2234e745db7b2723321cac4e54b22ce950eee8f7d94888c934a2f3b8802
+machine_hash: 85fd1f6ca38f794b7e02f6aca4c7202ad0479e7028a1498a757bc17f9b485015
 product: v0
 product_name: v0
 record:
@@ -109,7 +110,7 @@ Source: https://v0.app/changelog#2026-07-21
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'Midjourney · 2026-10-08 · Video Generation: Using --tile with an attached
   image now tells you they''re incompatible. Extend and Loop on video inform you the…'
 diffusion:
-  first_in_tracked: '[[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion
-    Brush]]'
+  first_in_tracked: '[[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript
+    now supports additional video editing features to help you create…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 994
+  lag_days: 2178
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: video-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5032daf91ef7adc473c6131d19ae6f15b1db26bfd907de0a0d183a093a84daf5
+machine_hash: 831caef7afe44c3ab80bb9f812586c36a730e4bf17438826a4b00085cf672f6b
 product: midjourney
 product_name: Midjourney
 record:
@@ -45,10 +45,10 @@ record:
   title: PROMPT BAR & VIDEO
   type: change
 related_changes:
-- '[[Changes/Runway/2026-09-17-runway-is-now-available-as-a-plugin-in-grok-bot-sign-in-with-your-runway-account|Runway
-  MCP for Grok Bot]]'
 - '[[Changes/OpenClaw/2026-09-19-shared-helpers-consolidate-repeated-implementation-including-preparation-and-res|Shared
   helpers consolidate repeated implementation, including preparation…]]'
+- '[[Changes/Synthesia/2026-09-23-create-an-on-brand-synthesia-video-without-leaving-chatgpt-or-claude-describe-wh|Create
+  videos from ChatGPT and Claude with Synthesia MCP]]'
 - '[[Changes/OpenClaw/2026-09-30-2-video-generation-changes-in-v2026-9-7|2 Video Generation
   changes in v2026.9.7]]'
 source_release: '[[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888|midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888]]'
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Video Generation
 
 - Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-2-video-generation-changes-in-v2026-9-7|2 Video Generation changes in v2026.9.7]]
-- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-video-generation-results-now-show-options-that-the-provider-ignored-in-both-text|Video-generation results now show options that the provider ignored, in both text…]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-folders|Folders]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-18 · Runway · [[Changes/Runway/2024-01-18-multi-motion-brush-enables-motion-brush-for-five-unique-areas-of-an-image-with-i|Multi-Motion Brush]]
+- Earliest same-theme entry in the tracked set: 2020-10-21 · Descript · [[Changes/Descript/2020-10-21-descript-now-supports-additional-video-editing-features-to-help-you-create-profe|Descript now supports additional video editing features to help you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

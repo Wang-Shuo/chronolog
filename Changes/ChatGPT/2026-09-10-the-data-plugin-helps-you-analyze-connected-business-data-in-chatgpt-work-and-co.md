@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'ChatGPT · 2026-09-10 · Apps and Integrations: The Data plugin helps
   you analyze connected business data in ChatGPT Work and Codex. Ask a business question…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1267
+  lag_days: 2827
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a355b84805b47ad9a6bcf820a9c19a1abfa67b27e9daad2af7f3a8e43ec0669e
+machine_hash: f0e3f929d32a4772568b7fb00c0e28b5fa0502ba5534906aebc5cd0384a99232
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
   title: Data plugin in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
-  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/Kimi Code/2026-09-09-remote-control-is-now-always-on-the-experimental-kimi-code-experimental-remote-c|Remote
+  Control is now always on]]'
 - '[[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps
   and Integrations changes in v1.18.30]]'
 - '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

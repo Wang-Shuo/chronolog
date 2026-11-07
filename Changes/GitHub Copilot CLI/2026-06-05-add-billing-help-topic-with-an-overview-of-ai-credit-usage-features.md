@@ -4,20 +4,20 @@ date: '2026-06-05'
 description: 'GitHub Copilot CLI · 2026-06-05 · Pricing Model: Add `billing` help
   topic with an overview of AI credit usage features'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2886
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f8b5c9badd4c2475721f0ea2c2f235860964b6a16f7fdbb6687fe341dffc1c3c
+machine_hash: 1f1b8910f0c45d599a818f2913dce806ea52457fae82c9980889550e650a8764
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: Add `billing` help topic with an overview of AI credit usage features
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-29-billing|Billing]]'
 - '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
   3D models with the Tripo3D connector]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-02-organizational-messages-usage-based-targeting-is-now-generally-available-in-the|Organizational
+  Messages Usage‑based targeting is now generally available…]]'
 - '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
   subscription-switch suggestion now shows in the startup announcement slot…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

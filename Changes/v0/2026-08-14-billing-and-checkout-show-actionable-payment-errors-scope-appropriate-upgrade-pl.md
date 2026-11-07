@@ -5,20 +5,20 @@ description: 'v0 · 2026-08-14 · Pricing Model: Billing and checkout show actio
   payment errors, scope-appropriate upgrade plans, clearer out-of-credits copy, and
   only…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1338
+  lag_days: 2956
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6634176b4a03dec52191a120464bc9a80c989f6448b709579a07de71e3c4fc94
+machine_hash: 45141e9a556a587ee8875373dbcbc93507251d550fa772eb73aaa9ff6978bc93
 product: v0
 product_name: v0
 record:
@@ -46,11 +46,11 @@ record:
   title: Billing and checkout show actionable payment errors, scope-appropriate upgrade…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between
-  workspaces]]'
 - '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
   Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption
+  Dashboard tracks Copilot credit usage Web (Viva Insights)]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report Fable 5 cost on Vertex as unknown rather than applying Anthropic's list…]]
+- Earlier: 2026-08-11 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-11-consumption-dashboard-tracks-copilot-credit-usage-web-viva-insights|Consumption Dashboard tracks Copilot credit usage Web (Viva Insights)]]
 - Later: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit check-ins for long-running messages (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

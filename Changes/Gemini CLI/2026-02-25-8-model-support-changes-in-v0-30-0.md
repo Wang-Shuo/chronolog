@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed593e75c874f94a0468625ed986f4aa6a8547b52a498016f9346e0dd88c73b3
+machine_hash: d5da6cfa6c4259e7e91f904b9b8bb89be1f8be94e6cc9e8a7859a5079a74ba5f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,8 +61,8 @@ record:
   title: 8 Model Support changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming
-  response size counter updates continuously during tool calls…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-02-24-declarative-agents-upgraded-to-gpt-5-1-microsoft-365-copilot-extensibility|Declarative
+  agents upgraded to GPT-5.1 (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support
   changes in v0.17.1]]'
 - '[[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model

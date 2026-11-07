@@ -4,20 +4,20 @@ date: '2026-07-22'
 description: 'Gemini CLI · 2026-07-22 · Context Window: Refactor: exclude transient
   CI configuration files from workspace context by @DavidAPierce in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1175
+  lag_days: 2499
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47ffda32f120691a7b9e211b4f5795a2bb3afef8882025d05fde86a7aea3167b
+machine_hash: 2fa4c2535b0f45d80ed32694f5b0ef7e1780d118c532c04c4cc22eefc4752b46
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -78,13 +78,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]]
-- Later: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]
+- Later: 2026-07-22 · Kimi Code · [[Changes/Kimi Code/2026-07-22-send-the-session-prompt-cache-key-to-openai-and-openai-responses-providers|Send the session prompt cache key to OpenAI and OpenAI Responses providers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

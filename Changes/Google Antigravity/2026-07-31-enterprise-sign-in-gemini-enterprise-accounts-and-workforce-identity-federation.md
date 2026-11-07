@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 614ce1acc327a9d717fa1f5f04acf9f44f4aa9bf8aed2043e555ab9846d6e0a1
+machine_hash: c0629f958b76061f783b6320ce5701f4717750b665d3acc4acb5101f7d3a61ce
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
-- Later: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]
+- Later: 2026-07-31 · Kimi Code · [[Changes/Kimi Code/2026-07-31-preserve-the-assistant-s-partial-output-when-a-turn-is-interrupted-with-esc-and|Preserve the assistant's partial output when a turn is interrupted with Esc…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

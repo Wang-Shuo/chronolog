@@ -5,19 +5,20 @@ description: 'OpenClaw · 2026-10-12 · Collaboration: Home notifications. Creat
   many chats no longer fills Home''s notification queue with a separate notice for
   each one…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1237
+  lag_days: 2831
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 96ec66fb6e1d8cd6bfe50afbaeed00ee86f85d84e4e46f3e93121657d5c3072f
+machine_hash: 265d3bc8a6df2d16518a6efddf0d6f305636b3422dc5bcfc0a5d8df67776eb39
 product: openclaw
 product_name: OpenClaw
 record:
@@ -99,13 +100,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration changes in v2026.10.1]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Later: 2026-10-13 · HeyGen · [[Changes/HeyGen/2026-10-13-voices-page|Voices page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

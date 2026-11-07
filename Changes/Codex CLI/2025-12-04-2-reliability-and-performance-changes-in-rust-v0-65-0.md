@@ -4,20 +4,20 @@ date: '2025-12-04'
 description: 'Codex CLI · 2025-12-04 · Reliability and Performance: 2 changes in 0.65.0
   — Better resume UX (#7302, #7303): Added a /resume slash command and improved resume…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2572
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f1f3d1c84f44be89ca8f40a3ff80ee42ed17ec74734390c454c2ab383406943
+machine_hash: 9ec3ccb820cb2cc69d2eed9d33e0f59a7cf6a8ab2cd499e97e1306329120d35d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
-  Fixes]]'
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
+- '[[Changes/HeyGen/2025-11-29-if-you-re-scaling-content-globally-you-now-have-clear-options-speed-when-you-nee|If
+  you''re scaling content globally, you now have clear options]]'
+- '[[Changes/HeyGen/2025-12-01-a-faster-cleaner-editing-experience|A faster, cleaner
+  editing experience]]'
 - '[[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4
   Reliability and Performance changes in v0.6.41]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
@@ -88,13 +88,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4 Reliability and Performance changes in v0.6.41]]
-- Later: 2025-12-04 · Ollama · [[Changes/Ollama/2025-12-04-qwen3-next-https-ollama-com-library-qwen3-next-the-first-installment-in-the-qwen|Qwen3-Next((source link) The first installment…]]
+- Later: 2025-12-04 · Descript · [[Changes/Descript/2025-12-04-get-a-creative-plan-before-underlord-starts-editing|Get a creative plan before Underlord starts editing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

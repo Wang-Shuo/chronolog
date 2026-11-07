@@ -5,20 +5,19 @@ description: 'Replit · 2025-05-30 · Editor Experience: The GitHub integration 
   features a cleaner, more cohesive interface. The refreshed design makes connecting
   and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 808
+  lag_days: 2392
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4c233da6338fe3c3b2094175755b24120e083538febdbcd70bcdcc5f3c8f0463
+machine_hash: 25e522b57cda359ec8780c8c680836844f2dd9729fbc274a416802f8f5e8947b
 product: replit
 product_name: Replit
 record:
@@ -49,7 +48,8 @@ record:
   title: Unified GitHub tab refresh
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
+- '[[Changes/Descript/2025-05-28-starting-today-you-can-try-out-the-new-underlord-available-in-labs-it-s-no-longe|New
+  in Labs—the new Underlord]]'
 - '[[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve
   upgraded the AI moderation in the editor]]'
 - '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience changes in v0.84.0]]
-- Later: 2025-06-06 · Replit · [[Changes/Replit/2025-06-06-visual-editor-image-management|Visual Editor image management]]
+- Later: 2025-06-05 · Descript · [[Changes/Descript/2025-06-05-improved-filler-word-removal-avoid-harsh-cuts|Improved filler word removal—Avoid harsh cuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

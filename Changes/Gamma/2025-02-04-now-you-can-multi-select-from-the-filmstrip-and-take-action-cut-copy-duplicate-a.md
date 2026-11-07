@@ -4,20 +4,20 @@ date: '2025-02-04'
 description: 'Gamma · 2025-02-04 · Reliability and Performance: Now you can multi-select
   from the filmstrip and take action—cut, copy, duplicate, add a card, export, or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 782
+  lag_days: 2269
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3585a940ddac22232d55b1f68f2e966d665b319fed87cbd46bad5a7e3b3b9000
+machine_hash: 4b5526a3349ebb9c2683034ce9585ec0bc9cc357031fb4274369d7cac1233444
 product: gamma
 product_name: Gamma
 record:
@@ -43,11 +43,11 @@ record:
   title: Updated Filmstrip Experience
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
 - '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
   optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These
+  upgrades also bring faster text-to-speech generation, and add support…]]'
 source_release: '[[Releases/Gamma/gamma-2025-02-04-67a28d02934c6b693068dc12-c125d2ec|gamma-2025-02-04-67a28d02934c6b693068dc12-c125d2ec]]'
 source_type: gamma_changelog
 theme: reliability-performance
@@ -74,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-24 · Replit · [[Changes/Replit/2025-01-24-better-zips|Better Zips]]
+- Earlier: 2025-02-04 · Descript · [[Changes/Descript/2025-02-04-these-upgrades-also-bring-faster-text-to-speech-generation-and-add-support-for-c|These upgrades also bring faster text-to-speech generation, and add support…]]
 - Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-code-interpreter-stability-with-custom-functions-addressed-failures-when-using-t|💻 Code Interpreter Stability with Custom Functions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

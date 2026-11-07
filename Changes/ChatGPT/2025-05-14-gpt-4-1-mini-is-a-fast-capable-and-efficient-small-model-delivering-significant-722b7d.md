@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fd2f78cda385c83270afe8a436ac4ee363c2077bb1bb6ef183f083d06eef8da4
+machine_hash: ed0b592a29328dcbb4d82cf66a32ef791504a5c01441b01ac03330ae14564baa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,10 +76,10 @@ record:
   title: Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
-  Gemini in OpenRouter/Cline providers to use implicit caching]]'
 - '[[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled
   prompt caching for claude-3.7-sonnet model through OpenRouter]]'
+- '[[Changes/Notion/2025-05-13-chat-directly-with-the-latest-ai-models|Chat directly
+  with the latest AI models]]'
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
   GPT-4.1 in ChatGPT for all paid users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0|chatgpt-2025-05-14-introducing-gpt-4-1-mini-replacing-gpt-4o-mini-in-chatgpt-for-al-05dfeae0]]'

@@ -4,20 +4,20 @@ date: '2024-01-19'
 description: 'Dify · 2024-01-19 · Automation and Scheduling: As per the planned schedule,
   these deprecated envs are being removed:'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 17
+  lag_days: 1584
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 4748e3f9b4de1be8a5cc1790da70e1d73c928b03b0b69c149aa6db187f0f728f
+machine_hash: 8c8dc4ef214b7c70dd52116ee9173233c055f26f13d7103d5616a290a8a40fac
 product: dify
 product_name: Dify
 record:
@@ -43,6 +43,7 @@ record:
   title: As per the planned schedule, these deprecated envs are being removed
   type: change
 related_changes:
+- '[[Changes/Notion/2023-11-14-stay-in-the-loop-on-projects|Stay in the loop on projects]]'
 - '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
   data clean schedule]]'
 - '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
@@ -79,13 +80,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]]
-- Later: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
+- Later: 2024-02-26 · Notion · [[Changes/Notion/2024-02-26-automate-with-database-buttons|Automate with database buttons]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

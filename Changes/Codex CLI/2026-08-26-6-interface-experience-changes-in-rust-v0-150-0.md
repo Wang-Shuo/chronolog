@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Interface Experience: 6 changes in 0.150.0
   — `/copy` now offers a picker for full responses, individual code blocks, and blockquotes…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1325
+  lag_days: 2691
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 899ca2297cc44cfdd8e799aff38e660e4c97cf067e935a3b0495774014010381
+machine_hash: ab65a487ccdd0e98fd149bf5d41ea68400114dcb67303cae444eb283e4dcb97d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Interface Experience changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and
-  cost while Lovable works]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-simplified-design-for-the-microsoft-365-copilot-app-windows-mac-web-microsoft-36|Simplified
+  design for the Microsoft 365 Copilot app Windows, Mac…]]'
 - '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
   Experience changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

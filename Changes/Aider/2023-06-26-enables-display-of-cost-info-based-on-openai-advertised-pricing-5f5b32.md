@@ -4,20 +4,20 @@ date: '2023-06-26'
 description: 'Aider · 2023-06-26 · Pricing Model: Enables display of cost info based
   on OpenAI advertised pricing.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 193
+  lag_days: 1811
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 3a8197d2ad974ce04faad1b8a07add414b4a4ece99b00250b3c4d3c50afe98c9
+machine_hash: c080f80a32fb4578963af886d2d952826a4857560ebdcdf0a5c77a6de3463446
 product: aider
 product_name: Aider
 record:
@@ -80,13 +80,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
-- Later: 2023-08-23 · Dify · [[Changes/Dify/2023-08-23-feat-record-price-unit-in-messages-by-takatost-in-https-github-com-langgenius-di|feat: record price unit in messages]]
+- Later: 2023-08-15 · Descript · [[Changes/Descript/2023-08-15-squadcast-is-now-part-of-descript-which-means-if-you-re-a-descript-subscriber-yo|Remote Recording now in Descript]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

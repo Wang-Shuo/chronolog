@@ -3,20 +3,20 @@ card_id: replit-2025-09-19-d48078
 date: '2025-09-19'
 description: 'Replit · 2025-09-19 · Enterprise and Administration: Teams and enterprise'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 868
+  lag_days: 2075
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: edd069afe0c62ae7ffd216f721b3162e2e88bfd7349a404f3e9ff9657be3e232
+machine_hash: fff80a5cb45d4e5c3b8196563556d99e4d238826369e18fcf29bc58e755d2f6f
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Teams and enterprise
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
-  Enterprise and Administration changes in v0.3.0]]'
-- '[[Changes/Open WebUI/2025-09-09-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Notion/2025-09-18-give-ai-the-context-it-needs-with-ai-connectors|Give
+  AI the context it needs with AI connectors]]'
+- '[[Changes/Notion/2025-09-18-database-row-permissions-are-here|Database row permissions
+  are here!]]'
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Earlier: 2025-09-18 · Notion · [[Changes/Notion/2025-09-18-database-row-permissions-are-here|Database row permissions are here!]]
 - Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,19 +4,20 @@ date: '2026-09-17'
 description: 'Codex CLI · 2026-09-17 · Collaboration: #44354 Extract shared footer
   hint wrapping in the TUI @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1212
+  lag_days: 2806
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b40ff393876af7ef2842fffdc8edcd804890072721a9549e7a9af156aa10d5b7
+machine_hash: d7ef46001f05ea107a3ca3f4eacda97a609888a49aa6cbd1ec1f02aa0fefc904
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +43,10 @@ record:
   title: '#44354 Extract shared footer hint wrapping in the TUI @copyberry'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
-  settings for connections]]'
-- '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
-  changes in v2026.9.4]]'
+- '[[Changes/Notion/2026-09-15-take-your-team-s-skills-to-claude-code-codex-cursor-and-more|Take
+  your team’s skills to Claude Code, Codex, Cursor, and more]]'
+- '[[Changes/Notion/2026-09-15-you-know-how-some-people-are-really-good-at-prompting-ai-or-they-ve-figured-out|You
+  know how some people are really good at prompting AI?]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-captions-redesigned|Captions, redesigned]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

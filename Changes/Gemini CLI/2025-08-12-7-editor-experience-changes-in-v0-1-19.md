@@ -4,20 +4,19 @@ date: '2025-08-12'
 description: 'Gemini CLI · 2025-08-12 · Editor Experience: 7 changes in Release v0.1.19
   — [ide-mode] Add support for in-IDE diff handling in the CLI by @chrstnb in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 882
+  lag_days: 2466
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0458d0855ed484ccdc24a2c7d755ef7dc2cad76b2f8152edb8e8a983015079e
+machine_hash: 9b2bb43e9ec71f39324eee44b992e8e0a1c9994f0aa161aad8911baee9ee4d42
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -121,7 +120,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

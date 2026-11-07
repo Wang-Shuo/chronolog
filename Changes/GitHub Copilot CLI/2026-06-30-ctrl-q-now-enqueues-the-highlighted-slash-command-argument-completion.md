@@ -4,20 +4,19 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Editor Experience: Ctrl+Q now enqueues
   the highlighted slash-command argument completion'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2788
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4deab4664b8998819db9f5fa5b970c8e4d6ef862fcf3be1da6db5a0389fff2a3
+machine_hash: 0bf976256738d873dd22b38d7ba0f2db4dfcf7c6c7eed544ff912e0899e944e3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +40,8 @@ record:
   title: Ctrl+Q now enqueues the highlighted slash-command argument completion
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The
-  editor no longer shows a false start error when a preview, dev server…]]'
+- '[[Changes/Kimi Code/2026-06-29-add-a-completion-sound-and-question-notifications-to-the-web-ui-with-separate-se|Add
+  a completion sound and question notifications to the web UI, with separate…]]'
 - '[[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor
   Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

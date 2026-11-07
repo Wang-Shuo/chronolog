@@ -4,20 +4,20 @@ date: '2026-10-20'
 description: 'Google Antigravity · 2026-10-20 · Interface Experience: 2 changes in
   HUB v2.25.0 — Plugin sidebar badges, window shortcuts, and reliability fixes — Empty…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1380
+  lag_days: 2746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48160ce89e3053a0518f0c6c58c4aff71b45597f75c247fac4a20d560e204f5d
+machine_hash: 45783b26de0ef1b2e9b105456652b7d9da0acf77c24cfa6f72ebf9b0c945a2fd
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -91,7 +91,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

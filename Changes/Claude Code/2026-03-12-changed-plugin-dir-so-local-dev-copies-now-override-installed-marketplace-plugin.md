@@ -4,20 +4,20 @@ date: '2026-03-12'
 description: 'Claude Code · 2026-03-12 · Apps and Integrations: Changed `--plugin-dir`
   so local dev copies now override installed marketplace plugins with the same name…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1085
+  lag_days: 2645
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47a25bee15f036daf7c89070dcc3765457dc023b8292761634bc213ef77f784b
+machine_hash: b3903ade02996752ab3f6f02f49d2524e428eeb0867b78399717b1d1c874d358
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Changed `--plugin-dir` so local dev copies now override installed marketplace…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps
-  and Integrations changes in v0.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4
   Apps and Integrations changes in v1.0.4]]'
+- '[[Changes/Notion/2026-03-11-notion-ai-can-now-search-your-salesforce-data-accounts-leads-opportunities-and-c|Search
+  Salesforce accounts, leads, opportunities, and contacts in Notion]]'
 - '[[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added
   one-click marketplace integration installation for iOS app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

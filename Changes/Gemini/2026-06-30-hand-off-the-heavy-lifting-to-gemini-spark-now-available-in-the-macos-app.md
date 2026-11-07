@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'Gemini · 2026-06-30 · Mobile and Desktop: What: Gemini Spark, your personal
   AI agent, is coming to the Gemini app for macOS. It helps you navigate your digital…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1204
+  lag_days: 2788
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: b4f9f7dbabba510c477a0bead4df12c579be1d1633a726e50ac01eb7df8e7db3
+machine_hash: c0e503db9e97cfb7bad2ba9d1f8e6a804f0466cb308b45d0aadb7a7b6dc52b46
 product: gemini
 product_name: Gemini
 record:
@@ -65,7 +65,8 @@ record:
   title: Hand off the heavy lifting to Gemini Spark, now available in the macOS app
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-android-sdk|Android SDK]]'
+- '[[Changes/Kimi Code/2026-06-29-in-the-bundled-web-ui-new-and-clear-are-now-aliases-that-open-the-session-onboar|In
+  the bundled web UI, /new and /clear are now aliases that open the session…]]'
 - '[[Changes/Lovable/2026-06-29-fewer-taps-to-attach-images-on-mobile|Fewer taps to
   attach images on mobile]]'
 - '[[Changes/Open WebUI/2026-06-29-4-mobile-and-desktop-changes-in-v0-10-0|4 Mobile
@@ -105,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

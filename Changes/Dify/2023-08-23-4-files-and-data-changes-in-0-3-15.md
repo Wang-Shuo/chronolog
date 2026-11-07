@@ -4,20 +4,20 @@ date: '2023-08-23'
 description: 'Dify · 2023-08-23 · Files and Data: 4 changes in Version 0.3.15 — Feat/customizable
   file upload config by @MatriQ in https://github.com/langgenius/dify/pull/818'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 90
+  lag_days: 1435
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0f009c3602adaeaad98729809820e6c7939d9b35ac622b3fa8b61cdb802c547
+machine_hash: fa74e4ce54f3a79a0527c98f294289e0869eda829fdc2d514ab39e88cf2e2864
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Files and Data changes in 0.3.15
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-06-07-bard-codes-for-you-for-improved-math-and-data-analysis|Bard
-  codes for you for improved math and data analysis]]'
 - '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
   interpreter is now rolling out in beta on web]]'
 - '[[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add
   document limit check]]'
+- '[[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order
+  & hiding layers]]'
 source_release: '[[Releases/Dify/dify-2023-08-23-0-3-15-github-118361476-4ef25097|dify-2023-08-23-0-3-15-github-118361476-4ef25097]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +91,14 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-07-17 · Dify · [[Changes/Dify/2023-07-17-add-document-limit-check-by-johnjyong-in-https-github-com-langgenius-dify-pull-5|add document limit check]]
+- Earlier: 2023-07-24 · Descript · [[Changes/Descript/2023-07-24-canvas-layer-order-hiding-layers|Canvas layer order & hiding layers]]
 - Later: 2023-08-31 · Dify · [[Changes/Dify/2023-08-31-document-limit-by-johnjyong-in-https-github-com-langgenius-dify-pull-999|document limit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

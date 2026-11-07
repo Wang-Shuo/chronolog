@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-08-14 · Interface Experience: **\U0001F3A8 Enh
   Markdown Rendering**: Significant improvements in rendering markdown, ensuring smooth
   and reliable…"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 583
+  lag_days: 1949
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7058c5de85f40ac0a850b6f3d299fb56b198a6b644828d6f89e35af85aabfb13
+machine_hash: 3d7c74fa26052a61fb6f8a22eb36219c32f44b97740d51ac68f08cce717cfcf4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: "**\U0001F3A8 Enhanced Markdown Rendering**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface
-  Experience changes in v0.3.11]]'
 - '[[Changes/Open WebUI/2024-08-07-3-interface-experience-changes-in-v0-3-12|3 Interface
   Experience changes in v0.3.12]]'
+- '[[Changes/Descript/2024-08-14-the-title-field-has-been-added-back-to-compositions-so-you-can-update-the-title|The
+  Title field has been added back to Compositions so you can update the title…]]'
 - '[[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience
   changes in 0.7.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e|open-webui-2024-08-14-v0-3-13-github-170247356-9f5f681e]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

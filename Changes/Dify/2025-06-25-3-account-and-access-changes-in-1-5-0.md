@@ -4,20 +4,21 @@ date: '2025-06-25'
 description: 'Dify · 2025-06-25 · Account and Access: 3 changes in v1.5.0 — **Smart
   Login Redirects:** Intelligent user navigation with automatic login redirects (#21096…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 818
+  lag_days: 1793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41d05a9118d3408379da784ad4c94005a44d5d2c42877707b46d18741465c265
+machine_hash: c7e3783193fa28d19c6f540dc74585cf890bbd70be795c20ba565b17fed1a4c2
 product: dify
 product_name: Dify
 record:
@@ -99,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

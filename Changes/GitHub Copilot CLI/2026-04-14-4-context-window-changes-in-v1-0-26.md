@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-04-14 · Context Window: 4 changes in 1
   — Agent sessions no longer fail with unrecoverable errors when context compaction
   splits…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1076
+  lag_days: 2400
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a4b43a3a851223bc0bd59af878d91e910805d922301788bd941ff4919467192
+machine_hash: 022537ecf6f5fdad4e383bfc4fd7c59760daf182c26de1e3e4d2bf5cfa0880ca
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

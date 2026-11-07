@@ -4,20 +4,20 @@ date: '2024-03-12'
 description: 'Dify · 2024-03-12 · Mobile and Desktop: 2 changes in v0.5.9 — Added
   Twilio tool for sending text and WhatsApp messages by @Yash-1511 #2700'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 364
+  lag_days: 1948
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67378e37cd7361dcf7a615eaef07afade6deaf74624ba309e8b7a545dff074dd
+machine_hash: e59c5af0af1d132e3267fa6d8a99302b3ebb24a720a14ebc4f585c05c00efafe
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in 0.5.9
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-22-reduced-likelihood-of-false-positive-windows-defender-alerts-on-windows|Reduced
-  likelihood of false positive Windows Defender alerts on Windows]]'
+- '[[Changes/Notion/2024-02-26-take-actions-from-mobile-notifications|Take actions
+  from mobile notifications]]'
 - '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
   Desktop changes in v0.1.28]]'
 - '[[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.9
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

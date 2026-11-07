@@ -4,20 +4,20 @@ date: '2024-04-08'
 description: 'Dify · 2024-04-08 · Pricing Model: add segment function billing check
   for SAAS env by @JohnJyong in https://github.com/langgenius/dify/pull/3082'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 480
+  lag_days: 2098
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cb1be7e0bc201c04f00ef41012ee60b972767f0a286309a333d8b516714d72d7
+machine_hash: dfcf95cebc9b606abaa32a9b3251fbe638daf6078f615ced399a0b76a6577279
 product: dify
 product_name: Dify
 record:
@@ -84,13 +84,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit spend history table in user settings]]
-- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes in 0.6.9]]
+- Later: 2024-04-09 · Descript · [[Changes/Descript/2024-04-09-sales-tax-on-subscription-and-transcription-fees|Sales Tax on Subscription and Transcription fees]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

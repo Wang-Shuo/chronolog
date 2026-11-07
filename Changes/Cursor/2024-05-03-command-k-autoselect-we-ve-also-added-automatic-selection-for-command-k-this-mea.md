@@ -4,20 +4,20 @@ date: '2024-05-03'
 description: 'Cursor · 2024-05-03 · Interface Experience: Command-K Autoselect: We''ve
   also added automatic selection for Command-K! This means you can now press Command-K…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 480
+  lag_days: 1846
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ee6f201e6042f4bc9641ec7a8c4340d17486d84f6a353b9932235ebf84f1990
+machine_hash: 00a8b68ec04e23d89697e9e23f6c6137c5b290229dd8648bdebde5e3c92aef7f
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,8 @@ record:
   title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-21-archive-chat-feature-easily-archive-chats-with-a-new-sidebar-button-and-access-a|\U0001F4E6
-  Archive Chat Feature]]"
-- "[[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|\U0001F4E6
-  Archived Chat Styling: Fixed styling issues in archived chat]]"
+- '[[Changes/Notion/2024-04-30-a-lighter-new-page-experience|A lighter new page experience]]'
+- '[[Changes/Notion/2024-04-30-customize-sidebar-sections|Customize sidebar sections]]'
 - "[[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|\U0001F50D
   Scroll Gesture Bug]]"
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
@@ -83,13 +81,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|🔍 Scroll Gesture Bug]]
-- Later: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|🖼️ Improved Chat Sidebar]]
+- Later: 2024-05-07 · Descript · [[Changes/Descript/2024-05-07-speaker-labeling-update-coming-soon|Speaker Labeling Update Coming Soon]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

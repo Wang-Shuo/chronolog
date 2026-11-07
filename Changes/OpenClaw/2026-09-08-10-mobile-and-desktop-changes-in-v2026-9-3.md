@@ -4,20 +4,20 @@ date: '2026-09-08'
 description: 'OpenClaw · 2026-09-08 · Mobile and Desktop: 10 changes in v2026.9.3
   — Available create-capable CLI agents appear by default, subject to terminal availability…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1274
+  lag_days: 2858
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b310df89d8b4a20b6023d3a362b202ae3a312bd02177ae6920a7d6007c2559d
+machine_hash: 3566f0aa107b1fa5144353c7ee4daf3a930ddf22ada9d542e220ce5d73461bcf
 product: openclaw
 product_name: OpenClaw
 record:
@@ -93,10 +93,10 @@ record:
   title: 10 Mobile and Desktop changes in v2026.9.3
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
-  Increase the open-in app icon size for better visibility]]'
 - '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
   and Desktop changes in v2026.9.2]]'
+- '[[Changes/Qoder/2026-09-05-installer-better-process-detection-and-install-recovery-on-windows|Installer:
+  Better process detection and install recovery on Windows]]'
 - '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
   a sketch into an image]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-08-v2026-9-3-dfcfef48|openclaw-2026-09-08-v2026-9-3-dfcfef48]]'
@@ -168,13 +168,13 @@ Source: https://docs.openclaw.ai/releases/2026.9.3
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
-- Later: 2026-09-08 · Windsurf · [[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]
+- Later: 2026-09-08 · Qoder · [[Changes/Qoder/2026-09-08-mobile-remote-control-once-enabled-you-can-use-your-phone-to-create-and-run-task|Mobile Remote Control]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

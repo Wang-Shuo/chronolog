@@ -4,19 +4,20 @@ date: '2026-10-18'
 description: 'OpenClaw · 2026-10-18 · Developer Workflow: 2 changes in v2026.10.5
   — This release covers 2,250 pull requests, 411 direct commits, and 637 contributors.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1310
+  lag_days: 2959
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc70a72aeac07b1170bbca2b1d7906860febbc58fcf685064c72d0a2321275ed
+machine_hash: ee79d9629b4871f2a51825601a099588aa7d10d9b23a0fb8042aea5d7d26113c
 product: openclaw
 product_name: OpenClaw
 record:
@@ -96,7 +97,7 @@ Source: https://docs.openclaw.ai/releases/2026.10.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

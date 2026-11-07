@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'Claude Code · 2026-05-14 · Safety and Privacy: Added new `claude agents`
   flags: `--add-dir`, `--settings`, `--mcp-config`, `--plugin-dir`, `--permission-mode`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1124
+  lag_days: 2116
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c27774bfe4b7b1a37f19c875e3e9cb81e6581deae914f887fd72d4f2e76ce255
+machine_hash: dc90e0dd58c84cf6664c18703c142d177f84b6edec21eb067ac6ce2a01aa9436
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,9 @@ record:
   title: Added new `claude agents` flags
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
-  and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
   governance and security controls]]'
+- '[[Changes/Notion/2026-05-13-meet-your-notion-workers|Meet your Notion Workers]]'
 - '[[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core
   Preserve layered permission rule order in config merges]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
@@ -106,7 +105,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

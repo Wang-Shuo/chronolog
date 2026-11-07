@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5c297bea1a41bad138f0bbec4df70f2ecc4d2350958f2845b4f62498a21123aa
+machine_hash: d3aa9c0645955625183b6e8431a9185b03f5ab03cf2ac41b926c65f8173e62ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core Improve skill presentation to agent to increase likelihood of skill invocations]]
-- Later: 2026-03-13 · Replit · [[Changes/Replit/2026-03-13-agent|Agent]]
+- Later: 2026-03-13 · HeyGen · [[Changes/HeyGen/2026-03-13-you-can-now-select-a-style-before-generating-a-video-in-video-agent-giving-you-c|Select a Style before generating a video in Video Agent, giving you control over…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

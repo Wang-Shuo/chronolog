@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-07-02 · Apps and Integrations: Stacked slash-
   invocations like `/skill-a /skill-b do XYZ` now load all leading skills (up to 5),
   not…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1197
+  lag_days: 2757
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19fe7a4b13f0806caa9f66660d6ade46de2b36fa66209a514a1381f0e9de7638
+machine_hash: 795044c093536d79cbe455b1a64f5c2d7377bd6cbff1ec3911a61afbf8931a8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     all leading…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
-  in Chrome is now generally available]]'
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
   Apps and Integrations changes in v1.0.68]]'
+- '[[Changes/Kimi Code/2026-07-01-plugins-can-now-provide-slash-commands-via-a-commands-field-in-their-manifest-re|Plugins
+  can now provide slash commands via a commands field in their manifest…]]'
+- '[[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new
+  MCP connections for Custom Agents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
+- Earlier: 2026-07-01 · Notion · [[Changes/Notion/2026-07-01-five-new-mcp-connections-for-custom-agents|Five new MCP connections for Custom Agents]]
 - Later: 2026-07-02 · Lovable · [[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

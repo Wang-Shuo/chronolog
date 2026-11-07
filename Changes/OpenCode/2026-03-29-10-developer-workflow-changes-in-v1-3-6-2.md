@@ -4,19 +4,20 @@ date: '2026-03-29'
 description: 'OpenCode · 2026-03-29 · Developer Workflow: 10 changes in v1.3.6 + 2
   — Core Adjust bash tool description to increase cache hit rates between projects'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 2756
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7e210fd5f63201aa9728e63f71000be37545b417b1a47ab2b503748ca977e4a
+machine_hash: ee204c0cc2222ffcea9d3ff3ac3d022c91e65b11dec7ccc9f1cbb161d492184b
 product: opencode
 product_name: OpenCode
 record:
@@ -126,7 +127,7 @@ Source: https://opencode.ai/changelog/v1.3.6
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

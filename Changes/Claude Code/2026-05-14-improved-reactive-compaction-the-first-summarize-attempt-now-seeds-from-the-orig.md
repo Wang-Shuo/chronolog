@@ -4,20 +4,20 @@ date: '2026-05-14'
 description: 'Claude Code · 2026-05-14 · Context Window: Improved reactive compaction:
   the first summarize attempt now seeds from the original request''s overflow size…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 2430
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1dfac8d60a09cfdabc6c1f022273aaddb210b4916dac6fac447c938b48a332b8
+machine_hash: a4d5c42958b59021fe1522a27a5249a2c5db7005b81886729e9b8502451c8d7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,8 @@ record:
   title: Improved reactive compaction
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
-  menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/Notion/2026-05-13-sync-any-data-source-beta|Sync any data source (Beta)]]'
 - '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
   Keep recent turns after compaction instead of folding them into the summary]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core Keep recent turns after compaction instead of folding them into the summary]]
-- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context shows correct token limits for all models instead of always showing 128k]]
+- Later: 2026-05-14 · Descript · [[Changes/Descript/2026-05-14-underlord-updates-context-chat-history-and-improved-edit-review|Underlord updates—context, chat history, and improved edit review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

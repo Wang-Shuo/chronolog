@@ -5,20 +5,21 @@ description: 'Lovable · 2026-07-24 · Account and Access: Trust and Safety requ
   now go through structured forms at [lovable.dev/abuse](https://lovable.dev/abuse)
   instead…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1212
+  lag_days: 2187
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c31e1b4b5ee7fc8ff93889eeb0a26f0f97bc3a9ea60b93d0fab6918325f15578
+machine_hash: 757dfa3bc6a6e77b0b6185c3f755389910b745a6347b297fb5fc0702f6ff27ef
 product: lovable
 product_name: Lovable
 record:
@@ -63,12 +64,12 @@ record:
   title: Report abuse and submit appeals with guided forms
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
 - '[[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9
   Account and Access changes in rust-v0.145.0]]'
 - '[[Changes/v0/2026-07-21-2-account-and-access-changes-in-slash-commands-the-shopify|2
   Account and Access changes in Slash commands, the Shopify…]]'
+- '[[Changes/Kimi Code/2026-07-24-add-environment-variables-to-configure-the-web-search-and-web-fetch-services-wit|Add
+  environment variables to configure the web search and web fetch services without…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-24-2026-07-24-b0f18b89|lovable-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: lovable_changelog
 theme: account-access
@@ -98,14 +99,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-2-account-and-access-changes-in-slash-commands-the-shopify|2 Account and Access changes in Slash commands, the Shopify…]]
+- Earlier: 2026-07-24 · Kimi Code · [[Changes/Kimi Code/2026-07-24-add-environment-variables-to-configure-the-web-search-and-web-fetch-services-wit|Add environment variables to configure the web search and web fetch services without…]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account and Access changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

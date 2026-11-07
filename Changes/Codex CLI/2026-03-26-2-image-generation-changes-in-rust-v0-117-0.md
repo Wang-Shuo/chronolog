@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Image Generation: 2 changes in 0.117.0 — Image
   workflows got smoother: `view_image` now returns image URLs for code mode, generated…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 746
+  lag_days: 1004
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec7cdb22f72d365e4d6076c0815375da4355b0fa7a4b0d69bd9bf3678093231c
+machine_hash: ff9465a64f5aeaf372b7249135279a236e059c82c8cfcca0f598256ae15e630c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Image Generation changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-03-16-image-generation-updates|Image generation updates]]'
 - '[[Changes/v0/2026-03-16-added-image-generation-capability-to-the-plan-agent|Added
   image generation capability to the Plan agent]]'
+- '[[Changes/Descript/2026-03-17-generated-avatar-images-are-now-saved-in-your-project-files|Generated
+  avatar images are now saved in your project files]]'
 - "[[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|\U0001F50D
   RAG query generation robustness. The RAG query generation, web search…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
@@ -99,13 +100,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|🔍 RAG query generation robustness. The RAG query generation, web search…]]
-- Later: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and AI-generated images in Library]]
+- Later: 2026-03-26 · Notion · [[Changes/Notion/2026-03-26-generate-images-charts-slides-diagrams|Generate images, charts, slides, diagrams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

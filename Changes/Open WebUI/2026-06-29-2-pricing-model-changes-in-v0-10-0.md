@@ -4,20 +4,20 @@ date: '2026-06-29'
 description: 'Open WebUI · 2026-06-29 · Pricing Model: 2 changes in v0.10.0 — ⚡ **Hidden
   tool-call details cost nothing.** When tool-call arguments are collapsed, they are…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1292
+  lag_days: 2910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d99f90998b9e69f40bef465bb742b30c410df3b2b2cb62df648325ac584521b
+machine_hash: 922a47dc8cddcdad311927a7e9d7293780e5c036e3bcdcbaed849499a6fb760b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Pricing Model changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-25-let-lovable-debug-and-improve-your-app-s-ai-features|Let
-  Lovable debug and improve your app''s AI features]]'
 - '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
   ClinePass to the VS Code extension, including onboarding, provider selection…]]'
+- '[[Changes/Kimi Code/2026-06-26-reduce-streaming-redraw-cost-for-long-assistant-messages-with-code-blocks|Reduce
+  streaming redraw cost for long assistant messages with code blocks]]'
 - '[[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2
   Pricing Model changes in Platform API v2, MCP chat tools…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

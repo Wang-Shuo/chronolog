@@ -4,20 +4,20 @@ date: '2025-03-11'
 description: 'Cursor · 2025-03-11 · Reliability and Performance: 5 changes in Reliability,
   Keyboard Shortcuts & Early access opt-in — Memory Usage and Performance: The new…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 817
+  lag_days: 2304
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac175b8ab366c31585766d078d8ca522b98763d75e0fc18e49f0d93d9f6baa66
+machine_hash: 4b774d5da9b5e5de1f7e69a00f999463b56f881079d19dffc24ef27f490afb85
 product: cursor
 product_name: Cursor
 record:
@@ -104,13 +104,13 @@ Source: https://cursor.com/changelog/0-47-x
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-general-reliability-enhancements-various-stability-improvements-across-the-webui|⚙️ General Reliability Enhancements]]
-- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability & Reliability]]
+- Later: 2025-03-11 · Descript · [[Changes/Descript/2025-03-11-local-file-storage|Local file storage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

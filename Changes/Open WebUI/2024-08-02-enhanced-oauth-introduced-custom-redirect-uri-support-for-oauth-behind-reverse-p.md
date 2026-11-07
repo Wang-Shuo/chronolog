@@ -5,20 +5,21 @@ description: "Open WebUI · 2024-08-02 · Account and Access: **\U0001F512 Enhan
   OAuth**: Introduced custom redirect URI support for OAuth behind reverse proxies,
   enabling safer…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 491
+  lag_days: 1466
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0f1131452e5e1ce770262912ae3bda688778c7317eb35febb6e4286268ded639
+machine_hash: db19f2769e6e866c02a1d215215dfb6cb09a27193792f768e94750736d762c3f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +47,7 @@ record:
   title: "**\U0001F512 Enhanced OAuth**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-feat-api-auth-switch-to-stateful-authentication-by-laipz8200-in-https-github-com|feat(api/auth):
-  switch-to-stateful-authentication]]'
+- '[[Changes/Descript/2024-07-02-embedded-video-authentication|Embedded Video Authentication]]'
 - '[[Changes/Dify/2024-07-08-chore-action-move-docker-login-above-set-up-qemu-in-build-push-action-workflow-b|chore(action):
   move docker login above Set up QEMU in build-push action workflow]]'
 - "[[Changes/Open WebUI/2024-07-09-custom-environment-for-openid-claims-allows-setting-custom-claims-for-openid-pro|\U0001F6E0️
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

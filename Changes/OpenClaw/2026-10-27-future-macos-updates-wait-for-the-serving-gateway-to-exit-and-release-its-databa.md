@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenClaw · 2026-10-27 · Mobile and Desktop: Future macOS updates wait
   for the serving Gateway to exit and release its databases before running Doctor.'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2907
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59bc0133c4ecbcf3795a5bb1c33e59e782145017df01a6a9b83af12b5ab587d8
+machine_hash: e2efa6df0dbbde76c83006b68599607ca6332400c2feb1ce4f4ade1afbcb9f11
 product: openclaw
 product_name: OpenClaw
 record:
@@ -43,12 +43,12 @@ record:
     databases…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
-  macOS, banners at the top of the window no longer interfere with the window controls]]'
-- '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You
-  can learn more about how ChatGPT uses connected apps here]]'
 - '[[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen
   side panel tabs you closed, at their previous position and scroll point…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-new-copilot-notebooks-design-in-the-microsoft-copilot-app-ios-ios-microsoft-365|New
+  Copilot Notebooks design in the Microsoft Copilot App (iOS)…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-10-27-copilot-settings-in-classic-outlook-for-windows-windows-outlook|Copilot
+  Settings in classic Outlook for Windows Windows (Outlook)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|openclaw-2026-10-27-v2026-10-8-9d674f40]]'
 source_type: openclaw_changelog
 theme: mobile-desktop
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen side panel tabs you closed, at their previous position and scroll point…]]
+- Earlier: 2026-10-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-27-copilot-settings-in-classic-outlook-for-windows-windows-outlook|Copilot Settings in classic Outlook for Windows Windows (Outlook)]]
 - Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-73-mobile-and-desktop-changes-in-v2-2-0|73 Mobile and Desktop changes in v2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

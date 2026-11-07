@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Claude Code · 2026-09-23 · Interface Experience: 4 changes in v2.1.281
   — Improved keyboard navigation in tabbed dialogs such as `/permissions` and `/usage`…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1353
+  lag_days: 2719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd46f854b507c5af12f3a73d7fef3451ba3177df4d0bee0bd34c9fbcdb275b15
+machine_hash: 62ed788c209f34a72a5f27891ba2dccd896f0fe62258c131892be12a342c0fc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,13 +104,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4 Interface Experience changes in HUB v2.17.0 — Plan before you build]]
-- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on your phone]]
+- Later: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-3-interface-experience-changes-in-kimi-code-2-1-0|3 Interface Experience changes in Kimi Code 2.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

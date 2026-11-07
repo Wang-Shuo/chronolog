@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 001ff26c67f17eedfdcb7a2e08efbaf6edcfa7d1e2602b4d13625eaa54408360
+machine_hash: 237a7f96bc14bc519367f263873ac9fc91e756bea57853888f521bce47fadf50
 product: cursor
 product_name: Cursor
 record:
@@ -115,7 +115,7 @@ Source: https://cursor.com/changelog/sdk-updates-jun-2026
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With canvases, agents can create interactive artifacts like dashboards, reports…]]
-- Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
+- Later: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-users-now-can-prepare-several-goals-for-the-agent-to-work-on-sequentially-the-ag|Users now can prepare several goals for the agent to work on sequentially]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

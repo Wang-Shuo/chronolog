@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Interface Experience: 3 changes in v2026.6.11
   — Discord and Telegram replies and mirrored chat history stay tied to the intended…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2634
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: facfda6045021ffe311fc9eec9ce60035461fdb2cdb08497893fe5155cb33464
+machine_hash: a329c3a9c784b978e9debeb676170e1a1e7d08aa4f4dfa4d41915c3575644d0f
 product: openclaw
 product_name: OpenClaw
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v2026.6.11
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully
-  remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]'
+- '[[Changes/Kimi Code/2026-06-29-2-interface-experience-changes-in-kimi-code-0-20-2|2
+  Interface Experience changes in Kimi Code 0.20.2]]'
 - '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
   Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
@@ -118,7 +118,7 @@ Source: https://docs.openclaw.ai/releases/2026.6.11
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

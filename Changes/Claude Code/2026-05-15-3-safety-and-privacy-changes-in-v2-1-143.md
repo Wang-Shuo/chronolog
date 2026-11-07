@@ -4,20 +4,20 @@ date: '2026-05-15'
 description: 'Claude Code · 2026-05-15 · Safety and Privacy: 3 changes in v2.1.143
   — PowerShell tool now passes `-ExecutionPolicy Bypass`. Opt out with…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1125
+  lag_days: 2117
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bf9b7aa0f90a26f2a906af15fadc635a0e872a920b33ec1113d97761bb4fc03
+machine_hash: 1b5346603a8a520ff0f295d54d548d48b7a7cc7f87b91eec359d0c92a5395c9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Safety and Privacy changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
-  governance and security controls]]'
+- '[[Changes/Notion/2026-05-13-meet-your-notion-workers|Meet your Notion Workers]]'
 - '[[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core
   Preserve layered permission rule order in config merges]]'
 - '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
@@ -101,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

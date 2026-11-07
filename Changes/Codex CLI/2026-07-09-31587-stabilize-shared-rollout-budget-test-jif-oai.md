@@ -4,19 +4,20 @@ date: '2026-07-09'
 description: 'Codex CLI · 2026-07-09 · Collaboration: #31587 Stabilize shared rollout
   budget test @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2736
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a57f668b707f0cd9f4d1a7e63bf6b722d40841a5951543b2f6136f402768ef33
+machine_hash: 36461edaf50e7353f9c81947104501689fe9689506e88edb7809c0a144662500
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +42,10 @@ record:
   title: '#31587 Stabilize shared rollout budget test @jif-oai'
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
-  Collaboration changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration
   changes in rust-v0.143.0]]'
+- '[[Changes/HeyGen/2026-07-08-2-collaboration-changes-in-july-2026-enterprise-releases|2
+  Collaboration changes in July 2026 Enterprise Releases]]'
 - '[[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing
   group chats will remain available and can continue to be used for now]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -90,13 +91,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
-- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]
+- Later: 2026-07-09 · Notion · [[Changes/Notion/2026-07-09-you-can-now-share-your-notion-workers|Share your Notion Workers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

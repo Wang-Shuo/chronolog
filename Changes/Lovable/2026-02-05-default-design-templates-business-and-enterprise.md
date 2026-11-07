@@ -5,20 +5,20 @@ description: 'Lovable · 2026-02-05 · Enterprise and Administration: Set a defa
   [design template](https://docs.lovable.dev/features/business/design-templates.md)
   for your…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1007
+  lag_days: 2214
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b308cecc215c1e0a305554d812f55e3baaefaa2e5891f3eb8488653aa429346c
+machine_hash: 221f705b58c88bd6ee7576840f6531f498e9711a94e8a18096c4c5039e8aa78c
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Default design templates (Business and Enterprise)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-add-support-for-github-enterprise-cloud-ghe-com-in-delegate-command|Add
-  support for GitHub Enterprise Cloud (\.ghe.com) in /delegate command]]'
+- '[[Changes/Microsoft 365 Copilot/2026-01-27-copilot-icon-visibility-in-microsoft-edge-web-microsoft-365-copilot-chat|Copilot
+  icon visibility in Microsoft Edge Web (Microsoft 365 Copilot Chat)]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-admin-implement-admin-controls-polling-and-restart-prompt-by-skeshive-in-ht|feat(admin):
   implement admin controls polling and restart prompt]]'
 - '[[Changes/Dify/2026-02-03-2-enterprise-and-administration-changes-in-1-12-0|2 Enterprise
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

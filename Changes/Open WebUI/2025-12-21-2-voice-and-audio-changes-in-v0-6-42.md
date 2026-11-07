@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-12-21 · Voice and Audio: 2 changes in v0.6.42 
   Audio file upload failures caused by MIME type matching issues with spacing variations
   and…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 895
+  lag_days: 2722
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 361c72b67b876fcc44044cdaf695bed0d78b2d324f6247a54169f711b802c83c
+machine_hash: 9d7e2b3910cc15200a971800ba70e5d4e9ba9e93c0031a974aad44f1c2a94424
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,10 @@ record:
   title: 2 Voice and Audio changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]'
 - '[[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native
   audio support for the agent]]'
+- '[[Changes/HeyGen/2025-12-18-voice-doctor-is-a-chat-based-workflow-for-fixing-the-issues-you-only-notice-afte|Introducing
+  Voice Doctor]]'
 - '[[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New
   Audio Features]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
@@ -110,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

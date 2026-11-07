@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 676257b19f7c932a425a9403c6c717d5a41087f1b654cab465275196289ce6bf
+machine_hash: eeb8acf1ff0a32d5e2564c1f178125a8bf07223b20617ea4171f0ec2f2f2ed62
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: Team members with v0 edit access can manage team skills and memories without…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
-  Memory and Personalization changes in v0.10.0]]'
 - '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
   Memory and Personalization changes in v2026.6.11]]'
 - '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
   Memory and Personalization changes in v0.10.2]]'
+- '[[Changes/Kimi Code/2026-07-02-release-pasted-images-and-streaming-timers-once-they-are-no-longer-shown-so-memo|Release
+  pasted images and streaming timers once they are no longer shown, so memory…]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'
 source_type: v0_changelog
 theme: memory
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2 Memory and Personalization changes in v0.10.2]]
+- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-release-pasted-images-and-streaming-timers-once-they-are-no-longer-shown-so-memo|Release pasted images and streaming timers once they are no longer shown, so memory…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2 Memory and Personalization changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

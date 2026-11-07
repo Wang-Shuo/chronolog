@@ -5,19 +5,20 @@ description: "Open WebUI · 2025-09-25 · Developer Workflow: 2 changes in v0.6.
   \U0001F50D Search modal was enhanced with quick action buttons for starting new
   conversations and…"
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 922
+  lag_days: 2571
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d753207da4f5637829d92f21db0f2d178a61c6d26769daafac22c4536acb5409
+machine_hash: 25ceeca2ab028e2a12cf70bb4cc0d9a98c99488c9197d632312adb2178fbe922
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.31
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

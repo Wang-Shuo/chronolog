@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 944ef7b183234f9ac1f7330c32f3a6c96366f68109e39392b8ada60b52eebd2a
+machine_hash: 904d7c1e105d34a800fe8e20c5636ca9da22fe6575a40d466cbbdea8d6744b7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,7 +63,9 @@ record:
   title: Introducing Claude Sonnet 5
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-workspaces-e487d5|Workspaces]]'
+- '[[Changes/Kimi Code/2026-06-29-route-kimi-code-models-on-the-anthropic-compatible-protocol-through-the-beta-mes|Route
+  Kimi Code models on the Anthropic-compatible protocol through the beta Messages
+  API]]'
 - '[[Changes/Open WebUI/2026-06-29-25-model-support-changes-in-v0-10-0|25 Model Support
   changes in v0.10.0]]'
 - '[[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]'

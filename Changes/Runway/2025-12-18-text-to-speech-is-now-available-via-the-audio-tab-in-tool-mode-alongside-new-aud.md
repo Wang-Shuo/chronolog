@@ -4,20 +4,20 @@ date: '2025-12-18'
 description: 'Runway · 2025-12-18 · Voice and Audio: Text to Speech is now available
   via the Audio tab in Tool mode alongside new audio Apps for SFX and Speech to Speech.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 892
+  lag_days: 2719
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7685e6ca54ddca98b3dd4e445d5dee46f9941d25b641021983a41cb7d2a4f792
+machine_hash: 22fa225666addd4c038c7558ee11d16195110655d93e9fddc680706d8733dbbf
 product: runway
 product_name: Runway
 record:
@@ -54,10 +54,11 @@ record:
   title: New Audio Features
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-packages|Packages]]'
 - '[[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]'
 - '[[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native
   audio support for the agent]]'
+- '[[Changes/HeyGen/2025-12-18-voice-doctor-is-a-chat-based-workflow-for-fixing-the-issues-you-only-notice-afte|Introducing
+  Voice Doctor]]'
 source_release: '[[Releases/Runway/runway-2025-12-18-2025-12-18-new-audio-features-ce913898|runway-2025-12-18-2025-12-18-new-audio-features-ce913898]]'
 source_type: runway_changelog
 theme: voice
@@ -84,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native audio support for the agent]]
+- Earlier: 2025-12-18 · HeyGen · [[Changes/HeyGen/2025-12-18-voice-doctor-is-a-chat-based-workflow-for-fixing-the-issues-you-only-notice-afte|Introducing Voice Doctor]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-voice-and-audio-changes-in-v0-6-42|2 Voice and Audio changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

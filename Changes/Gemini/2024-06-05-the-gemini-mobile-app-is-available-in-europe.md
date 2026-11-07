@@ -5,20 +5,20 @@ description: 'Gemini · 2024-06-05 · Mobile and Desktop: What: The Gemini app i
   available in countries like the UK, Germany, France, Italy, Sweden, Switzerland,
   and…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 449
+  lag_days: 2033
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 44887918284365c189a43072d5457a4eda662a31d448520fbee3f7dc9735f104
+machine_hash: d247d6297e4d4109b435ef7e31ca146f1e89c90d141d2c0033ee062f047ed10f
 product: gemini
 product_name: Gemini
 record:
@@ -55,12 +55,11 @@ record:
   title: The Gemini mobile app is available in Europe
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-04-28-prompt-input-behavior-on-mobile-enter-key-prompt-submission-disabled-on-mobile-d|⌨️
-  Prompt Input Behavior on Mobile]]'
 - '[[Changes/Gemini/2024-04-30-the-gemini-mobile-app-is-available-in-more-languages|The
   Gemini mobile app is available in more languages]]'
 - "[[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|\U0001F4F1
   iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]"
+- '[[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]'
 source_release: '[[Releases/Gemini/gemini-2024-06-05-2024-06-05-34d6bc2b|gemini-2024-06-05-2024-06-05-34d6bc2b]]'
 source_type: gemini_changelog
 theme: mobile-desktop
@@ -89,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-ios-pwa-icon-fix-corrected-ios-pwa-home-screen-icon-shape|📱 iOS PWA Icon Fix: Corrected iOS PWA home screen icon shape]]
+- Earlier: 2024-06-04 · Descript · [[Changes/Descript/2024-06-04-descript-for-web-is-here|Descript for Web is here]]
 - Later: 2024-06-05 · Open WebUI · [[Changes/Open WebUI/2024-06-05-mobile-view-improvements-the-ui-now-uses-dvh-dynamic-viewport-height-instead-of|📱 Mobile View Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

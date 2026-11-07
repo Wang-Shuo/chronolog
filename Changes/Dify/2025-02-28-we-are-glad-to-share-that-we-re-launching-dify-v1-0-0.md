@@ -4,19 +4,20 @@ date: '2025-02-28'
 description: 'Dify · 2025-02-28 · Collaboration: We are glad to share that we''re
   launching Dify **v1.0.0**.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 646
+  lag_days: 2240
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09fbdf7be88c78aed3b25438905ea11d7397e9fd3d308ebbc4f153aa66fe3570
+machine_hash: ec1c8f4b1221d55671dd470be234d8dd54638f4ac22a91bb7bc2861ee2358139
 product: dify
 product_name: Dify
 record:
@@ -41,10 +42,10 @@ record:
   title: We are glad to share that we're launching Dify **v1.0.0**
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|\U0001F504
-  Clone Shared Chats]]"
 - '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
   social content]]'
+- '[[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If
+  you prefer to opt out you can let us know by submitting a ticket to our support…]]'
 - "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
   Download Button for SVG Diagrams]]"
 source_release: '[[Releases/Dify/dify-2025-02-28-1-0-0-github-202962689-d5695ce1|dify-2025-02-28-1-0-0-github-202962689-d5695ce1]]'
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

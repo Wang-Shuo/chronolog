@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-13 · Files and Data: **\U0001F40D Jupyter N
   Support in Code Interpreter**: Now, you can configure Code Interpreter to run Python
   code not…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 630
+  lag_days: 1975
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a16110ca1d25c52804e3cba98dd223c8996fac941357238f64dbd8d984f7855d
+machine_hash: a61ee70797121d9228799563b5b319edbbae7a75f0e5c183bfe6b07a38156ec9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,12 +51,11 @@ record:
   title: "**\U0001F40D Jupyter Notebook Support in Code Interpreter**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-22-3-files-and-data-changes-in-0-15-2|3 Files and Data changes
-  in 0.15.2]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
   Code Interpreter]]"
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
   sharing]]'
+- '[[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00|open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
-- Later: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post directly to LinkedIn 🚀]]
+- Earlier: 2025-02-11 · Descript · [[Changes/Descript/2025-02-11-scene-toolbar|Scene toolbar]]
+- Later: 2025-02-25 · Descript · [[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

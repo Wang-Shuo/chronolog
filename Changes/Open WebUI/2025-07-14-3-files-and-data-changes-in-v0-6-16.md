@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-07-14 · Files and Data: 3 changes in v0.6.16 �
   **Chat Directly with Notes (Experimental)**: Ask questions about any note, and directly
   edit…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 781
+  lag_days: 2126
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f2bf3fb02de29154e6475386621955719f587f4021963d2e2ea58d05d9ac5b3
+machine_hash: 6ec39cfd9a08d1153be5cf5dce5a4f8ca61d567c3f8fccf6d3e543e1777d4e7a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.16
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

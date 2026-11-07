@@ -4,20 +4,20 @@ date: '2025-07-02'
 description: 'Ollama · 2025-07-02 · Mobile and Desktop: 3 changes in v0.9.5 — [Download
   for macOS](https://github.com/ollama/ollama/releases/download/v0.9.5/Ollama.dmg)'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 2425
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d6ee3f530b4ad0a76ba388fffe6bf200ca14d7d31b73e056b62294373b6b214
+machine_hash: ccc05e30f183a45c3b9d1bdd2dcc8ba8fac6d58e9d6280f9e8ff21610e3d7c1f
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.9.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

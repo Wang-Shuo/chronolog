@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenHands · 2026-10-27 · Interface Experience: 3 changes in v1.34.0
   — refactor(onboarding): express slide offsets in CSS by @enyst in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1387
+  lag_days: 2753
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f70c089b447ca24f05aa8ad8a6229c92e3cb5989e1dded33ef76c6a257808d5
+machine_hash: aafb9c611042029da35ccf9b440f8b5ca44d33fb7e4b1b755ee8f49df631ca3e
 product: openhands
 product_name: OpenHands
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface Experience changes in v2.2.0]]
-- Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
+- Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-2-interface-experience-changes-in-kimi-code-2-4-0|2 Interface Experience changes in Kimi Code 2.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8640ffe55a771a9139a1d3f579e4e8e31761af56a9a5632da635d2e1ef1cb7a8
+machine_hash: c91a545915531567734502868c178a884d751f702f5f47482ac9b99e2bd4c659
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: Multi-select elements
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-nested-subagents|Nested subagents]]'
 - '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
   canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
   Agent Mode changes in Custom stores, custom tools…]]'
+- '[[Changes/Kimi Code/2026-06-04-users-now-can-prepare-several-goals-for-the-agent-to-work-on-sequentially-the-ag|Users
+  now can prepare several goals for the agent to work on sequentially]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5 Agent Mode changes in Custom stores, custom tools…]]
+- Earlier: 2026-06-04 · Kimi Code · [[Changes/Kimi Code/2026-06-04-users-now-can-prepare-several-goals-for-the-agent-to-work-on-sequentially-the-ag|Users now can prepare several goals for the agent to work on sequentially]]
 - Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
 <!-- chronolog:end -->
 

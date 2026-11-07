@@ -4,20 +4,20 @@ date: '2024-11-11'
 description: 'Dify · 2024-11-11 · Apps and Integrations: **GitLab Tools Integration**:
   Amp up your DevOps with the integration of GitLab tools by @wlrnet in #10407.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 599
+  lag_days: 2159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5af13d634be1f6551d8cc2b5f86a5d7f84e4250be298671bffda67c7d0756639
+machine_hash: 760980f1a90ca02b510cc32fc9b7d52930ab9e93fb676dafb0ad8938d0786527
 product: dify
 product_name: Dify
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-3-apps-and-integrations-changes-in-0-11-0|3 Apps and Integrations changes in 0.11.0]]
-- Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-functions-moved-to-admin-panel-as-functions-operate-as-advanced-plugins-they-are|🛠️ Functions Moved to Admin Panel]]
+- Later: 2024-11-19 · Descript · [[Changes/Descript/2024-11-19-you-can-add-status-page-updates-to-your-slack-workspace-using-the-the-subscribe|You can add status page updates to your Slack workspace using the the Subscribe to Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

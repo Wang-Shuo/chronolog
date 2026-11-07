@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01b05a2a16e7403149bbeb8458fc15a6df5ebf3e9f0212b8969973fe78a39d35
+machine_hash: a2e9f6e8584bed05365644ff3384f8346f3153f9798decd4d1caf37475377e9d
 product: cline
 product_name: Cline
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.85.0
 ## Nearby in Model Support
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose subagents use GPT-5.4 or GPT-5.5 when available]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support changes in v2.1.152]]
+- Later: 2026-05-26 · Kimi Code · [[Changes/Kimi Code/2026-05-26-3-model-support-changes-in-kimi-code-0-2-0|3 Model Support changes in Kimi Code 0.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

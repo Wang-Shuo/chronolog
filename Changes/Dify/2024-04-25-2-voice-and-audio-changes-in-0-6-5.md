@@ -4,20 +4,20 @@ date: '2024-04-25'
 description: 'Dify · 2024-04-25 · Voice and Audio: 2 changes in v0.6.5 — Increased
   the speed of xinference audio transcription by @leslie2046 in #3636.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 290
+  lag_days: 2117
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 245ea0c0dbca8a3520b256b67d5f47d7124d9625dc5ee26bca7652913ffcce42
+machine_hash: bccf7a70da12e43faee36d8ca2bc8e78a9b107bfddfc57e2df394327f50c9bb2
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Voice and Audio changes in 0.6.5
   type: change
 related_changes:
-- '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
-  Alpha has better audio quality and increased expressiveness among other heavily…]]'
-- '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
-  audition]]'
+- '[[Changes/Descript/2024-03-04-housekeeping-updates|Housekeeping updates]]'
+- '[[Changes/Descript/2024-03-04-white-glove-sunset-update|White Glove Sunset Update]]'
 - '[[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip
   Sync in Gen-2]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'
@@ -94,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.5
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

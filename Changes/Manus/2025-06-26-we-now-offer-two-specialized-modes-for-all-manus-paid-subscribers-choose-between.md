@@ -4,20 +4,20 @@ date: '2025-06-26'
 description: 'Manus · 2025-06-26 · Reliability and Performance: We now offer two specialized
   modes for all Manus paid subscribers. Choose between our Speed mode for rapid…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 924
+  lag_days: 2411
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 699e7f3c195626b4491dee2dcdde3e2b4d4db2a6bfece364f804d4bb0f16b346
+machine_hash: 80ff5af1728e88c144cd9af1e0ae4b1ce14c6947abd241a672b1147c8200f669
 product: manus
 product_name: Manus
 record:
@@ -45,12 +45,12 @@ record:
   title: Introducing Agent preference
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
-  improvements]]'
 - '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
   users to provide feedback on agent performance even when the agent…]]'
 - '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
   Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Descript/2025-06-26-the-new-timeline-turned-on-for-all-users-if-you-need-extra-time-to-get-up-to-spe|The
+  new timeline turned on for all users]]'
 source_release: '[[Releases/Manus/manus-2025-06-26-9rgkvlaa7i2dbtjvhkekhq-07a20207|manus-2025-06-26-9rgkvlaa7i2dbtjvhkekhq-07a20207]]'
 source_type: manus_changelog
 theme: reliability-performance
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized Cline to work with the Claude 4 family of models, resulting in improved…]]
+- Earlier: 2025-06-26 · Descript · [[Changes/Descript/2025-06-26-the-new-timeline-turned-on-for-all-users-if-you-need-extra-time-to-get-up-to-spe|The new timeline turned on for all users]]
 - Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability and Performance changes in v0.85.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

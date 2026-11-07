@@ -4,20 +4,20 @@ date: '2026-03-27'
 description: 'Ollama · 2026-03-27 · Search and Browsing: `ollama launch pi` now includes
   web search plugin that uses Ollama''s web search'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1100
+  lag_days: 2129
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: baecb14495e02b23d7df59af772ff1ea3eb58c2c1ffa13e6f9d120cac5977a8e
+machine_hash: 6b171d9004425f89189c85e86c8d3ff67aee79dcf3f2671c2200846a2bced4dc
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,12 @@ record:
     search'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
-  updates in ChatGPT]]'
 - '[[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search
   and Browsing changes in v0.8.11]]'
 - '[[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins
   are now a first-class workflow]]'
+- '[[Changes/Notion/2026-03-27-archive-lets-you-mark-pages-as-outdated-to-keep-your-workspace-clean-and-improve|Archive
+  lets you mark pages as outdated to keep your workspace clean and improve…]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-27-v0-19-0-github-302442479-29abac08|ollama-2026-03-27-v0-19-0-github-302442479-29abac08]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins are now a first-class workflow]]
+- Earlier: 2026-03-27 · Notion · [[Changes/Notion/2026-03-27-archive-lets-you-mark-pages-as-outdated-to-keep-your-workspace-clean-and-improve|Archive lets you mark pages as outdated to keep your workspace clean and improve…]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

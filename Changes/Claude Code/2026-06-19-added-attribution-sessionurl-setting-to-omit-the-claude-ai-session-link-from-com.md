@@ -4,20 +4,20 @@ date: '2026-06-19'
 description: 'Claude Code · 2026-06-19 · Apps and Integrations: Added `attribution.sessionUrl`
   setting to omit the claude.ai session link from commits and PRs in web and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1184
+  lag_days: 2744
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e33d6830c09649876f809e4f919ea87d54b9ee3a22dafa1bce5a05b27d835f7
+machine_hash: 356d593ccd3f1ed9534967532fb723866cc6ff6aba7a2f37e8a23d43f24aae66
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Added `attribution.sessionUrl` setting to omit the claude.ai session link…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
-  Apps and Integrations changes in rust-v0.141.0]]'
+- '[[Changes/Kimi Code/2026-06-18-add-reload-suggestion-in-plugin-change-hints|Add
+  /reload suggestion in plugin-change hints]]'
 - '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
   AI activity]]'
 - '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

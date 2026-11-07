@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Ollama · 2026-05-13 · Reliability and Performance: 2 changes in v0.30.0
   — Ollama 0.30 is now available, with improved compatibility and performance using…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1245
+  lag_days: 2732
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 693fc382ea9ffa98d196e16f537b396eabdd916c501026ef25ae932965cf3b62
+machine_hash: ea8ab5943526a2f83f845be168b2bfda03ee1c884c3136d438679541b6d75aab
 product: ollama
 product_name: Ollama
 record:
@@ -87,13 +87,13 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.30.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention file search performance]]
-- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed tab. The standalone Speed tab has been removed]]
+- Later: 2026-05-18 · HeyGen · [[Changes/HeyGen/2026-05-18-face-hands-posture-gaze-energy-the-same-script-can-become-a-polished-business-up|Face, hands, posture, gaze, energy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

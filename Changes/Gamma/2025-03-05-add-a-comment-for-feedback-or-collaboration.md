@@ -4,19 +4,20 @@ date: '2025-03-05'
 description: "Gamma · 2025-03-05 · Collaboration: \U0001F4AC Add a Comment for feedback
   or collaboration"
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 651
+  lag_days: 2245
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e424ee19857adf094e3c91b22a008f4d10f28b436aef933c27faec9cecd9783
+machine_hash: 0aa59d74a3768733821fb77c10cf914bd7604bbd59f3467192c5ca4b69fea2ea
 product: gamma
 product_name: Gamma
 record:
@@ -42,8 +43,8 @@ record:
   title: "\U0001F4AC Add a Comment for feedback or collaboration"
   type: change
 related_changes:
-- '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
-  social content]]'
+- '[[Changes/Descript/2025-02-04-if-you-prefer-to-opt-out-you-can-let-us-know-by-submitting-a-ticket-to-our-suppo|If
+  you prefer to opt out you can let us know by submitting a ticket to our support…]]'
 - "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
   Download Button for SVG Diagrams]]"
 - '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

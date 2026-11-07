@@ -4,20 +4,20 @@ date: '2025-05-16'
 description: 'Replit · 2025-05-16 · Interface Experience: A streamlined verification
   process for protected actions enhances account security.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 858
+  lag_days: 2224
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6e453fc6d29bdbf275cfec7de1aa1952099c973122df2e7b5394ba90db50a941
+machine_hash: 510528e13777b1ce8d48b56ba18b1a70b4c435342cdac2222db585242b912fef
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Full-screen email verification
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
-  details to auto approve menu and more sensible default controls]]'
+- '[[Changes/Notion/2025-05-13-welcome-to-your-new-ai-home|Welcome to your new AI
+  Home]]'
 - '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
 - '[[Changes/Dify/2025-05-15-2-interface-experience-changes-in-1-4-0|2 Interface Experience
   changes in 1.4.0]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

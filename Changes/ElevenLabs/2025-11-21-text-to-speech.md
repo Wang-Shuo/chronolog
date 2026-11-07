@@ -4,20 +4,20 @@ date: '2025-11-21'
 description: 'ElevenLabs · 2025-11-21 · Voice and Audio: **Text normalization control**:
   Added `TextNormalisationType` enum and `text_normalisation_type` field across TTS…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 865
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 04df5c83d713284126e85fe1c45b34f0e8413e8033384c1a7559639a1e07bb5c
+machine_hash: f6711b7b51fdaee7898139a4229eab6edb25064a6cf9d7ea9407a49e17a025f0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,11 +47,12 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]'
 - '[[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio
   changes in v3.37.0]]'
 - '[[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat:
   Add Audio Content Support for MCP Tools]]'
+- '[[Changes/Descript/2025-11-21-better-audio-duration-matching-for-translation-dubbing|Better
+  audio duration matching for translation dubbing]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-21-2025-11-21-d3d6b6ca|elevenlabs-2025-11-21-2025-11-21-d3d6b6ca]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -94,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat: Add Audio Content Support for MCP Tools]]
+- Earlier: 2025-11-21 · Descript · [[Changes/Descript/2025-11-21-better-audio-duration-matching-for-translation-dubbing|Better audio duration matching for translation dubbing]]
 - Later: 2025-11-21 · Runway · [[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

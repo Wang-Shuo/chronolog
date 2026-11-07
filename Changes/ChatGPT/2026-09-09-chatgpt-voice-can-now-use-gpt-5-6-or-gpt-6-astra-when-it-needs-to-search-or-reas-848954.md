@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ebbffa06558fc0c3057bc813aa20aad078a24891458be8d4f057abd9cc74138e
+machine_hash: 52642978710dc20fc0304f4ce8b647af4e9270f5fa8c1d9c3c428054451817aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,8 +73,8 @@ record:
     or reason…
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support
-  changes in v2026.9.2]]'
+- '[[Changes/Qoder/2026-09-05-custom-byok-endpoints-personal-plan-byok-now-supports-custom-base-urls-for-any-o|Custom
+  BYOK endpoints]]'
 - '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
   Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
 - '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support

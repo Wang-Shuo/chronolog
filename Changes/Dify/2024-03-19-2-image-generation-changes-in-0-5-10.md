@@ -5,20 +5,20 @@ description: 'Dify · 2024-03-19 · Image Generation: 2 changes in v0.5.10 — A
   for open weather search and image generation using the Spark API. by @Onelevenvy
   in…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 9
+  lag_days: 267
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebfa8213f3b56968da50601dadc4e053c53ed606562ef6106101e70cccd1e8d7
+machine_hash: 0d71595df538e25bc578746bdd7d5eda4e55473f0067c01af20a2b7f307d79dc
 product: dify
 product_name: Dify
 record:
@@ -45,6 +45,7 @@ record:
   title: 2 Image Generation changes in 0.5.10
   type: change
 related_changes:
+- '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]'
 - "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
   DALL-E Integration]]"
 - "[[Changes/Open WebUI/2024-03-15-resolved-chat-malfunction-after-image-generation|\U0001F5E8️
@@ -92,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.10
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

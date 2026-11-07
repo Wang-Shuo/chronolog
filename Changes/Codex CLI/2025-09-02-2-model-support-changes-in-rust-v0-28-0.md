@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 128b4053da270abb1c9c5c325dff20782fefe9386e1bbe605bc45ed4b70a5389
+machine_hash: 0eea7c4b8e4193aba0bb61b604835bf805d607ca242710a9e8d82f6ddd8cde4c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes
-  in 1.8.0]]'
-- '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
-  in v3.26.6]]'
 - '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
   changes in v0.6.26]]'
+- '[[Changes/Descript/2025-08-29-how-to-access-eleven-labs-v3|How to access Eleven
+  Labs V3]]'
+- '[[Changes/Descript/2025-08-29-new-in-ai-speakers-eleven-labs-v3|New in AI Speakers—Eleven
+  Labs V3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412|codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support changes in v0.6.26]]
+- Earlier: 2025-08-29 · Descript · [[Changes/Descript/2025-08-29-new-in-ai-speakers-eleven-labs-v3|New in AI Speakers—Eleven Labs V3]]
 - Later: 2025-09-02 · OpenHands · [[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added LLM risk analyzer]]
 <!-- chronolog:end -->
 

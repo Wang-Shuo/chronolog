@@ -5,20 +5,20 @@ description: 'Open WebUI · 2025-12-21 · Enterprise and Administration: > **Loo
   for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?** – **[Speak with
   Our…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 961
+  lag_days: 2168
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d43b54c5e49e15d21f83c5cdb6be0a615ccd02229c0ac26d229b803ef96a8d3d
+machine_hash: f14b59361bb95aa88f069e9b72c0b4b589900917b5392251131c4ffb13c9756d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,11 +53,11 @@ record:
   title: '> **Looking for an [Enterprise Plan](https://docs.openwebui.com/enterprise)?**'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
-  new enterprise instructions]]'
 - '[[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]'
 - '[[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many
   of the largest software companies in the world have adopted Cursor for Enterprise]]'
+- '[[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New
+  admin controls for transcription glossary and do not translate lists]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -102,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-many-of-the-largest-software-companies-in-the-world-have-adopted-cursor-for-ente|Many of the largest software companies in the world have adopted Cursor for Enterprise]]
+- Earlier: 2025-12-20 · Descript · [[Changes/Descript/2025-12-20-new-admin-controls-for-transcription-glossary-and-do-not-translate-lists|New admin controls for transcription glossary and do not translate lists]]
 - Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-simplified-saml-sso-setup|Simplified SAML SSO setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

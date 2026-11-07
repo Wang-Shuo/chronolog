@@ -5,20 +5,20 @@ description: 'Replit · 2026-07-03 · Pricing Model: You can now move from Repli
   to Replit Core directly, without canceling your subscription first. Previously the
   only…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1296
+  lag_days: 2914
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 02d17afc6023f5503eaf722643e0bb3cdc398addb38bb9270b2b003b50bd1ca2
+machine_hash: 823d0ea573581b11d058fbe2eb058355bd0d2d6e87a198ffb11c0332337f8217
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Downgrade from Pro to Core in one step
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
 - '[[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When
   a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]'
 - '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
   a live event subscription stream]]'
+- '[[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically
+  compress oversized images before they reach the model, downsampling…]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: pricing-model
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add a live event subscription stream]]
+- Earlier: 2026-07-02 · Kimi Code · [[Changes/Kimi Code/2026-07-02-automatically-compress-oversized-images-before-they-reach-the-model-downsampling|Automatically compress oversized images before they reach the model, downsampling…]]
 - Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

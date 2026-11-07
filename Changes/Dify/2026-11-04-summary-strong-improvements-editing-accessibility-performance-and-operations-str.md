@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 248df9ae3d603afdaeac6af9f743fc3f2d96b08150a68715ad80742cb5c91804
+machine_hash: aa00035cbd2813212b920702f66f487cb8994f9c729a38cab86fa52b09a0dc89
 product: dify
 product_name: Dify
 record:
@@ -52,8 +52,8 @@ record:
   title: <summary><strong>Improvements · editing, accessibility, performance…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
-  Accessibility and Localization changes in v2.1.311]]'
+- '[[Changes/Synthesia/2026-10-27-dub-videos-into-up-to-20-languages-straight-from-your-own-systems-with-the-new-l|Dub
+  videos at scale with the Localization API]]'
 - '[[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿
   Improved UI accessibility. Screen reader and keyboard users can now move…]]'
 - '[[Changes/Open WebUI/2026-11-03-accessibility-improvements-screen-reader-users-now-hear-a-name-for-every-window|♿

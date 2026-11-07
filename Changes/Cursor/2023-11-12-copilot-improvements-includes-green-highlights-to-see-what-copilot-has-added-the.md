@@ -5,20 +5,20 @@ description: 'Cursor · 2023-11-12 · Interface Experience: Copilot++ improvemen
   Includes green highlights to see what Copilot++ has added, the ability to accept
   multiple…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 307
+  lag_days: 1673
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d307aca9591acf9b028039c8e45712b187f682cf55e7cd00e31f9ef94316bea4
+machine_hash: 6e6f268418026e6caa3bfa8e2b58383067952a055a8a52548aa8e13f791ab710
 product: cursor
 product_name: Cursor
 record:
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline]]
-- Later: 2023-11-16 · Gemini · [[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available for more age groups]]
+- Later: 2023-11-14 · Notion · [[Changes/Notion/2023-11-14-perfect-for-every-new-hire|Perfect for every new hire]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

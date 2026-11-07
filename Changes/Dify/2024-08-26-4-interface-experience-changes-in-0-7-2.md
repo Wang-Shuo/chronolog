@@ -4,20 +4,20 @@ date: '2024-08-26'
 description: 'Dify · 2024-08-26 · Interface Experience: 4 changes in v0.7.2 — Improved
   tooltip content to support line breaks by @hjlarry in #7424.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 595
+  lag_days: 1961
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b6ff3c76085e14adc294e485e4fa01787d3ec7b67965c240fcb709a440d5eb8
+machine_hash: 22c3491bf5e68d13c03c087670077550301125a34b7be374c1acd18f6eb6b5da
 product: dify
 product_name: Dify
 record:
@@ -93,13 +93,13 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.2
 ## Nearby in Interface Experience
 
 - Earlier: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct list rendering for chat window]]
-- Later: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|🔧 LaTeX Rendering Issue]]
+- Later: 2024-08-27 · Descript · [[Changes/Descript/2024-08-27-new-stock-speakers|New stock speakers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

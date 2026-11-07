@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71a3219bc5f824621f3f9e9bf3da94b1e62a3b1817bee1ff487bcb10e907eb71
+machine_hash: bce208eea46f0d44a98ab91555749f9d39fc36855b2e69ad3c3799e544e88514
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: 1.12.39 GPT-5.1 Codex Max changelog banner
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat:
-  set default thinking level for Gemini 3 Pro models]]'
 - '[[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model
   Support changes in rust-v0.65.0]]'
+- '[[Changes/Descript/2025-12-04-new-generative-video-and-image-models|New generative
+  video and image models]]'
 - '[[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve
   even more complex problems with Gemini 3 Deep Think]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-04-v1-12-39-ea6f49db|windsurf-2025-12-04-v1-12-39-ea6f49db]]'

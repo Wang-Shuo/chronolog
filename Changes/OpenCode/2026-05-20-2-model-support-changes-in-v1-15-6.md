@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09e6bd69c13b785bd7856d3f6e4ec6db68bf809aa7270e08d2a1ac27942290ad
+machine_hash: 9bf32b6ebed7f3e39d71a7bb45549a9ddb875bd9ed8f98fc1a09f1c596298e22
 product: opencode
 product_name: OpenCode
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.15.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model
-  Support changes in v1.0.49]]'
+- '[[Changes/Microsoft 365 Copilot/2026-05-19-openai-s-gpt-5-5-instant-available-in-copilot-chat-android-windows-ios-mac-web-m|OpenAI''s
+  GPT‑5.5 Instant available in Copilot Chat Android, Windows, iOS, Mac…]]'
 - '[[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069
   multiagent: trim model-visible description, cap to 5 models @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell

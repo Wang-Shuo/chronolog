@@ -4,19 +4,20 @@ date: '2026-01-08'
 description: 'OpenCode · 2026-01-08 · Developer Workflow: 9 changes in v1.1.7 — Core
   Add help text to debug command and subcommands'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1027
+  lag_days: 2676
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d5061bdc994e63e33f22959338195439067de493c7d799d51b16c3619282cb8
+machine_hash: 45825900a2961052f9e46c5ac95630dea8db183a586bfa140e3534cd1aeb1dfa
 product: opencode
 product_name: OpenCode
 record:
@@ -122,7 +123,7 @@ Source: https://opencode.ai/changelog/v1.1.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

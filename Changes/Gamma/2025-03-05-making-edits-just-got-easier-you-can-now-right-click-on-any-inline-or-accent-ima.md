@@ -5,20 +5,20 @@ description: 'Gamma · 2025-03-05 · Interface Experience: Making edits just got
   You can now right-click on any inline or accent image in Gamma to quickly access
   a…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 786
+  lag_days: 2152
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee14a4357bfcf1361206453baa2df56b1cd2b279ad5049816140721a35eb4dfe
+machine_hash: 881636ec7ac6cc23f0ef02d1a2a84dde3b74e0c368b8213e434bbcd482948058
 product: gamma
 product_name: Gamma
 record:
@@ -48,12 +48,11 @@ record:
   title: Making edits just got easier!
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
-  Experience changes in 0.25.0]]'
-- '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
-  new Folders menu is available on both the Create and Organize pages]]'
-- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
-  Translation Updates]]"
+- '[[Changes/Descript/2025-02-25-publish-becomes-export|Publish becomes Export]]'
+- '[[Changes/Descript/2025-02-25-descript-version-109-features-two-important-changes-to-terminology-that-coincide|Descript
+  Version 109 features two important changes to terminology that coincide…]]'
+- '[[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And
+  tying all of these changes together, we’ve added a new Layout…]]'
 source_release: '[[Releases/Gamma/gamma-2025-03-05-67bcf7507957f25a122606e2-47744809|gamma-2025-03-05-67bcf7507957f25a122606e2-47744809]]'
 source_type: gamma_changelog
 theme: interface-experience
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
+- Earlier: 2025-02-26 · Descript · [[Changes/Descript/2025-02-26-and-tying-all-of-these-changes-together-we-ve-added-a-new-layout-picker-https-he|And tying all of these changes together, we’ve added a new Layout…]]
 - Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

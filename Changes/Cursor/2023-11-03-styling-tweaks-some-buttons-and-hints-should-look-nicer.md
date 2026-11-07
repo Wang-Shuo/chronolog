@@ -4,20 +4,20 @@ date: '2023-11-03'
 description: 'Cursor · 2023-11-03 · Interface Experience: Styling tweaks: some buttons
   and hints should look nicer!'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 298
+  lag_days: 1664
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53e6c65220d949cce91f35c954541fd1ecbd616f95f573eb968ffe837347fa64
+machine_hash: 7b6f7921091a7eee8eb4470002f7556500b50f2d97357a4035de6517ba3e482f
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Styling tweaks: some buttons and hints should look nicer!'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
-  you''ve configured your browser to use one of these supported languages, you''ll…]]'
-- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
-  front end rendering]]'
+- '[[Changes/Descript/2023-10-16-docked-panels-are-now-remembered|Docked panels are
+  now remembered]]'
+- '[[Changes/Descript/2023-10-16-new-keyboard-shortcut-forward-back-keyboard-shortcuts-for-navigating-between-com|New
+  Keyboard Shortcut]]'
 - '[[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat
   scroll: we got rid of sticky scroll to make the chat easier to read]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
+- Earlier: 2023-10-16 · Descript · [[Changes/Descript/2023-10-16-new-keyboard-shortcut-forward-back-keyboard-shortcuts-for-navigating-between-com|New Keyboard Shortcut]]
 - Later: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface Experience changes in 0.3.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

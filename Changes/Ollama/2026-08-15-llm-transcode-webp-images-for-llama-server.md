@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37e28efdf8461e518c3d7f373cfba3887f9a2bbd903aac42276912e4a7efb8f9
+machine_hash: da3df527cee9a251d5b577768bbaea60b1b6eea5a127ddbea7635f83d0989446
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: 'llm: transcode WebP images for llama-server'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
-  changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
   in v4.1.10]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
   configurations]]'
+- '[[Changes/Notion/2026-08-14-no-more-guessing-which-model-to-use|Model selection,
+  simplified]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-15-v0-32-14-github-371138535-ce05405f|ollama-2026-08-15-v0-32-14-github-371138535-ce05405f]]'
 source_type: github_releases
 theme: model-support
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model configurations]]
+- Earlier: 2026-08-14 · Notion · [[Changes/Notion/2026-08-14-no-more-guessing-which-model-to-use|Model selection, simplified]]
 - Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]]
 <!-- chronolog:end -->
 

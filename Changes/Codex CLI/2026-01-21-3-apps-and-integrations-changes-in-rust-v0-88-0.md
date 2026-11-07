@@ -4,20 +4,20 @@ date: '2026-01-21'
 description: 'Codex CLI · 2026-01-21 · Apps and Integrations: 3 changes in 0.88.0
   — Updated MCP documentation link to the current destination. (#9490)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1035
+  lag_days: 2595
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 497ba6facc67a7d26630dcc2646bb9ad2f7a69f24e913c5e2ae278b3fb117b0c
+machine_hash: 37d78aa8c9d9a39ce9bbab22d3ddd831a63650f1806310c1c4ba3703de34d4b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,7 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
-  flag now enables read-write GitHub MCP tools]]'
+- '[[Changes/Notion/2026-01-20-do-more-with-notion-jira|Do more with Notion & Jira]]'
 - '[[Changes/OpenCode/2026-01-20-core-ensure-truncation-handling-applies-to-mcp-servers|Core
   Ensure truncation handling applies to MCP servers]]'
 - '[[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve
@@ -101,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

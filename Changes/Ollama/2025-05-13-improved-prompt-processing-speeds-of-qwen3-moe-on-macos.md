@@ -4,20 +4,20 @@ date: '2025-05-13'
 description: 'Ollama · 2025-05-13 · Mobile and Desktop: Improved prompt processing
   speeds of Qwen3 MoE on macOS'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 791
+  lag_days: 2375
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75b5b6b5cec293ae44fc2f631f146aaeb7e37bb697cd4b31e398981803100c11
+machine_hash: 19d5b9bcfe83404021b5ff9e06ff22c3ce6bfe9bd2b151eef4fe4de3f2f84b45
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,11 @@ record:
   title: Improved prompt processing speeds of Qwen3 MoE on macOS
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
-  failure of Docker containers to start on Windows]]'
 - '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
   errors for edit tool calls for Windows]]'
 - '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
   small tweaks for mobile styles]]'
+- '[[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]'
 source_release: '[[Releases/Ollama/ollama-2025-05-13-v0-7-0-github-218121239-0c42c5c9|ollama-2025-05-13-v0-7-0-github-218121239-0c42c5c9]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,14 +76,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-05-05 · OpenHands · [[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made small tweaks for mobile styles]]
+- Earlier: 2025-05-06 · Descript · [[Changes/Descript/2025-05-06-screen-recorder-updates|Screen recorder updates]]
 - Later: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-ios-app-payment-support|iOS app payment support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

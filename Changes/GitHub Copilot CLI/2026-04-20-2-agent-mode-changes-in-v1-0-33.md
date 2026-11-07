@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b23cb8aa576b9bfa312dc0b91d436006833e1b881b61eb52fe9ea2ab33098931
+machine_hash: ed9bb2101aad7dc64f4785be2dff455afc165c685fd56674bbdd75ee12aad7b2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.33
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]
-- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop Added a setting to hide the session progress bar while the agent is working]]
+- Later: 2026-04-21 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-04-21-employee-self-service-agent-new-rich-landing-page-microsoft-365-copilot-app|Employee Self-Service agent: New rich landing page (Microsoft 365 Copilot app)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

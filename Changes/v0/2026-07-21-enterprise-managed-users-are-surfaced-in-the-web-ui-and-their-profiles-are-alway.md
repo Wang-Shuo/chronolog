@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'v0 · 2026-07-21 · Enterprise and Administration: Enterprise Managed
   Users are surfaced in the web UI, and their profiles are always private.'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1173
+  lag_days: 2380
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b806b904e7ea9f611cc72621e63a8b53c3e143f6cff1841b86f8bfc3141052e
+machine_hash: 61d5edc726ac7d7dc60e4ccd3124e9ab65a1165c3c391d6170ca1d3765c6eceb
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
     always private
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-the-lovable-badge-returns-on-your-next-publish-after-a-downgrade|The
-  Lovable badge returns on your next publish after a downgrade]]'
 - '[[Changes/Claude Code/2026-07-15-changed-usage-credits-to-ask-for-confirmation-before-sending-a-request-to-organi|Changed
   /usage-credits to ask for confirmation before sending a request…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-07-15-admins-can-manage-access-more-precisely-with-support-for-nested-permissions-in-c|Admins
+  can manage access more precisely with support for nested permissions…]]'
 - '[[Changes/Dify/2026-07-17-2-enterprise-and-administration-changes-in-1-16-0|2 Enterprise
   and Administration changes in 1.16.0]]'
 source_release: '[[Releases/v0/v0-2026-07-21-2026-07-21-009a4b0a|v0-2026-07-21-2026-07-21-009a4b0a]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

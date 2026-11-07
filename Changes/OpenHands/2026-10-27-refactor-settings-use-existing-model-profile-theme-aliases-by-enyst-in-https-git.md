@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fbf22c8e4bc8aac39763d87a114a445f7ce7ead21ae19c405836df4a3799e55
+machine_hash: 05cbb51cfd2b014ac0dad0ad7f1862ab6902f6fe41d1251b530d80051ac6a1bf
 product: openhands
 product_name: OpenHands
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add configurable prompt cache TTLs per provider/model]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model Support changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Kimi Code · [[Changes/Kimi Code/2026-10-28-add-provider-refresh-providerid-to-re-fetch-provider-model-lists-at-runtime|Add /provider refresh providerId to re-fetch provider model lists at runtime]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

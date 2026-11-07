@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-03-31 · Reliability and Performance: 2
   in 1.0.14 — grep tool handles large files and long lines without running out of
   memory'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1202
+  lag_days: 2689
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa063334104579ca2e236b0e4aaa683cd1ccd9857c8d9da02d003811b0b982b4
+machine_hash: 298afa1515dc01b53a81d43922701daeda9dc28d8675fde1a6bad847e93a09bb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,13 +89,13 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2 Reliability and Performance changes in v1.0.13]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
+- Later: 2026-03-31 · HeyGen · [[Changes/HeyGen/2026-03-31-choose-between-standard-faster-fewer-credits-and-precise-sharper-results-upscali|Choose between Standard (faster, fewer credits) and Precise (sharper results)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

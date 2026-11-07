@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 130c9f0daf5f43cb8266cbf1974bf1bb213167bf7032b6d1483101a4822fe240
+machine_hash: 6a7798f42e9e5c495b1e9fc01705982811d255c890e6b2b61bba9b1d32e2a5b2
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Agent Mode changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi|Cloud
-  Agents no longer require a connected GitHub or other third-party SCM provider…]]'
 - '[[Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br|A
   live preview, right in the browser]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent
   Mode changes in v1.0.81]]'
+- '[[Changes/Kimi Code/2026-08-27-4-agent-mode-changes-in-kimi-code-0-39-0|4 Agent
+  Mode changes in Kimi Code 0.39.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,8 +95,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81|8 Agent Mode changes in v1.0.81]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode changes in v2.1.251]]
+- Earlier: 2026-08-27 · Kimi Code · [[Changes/Kimi Code/2026-08-27-4-agent-mode-changes-in-kimi-code-0-39-0|4 Agent Mode changes in Kimi Code 0.39.0]]
+- Later: 2026-08-27 · Qoder · [[Changes/Qoder/2026-08-27-as-coding-becomes-a-universal-capability-a-coding-agent-gives-anyone-the-power-t|As Coding becomes a universal capability, a coding agent gives anyone the power…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

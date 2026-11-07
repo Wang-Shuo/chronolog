@@ -4,19 +4,20 @@ date: '2026-09-03'
 description: 'Claude Code · 2026-09-03 · Developer Workflow: Improved deleting a background
   session whose worktree has unpushed commits: the message now names the branch and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1265
+  lag_days: 2914
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9951d9a8e1b6d2bd1028274af0c8834740df85b3350adf9991c48ece051e3ef6
+machine_hash: 2936b746d6bda35c4be344164558b9b9330432d847d5952b475d833b482c570d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +44,12 @@ record:
   title: Improved deleting a background session whose worktree has unpushed commits
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
-  terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
   rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
 - '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
   split layouts are now preserved across window reloads]]'
+- '[[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2
+  Developer Workflow changes in Kimi Code 0.40.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal split layouts are now preserved across window reloads]]
+- Earlier: 2026-09-02 · Kimi Code · [[Changes/Kimi Code/2026-09-02-2-developer-workflow-changes-in-kimi-code-0-40-0|2 Developer Workflow changes in Kimi Code 0.40.0]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5 Developer Workflow changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

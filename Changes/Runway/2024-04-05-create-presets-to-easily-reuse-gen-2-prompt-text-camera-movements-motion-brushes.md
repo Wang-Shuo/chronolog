@@ -4,20 +4,20 @@ date: '2024-04-05'
 description: 'Runway · 2024-04-05 · Multimodal Input: Create presets to easily reuse
   Gen-2 prompt text, camera movements, motion brushes, and other settings.'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
-    video to cn readme]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-16-descript-now-supports-video|Video
+    Playback]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 199
+  lag_days: 1967
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c5d2b5c0debbdfea083b10ca58d6bd02b3ec2f3e788e5bb37ee8a1b382516ad
+machine_hash: 2e8e87d41a7bf00ba3350bbb3fc34b0b6a96354d0e8809d492a8f5fa7b2359e6
 product: runway
 product_name: Runway
 record:
@@ -42,12 +42,12 @@ record:
   title: Custom Gen-2 presets
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
-  Input changes in v0.1.15]]'
-- '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
-  expansion into text-to-image capabilities marks a significant step in our…]]'
+- '[[Changes/Synthesia/2024-01-31-ai-video-assistant-3-0-allows-you-to-edit-and-refine-text-in-the-script-box-rewr|Editing
+  in the script box: AI video assistant 3.0]]'
 - '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
   Input changes in v0.1.23]]'
+- '[[Changes/Synthesia/2024-02-19-today-we-are-introducing-layers-another-nice-feature-to-help-you-edit-the-video|Layers:
+  now easier to select and edit]]'
 source_release: '[[Releases/Runway/runway-2024-04-05-2024-04-05-custom-gen-2-presets-d10a344b|runway-2024-04-05-2024-04-05-custom-gen-2-presets-d10a344b]]'
 source_type: runway_changelog
 theme: multimodal
@@ -74,14 +74,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal Input changes in v0.1.23]]
+- Earlier: 2024-02-19 · Synthesia · [[Changes/Synthesia/2024-02-19-today-we-are-introducing-layers-another-nice-feature-to-help-you-edit-the-video|Layers: now easier to select and edit]]
 - Later: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input changes in 0.6.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+- Earliest same-theme entry in the tracked set: 2018-11-16 · Descript · [[Changes/Descript/2018-11-16-descript-now-supports-video|Video Playback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

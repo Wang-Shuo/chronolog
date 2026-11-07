@@ -4,20 +4,21 @@ date: '2026-03-24'
 description: 'OpenCode · 2026-03-24 · Account and Access: Added Poe as a built-in
   authentication provider with OAuth and API key support'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires
-    login]]'
+  first_in_tracked: "[[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign
+    into Notion with your Apple ID \U0001F5DD️ The perfect combination of speedy and
+    secure]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 2065
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b9e4acfc95de425cdb30510ec9405bef4299ee0969d1e1bb5f06cee13f54283d
+machine_hash: 3f94cd0135af0a3eb9edabd6ab2f12f9fb59763010904f9aee04948477f24585
 product: opencode
 product_name: OpenCode
 record:
@@ -44,12 +45,12 @@ record:
   title: Added Poe as a built-in authentication provider with OAuth and API key support
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-22-removed-anthropic-oauth-plugin-see|Removed anthropic
-  oauth plugin, see]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
   OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
   add authentication guide for remote subagents]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-faster-connector-authentication-setup-for-gong-github-and-monday-web-microsoft-3|Faster
+  connector authentication setup for Gong, GitHub, and Monday…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-03-24-v1-3-2-70706e91|opencode-2026-03-24-v1-3-2-70706e91]]'
 source_type: opencode_changelog
 theme: account-access
@@ -81,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core): add authentication guide for remote subagents]]
+- Earlier: 2026-03-24 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-03-24-faster-connector-authentication-setup-for-gong-github-and-monday-web-microsoft-3|Faster connector authentication setup for Gong, GitHub, and Monday…]]
 - Later: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-improved-mcp-authentication|Improved MCP authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-30 · Cursor · [[Changes/Cursor/2023-03-30-ai-now-requires-login|AI now requires login]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Notion · [[Changes/Notion/2020-07-28-sign-into-notion-with-your-apple-id-the-perfect-combination-of-speedy-and-secure|Sign into Notion with your Apple ID 🗝️ The perfect combination of speedy and secure]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

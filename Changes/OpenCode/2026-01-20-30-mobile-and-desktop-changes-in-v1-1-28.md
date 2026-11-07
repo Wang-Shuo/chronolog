@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'OpenCode · 2026-01-20 · Mobile and Desktop: 30 changes in v1.1.28 —
   Desktop Refactor Select component to use settings variant for settings modal styling'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1043
+  lag_days: 2627
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82306c0ffc8b26058903916cc573e0c483b09b19c23b4d7106fc71b1a63a3488
+machine_hash: a765151e61ba31bb4fe73a30238f0c6f2f6cd44b47e006a559ccf0e059ac4e19
 product: opencode
 product_name: OpenCode
 record:
@@ -101,10 +101,9 @@ record:
   title: 30 Mobile and Desktop changes in v1.1.28
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-01-19-50-mobile-and-desktop-changes-in-v1-1-26|50 Mobile
-  and Desktop changes in v1.1.26]]'
 - '[[Changes/Midjourney/2026-01-20-improved-layout-for-mobile-and-tablets-with-long-prompts|Improved
   layout for mobile and tablets with long prompts]]'
+- '[[Changes/Notion/2026-01-20-ai-notes-on-mobile|AI Notes on mobile]]'
 - '[[Changes/OpenCode/2026-01-20-13-mobile-and-desktop-changes-in-v1-1-27|13 Mobile
   and Desktop changes in v1.1.27]]'
 source_release: '[[Releases/OpenCode/opencode-2026-01-20-v1-1-28-e6ef553d|opencode-2026-01-20-v1-1-28-e6ef553d]]'
@@ -208,7 +207,7 @@ Source: https://opencode.ai/changelog/v1.1.28
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

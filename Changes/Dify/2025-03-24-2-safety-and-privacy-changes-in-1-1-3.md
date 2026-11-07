@@ -5,20 +5,20 @@ description: 'Dify · 2025-03-24 · Safety and Privacy: 2 changes in v1.1.3 — 
   Sanitization**: Strengthened your security with SVG sanitization to prevent XSS
   attacks by…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 708
+  lag_days: 1700
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3676895b1ff2733109e1678cb93f58d76072983c3c24675403fdcc51f70a849
+machine_hash: b57c0fb8173f24d9babd7d5af91a735ec706e2f4bcdb5c26b96209a54994b0b8
 product: dify
 product_name: Dify
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.1.3
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-09-03'
 description: 'ChatGPT · 2026-09-03 · Apps and Integrations: Today, we added the Zendesk
   and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78b006eb01a0a83213af28a3b4075b0079317749d799c48f4ee32cccfe052581
+machine_hash: 43438c85f5b2fbbc12236a305104f0b62f2532c7f043f1940801bcbbebca6264
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
-  Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Kimi Code/2026-09-02-web-add-a-plugins-panel-to-settings-for-browsing-the-plugin-marketplace-and-inst|web:
+  Add a Plugins panel to Settings for browsing the plugin marketplace…]]'
 - '[[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

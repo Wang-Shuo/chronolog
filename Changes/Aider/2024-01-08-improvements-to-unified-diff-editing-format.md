@@ -4,20 +4,19 @@ date: '2024-01-08'
 description: 'Aider · 2024-01-08 · Editor Experience: Improvements to unified diff
   editing format.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 300
+  lag_days: 1884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a6de67dc36c66cc17d808842a2cce7994acf4bb4a21f0d602e852f5da2d0767
+machine_hash: 42d4a642e77ea2ecc6e8fcac01f99dc0edfbc768abe8422b2236b787d07794ce
 product: aider
 product_name: Aider
 record:
@@ -77,13 +76,13 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
+- Later: 2024-01-16 · Descript · [[Changes/Descript/2024-01-16-save-on-editing-costs-and-save-time-for-both-yourself-and-your-audience-by-letti|Save on editing costs, and save time for both yourself and your audience by letting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

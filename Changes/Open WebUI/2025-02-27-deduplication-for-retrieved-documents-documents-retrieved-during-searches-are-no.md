@@ -5,20 +5,20 @@ description: "Open WebUI · 2025-02-27 · Files and Data: **\U0001F5C2️ Dedupl
   for Retrieved Documents**: Documents retrieved during searches are now intelligently
   deduplicated…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 644
+  lag_days: 1989
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df3a5a69fbb7243a8ecf45fc3d7dd7f09cb031d2cf5c9d8044314b71eb7773e3
+machine_hash: 6bc853fa8dd9aff0dd7e7aae9453221581c53414b2b52c8cd030ea729cdccdcc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F5C2️ Deduplication for Retrieved Documents**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
-  Jupyter Notebook Support in Code Interpreter]]"
+- '[[Changes/Descript/2025-02-25-canvas-becomes-scene-editor|Canvas becomes Scene
+  Editor]]'
 - "[[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post
   directly to LinkedIn \U0001F680]]"
 - '[[Changes/Ollama/2025-02-27-granite-3-2-vision-https-ollama-com-library-granite3-2-vision-a-compact-and-effi|Granite-3.2-Vision((source
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

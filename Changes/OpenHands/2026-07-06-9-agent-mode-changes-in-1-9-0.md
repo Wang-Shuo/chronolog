@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 273a83c36e5f28690fb43c30760ac6dbe5ac1be081f260304351dad9fde14506
+machine_hash: 04af23b8a12361409da3283db8938d9a1329d28ae7f28e631e1553539747356b
 product: openhands
 product_name: OpenHands
 record:
@@ -63,9 +63,10 @@ record:
   title: 9 Agent Mode changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-cli|CLI]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevenagents-c38b88|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web:
+  Replace the swarm footer with a single inline tool card that shows live…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: agent-mode
@@ -123,7 +124,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]
+- Earlier: 2026-07-06 · Kimi Code · [[Changes/Kimi Code/2026-07-06-web-replace-the-swarm-footer-with-a-single-inline-tool-card-that-shows-live-suba|web: Replace the swarm footer with a single inline tool card that shows live…]]
 - Later: 2026-07-06 · Runway · [[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF Input for Agent]]
 <!-- chronolog:end -->
 

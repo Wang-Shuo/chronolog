@@ -4,20 +4,19 @@ date: '2025-01-13'
 description: 'OpenHands · 2025-01-13 · Editor Experience: Added new `App` tab which
   allows users to interact with the web app run in OpenHands (Beta) @amanape in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 671
+  lag_days: 2255
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3af0705bf944cf0f8d4a66a7ca0093d6edd7f245f78f8aea0cffb4fa70156a30
+machine_hash: 3e7cf564db1c489857780f2ff852b6d2afa6e0b708ba98b356199b7cc140d296
 product: openhands
 product_name: OpenHands
 record:
@@ -45,8 +44,8 @@ record:
     OpenHands…
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit
-  with Lovable” Badge enabled for all users]]'
+- '[[Changes/Descript/2025-01-07-with-our-first-update-back-from-the-holidays-we-re-adding-a-new-way-to-export-yo|With
+  our first update back from the holidays, we’re adding a new way to export…]]'
 - '[[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience
   changes in 0.15.0]]'
 - '[[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2024-03-20'
 description: 'Cursor · 2024-03-20 · Enterprise and Administration: Admin improvements:
   Team admins can now mark themselves as unpaid users and can see the last time team…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 320
+  lag_days: 1527
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c7541397bd9945a6b6f482e826f5e0f4b8c5f83a4bc13e318667a607d614e90
+machine_hash: 34cc4491cae5273c6f0be16e119b369c03a34838193145507d4245832fb48b74
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
     and can see…'
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google
-  Workspace accounts]]'
 - '[[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade
   data protections for Workspace customers is now available in Gemini]]'
 - '[[Changes/Runway/2024-02-26-editors-within-an-enterprise-workspace-can-now-create-new-teamspaces-for-collabo|Editors
   can create teamspaces]]'
+- '[[Changes/Descript/2024-03-18-drive-admin-updates|Drive Admin Updates]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -82,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-editors-within-an-enterprise-workspace-can-now-create-new-teamspaces-for-collabo|Editors can create teamspaces]]
+- Earlier: 2024-03-18 · Descript · [[Changes/Descript/2024-03-18-drive-admin-updates|Drive Admin Updates]]
 - Later: 2024-03-20 · Runway · [[Changes/Runway/2024-03-20-enterprise-admins-can-now-create-an-invite-link-that-allows-anyone-on-their-team|Invite via link]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

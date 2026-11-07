@@ -4,20 +4,20 @@ date: '2024-12-12'
 description: 'Cline · 2024-12-12 · Apps and Integrations: 3 changes in v2.2.0 — "...fetches
   Jira tickets": Get ticket ACs and put Cline to work'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 630
+  lag_days: 2190
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 802d069dc6d615b60a1ab6fc56c8e667078fc178b2577084b757b315b786bf29
+machine_hash: f353c3de0b6cd3ff165525a1e9694d82e566211af3d07ce6cd58349a06323cfa
 product: cline
 product_name: Cline
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
-  github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]'
 - '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
   feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Notion/2024-12-05-get-answers-from-github-beta|Get answers from GitHub
+  Beta]]'
 - '[[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and
   Integrations changes in 0.13.2]]'
 source_release: '[[Releases/Cline/cline-2024-12-12-v2-2-0-github-190497394-033cbd45|cline-2024-12-12-v2-2-0-github-190497394-033cbd45]]'
@@ -95,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v2.2.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

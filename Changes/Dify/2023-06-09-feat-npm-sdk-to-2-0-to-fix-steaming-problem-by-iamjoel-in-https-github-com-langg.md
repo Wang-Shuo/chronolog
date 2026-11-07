@@ -4,20 +4,20 @@ date: '2023-06-09'
 description: 'Dify · 2023-06-09 · Apps and Integrations: feat: npm sdk to 2.0 to fix
   steaming problem by @iamjoel in https://github.com/langgenius/dify/pull/326'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 78
+  lag_days: 1638
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f582dd5ff778bd1a8bb344067dd9611d81d9489b5dfeb5dd8c69e90f7bfff80
+machine_hash: 4ae096a47d80316919cd04cc70eafeb0ca7212cc93781614a938ad46587bc180
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,9 @@ record:
   title: 'feat: npm sdk to 2.0 to fix steaming problem'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
-  Plugin]]'
 - '[[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations
   changes in 0.2.2]]'
+- '[[Changes/Notion/2023-05-31-real-time-github-integration|Real-time GitHub integration]]'
 - '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show
   the AI documentation]]'
 source_release: '[[Releases/Dify/dify-2023-06-09-0-3-2-github-107950250-e90fa911|dify-2023-06-09-0-3-2-github-107950250-e90fa911]]'
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

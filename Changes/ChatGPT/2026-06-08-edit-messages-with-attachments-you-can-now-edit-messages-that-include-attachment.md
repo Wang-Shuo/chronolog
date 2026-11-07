@@ -4,20 +4,19 @@ date: '2026-06-08'
 description: 'ChatGPT · 2026-06-08 · Editor Experience: Edit messages with attachments:
   You can now edit messages that include attachments, so you can revise your prompt…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1182
+  lag_days: 2766
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d87e411aa7af4e02af2a1ad97a188174aad7b72b93355dd329c829ca0ba3bd45
+machine_hash: 67e823a6e6e56df577db23f52be1f6175ca8d62c8e08a38c410109ed60ff0df8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +45,8 @@ record:
   title: Edit messages with attachments
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
-  Editor Experience changes in v1.0.60]]'
+- '[[Changes/Kimi Code/2026-06-05-support-multiline-edits-when-managing-upcoming-goals|Support
+  multiline edits when managing upcoming goals]]'
 - '[[Changes/OpenCode/2026-06-05-3-editor-experience-changes-in-v1-16-2|3 Editor Experience
   changes in v1.16.2]]'
 - '[[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

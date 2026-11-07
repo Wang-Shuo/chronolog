@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e169dfd5c10b1144ea372a9cf6163f82475bc9e5f5cbc20d8d6e9b91ecfef31b
+machine_hash: 082f496fe4c7bb34c039ac4d8c5d5fbc6527d8507a7f32bf0c6fbc412f7f737d
 product: cline
 product_name: Cline
 record:
@@ -56,10 +56,10 @@ record:
   title: 5 Model Support changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
-  changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
   the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
+- '[[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall
+  back to the built-in models.dev catalog snapshot when the public catalog…]]'
 - '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
   run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'

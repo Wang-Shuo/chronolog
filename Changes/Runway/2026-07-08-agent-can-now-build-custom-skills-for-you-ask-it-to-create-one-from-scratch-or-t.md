@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a42ef82e2478f1d093b962bb5e165ceb218e476428d06a6eef0a6e28cc5f5388
+machine_hash: 709a38f20d68b74f8bf11ef1778c1918162f4d2dc8055a94ab9440c72c296c88
 product: runway
 product_name: Runway
 record:
@@ -47,12 +47,12 @@ record:
   title: Custom Agent Skills
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press
-  Esc now interrupts the running main turn (flushing queued messages)…]]'
-- '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
-  changes in v2.1.205]]'
 - '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
   Mode changes in rust-v0.143.0]]'
+- '[[Changes/Kimi Code/2026-07-08-count-the-turn-that-starts-an-autonomous-goal-toward-its-turn-budget|Count
+  the turn that starts an autonomous goal toward its turn budget]]'
+- '[[Changes/Notion/2026-07-08-your-favorite-agents-now-fit-in-your-pocket-put-them-to-work-from-anywhere|Meet
+  the Notion Agents iOS app]]'
 source_release: '[[Releases/Runway/runway-2026-07-08-2026-07-08-custom-agent-skills-d04c68e6|runway-2026-07-08-2026-07-08-custom-agent-skills-d04c68e6]]'
 source_type: runway_changelog
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent Mode changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · Notion · [[Changes/Notion/2026-07-08-your-favorite-agents-now-fit-in-your-pocket-put-them-to-work-from-anywhere|Meet the Notion Agents iOS app]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
 <!-- chronolog:end -->
 

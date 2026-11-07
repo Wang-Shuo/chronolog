@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'GitHub Copilot CLI · 2026-09-16 · Interface Experience: 3 changes in
   1.0.85 — Add /config to open a sidebar configuration screen in the CLI'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1346
+  lag_days: 2712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b41a5f14028ee95a44fffd22efd99ee5bc709167dc09040bb6cb0deb9d1094ed
+machine_hash: 1d18370ace87a00e5935f36115efa1c9df090dccc84c87ecadfbcf27845bd9a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Interface Experience changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
+- '[[Changes/Kimi Code/2026-09-14-delete-sessions-from-the-session-picker-press-ctrl-x-on-a-session-then-y-to-conf|Delete
+  sessions from the session picker: press Ctrl+X on a session, then y to confirm]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
 - '[[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized
@@ -108,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

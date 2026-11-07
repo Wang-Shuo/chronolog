@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a8a6f3397dd9fbfce8bfdf87ff168e1d42035bfa44e44a7bddd878186b95138a
+machine_hash: 80a04b53afb89bc3b6453215071888587926aeca7130a680140b010a920a7fb7
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved logic to prevent agent from getting stuck
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-21-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-04-21-agents-platform-acb364|Agents Platform]]'
+- '[[Changes/Descript/2025-04-22-agent-underlord|Agent Underlord]]'
 - '[[Changes/Dify/2025-04-23-3-agent-mode-changes-in-1-3-0|3 Agent Mode changes in
   1.3.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'

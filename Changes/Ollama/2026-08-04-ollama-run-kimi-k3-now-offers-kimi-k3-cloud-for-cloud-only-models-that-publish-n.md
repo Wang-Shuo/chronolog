@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34a005b94586e2a4230bacbb897694d14e32d312fe516d71f7f9f5803ae05b5b
+machine_hash: bb2138c1efea80bbfd57556c09c03e22597af51095c7f0f461c045c8717aba36
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
     publish…'
   type: change
 related_changes:
-- '[[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model
-  Router Routing History]]'
 - '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
   changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
   the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
+- '[[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall
+  back to the built-in models.dev catalog snapshot when the public catalog…]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-04-v0-32-6-github-365064807-43cc54ab|ollama-2026-08-04-v0-32-6-github-365064807-43cc54ab]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]]
+- Earlier: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-fall-back-to-the-built-in-models-dev-catalog-snapshot-when-the-public-catalog-is|Fall back to the built-in models.dev catalog snapshot when the public catalog…]]
 - Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes in v4.1.4]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1858fb44fde16edee04b173c03d79240201121d72c58306564285f59a8e94f22
+machine_hash: ee5d78b23acd4f0db0d60f10ef7e2557d60017bd9f29f7c81e02d11d3fd101c9
 product: gemini
 product_name: Gemini
 record:
@@ -56,8 +56,8 @@ record:
   title: '3.6 Flash: An upgraded model for your daily life'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
-  pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/Kimi Code/2026-07-20-2-model-support-changes-in-kimi-code-0-28-0|2 Model
+  Support changes in Kimi Code 0.28.0]]'
 - '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
   changes in v1.18.4]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model

@@ -5,20 +5,20 @@ description: "Open WebUI · 2024-09-25 · Voice and Audio: **\U0001F4DE 'Call' U
   Fix**: Corrected functionality for 'call' URL search parameter ensuring reliable
   activation…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 443
+  lag_days: 2270
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fff74cba5a438ede888f657e0545cb2864f09663f7b4b13fa7f82f8ce3c0f429
+machine_hash: 33e1a1535c92d59bf7c0ffb55f25e6ea420f6e4af76627536bef0f0bb2d3b1c8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -81,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-enhanced-audio-support-now-includes-support-for-audio-x-m4a-files-broadening-com|🎵 Enhanced Audio Support]]
-- Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]
+- Later: 2024-09-26 · Synthesia · [[Changes/Synthesia/2024-09-26-record-your-screen-in-one-take-then-turn-it-into-a-polished-synthesia-video-with|Try our new AI Screen Recorder]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

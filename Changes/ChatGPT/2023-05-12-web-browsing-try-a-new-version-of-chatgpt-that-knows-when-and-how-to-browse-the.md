@@ -5,20 +5,20 @@ description: 'ChatGPT · 2023-05-12 · Search and Browsing: Web browsing: Try a 
   version of ChatGPT that knows when and how to browse the internet to answer questions
   about…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 50
+  lag_days: 1079
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e05e028d933f836d74bcce0b0da2ee64c7d1c68ffa35f20820c5093bd1b8be05
+machine_hash: abbbb7f2c558b52296b1a011bdeea49e1ad62c24ae8646cb0dada82da392479c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,11 @@ record:
   title: 'Web browsing: Try a new version of ChatGPT that knows when and how to browse…'
   type: change
 related_changes:
+- '[[Changes/Notion/2022-09-13-browse-through-a-page-s-images-from-one-place|Browse
+  through a page’s images from one place]]'
 - '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
   An experimental model that knows when and how to browse the internet]]'
+- '[[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7|chatgpt-2023-05-12-web-browsing-and-plugins-are-now-rolling-out-in-beta-5dbe86e7]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -78,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earlier: 2023-05-01 · Descript · [[Changes/Descript/2023-05-01-smaller-tweaks|Smaller tweaks]]
 - Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search History Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

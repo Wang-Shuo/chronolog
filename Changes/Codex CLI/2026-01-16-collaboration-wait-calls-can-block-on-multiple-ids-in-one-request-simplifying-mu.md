@@ -4,19 +4,20 @@ date: '2026-01-16'
 description: 'Codex CLI · 2026-01-16 · Collaboration: Collaboration wait calls can
   block on multiple IDs in one request, simplifying multi-thread coordination. (#9294)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  first_in_tracked: '[[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create
+    a team here: (source link)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 968
+  lag_days: 2562
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88d076596f914ae951f1689176dcbb1f89efc9ef7ec8f503fa7e420c22aeea58
+machine_hash: 259b4e23d4f144e35c8c276962d491b6c66a23b575fcdf657c4b95350324ab02
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,13 +81,13 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude Code access added to Team plan Standard seats]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration changes in rust-v0.88.0]]
+- Later: 2026-01-20 · Notion · [[Changes/Notion/2026-01-20-understand-how-your-team-uses-notion-ai|Understand how your team uses Notion AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+- Earliest same-theme entry in the tracked set: 2019-01-11 · Descript · [[Changes/Descript/2019-01-11-create-a-team-here-https-web-descript-com-drive-new-teams|Create a team here: (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

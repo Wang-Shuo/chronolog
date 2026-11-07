@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bd00578bfee8aed053ed3c4670fddef8dfe93e2967c1cbff4af1cb75aefe63e7
+machine_hash: 4cce86cd349850484176d68df14155e6d89af1462b192a092de62683bef3c86a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -72,8 +72,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
-  Claude agent SDK-style structured outputs in the OpenCode SDK]]'
+- '[[Changes/HeyGen/2026-02-13-describe-the-video-you-want-in-natural-language-video-agent-handles-the-rest-scr|Describe
+  the video you want in natural language]]'
 - '[[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production
   SQL database access]]'
 - '[[Changes/ElevenLabs/2026-02-16-widget-packages|Widget Packages]]'

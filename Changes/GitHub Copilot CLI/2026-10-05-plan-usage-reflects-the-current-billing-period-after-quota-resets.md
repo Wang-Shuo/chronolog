@@ -4,20 +4,20 @@ date: '2026-10-05'
 description: 'GitHub Copilot CLI · 2026-10-05 · Pricing Model: Plan usage reflects
   the current billing period after quota resets'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1390
+  lag_days: 3008
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0d78743624b52d4403409625adaceae37c77357a66ff6590029342721c3dfd14
+machine_hash: 78d437434b0e60b7d3c53c84efc456f299806c732b4a3a4e51de9727ee610d94
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model changes in v2026.9.8]]
-- Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
+- Later: 2026-10-06 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-10-06-copilot-analytics-cowork-adoption-and-impact-web-viva-insights|Copilot Analytics - Cowork adoption and impact Web (Viva Insights)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-01-22'
 description: 'Dify · 2025-01-22 · Files and Data: 3 changes in v0.15.2 — **Environment
   Configuration for Chunk Length**: Configure document chunk length through environment…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
-    Files and Data changes in 0.2.2]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode
+    offset]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 608
+  lag_days: 1953
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2915d58092a233080033f2f6f4d2e6c374552b600e690d9227130a63c39bbf41
+machine_hash: fc431850e3608d22089e7d81dd192719754b1d0a35e7a11e18a812d6f32452c5
 product: dify
 product_name: Dify
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.15.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-in-document-export-there-s-a-field-where-the-user-can-add-the-number-of-seconds|Timecode offset]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

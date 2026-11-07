@@ -4,19 +4,20 @@ date: '2024-06-24'
 description: 'Aider · 2024-06-24 · Developer Workflow: 2 changes in Aider v0.40.0
   — Options to suppress adding "(aider)" to the [git author and committer…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 464
+  lag_days: 2113
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d3106b523c5336184c2969af04ea71f5490bec628405cfce25d4e9659787f7e
+machine_hash: d9af2a2c79f1df6885107cbdf0d3aa8b02e4bd4cd9a33e43f27f1e3b70a1216a
 product: aider
 product_name: Aider
 record:
@@ -87,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.40.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

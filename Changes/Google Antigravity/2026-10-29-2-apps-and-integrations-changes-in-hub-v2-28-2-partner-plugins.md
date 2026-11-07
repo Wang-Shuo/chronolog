@@ -5,20 +5,20 @@ description: 'Google Antigravity · 2026-10-29 · Apps and Integrations: 2 chang
   HUB v2.28.2 — Partner plugins in the Marketplace and plugin sign-in — The Marketplace
   has…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1316
+  lag_days: 2876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e20398bcfb549481fac666720b4b8c3b352ae1a0baa2c7baf9ddc2e210444bb4
+machine_hash: 822cc7ec9b7f29f242599faa10f983ef21592215fb1aa1c67f91965d4829c4c9
 product: google-antigravity
 product_name: Google Antigravity
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Apps and Integrations changes in HUB v2.28.2 — Partner plugins…
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation
-  navigator and third party tools notice]]'
+- '[[Changes/Kimi Code/2026-10-28-reconnect-workspace-mcp-servers-automatically-with-backoff-when-the-initial-conn|Reconnect
+  workspace MCP servers automatically with backoff when the initial…]]'
 - '[[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect
   Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]'
 - '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
@@ -95,7 +95,7 @@ Source: https://antigravity.google/releases?tab=hub&version=2.28.2
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

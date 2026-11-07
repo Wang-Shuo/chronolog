@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Voice and Audio: Voice runtime download
   dialog no longer reopens in a loop after an install failure'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1069
+  lag_days: 2896
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eefa9eb463eeccb600c2b1a3d120bb438eb15ad4c9d12dd698a9473a88072753
+machine_hash: 76325f60c5bc56a5e6ba3d5a62d021a6bb053a8b232557c94a124d8efb6ee1f5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     failure
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With
-  Design Mode in the Cursor browser, you can click, draw, or describe changes…]]'
-- '[[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-06-08-packages|Packages]]'
+- '[[Changes/Descript/2026-06-11-transcription|Transcription]]'
+- '[[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]'
+- '[[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade
+  unsupported audio/video to placeholder text and reattach tool result media…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: voice
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-packages|Packages]]
+- Earlier: 2026-06-12 · Kimi Code · [[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade unsupported audio/video to placeholder text and reattach tool result media…]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice and Audio changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

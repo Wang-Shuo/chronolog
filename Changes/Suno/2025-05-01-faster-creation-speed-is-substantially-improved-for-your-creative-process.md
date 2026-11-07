@@ -4,20 +4,20 @@ date: '2025-05-01'
 description: 'Suno · 2025-05-01 · Reliability and Performance: Faster creation — Speed
   is substantially improved for your creative process'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 868
+  lag_days: 2355
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31e87a8e7e2076a50a316c8fcb50356229ea60f39c269439bb42c690c45c1d0a
+machine_hash: 09c1c55ead636b8b462701fbf17ddc2a2336d5fe9d4678d5ea4bd7dcaec89ee8
 product: suno
 product_name: Suno
 record:
@@ -41,7 +41,8 @@ record:
   title: Faster creation — Speed is substantially improved for your creative process
   type: change
 related_changes:
-- '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
+- '[[Changes/Descript/2025-04-22-the-new-screen-recorder-in-beta-this-week|The new
+  Screen recorder—in Beta this week]]'
 - '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
   speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
 - '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

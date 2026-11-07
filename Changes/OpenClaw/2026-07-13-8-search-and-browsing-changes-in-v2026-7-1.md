@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-07-13 · Search and Browsing: 8 changes in v2026.
   — iPhone and iPad chat now opens with the last known conversation and lets users
   browse…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing:
-    An experimental model that knows when and how to browse the internet]]'
+  first_in_tracked: '[[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added
+    ability to batch delete/ignore search results]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 2237
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3833cd9c8ed74ed47244b5cc5ce0f897c7e18418ebe5c6f138e9bdbe73f3572
+machine_hash: 246a536985f7a65d6814f7a1e4658e64fc984f1219709b0de4cf0b636ff7429a
 product: openclaw
 product_name: OpenClaw
 record:
@@ -69,10 +69,10 @@ record:
   title: 8 Search and Browsing changes in v2026.7.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
-  resume, and switch between sessions from the agents screen]]'
-- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
-  Web search domain filtering. Domain allow and block rules for web search…]]"
+- '[[Changes/Kimi Code/2026-07-02-save-shell-commands-to-input-history-and-recall-them-in-bash-mode-press-up-on-an|Save
+  shell commands to input history and recall them in bash mode]]'
+- '[[Changes/Kimi Code/2026-07-06-web-add-an-archived-sessions-page-in-settings-to-browse-and-restore-archived-ses|web:
+  Add an Archived sessions page in Settings to browse and restore archived sessions]]'
 - '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
   core: migrate standalone web search to extension-owned turn items @owenlin0]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-07-13-v2026-7-1-c2063718|openclaw-2026-07-13-v2026-7-1-c2063718]]'
@@ -153,7 +153,7 @@ Source: https://docs.openclaw.ai/releases/2026.7.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-browsing-an-experimental-model-that-knows-when-and-how-to-browse-the-internet|Browsing: An experimental model that knows when and how to browse the internet]]
+- Earliest same-theme entry in the tracked set: 2020-05-28 · Descript · [[Changes/Descript/2020-05-28-added-ability-to-batch-delete-ignore-search-results|Added ability to batch delete/ignore search results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

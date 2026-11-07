@@ -4,20 +4,20 @@ date: '2026-02-27'
 description: 'Gemini CLI · 2026-02-27 · Automation and Scheduling: Migrate core render
   util to use xterm.js as part of the rendering loop. by @jacob314 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-    data clean schedule]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change
+    gain, with volume automation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 787
+  lag_days: 2354
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4913276f8570cb7b9faa5a038132bc1222fc96cc245dd418eb947e2796d01afa
+machine_hash: d6cd07136795b4d50ad0bc43fff13978a0987a064993b84cc2a312ca6aa34f05
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Migrate core render util to use xterm.js as part of the rendering loop
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
-  SessionPrompt.shell() now triggers loop if messages are queued]]'
 - "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
   Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
+- '[[Changes/Notion/2026-02-24-first-they-re-completely-autonomous-no-manual-prompting-just-give-them-a-job-set|First,
+  they’re completely autonomous (no manual prompting)]]'
 - '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'
 source_type: github_releases
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-change-gain-with-volume-automation|Change gain, with volume automation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

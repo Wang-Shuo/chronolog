@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5205490bbb2a04a91d84b5c57036fbe9d3c3c43106ee45f9d60bf47a942c53ea
+machine_hash: 28c5ae0a248314ed5bc078dbfac0466d682970ab522b5c95ccbef1d92793074a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,8 +61,8 @@ record:
   title: 9 Model Support changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-10-26-enabled-gemini-4-argon-in-antigravity-ide-for-eligible-tiers-bringing-google-s-n|Enabled
-  Gemini 4 Argon in Antigravity IDE for eligible tiers, bringing Google''s…]]'
+- '[[Changes/Kimi Code/2026-10-26-update-model-switch-confirmation-prompts|Update
+  model switch confirmation prompts]]'
 - '[[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App
   Studio]]'
 - '[[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support

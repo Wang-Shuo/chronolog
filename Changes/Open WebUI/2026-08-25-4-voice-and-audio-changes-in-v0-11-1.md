@@ -5,20 +5,20 @@ description: "Open WebUI · 2026-08-25 · Voice and Audio: 4 changes in v0.11.1 
   **Voice mode in the notes editor.** The voice mode button is no longer offered in
   the chat…"
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1142
+  lag_days: 2969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2186a56bf9a80ce1057f828f9f1b626203481458b8b61fdb2b8cd99a3af41039
+machine_hash: 85ec34d7f6ea8fc9da2e02c16d68963d53c1f6ca38016ff285662c887476600a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,11 +60,12 @@ record:
   title: 4 Voice and Audio changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]'
 - '[[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded
   Terminals, Git Version Control, and Audio Attachments]]'
 - '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
   ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
+- '[[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use
+  voice for Q&A during Read Aloud in Word Windows (Word)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: voice
@@ -122,14 +123,14 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]
+- Earlier: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-use-voice-for-q-a-during-read-aloud-in-word-windows-word|Use voice for Q&A during Read Aloud in Word Windows (Word)]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953 Support voice-aware configuration and version-skew builds @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'Claude Code · 2026-05-28 · Reliability and Performance: Renamed the
   `/effort` slider labels from "Speed"/"Intelligence" to "Faster"/"Smarter" for clarity'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1260
+  lag_days: 2747
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3375733301cd8b6783f0cef0d4cd45af51199c303c3b892439ca4c982f9c2c85
+machine_hash: a130ea7fb20190038ab8f3183d8d6f41332b7004141f86a098584ee74784d2eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude Code now shows a one-time notice when your npm global install can't auto-update]]
-- Later: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]
+- Later: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-offload-large-base64-media-payloads-from-wire-jsonl-into-external-blob-files-to|Offload large base64 media payloads from wire.jsonl into external blob files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

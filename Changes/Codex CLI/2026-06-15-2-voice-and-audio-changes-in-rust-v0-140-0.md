@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-06-15 · Voice and Audio: 2 changes in 0.140.0 �
   the experimental `/realtime` voice controls and related audio dependencies from
   the…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1071
+  lag_days: 2898
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 252d035ff0d61d9cdd42e29df78022385a0455406aab7637ff9f3061af3139f9
+machine_hash: 3367f86ecf614c1ba7e5087284f99db21faf6384efed3d0feb0e48a0e6ab3eb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,9 @@ record:
   title: 2 Voice and Audio changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]'
-- '[[Changes/ElevenLabs/2026-06-08-packages|Packages]]'
+- '[[Changes/Descript/2026-06-11-tone-tags-for-ai-speakers|Tone Tags for AI speakers]]'
+- '[[Changes/Kimi Code/2026-06-12-degrade-unsupported-audio-video-to-placeholder-text-and-reattach-tool-result-med|Degrade
+  unsupported audio/video to placeholder text and reattach tool result media…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
   runtime download dialog no longer reopens in a loop after an install failure]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
@@ -104,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

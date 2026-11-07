@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ced76704470b0b016fe9b63eb0ec736be48b10fd4e7febbf2aa2e3137b0b429
+machine_hash: fac603f402735bfb7410208a0090108edfa16a8499f67e9106b11e3ae5665cfd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     Enterprise plans'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model
-  Support changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model
   Support changes in v1.0.14]]'
+- '[[Changes/HeyGen/2026-03-31-we-ll-take-footage-at-any-resolution-and-give-you-a-crisp-sharp-4k-file-powered|We’ll
+  take footage at any resolution and give you a crisp, sharp 4K file, powered…]]'
 - '[[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add
   a dedicated system prompt for Kimi models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'

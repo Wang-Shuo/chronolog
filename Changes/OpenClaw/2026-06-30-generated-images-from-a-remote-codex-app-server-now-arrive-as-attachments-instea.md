@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'OpenClaw · 2026-06-30 · Image Generation: Generated images from a remote
   Codex app-server now arrive as attachments instead of showing Media failed or…'
 diffusion:
-  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
-    DALL-E Integration]]"
+  first_in_tracked: '[[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image
+    generation]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 842
+  lag_days: 1100
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b62e01ab12d637f12c966cea06f8de98d511e359380e73bfa4f9b9a4370599eb
+machine_hash: 208d7ac4855fbf04c51e20afa467dac3fcb403a5f094b7e943cae24f81030745
 product: openclaw
 product_name: OpenClaw
 record:
@@ -45,8 +45,8 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
-  Handle standalone image generation failures as terminal items @won-openai]]'
+- '[[Changes/Microsoft 365 Copilot/2026-06-16-black-forest-lab-s-flux-2-flex-model-is-available-in-powerpoint-for-microsoft-36|Black
+  Forest Lab''s FLUX.2 Flex model is available in PowerPoint for Microsoft 365…]]'
 - '[[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better
   standard image generation while building]]'
 - "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+- Earliest same-theme entry in the tracked set: 2023-06-26 · Descript · [[Changes/Descript/2023-06-26-text-to-image-generation|Text-to-image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

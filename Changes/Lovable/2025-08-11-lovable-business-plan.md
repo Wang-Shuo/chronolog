@@ -4,20 +4,20 @@ date: '2025-08-11'
 description: 'Lovable · 2025-08-11 · Enterprise and Administration: Introducing the
   Lovable Business Plan, built for teams that need more control, privacy, and flexibility…'
 diffusion:
-  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
-    for Google Workspace accounts]]'
+  first_in_tracked: '[[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export
+    members as CSV (for Enterprise Plans) Quickly download a list of the people…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 829
+  lag_days: 2036
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c920c26ce6bcee3daa2eb2a484a68a03153d4555fc30ceabdb5e9c3ef2075f2
+machine_hash: f2571e3c238b8e2ca0b5def490340428d77fb90d3b777b9239c62cd66bd6383b
 product: lovable
 product_name: Lovable
 record:
@@ -55,9 +55,9 @@ record:
   title: Lovable Business plan**
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
-  team admins to configure an extension allowlist]]'
 - '[[Changes/Replit/2025-08-08-enterprise|Enterprise]]'
+- '[[Changes/Synthesia/2025-08-08-turn-a-simple-text-prompt-into-an-8-second-1080p-video-clip-then-reuse-it-anywhe|Create
+  video assets with Veo 3]]'
 - '[[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3
   Enterprise and Administration changes in v0.6.19]]'
 source_release: '[[Releases/Lovable/lovable-2025-08-11-2025-08-11-96795da2|lovable-2025-08-11-2025-08-11-96795da2]]'
@@ -109,13 +109,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-3-enterprise-and-administration-changes-in-v0-6-19|3 Enterprise and Administration changes in v0.6.19]]
-- Later: 2025-08-20 · Claude · [[Changes/Claude/2025-08-20-premium-seats-with-claude-code-for-team-and-enterprise-plans|Premium seats with Claude Code for Team and Enterprise plans]]
+- Later: 2025-08-19 · Notion · [[Changes/Notion/2025-08-19-download-pages-for-offline-use|Download pages for offline use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
+- Earliest same-theme entry in the tracked set: 2020-01-14 · Notion · [[Changes/Notion/2020-01-14-export-members-as-csv-for-enterprise-plans-quickly-download-a-list-of-the-people|Export members as CSV (for Enterprise Plans) Quickly download a list of the people…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

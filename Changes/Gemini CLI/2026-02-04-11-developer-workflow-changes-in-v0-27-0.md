@@ -4,19 +4,20 @@ date: '2026-02-04'
 description: 'Gemini CLI · 2026-02-04 · Developer Workflow: 11 changes in Release
   v0.27.0 — Support command/ctrl/alt backspace correctly by @scidomino in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1054
+  lag_days: 2703
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 152a963660eb0d299a24d6d9ca780aba4b02d0e87c9cd1dffba8fd50501094a6
+machine_hash: 188e6e56ba7410a7ed4327b9ab1918e6d76dc97d287b27a3a4505ddf673f4773
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -132,7 +133,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

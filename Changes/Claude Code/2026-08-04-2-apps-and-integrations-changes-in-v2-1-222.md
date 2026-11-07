@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-04 · Apps and Integrations: 2 changes in v
   — Improved the `/diff` view, the Remote Control workspace diff, and file-edit diffs
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1230
+  lag_days: 2790
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e61f21f0ad2d2fb04c0ffeb99120c549d29a65668a3807659a8c704558378639
+machine_hash: 085656f8921cf6e179ac37ebbfd89fd36397054db49094973e9fbbcbb7f77520
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4 Apps and Integrations changes in v2.1.221]]
-- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map reasoning settings onto a shared path across AI SDK providers, so effort levels…]]
+- Later: 2026-08-04 · Kimi Code · [[Changes/Kimi Code/2026-08-04-add-four-hook-events-turnstarted-userpromptqueued-taskstarted-and-sessionheartbe|Add four hook events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Lovable · 2025-10-06 · Reliability and Performance: Both our Par
   page and Remix got upgrades so you can extend what you build through the community.
   Visit…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1026
+  lag_days: 2513
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66f5b7834aae8c2eae2295f518ea4ccf8a807cc8ca5059ce079987b01e0e405e
+machine_hash: a5bc13d6c5062ffd125d85284841d7e472da877c1067c80b3c12abbf02ba26ba
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: Updated community resources**
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-29-3-reliability-and-performance-changes-in-1-9-1|3 Reliability
-  and Performance changes in 1.9.1]]'
 - '[[Changes/Windsurf/2025-09-29-devin-features-in-windsurf-stability-improvements-and-a-brand-new-ui|Devin
   features in Windsurf, stability improvements, and a brand new UI]]'
+- '[[Changes/Z.ai API/2025-09-30-we-ve-launched-glm-4-6-the-flagship-coding-model-showcasing-enhanced-performance|We’ve
+  launched GLM-4.6, the flagship coding model, showcasing enhanced performance…]]'
 - '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
   Reliability and Performance changes in v0.7.0]]'
 source_release: '[[Releases/Lovable/lovable-2025-10-06-2025-10-06-d7db7508|lovable-2025-10-06-2025-10-06-d7db7508]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2025-12-22'
 description: 'v0 · 2025-12-22 · Context Window: You can now connect v0 to your Glean
   workspace and build directly from your company''s knowledge.'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 963
+  lag_days: 2287
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72f7eccbae5320e304c6e8e5323971c4119213d09af876d9cc64d34d83ee761a
+machine_hash: 4f422ce3edf43fce2701df410d50fef0c90af40bfdf753f2d0d557d6d272dcde
 product: v0
 product_name: v0
 record:
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add /context command to visualize token usage]]
+- Earlier: 2025-12-22 · Z.ai API · [[Changes/Z.ai API/2025-12-22-we-ve-released-glm-4-7-our-foundation-model-with-significant-improvements-in-cod|We’ve released GLM-4.7, our foundation model with significant improvements…]]
 - Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

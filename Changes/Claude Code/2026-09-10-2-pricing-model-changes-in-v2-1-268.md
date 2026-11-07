@@ -4,20 +4,20 @@ date: '2026-09-10'
 description: 'Claude Code · 2026-09-10 · Pricing Model: 2 changes in v2.1.268 — Added
   to the Claude apps gateway: with `pricing:` set in `gateway.yaml`, signed-in Claude…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1365
+  lag_days: 2983
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71e18fd7174437865ff17344b2cd6eb41f04a09697d33c805cf0313ad2d1a462
+machine_hash: 1aebb1c32d7a2b1ce8fa06613db142b61883971e41555c796882298114490687
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Pricing Model changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model
-  changes in v2026.9.3]]'
-- '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
-  Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
   Up to 15 hours with GPT-Live-1]]'
+- '[[Changes/Synthesia/2026-09-09-purchase-credits-and-set-automatic-top-ups-so-long-running-jobs-don-t-fail-when|Buy
+  credits and set auto top-ups]]'
+- '[[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track
+  credit usage with the Billing API]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: pricing-model
@@ -94,14 +94,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]]
+- Earlier: 2026-09-09 · Synthesia · [[Changes/Synthesia/2026-09-09-get-a-clear-breakdown-of-credit-usage-with-a-new-billing-api-endpoint-so-you-can|Track credit usage with the Billing API]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

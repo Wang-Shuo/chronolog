@@ -5,20 +5,20 @@ description: 'OpenClaw · 2026-09-23 · Pricing Model: 8 changes in v2026.9.6 �
   Sol and Luna give you two new choices for text, images, and tool use through the
   OpenAI…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
-    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer
+    Invoices]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1378
+  lag_days: 2996
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fdde930bba81f23d067b410edbd535d700988a2e2a3d4cc0212cafb7937c94df
+machine_hash: 481736fb9aa9c5a7f9271975dc3f858ed5eb22c4571e640552d524f4e10bb7d8
 product: openclaw
 product_name: OpenClaw
 record:
@@ -88,12 +88,12 @@ record:
   title: 8 Pricing Model changes in v2026.9.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
-  the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
 - '[[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image
   and video generation now appear in Usage details]]'
 - '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
   the estimated monthly Cloud cost of each database size]]'
+- '[[Changes/Microsoft 365 Copilot/2026-09-23-github-copilot-ai-cost-dashboard-in-insights-web-microsoft-365-copilot|GitHub
+  Copilot AI cost dashboard in Insights Web (Microsoft 365 Copilot)]]'
 source_release: '[[Releases/OpenClaw/openclaw-2026-09-23-v2026-9-6-3f12c824|openclaw-2026-09-23-v2026-9-6-3f12c824]]'
 source_type: openclaw_changelog
 theme: pricing-model
@@ -160,14 +160,14 @@ Source: https://docs.openclaw.ai/releases/2026.9.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See the estimated monthly Cloud cost of each database size]]
+- Earlier: 2026-09-23 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-09-23-github-copilot-ai-cost-dashboard-in-insights-web-microsoft-365-copilot|GitHub Copilot AI cost dashboard in Insights Web (Microsoft 365 Copilot)]]
 - Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+- Earliest same-theme entry in the tracked set: 2018-07-11 · Descript · [[Changes/Descript/2018-07-11-improved-the-design-usefulness-of-your-billing-history|Nicer Invoices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

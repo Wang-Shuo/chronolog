@@ -4,20 +4,20 @@ date: '2026-09-28'
 description: 'Claude Code · 2026-09-28 · Reliability and Performance: Improved startup
   time and memory use by building only the parts of the settings schema that your…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1383
+  lag_days: 2870
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87a26a9ec3a8a194bd15f6377f1b873ff0ea6c90bd4c8ba4cc98711d329aea44
+machine_hash: 128f9e69a25fc81f2b94b7622fba86eeee69ee366ea9b62e6886ab03bf6c1910
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved startup time and memory use by building only the parts of the settings…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
-  Reliability and Performance changes in v0.34.4]]'
 - '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
   Reliability and Performance changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
+- '[[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved
+  resolution options for generated B-roll]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]]
+- Earlier: 2026-09-25 · Synthesia · [[Changes/Synthesia/2026-09-25-pick-720p-1080p-or-4k-when-generating-b-roll-so-you-can-iterate-faster-control-q|Improved resolution options for generated B-roll]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984 Add multi-agent spawn latency and failure metrics @owenlin0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

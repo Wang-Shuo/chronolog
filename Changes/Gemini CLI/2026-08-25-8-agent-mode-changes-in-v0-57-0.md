@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7589a2d30e7824238dad0dac8fc0f391f5c5964cd6268aa68b3351c8684000d
+machine_hash: c2fa72b36870f9409432ee6f5ea1e3f496e2a0034fe75e9a91b8829568e76d32
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.57.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes in 1.17.0]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|🤝 Files for delegated tasks. A task handed to a sub-agent can now carry…]]
+- Later: 2026-08-25 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-08-25-work-iq-apis-unified-rest-endpoint-for-agents-and-workflows-developer-web-micros|Work IQ APIs – Unified REST Endpoint for Agents and Workflows Developer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

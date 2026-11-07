@@ -3,20 +3,20 @@ card_id: replit-2026-05-29-ba727b
 date: '2026-05-29'
 description: 'Replit · 2026-05-29 · Apps and Integrations: Integrations'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1163
+  lag_days: 2723
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 66d1424dc47f71fff7e06af6f0a77cef561bfd907197db495f3f5550cea9a2fa
+machine_hash: 4db8e0675521bc17eec90f9b2bbc717d1c3d4792435cd098e78597fd1aae4148
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
 - '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
   and ChatGPT connectors just got smarter]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
   Apps and Integrations changes in v1.0.56]]'
+- '[[Changes/Kimi Code/2026-05-29-3-apps-and-integrations-changes-in-kimi-code-0-6-0|3
+  Apps and Integrations changes in Kimi Code 0.6.0]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
+- Earlier: 2026-05-29 · Kimi Code · [[Changes/Kimi Code/2026-05-29-3-apps-and-integrations-changes-in-kimi-code-0-6-0|3 Apps and Integrations changes in Kimi Code 0.6.0]]
 - Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-sessions-can-now-store-custom-metadata-through-the-api-and-sdk|Sessions can now store custom metadata through the API and SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

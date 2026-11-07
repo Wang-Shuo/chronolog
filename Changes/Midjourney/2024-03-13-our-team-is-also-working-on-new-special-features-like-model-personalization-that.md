@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d31745cb7dc6dcd2e7be0bb65a3fe7f849a470dc6c3ee35a36746cfb1fb30390
+machine_hash: d8cc99f589d269455ace282b9991c3a1923d3fcc7e84c26b34f5ff2c676ac5c0
 product: midjourney
 product_name: Midjourney
 record:
@@ -59,8 +59,7 @@ record:
   title: Our team is also working on new special features like model personalization…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
+- '[[Changes/Descript/2023-12-05-command-e-https-help-descript-com-hc-en-us-articles-10255582172173-keyboard-shor|Command…]]'
 - '[[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat:
   optimize memory & invoke error output]]'
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory

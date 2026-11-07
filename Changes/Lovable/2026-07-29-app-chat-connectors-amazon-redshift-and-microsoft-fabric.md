@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Lovable · 2026-07-29 · Apps and Integrations: [Amazon Redshift](https://docs.lovable.dev/integrations/amazon-redshift.md)
   lets apps run SQL statements and read…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1224
+  lag_days: 2784
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2b127e6787567a0e44942ae9df1cb0d6a10b3d76cde02555c0cb4f8cbf362e50
+machine_hash: a282471087636ef45fb796c7419cdc501c123abc600a93f862f1d47f938757dc
 product: lovable
 product_name: Lovable
 record:
@@ -55,12 +55,12 @@ record:
   title: 'App + chat connectors: Amazon Redshift and Microsoft Fabric'
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core
-  Restored compatibility with legacy MCP SDK clients]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
   Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2
+  Apps and Integrations changes in Kimi Code 0.30.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-29-2026-07-29-599fab6b|lovable-2026-07-29-2026-07-29-599fab6b]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
-- Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2 Apps and Integrations changes in v1.0.76]]
+- Earlier: 2026-07-29 · Kimi Code · [[Changes/Kimi Code/2026-07-29-2-apps-and-integrations-changes-in-kimi-code-0-30-0|2 Apps and Integrations changes in Kimi Code 0.30.0]]
+- Later: 2026-07-29 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-07-29-admins-can-now-edit-user-mappings-and-query-filters-for-servicenow-connector-web|Admins can now edit user mappings and query filters for ServiceNow Connector…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

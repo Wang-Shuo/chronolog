@@ -5,20 +5,20 @@ description: 'Lovable · 2026-06-26 · Interface Experience: When you start a pr
   from a template or attach a design system, the picker now has a search box. Type
   to…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
-    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  first_in_tracked: '[[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed
+    Sidebar]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1264
+  lag_days: 2630
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 23db30745d39be20df31b09e6d3a8661cac099521bf7fcaf62107722c685c95a
+machine_hash: c68e4ee8e2f5c07d8f01fc2b384f37d0f2f401fd518978301d2ab5aa7f123376
 product: lovable
 product_name: Lovable
 record:
@@ -46,11 +46,11 @@ record:
   title: Search the template and design system pickers
   type: change
 related_changes:
-- '[[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5
-  Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 - '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
+- '[[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep
+  the web session sidebar from re-rendering on every streaming token to improve…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-26-2026-06-26-0ee85750|lovable-2026-06-26-2026-06-26-0ee85750]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
+- Earlier: 2026-06-26 · Kimi Code · [[Changes/Kimi Code/2026-06-26-keep-the-web-session-sidebar-from-re-rendering-on-every-streaming-token-to-impro|Keep the web session sidebar from re-rendering on every streaming token to improve…]]
 - Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2 Interface Experience changes in Platform API v2, MCP chat tools…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+- Earliest same-theme entry in the tracked set: 2019-04-14 · Descript · [[Changes/Descript/2019-04-14-descript-s-sidebar-now-has-an-economical-collapsed-state|Collapsed Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

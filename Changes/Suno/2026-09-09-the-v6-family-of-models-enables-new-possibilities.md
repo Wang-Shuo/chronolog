@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9290ed1ee7b3576da3bb84df8c53cfe8149ad6717952997be6ce757dcad70812
+machine_hash: 6fb2b342a6efa8aaf114fead8f4df43f0ed82237239c6f6714db1e3a4b49766d
 product: suno
 product_name: Suno
 record:
@@ -67,12 +67,12 @@ record:
   title: The v6 family of models enables new possibilities
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added
-  the Astra system prompt for GPT-6 models]]'
 - '[[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support
   changes in v1.18.30]]'
 - '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
   enable LLM provider connections on cloud]]'
+- '[[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support
+  changes in Qoder 0.2.2]]'
 source_release: '[[Releases/Suno/suno-2026-09-09-e-introducing-v6-2635dba9|suno-2026-09-09-e-introducing-v6-2635dba9]]'
 source_type: suno_changelog
 theme: model-support
@@ -113,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
+- Earlier: 2026-09-09 · Qoder · [[Changes/Qoder/2026-09-09-2-model-support-changes-in-qoder-0-2-2|2 Model Support changes in Qoder 0.2.2]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
 <!-- chronolog:end -->
 

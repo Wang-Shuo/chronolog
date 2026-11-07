@@ -4,20 +4,20 @@ date: '2024-06-28'
 description: 'Suno · 2024-06-28 · Voice and Audio: Audio Input is now available to
   everyone, including those with free accounts!'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 354
+  lag_days: 2181
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e59cbf51187e6cd8a96605e6645aa94e25444a4e530e69005d6d050f4f7dad9f
+machine_hash: f18b439db57ef4d6cecae1b35b1dcd9a955af222dbf39f84b4ef28b88e08aeef
 product: suno
 product_name: Suno
 record:
@@ -85,13 +85,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and Audio changes in v0.3.6]]
-- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
+- Later: 2024-07-02 · Descript · [[Changes/Descript/2024-07-02-regenerate-is-out-of-beta|Regenerate is out of Beta]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'Cursor · 2026-05-13 · Safety and Privacy: Every development envi
   now has its own version history that users can review and roll back. Admins can
   also…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 2115
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0fea19150cf24a3efc2701107df33eb664b7c7d2fb7379c4e179cfacd0ab49de
+machine_hash: 47c64c4a92e372f143262aa30976b8f3de320f72455000d5e654cbaa4562a1b6
 product: cursor
 product_name: Cursor
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety and Privacy changes in v2.1.141]]
-- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core Preserve layered permission rule order in config merges]]
+- Later: 2026-05-13 · Notion · [[Changes/Notion/2026-05-13-meet-your-notion-workers|Meet your Notion Workers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

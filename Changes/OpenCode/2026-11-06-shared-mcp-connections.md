@@ -5,20 +5,20 @@ description: 'OpenCode · 2026-11-06 · Apps and Integrations: Turn on pooling f
   MCP server to share one connection across projects with the same setup, so you run
   fewer…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1324
+  lag_days: 2884
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8d7ad8b884691dd87e8e7248f3ea6e90eef69190a2bc3f781ba2e91acb472ab5
+machine_hash: 15dfafd5f83eec9f1bdc235328356adc7c4ca11a20f21d5239c6d8e9a25a45a3
 product: opencode
 product_name: OpenCode
 record:
@@ -44,10 +44,10 @@ record:
   title: Shared MCP Connections
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
-  and Integrations changes in v1.36.0]]'
-- '[[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12
-  Apps and Integrations changes in rust-v0.167.0]]'
+- '[[Changes/Descript/2026-11-06-search-for-what-s-in-the-shot-b035ff|Search for what''s
+  in the shot]]'
+- '[[Changes/Descript/2026-11-06-claude-code-and-codex-can-connect-to-the-descript-mcp-now-if-it-failed-before-re|Claude
+  Code and Codex can connect to the Descript MCP now]]'
 - '[[Changes/GitHub Copilot CLI/2026-11-06-89-apps-and-integrations-changes-in-v1-0-106|89
   Apps and Integrations changes in v1.0.106]]'
 source_release: '[[Releases/OpenCode/opencode-2026-11-06-v2-2-6-b1ac172e|opencode-2026-11-06-v2-2-6-b1ac172e]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

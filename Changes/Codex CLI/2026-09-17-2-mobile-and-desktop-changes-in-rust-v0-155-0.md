@@ -4,20 +4,20 @@ date: '2026-09-17'
 description: 'Codex CLI · 2026-09-17 · Mobile and Desktop: 2 changes in 0.155.0 —
   #43624 Add macOS user verification with Secure Enclave signing @copyberry'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1283
+  lag_days: 2867
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f7624a62bbd0fb0e05a53971ebd50f4b1d81b5bcd9d741349a010207aa41d80
+machine_hash: 00458c17eaec0873f968cfa26d1c550adfb70f0926b40a55f71f03692299db78
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,13 +94,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On Windows, opening a repository that contains a file named rg.exe, git.exe…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
+- Later: 2026-09-17 · Descript · [[Changes/Descript/2026-09-17-import-from-google-drive-on-web|Import from Google Drive on web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

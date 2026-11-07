@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 8c992c950f1dc7b6723279ff578b555671310be15eb2805e4adcfd210907134d
+machine_hash: fe1eb5c7503551a626223f0c872efdd4799736eb33815289b7b987e1e876294d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-02-12-2-model-support-changes-in-v1-1-64-1|2 Model Support
-  changes in v1.1.64 + 1]]'
 - '[[Changes/OpenCode/2026-02-12-core-tool-outputs-are-now-more-llm-friendly|Core
   Tool outputs are now more LLM-friendly]]'
 - '[[Changes/OpenCode/2026-02-12-allow-model-configurations-without-npm-api-provider-details|Allow
   model configurations without npm/api provider details]]'
+- '[[Changes/Z.ai API/2026-02-12-it-directly-benchmarks-against-claude-opus-4-5-in-code-logic-density-and-systems|It
+  directly benchmarks against Claude Opus 4.5 in code-logic density…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-allow-model-configurations-without-npm-api-provider-details|Allow model configurations without npm/api provider details]]
+- Earlier: 2026-02-12 · Z.ai API · [[Changes/Z.ai API/2026-02-12-it-directly-benchmarks-against-claude-opus-4-5-in-code-logic-density-and-systems|It directly benchmarks against Claude Opus 4.5 in code-logic density…]]
 - Later: 2026-02-13 · Cline · [[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with minimax model family]]
 <!-- chronolog:end -->
 

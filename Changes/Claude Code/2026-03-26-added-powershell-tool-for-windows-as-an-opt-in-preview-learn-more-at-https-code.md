@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Claude Code · 2026-03-26 · Mobile and Desktop: Added PowerShell tool
   for Windows as an opt-in preview. Learn more at…'
 diffusion:
-  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
-    and Linux support \U0001F973]]"
+  first_in_tracked: '[[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command
+    + R to insert a speaker label (ctrl + R on Windows)]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1108
+  lag_days: 2692
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83434c79141294297f32ac69898329abb93ef39150c562ec9a5d1d03f625033e
+machine_hash: af748b0bfd42e19f65db0f88e56e5d4aa2c4b3876324621246921284b42efca0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
   title: Added PowerShell tool for Windows as an opt-in preview
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
+- '[[Changes/Microsoft 365 Copilot/2026-03-24-delegate-calendar-search-in-microsoft-365-copilot-android-windows-ios-mac-web-mi|Delegate
+  calendar search in Microsoft 365 Copilot Android, Windows, iOS, Mac…]]'
 - '[[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive
   apps in Claude for iOS and Android]]'
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-command-r-to-insert-a-speaker-label-ctrl-r-on-windows|command + R to insert a speaker label (ctrl + R on Windows)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

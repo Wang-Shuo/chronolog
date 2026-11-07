@@ -4,20 +4,19 @@ date: '2026-05-28'
 description: 'OpenCode · 2026-05-28 · Editor Experience: 2 changes in v1.15.12 — Desktop
   Added a setting to switch tab layouts'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1171
+  lag_days: 2755
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37427470b304cc1ee553b2f191e5ef376890f02a4ea8cb07c51f5a6f6208cae7
+machine_hash: 0d1a23447ae7fc2082d9b012070093828ca17ec50b6766f37a105f006f328e70
 product: opencode
 product_name: OpenCode
 record:
@@ -42,12 +41,12 @@ record:
   title: 2 Editor Experience changes in v1.15.12
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
-  autocomplete now shows "Disconnect Remote Control" when Remote…]]'
 - '[[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command
   completion now preserves existing draft text for commands that accept…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2
   Editor Experience changes in v1.0.55]]'
+- '[[Changes/Kimi Code/2026-05-28-wrap-long-question-body-and-option-text-in-the-askuserquestion-dialog-instead-of|Wrap
+  long question, body, and option text in the AskUserQuestion dialog instead…]]'
 source_release: '[[Releases/OpenCode/opencode-2026-05-28-v1-15-12-2957a170|opencode-2026-05-28-v1-15-12-2957a170]]'
 source_type: opencode_changelog
 theme: editor-experience
@@ -86,14 +85,14 @@ Source: https://opencode.ai/changelog/v1.15.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2 Editor Experience changes in v1.0.55]]
+- Earlier: 2026-05-28 · Kimi Code · [[Changes/Kimi Code/2026-05-28-wrap-long-question-body-and-option-text-in-the-askuserquestion-dialog-instead-of|Wrap long question, body, and option text in the AskUserQuestion dialog instead…]]
 - Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

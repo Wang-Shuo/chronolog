@@ -4,19 +4,20 @@ date: '2026-01-04'
 description: 'OpenCode · 2026-01-04 · Developer Workflow: 19 changes in v1.1.1 — Core
   Add development scripts for better debugging workflow in TUI'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  first_in_tracked: '[[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter
+    Colors]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1023
+  lag_days: 2672
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56df7f020ed3dca4a6a5e895190e90fdd94c8f91ee50c360fa40e2cbcb71838d
+machine_hash: 62fada5e2a996d2e29c581198e32dadbec5fd284d8c79fef65e7611c25c1922a
 product: opencode
 product_name: OpenCode
 record:
@@ -166,7 +167,7 @@ Source: https://opencode.ai/changelog/v1.1.1
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+- Earliest same-theme entry in the tracked set: 2018-09-11 · Descript · [[Changes/Descript/2018-09-11-highlight-text-in-many-colors-press-command-shift-h-to-quick-highlight-descript|Highlighter Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -5,20 +5,20 @@ description: 'OpenHands · 2026-11-05 · Apps and Integrations: 3 changes in v1.
   — feat(setup-guide): add a Connect Git step with a tour on the MCP page by @hieptl
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1323
+  lag_days: 2883
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3929e2d2928e05dad913e572cb81ddea5f967ae494200db02d5d9ea48e74cfd
+machine_hash: a635608417a12c9000bb3d79ec5f283b3236e8174dce290dd9ea0bbab1bc87b8
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
-  and Integrations changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
   Integrations changes in 1.19.0]]'
+- '[[Changes/Microsoft 365 Copilot/2026-11-04-user-can-use-hubspot-connector-in-researcher-web-microsoft-365-copilot-extensibi|User
+  can use HubSpot Connector in Researcher Web (Microsoft 365 Copilot extensibility)]]'
 - '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
   and Integrations changes in v2026.11.1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
@@ -92,13 +92,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps and Integrations changes in v2026.11.1]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12 Apps and Integrations changes in rust-v0.167.0]]
+- Later: 2026-11-05 · Qoder · [[Changes/Qoder/2026-11-05-2-apps-and-integrations-changes-in-qoder-0-5-5|2 Apps and Integrations changes in Qoder 0.5.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

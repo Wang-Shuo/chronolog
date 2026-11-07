@@ -4,20 +4,20 @@ date: '2026-06-15'
 description: 'Codex CLI · 2026-06-15 · Reliability and Performance: 3 changes in 0.140.0
   — Improved responsiveness for large repositories and long sessions by preserving…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1278
+  lag_days: 2765
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd888a3f4cbe7ead960a302a415225a799accec8fa1dd939dbf08c562f72cf3d
+machine_hash: 0596eded5e8e6dc7e4bc34081083bfac267b94febf18a268497e91b03ec14ad4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,13 +104,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed up branch and HEAD detection in warm sessions]]
-- Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]
+- Later: 2026-06-16 · Z.ai API · [[Changes/Z.ai API/2026-06-16-achieves-open-source-sota-performance-on-coding-and-long-horizon-task-benchmarks|Achieves open-source SOTA performance on coding and long-horizon task benchmarks…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'v0 · 2026-01-14 · Reliability and Performance: Improved front-end performance
   across the application'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1126
+  lag_days: 2613
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 293ec9866362f652926a6272eee7dec92abc7308d892945aa62dfbc5890f7faf
+machine_hash: 8635bd4f86d36805457843de8ad7aeaa3148898dbf6d3dd4485031bf12c1365b
 product: v0
 product_name: v0
 record:
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2 Reliability and Performance changes in v1.13.8]]
+- Earlier: 2026-01-14 · Z.ai API · [[Changes/Z.ai API/2026-01-14-the-update-significantly-enhances-performance-in-knowledge-intensive-scenarios-w|The update significantly enhances performance in knowledge-intensive scenarios…]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

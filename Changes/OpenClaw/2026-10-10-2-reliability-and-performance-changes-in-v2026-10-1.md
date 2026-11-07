@@ -4,20 +4,20 @@ date: '2026-10-10'
 description: 'OpenClaw · 2026-10-10 · Reliability and Performance: 2 changes in v2026.10.1
   — Node diagnostics help operators investigate memory pressure with heap details…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
-    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening
+    Projects is now much faster]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1395
+  lag_days: 2882
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c50a703acb69b6c98f4f9ba2c6e7fd5a7c61de3df287f0237d0e10036b7f570
+machine_hash: ba93f16cd8722a29e7ab0ef3504a7dfd8dbfd07c63cada400e91bc3a76d95873
 product: openclaw
 product_name: OpenClaw
 record:
@@ -112,13 +112,13 @@ Source: https://docs.openclaw.ai/releases/2026.10.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5 Reliability and Performance changes in v0.12.0]]
-- Later: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused background model upgrade for embedding and other request performance,]]
+- Later: 2026-10-10 · Qoder · [[Changes/Qoder/2026-10-10-fast-models-get-faster-responses-with-less-waiting-for-a-smoother-conversation-e|Fast models: Get faster responses with less waiting for a smoother conversation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+- Earliest same-theme entry in the tracked set: 2018-11-19 · Descript · [[Changes/Descript/2018-11-19-opening-projects-is-now-much-faster|Opening Projects is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

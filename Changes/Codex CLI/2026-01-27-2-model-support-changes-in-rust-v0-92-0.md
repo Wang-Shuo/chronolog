@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7012d1bf8ba7b0b39036d4f05064daddfad9e4813aa5525429d16af878293212
+machine_hash: 9cc553a5da3d75b4ed6307157787a0ed91bf8e27b85cea3677241d7b2a673c7a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]
-- Later: 2026-01-27 · Ollama · [[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New ollama launch clawdbot command for launching Clawdbot using Ollama models]]
+- Later: 2026-01-27 · Microsoft 365 Copilot · [[Changes/Microsoft 365 Copilot/2026-01-27-copilot-chat-model-selector-now-offers-gpt-5-2-android-windows-ios-mac-web-micro|Copilot Chat model selector now offers GPT-5.2 Android, Windows, iOS, Mac…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

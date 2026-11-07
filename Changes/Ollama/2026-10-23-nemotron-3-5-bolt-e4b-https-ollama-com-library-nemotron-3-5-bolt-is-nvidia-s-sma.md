@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Ollama · 2026-10-23 · Context Window: [Nemotron 3.5 Bolt E4B](https://ollama.com/library/nemotron-3.5-bolt)
   is NVIDIA’s smaller, Gemma 4-based vision-language…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
-    Context Window changes in 0.2.9]]'
+  first_in_tracked: '[[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click
+    to select a range]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1268
+  lag_days: 2592
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85f196d1aa1dc0fee6b8bcc8358225f64591b38391b81fe4fc3e3f2661c8fb55
+machine_hash: 63d1eaeeb33bf356e0d575ff19d498c210a9e1f2420295fcd8b2e05394b24288
 product: ollama
 product_name: Ollama
 record:
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+- Earliest same-theme entry in the tracked set: 2019-09-18 · Descript · [[Changes/Descript/2019-09-18-double-click-to-select-a-range|Double-click to select a range]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

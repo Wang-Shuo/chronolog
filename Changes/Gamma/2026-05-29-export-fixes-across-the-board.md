@@ -4,20 +4,20 @@ date: '2026-05-29'
 description: 'Gamma · 2026-05-29 · Presentation Creation: Five improvements to PPTX,
   PDF, and Google Slides exports are live, including background colors that now export…'
 diffusion:
-  first_in_tracked: '[[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste
-    images from Google Slides and Google Docs]]'
+  first_in_tracked: '[[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import
+    PowerPoint presentations]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 716
+  lag_days: 1785
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: presentation-creation
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: da9c24488a186b3bb28c4c897e662aa896ed70e4d0179640e62224aac25e563a
+machine_hash: 803632783557d132e49a8c9fa6d56f581aa4ade9090700b6cf34002dccd3c420
 product: gamma
 product_name: Gamma
 record:
@@ -45,8 +45,7 @@ record:
   title: Export fixes across the board
   type: change
 related_changes:
-- '[[Changes/OpenCode/2026-03-12-core-adjust-skill-presentation-to-reduce-token-usage|Core
-  Adjust skill presentation to reduce token usage]]'
+- '[[Changes/HeyGen/2026-04-02-multi-character-support|Multi-character support]]'
 - '[[Changes/Gamma/2026-05-15-your-fonts-travel-with-your-cards-now|Your fonts travel
   with your cards now]]'
 - '[[Changes/Gamma/2026-05-15-consistent-styled-images-are-here|Consistent styled
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-06-12 · Gamma · [[Changes/Gamma/2024-06-12-we-ve-fixed-pasting-images-from-google-slides-google-docs-and-other-third-partie|Paste images from Google Slides and Google Docs]]
+- Earliest same-theme entry in the tracked set: 2021-07-09 · Synthesia · [[Changes/Synthesia/2021-07-09-you-can-now-import-powerpoint-presentations-and-turn-them-into-engaging-videos|Import PowerPoint presentations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

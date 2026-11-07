@@ -5,20 +5,20 @@ description: 'Cursor · 2025-03-23 · Apps and Integrations: 3 changes in Chat t
   Custom modes & Faster indexing — Projects with MCP servers will now prompt users
   to enable…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
-    are announcing experimental support for AI plugins in ChatGPT]]'
+  first_in_tracked: '[[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If
+    you have a recording with each speaker with a different microphone, or saved…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 731
+  lag_days: 2291
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecafe71a31ed08f6750f2dae74e54971eb0e7b0a98f6193c10f6a9f7d6e4aca1
+machine_hash: ec1b38f7191c070b0af51d91f7fbdcf0f2edbcf9b01426fe7290f0841d38288b
 product: cursor
 product_name: Cursor
 record:
@@ -102,13 +102,13 @@ Source: https://cursor.com/changelog/0-48-x
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and Integrations changes in v3.8.0]]
-- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and Integrations changes in v3.8.5]]
+- Later: 2025-03-26 · Notion · [[Changes/Notion/2025-03-26-webhooks-are-here|Webhooks are here!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2018-12-14 · Descript · [[Changes/Descript/2018-12-14-if-you-have-a-recording-with-each-speaker-with-a-different-microphone-or-saved-a|If you have a recording with each speaker with a different microphone, or saved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

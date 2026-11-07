@@ -5,20 +5,19 @@ description: 'ElevenLabs · 2026-10-26 · Editor Experience: 2 changes in Eleven
   updates — 2026-10-26 — **Prompt caching guidance**: The system prompt editor flags
   system…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
-    Editor Experience changes in 0.0.37]]'
+  first_in_tracked: '[[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1322
+  lag_days: 2906
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71c45a0db63127b5769d3351a53b22692bd46f6a79629b26118209e5724eaa24
+machine_hash: cae3150f7f3f5e6a6e7db4b881af9545881feca7c2b544f96fcfb6f5d56bb450
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -113,7 +112,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+- Earliest same-theme entry in the tracked set: 2018-11-11 · Descript · [[Changes/Descript/2018-11-11-tab-to-play-pause|TAB to play/pause]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'ChatGPT · 2026-07-13 · Voice and Audio: ChatGPT is available again on
   WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
-    Voice and Audio changes in 0.3.7]]'
+  first_in_tracked: '[[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support
+    for Inline Notes]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1099
+  lag_days: 2926
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 286a064653ca0cc4b45657860d2d96ee820feab8c936a93db222bc298aa8c9c4
+machine_hash: 1ac7d2d4e7f4a6297de1de6826c0bc27b7c5b67f7cf73d4c6d0449db56793b82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,11 @@ record:
   title: ChatGPT returns to WhatsApp in the EEA
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-music|Music]]'
 - '[[Changes/ElevenLabs/2026-07-06-workspaces-9376f0|Workspaces]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
+- '[[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore
+  the new Voices page]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
+- Earlier: 2026-07-09 · Synthesia · [[Changes/Synthesia/2026-07-09-explore-stock-voices-by-language-preview-with-your-own-script-and-download-audio|Explore the new Voices page]]
 - Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice and Audio changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
+- Earliest same-theme entry in the tracked set: 2018-07-09 · Descript · [[Changes/Descript/2018-07-09-type-in-parentheses-to-add-notes-to-your-script-that-don-t-affect-the-audio-text|Support for Inline Notes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

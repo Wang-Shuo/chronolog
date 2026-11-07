@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 92289087049eb5a298aa6ac5bd2d7f8a252b3d69a2139ab3644796af46259f8a
+machine_hash: 913016144185f5d085c525df19cdc5bcdd1dedcca1f54ea5c64916713672dffc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,10 @@ record:
     User-Agent is now…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-06-29-elevenagents-a80e26|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-06-29-elevenagents-d1c29a|ElevenAgents]]'
+- '[[Changes/Kimi Code/2026-06-29-add-kimi-code-custom-headers-for-custom-outbound-llm-request-headers-and-send-th|Add
+  KIMI_CODE_CUSTOM_HEADERS for custom outbound LLM request headers, and send…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: agent-mode
@@ -110,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-elevenagents-d1c29a|ElevenAgents]]
+- Earlier: 2026-06-29 · Kimi Code · [[Changes/Kimi Code/2026-06-29-add-kimi-code-custom-headers-for-custom-outbound-llm-request-headers-and-send-th|Add KIMI_CODE_CUSTOM_HEADERS for custom outbound LLM request headers, and send…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent Mode changes in v1.0.67]]
 <!-- chronolog:end -->
 

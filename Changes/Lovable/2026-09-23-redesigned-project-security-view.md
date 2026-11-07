@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'Lovable · 2026-09-23 · Safety and Privacy: The project [Security view](https://docs.lovable.dev/features/security-view.md)
   now explains what each finding means…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
-    mode for opting out of storing any kind of data on our servers]]'
+  first_in_tracked: '[[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke
+    Application Access]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1256
+  lag_days: 2248
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 29
+  tracked_products_count: 37
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8803cce14a3b3dd1cb69a15045670d3a99113820c12bc07ca1da6846a174d977
+machine_hash: 24ba254effa09142c2298f8ab751e290a8e8dbe7123a471d2446029f4c6ae72e
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,10 @@ record:
   title: Redesigned project Security view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-today-we-re-launching-two-cursor-bots-for-the-last-mile-of-shipping-code-rollout-af394f|Cursor
-  launches two Cursor bots for the last mile of shipping code]]'
 - '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
 - '[[Changes/Cursor/2026-09-23-findings|Findings]]'
+- '[[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden
+  workspace security]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -92,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-findings|Findings]]
+- Earlier: 2026-09-23 · Kimi Code · [[Changes/Kimi Code/2026-09-23-harden-workspace-security-block-file-tools-from-accessing-files-outside-the-work|Harden workspace security]]
 - Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety and Privacy changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+- Earliest same-theme entry in the tracked set: 2020-07-28 · Descript · [[Changes/Descript/2020-07-28-in-the-case-of-your-account-security-being-compromised-revoke-access-to-your-acc|Revoke Application Access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->
